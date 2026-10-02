@@ -1,0 +1,49 @@
+                    First-time Filer After Incorporation, Amalgamation, or Winding-up                                                  Schedule 24
+                            of a Subsidiary into a Parent (2023 and later tax years)
+                                                                                                                                          Code 2301
+                                                                                                                                    Protected B
+                                                                                                                                   when completed
+
+Corporation's name                                                                             Business number                   Tax year-end
+
+                                                                                                                             Year  Month Day
+
+This schedule must be filed by corporations for the first year of filing after incorporation, amalgamation, or by parent corporations filing for the first time after
+winding-up a subsidiary corporation(s) under section 88 of the federal Income Tax Act during the current tax year.
+
+            Part 1 ­ Type of operation
+
+ 100 For those corporations filing for the first time after incorporation or amalgamation, please identify the type of operation that applies to your corporation:
+
+01 Crown corporation that is an agent of His Majesty    10 Mutual fund corporation
+02 Life insurance corporation                           11 Mortgage investment corporation
+03 Deposit insurance corporation                        12 Travelling corporation
+04 General insurance corporation                        13 Subject corporation
+05 Co-operative corporation                             14 Labour-sponsored venture capital corporation
+06 Credit union                                         15 Investment public corporation subject to Part IV tax
+07 Bank                                                 16 Crown corporation that is not an agent of His Majesty
+09 Investment public corporation                        17 Non-resident insurer exempt from Part XIII withholding tax
+                                                        99 Other ­ if none of the previous descriptions apply
+
+           Part 2 ­ First year of filing after amalgamation
+
+For the first year of filing after an amalgamation, please provide the following information:
+
+                    Name of predecessor corporation(s)                                                               Business number
+                                         200                                                        (If a corporation is not registered, enter NR)
+
+                                                                                                                               300
+
+           Part 3 ­ First year of filing after wind-up of subsidiary corporation(s)
+
+For the parent corporation filing for the first time after winding-up a subsidiary corporation (s) under section 88 of the federal Income Tax Act, please provide
+the following information:
+
+                    Name of subsidiary corporation(s)                     Business number                       Commencement       Date of wind-up
+                                     400                (If a corporation is not registered, enter NR)          date of wind-up    (YYYY-MM-DD)
+                                                                                                                (YYYY-MM-DD)
+                                                                                   500                                                    700
+                                                                                                                        600
+
+T2 SCH 24 E (23)                                       (Ce formulaire est disponible en français.)              Page 1 of 1
+

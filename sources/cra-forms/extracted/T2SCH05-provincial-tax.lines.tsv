@@ -1,0 +1,162 @@
+line	caption
+402	Corporations not specified below
+403	Salaries and wages Gross revenue
+404	Insurance corporations
+407	Railway corporations (Note 2) No entry required Gross revenue
+409	Airline corporations Equated track miles/kilometres Gross ton miles/kilometres
+411	Bus and truck operators The method of allocation depends on the business line – see the Regulations.
+413	Ship operators Capital cost of fixed assets (Note 3) Revenue plane miles/kilometres (Note 4)
+100	Enter the regulation that applies (402 to 413) from page 1.
+129	Total
+200	Newfoundland and Labrador tax before credits (from Schedule 307)
+205	Newfoundland and Labrador offshore tax (from Schedule 307)
+500	Newfoundland and Labrador political contribution tax credit
+891	Contribution
+501	Newfoundland and Labrador foreign tax credit (from Schedule 21)
+504	Newfoundland and Labrador venture capital tax credit (from Schedule 308)
+505	Newfoundland and Labrador direct equity tax credit (from Schedule 303)
+507	Newfoundland and Labrador resort property investment tax credit (from Schedule 304)
+506	Newfoundland and Labrador non-refundable green technology tax credit (from Schedule 311)
+508	Newfoundland and Labrador non-refundable manufacturing and processing investment tax credit (from Schedule 310)
+518	Newfoundland and Labrador capital tax on financial institutions (from Schedule 305)
+523	Newfoundland and Labrador refundable manufacturing and processing investment tax credit (from Schedule 310)
+526	Newfoundland and Labrador refundable green technology tax credit (from Schedule 311)
+520	Newfoundland and Labrador research and development tax credit (from Schedule 301)
+521	Newfoundland and Labrador film and video industry tax credit
+821	Certificate number
+522	Newfoundland and Labrador interactive digital media tax credit
+840	Certificate number
+524	Newfoundland and Labrador all-spend film and video production tax credit
+842	Certificate number
+209	Net Newfoundland and Labrador tax payable or refundable tax credit (amount 1D minus amount 1E)
+210	Prince Edward Island Prince Edward Island tax before credits (from Schedule 322)
+528	Prince Edward Island foreign tax credit (from Schedule 21)
+530	Prince Edward Island corporate investment tax credit (from Schedule 321)
+214	Net Prince Edward Island tax payable (line 210 minus amount 2A) (if negative, enter "0")
+215	Nova Scotia tax before credits (from Schedule 346)
+220	Nova Scotia offshore tax (from Schedule 346)
+221	Recapture of Nova Scotia research and development tax credit (from Schedule 340)
+554	Nova Scotia foreign tax credit (from Schedule 21)
+562	Nova Scotia innovation equity tax credit (from Schedule 349)
+563	Nova Scotia venture capital tax credit (from Schedule 350)
+570	Nova Scotia food bank tax credit for farmers (from Schedule 2)
+556	Nova Scotia corporate tax reduction for new small businesses (from Schedule 341)
+834	Certificate number
+222	Nova Scotia financial institutions capital tax (from Schedule 352)
+566	Nova Scotia research and development tax credit (from Schedule 340)
+567	Nova Scotia digital media tax credit
+838	Certificate number
+568	Nova Scotia capital investment tax credit
+841	Certificate number
+569	Nova Scotia digital animation tax credit
+839	Certificate number
+224	Net Nova Scotia tax payable or refundable tax credit (amount 3D minus 3E)
+225	New Brunswick tax before credits (from Schedule 366)
+573	Recapture of New Brunswick research and development tax credit (from Schedule 360)
+576	New Brunswick foreign tax credit (from Schedule 21)
+578	New Brunswick small business investor tax credit (from Schedule 367)
+597	New Brunswick research and development tax credit (from Schedule 360)
+229	Net New Brunswick tax payable or refundable tax credit (amount 4C minus amount 4D)
+270	Ontario Ontario basic income tax (from Schedule 500)
+276	Ontario transitional tax debits and credits (from Schedule 506)
+277	Recapture of Ontario research and development tax credit (from Schedule 508)
+281	Repayment of Ontario made manufacturing investment tax credit (from Schedule 572)
+406	Ontario tax credit for manufacturing and processing (from Schedule 502)
+408	Ontario foreign tax credit (from Schedule 21)
+410	Ontario credit union tax reduction (from Schedule 500)
+415	Ontario political contributions tax credit (from Schedule 525)
+416	Ontario research and development tax credit (from Schedule 508)
+418	Ontario corporate minimum tax credit (from Schedule 510)
+420	Ontario community food program donation tax credit for farmers (from Schedule 2)
+421	Non-refundable Ontario made manufacturing investment tax credit (from Schedule 572)
+278	Ontario corporate minimum tax (from Schedule 510)
+280	Ontario special additional tax on life insurance corporations (from Schedule 512)
+450	Ontario qualifying environmental trust tax credit
+452	Ontario co-operative education tax credit (from Schedule 550)
+456	Ontario computer animation and special effects tax credit (from Schedule 554)
+458	Ontario film and television tax credit (from Schedule 556)
+460	Ontario production services tax credit (from Schedule 558)
+462	Ontario interactive digital media tax credit (from Schedule 560)
+466	Ontario book publishing tax credit (from Schedule 564)
+468	Ontario innovation tax credit (from Schedule 566)
+470	Ontario business-research institute tax credit (from Schedule 568)
+472	Ontario regional opportunities investment tax credit (from Schedule 570)
+474	Refundable Ontario made manufacturing investment tax credit (from Schedule 572)
+476	Ontario shortline railway investment tax credit
+290	Net Ontario tax payable or refundable tax credit (amount 5I minus amount 5J)
+230	Manitoba tax before credits (from Schedule 383)
+601	Manitoba foreign tax credit (from Schedule 21)
+602	Manitoba rental housing construction tax credit (from Schedule 394)
+605	Manitoba non-refundable manufacturing investment tax credit (from Schedule 381)
+606	Manitoba non-refundable research and development tax credit (from Schedule 380)
+607	Manitoba non-refundable odour-control tax credit (from Schedule 385)
+608	Manitoba small business venture capital tax credit (from Schedule 387)
+609	Manitoba non-refundable cooperative development tax credit (from Schedule 390)
+611	Manitoba cultural industries printing tax credit
+613	Manitoba refundable research and development tax credit (from Schedule 380)
+614	Manitoba interactive digital media tax credit
+615	Manitoba book publishing tax credit (from Schedule 389)
+619	Manitoba green energy equipment tax credit
+620	Manitoba film and video production tax credit (from Schedule 388)
+621	Manitoba refundable manufacturing investment tax credit (from Schedule 381)
+622	Manitoba paid work experience tax credit (from Schedule 384)
+327	Manitoba community enterprise development tax credit
+328	Manitoba child care centre development tax credit
+889	Certificate number
+329	Manitoba rental housing construction incentive tax credit
+887	Certificate number
+234	Net Manitoba tax payable or refundable tax credit (amount 6B minus amount 6C)
+235	Saskatchewan tax before credits (from Schedule 411)
+624	Saskatchewan political contribution tax credit
+890	Contribution
+625	Saskatchewan foreign tax credit (from Schedule 21)
+626	Saskatchewan manufacturing and processing profits tax reduction (from Schedule 404)
+631	Saskatchewan non-refundable research and development tax credit (from Schedule 403)
+641	Saskatchewan qualifying environmental trust tax credit
+644	Saskatchewan refundable manufacturing and processing investment tax credit (from Schedule 402)
+645	Saskatchewan refundable research and development tax credit (from Schedule 403)
+239	Net Saskatchewan tax payable or refundable tax credit (amount 7B minus amount 7C)
+240	British Columbia tax before credits (from Schedule 427)
+241	Recapture of British Columbia scientific research and experimental development (SR&ED) tax credit (from Form T666)
+650	British Columbia foreign tax credit (from Schedule 21)
+651	British Columbia logging tax credit
+683	British Columbia farmers' food donation tax credit (from Schedule 2)
+656	British Columbia small business venture capital tax credit
+880	Credit at the end of previous tax year
+883	Credit transferred on an amalgamation
+881	Current-year credit
+882	Certificate number (from Form SBVC 10)
+659	British Columbia SR&ED non-refundable tax credit (from Form T666)
+670	British Columbia qualifying environmental trust tax credit
+671	British Columbia film and television tax credit (from Form T1196)
+672	British Columbia production services tax credit (from Form T1197)
+673	British Columbia mining exploration tax credit (from Schedule 421)
+674	British Columbia SR&ED refundable tax credit (from Form T666)
+665	British Columbia book publishing tax credit (amount on line 886 multiplied by 90%)
+886	Base amount of Publishing Support contributions received in the tax year (excluding other supplementary amounts such as the export and recovery supplement)
+679	British Columbia training tax credit (from Schedule 428)
+680	British Columbia interactive digital media tax credit (from Schedule 429)
+681	British Columbia shipbuilding and ship repair industry tax credit (from Schedule 430)
+685	British Columbia clean buildings tax credit
+884	Certificate number
+244	Net British Columbia tax payable or refundable tax credit (amount 8C minus amount 8D)
+245	Yukon tax before credits (from Schedule 443)
+675	Yukon political contribution tax credit
+897	Contribution
+676	Yukon foreign tax credit (from Schedule 21)
+677	Yukon manufacturing and processing profits tax credit (from Schedule 440)
+698	Yukon research and development tax credit (from Schedule 442)
+699	Yukon general business carbon price rebate (from Schedule 444)
+696	Yukon mining business carbon price rebate (from Schedule 444)
+249	Net Yukon tax payable or refundable tax credit (amount 9B minus amount 9C)
+250	Northwest Territories tax before credits (from Schedule 461)
+700	Northwest Territories political contribution tax credit
+898	Contribution
+701	Northwest Territories foreign tax credit (from Schedule 21)
+254	Net Northwest Territories tax payable (line 250 minus amount 10A) (if negative, enter "0")
+260	Nunavut tax before credits (from Schedule 481)
+725	Nunavut political contribution tax credit
+899	Contribution
+730	Nunavut foreign tax credit (from Schedule 21)
+264	Net Nunavut tax payable (line 260 minus amount 11A) (if negative, enter "0")
+255	Net provincial and territorial tax payable or refundable tax credits

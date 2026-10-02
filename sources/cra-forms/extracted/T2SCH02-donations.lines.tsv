@@ -1,0 +1,29 @@
+line	caption
+239	Charitable donations expired after five tax years
+240	Charitable donations at the beginning of the current tax year (amount 1A minus line 239)
+250	Charitable donations transferred on an amalgamation or the wind-up of a subsidiary
+210	Total charitable donations made in the current year
+255	Adjustment for an acquisition of control
+260	Amount applied in the current year against taxable income (cannot be more than amount 2H in Part 2)
+280	Charitable donations closing balance (amount 1D minus line 260)
+225	Taxable capital gains arising in respect of gifts of capital property included in Part 1 (Note 2)
+235	Amount 2B or 2C, whichever is less
+439	Gifts of certified cultural property expired after five tax years
+440	Gifts of certified cultural property at the beginning of the current tax year (amount 3A minus line 439)
+450	Gifts of certified cultural property transferred on an amalgamation or the wind-up of a subsidiary
+410	Total gifts of certified cultural property in the current year
+455	Adjustment for an acquisition of control
+460	Amount applied in the current year against taxable income
+480	Gifts of certified cultural property closing balance (amount 3C minus amount 3D)
+540	Gifts of certified ecologically sensitive land at the beginning of the current tax year (amount 4A minus line 539)
+520	Total current-year gifts of certified ecologically sensitive land
+555	Adjustment for an acquisition of control
+560	Amount applied in the current year against taxable income
+580	Gifts of certified ecologically sensitive land closing balance (amount 4C minus amount 4D)
+639	Additional deduction for gifts of medicine expired after five tax years
+640	Additional deduction for gifts of medicine at the beginning of the current tax year (amount 5A minus line 639)
+602	Proceeds of disposition
+600	Eligible amount of gifts
+655	Adjustment for an acquisition of control
+660	Amount applied in the current year against taxable income
+680	Additional deduction for gifts of medicine closing balance (amount 5E minus amount 5F) (Note 3)

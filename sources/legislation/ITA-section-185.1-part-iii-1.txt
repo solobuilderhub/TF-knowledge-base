@@ -1,0 +1,316 @@
+ITA section 185.1 — Part III.1 tax on excessive eligible dividend designations
+Source: https://laws-lois.justice.gc.ca/eng/acts/i-3.3/section-185.1.html
+Retrieved: 2026-08-08 (Act current to 2026-06-17, last amended 2026-04-01)
+Used by: packages/ca-tax/src/t2/schedules/schedule55-part3-1.ts
+==============================================================================
+
+Tax on excessive eligible dividend designations
+
+185.1 (1) A corporation that has made an excessive eligible dividend designation in respect of an eligible dividend paid by it at any time in a taxation year shall, on or before the corporation’s balance-due day for the taxation year, pay a tax under this Part for the taxation year equal to the total of
+
+(a) 20% of the excessive eligible dividend designation, and
+
+(b) if the excessive eligible dividend designation arises because of the application of paragraph (c) of the definition excessive eligible dividend designation in subsection 89(1), 10% of the excessive eligible dividend designation.
+
+Marginal note:
+Election to treat excessive eligible dividend designation as an ordinary dividend
+
+(2) If, in respect of an excessive eligible dividend designation that is not described in paragraph (1)(b) and that is made by a corporation in respect of an eligible dividend (in this subsection and subsection (3) referred to as the “original dividend”) paid by it at a particular time, the corporation would, if this Act were read without reference to this subsection, be required to pay a tax under subsection (1), and it elects in prescribed manner on or before the day that is 90 days after the day of sending the notice of assessment in respect of that tax that would otherwise be payable under subsection (1), the following rules apply:
+
+(a) notwithstanding the definition eligible dividend in subsection 89(1), the amount of the original dividend paid by the corporation is deemed to be the amount, if any, by which
+
+(i) the amount of the original dividend, determined without reference to this subsection
+
+exceeds
+
+(ii) the amount claimed by the corporation in the election not exceeding the excessive eligible dividend designation, determined without reference to this subsection;
+
+(b) an amount equal to the amount claimed by the corporation in the election is deemed to be a separate taxable dividend (other than an eligible dividend) that was paid by the corporation immediately before the particular time;
+
+(c) each shareholder of the corporation who at the particular time held any of the issued shares of the class of shares in respect of which the original dividend was paid is deemed
+
+(i) not to have received the original dividend, and
+
+(ii) to have received at the particular time
+
+(A) as an eligible dividend, the shareholder’s pro rata portion of the amount of any dividend determined under paragraph (a), and
+
+(B) as a taxable dividend (other than an eligible dividend) the shareholder’s pro rata portion of the amount of any dividend determined under paragraph (b); and
+
+(d) a shareholder’s pro rata portion of a dividend paid at any time on a class of the shares of the capital stock of a corporation is that proportion of the dividend that the number of shares of that class held by the shareholder at that time is of the number of shares of that class outstanding at that time.
+
+Marginal note:
+Concurrence with election
+
+(3) An election under subsection (2) in respect of an original dividend is valid only if
+
+(a) it is made with the concurrence of the corporation and all its shareholders
+
+(i) who received or were entitled to receive all or any portion of the original dividend, and
+
+(ii) whose addresses were known to the corporation; and
+
+(b) either
+
+(i) it is made on or before the day that is 30 months after the day on which the original dividend was paid, or
+
+(ii) each shareholder described in subparagraph (a)(i) concurs with the election, in which case, notwithstanding subsections 152(4) to (5), any assessment of the tax, interest and penalties payable by each of those shareholders for any taxation year shall be made that is necessary to take the corporation’s election into account.
+
+Marginal note:
+Exception for non-taxable shareholders
+
+(4) If each shareholder who, in respect of an election made under subsection (2), is deemed by subsection (2) to have received a dividend at a particular time is also, at the particular time, a person all of whose taxable income is exempt from tax under Part I,
+
+(a) subsection (3) does not apply to the election; and
+
+(b) the election is valid only if it is made on or before the day that is 30 months after the day on which the original dividend was paid.
+
+[NOTE: Application provisions are not included in the consolidated textsee relevant amending Acts and regulations.] 2007, c. 2, s. 512010, c. 25, s. 49
+Previous Version
+Select page
+Table of Contents
+1 ... 6
+7
+8
+9 ... 11
+12
+12.1 ... 12.5
+12.6 ... 13
+14 ... 15
+15.1 ... 16.1
+17
+17.1 ... 18
+18.1 ... 18.2
+18.21
+18.3 ... 18.4
+19 ... 20
+20.01 ... 20.2
+20.3 ... 22
+23 ... 27.1
+28 ... 31
+32 ... 34.2
+34.3 ... 37
+37.1 ... 39
+39.1 ... 40
+41 ... 44
+44.1
+45 ... 47.1
+48 ... 50
+51 ... 53
+54
+54.1 ... 55
+56
+56.1 ... 56.4
+57 ... 59
+59.1 ... 60
+60.001 ... 60.021
+60.022 ... 60.1
+60.11 ... 61.3
+61.4 ... 63
+64 ... 66
+66.1
+66.2
+66.21
+66.3 ... 66.4
+66.5 ... 66.7
+66.8 ... 67.2
+67.3 ... 69
+70
+72 ... 73
+74.1 ... 74.4
+74.5 ... 75.1
+75.2 ... 79
+79.1 ... 80
+80.01 ... 80.02
+80.03 ... 80.04
+80.1 ... 80.2
+80.3 ... 80.4
+80.5 ... 81
+82 ... 84
+84.1
+84.2 ... 85
+85.1
+86 ... 87
+88
+88.1 ... 89
+90
+91
+92 ... 93
+93.1 ... 93.3
+93.4
+94
+94.1 ... 95
+96
+97 ... 98
+98.1 ... 100
+101 ... 104
+105 ... 107
+107.1 ... 107.4
+108
+110
+110.1
+110.2 ... 110.6
+110.61
+110.62
+110.7 ... 111
+111.1 ... 112
+113 ... 115
+115.1 ... 116
+117 ... 118
+118.01 ... 118.041
+118.05 ... 118.1
+118.2
+118.3 ... 118.5
+118.6 ... 118.8
+118.81 ... 120.1
+120.2 ... 120.4
+121 ... 122.1
+122.2 ... 122.5
+122.51 ... 122.61
+122.62 ... 122.7
+122.71 ... 122.9
+122.91 ... 122.92
+122.93 ... 123.6
+124 ... 125
+125.1 ... 125.21
+125.3 ... 125.4
+125.5 ... 125.6
+125.7
+126
+126.1 ... 127
+127.1 ... 127.2
+127.3 ... 127.4
+127.41 ... 127.421
+127.43 ... 127.44
+127.45
+127.46
+127.47 ... 127.48
+127.49
+127.491
+127.5 ... 127.52
+127.53 ... 128
+128.1
+128.2 ... 129
+130 ... 130.1
+131
+132
+132.1 ... 132.2
+133
+134 ... 135.1
+135.2
+136 ... 137
+137.1 ... 137.2
+138
+138.1 ... 138.2
+139 ... 139.1
+139.2 ... 142.2
+142.3 ... 142.5
+142.51 ... 142.6
+142.7
+143 ... 143.1
+143.2 ... 143.3
+143.4 ... 144
+144.1
+145 ... 146
+146.01
+146.02
+146.1
+146.2 ... 146.3
+146.4
+146.5 ... 146.6
+147
+147.1
+147.2 ... 147.3
+147.4 ... 147.5
+148
+148.1 ... 149
+149.01 ... 149.1
+149.2 ... 150
+150.1 ... 152
+153
+154 ... 157
+157.1 ... 160
+160.01 ... 160.2
+160.21 ... 161
+161.1 ... 162
+163
+163.1 ... 163.3
+164
+164.1 ... 167
+168 ... 172
+173 ... 180.2
+181 ... 181.1
+181.2 ... 181.3
+181.4 ... 183.3
+183.4 ... 185.2
+186 ... 187.3
+187.4 ... 188.1
+188.2 ... 190
+190.1 ... 190.13
+190.14 ... 191
+191.1 ... 191.4
+191.5 ... 193
+194 ... 195
+196 ... 199
+200 ... 204.1
+204.2
+204.3 ... 204.7
+204.8 ... 204.81
+204.82 ... 204.85
+204.86 ... 204.94
+205 ... 207.01
+207.02 ... 207.07
+207.1 ... 207.5
+207.6 ... 207.7
+207.71 ... 209
+210 ... 211
+211.1 ... 211.6
+211.7 ... 211.92
+211.93 ... 212
+212.1 ... 212.2
+212.3
+213 ... 214
+215 ... 217
+218 ... 219
+219.1 ... 220
+221 ... 223
+223.1 ... 225.1
+225.2 ... 227
+227.1 ... 231.1
+231.2 ... 231.6
+231.7 ... 233.1
+233.2 ... 233.4
+233.5 ... 235
+236 ... 237.1
+237.2 ... 237.3
+237.4 ... 237.5
+238 ... 241
+242 ... 244.1
+244.2 ... 245
+246 ... 247
+248
+249 ... 249.1
+250 ... 251
+251.1 ... 251.2
+252 ... 256
+256.1 ... 259
+260
+261
+262 ... 265
+266 ... 270
+271 ... 273
+274 ... 280
+281 ... 285
+286 ... 295
+SCHEDULE : Listed Corporations
+Related Provisions
+Amendments not in force
+Previous Amendments
+Page Details
+Date modified: ﻿2026-08-06
+ 
+Justice Laws Website
+Constitutional Documents
+Related Resources
+Consolidated Acts and Regulations
+S

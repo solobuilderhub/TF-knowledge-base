@@ -1,0 +1,79 @@
+                  Agreement Among Associated Canadian-Controlled Private Corporations                                                                                                        Schedule 23
+                              to Allocate the Business Limit (2019 and later tax years)                                                                                                           Code 1901
+
+                                                                                                                                                                                             Protected B
+                                                                                                                                                                                           when completed
+
+· For use by a Canadian-controlled private corporation (CCPC) to identify all associated corporations and to assign a percentage for each associated
+
+  corporation. This percentage will be used to allocate the business limit for the small business deduction. Information from this schedule will
+  also be used to determine the date the balance of tax is due and to calculate the reduction to the business limit.
+
+· An associated CCPC that has more than one tax year ending in a calendar year must file an agreement for each tax year ending in that
+
+  calendar year.
+
+  Column 1: Enter the legal name of each of the corporations in the associated group, including those deemed to be associated under subsection 256(2) of
+                  the Income Tax Act.
+
+  Column 2: Provide the business number for each corporation (if a corporation is not registered, enter "NR").
+
+  Column 3: Enter the association code from the list below that applies to each corporation:
+
+                  1 ­ Associated for purposes of allocating the business limit (unless association code 5 applies)
+
+                  2 ­ CCPC that is a third corporation as referred to in subsection 256(2) and has filed Schedule 28, Election not to be an Associated
+                       Corporation Through a Third Corporation
+
+                  3 ­ Non-CCPC that is a third corporation
+
+                  4 ­ Associated non-CCPC
+
+                  5 ­ Associated CCPC to which association code 1 does not apply because a third corporation has filed Schedule 28
+
+  Column 4: Enter the business limit for the year of each corporation in the associated group. Enter "0" if the corporation has association code 2, 3 or 4 in
+                  column 3.
+
+  Column 5: Assign a percentage to allocate the business limit to each corporation that has association code 1 in column 3. The total of all
+                  percentages in column 5 cannot exceed 100%.
+
+  Column 6: Enter the business limit allocated to each corporation by multiplying the amount in column 4 by the percentage in column 5. Add all business
+                  limits allocated in column 6 and enter the total at line A.
+                  Ensure that the total at line A does not exceed $500,000.
+
+Allocating the business limit
+
+Date filed (do not use this area) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 025         Year Month Day
+Enter the calendar year the agreement applies to . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 050                      Year
+
+Is this an amended agreement for the above calendar year that is intended to replace                                                                                                  Yes             No
+an agreement previously filed by any of the associated corporations listed below? . . . . . . . . . . . . . . . . . . . . . . . . . . . . 075
+
+                     1           2                        3                                        4                     5                                                                    6
+Name of associated corporations                                                       Business limit for the  Percentage of the                                                       Business limit
+                                 Business number of Association
+                    100                                                                  year before the        business limit                                                          allocated *
+                                 associated corporations  code                               allocation                 %                                                                     $
+                                                                                                   $
+                                                                                                                        350                                                                  400
+                                 200                      300
+
+                                                                                                                                                                               Total                      A
+
+Business limit reduction under subsection 125(5.1) of the Act
+The business limit reduction is calculated in the small business deduction area of the T2 return. One of the factors used in this calculation is the "large
+corporation amount" at line 415 of the T2 return. The amount at line 415 is determined using the formula 0.225% x (C ­ $10,000,000). Another factor is the
+"adjusted aggregate investment income" from lines 744 and 745 of Schedule 7, Aggregate Investment Income and Income Eligible for the Small Business
+Deduction. Details of these formulas and variable C are in subsection 125(5.1) of the Act.
+
+* Each corporation will enter on line 410 of the T2 return, the amount allocated to it in column 6. However, if the corporation's tax year is less than 51 weeks,
+  prorate the amount in column 6 by the number of days in the tax year divided by 365, and enter the result on line 410 of the T2 return.
+
+Special rules for business limit
+Special rules apply under subsection 125(5) if a CCPC has more than one tax year ending in the same calendar year and it is associated in more than one of
+those tax years with another CCPC that has a tax year ending in that calendar year. The business limit for the second or later tax year will be equal to the
+lesser of: the business limit determined for the first tax year ending in the calendar year or the business limit determined for the second or later tax year
+ending in the same calendar year.
+
+T2 SCH 23 E (19)                      (Ce formulaire est disponible en français.)
+

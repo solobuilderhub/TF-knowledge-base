@@ -1,0 +1,902 @@
+Income Tax Regulations (C.R.C., c. 945)Full Document:  HTMLFull Document: Income Tax Regulations (Accessibility Buttons available) | XMLFull Document: Income Tax Regulations [5562 KB] |  PDFFull Document: Income Tax Regulations [8020 KB]Regulations are current to 2026-06-17  and last amended on 2026-03-26. Previous Versions
+Go to full pageTable of Contents
+Marginal note:Immediate expensing1100 (0.1) For the purposes of paragraph 20(1)(a) of the Act, a deduction is allowed in computing an eligible person or partnership’s income for each taxation year equal to the lesser of(a) the eligible person or partnership’s immediate expensing limit for the taxation year,(b) the undepreciated capital cost to the eligible person or partnership as of the end of the taxation year (before making any deduction under this Part for the taxation year) of property that is designated immediate expensing property for the taxation year, and(c) if the eligible person or partnership is not a Canadian-controlled private corporation, the amount of income, if any, earned from the source of income that is a business or property (computed without regard to paragraph 20(1)(a) of the Act) in which the relevant designated immediate expensing property is used for the eligible person or partnership’s taxation year.Marginal note:Undepreciated capital cost — immediate expensing(0.2) Before computing any other deduction permitted under this Part and Schedules II to VI, the amount of any deduction made under subsection (0.1) by an eligible person or partnership in respect of a designated immediate expensing property of a prescribed class shall be deducted from the undepreciated capital cost of the particular class to which the property belongs.Marginal note:Expenditures excluded from paragraph (0.1)(b)(0.3) For the purposes of paragraph (0.1)(b), in respect of property of a class in Schedule II that is immediate expensing property of an eligible person or partnership solely because of subparagraph (c)(i) of the definition immediate expensing property in subsection 1104(3.1), amounts incurred by any person or partnership in respect of the property are not to be included in determining the undepreciated capital cost to the eligible person or partnership as of the end of the taxation year (before making any deduction under this Part for the taxation year) of property that is designated immediate expensing property for the taxation year if the amounts are incurred before April 19, 2021 (if the eligible person or partnership is a Canadian-controlled private corporation) or before 2022 (if the eligible person or partnership is an individual or Canadian partnership), unless(a) the property was acquired by an eligible person or partnership from another person or partnership (referred to in this paragraph as the “transferee” and the “transferor”, respectively)(i) if the transferee is a Canadian-controlled private corporation, after April 18, 2021, or(ii) if the transferee is an individual or a Canadian partnership, after December 31, 2021;(b) the transferee was either(i) the eligible person or partnership, or(ii) a person or partnership that does not deal at arm’s length with the eligible person or partnership; and(c) the transferor(i) dealt at arm’s length with the transferee, and(ii) held the property as inventory.(1) For the purposes of paragraphs 8(1)(j) and (p) and 20(1)(a) of the Act, the following deductions are allowed in computing a taxpayer’s income for each taxation year:Rates(a) subject to subsection (2), such amount as the taxpayer may claim in respect of property of each of the following classes in Schedule II not exceeding in respect of property(i) of Class 1, 4 per cent,(ii) of Class 2, 6 per cent,(iii) of Class 3, 5 per cent,(iv) of Class 4, 6 per cent,(v) of Class 5, 10 per cent,(vi) of Class 6, 10 per cent,(vii) of Class 7, 15 per cent,(viii) of Class 8, 20 per cent,(ix) of Class 9, 25 per cent,(x) of Class 10, 30 per cent,(x.1) of Class 10.1, 30 per cent,(xi) of Class 11, 35 per cent,(xii) of Class 12, 100 per cent,(xii.1) of Class 14.1, 5 per cent,(xiii) of Class 16, 40 per cent,(xiv) of Class 17, 8 per cent,(xv) of Class 18, 60 per cent,(xvi) of Class 22, 50 per cent,(xvii) of Class 23, 100 per cent,(xviii) of Class 25, 100 per cent,(xix) of Class 26, 5 per cent,(xx) of Class 28, 30 per cent,(xxi) of Class 30, 40 per cent,(xxii) of Class 31, 5 per cent,(xxiii) of Class 32, 10 per cent,(xxiv) of Class 33, 15 per cent,(xxv) of Class 35, 7 per cent,(xxvi) of Class 37, 15 per cent,(xxvii) of Class 41, 25 per cent,(xxvii.1) of Class 41.1, 25 per cent,(xxvii.2) of Class 41.2, 25 per cent,(xxviii) of Class 42, 12 per cent,(xxix) of Class 43, 30 per cent,(xxix.1) of Class 43.1, 30 per cent,(xxix.2) of Class 43.2, 50 per cent,(xxx) of Class 44, 25 per cent,(xxxi) of Class 45, 45 per cent,(xxxii) of Class 46, 30 per cent,(xxxiii) of Class 47, 8 per cent,(xxxiv) of Class 48, 15 per cent,(xxxv) of Class 49, 8 per cent,(xxxvi) of Class 50, 55 per cent,(xxxvii) of Class 51, 6 per cent,(xxxviii) of Class 52, 100 per cent,(xxxix) of Class 53, 50 per cent,(xl) of Class 54, 30 per cent,(xli) of Class 55, 40 per cent,(xlii) of Class 56, 30 per cent,(xliii) of Class 57, 8 per cent,(xliv) of Class 58, 20 per cent,(xlv) of Class 59, 100 per cent, and(xlvi) of Class 60, 30 per cent,of the undepreciated capital cost to the taxpayer as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;Class 1(a.1) where a separate class is prescribed by subsection 1101(5b.1) for a property of a taxpayer that is a building and at least 90 per cent of the floor space of the building is used at the end of the taxation year for the manufacturing or processing in Canada of goods for sale or lease, such amount as the taxpayer may claim not exceeding six per cent of the undepreciated capital cost to the taxpayer of the property of that class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);(a.2) where a separate class is prescribed by subsection 1101(5b.1) for a property of a taxpayer that is a building, at least 90 per cent of the floor space of the building is used at the end of the taxation year for a non-residential use in Canada and an additional allowance is not allowed for the year under paragraph (a.1) in respect of the property, such amount as the taxpayer may claim not exceeding two per cent of the undepreciated capital cost to the taxpayer of the property of that class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);(a.3) any additional amount that the taxpayer may claim in respect of property that is used as part of an eligible liquefaction facility for which a separate class is prescribed by subsection 1101(5b.2), not exceeding the lesser of(i) the income for the taxation year from the taxpayer’s eligible liquefaction activities in respect of the eligible liquefaction facility (taking into consideration any deduction under paragraph (yb) and before making any deduction under this paragraph), and(ii) 6% of the undepreciated capital cost to the taxpayer of property of that separate class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);(a.4) if a separate class is prescribed by subsection 1101(1ac.1) for a property of a taxpayer that is a new purpose-built residential rental throughout the taxation year, such amount as the taxpayer may claim not exceeding six per cent of the undepreciated capital cost to the taxpayer of the property of that class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);Class 13(b) such amount as the taxpayer may claim in respect of the capital cost to the taxpayer of property of Class 13 in Schedule II, not exceeding(i) if the capital cost of the property was incurred in the taxation year and after November 12, 1981,(A) if the property is either an accelerated investment incentive property and the capital cost of the property was incurred before 2024, or a reaccelerated investment incentive property and the capital cost of the property was incurred before 2030, the lesser of(I) 150 per cent of the amount for the year calculated in accordance with Schedule III, and(II) the amount determined for paragraph 1(b) of Schedule III, and(B) if the property is neither an accelerated investment incentive property nor a reaccelerated investment incentive property and is not described in any of subparagraphs (b)(iii) to (v) of the description of F in subsection (2), 50 per cent of the amount for the year calculated in accordance with Schedule III, and(ii) in any other case, the amount for the year calculated in accordance with Schedule III,and, for the purposes of this paragraph and Schedule III, the capital cost to a taxpayer of a property shall be deemed to have been incurred at the time at which the property became available for use by the taxpayer;Class 14(c) such amount as he may claim in respect of property of Class 14 in Schedule II not exceeding the lesser of(i) the total of(A) the aggregate of the amounts for the year obtained by apportioning the capital cost to the taxpayer of each property over the life of the property remaining at the time the cost was incurred,(B) if the property is accelerated investment incentive property, the portion of the amount determined under clause (A) that is in respect of the property multiplied by(I) 0.5, if the property becomes available for use in the year and before 2024, and(II) 0.25, if the property becomes available for use in the year and after 2023, and(C) if the property is reaccelerated investment incentive property, the portion of the amount determined under clause (A) that is in respect of the property multiplied by(I) 0.5, if the property becomes available for use in the year and before 2030, and(II) 0.25, if the property becomes available for use in the year and after 2029, and(ii) the undepreciated capital cost to him as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;Additional Allowances — Class 14.1(c.1) for a taxation year that ends before 2027, such additional amount as the taxpayer may claim in respect of property of Class 14.1 of Schedule II not exceeding(i) 2% of the particular amount by which the undepreciated capital cost of the class at the beginning of 2017 exceeds the total of all amounts each of which is(A) the amount of a deduction taken under paragraph 20(1)(a) of the Act in respect of the class for a preceding taxation year, and(B) equal to three times the amount of the capital cost of a property deemed by subsection 13(39) of the Act to be acquired by the taxpayer in the year or a preceding year, and(ii) the amount determined by the formulaA − BwhereAis the lesser of(A) $ 500, and(B) the undepreciated capital cost of the class to the taxpayer as of the end of the year (before making any deduction under paragraph 20(1)(a) of the Act in respect of the class for the year), andBis the total of all amounts deductible for the year under paragraph 20(1)(a) of the Act in respect of the class because of subparagraph (i) or (a)(xii.1);In Lieu of Double Depreciation(d) such additional amount as he may claim not exceeding in the case of property described in each of the classes in Schedule II, the lesser of(i) one-half the amount that would have been allowed to him in respect of property of that class under subparagraph 6(n)(ii) of the Income War Tax Act if that act were applicable to the taxation year, and(ii) the undepreciated capital cost to him as of the end of the taxation year (before making any deduction under this paragraph for the taxation year) of property of the class;Timber Limits and Cutting Rights(e) such amount as he may claim not exceeding the amount calculated in accordance with Schedule VI in respect of the capital cost to him of a property, other than a timber resource property, that is a timber limit or a right to cut timber from a limit;Class 15(f) such amount as he may claim not exceeding the amount calculated in accordance with Schedule IV in respect of the capital cost to him of property of Class 15 in Schedule II;Industrial Mineral Mines(g) such amount as he may claim not exceeding the amount calculated in accordance with Schedule V in respect of the capital cost to him of a property that is an industrial mineral mine or a right to remove industrial minerals from an industrial mineral mine;(h) [Repealed, SOR/78-377, s. 3]Additional Allowances — Fishing Vessels(i) such additional amount as he may claim in the case of property of a separate class prescribed by subsection 1101(2) not exceeding the lesser of(i) the amount by which the depreciation that could have been taken on the property, if the Orders in Council referred to in that subsection were applicable to the taxation year, exceeds the amount allowed under paragraph (a) in respect of the property, and(ii) the undepreciated capital cost to him as of the end of the taxation year (before making any deduction under this paragraph for the taxation year) of property of the class;Additional Allowances — Classes 1, 2, 3, and 6(j) and (k) [Repealed, SOR/95-244, s. 1]Additional Allowances — Certified Productions(l) such additional amount as he may claim in respect of property for which a separate class is prescribed by subsection 1101(5k) not exceeding the lesser of(i) the aggregate of his income for the year from that property and from property described in paragraph (n) of Class 12 in Schedule II, determined before making any deduction under this paragraph, and(ii) the undepreciated capital cost to him of property of that separate class as of the end of the year before making any deduction under this paragraph for the year;Additional Allowance — Canadian Film or Video Production(m) such additional amount as the taxpayer claims in respect of property for which a separate class is prescribed by subsection 1101(5k.1) not exceeding the lesser of(i) the taxpayer’s income for the year from the property, determined before making any deduction under this paragraph, and(ii) the undepreciated capital cost to the taxpayer of the property of that separate class at the end of the year (before making any deduction under this paragraph for the year and computed without reference to subsection (2));Class 19(n) where the taxpayer is a corporation that had a degree of Canadian ownership in the taxation year, or is an individual who was resident in Canada in the taxation year for not less than 183 days, such amount as he may claim in respect of property of Class 19 in Schedule II that was acquired in a particular taxation year not exceeding the lesser of(i) 50 per cent of the capital cost thereof to him, and(ii) the amount by which the capital cost thereof to him exceeds the aggregate of the amounts deducted in respect thereof in computing his income for previous taxation years,but the aggregate of amounts deductible for a taxation year in respect of property acquired in each of the particular taxation years, under this paragraph, shall not exceed the undepreciated capital cost to him as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;(o) where the taxpayer is not entitled to make a deduction under paragraph (n) in computing his income for a taxation year, such amount as he may claim in respect of property of Class 19 in Schedule II not exceeding 20 per cent of the undepreciated capital cost to him as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;Class 20(p) such amount as he may claim in respect of property of Class 20 in Schedule II that was acquired in a particular taxation year not exceeding the lesser of(i) 20 per cent of the capital cost thereof to him, and(ii) the amount by which the capital cost thereof to him exceeds the aggregate of the amounts deducted in respect thereof in computing his income for previous taxation years,but the aggregate of amounts deductible for a taxation year in respect of property acquired in each of the particular taxation years, under this paragraph, shall not exceed the undepreciated capital cost to him as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;Class 21(q) such amount as he may claim in respect of property of Class 21 in Schedule II that was acquired in a particular taxation year not exceeding the lesser of(i) 50 per cent of the capital cost thereof to him, and(ii) the amount by which the capital cost thereof to him exceeds the aggregate of the amounts deducted in respect thereof in computing his income for previous taxation years,but the aggregate of amounts deductible for a taxation year in respect of property acquired in each of the particular taxation years, under this paragraph, shall not exceed the undepreciated capital cost to him as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;(r) to (sa) [Repealed, SOR/78-377, s. 3]Additional Allowances — Grain Storage Facilities(sb) such additional amount as he may claim in respect of property included in Class 3, 6 or 8 in Schedule II(i) that is(A) a grain elevator situated in that part of Canada that is defined in section 2 of the Canada Grain Act as the “Eastern Division” the principal use of which(I) is the receiving of grain directly from producers for storage or forwarding or both,(II) is the receiving and storing of grain for direct manufacture or processing into other products, or(III) has been certified by the Minister of Agriculture to be the receiving of grain that has not been officially inspected or weighed,(B) an addition to a grain elevator described in clause (A),(C) fixed machinery installed in a grain elevator in respect of which, or in respect of an addition to which, an additional amount has been or may be claimed under this paragraph,(D) fixed machinery, designed for the purpose of drying grain, installed in a grain elevator described in clause (A),(E) machinery designed for the purpose of drying grain on a farm, or(F) a building or other structure designed for the purpose of storing grain on a farm,(ii) that was acquired by the taxpayer in the taxation year or in one of the three immediately preceding taxation years, at a time that was after April 1, 1972 but before August 1, 1974, and(iii) that was not used for any purpose whatever before it was acquired by the taxpayer,not exceeding the lesser of(iv) where the property is included in Class 3, 22 per cent of the capital cost thereof, where the property is included in Class 6, 20 per cent of the capital cost thereof or where the property is included in Class 8,(A) 14 per cent of the capital cost thereof in the case of property referred to in clause (i)(C), (D) or (F), and(B) 14 per cent of the lesser of $15,000 and the capital cost thereof in the case of property described in clause (i)(E), and(v) the undepreciated capital cost to him as of the end of the taxation year (before making any deduction under this paragraph for the taxation year) of property of the class;Classes 24, 27, 29 and 34(t) for the taxation year that includes November 12, 1981, such amount as he may claim in respect of property of each of Classes 24, 27, 29 and 34 in Schedule II not exceeding the aggregate of(i) 50 per cent of the lesser of(A) the capital cost to him of all designated property of the class acquired by him in the year, and(B) the undepreciated capital cost to him of property of the class as of the end of the year (computed as if no amount were included in respect of property, other than designated property of the class, acquired after November 12, 1981 and before making any deduction under this paragraph for the year),(ii) the amount, if any, by which the amount determined under clause (i)(B) in respect of the class exceeds the amount determined under clause (i)(A) in respect of the class, and(iii) the lesser of(A) 25 per cent of the capital cost to him of all property, other than designated property, of the class acquired by him in the year, and(B) the undepreciated capital cost to him of property of the class as of the end of the year (before making any deduction under this paragraph for the year);(ta) for taxation years commencing after November 12, 1981, such amount as he may claim in respect of property of each of Classes 24, 27, 29 and 34 in Schedule II not exceeding the aggregate of(i) the aggregate of(A) the lesser of(I) 50 per cent of the capital cost to him of all designated property of the class acquired by him in the year, and(II) the undepreciated capital cost to him of property of the class as of the end of the year (before making any deduction under this paragraph for the year and, where any of the property referred to in subclause (I) was acquired by virtue of a specified transaction, computed as if no amount were included in respect of property, other than designated property of the class acquired by him in the year), and(B) 25 per cent of the lesser of(I) the undepreciated capital cost to him of property of the class as of the end of the year (computed as if no amount were included in respect of designated property of the class acquired by him in the year and before making any deduction under this paragraph for the year), and(II) the capital cost to him of all property, other than designated property, of the class acquired by him in the year, and(ii) the lesser of(A) the amount, if any, by which(I) the undepreciated capital cost to him of property of the class as of the end of the year (before making any deduction under this paragraph for the year)exceeds(II) the capital cost to him of all property of the class acquired by him in the year, and(B) an amount equal to the aggregate of(I) 50 per cent of the capital cost to him of all property of the class acquired by him in the immediately preceding taxation year, other than designated property of the class acquired in a specified transaction, and(II) the amount, if any, by which the amount determined under clause (A) for the year with respect to the class exceeds the aggregate of 75 per cent of the capital cost to him of all property, other than designated property, of the class acquired by him in the immediately preceding taxation year and 50 per cent of the capital cost to him of designated property of the class acquired by him in the immediately preceding taxation year, other than designated property of the class acquired in a specified transaction,and for the purposes of this paragraph and paragraph (t), designated property of a class means(iii) property of the class acquired by him before November 13, 1981,(iv) property deemed to be designated property of the class by virtue of paragraph (2.1)(g) or (2.2)(j), and(v) property described in any of subparagraphs (b)(iii) to (v) of the description of F in subsection (2),and, for the purposes of this paragraph,(vi) specified transaction means a transaction to which subsection 85(5), 87(1), 88(1), 97(4) or 98(3) or (5) of the Act applies, and(vii) subject to paragraph (2.2)(j), a property shall be deemed to have been acquired by a taxpayer at the time at which the property became available for use by the taxpayer;(u) [Repealed, SOR/78-377, s. 3]Canadian Vessels(v) such amount as the taxpayer may claim in respect of property that is(i) a vessel described in subsection 1101(2a),(ii) included in a separate prescribed class because of subsection 13(14) of the Act, or(iii) a property that has been constituted a prescribed class by subsection 24(2) of Chapter 91 of the Statutes of Canada, 1966-67,not exceeding the lesser of(iv) the capital cost of the property to the taxpayer multiplied by(A) 50 per cent, in the case of an accelerated investment incentive property acquired in the year and before 2024 or a reaccelerated investment incentive property acquired in the year and before 2030,(B) 16 2/3 per cent, in the case of property acquired in the year, other than(I) accelerated investment incentive property or reaccelerated investment incentive property, and(II) property described in any of subparagraphs (b)(iii) to (v) of the description of F in subsection (2), and(C) 33 1/3 per cent, in any other case, and(v) the undepreciated capital cost to the taxpayer as of the end of the taxation year (before making any deduction under this paragraph for the taxation year) of property of the class,and, for the purposes of subparagraph (iv), a property shall be deemed to have been acquired by a taxpayer at the time at which the property became available for use by the taxpayer for the purposes of the Act;Additional Allowances — Offshore Drilling Vessels(va) such additional amount as he may claim in respect of property for which a separate class is prescribed by subsection 1101(2b) not exceeding 15 per cent of the undepreciated capital cost to him of property of that class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);Additional Allowances — Class 28(w) subject to section 1100A, such additional amount as he may claim in respect of property described in Class 28 acquired for the purpose of gaining or producing income from a mine or in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101 (4a), not exceeding the lesser of(i) the taxpayer’s income for the taxation year from the mine, before making any deduction under this paragraph, paragraph (x), (y), (y.1), (y.2), (ya), (ya.1) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the Income Tax Application Rules, and(ii) the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (computed without reference to subsection (2) and before making any deduction under this paragraph for the taxation year);(x) subject to section 1100A, such additional amount as he may claim in respect of property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4b), not exceeding the lesser of(i) the taxpayer’s income for the taxation year from the mines, before making any deduction under this paragraph, paragraph (ya), (ya.1) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the Income Tax Application Rules, and(ii) the undepreciated capital cost to him of property of that class as of the end of the taxation year (before making any deduction under this paragraph for the taxation year);Additional Allowances — Class 41(y) such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101(4c), not exceeding the lesser of(i) the taxpayer’s income for the taxation year from the mine, before making any deduction under this paragraph, paragraph (x), (ya), (ya.1) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the Income Tax Application Rules, and(ii) the undepreciated capital cost to the taxpayer of property of that class as of the end of a taxation year (computed without reference to subsection (2) and before making any deduction under this paragraph for the taxation year);Additional Allowances — Class 41.1(y.1) such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101(4e), not exceeding the amount determined by the formulaA × BwhereAis the lesser of(i) the taxpayer’s income for the taxation year from the mine, before making any deduction under this paragraph, paragraph (x), (y), (y.2), (ya), (ya.1) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the Income Tax Application Rules, and(ii) the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year computed(A) without reference to subsection (2),(B) after making any deduction under paragraph (a) for the taxation year, and(C) before making any deduction under this paragraph; andBis the percentage that is the total of(i) that proportion of 100% that the number of days in the taxation year that are before 2011 is of the number of days in the taxation year,(ii) that proportion of 90% that the number of days in the taxation year that are in 2011 is of the number of days in the taxation year,(iii) that proportion of 80% that the number of days in the taxation year that are in 2012 is of the number of days in the taxation year,(iv) that proportion of 60% that the number of days in the taxation year that are in 2013 is of the number of days in the taxation year,(v) that proportion of 30% that the number of days in the taxation year that are in 2014 is of the number of days in the taxation year, and(vi) 0%, if one or more days in the year are after 2014;Additional Allowances — Class 41.2 — Single Mine Properties(y.2) such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101(4g), not exceeding the amount determined by the formulaA × BwhereAis the lesser of(i) the taxpayer’s income for the taxation year from the mine, before making any deduction under this paragraph, paragraph (x), (y), (ya), (ya.1) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the Income Tax Application Rules, and(ii) the undepreciated capital cost to the taxpayer of property of that class as of the end of the year computed(A) without reference to subsection (2),(B) after making any deduction under paragraph (a) for the year, and(C) before making any deduction under this paragraph, andBis the percentage that is the total of(i) that proportion of 100% that the number of days in the year that are before 2017 is of the number of days in the year,(ii) that proportion of 90% that the number of days in the year that are in 2017 is of the number of days in the year,(iii) that proportion of 80% that the number of days in the year that are in 2018 is of the number of days in the year,(iv) that proportion of 60% that the number of days in the year that are in 2019 is of the number of days in the year,(v) that proportion of 30% that the number of days in the year that are in 2020 is of the number of days in the year, and(vi) 0%, if one or more days in the year are after 2020;(ya) such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4d), not exceeding the lesser of(i) the taxpayer’s income for the year from the mines, before making any deduction under this paragraph, section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the Income Tax Application Rules, and(ii) the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (computed without reference to subsection (2) and before making any deduction under this paragraph for the taxation year);Additional Allowances — Class 41.1 — Multiple Mine Properties(ya.1) such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4f), not exceeding the amount determined by the formulaA × BwhereAis the lesser of(i) the taxpayer’s income for the taxation year from the mines, before making any deduction under this paragraph, paragraph (ya) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the Income Tax Application Rules, and(ii) the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year computed(A) without reference to subsection (2),(B) after making any deduction under paragraph (a) for the taxation year, and(C) before making any deduction under this paragraph; andBis the percentage that is the total of(i) that proportion of 100% that the number of days in the taxation year that are before 2011 is of the number of days in the taxation year,(ii) that proportion of 90% that the number of days in the taxation year that are in 2011 is of the number of days in the taxation year,(iii) that proportion of 80% that the number of days in the taxation year that are in 2012 is of the number of days in the taxation year,(iv) that proportion of 60% that the number of days in the taxation year that are in 2013 is of the number of days in the taxation year,(v) that proportion of 30% that the number of days in the taxation year that are in 2014 is of the number of days in the taxation year, and(vi) 0%, if one or more days in the year are after 2014;Additional allowances Class 41.2 — Multiple Mine Properties(ya.2) such additional amount as the taxpayer may claim in respect of a property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4h), not exceeding the amount determined by the formulaA × BwhereAis the lesser of(i) the taxpayer’s income for the taxation year from the mines, before making any deduction under this paragraph, paragraph (ya), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the Income Tax Application Rules, and(ii) the undepreciated capital cost to the taxpayer of property of that class as of the end of the year computed(A) without reference to subsection (2),(B) after making any deduction under paragraph (a) for the year, and(C) before making any deduction under this paragraph, andBis the percentage that is the total of(i) that proportion of 100% that the number of days in the year that are before 2017 is of the number of days in the year,(ii) that proportion of 90% that the number of days in the year that are in 2017 is of the number of days in the year,(iii) that proportion of 80% that the number of days in the year that are in 2018 is of the number of days in the year,(iv) that proportion of 60% that the number of days in the year that are in 2019 is of the number of days in the year,(v) that proportion of 30% that the number of days in the year that are in 2020 is of the number of days in the year, and(vi) 0%, if one or more days in the year are after 2020;Additional Allowance — Class 47(yb) any additional amount as the taxpayer may claim in respect of property used as part of an eligible liquefaction facility for which a separate class is prescribed by subsection 1101(4i), not exceeding the lesser of(i) the income for the taxation year from the taxpayer’s eligible liquefaction activities in respect of the eligible liquefaction facility (taking into consideration any deduction under paragraph (a.3) and before making any deduction under this paragraph), and(ii) 22% of the undepreciated capital cost to the taxpayer of property of that separate class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);Additional Allowances — Railway Cars(z) such additional amount as the taxpayer may claim in respect of property for which a separate class is prescribed by paragraph 1101(5d)(c) not exceeding eight per cent of the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);(z.1a) such additional amount as the taxpayer may claim in respect of property for which a separate class is prescribed by paragraph 1101(5d)(d), (e) or (f), not exceeding six per cent of the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);(z.1b) where throughout the taxation year the taxpayer was a common carrier that owned and operated a railway, such additional amount as the taxpayer may claim in respect of property for which a separate class is prescribed by subsection 1101(5d.1), not exceeding three per cent of the undepreciated capital cost to the taxpayer of property of that class as of the end of the year (before making any deduction under this subsection for the year);(z.1c) where throughout the taxation year the taxpayer was a common carrier that owned and operated a railway, such additional amount as the taxpayer may claim in respect of property for which a separate class is prescribed by subsection 1101(5d.2), not exceeding six percent of the undepreciated capital cost to the taxpayer of property of that class as of the end of the year (before making any deduction under this subsection for the year);Additional Allowances — Railway Track and Related Property(za) such additional amount as he may claim in respect of property for which a separate class is prescribed by subsection 1101(5e) not exceeding 4% of the undepreciated capital cost to him of property of that class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);(za.1) where throughout the taxation year the taxpayer was a common carrier that owned and operated a railway, such additional amount as the taxpayer may claim in respect of property for which a separate class is prescribed by subsection 1101(5e.1), not exceeding six per cent of the undepreciated capital cost to the taxpayer of property of that class as of the end of the year (before making any deduction under this subsection for the year);(za.2) where throughout the taxation year the taxpayer was a common carrier that owned and operated a railway, such additional amount as the taxpayer may claim in respect of property for which a separate class is prescribed by subsection 1101(5e.2), not exceeding five per cent of the undepreciated capital cost to the taxpayer of property of that class as of the end of the year (before making any deduction under this subsection for the year);(zb) such additional amount as he may claim in respect of property for which a separate class is prescribed by subsection 1101(5f) not exceeding 3% of the undepreciated capital cost to him of property of that class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);Additional Allowances — Railway Expansion and Modernization Property(zc) where the taxpayer owns and operates a railway as a common carrier, such additional amount as he may claim in respect of property of a class in Schedule II (in this paragraph referred to as “designated property” of the class)(i) that is(A) included in Class 1 in Schedule II by virtue of paragraph (h) or (i) of that Class,(B) a bridge, culvert, subway or tunnel included in Class 1 in Schedule II that is ancillary to railway track and grading,(C) a trestle included in Class 3 in Schedule II that is ancillary to railway track and grading,(D) included in Class 6 in Schedule II by virtue of paragraph (j) of that Class,(E) machinery or equipment included in Class 8 in Schedule II that is ancillary to(I) railway track and grading, or(II) railway traffic control or signalling equipment, including switching, block signalling, interlocking, crossing protection, detection, speed control or retarding equipment, but not including property that is principally electronic equipment or systems software therefor,(F) machinery or equipment included in Class 8 in Schedule II that(I) was acquired principally for the purpose of maintaining or servicing, or(II) is ancillary to and used as part of,a railway locomotive or railway car,(G) included in Class 10 in Schedule II by virtue of subparagraph (m)(i), (ii) or (iii) of that Class,(H) included in Class 28 in Schedule II by virtue of subparagraph (d)(ii) of that Class (other than property referred to in subparagraph (m)(iv) of Class 10), or(I) included in Class 35 in Schedule II,(ii) that was acquired by him principally for use in or is situated in Canada,(iii) that was acquired by him in respect of the railway in the taxation year or in one of the four immediately preceding taxation years, at a time that was after April 10, 1978 but before 1988, and(iv) that was not used for any purpose whatever before it was acquired by him,not exceeding the lesser of(v) six per cent of the aggregate of the capital cost to him of the designated property of the class, and(vi) the undepreciated capital cost to him as of the end of the taxation year (after making all deductions claimed by him under other provisions of this subsection for the taxation year but before making any deduction under this paragraph for the taxation year) of property of the class.Class 38(zd) such amount as the taxpayer may claim in respect of property of Class 38 in Schedule II not exceeding that percentage which is the aggregate of(i) that proportion of 40 per cent that the number of days in the taxation year that are in 1988 is of the number of days in the taxation year that are after 1987,(ii) that proportion of 35 per cent that the number of days in the taxation year that are in 1989 is of the number of days in the taxation year, and(iii) that proportion of 30 per cent that the number of days in the taxation year that are after 1989 is of the number of days in the taxation yearof the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (before making any deduction under this paragraph for the taxation year);Class 39(ze) such amount as the taxpayer may claim in respect of property of Class 39 in Schedule II not exceeding that percentage which is the aggregate of(i) that proportion of 40 per cent that the number of days in the taxation year that are in 1988 is of the number of days in the taxation year that are after 1987,(ii) that proportion of 35 per cent that the number of days in the taxation year that are in 1989 is of the number of days in the taxation year,(iii) that proportion of 30 per cent that the number of days in the taxation year that are in 1990 is of the number of days in the taxation year, and(iv) that proportion of 25 per cent that the number of days in the taxation year that are after 1990 is of the number of days in the taxation yearof the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (before making any deduction under this paragraph for the taxation year);Class 40(zf) such amount as the taxpayer may claim in respect of property of Class 40 in Schedule II not exceeding that percentage which is the aggregate of(i) that proportion of 40 per cent that the number of days in the taxation year that are in 1988 is of the number of days in the taxation year that are after 1987,(ii) that proportion of 35 per cent that the number of days in the taxation year that are in 1989 is of the number of days in the taxation year, and(iii) that proportion of 30 per cent that the number of days in the taxation year that are in 1990 is of the number of days in the taxation yearof the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (before making any deduction under this paragraph for the taxation year);Additional Allowance — Year 2000 Computer Hardware and Systems Software(zg) where the taxpayer(i) has elected for the year in prescribed manner,(ii) was not in the year a large corporation, as defined in subsection 225.1(8) of the Act, or a partnership any member of which was such a corporation in a taxation year that included any time that is in the partnership’s year, and(iii) acquired property included in paragraph (f) of Class 10 in Schedule II(A) in the year,(B) after 1997 and before November 1999, and(C) for the purpose of replacing property that was acquired before 1998 that has a material risk of malfunctioning because of the change of the calendar year to 2000 and that is described in paragraph (f) of Class 10, or paragraph (o) of Class 12, in Schedule II,such additional amount as the taxpayer claims in respect of all property described in subparagraph (iii) not exceeding the least of(iv) the amount, if any, by which $50,000 exceeds the total of(A) the total of all amounts each of which is an amount claimed by the taxpayer under this paragraph for a preceding taxation year,(B) the total of all amounts each of which is an amount claimed by the taxpayer for the year or a preceding taxation year under paragraph (zh), and(C) the total of all amounts each of which is an amount claimed under this paragraph or paragraph (zh) by a corporation for a taxation year in which it was associated with the taxpayer,(v) 85% of the capital cost to the taxpayer of all property described in subparagraph (iii), and(vi) the undepreciated capital cost to the taxpayer as of the end of the year (computed without reference to subsection (2) and after making all deductions claimed under other provisions of this subsection for the year but before making any deduction under this paragraph for the year) of property included in Class 10 in Schedule II; andAdditional Allowance — Year 2000 Computer Software(zh) where the taxpayer(i) has elected for the year in prescribed manner,(ii) was not in the year a large corporation, as defined in subsection 225.1(8) of the Act, or a partnership any member of which was such a corporation in a taxation year that included any time that is in the partnership’s year, and(iii) acquired property included in paragraph (o) of Class 12 in Schedule II(A) in the year,(B) after 1997 and before November 1999, and(C) for the purpose of replacing property that was acquired before 1998 that has a material risk of malfunctioning because of the change of the calendar year to 2000 and that is described in paragraph (f) of Class 10, or paragraph (o) of Class 12, in Schedule II,such additional amount as the taxpayer claims in respect of all property described in subparagraph (iii) not exceeding the least of(iv) the amount, if any, by which $50,000 exceeds the total of(A) the total of all amounts each of which is an amount claimed by the taxpayer under this paragraph for a preceding taxation year,(B) the total of all amounts each of which is an amount claimed by the taxpayer for the year or a preceding taxation year under paragraph (zg), and(C) the total of all amounts each of which is an amount claimed under this paragraph or paragraph (zg) by a corporation for a taxation year in which it was associated with the taxpayer,(v) 50% of the capital cost to the taxpayer of all property described in subparagraph (iii), and(vi) the undepreciated capital cost to the taxpayer as of the end of the year (computed without reference to subsection (2) and after making all deductions claimed under other provisions of this subsection for the year but before making any deduction under this paragraph for the year) of property included in Class 12 in Schedule II.(1.1) Despite subsections (0.1), (1) and (3), the amount deductible by a taxpayer for a taxation year in respect of a property that is a specified leasing property at the end of the year is the lesser of(a) the amount, if any, by which the aggregate of(i) all amounts that would be considered to be repayments in the year or a preceding year on account of the principal amount of a loan made by the taxpayer if(A) the taxpayer had made the loan at the time that the property last became a specified leasing property and in a principal amount equal to the fair market value of the property at that time,(B) interest had been charged on the principal amount of the loan outstanding from time to time at the rate, determined in accordance with section 4302, in effect at the earlier of(I) the time, if any, before the time referred to in subclause (II), at which the taxpayer last entered into an agreement to lease the property, and(II) the time that the property last became a specified leasing property(or, where a particular lease provides that the amount paid or payable by the lessee of the property for the use of, or the right to use, the property varies according to prevailing interest rates in effect from time to time, and the taxpayer so elects, in respect of all of the property that is the subject of the particular lease, in the taxpayer’s return of income under Part I of the Act for the taxation year of the taxpayer in which the particular lease was entered into, the rate determined in accordance with section 4302 that is in effect at the beginning of the period for which the interest is being calculated), compounded semi-annually not in advance, and(C) the amounts that were received or receivable by the taxpayer before the end of the year for the use of, or the right to use, the property before the end of the year and after the time it last became a specified leasing property were blended payments of principal and interest, calculated in accordance with clause (B), on the loan applied firstly on account of interest on principal, secondly on account of interest on unpaid interest, and thirdly on account of principal, and(ii) the amount that would have been deductible under this section for the taxation year (in this subparagraph referred to as the “particular year”) that includes the time (in this subparagraph referred to as the “particular time”) at which the property last became a specified leasing property of the taxpayer, if(A) the property had been transferred to a separate prescribed class at the later of(I) the beginning of the particular year, and(II) the time at which the property was acquired by the taxpayer,(B) the particular year had ended immediately before the particular time, and(C) where the property was not a specified leasing property immediately before the particular time, subsection (3) had applied,exceeds(iii) the aggregate of all amounts deducted by the taxpayer in respect of the property by reason of this subsection before the commencement of the year and after the time at which it last became a specified leasing property; and(b) the amount, if any, by which,(i) the aggregate of all amounts that would have been deducted by the taxpayer under this Part in respect of the property under paragraph 20(1)(a) of the Act in computing the income of the taxpayer for the year and all preceding taxation years had this subsection and subsections (11) and (15) not applied, and had the taxpayer, in each such year, deducted under paragraph 20(1)(a) of the Act the maximum amount allowed under this Part, read without reference to this subsection and subsections (11) and (15), in respect of the property,exceeds(ii) the total depreciation allowed to the taxpayer before the commencement of the year in respect of the property.(1.11) In this section and subsection 1101(5n), specified leasing property of a taxpayer at any time means depreciable property (other than exempt property) that is(a) used at that time by the taxpayer or a person with whom the taxpayer does not deal at arm’s length principally for the purpose of gaining or producing gross revenue that is rent or leasing revenue,(b) the subject of a lease at that time to a person with whom the taxpayer deals at arm’s length and that, at the time the lease was entered into, was a lease for a term of more than one year, and(c) the subject of a lease of property where the tangible property, other than exempt property, that was the subject of the lease had, at the time the lease was entered into, an aggregate fair market value in excess of $25,000,but, for greater certainty, does not include intangible property, or for civil law incorporeal property, (including systems software and property referred to in paragraph (w) of Class 10 or paragraph (n) or (o) of Class 12 in Schedule II).(1.12) Despite subsections (0.1), (1) and (1.1), where, in a taxation year, a taxpayer has acquired a property that was not used by the taxpayer for any purpose in that year and the first use of the property by the taxpayer is a lease of the property in respect of which subsection (1.1) applies, the amount allowed to the taxpayer under subsections (0.1) and (1) in respect of the property for the year shall be deemed to be nil.(1.13) For the purposes of this section,(a) exempt property means(i) general purpose office furniture or office equipment included in Class 8 in Schedule II (including, for greater certainty, mobile office equipment such as cellular telephones and pagers) or general purpose electronic data processing equipment and ancillary data processing equipment, included in paragraph (f) of Class 10 in Schedule II, other than any individual piece thereof having a capital cost to the taxpayer in excess of $1,000,000,(i.1) general-purpose electronic data processing equipment and ancillary data processing equipment, included in Class 45, 50 or 52 in Schedule II, other than any individual item of that type of equipment having a capital cost to the taxpayer in excess of $1,000,000,(ii) furniture, appliances, television receivers, radio receivers, telephones, furnaces, hot-water heaters and other similar properties, designed for residential use,(iii) a property that is a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and eight passengers, or a motor vehicle of a type commonly called a van or pick-up truck, or a similar vehicle,(iv) a truck or tractor that is designed for hauling freight on highways,(v) a trailer that is designed for hauling freight and to be hauled under normal operating conditions by a truck or tractor described in subparagraph (iv),(vi) a building or part thereof included in Class 1, 3, 6, 20, 31 or 32 in Schedule II (including component parts such as electric wiring, plumbing, sprinkler systems, air-conditioning equipment, heating equipment, lighting fixtures, elevators and escalators) other than a building or part thereof leased primarily to a lessee that is(A) a person who is exempt from tax by reason of section 149 of the Act,(B) a person who uses the building in the course of carrying on a business the income from which is exempt from tax under Part I of the Act by reason of any provision of the Act, or(C) a Canadian government, municipality or other Canadian public authority,who owned the building or part thereof at any time before the commencement of the lease (other than at any time during a period ending not later than one year after the later of the date the construction of the building or part thereof was completed and the date the building or part thereof was acquired by the lessee),(vii) vessel mooring space, and(viii) property that is included in Class 35 in Schedule II,and for the purposes of subparagraph (i), where a property is owned by two or more persons or partnerships, or any combination thereof, the capital cost of the property to each such person or partnership shall be deemed to be the total of all amounts each of which is the capital cost of the property to such a person or partnership;(a.1) notwithstanding paragraph (a), “exempt property” does not include property that is the subject of a lease if that property had, at the time the lease was entered into, an aggregate fair market value in excess of $1,000,000 and the lessee of the property is(i) a person who is exempt from tax by reason of section 149 of the Act,(ii) a person who uses the property in the course of carrying on a business, the income from which is exempt from tax under Part I of the Act by reason of any provision of the Act,(iii) a Canadian government, or(iv) a person not resident in Canada, except if the person uses the property primarily in the course of carrying on a business in Canada that is not a treaty-protected business;(a.2) for the purposes of paragraph (a.1), if it is reasonable, having regard to all the circumstances, to conclude that one of the main reasons for the existence of two or more leases was to avoid the application of paragraph (a.1) by reason of each such lease being a lease of property where the property that was the subject of the lease had an aggregate fair market value, at the time the lease was entered into, not in excess of $1,000,000, each such lease shall be deemed to be a lease of property that had, at the time the lease was entered into, an aggregate fair market value in excess of $1,000,000;(b) property shall be deemed to be the subject of a lease for a term of more than one year at any time where, at that time(i) the property had been leased by the lessee thereunder, a person with whom the lessee does not deal at arm’s length, or any combination thereof, for a period of more than one year ending at that time, or(ii) it is reasonable, having regard to all the circumstances, to conclude that the lessor thereunder knew or ought to have known that the lessee thereunder, a person with whom the lessee does not deal at arm’s length, or any combination thereof, would lease the property for more than one year; and(c) for the purposes of paragraph (1.11)(c), where it is reasonable, having regard to all the circumstances, to conclude that one of the main reasons for the existence of two or more leases was to avoid the application of subsection (1.1) by reason of each such lease being a lease of property where the tangible property, other than exempt property, that was the subject of the lease had an aggregate fair market value, at the time the lease was entered into, not in excess of $25,000, each such lease shall be deemed to be a lease of tangible property that had, at the time the lease was entered into, an aggregate fair market value in excess of $25,000.(1.14) For the purposes of subsection (1.11) and notwithstanding subsection (1.13), where a taxpayer referred to in subsection (16) so elects in the taxpayer’s return of income under Part I of the Act for a taxation year in respect of the year and all subsequent taxation years, all of the property of the taxpayer that is the subject of leases entered into in those years shall be deemed not to be exempt property for those years and the aggregate fair market value of all of the tangible property that is the subject of each such lease shall be deemed to have been, at the time the lease was entered into, in excess of $25,000.(1.15) Subject to subsection (1.16) and for the purposes of subsection (1.11), where at any time a taxpayer acquires property that is the subject of a lease with a remaining term at that time of more than one year from a person with whom the taxpayer was dealing at arm’s length, the taxpayer shall be deemed to have entered into a lease of the property at that time for a term of more than one year.(1.16) Where, at any time, a taxpayer acquires from a person with whom the taxpayer is not dealing at arm’s length, or by virtue of an amalgamation (within the meaning assigned by subsection 87(1) of the Act), property that was specified leasing property of the person from whom, the taxpayer acquired it, the taxpayer shall, for the purposes of paragraph (1.1)(a) and for the purpose of computing the income of the taxpayer in respect of the lease for any period after the particular time, be deemed to be the same person as, and a continuation of, that person.(1.17) For the purposes of subsections (1.1) and (1.11), where at any particular time a property (in this subsection referred to as a “replacement property”) is provided by a taxpayer to a lessee for the remaining term of a lease as a replacement for a similar property of the taxpayer (in this subsection referred to as the “original property”) that was leased by the taxpayer to the lessee, and the amount payable by the lessee for the use of, or the right to use, the replacement property is the same as the amount that was so payable in respect of the original property, the following rules apply:(a) the replacement property shall be deemed to have been leased by the taxpayer to the lessee at the same time and for the same term as the original property;(b) the amount of the loan referred to in clause (1.1)(a)(i)(A) shall be deemed to be equal to the amount of that loan determined in respect of the original property;(c) the amount determined under subparagraph (1.1)(a)(ii) in respect of the replacement property shall be deemed to be equal to the amount so determined in respect of the original property;(d) all amounts received or receivable by the taxpayer for the use of, or the right to use, the original property before the particular time shall be deemed to have been received or receivable, as the case may be, by the taxpayer for the use of, or the right to use, the replacement property; and(e) the original property shall be deemed to have ceased to be subject to the lease at the particular time.(1.18) For the purposes of subsection (1.1), where for any period of time any amount that would have been received or receivable by a taxpayer during that period in respect of the use of, or the right to use, a property of the taxpayer during that period is not received or receivable by the taxpayer as a consequence of a breakdown of the property during that period and before the lease of that property is terminated, that amount shall be deemed to have been received or receivable, as the case may be, by the taxpayer.(1.19) For the purposes of subsections (1.1) and (1.11), where at any particular time(a) an addition or alteration (in this subsection referred to as “additional property”) is made by a taxpayer to a property (in this subsection referred to as the “original property”) of the taxpayer that is a specified leasing property at the particular time, and(b) as a consequence of the addition or alteration, the aggregate amount receivable by the taxpayer after the particular time for the use of, or the right to use, the original property and the additional property exceeds the amount so receivable in respect of the original property,the following rules apply:(c) the taxpayer shall be deemed to have leased the additional property to the lessee at the particular time,(d) the term of the lease of the additional property shall be deemed to be greater than one year,(e) the prescribed rate in effect at the particular time in respect of the additional property shall be deemed to be equal to the prescribed rate in effect in respect of the lease of the original property at the particular time,(f) subsection (1.11) shall be read without reference to paragraph (c) thereof in respect of the additional property, and(g) the excess described in paragraph (b) shall be deemed to be an amount receivable by the taxpayer for the use of, or the right to use, the additional property.(1.2) For the purposes of subsections (1.1) and (1.11), where at any time(a) a lease (in this subsection referred to as the “original lease”) of property is renegotiated in the course of a bona fide renegotiation, and(b) as a result of the renegotiation, the amount paid or payable by the lessee of the property for the use of, or the right to use, the property is altered in respect of a period after that time (otherwise than by reason of an addition or alteration to which subsection (1.19) applies),the following rules apply:(c) the original lease shall be deemed to have expired and the renegotiated lease shall be deemed to be a new lease of the property entered into at that time, and(d) paragraph (1.13)(b) shall not apply in respect of any period before that time during which the property was leased by the lessee or a person with whom the lessee did not deal at arm’s length.(1.3) For the purposes of subsections (1.1) and (1.11), where a taxpayer leases to another person a building or part thereof that is not exempt property, the references to “one year” in paragraphs (1.11)(b) and (1.13)(b), subsection (1.15) and paragraph (1.19)(d) shall in respect of that building or part thereof be read as references to “three years”.Property Acquired in the Year(2) The amount that a taxpayer may deduct for a taxation year under subsection (1) in respect of property of a class in Schedule II is to be determined as if the undepreciated capital cost to the taxpayer at the end of the taxation year (before making any deduction under subsection (1) for the taxation year) of property of the class were adjusted by adding the positive or negative amount determined by the formulaA(B) + A.1(B.1) − 0.5(C)whereAis, in respect of property of the class that became available for use by the taxpayer in the taxation year and that is accelerated investment incentive property or property acquired before 2025 that is included in any of Classes 54 to 56,(a) if the property is not included in paragraph (1)(v) or in any of Classes 12, 13, 14, 15, 43.1, 43.2, 53, 54, 55, 56 and 59 or in Class 43 in the circumstances described in paragraph (d),(i) 1/2, for property that became available for use by the taxpayer before 2024, and(ii) nil, for property that became available for use by the taxpayer after 2023 (other than property referred to in any of paragraphs (c.1) to (c.3)),(b) if the class is Class 43.1,(i) 2 1/3, for property that became available for use by the taxpayer before 2024,(ii) 1 1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii) 5/6, for property that became available for use by the taxpayer after 2025,(c) if the class is Class 43.2,(i) 1, for property that became available for use by the taxpayer before 2024,(ii) 1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii) 1/10, for property that became available for use by the taxpayer after 2025,(c.1) if the class is Class 44,(i) 3, for property that was acquired and became available for use by the taxpayer after April 15, 2024 and before 2027, and(ii) nil, for property that became available for use by the taxpayer after 2026,(c.2) if the class is Class 46,(i) 2 1/3, for property that was acquired and became available for use by the taxpayer after April 15, 2024 and before 2027, and(ii) nil, for property that became available for use by the taxpayer after 2026,(c.3) if the class is Class 50,(i) 9/11, for property that was acquired and became available for use by the taxpayer after April 15, 2024 and before 2027, and(ii) nil, for property that became available for use by the taxpayer after 2026,(d) if the property is included in Class 53 or — for property acquired after 2025 — is included in Class 43 and would have been included in Class 53 if it had been acquired in 2025,(i) 1, for property that became available for use by the taxpayer before 2024,(ii) 1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii) 5/6, for property included in Class 43 that became available for use by the taxpayer after 2025, and(iv) 1/10, for property included in Class 53 that became available for use by the taxpayer after 2025,(e) if the class is Class 54 or Class 56,(i) 2 1/3, for property that became available for use by the taxpayer before 2024,(ii) 1 1/2, for property that became available for use by the taxpayer in 2024 or 2025, and(iii) 5/6, for property that became available for use by the taxpayer after 2025,(f) if the class is Class 55,(i) 1 1/2, for property that became available for use by the taxpayer before 2024,(ii) 7/8, for property that became available for use by the taxpayer in 2024 or 2025, and(iii) 3/8, for property that became available for use by the taxpayer after 2025, and(g) in any other case, nil;A.1is, in respect of property of the class that became available for use by the taxpayer in the taxation year and that is reaccelerated investment incentive property or property acquired after 2024 that is included in any of Classes 54 to 56,(a) if the property is not included in paragraph (1)(v) or in any of Classes 12, 13, 14, 15, 43.1, 44, 46, 50, 53, 54, 55, 56 and 59 or in Class 43 in the circumstances described in paragraph (f),(i) 1/2, for property that became available for use by the taxpayer before 2030, and(ii) nil, for property that became available for use by the taxpayer after 2029,(b) if the class is Class 43.1,(i) 2 1/3, for property that became available for use by the taxpayer before 2030,(ii) 1 1/2, for property that became available for use by the taxpayer in 2030 or 2031, and(iii) 5/6, for property that became available for use by the taxpayer after 2031,(c) if the class is Class 44,(i) 3, for property that became available for use by the taxpayer before 2027, and(ii) nil, for property that became available for use by the taxpayer after 2026,(d) if the class is Class 46,(i) 2 1/3, for property that became available for use by the taxpayer before 2027, and(ii) nil, for property that became available for use by the taxpayer after 2026,(e) if the class is Class 50,(i) 9/11, for property that became available for use by the taxpayer before 2027, and(ii) nil, for property that became available for use by the taxpayer after 2026,(f) if the property is included in Class 53 or — for property acquired after 2025 — is included in Class 43 and would have been included in Class 53 if it had been acquired in 2025,(i) 1, for property included in Class 53,(ii) 2 1/3, for property included in Class 43 that became available for use by the taxpayer before 2030,(iii) 1 1/2, for property included in Class 43 that became available for use by the taxpayer in 2030 or 2031,(iv) 5/6, for property included in Class 43 that became available for use by the taxpayer after 2031,(g) if the class is Class 54 or Class 56,(i) 2 1/3, for property that became available for use by the taxpayer before 2030,(ii) 1 1/2, for property that became available for use by the taxpayer in 2030 or 2031, and(iii) 5/6, for property that became available for use by the taxpayer after 2031,(h) if the class is Class 55,(i) 1 1/2, for property that became available for use by the taxpayer before 2030,(ii) 7/8, for property that became available for use by the taxpayer in 2030 or 2031, and(iii) 3/8, for property that became available for use by the taxpayer after 2031, and(i) in any other case, nil;Bis the amount determined, in respect of the class, by the formulaD − EwhereDis the total of all amounts, if any, each of which is an amount included in the description of A in the definition undepreciated capital cost in subsection 13(21) of the Act in respect of property of the class that became available for use by the taxpayer in the taxation year and that is accelerated investment incentive property or property acquired before 2025 that is included in any of Classes 54 to 56, andEis the amount, if any, by which the amount determined for G exceeds the amount determined for F in the description of C;B.1is the amount determined, in respect of the class, by the formulaD.1 − E.1whereD.1is the total of all amounts, if any, each of which is an amount included in the description of A in the definition undepreciated capital cost in subsection 13(21) of the Act in respect of property of the class that became available for use by the taxpayer in the taxation year and that is reaccelerated investment incentive property or property acquired after 2024 that is included in any of classes 54 to 56, andE.1is the amount, if any, by which the amount determined for G exceeds the amount determined for F; andCis the amount determined, in respect of the class, by the formulaF − GwhereFis the total of all amounts each of which(a) is an amount added to the undepreciated capital cost to the taxpayer of property of the class(i) because of element A in the definition undepreciated capital cost in subsection 13(21) of the Act in respect of property (other than accelerated investment incentive property or reaccelerated investment incentive property) that was acquired, or became available for use, by the taxpayer in the taxation year, or(ii) because of element C or D in the definition undepreciated capital cost in subsection 13(21) of the Act in respect of an amount that was repaid in the taxation year, and(b) is not in respect of(i) property included in paragraph (1)(v), in paragraph (w) of Class 10 or in any of paragraphs (a) to (c), (e) to (i), (k), (l) and (p) to (s) of Class 12,(ii) property included in any of Classes 13, 14, 15, 23, 24, 27, 29, 34, 52 and 54 to 56,(iii) where the taxpayer was a corporation described in subsection (16) throughout the taxation year, property that was specified leasing property of the taxpayer at that time,(iv) property that was deemed to have been acquired by the taxpayer in a preceding taxation year by reason of the application of paragraph 16.1(1)(b) of the Act in respect of a lease to which the property was subject immediately before the time at which the taxpayer last acquired the property, or(v) property considered to have become available for use by the taxpayer in the taxation year by reason of paragraph 13(27)(b) or (28)(c) of the Act, andGis the total of all amounts each of which is an amount deducted from the undepreciated capital cost to the taxpayer of property of the class(a) because of element F or G in the definition undepreciated capital cost in subsection 13(21) of the Act in respect of property disposed of in the taxation year, or(b) because of element J in the definition undepreciated capital cost in subsection 13(21) of the Act in respect of an amount the taxpayer received or was entitled to receive in the taxation year.Marginal note:Straddle years(2.01) For the purposes of subsection (2),(a) if a taxation year begins in 2023 and ends in 2024, the factor determined for A in subsection (2) is to be replaced by the factor determined by the formula(A(B) + C(D))/(B + D)whereAis the factor otherwise determined for A in subsection (2) for 2023,Bis the amount that would be determined for D in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2023,Cis the factor otherwise determined for A in subsection (2) for 2024, andDis the amount that would be determined for D in subsection (2) if the only property that became available for use by the taxpayer in the taxation were property that became available for use by the taxpayer in 2024; and(b) if a taxation year begins in 2025 and ends in 2026, the factor determined for A in subsection (2) is to be replaced by the factor determined by the formula(A(B) + C(D))/(B + D)whereAis the factor otherwise determined for A in subsection (2) for 2025,Bis the amount that would be determined for D in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2025,Cis the factor otherwise determined for A in subsection (2) for 2026, andDis the amount that would be determined for D in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2026.Marginal note:Straddle years — reaccelerated investment incentive property(2.011) For the purposes of subsection (2),(a) if a taxation year begins in 2029 and ends in 2030, the factor determined for A.1 in subsection (2) (other than for the purposes of paragraphs (c), (d) and (e) of the description of A.1 in subsection (2)) is to be replaced by the factor determined by the formula(A(B) + C(D))/(B + D)whereAis the factor otherwise determined for A.1 in subsection (2) for 2029,Bis the amount that would be determined for D.1 in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2029,Cis the factor otherwise determined for A.1 in subsection (2) for 2030, andDis the amount that would be determined for D.1 in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2030;(b) for the purposes of paragraphs (c), (d) and (e) of the description of A.1 in subsection (2), if a taxation year begins in 2026 and ends in 2027, the factor determined for A.1 in subsection (2) is to be replaced by the factor determined by the formula(A(B) + C(D))/(B + D)whereAis the factor otherwise determined for A.1 in subsection (2) for 2026,Bis the amount that would be determined for D.1 in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2026,Cis the factor otherwise determined for A.1 in subsection (2) for 2027, andDis the amount that would be determined for D.1 in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2027; and(c) if a taxation year begins in 2031 and ends in 2032, the factor determined for A.1 in subsection (2) is to be replaced by the factor determined by the formula(A(B) + C(D))/(B + D)whereAis the factor otherwise determined for A.1 in subsection (2) for 2031,Bis the amount that would be determined for D.1 in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2031,Cis the factor otherwise determined for A.1 in subsection (2) for 2032, andDis the amount that would be determined for D.1 in subsection (2) if the only property that became available for use by the taxpayer in the taxation year were property that became available for use by the taxpayer in 2032.Marginal note:Expenditures excluded from element D(2.02) For the purposes of subsection (2), in respect of property of a class in Schedule II that is accelerated investment incentive property of a taxpayer solely because of subparagraph 1104(4)(b)(i),(a) amounts incurred by any person or partnership in respect of the property are not to be included in determining the amount for D in subsection (2) in respect of the class(i) if the amounts are incurred before November 21, 2018, unless(A) the property was acquired after November 20, 2018 by a person or partnership from another person or partnership (referred to in this subparagraph as the “transferee” and the “transferor”, respectively),(B) the transferee was either(I) the taxpayer, or(II) a person or partnership that does not deal at arm’s length with the taxpayer, and(C) the transferor(I) dealt at arm’s length with the transferee, and(II) held the property as inventory, and(ii) if the amounts are incurred after November 20, 2018 and amounts are deemed to have been deducted under paragraph 20(1)(a) or subsection 20(16), in respect of those amounts incurred, under paragraph 1104(4.1)(b); and(b) any amount excluded from the amount determined for D in subsection (2) in respect of the class because of paragraph (a) is to be included in determining the amount for F in subsection (2) in respect of the class, unless no amount in respect of the property would be so included if the property were not accelerated investment incentive property of the taxpayer.Marginal note:Expenditures excluded from D.1(2.021) For the purposes of subsection (2), in respect of property of a class in Schedule II that is reaccelerated investment incentive property of a taxpayer solely because of subparagraph 1104(4.01)(b)(i),(a) amounts incurred by any person or partnership in respect of the property are not to be included in determining the amount for D.1 in subsection (2) in respect of the class(i) if the amounts are incurred before 2025, unless(A) the property was acquired after 2024 by a person or partnership from another person or partnership (referred to in this subparagraph as the “transferee” and the “transferor”, respectively),(B) the transferee was either(I) the taxpayer, or(II) a person or partnership that does not deal at arm’s length with the taxpayer, and(C) the transferor(I) dealt at arm’s length with the transferee, and(II) held the property as inventory, and(ii) if the amounts are incurred after 2024 and amounts are deemed to have been deducted under paragraph 20(1)(a) or subsection 20(16) of the Act, in respect of those amounts incurred, under paragraph 1104(4.11)(b); and(b) any amount excluded from the amount determined for D.1 in subsection (2) in respect of the class because of paragraph (a) is to be included in determining the amount for F in subsection (2) in respect of the class, unless no amount in respect of the property would be so included if the property were not reaccelerated investment incentive property of the taxpayer.(2.1) Where a taxpayer has, after November 12, 1981 and before 1983, acquired or incurred a capital cost in respect of a property of a class in Schedule II and(a) he was obligated to acquire the property under the terms of an agreement in writing entered into before November 13, 1981 (or, where the property is a property described in Class 31 in Schedule II, before 1982),(b) he or a person with whom he was not dealing at arm’s length commenced the construction, manufacture or production of the property before November 13, 1981 (or, where the property is a property described in Class 31 in Schedule II, before 1982),(c) he or a person with whom he was not dealing at arm’s length had made arrangements, evidenced in writing for the construction, manufacture or production of the property that were substantially advanced before November 13, 1981 and the construction, manufacture or production commenced before June 1, 1982, or(d) he was obligated to acquire the property under the terms of an agreement in writing entered into before June 1, 1982 where arrangements, evidenced in writing, for the acquisition or leasing of the property were substantially advanced before November 13, 1981,the following rules apply:(e) no amount shall be included under paragraph (2)(a) in respect of the property;(f) where the property is a property to which paragraph (1)(b) applies, that paragraph shall be read, in respect of the property, as “such amount, not exceeding the amount for the year calculated in accordance with Schedule III, as he may claim in respect of the capital cost to him of property of Class 13 in Schedule II”;(g) where the property is a property of a class to which paragraph (1)(t) or (ta) applies, the property shall be deemed to be designated property of the class; and(h) where the property is a property described in paragraph (1)(v), subparagraph (iv) thereof shall be read, in respect of the property, as “33 1/3 per cent of the capital cost thereof to him, and”.(2.2) Where a property of a class in Schedule II is acquired by a taxpayer(a) in the course of a reorganization in respect of which, if a dividend were received by a corporation in the course of the reorganization, subsection 55(2) of the Act would not be applicable to the dividend by reason of the application of paragraph 55(3)(b) of the Act, or(b) to (d) [Repealed, SOR/90-22, s. 1](e) from a person with whom the taxpayer was not dealing at arm’s length (otherwise than by virtue of a right referred to in paragraph 251(5)(b) of the Act) at the time the property was acquired,and where(f) the property was depreciable property of the person from whom it was acquired and was owned continuously by that person for the period from(i) a day that was at least 364 days before the end of the taxation year of the taxpayer during which he acquired the property, or(ii) November 12, 1981to the day it was acquired by the taxpayer, or(g) the rules provided in subsection (2.1) or this subsection applied in respect of the property for the purpose of determining the allowance under subsection (1) to which the person from whom the taxpayer acquired the property was entitled,the following rules apply:(h) no amount shall be included in determining an amount for F in subsection (2) in respect of the property;(i) where the property is a property to which paragraph (1)(b) applies, that paragraph shall be read, in respect of the property, as “such amount, not exceeding the amount for the year calculated in accordance with Schedule III, as he may claim in respect of the capital cost to him of property of Class 13 in Schedule II”;(j) where the property is a property of a class to which paragraph (1)(ta) applies,(i) the property shall be deemed to be designated property of the class,(ii) for the purposes of computing the amount determined under paragraph (1)(ta) for any taxation year of the taxpayer ending after the time the property was actually acquired by the taxpayer, the property shall be deemed, other than for the purposes of paragraph (f), to have been acquired by the taxpayer immediately after the commencement of the taxpayer’s first taxation year that commenced after the time that is the earlier of(A) the time the property was last acquired by the transferor of the property, and(B) where the property was transferred in a series of transfers to which this subsection applies, the time the property was last acquired by the first transferor in that series,unless(C) where clause (A) applies, the property was acquired by the taxpayer before the end of the taxation year of the transferor of the property that includes the time at which that transferor acquired the property, or(D) where clause (B) applies, the property was acquired by the taxpayer before the end of the taxation year of the first transferor that includes the time at which that transferor acquired the property,(iii) where the taxpayer is a corporation that was incorporated or otherwise formed after the end of the transferor’s, or where applicable, the first transferor’s, taxation year in which the transferor last acquired the property, the taxpayer shall be deemed, for the purposes of subparagraph (ii),(A) to have been in existence throughout the period commencing immediately before the end of that year and ending immediately after the taxpayer was incorporated or otherwise formed, and(B) to have had, throughout the period referred to in clause (A), fiscal periods ending on the day of the year on which the taxpayer’s first fiscal period ended, and(iv) the property shall be deemed to have become available for use by the taxpayer at the earlier of(A) the time it became available for use by the taxpayer, and(B) if applicable,(I) the time it became available for use by the person from whom the taxpayer acquired the property, determined without reference to paragraphs 13(27)(c) and (28)(d) of the Act, or(II) the time it became available for use by the first transferor in a series of transfers of the same property to which this subsection applies, determined without reference to paragraphs 13(27)(c) and (28)(d) of the Act; and(k) if the property is a property described in paragraph (1)(v), its subparagraph (iv) shall be read, in respect of the property, as “33 1/3 per cent of the capital cost of the property to the taxpayer, and”.(2.21) Where a taxpayer is deemed by a provision of the Act to have disposed of and acquired or reacquired a property,(a) for the purposes of paragraph (2.2)(e) and subsections (19), 1101(lad) and 1102(14) and (14.1), the acquisition or reacquisition shall be deemed to have been from a person with whom the taxpayer was not dealing at arm’s length at the time of the acquisition or reacquisition; and(b) for the purposes of paragraphs (2.2)(f) and (g), the taxpayer shall be deemed to be the person from whom the taxpayer acquired or reacquired the property.(2.3) If a taxpayer has disposed of a property and, because of paragraph (2.2)(h), no amount is required to be included in determining an amount for F in subsection (2) in respect of the property by the person that acquired the property, no amount shall be included by the taxpayer in determining an amount for G in subsection (2) in respect of the disposition of the property.(2.4) For the purposes of subsection (2), where a taxpayer has disposed of property described in Class 10 of Schedule II that would qualify as property described in paragraph (e) of Class 16 of Schedule II if the property had been acquired by the taxpayer after November 12, 1981, the proceeds of disposition of the property shall be deemed to be proceeds of disposition of property described in Class 16 of Schedule II and not of property described in Class 10 of Schedule II.(2.5) Where in a particular taxation year a taxpayer disposes of a property included in Class 10.1 in Schedule II that was owned by the taxpayer at the end of the immediately preceding taxation year,(a) the deduction allowed under subsection (1) in respect of the property in computing the taxpayer’s income for the year shall be determined as if the property had not been disposed of in the particular year and the number of days in the particular year were one-half of the number of days in the particular year otherwise determined; and(b) no amount shall be deducted under subsection (1) in respect of the property in computing the taxpayer’s income for any subsequent taxation year.Taxation Years Less Than 12 Months(3) Where a taxation year is less than 12 months, the amount allowed as a deduction under this section, other than under subsection (0.1) and any of paragraphs (1)(c), (e), (f), (g), (m), (w), (x), (y) and (ya), shall not exceed that proportion of the maximum amount otherwise allowable that the number of days in the taxation year is of 365.(4) Reserved.(5) [Repealed, SOR/78-377, s. 6]Employee’s Automobile or Aircraft(6) [Repealed, SOR/91-673, s. 1](7) Reserved.Railway Sidings(8) Where a taxpayer, other than an operator of a railway system, has made a capital expenditure pursuant to a contract or arrangement with an operator of a railway system under which a railway siding that does not become the taxpayer’s property is constructed to provide service to the taxpayer’s place of business or to a property acquired by the taxpayer for the purpose of gaining or producing income, there is hereby allowed to the taxpayer, in computing income for the taxation year from the business or property, as the case may be, a deduction equal to such amount as he may claim not exceeding four per cent of the amount remaining, if any, after deducting from the capital expenditure the aggregate of all amounts previously allowed as deductions in respect of the expenditure.Patents(9) Where a part or all of the cost of a patent is determined by reference to the use of the patent, in lieu of the deduction allowed under paragraph (1)(c), a taxpayer, in computing his income for a taxation year from a business or property, as the case may be, may deduct such amount as he may claim in respect of property of Class 14 in Schedule II not exceeding the lesser of(a) the aggregate of(i) that part of the capital cost determined by reference to the use of the patent in the year, and(ii) the amount that would be computed under subparagraph (1)(c)(i) if the capital cost of the patent did not include the amounts determined by reference to the use of the patent in that year and previous years; and(b) the undepreciated capital cost to him as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class.(9.1) Where a part or all of the capital cost to a taxpayer of property that is a patent, or a right to use patented information, is determined by reference to the use of the property and that property is included in Class 44 in Schedule II, in lieu of the deduction allowed under paragraph (1)(a), there may be deducted in computing the taxpayer’s income for a taxation year from a business or property such amount as the taxpayer may claim in respect of property of the class not exceeding the lesser of(a) the total of(i) that part of the capital cost that is determined by reference to the use of the property in the year, and(ii) the amount that would be deductible for the year by reason of paragraph (1)(a) in respect of property of the class if the capital cost of property of the class did not include the amounts determined under subparagraph (i) for the year and preceding taxation years; and(b) the undepreciated capital cost to the taxpayer as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class.(10) Reserved.Rental Properties(11) Despite subsections (0.1) and (1), in no case shall the aggregate of deductions, each of which is a deduction in respect of property of a prescribed class owned by a taxpayer that includes rental property owned by him, otherwise allowed to the taxpayer by virtue of subsection (0.1) or (1) in computing his income for a taxation year, exceed the amount, if any, by which(a) the aggregate of amounts each of which is(i) his income for the year from renting or leasing a rental property owned by him, computed without regard to paragraph 20(1)(a) of the Act, or(ii) the income of a partnership for the year from renting or leasing a rental property of the partnership, to the extent of the taxpayer’s share of such income,exceeds(b) the aggregate of amounts each of which is(i) his loss for the year from renting or leasing a rental property owned by him, computed without regard to paragraph 20(1)(a) of the Act, or(ii) the loss of a partnership for the year from renting or leasing a rental property of the partnership, to the extent of the taxpayer’s share of such loss.(12) Subject to subsection (13), subsection (11) does not apply in respect of a taxation year of a taxpayer that was, throughout the year,(a) a life insurance corporation, or a corporation whose principal business was the leasing, rental, development or sale, or any combination thereof, of real property owned by it; or(b) a partnership each member of which was(i) a corporation described in paragraph (a), or(ii) another partnership described in this paragraph.(13) For the purposes of subsection (11), where a taxpayer or partnership has a leasehold interest in a property that is property of Class 1, 3 or 6 in Schedule II by virtue of subsection 1102(5) and the property is leased by the taxpayer or partnership to a person who owns the land, an interest therein or an option in respect thereof, on which the property is situated, this section shall be read without reference to subsection (12) with respect to that property.(14) In this section and section 1101, rental property of a taxpayer or a partnership means(a) a building owned by the taxpayer or the partnership, whether owned jointly with another person or otherwise, or(b) a leasehold interest in real property, if the leasehold interest is property of Class 1, 3, 6 or 13 in Schedule II and is owned by the taxpayer or the partnership,if, in the taxation year in respect of which the expression is being applied, the property was used by the taxpayer or the partnership principally for the purpose of gaining or producing gross revenue that is rent, but, for greater certainty, does not include a property leased by the taxpayer or the partnership to a lessee, in the ordinary course of the taxpayer’s or partnership’s business of selling goods or rendering services, under an agreement by which the lessee undertakes to use the property to carry on the business of selling, or promoting the sale of, the taxpayer’s or partnership’s goods or services.(14.1) For the purposes of subsection (14), gross revenue derived in a taxation year from(a) the right of a person or partnership, other than the owner of a property, to use or occupy the property or a part thereof, and(b) services offered to a person or partnership that are ancillary to the use or occupation by the person or partnership of the property or the part thereofshall be considered to be rent derived in that year from the property.(14.2) Subsection (14.1) does not apply in any particular taxation year to property owned by(a) a corporation, where the property is used in a business carried on in the year by the corporation;(b) an individual, where the property is used in a business carried on in the year by the individual in which he is personally active on a continuous basis throughout that portion of the year during which the business is ordinarily carried on; or(c) a partnership, where the property is used in a business carried on in the year by the partnership if at least 2/3 of the income or loss, as the case may be, of the partnership for the year is included in the determination of the income of(i) members of the partnership who are individuals that are personally active in the business of the partnership on a continuous basis throughout that portion of the year during which the business is ordinarily carried on, and(ii) members of the partnership that are corporations.Leasing Properties(15) Despite subsections (0.1) and (1), in no case shall the aggregate of deductions, each of which is a deduction in respect of property of a prescribed class that is leasing property owned by a taxpayer, otherwise allowed to the taxpayer under subsection (0.1) or (1) in computing his income for a taxation year, exceed the amount, if any, by which(a) the aggregate of amounts each of which is(i) his income for the year from renting, leasing or earning royalties from, a leasing property or a property that would be a leasing property but for subsection (18), (19) or (20) where such property is owned by him, computed without regard to paragraph 20(1)(a) of the Act, or(ii) the income of a partnership for the year from renting, leasing or earning royalties from, a leasing property or a property that would be a leasing property but for subsection (18), (19) or (20) where such property is owned by the partnership, to the extent of the taxpayer’s share of such income,exceeds(b) the aggregate of amounts each of which is(i) his loss for the year from renting, leasing or earning royalties from, a property referred to in subparagraph (a)(i), computed without regard to paragraph 20(1)(a) of the Act, or(ii) the loss of a partnership for the year from renting, leasing or earning royalties from, a property referred to in subparagraph (a)(ii), to the extent of the taxpayer’s share of such loss.(16) Subsection (15) does not apply in respect of a taxation year of a taxpayer that was, throughout the year,(a) a corporation whose principal business was(i) renting or leasing of leasing property or property that would be leasing property but for subsection (18), (19) or (20), or(ii) renting or leasing of property referred to in subparagraph (i) combined with selling and servicing of property of the same general type and description,if the gross revenue of the corporation for the year from such principal business was not less than 90 per cent of the gross revenue of the corporation for the year from all sources; or(b) a partnership each member of which was(i) a corporation described in paragraph (a), or(ii) another partnership described in this paragraph.(17) Subject to subsection (18), in this section and section 1101, leasing property of a taxpayer or a partnership means depreciable property other than(a) rental property,(b) computer tax shelter property, or(c) property referred to in paragraph (w) of Class 10 or in paragraph (n) of Class 12 in Schedule II,where such property is owned by the taxpayer or the partnership, whether jointly with another person or otherwise, if, in the taxation year in respect of which the expression is being applied, the property was used by the taxpayer or the partnership principally for the purpose of gaining or producing gross revenue that is rent, royalty or leasing revenue, but for greater certainty, does not include a property leased by the taxpayer or the partnership to a lessee, in the ordinary course of the taxpayer’s or partnership’s business of selling goods or rendering services, under an agreement by which the lessee undertakes to use the property to carry on the business of selling, or promoting the sale of, the taxpayer’s or partnership’s goods or services.(17.1) For the purposes of subsection (17), where, in a taxation year, a taxpayer or a partnership has acquired a property(a) that was not used for any purpose in that year, and(b) the first use of the property by the taxpayer or the partnership was principally for the purpose of gaining or producing gross revenue that is rent, royalty or leasing revenue,the property shall be deemed to have been used in the taxation year in which it was acquired principally for the purpose of gaining or producing gross revenue that is rent, royalty or leasing revenue.(17.2) For the purposes of subsections (1.11) and (17), gross revenue derived in a taxation year from(a) the right of a person or partnership, other than the owner of a property, to use or occupy the property or a part thereof, and(b) services offered to a person or partnership that are ancillary to the use or occupation by the person or partnership of the property or the part thereofshall be considered to be rent derived in the year from the property.(17.3) Subsection (17.2) does not apply in any particular taxation year to property owned by(a) a corporation, where the property is used in a business carried on in the year by the corporation;(b) an individual, where the property is used in a business carried on in the year by the individual in which he is personally active on a continuous basis throughout that portion of the year during which the business is ordinarily carried on; or(c) a partnership, where the property is used in a business carried on in the year by the partnership if at least 2/3 of the income or loss, as the case may be, of the partnership for the year is included in the determination of the income of(i) members of the partnership who are individuals that are personally active in the business of the partnership on a continuous basis throughout that portion of the year during which the business is ordinarily carried on, and(ii) members of the partnership that are corporations.(18) Leasing property of a taxpayer or a partnership referred to in subsection (17) does not include(a) property that the taxpayer or the partnership acquired before May 26, 1976 or was obligated to acquire under the terms of an agreement in writing entered into before May 26, 1976;(b) property the construction, manufacture or production of which was commenced by the taxpayer or the partnership before May 26, 1976 or was commenced under an agreement in writing entered into by the taxpayer or the partnership before May 26, 1976; or(c) property that the taxpayer or the partnership acquired on or before December 31, 1976 or was obligated to acquire under the terms of an agreement in writing entered into on or before December 31, 1976, if(i) arrangements, evidenced by writing, respecting the acquisition, construction, manufacture or production of the property had been substantially advanced before May 26, 1976, and(ii) the taxpayer or the partnership had before May 26, 1976 demonstrated a bona fide intention to acquire the property for the purpose of gaining or producing gross revenue that is rent, royalty or leasing revenue.(19) Notwithstanding subsection (17), a property acquired by a taxpayer(a) in the course of a reorganization in respect of which, if a dividend were received by a corporation in the course of the reorganization, subsection 55(2) of the Act would not be applicable to the dividend by reason of the application of paragraph 55(3)(b) of the Act, or(a.1) [Repealed, SOR/90-22, s. 1](b) from a person with whom the taxpayer was not dealing at arm’s length (otherwise than by virtue of a right referred to in paragraph 251(5)(b) of the Act) at the time the property was acquired,(c) [Repealed, SOR/90-22, s. 1]that would otherwise be leasing property of the taxpayer, shall be deemed not to be leasing property of the taxpayer if immediately before it was so acquired by the taxpayer, it was, by virtue of subsection (18) or (20) or this subsection, not a leasing property of the person from whom the property was so acquired.(20) Notwithstanding subsection (17), a property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be a leasing property of the taxpayer or partnership, shall be deemed not to be a leasing property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by reason of subsection (18) or (19) or this subsection, not a leasing property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.Computer Tax Shelter Property(20.1) The total of all amounts each of which is a deduction in respect of computer tax shelter property allowed to the taxpayer under subsection (0.1) or (1) in computing a taxpayer’s income for a taxation year shall not exceed the amount, if any, by which(a) the total of all amounts each of which is(i) the taxpayer’s income for the year from a business in which computer tax shelter property owned by the taxpayer is used, computed without reference to any deduction under subsection (1) in respect of such property, or(ii) the income of a partnership from a business in which computer tax shelter property of the partnership is used, to the extent of the share of such income that is included in computing the taxpayer’s income for the year,exceeds(b) the total of all amounts each of which is(i) a loss of the taxpayer from a business in which computer tax shelter property owned by the taxpayer is used, computed without reference to any deduction under subsection (1) in respect of such property, or(ii) a loss of a partnership from a business in which computer tax shelter property of the partnership is used, to the extent of the share of such loss that is included in computing the taxpayer’s income for the year.(20.2) For the purpose of this Part, computer tax shelter property of a person or partnership is depreciable property of a prescribed class in Schedule II that is computer software or property described in Class 50 or 52 where(a) the person’s or partnership’s interest in the property is a tax shelter investment (as defined by subsection 143.2(1) of the Act) determined without reference to subsection (20.1); or(b) an interest in the person or partnership is a tax shelter investment (as defined by subsection 143.2(1) of the Act) determined without reference to subsection (20.1).Certified Films and Video Tapes(21) Notwithstanding subsection (1), where a taxpayer (in this subsection and subsection (22) referred to as the “investor”) has acquired property of Class 10 or 12 in Schedule II that is a certified feature film or certified production (in this subsection and subsection (22) referred to as the “film or tape”), in no case shall the deduction in respect of property of that class otherwise allowed to the investor by virtue of subsection (1) in computing the investor’s income for a particular taxation year exceed the amount that it would be if the capital cost to the investor of the film or tape were reduced by the aggregate of amounts, each of which is(a) where the principal photography or taping of the film or tape is not completed before the end of the particular taxation year, the amount, if any, by which(i) the capital cost to the investor of the film or tape as of the end of the yearexceeds the aggregate of(ii) where the principal photography or taping of the film or tape is completed within 60 days after the end of the year, the amount that may reasonably be considered to be the investor’s proportionate share of the production costs incurred in respect of the film or tape before the end of the year,(iii) where the principal photography or taping of the film or tape is not completed within 60 days after the end of the year, the amount that may reasonably be considered to be the investor’s proportionate share of the lesser of(A) the production costs incurred in respect of the film or tape before the end of the year, and(B) the proportion of the production costs incurred to the date the principal photography or taping is completed that the percentage of the principal photography or taping completed as of the end of the year, as certified by the Minister of Communications, is of 100 per cent, and(iv) the total of amounts determined under paragraphs (b) to (e) in respect of the film or tape as of the end of the year;(b) where, at any time before the later of(i) the date the principal photography or taping of the film or tape is completed, and(ii) the date the investor acquired the film or tape,a revenue guarantee (other than a revenue guarantee that is certified by the Minister of Communications to be a guarantee under which the person who agrees to provide the revenue is a licensed broadcaster or bona fide film or tape distributor) is entered into in respect of the film or tape whereby it may reasonably be considered certain, having regard to all the circumstances, that the investor will receive revenue under the terms of the revenue guarantee, the amount, if any, that may reasonably be considered to be the portion of the revenue that has not been included in the investor’s income in the particular taxation year or a previous taxation year;(c) where, at any time, a revenue guarantee, other than(i) a revenue guarantee in respect of which paragraph (b) applies, or(ii) a revenue guarantee under which the person (in this subsection referred to as the “guarantor”) who agrees to provide the revenue under the terms of the guarantee is a person who does not deal at arm’s length with either the investor or the person from whom the investor acquired the film or tape (in this subsection referred to as the “vendor”) and in respect of which the Minister of Communications certifies that(A) the guarantor is a licenced broadcaster or bona fide film or tape distributor, and(B) the cost of the film or tape does not include any amount for or in respect of the guarantee,is entered into in respect of the film or tape, the amount, if any, that may reasonably be considered to be the portion of the revenue that is to be received by the investor under the terms of the revenue guarantee that has not been included in the investor’s income in the particular taxation year or a preceding taxation year, if(iii) the guarantor and the investor are not dealing at arm’s length,(iv) the vendor and the guarantor are not dealing at arm’s length, or(v) the vendor or a person not dealing at arm’s length with the vendor undertakes in any way, directly or indirectly, to fulfill all or any part of the guarantor’s obligations under the terms of the revenue guarantee;(d) where, at any time, a revenue guarantee, other than a revenue guarantee in respect of which paragraph (b) or (c) applies, is entered into in respect of the film or tape, the amount, if any, that may reasonably be considered to be the portion of the revenue that is to be received by the investor under the terms of the revenue guarantee that(i) is not due to the investor until a time that is more than four years after the first day on which the guarantor has the right to the use of the film or tape, and(ii) has not been included in the investor’s income in the particular taxation year or a previous taxation year; and(e) the portion of any debt obligation of the investor outstanding at the end of the particular year that is convertible into an interest in the film or tape or in the investor.(21.1) Despite subsections (0.1) and (1), where a taxpayer has acquired property described in paragraph (s) of Class 10 in Schedule II, or in paragraph (m) of Class 12 of Schedule II, the deduction in respect of the property otherwise allowed to the taxpayer under subsection (0.1) or (1) in computing the taxpayer’s income for a taxation year shall not exceed the amount that it would be if the capital cost to the taxpayer of the property were reduced by the portion of any debt obligation of the taxpayer outstanding at the end of the year that is convertible into an interest or, for civil law, a right in the property or an interest in the taxpayer.(22) Notwithstanding subsection (1), where an investor has acquired a film or tape after his 1977 taxation year and before 1979 and the principal photography or taping in respect of the film or tape is completed after a particular taxation year and not later than March 1, 1979, in no case shall the deduction in respect of property of Class 12 in Schedule II otherwise allowed to the investor by virtue of subsection (1) in computing his income for the particular taxation year exceed the amount, otherwise determined, if the capital cost to the investor of the film or tape were reduced by the amount, if any, by which(a) the capital cost to the investor of the film or tape as of the end of the yearexceeds(b) the amount that may reasonably be considered to be the investor’s proportionate share of the production costs incurred in respect of the film or tape to March 1, 1979.(23) For the purposes of paragraph (21)(a),(a) in respect of a film or tape acquired in 1987, other than a film or tape in respect of which paragraph (b) applies, the references in paragraph (21)(a) to “within 60 days after the end of the year” shall be read as references to “before July, 1988”; and(b) in respect of a film or tape acquired in 1987 or 1988 that is included in paragraph (n) of Class 12 in Schedule II and that is part of a series of films or tapes that includes another property included in that paragraph, the references in paragraph (21)(a) to “within 60 days after the end of the year” shall be read as references to “before 1989”.Specified Energy Property(24) Despite subsections (0.1) and (1), in no case shall the total of deductions, each of which is a deduction in respect of property of Class 34, 43.1, 43.2, 47 or 48 in Schedule II that is specified energy property owned by a taxpayer, otherwise allowed to the taxpayer under subsection (0.1) or (1) in computing the taxpayer’s income for a taxation year, exceed the amount, if any, by which(a) the total of all amounts each of which is(i) the total of(A) the amount that would be the income of the taxpayer for the year from property described in Class 34, 43.1, 43.2, 47 or 48 in Schedule II (other than specified energy property), or from the business of selling the product of that property, if that income were calculated after deducting the maximum amount allowable in respect of the property for the year under paragraph 20(1)(a) of the Act, and(B) the taxpayer’s income for the year from specified energy property or from the business of selling the product of that property, computed without regard to paragraph 20(1)(a) of the Act, or(ii) the total of(A) the taxpayer’s share of the amount that would be the income of a partnership for the year from property described in Class 34, 43.1, 43.2, 47 or 48 in Schedule II (other than specified energy property), or from the business of selling the product of that property, if that income were calculated after deducting the maximum amount allowable in respect of the property for the year under paragraph 20(1)(a) of the Act, and(B) the income of a partnership for the year from specified energy property or from the business of selling the product of that property of the partnership, to the extent of the taxpayer’s share of that income,exceeds(b) the total of all amounts each of which is(i) the taxpayer’s loss for the year from specified energy property or from the business of selling the product of that property, computed without regard to paragraph 20(1)(a) of the Act, or(ii) the loss of a partnership for the year from specified energy property or from the business of selling the product of that property of the partnership, to the extent of the taxpayer’s share of that loss.(25) Subject to subsections (27) to (29), in this section and section 1101, specified energy property of a taxpayer or partnership (in this subsection referred to as “the owner”) for a taxation year means property of Class 34 in Schedule II acquired by the owner after February 9, 1988 and property of Class 43.1, 43.2, 47 or 48 in Schedule II, other than a particular property(a) acquired to be used by the owner primarily for the purpose of gaining or producing income from a business carried on in Canada (other than the business of selling the product of the particular property) or from another property situated in Canada, or(b) leased in the year, in the ordinary course of carrying on a business of the owner in Canada, to(i) a person who can reasonably be expected to use the property primarily for the purpose of gaining or producing income from a business carried on in Canada (other than the business of selling the product of the particular property) or from another property situated in Canada, or(ii) a corporation or partnership described in subsection (26),where the owner was(iii) a corporation whose principal business was, throughout the year,(A) the renting or leasing of leasing property or property that would be leasing property but for subsection (18), (19) or (20),(B) the renting or leasing of property referred to in clause (A) combined with the selling and servicing of property of the same general type and description, or(C) the manufacturing of property described in Class 34, 43.1, 43.2, 47 or 48 in Schedule II that it sells or leases,and the gross revenue of the corporation for the year from that principal business was not less than 90 per cent of the gross revenue of the corporation for the year from all sources, or(iv) a partnership each member of which was(A) a corporation described in subparagraph (iii) or paragraph (26)(a), or(B) another partnership described in this subparagraph.(26) Subsection (24) does not apply to a taxation year of a taxpayer that was, throughout the year,(a) a corporation whose principal business throughout the year was(i) manufacturing or processing,(ii) mining operations, or(iii) the sale, distribution or production of electricity, natural gas, oil, steam, heat or any other form of energy or potential energy; or(b) a partnership each member of which was(i) a corporation described in paragraph (a), or(ii) another partnership described in this paragraph.(27) Specified energy property of a person or partnership does not include property acquired by the person or partnership after February 9, 1988 and before 1990(a) pursuant to an obligation in writing entered into by the person or partnership before February 10, 1988;(b) pursuant to the terms of a prospectus, preliminary prospectus, registration statement or offering memorandum filed before February 10, 1988 with a public authority in Canada pursuant to and in accordance with the securities legislation of any province;(c) pursuant to the terms of an offering memorandum distributed as part of an offering of securities where(i) the offering memorandum contained a complete or substantially complete description of the securities contemplated in the offering as well as the terms and conditions of the offering of the securities,(ii) the offering memorandum was distributed before February 10, 1988,(iii) solicitations in respect of the sale of the securities contemplated by the offering memorandum were made before February 10, 1988, and(iv) the sale of the securities was substantially in accordance with the offering memorandum; or(d) as part of a project where, before February 10, 1988,(i) some of the machinery or equipment to be used in the project had been acquired, or agreements in writing for the acquisition of that machinery or equipment had been entered into, by or on behalf of the person or partnership, and(ii) an approval had been received by or on behalf of the person or partnership from a government environmental authority in respect of the location of the project.(28) A property acquired by a taxpayer(a) in the course of a reorganization in respect of which, if a dividend were received by a corporation in the course of the reorganization, subsection 55(2) of the Act would not be applicable to the dividend by reason of the application of paragraph 55(3)(b) of the Act, or(b) from a person with whom the taxpayer was not dealing at arm’s length (otherwise than by virtue of a right referred to in paragraph 251(5)(b) of the Act) at the time the property was acquiredthat would otherwise be specified energy property of the taxpayer shall be deemed not to be specified energy property of the taxpayer if, immediately before it was so acquired by the taxpayer, it was not, by virtue of subsection (27), this subsection or subsection (29), specified energy property of the person from whom the property was so acquired.(29) A property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be specified energy property of the taxpayer or partnership, shall be deemed not to be specified energy property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by virtue of subsection (27), (28) or this subsection, not specified energy property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.[NOTE: Application provisions are not included in the consolidated text see relevant amending Acts and regulations.] SOR/78-137, s. 1 SOR/78-377, ss. 3 to 6 SOR/78-948, s. 1 SOR/79-427, s. 1 SOR/80-942, s. 1 SOR/81-470, s. 1 SOR/82-265, s. 1 SOR/83-340, s. 1 SOR/83-432, s. 1 SOR/84-454, s. 1 SOR/84-948, s. 5 SOR/85-13, s. 1 SOR/85-174, s. 1 SOR/86-254, s. 1 SOR/86-1092, ss. 3(F), 4(F) SOR/86-1136, s. 1 SOR/88-392, s. 1 SOR/89-27, s. 1 SOR/90-22, s. 1 SOR/90-257, s. 1 SOR/90-670, s. 1 SOR/91-196, s. 1 SOR/91-673, s. 1 SOR/92-681, s. 3 SOR/94-128, s. 1 SOR/94-140, s. 2 SOR/94-169, s. 1 SOR/94-170, s. 1 SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F) SOR/95-244, s. 1 SOR/97-377, s. 1 SOR/99-179, s. 1 SOR/2000-248, s. 2 SOR/2005-126, s. 1 SOR/2005-371, s. 1 SOR/2005-414, s. 1 SOR/2006-117, s. 1 SOR/2007-19, s. 1 SOR/2009-115, s. 1 SOR/2009-126, s. 1 SOR/2010-93, s. 12 SOR/2011-9, s. 1 2013, c. 34, s. 383, c. 40, s. 100 2015, c. 36, s. 21 SOR/2015-117, s. 1 2016, c. 12, s. 782019, c. 29, s. 522021, c. 23, s. 842022, c. 10, s. 342024, c. 15, s. 79SOR/2024-231, s. 52026, c. 3, s. 1032026, c. 3, s. 123(F)
+Previous Version
+
+ 
+Table of Contents
+
+Income Tax Regulations1 - Short Title
+
+2 - Interpretation
+
+100 - PART I - Tax Deductions
+
+100 - Interpretation
+
+101 - Deductions and Remittances
+
+102 - Periodic Payments
+
+103 - Non-Periodic Payments
+
+104 - Deductions not Required
+
+104.1 - Lifelong Learning Plan
+
+105 - Non-Residents
+
+105.1 - Fishermen’s Election
+
+106 - Variations in Deductions
+
+107 - Employee’s Returns
+
+108 - Remittances to Receiver General
+
+109 - Elections To Increase Deductions
+
+110 - Prescribed Persons
+
+111 - Deemed Remittance
+
+200 - PART II - Information Returns
+
+200 - Remuneration and Benefits
+
+201 - Investment Income
+
+202 - Payments to Non-Residents
+
+204 - Estates and Trusts
+
+204.1 - Interpretation
+
+204.2 - Additional Reporting — Trusts
+
+205 - Date Returns To Be Filed
+
+205.1 - Electronic Filing
+
+206 - Legal Representatives and Others
+
+207 - Ownership Certificates
+
+209 - Distribution of Taxpayers Portions of Returns
+
+210 - Tax Deduction Information
+
+211 - Accrued Bond Interest
+
+212 - Employees Profit Sharing Plans
+
+213 - Pooled Registered Pension Plans
+
+214 - Registered Retirement Savings Plans
+
+215 - Registered Retirement Income Funds
+
+216 - Advanced Life Deferred Annuity
+
+217 - Dispositon of Interest in Annuities and Life Insurance Policies
+
+218 - Patronage Payments
+
+219 - First Home Savings Account
+
+220 - Cash Bonus Payments on Canada Savings Bonds
+
+221 - Qualified Investments
+
+223 - TFSAs
+
+224 - Canadian Home Insulation Program and Canada Oil Substitution Program
+
+225 - Certified Films and Video Tapes
+
+226 - Scientific Research Tax Credits
+
+227 - Share Purchase Tax Credits
+
+228 - Resource Flow-Through Shares
+
+229 - Partnership Return
+
+229.1 - Definitions
+
+230 - Security Transactions
+
+232 - Worker’s Compensation
+
+233 - Social Assistance
+
+234 - Farm Support Payments
+
+235 - Identifier Information
+
+237 - Contract for Goods and Services
+
+238 - Reporting of Payments in Respect of Construction Activities
+
+300 - PART III - Annuities and Life Insurance Policies
+
+300 - Capital Element of Annuity Payments
+
+301 - Life Annuity Contracts
+
+304 - Prescribed Annuity Contracts
+
+306 - Exempt Policies
+
+307 - Accumulating Funds
+
+308 - Net Cost of Pure Insurance and Mortality Gains and Losses
+
+309 - Prescribed Premiums and Prescribed Increases
+
+309.1 - Income from Participating Life Insurance Businesses
+
+310 - Interpretation
+
+400 - PART IV - Taxable Income Earned in a Province by a Corporation
+
+400 - Interpretation
+
+401 - Computation of Taxable Income
+
+402 - General Rules
+
+402.1 - Central Paymaster
+
+403 - Insurance Corporations
+
+404 - Banks
+
+405 - Trust and Loan Corporations
+
+406 - Railway Corporations
+
+407 - Airline Corporations
+
+408 - Grain Elevator Operators
+
+409 - Bus and Truck Operators
+
+410 - Ship Operators
+
+411 - Pipeline Operators
+
+412 - Divided Businesses
+
+413 - Non-Resident Corporations
+
+414 - Provincial SIFT Tax Rate
+
+500 - PART V - Non-Resident-Owned Investment Corporations
+
+500 - Elections
+
+501 - Elections Revoked
+
+502 - Certificates of Changes of Ownership
+
+600 - PART VI - Elections
+
+700 - PART VII - Logging Taxes on Income
+
+700 - Logging
+
+800 - PART VIII - Non-Resident Taxes
+
+800 - Registered Non-Resident Insurers
+
+801 - Filing of Returns by Registered Non-Resident Insurers
+
+802 - Amounts Taxable
+
+803 - Payment of Tax by Registered Non-Resident Insurers
+
+804 - Interpretation
+
+805 - Other Non-Resident Persons
+
+805.1 - Payee Certificate
+
+806 - International Organizations and Agencies
+
+806.2 - Prescribed Obligation
+
+807 - Identification of Obligations
+
+808 - Allowances in Respect of Investment in Property in Canada
+
+809 - Reduction of Certain Amounts To Be Deducted or Withheld
+
+1000 - PART IX - [Repealed, SOR/2003-5, s. 13]
+
+1000 - PART X - Elections in Respect of Deceased Taxpayers
+
+1001 - Annual Instalments
+
+1100 - PART XI - Capital Cost Allowances
+
+1100 - DIVISION I - Deductions Allowed
+
+1100A - Exempt Mining Income
+
+1101 - DIVISION II - Separate Classes
+
+1101 - Businesses and Properties
+
+1102 - DIVISION III - Property Rules
+
+1102 - Property not Included
+
+1103 - DIVISION IV - Inclusions In and Transfers Between Classes
+
+1103 - Elections To Include Properties in Class 1
+
+1104 - DIVISION V - Interpretation
+
+1104 - Definitions
+
+1105 - DIVISION VI - Classes Prescribed
+
+1106 - DIVISION VII - Certificates Issued by the Minister of Canadian Heritage
+
+1106 - Interpretation
+
+1107 - DIVISION VIII - Determination of Viscosity and Density
+
+1200 - PART XII - Resource and Processing Allowances
+
+1201 - Earned Depletion Allowances
+
+1203 - Mining Exploration Depletion
+
+1204 - Resource Profits
+
+1205 - Earned Depletion Base
+
+1206 - Interpretation
+
+1207 - Frontier Exploration Allowances
+
+1208 - Additional Allowances in Respect of Certain Oil or Gas Wells
+
+1209 - Additional Allowances in Respect of Certain Mines
+
+1210 - Resource Allowance
+
+1211 - Prescribed Amounts
+
+1212 - Supplementary Depletion Allowances
+
+1213 - Prescribed Deductions
+
+1214 - Amalgamations and Windings-Up
+
+1216 - Prescribed Persons
+
+1217 - Prescribed Canadian Exploration Expense
+
+1218 - Prescribed Canadian Development Expense
+
+1219 - Canadian Renewable and Conservation Expense
+
+1300 - PART XIII - Elections in Respect of Taxpayers Ceasing To Be Resident in Canada
+
+1300 - Elections To Defer Capital Gains
+
+1301 - Elections To Defer Payment of Taxes
+
+1302 - Elections To Realize Capital Gains
+
+1400 - PART XIV - Insurance Business Policy Reserves
+
+1400 - DIVISION 1 - Policy Reserves
+
+1400 - Non-Life Insurance Business
+
+1401 - DIVISION 2 - Amounts Determined
+
+1401 - Life Insurance Business
+
+1402 - DIVISION 3 - Special Rules
+
+1402 - Non-Life and Life Insurance Businesses
+
+1404 - DIVISION 4 - Life Insurance Policy Reserves
+
+1408 - DIVISION 5 - Interpretation
+
+1408 - Insurance Businesses
+
+1500 - PART XV - Profit Sharing Plans
+
+1500 - DIVISION I - Employees Profit Sharing Plans
+
+1501 - DIVISION II - Deferred Profit Sharing Plans
+
+1501 - Registration of Plans
+
+1503 - DIVISION III - Elections in Respect of Certain Single Payments
+
+1600 - PART XVI - Prescribed Countries
+
+1700 - PART XVII - Capital Cost Allowances, Farming and Fishing
+
+1700 - DIVISION I - Deductions Allowed
+
+1700 - Rates
+
+1701 - DIVISION II - Maximum Deductions
+
+1702 - DIVISION III - Property not Included
+
+1703 - DIVISION IV - Interpretation
+
+1703 - Taxation Years for Individuals in Business
+
+1704 - DIVISION V - Application of this Part
+
+1800 - PART XVIII - Inventories
+
+1800 - Manner of Keeping Inventories
+
+1801 - Valuation
+
+1802 - Valuation of Animals
+
+1900 - PART XIX - Investment Income Tax
+
+1900 - Interpretation
+
+2000 - PART XX - Political Contributions
+
+2000 - Contents of Receipts
+
+2002 - Interpretation
+
+2100 - PART XXI - Elections in Respect of Surpluses
+
+2100 - Reduction of Tax-Paid Undistributed Surplus on Hand or 1971 Capital Surplus on Hand
+
+2101 - Capital Dividends and Life Insurance Capital Dividends Payable by Private Corporations
+
+2102 - Tax on 1971 Undistributed Income on Hand
+
+2104 - Capital Gains Dividends Payable by Mutual Fund Corporations, Investment Corporations and Mortgage Investment Corporations
+
+2105 - Capital Gains Dividends Payable by Non-Resident-Owned Investment Corporations
+
+2106 - Alternative to Additional Tax on Excessive Elections
+
+2107 - Tax-deferred Preferred Series
+
+2200 - PART XXII - Security Interests
+
+2300 - PART XXIII - Principal Residences
+
+2400 - PART XXIV - Insurers
+
+2400 - Definitions
+
+2401 - Designated Insurance Property
+
+2403 - Branch Tax Elections
+
+2410 - Prescribed Amount
+
+2412 - Mean Canadian Investment Fund
+
+2500 - PART XXV - Special T1 Tax Table for Individuals
+
+2600 - PART XXVI - Income Earned in a Province by an Individual
+
+2600 - Interpretation
+
+2601 - Residents of Canada
+
+2602 - Non-Residents
+
+2603 - Income from Business
+
+2604 - Bus and Truck Operators
+
+2605 - More than One Business
+
+2606 - Limitations of Business Income
+
+2607 - Dual Residence
+
+2608 - Sift Trusts
+
+2700 - PART XXVII - Group Term Life Insurance Benefits
+
+2700 - Definitions & Interpretation
+
+2700 - Definitions
+
+2701 - Prescribed Benefit
+
+2702 - Term Insurance Benefit
+
+2702 - Amount of Benefit
+
+2703 - Prepaid Insurance Benefit
+
+2703 - Amount of Benefit
+
+2704 - Employee-Paid Insurance
+
+2705 - Prescribed Premium and Insurance
+
+2800 - PART XXVIII - Elections in Respect of Accumulating Incomes of Trusts
+
+2900 - PART XXIX - Scientific Research and Experimental Development
+
+2900 - Interpretation
+
+2901 - Prescribed Expenditures
+
+2903 - Special-Purpose Buildings
+
+3000 to 3002 - PART XXX - [Repealed, 2013, c. 40, s. 105]
+
+3100 - PART XXXI - Tax Shelter
+
+3200 - PART XXXII - [Repealed, SOR/2011-188, s. 17]
+
+3300 - PART XXXIII - Tax Transfer Payments
+
+3400 - PART XXXIV - International Development Assistance Programs
+
+3500 - PART XXXV - Gifts
+
+3500 - Interpretation
+
+3501 - Contents of Receipts
+
+3501.1 - Contents of Information Returns
+
+3502 - Employees’ Charity Trusts
+
+3503 - 
+
+3504 - Prescribed Donees
+
+3505 - Conditions
+
+3600 - PART XXXVI - Reserves for Surveys
+
+3700 - PART XXXVII - Registered Charities
+
+3701 - Disbursement Quota
+
+3702 - Determination of Value
+
+3703 - Information Returns
+
+3800 - PART XXXVIII - Social Insurance Number Applications
+
+3900 - PART XXXIX - Mining Taxes
+
+4000 - PART XL - Borrowed Money Costs
+
+4001 - Interest on Insurance Policy Loans
+
+4100 - PART XLI - Representation Expenses
+
+4200 - PART XLII - Valuation of Annuities and Other Interests
+
+4300 - PART XLIII - Interest Rates
+
+4300 - Interpretation
+
+4301 - Prescribed Rate of Interest
+
+4400 - PART XLIV - Publicly-traded Shares or Securities
+
+4500 - PART XLV - Elections in Respect of Expropriation Assets
+
+4600 - PART XLVI - Investment Tax Credit
+
+4600 - Qualified Property
+
+4601 - Qualified Transportation Equipment
+
+4602 - Certified Property
+
+4603 - Qualified Construction Equipment
+
+4604 - Approved Project Property
+
+4605 - Prescribed Activities
+
+4606 - Prescribed Amount
+
+4607 - Prescribed Designated Regions
+
+4608 - Prescribed Expenditure for Qualified Canadian Exploration Expenditure
+
+4609 - Prescribed Offshore Region
+
+4610 - Prescribed Area
+
+4700 - PART XLVII - Election in Respect of Certain Property Owned on December 31, 1971
+
+4800 - PART XLVIII - Status of Corporations and Trusts
+
+4900 - PART XLIX - Registered Plans  —  Investments
+
+4901 - Interpretation
+
+5000 - PART L - [Repealed, 2013, c. 40, s. 109]
+
+5100 - PART LI - Deferred Income Plans, Investments in Small Business
+
+5200 - PART LII - Canadian Manufacturing and Processing Profits
+
+5200 - Basic Formula
+
+5201 - Small Manufacturers’ Rule
+
+5202 - Interpretation
+
+5203 - Resource Income
+
+5204 - Partnerships
+
+5300 - PART LIII - Instalment Base
+
+5300 - Individuals
+
+5301 - Corporations Under Part I of the Act
+
+5400 - PART LIV - [Repealed, SOR/2011-188, s. 21]
+
+5500 - PART LV - Prescribed Programs and Benefits
+
+5500 - Canadian Home Insulation Program
+
+5501 - Canada Oil Substitution Program
+
+5502 - Benefits Under Government Assistance Programs
+
+5503 - Stabilization of Farm Income
+
+5600 - PART LVI - Prescribed Distributions
+
+5700 - PART LVII - Medical Expense Tax Credit
+
+5800 - PART LVIII - Retention of Books and Records
+
+5900 - PART LIX - Foreign Affiliates
+
+5900 - Dividends out of Exempt, Taxable and Pre-Acquisition Surplus
+
+5901 - Order of Surplus Distributions
+
+5902 - Election in Respect of Capital Gains
+
+5903 - Deductible Loss
+
+5904 - Participating Percentage
+
+5905 - Special Rules
+
+5906 - Carrying on Business in a Country
+
+5907 - Interpretation
+
+6000 - PART LX - Prescribed Activities
+
+6100 - PART LXI - Related Segregated Fund Trusts
+
+6200 - PART LXII - Prescribed Securities, Shares and Debt Obligations
+
+6200 - Prescribed Securities
+
+6201 - Prescribed Shares
+
+6300 - PART LXIII - Child Tax Benefits
+
+6300 - Interpretation
+
+6301 - Non-Application of Presumption
+
+6302 - Factors
+
+6400 - PART LXIV - Prescribed Dates
+
+6400 - Child Tax Credits
+
+6401 - Quebec Tax Abatement
+
+6500 - PART LXV - Prescribed Laws
+
+6600 - PART LXVI - Prescribed Order
+
+6700 - PART LXVII - Prescribed Venture Capital Corporations, Labour-sponsored Venture Capital Corporations, Investment Contract Corporations, Qualifying Corporations and Prescribed Stock Savings Plans
+
+6800 - PART LXVIII - Prescribed Plans, Arrangements and Contributions
+
+6801.1 - COVID-19 — Deferred salary leave plan
+
+6804 - Contributions to Foreign Plans
+
+6804 - Definitions
+
+6900 - PART LXIX - Prescribed Offshore Investment Fund Properties
+
+7000 - PART LXX - Accrued Interest on Debt Obligations
+
+7001 - Indexed Debt Obligations
+
+7100 - PART LXXI - Prescribed Federal Crown Corporations
+
+7300 - PART LXXII - [Repealed, SOR/2001-295, s. 5]
+
+7300 - PART LXXIII - Prescribed Amounts and Areas
+
+7400 - PART LXXIV - Prescribed Forest Management Plans for Woodlots
+
+7500 - PART LXXV - [Repealed, 2013, c. 33, s. 36]
+
+7600 - PART LXXVI - Carved-out Property Exclusion
+
+7700 - PART LXXVII - Prescribed Prizes
+
+7800 - PART LXXVIII - Specified Pension Plans
+
+7900 - PART LXXIX - Prescribed Financial Institutions
+
+8000 - PART LXXX - Prescribed Reserve Amount and Recovery Rate
+
+8100 - PART LXXXI - [Repealed, 2013, c. 34, s. 406]
+
+8200 - PART LXXXII - Prescribed Properties and Permanent Establishments
+
+8200 - Prescribed Properties
+
+8201 - Permanent Establishments
+
+8300 - PART LXXXIII - Pension Adjustments, Past Service Pension Adjustments, Pension Adjustment Reversals and Prescribed Amounts
+
+8300 - Interpretation
+
+8301 - Pension Adjustments
+
+8301 - Pension Adjustment with Respect to Employer
+
+8302 - Benefit Entitlement
+
+8303 - Past Service Pension Adjustment
+
+8303 - PSPA with Respect to Employer
+
+8304 - Past Service Benefits — Additional Rules
+
+8304 - Replacement of Defined Benefits
+
+8304.1 - Pension Adjustment Reversal
+
+8304.1 - Total Pension Adjustment Reversal
+
+8305 - Association of Benefits with Employers
+
+8306 - Exemption from Certification
+
+8307 - Certification in Respect of Past Service Events
+
+8307 - Application for Certification
+
+8308 - Special Rules
+
+8308 - Benefits Provided Before Registration
+
+8308.1 - Foreign Plans
+
+8308.1 - Definition
+
+8308.2 - Prescribed Amount for Member of Foreign Plan
+
+8308.2 - Prescribed Amount
+
+8308.3 - Specified Retirement Arrangements
+
+8308.3 - Definition
+
+8308.4 - Government-Sponsored Retirement Arrangements
+
+8308.4 - Definitions
+
+8309 - Prescribed Amount for Lieutenant Governors and Judges
+
+8310 - Minister’s Powers
+
+8311 - Rounding of Amounts
+
+8400 - PART LXXXIV - Retirement and Profit-sharing Plans — Reporting and Provision of Information
+
+8400 - Definitions
+
+8401 - Pension Adjustment
+
+8402 - Past Service Pension Adjustment
+
+8402.01 - Pension Adjustment Reversal
+
+8402.01 - Deferred Profit Sharing Plan
+
+8402.1 - Government-Sponsored Retirement Arrangements
+
+8403 - Connected Persons
+
+8404 - Reporting to Individuals
+
+8405 - Discontinuance of Business
+
+8406 - Provision of Information
+
+8407 - Qualifying Withdrawals
+
+8408 - Requirement To Provide Minister with Information
+
+8409 - Annual Information Returns
+
+8410 - Actuarial Reports
+
+8500 - PART LXXXV - Registered Pension Plans
+
+8500 - Interpretation
+
+8501 - Prescribed Conditions for Registration and Other Conditions Applicable to Registered Pension Plans
+
+8501 - Conditions for Registration
+
+8502 - Conditions Applicable to all Plans
+
+8503 - Defined Benefit Provisions
+
+8503 - Net Contribution Accounts
+
+8504 - Maximum Benefits
+
+8504 - Lifetime Retirement Benefits
+
+8505 - Additional Benefits on Downsizing
+
+8505 - Downsizing Program
+
+8506 - Money Purchase Provisions
+
+8506 - Permissible Benefits
+
+8507 - Periods of Reduced Pay
+
+8507 - Prescribed Compensation
+
+8508 - Salary Deferral Leave Plan
+
+8509 - Transition Rules
+
+8509 - Prescribed Conditions Applicable Before 1992 to Grandfathered Plan
+
+8510 - Multi-employer Plans and Other Special Plans
+
+8510 - Definition of Multi-employer Plan
+
+8511 - Conditions Applicable to Amendments
+
+8512 - Registration and Amendment
+
+8513 - Designated Laws
+
+8514 - Prohibited Investments
+
+8515 - Special Rules for Designated Plans
+
+8515 - Designated Plans
+
+8516 - Eligible Contributions
+
+8516 - Prescribed Contribution
+
+8517 - Transfer — Defined Benefit to Money Purchase
+
+8517 - Prescribed Amount
+
+8519 - Association of Benefits with Time Periods
+
+8520 - Minister’s Actions
+
+8600 - PART LXXXVI - Taxable Capital Employed in Canada
+
+8700 - PART LXXXVII - National Arts Service Organizations
+
+8800 - PART LXXXVIII - Disability-related Modifications and Apparatus
+
+8900 - PART LXXXIX - Entities Prescribed with Respect to Certain Rules
+
+8900 - International Organizations
+
+8901.1 - PART LXXXIX.1 - COVID-19 Wage and Rent Subsidies
+
+9000 - PART XC - Financial Institutions — Prescribed Entities and Properties
+
+9000 - Prescribed Person not a Financial Institution
+
+9001 - Prescribed Property not Mark-to-Market Property
+
+9002 - Prescribed Property not Mark-to-Market Property
+
+9002.1 - Prescribed Payment Card Corporation Share not Mark-to-Market Property
+
+9003 - Significant Interest in a Corporation
+
+9004 - Financing Arrangement not a Specified Debt Obligation
+
+9005 - Prescribed Non-reporting Financial Institution
+
+9006 - Prescribed Excluded Accounts
+
+9100 - PART XCI - Financial Institutions — Income from Specified Debt Obligations
+
+9100 - Interpretation
+
+9101 - Prescribed Inclusions and Deductions
+
+9102 - General Accrual Rules
+
+9103 - Accrual Rules — Special Cases and Transition
+
+9104 - Foreign Exchange Adjustment
+
+9200 - PART XCII - Financial Institutions — Disposition of Specified Debt Obligations
+
+9200 - Interpretation
+
+9202 - Prescribed Debt Obligations
+
+9203 - Residual Portion of Gain or Loss
+
+9204 - Special Rules for Residual Portion of Gain or Loss
+
+9300 - PART XCIII - Film or Video Production Services Tax Credit
+
+9300 - Accredited Production
+
+9400 - PART XCIV - [Repealed, 2016, c. 7, s. 59]
+
+9500 - PART XCV - Employee Life and Health Trusts
+
+9600 - PART XCVI - School Supplies Tax Credit
+
+9700 - PART XCVII - COVID-19 — Air Quality Improvement Tax Credit
+
+SCHEDULE I  - Ranges of Remuneration and of Total Remuneration
+
+SCHEDULE II  - Capital Cost Allowances
+
+SCHEDULE III  - Capital Cost Allowances, Class 13
+
+SCHEDULE IV  - Capital Cost Allowances, Class 15
+
+SCHEDULE V  - Capital Cost Allowances, Industrial Mineral Mines
+
+SCHEDULE VI  - Capital Cost Allowances, Timber Limits and Cutting Rights
+
+SCHEDULE VII 
+
+SCHEDULE VIII -  - [Repealed, 2018, c. 12, s. 46]
+
+SCHEDULES IX AND X
+
+Select pageTable of Contents1    ... 102103 ... 103.1104      ... 108109     ... 202203     ... 205.1206           ... 215216           ... 227228      ... 233234      ... 301302    ... 306307  ... 309309.1    ... 402402.1       ... 407408            ... 503600               ... 808809     ... 11001100A ... 110111021103 ... 11041105 ... 11061107   ... 12021203 ... 1204120512061207      ... 12121213      ... 12191300    ... 14011402       ... 14081500        ... 17031704    ... 19002000          ... 21062107     ... 24002401          ... 24112412    ... 26012602        ... 27012702     ... 29002901      ... 31003101             ... 36003700           ... 43014302      ... 46034604     ... 46094610         ... 48024803 ... 49004901    ... 51005101   ... 51045200  ... 52025203 ... 52045300         ... 57005701    ... 59015902 ... 59035903.1  ... 59055906 ... 590759085909      ... 62016202 ... 6202.16203  ... 62056206          ... 65006501         ... 67026703          ... 68026802.1     ... 70007001     ... 7303.17304 ... 73057305.017305.02    ... 73087309             ... 80058006            ... 830083018302830383048304.18305   ... 83088308.1  ... 8308.38308.4       ... 8402.018402.1         ... 85008501 ... 8502850385048505 ... 85068507  ... 85098510  ... 85128513  ... 85158516 ... 85178518        ... 86058700      ... 8901.29000          ... 91019102    ... 92019202      ... 95009600 ... 9700SCHEDULE I : Ranges of Remuneration and of Total RemunerationSCHEDULE II : Capital Cost AllowancesSCHEDULE III : Capital Cost Allowances, Class 13SCHEDULE IV : Capital Cost Allowances, Class 15SCHEDULE V : Capital Cost Allowances, Industrial Mineral MinesSCHEDULE VI : Capital Cost Allowances, Timber Limits and Cutting RightsSCHEDULE VIISCHEDULE VIII : [Repealed, 2018, c. 12, s. 46]SCHEDULES IX AND XAmendments not in forcePrevious Amendments
+
+    Page Details   
+        
+    Date modified: 
+    ﻿2026-08-06

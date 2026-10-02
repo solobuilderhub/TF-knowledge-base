@@ -1,0 +1,29 @@
+
+
+w14:paraId="77E53A7B" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00CA7B11">Alberta Test Case #1 for AT1
+w14:paraId="30017DAA" w14:textId="2F63E952" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00CA7B11">TYB to September 1, 2023 and TYE to August 31, 2024. Please generate financial statements and federal information at your discretion to generate this case. We require the following data that is specific to Alberta. Note: in cases where an Alberta field value can be other than the federal field value, if the amount is not specified, assume the value equals the federal amount.
+w14:paraId="443EBBB3" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00CA7B11">
+w14:paraId="35B38CCF" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00CA7B11">Additional Alberta Information: 
+w14:paraId="442D9F51" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">Alberta corporate account number: Select from list of CANs provided
+w14:paraId="7D83BE2D" w14:textId="19F7FEF5" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">A current year loss for Alberta purposes is amended to $50,000
+w14:paraId="71B3C17B" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">A current year net capital loss exists in the amount of $75,000
+w14:paraId="6DA2192E" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00CA7B11">
+w14:paraId="7EACF26B" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00CA7B11">Additional Information for Alberta Capital Cost Allowance
+w14:paraId="4BDCE4B0" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">A class 13 asset exists for Alberta and federal with an opening UCC of $5,000 and the full amount is being claimed in the current year for Alberta purposes only. No claim is made on this class for federal purposes. 
+w14:paraId="743E0A7A" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">A class 1 asset exists for Alberta and federal with an opening UCC of $5,000 and the maximum amount is being claimed for Alberta purposes only. No claim is made on this class for federal purposes.
+w14:paraId="0B24E2A9" w14:textId="34B98D80" w:rsidR="00CA7B11" w:rsidRPr="009324A9" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">A class 8 asset exists for Alberta and federal with an opening balance UCC of $5,000. There is a current year addition on this asset of $1,000,000. The corporation does not have any associated EPOP. The maximum amount is claimed for both Alberta and federal purposes including the immediate expensing claim. 
+w14:paraId="3413EF4F" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00CA7B11">
+w14:paraId="7BD06EB4" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00CA7B11">Additional Information for Alberta Calculation of Current Year Loss and Continuity of Losses
+w14:paraId="0633FAC3" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">Non-capital losses carried forward from the preceding taxation year $100,000. 
+w14:paraId="75E284EC" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRPr="00414AA8" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">Losses originating 2006 and after take 20 years to expire. 
+w14:paraId="70BE6BD8" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRPr="007654D7" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">Non-capital losses carried back to prior years: Current year loss that is being carried back.
+w14:paraId="543C35A7" w14:textId="7CFB4526" w:rsidR="00CA7B11" w:rsidRPr="007654D7" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">carry-back of $35,000 to August 31, 2023
+w14:paraId="24E32EFF" w14:textId="562D4D82" w:rsidR="00CA7B11" w:rsidRPr="007654D7" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">carry-back of $3,000 to August 31, 2022
+w14:paraId="3A8EB29F" w14:textId="5357B702" w:rsidR="00CA7B11" w:rsidRPr="007654D7" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">carry-back of $2,500 to August 31, 2021
+w14:paraId="0898D7A4" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRPr="007654D7" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">Capital losses carried forward from the preceding taxation year $100,000
+w14:paraId="00807D85" w14:textId="77777777" w:rsidR="00CA7B11" w:rsidRPr="007654D7" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">Capital losses carried back to prior years: The current year net capital loss should be the same as federal. The amount that is being carried back for Alberta purposes is as follows:
+w14:paraId="5C5C09BE" w14:textId="1DB7E727" w:rsidR="00CA7B11" w:rsidRPr="007654D7" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">carry-back of $25,000 to August 31, 2023
+w14:paraId="51EEA13B" w14:textId="2661FEE2" w:rsidR="00CA7B11" w:rsidRPr="007654D7" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">carry-back of $25,000 to August 31, 2022
+w14:paraId="4AAC2641" w14:textId="627475A7" w:rsidR="00CA7B11" w:rsidRPr="007654D7" w:rsidRDefault="00CA7B11" w:rsidP="00D27D18">carry-back of $25,000 to August 31, 2021
+w14:paraId="61FA4D88" w14:textId="7C34AD2B" w:rsidR="00CA7B11" w:rsidRPr="007654D7" w:rsidRDefault="00CA7B11" w:rsidP="00CA7B11">Date: August 2025
+w14:paraId="0B4F2AD9" w14:textId="27580C86" w:rsidR="003E6AC7" w:rsidRPr="00CA7B11" w:rsidRDefault="003E6AC7" w:rsidP="00CA7B11"/>

@@ -1,0 +1,20 @@
+line	caption
+100	GRIP at the end of the previous tax year
+110	Taxable income for the year (DICs enter "0")
+130	Amount on line 400, 405, 410, or 428 of the T2 return, whichever is the least
+140	For a CCPC, the lesser of aggregate investment income (line 440 of the T2 return) and taxable income
+190	After-tax income (line 150 multiplied by 0.72 (the general rate factor for the tax year))
+200	Eligible dividends received in the tax year
+210	Dividends deductible under section 113 received in the tax year
+220	Becoming a CCPC (amount W5 in Part 4)
+230	Post-amalgamation (total of amount E4 in Part 3 and amount W5 in Part 4)
+240	Post-wind-up (total of amount E4 in Part 3 and amount W5 in Part 4)
+290	Subtotal (add lines 220, 230, and 240)
+300	Eligible dividends paid in the previous tax year
+310	Excessive eligible dividend designations made in the previous tax year
+490	GRIP before adjustment for specified future tax consequences (amount C minus amount D) (amount can be negative)
+560	Total GRIP adjustment for specified future tax consequences to previous tax years (amount L3 in Part 2)
+590	GRIP at the end of the tax year (line 490 minus line 560)
+500	GRIP adjustment for specified future tax consequences to the first previous tax year (amount K1 multiplied by 0.72)
+520	GRIP adjustment for specified future tax consequences to the second previous tax year (amount K2 multiplied by 0.72)
+540	GRIP adjustment for specified future tax consequences to the third previous tax year (amount K3 multiplied by 0.72)

@@ -1,0 +1,684 @@
+                                                   Excessive Interest and Financing Expenses Limitation                                                                                                                                  Schedule 130
+                                                                       (2023 and later tax years)                                                                                                                                               Code 2301
+
+                                                                                                                                                                                                                                           Protected B
+                                                                                                                                                                                                                                         when completed
+
+Corporation's name                                                                                              Business number                                                                                                     Tax year end
+
+                                                                                                                                 Year                                                                                                    Month Day
+
+· Use this schedule to determine the deductibility of interest and financing expenses (IFE) under the excessive interest and financing expenses limitation (EIFEL) rules and to provide information on
+
+  exempt interest and financing expenses (exempt IFE).
+
+· The main provisions of the EIFEL rules are paragraph 12(1)(l.2), sections 18.2 and 18.21, and clause 95(2)(f.11)(ii)(D).
+
+· The ratio of permissible expenses is 40% for tax years that start on or after October 1, 2023 but before January 1, 2024. For tax years that start on or after January 1, 2024, the ratio of permissible
+
+  expenses is 30%.
+
+· All legislative references are to the Income Tax Act.
+
+· File this schedule with your T2 Corporation Income Tax Return for the tax year.
+
+Part 1A ­ Received capacity
+
+1. Does the corporation have received capacity as defined in subsection 18.2(1) in the year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 001  Yes           No
+
+If line 001 is yes, complete the following table.
+
+Row                                                                 1                                     2             3                                                                                                                     4
+                    Name of each eligible group entity the corporation received capacity from   Account number  Tax year end                                                                                                            Amount of
+  1                                                                                                             (yyyy/mm/dd)                                                                                                        capacity received
+  2                                                                 002                                  003
+  3                                                                                                                   004                                                                                                                    005
+  4
+  5
+
+                                                                                                Total of column 4 (enter on line 130 in Part 2J and line 136 in Part 2K)                                                                              A
+
+T2 SCH 130 E                                       (Ce formulaire est disponible en français.)                  Page 1 of 14
+                                                                                                                                                                            Protected B when completed
+
+Part 1B ­ Exempt IFE
+
+1. Has the corporation incurred any amounts for a borrowing or other financing that are exempt IFE as defined in subsection 18.2(1)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 006  Yes     No
+
+If line 006 is yes, complete the following table.
+
+                                               1                                         2                                           3            4                                                                  5
+
+Row  Name of public sector authority with which an agreement                              Principal amount of        IFE incurred regarding   Corporation income from          Corporation loss from
+                              has been entered into                                 borrowing or other financing      amount in column 2     activities that the amount in  activities that the amount in
+                                                                                    entered into as a result of the        (see note 1)      column 2 wholly or partially   column 2 wholly or partially
+                                         007
+                                                                                                agreement                                                 funded                         funded
+                                                                                                                                                                            (enter as positive amount)
+
+                                                                                         008                                         009        010                                                             011
+
+1
+2
+3
+4
+5
+
+                                                                                                                                                     Total of column 3                                                               A
+
+                                                                                                                                          Total of column 4 (enter on line 104 in Part 2F)                                           B
+
+                                                                                                                                          Total of column 5 (enter on line 092 in Part 2F)                                           C
+
+Note 1: IFE determined as if the description of variable A in the definition of IFE were read without reference to exempt IFE.
+
+  Part 1C ­ Information on borrowings and other financings and related derivatives
+Complete the following table if the corporation has a borrowing or other financing.
+
+                                 1                 2                                3                                           4            5                                                                       6
+             Relationship with others parties
+                                                   Total of the principal amounts   Total of the notional amounts    Total of all amounts included in Total of all amounts included in Total of all amounts included in
+ Canadian arm's length                             of borrowing or other financing  of derivatives entered into in
+ Canadian non-arm's length                                                                                           paragraph (a) of variable A of paragraph (e) of variable A of paragraph (a) of variable B of
+ Non-resident arm's length                           at any point in the tax year      respect of a borrowing or
+ Non-resident non-arm's length                                                      other financing at any point in  IFE in respect of a borrowing or IFE (other than a loss or capital IFE (other than a dividend or
+
+T2 SCH 130 E                                                                                   the tax year          other financing         loss)                          exempt IFE or a gain included
+
+                                                                                                                                                                                                                in taxpayer income)
+
+                                                   012                              013                                         014          015                                                                016
+
+                                                                                                                                          Total of column 4 (enter on line 027 in Part 2A)                                       A
+                                                                                                                                          Total of column 5 (enter on line 033 in Part 2A)                                       B
+                                                                                                                                          Total of column 6 (enter on line 042 in Part 2A)                                       C
+
+                                                                                                                                                                                                                        Page 2 of 14
+                                                                                                                                                                              Protected B when completed
+
+  Part 1D ­ Information on loans and other financings and related derivatives
+Complete the following table if the corporation has a loan or other financing.
+
+                         1             2                                                    3                                                            4                                   5
+     Relationship with others parties
+                                       Total of the principal amounts of loans                 Total of the notional amounts of      Total of all amounts included in    Total of all amounts included in
+                                       or other financings at any point in the              derivatives entered into in respect of  paragraph (d) of variable A of IFR  paragraph (a) of variable B of IFR
+                                                                                            loans or other financings at any point                                      (other than a loss or capital loss)
+                                                           tax year                                                                  (other than a dividend or a gain
+                                                                                                             of the year            included in corporation's income)
+
+                                       017                                                  018                                     019                                                    020
+
+Canadian arm's length
+Canadian non-arm's length
+Non-resident arm's length
+Non-resident non-arm's length
+
+                                                                                                                                    Total of column 4 (enter on line 061 in Part 2D)                        A
+
+                                                                                                                                    Total of column 5 (enter on line 066 in Part 2D)                        B
+
+ Part 1E ­ IFE allocated from partnership
+Complete the following table if the corporation is a member of a partnership that has IFE.
+
+                             1                             2                                                3                       4         5                                                 6
+              Name of the partnership    Partnership account number
+Row                                    (leave blank if the partnership is                     Corporation's share of    Portion of amount in  Portion of amount in column 3, Amount to be included under
+                                                                                              amount included under      column 3 in which
+                                                   non-resident)                             variable A of partnership  paragraph 12(1)(I.1)  not deductible in the corporation's paragraph (h) of variable A of IFE
+                                                                                            IFE (box 247 of the T5013           applies
+                                                         022                                                                                  income or included in                        (column 3 minus column 4
+                                                                                                 slips if applicable)             024
+                                                                                                                                              corporation's non-capital loss               minus column 5)
+                                                                                                           023
+                                                                                                                                              because of subsection 96(2.1)
+
+              021                                                                                                                             025                                               026
+
+1             RZ
+
+2             RZ
+
+3             RZ
+
+4             RZ
+
+5             RZ
+
+                                                                                            Total of column 6 (enter on line 039 in Part 2A, line 142 in Part 2L and line 156 in Part 2N)                   A
+
+T2 SCH 130 E                                                                                                                                                                                         Page 3 of 14
+                                                                                                                                                                                                                                                                               Protected B when completed
+
+Part 2A ­ Interest and financing expenses (IFE)
+
+Variable A: Total of all amounts (other than an amount included in exempt IFE), each of which is:
+
+An amount (other than excluded interest, deemed interest under subsection 137(4.1), or an amount included in any other line below), that is,
+   Interest paid or payable on a borrowing or other financing (excluding shares) (amount A from Part 1C). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 027
+   Interest paid or payable ­ other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 028
+
+An amount that, on the assumption that it is not deductible under another section, would be deductible under subparagraphs 20(1)(e)(ii), 20(1)(e)(ii.1), 20(1)(e)(ii.2) and
+paragraphs 20(1)(e.1), 20(1)(e.2) and 20(1)(f) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 029
+
+Amount attributable to IFE that your corporation has claimed for the particular tax year as:
+   Capital cost allowance (CCA) (amount B from Part 2B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 030
+   Resource expenses (amount A from Part 2C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 031
+   Terminal loss (amount A from Part 2B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 032
+
+An amount, under or as a result of an agreement or arrangement entered into as or in relation to a borrowing or other financing of the corporation (or a non-arm's length person or partnership) that can
+reasonably be considered to increase or be part of the cost of funding with respect to the borrowing or other financing of the corporation (or a non-arm's length person or partnership), that is,
+
+   Paid or payable that is deductible in the tax year (other than under subparagraph 20(1)(e)(i)) (amount B from Part 1C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 033
+   A loss that is deductible in the tax year (other than under subparagraph 20(1)(e)(i)). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 034
+   A capital loss that reduces the amount determined under paragraph 3(b) or deducted when calculating the corporation's taxable income for the tax year . . . . . . . . . . . . . . . . . 035
+
+Expense or fee payable (other than an amount already included on line 029) under (or in contemplation of, in the course of entering into, or in relation to) an agreement or an
+arrangement that gives rise to, or can reasonably be expected to give rise to,
+
+   An amount being included in IFE ­ under paragraph (e) of variable A of the definition of IFE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 036
+   An amount that reduces the IFE for the year under variable B of the definition of IFE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 037
+
+A lease financing amount (other than an excluded lease and excluded interest) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 038
+The corporation's share of the IFE of a partnership it is a member of (amount A from Part 1E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 039
+The portion of an amount claimed under paragraph 111(1)(e) that was denied under subsection 96(2.1) in a preceding tax year that is attributable to IFE . . . . . . . . . . . . . . . . . . . 040
+
+An amount that is a controlled foreign affiliate's (CFA) relevant affiliate interest and financing expenses, to the extent of the corporation's specified participating percentage                                                                                             041
+in respect of the affiliate for the affiliate tax year (enter on line 143 in Part 2L) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Variable B                                       Total of lines 027 to 041 (enter on lines 139 in Part 2K and 141 in Part 2L)                                                                                                                                                       A
+
+An amount, under or as a result of an agreement or arrangement entered into as or in relation to a borrowing or other financing of the corporation (or a non-arm's length person or partnership) that can
+
+reasonably be considered to reduce the cost of funding with respect to the borrowing or other financing of the corporation (or a non-arm's length person or partnership), that is,
+
+Received or receivable (other than as a dividend or exempt IFE) included in computing the corporation's income for the year (amount C from Part 1C) . . . . . . . . . . . . . . . . . . . 042
+
+A gain included in the corporation's income for the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 043
+
+to the extent the amount is not sheltered from Canadian tax by virtue of a credit or deduction in respect of foreign taxes.
+
+The corporation's share of an amount that, if received or receivable by the corporation, would meet the description of an amount to be included on lines 042 or 043, but that is
+
+received or receivable by a partnership of which the corporation is a member (total of amounts from box 249 of the T5013 slips plus relevant amounts from non-resident                                                                                                         044
+partnerships) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                                                             Total of lines 042 to 044                                                                                                                              B
+
+                                                                                              Total IFE. Amount A minus Amount B. If negative, enter ''0''.
+                                                 (enter on line 083 in Part 2F, line 113 in Part 2G, line 117 in Part 2H and on line 131 in Part 2K) 045
+
+T2 SCH 130 E                                                                                                                                                                                                                                                                        Page 4 of 14
+                                                                                                                                                                                          Protected B when completed
+
+Part 2B ­ Capitalized IFE in the cost of depreciable assets
+
+Complete the following table if the corporation has an amount that is paid or payable on or after February 4, 2022, that is attributable to IFE and is part of the capital cost of depreciable assets.
+
+                      1         2                               3                                                     4                     5                         6                                          7
+              Class number
+Row                               IFE in undepreciated               IFE in the cost of             IFE in UCC                  IFE in terminal loss           IFE in CCA                        IFE in UCC at the end of
+                                  capital cost (UCC) at         acquisitions, adjustments  (column 2 plus or minus                  (see note 2)         (cannot be more than                    the year (column 4 minus
+                                beginning of the tax year
+                                                                    and transfers, and               column 3)                                                  column 4)                                  column 6)
+                                                                proceeds of dispositions      If negative, enter "0"                                                                                If negative, enter "0"
+
+                           046  047                             048                                                   049       050                                             051                     052
+
+1
+2
+3
+4
+5
+
+Note 2: If no property is left in the class at the end of the year and there is still a positive amount in column 4,            Total of column 5 (enter on line 032 in Part 2A)                             A
+          you have a terminal loss. If applicable, enter the positive amount from column 4 in column 5.
+                                                                                                                                Total of column 6 (enter on line 030 in Part 2A)                             B
+
+  Part 2C ­ IFE included in resource deductions
+Complete the following table if the corporation has an amount that is paid or payable on or after February 4, 2022, that is attributable to IFE and is included in a resource expense pool.
+
+                                                     1                                                          2          3                          4                              5                        6
+                                Resource expenses (see note 3)
+Row                                                                                        IFE in the opening                IFE in amounts IFE in amount available              IFE in current  IFE in closing balance
+                                                                                                 balance                   added or deducted before current year claim             year claims           (column 4
+                                                                                                                           from pool balance (column 2 plus or
+                                                                                                                           during the tax year minus column 3)                  (cannot be more     minus column 5)
+                                                                                                                                                                                 than column 4)  If negative, enter "0"
+                                                                                                                                                        If negative, enter "0"
+
+                                                                                           053                             054       055                                             056                057
+
+  1 Cumulative Canadian exploration expenses (CCEE) ­ regular expenses                                                          Total of column 5 (enter on line 031 in Part 2A)                             A
+  2 CCEE ­ successor expenses
+  3 Cumulative Canadian development expenses (CCDE) ­ regular expenses
+  4 CCDE ­ successor expenses
+  5 Cumulative Canadian oil and gas property expenses (CCOGPE) ­ regular expenses
+  6 CCOGPE ­ successor expenses
+  7 Foreign exploration and development expenses (FEDE) ­ regular expenses
+  8 FEDE ­ successor expenses
+  9 Cumulative foreign resource expenses (CFRE) ­ regular expenses
+ 10 CFRE ­ successor expenses
+Note 3: Expenses incurred by the corporation are referred to as regular expenses and expenses incurred
+
+           by the predecessor corporation that a successor corporation is entitled to claim are referred to as
+           successor expenses.
+
+T2 SCH 130 E                                                                                                                                                                                                 Page 5 of 14
+                                                                                                                                                                                                                                                                      Protected B when completed
+
+Part 2D ­ Interest and financing revenues (IFR)
+
+Variable A: Total of all amounts (other than an amount included under variable B of the definition of IFE), each of which is:
+
+Interest received or receivable (other than excluded interest, deemed interest under subsection 137(4.1), or an amount included in any of the other lines in Part 2D) . . . . . . . . . . 058
+Amount included in the income because of subsection 12(9) or section 17.1 (other than an amount included in any of the other lines in Part 2D) . . . . . . . . . . . . . . . . . . . . . . . . . . 059
+
+Fee or similar amount in respect of a guarantee or a similar credit support for the payment of any amount on a debt obligation owing by another person or partnership that is
+included in computing the corporation's income for the year (other than an amount included in any of the other lines in Part 2D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 060
+
+An amount, under or as a result of a agreement or arrangement, entered into as or in relation to a loan or other financing, owing to or provided by the corporation (or a non-arm's length person or partnership)
+that can reasonably be expected to increase or be part of the return of the corporation (or a non-arm's length person or partnership), that is,
+
+   Received or receivable (other than as a dividend) included in computing the corporation's income for the year (amount A from Part 1D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 061
+
+   A gain included in the corporation's income for the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 062
+
+A lease financing amount (other than a lease that would meet the definition of an excluded lease in subsection 18.2(1), if that definition were read without regard to paragraph (a))
+that is included in income, that is not excluded interest for the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 063
+The corporation's share of the IFR of a partnership it is a member of (total of amounts from box 248 of the T5013 slips plus relevant amounts from non-resident partnerships) . . 064
+
+Amount that is a CFA's relevant affiliate interest and financing revenues, to the extent of the corporation's specified participating percentage in respect of the affiliate for the
+affiliate tax year, less any deduction in respect of foreign accrual tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 065
+
+                                                                                                                               Total of lines 058 to 065                                                                                                                   A
+
+Variable B: Total of all amounts, each of which is:
+
+Under or as a result of an agreement or arrangement entered into as or in relation to a loan or other financing, owing to or provided by the corporation (or a non-arm's length person or partnership)
+that can reasonably be considered to reduce the return in respect of the loan or financing of the corporation (or a non-arm's length person or partnership), that is,
+
+An amount paid or payable (other than a loss or capital loss) that is deductible in computing the corporation's income for the year (amount B from Part 1D). . . . . . . . . . . . . . . . 066
+
+A loss that is deductible in computing the corporation's income for the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 067
+
+A capital loss that reduces the amount determined under paragraph 3(b) for the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 068
+
+The corporation's share of an amount that, if received or receivable by the corporation, would correspond the description of an amount to be included on lines 066, 067 and 068,
+
+but that is received or receivable by a partnership of which the corporation is a member (total of amounts from box 250 of the T5013 slips plus relevant amounts from                                                                                                 069
+
+non-resident partnerships) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+An amount otherwise included in the corporation's IFR (amount A), to the extent the amount is sheltered from Canadian tax by virtue of a credit or deduction in respect of foreign
+taxes, other than a credit or deduction in respect of foreign withholding taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 070
+
+Amounts included in amount A of Part 2D that are exempt from tax under Part I of the Income Tax Act. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 071
+
+                                                                                                                               Total of lines 066 to 071                                                                                                                   B
+
+              Total IFR. Amount A minus amount B. If negative, enter "0". (enter on line 096 in Part 2F, line 109 in Part 2G, line 121 in Part 2H and line 135 in Part 2K.) 072
+
+T2 SCH 130 E                                                                                                                                                                                                                                                               Page 6 of 14
+                                                                                                                                                                                         Protected B when completed
+
+Part 2E ­ Paragraph (h) of variable B of adjusted taxable income
+
+Complete this section if the corporation is deducting an amount under paragraph 111(1)(a) for a non-capital loss that is not a specified pre-regime loss defined in subsection 18.2(1).
+
+Row                          1                        2                         3                        4                        5                                6
+                                                                                                   Variable J
+              Tax year of origin of the     Non-capital loss       Amounts determined        (lesser of column 2   Amount deducted under            Amount determined for
+                   non-capital loss       (amount determined       under (ii) of variable J     and column 3)     paragraph 111(1)(a) when    paragraph (h) of variable B of the
+                                         under (i) of variable J)                                                 calculating taxable income
+                                                                                                        076                                        adjusted taxable income
+                                                                                                                            for the year
+                                                                                                                                                             (column 5
+                                                                                                                                                    multiplied by column 4
+                                                                                                                                                     divided by column 2)
+
+                          073            074                       075                                            077                                                                    078
+1
+2
+3
+4
+5
+
+                                                                                                                  Total of column 6 (enter on line 089 in Part 2F)                            A
+
+T2 SCH 130 E                                                                                                                                                                                  Page 7 of 14
+                                                                                                                                                                                                                                 Protected B when completed
+
+Part 2F ­ Adjusted taxable income (ATI)
+
+Variable A
+If corporation is a non-resident, the corporation's taxable income earned in Canada (determined without regard to subsection 18.2(2), paragraphs 12(1)(l.2) and 111(1)(a.1)). In
+any other case, the corporation's taxable income (determined without regard to subsection 18.2(2), paragraphs 12(1)(l.2) and 111(1)(a.1) and clause 95(2)(f.11)(ii)(D)) . . . . . . . . 079
+
+Non-capital loss for the year (determined without regard to subsection 18.2(2), paragraphs 12(1)(l.2) and 111(1)(a.1) and clause 95(2)(f.11)(ii)(D)) . . . 080
+
+Total of all amounts determined under paragraph (b) of variable E of the ATI for CFAs of the corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 081
+
+Total of all amounts determined under paragraph (b) of variable E of the ATI for CFAs of partnerships of which the corporation or a CFA of the
+corporation is a member . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 082
+
+                                         Total of lines 080 to 082                                                                                                                                                                                                             A
+
+                                         Line 079 minus amount A (can be positive or negative amount)                                                                                                                                                                          B
+
+Variable B
+
+The corporation's IFE for the year (line 045 from Part 2A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 083
+
+Amounts deducted when calculating income under paragraphs 20(1)(a) and 59.1(a), subsections 66(4), 66.1(2) or (3), 66.2(2), 66.21(4), 66.4(2), or 66.7(1),
+(2), (2.3), (3), (4) or (5), other than any portion already included in IFE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 084
+
+Terminal loss deducted under subsection 20(16) when calculating income for the year, other than any portion already included in IFE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 085
+
+The corporation's share of the CCA or terminal loss of a partnership it is a member of (other than the portion that is already included in IFE), minus the portion of the amount that
+is not deductible when calculating the corporation's income or non-capital loss for the year because of subsection 96(2.1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 086
+
+If an amount has been deducted under paragraph 111(1)(e), the portion of the amount deducted that can reasonably be considered to be attributable to the CCA or terminal loss
+of a partnership (other than any portion that has been included in IFE) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 087
+
+Amount deducted under paragraph 110(1)(k) when calculating taxable income for the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 088
+The portion of non-capital loss being deducted under paragraph 111(1)(a) that can reasonably be considered to be derived from IFE (amount A from Part 2E) . . . . . . . . . . . . . . . 089
+25% of the amount deducted for a specified pre-regime loss under paragraph 111(1)(a) (see note 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 090
+
+Additional amount, if any, that would be included in the corporation's income, in respect of a CFA or a CFA of a partnership of which the corporation or a CFA of the corporation
+is a member of, if the affiliate's foreign accrual property income (FAPI) was increased by an amount determined by the formula L x M/N contained in paragraph (j) of variable B of
+the definition of the ATI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 091
+The corporation's loss if it had no income or loss other than a loss that can reasonably be considered to be from activities funded by a borrowing that results in exempt IFE
+(amount C from Part 1B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 092
+The corporation's share of the loss of a partnership it is a member of, if the partnership had no income or loss other than a loss that can reasonably be considered to be from
+activities funded by a borrowing that results in exempt IFE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 093
+
+An amount deducted under subsections 127(5) or (6), 127.44(3), 127.45(6), 127.48(3) or 127.49(6) for a property acquired in a preceding tax year that the corporation did not
+
+include in income for the year or for a preceding year and did not include in the ATI for a preceding year to the extent it is included in an amount determined under paragraph                                                  094
+13(7.1)(e) and subparagraphs 53(2)(c)(vi) to (c)(vi.4) or (h)(ii) in the definition undepreciated capital cost in subsection 13(21) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+An amount described in clause 12(1)(x)(i)(C) or subparagraph 12(1)(x)(ii) that the corporation received, to the extent it reduces the cost or capital cost of property and is not
+included when calculating the corporation's income of the year under subparagraph 12(1)(x)(vi) or (vii) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 095
+
+                                                                                                                                            Total of lines 083 to 095. If negative, enter "0".                                                                                 C
+
+                                                                                                                                                                                                                                 Part 2F continues on the next page >>
+
+Note 4: Paragraph (i) of variable B of ATI in subsection 18.2(1) requires that a specified pre-regime loss election form (T2228) be filed.
+
+T2 SCH 130 E                                                                                                                                                                                                                                                                   Page 8 of 14
+                                                     Protected B when completed
+
+Part 2F ­ Adjusted taxable income (ATI) (continued)
+
+Variable C
+IFR of the corporation for the year (line 072 from Part 2D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 096
+Recaptured depreciation amount under subsection 13(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 097
+The corporation's share of the recaptured depreciation amount of a partnership of which it is a member . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 098
+Amount included under subsection 59(1) or (3.2) or paragraph 59.1(b) in computing income for the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 099
+Foreign-source income, to the extent it is sheltered from Canadian tax by foreign tax credits under subsection 126(1) or (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+Amount included under section 110.5 in computing the corporation's taxable income for the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+
+Amount included in income of the corporation under subsection 104(13), less any portion designated under subsection 104(19) or any amount that gives rise to a deduction
+under paragraph 94.2(3)(a) in computing FAPI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+Amount of taxable income for the year that is not, because of an Act of Parliament, subject to tax under Part I of the Income Tax Act . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103
+
+Income of the corporation if it had no income or loss other than income that can reasonably be considered to derive from activities funded by a borrowing that results in
+exempt IFE (amount B from Part 1B). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+Corporation's share of the income or loss of a partnership of which it is a member, if the partnership had no income or loss other than income
+that can reasonably be considered to derive from activities funded by a borrowing that results in exempt IFE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+
+                                                     Total of lines 096 to 105. If negative, enter "0".                                                                                                                                                            D
+
+                                                     ATI of the corporation for the year. Amount B plus amount C minus amount D. If negative, enter "0".
+                                                                                          (enter on line 107 in Part 2G, line 119 in Part 2H, and line 133 in Part 2K) 106
+
+T2 SCH 130 E                                                                                                                                                                                                                                                       Page 9 of 14
+                                                                                                                                                                                                                       Protected B when completed
+
+  Part 2G ­ Excess capacity                                                                                                                                                                                                                               A
+If a group ratio election under subsection 18.21(2) has been made, the excess capacity is nil, in any other case:
+ATI of the corporation for the year (line 106 from Part 2F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
+
+   The ratio of permissible expenses of the corporation for the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108
+
+                                                                                                                                                                     Line 107 multiplied by line 108
+
+IFR of the corporation for the year (line 072 from Part 2D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+
+The amount by which the IFR exceeds the IFE for the year. If negative, enter "0" . . . . . . . . . 110
+If, in the absence of section 257, the ATI is a negative amount, the absolute value of ATI,
+otherwise nil. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
+
+                             The lesser of lines 110 and 111                                                                                                       B
+
+The ratio of permissible expenses of the corporation for the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+
+                             Amount B multiplied by line 112                                                                                                                                                        C
+
+                                                                                                                              Line 109 minus amount C. If negative, enter "0".                                                                            D
+
+                                                                                                                                                                                                                    Amount A plus amount D                E
+
+The corporation's IFE for the year (line 045 from Part 2A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+
+                                                                                                                              Amount E minus line 113. If negative, enter "0". (enter on line 129 in Part 2J)                                             F
+
+The restricted interest and financing expenses deductible under paragraph 111(1)(a.1) for the year (amount B from Part 2J) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 114
+
+                             Excess capacity for the current year. Amount F minus line 114. If negative, enter "0". (enter on line 126 in Part 2I) 115
+
+Part 2H ­ Absorbed capacity
+
+Cumulative unused excess capacity determined as if the absorbed capacity for the year were nil (amount B in Part 2I) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+
+The corporation's IFE for the year (line 045 in Part 2A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
+
+If the corporation has made a group ratio election under subsection 18.21(2), the allocated group ratio amount . . . . . . . . 118
+
+If it has not made a group ratio election, the ATI (line 106 from Part 2F) . . . . . . . . . . . . . . . . 119
+
+Ratio of permissible expenses for the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+
+                             Line 119 multiplied by line 120                                                                                                       A
+
+The corporation's IFR for the year (line 072 from Part 2D). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121
+
+                             Either line 118 or amount A, whichever applies, plus line 121                                                                                                                          B
+
+                                                                                                                              Line 117 minus amount B. If negative, enter "0".                                                                                     C
+                                                                                                                                                                                                                                                                   D
+                             Absorbed capacity. The lesser of line 116 or amount C. (enter on line 127 in Part 2I and on line 138 in Part 2K)
+                                                                                                                                                                                                                                                          Page 10 of 14
+T2 SCH 130 E
+                                                                                                                                                                                                                                      Protected B when completed
+
+Part 2I ­ Cumulative unused excess capacity (CUEC)
+
+If the corporation has been subject to a loss restriction event, the CUEC for any tax year after the event, is determined without regard to the absorbed capacity, excess capacity and transferred capacity for the
+tax years ending before the event.
+
+Row                                                           1                                      2                                                                                                                        3                         4
+                                                    Excess capacity
+  1                                                                                      Amounts previously                                                                                                       Amounts previously          Column 1 minus
+  2                                                        122                            transferred under                                                                                                         absorbed under      column 2 minus column 3
+  3                                                                                      subsection 18.2(4)
+                                                                                                                                                                                                                  subsection 18.2(2)       If negative, enter "0"
+                                                                                                   123
+                                                                                                                                                                                                                             124                      125
+
+               Third immediately preceding year
+              Second immediately preceding year
+
+                First immediately preceding year
+
+                                                                                                                                                                                                                  Total of column 4                                     A
+
+Excess capacity for the year (line 115 from Part 2G) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126
+
+              CUEC determined as if the absorbed capacity for the year were nil. Amount A plus line 126 (enter on line 116 in Part 2H)                                                                                                                                  B
+
+Absorbed capacity (amount D from Part 2H) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+
+                                                                                         CUEC. Amount B minus line 127. If negative, enter "0".                                                                                                                         C
+
+Part 2J ­ Restricted interest and financing expenses (RIFE) under paragraph 111(1)(a.1)
+
+RIFE from previous tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
+
+Corporation's excess capacity for the year if the amount determined for C in that definition were nil (amount F from Part 2G) . . . . . . . . . . . . . . . . . . . . 129
+
+Total of all amounts of the corporation's received capacity for the year (amount A from Part 1A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+
+                                                                                         Line 129 plus line 130                                                                                                                                                         A
+
+                                                    RIFE deductible under paragraph 111(1)(a.1) for the year. The lesser of line 128 and amount A
+
+                                                                                         (enter on line 114 in Part 2G and on line 137 in Part 2K)                                                                                                                      B
+
+T2 SCH 130 E                                                                                                                                                                                                                                                            Page 11 of 14
+                                                                                                                                                                                                                                    Protected B when completed
+
+Part 2K ­ Proportion determined under subsection 18.2(2)
+
+The corporation's IFE for the year (line 045 from Part 2A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131
+
+If a group ratio election under subsection 18.21(2) has been made, the amount determined and allocated in respect of the corporation for the year                                                                           132
+under the group ratio election . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+If no group ratio election has been made, the ATI (line 106 from Part 2F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+
+Ratio of permissible expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 134
+
+                                                                                            Line 133 multiplied by line 134                                                                                                      A
+
+                                                                                                                                                                               Either line 132 or amount A, whichever applies                             B
+
+The corporation's IFR for the year (line 072 from Part 2D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+
+Received capacity for the year (amount A from Part 1A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 136
+
+RIFE deductible under paragraph 111(1)(a.1) for the year (amount B from Part 2J) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+
+The amount of received capacity that exceeds the deductible amount under paragraph 111(1)(a.1). Line 136 minus line 137. If negative, enter "0".                                                                                                          C
+
+Absorbed capacity amount for the year (amount D from Part 2H) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 138
+
+                                                                                                                                                                               Amount B plus line 135 plus amount C plus line 138                         D
+
+                                                                                                                                                                                                                                 Line 131 minus amount D  E
+
+If IFE does not include any amount for relevant affiliate interest and financing expenses:
+
+Variable A of IFE (amount A from Part 2A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+
+In all other situations:
+    Variable A of IFE, adjusted to remove any amounts that are part of a CFA's relevant affiliate interest and financing expenses under
+    variable B of IFE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+
+                                                                                                                                                                               Either line 139 or line 140, whichever applies                             F
+
+                                                                                            Amount E divided by amount F. If negative, enter "0". (enter in column 3 in Part 2M)                                                                          G
+
+Part 2L ­ Excess IFE under subsection 18.2(2)
+
+Variable A of IFE (amount A from Part 2A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 141
+
+Total of the amounts determined under paragraph (h) of variable A of IFE (amount A from Part 1E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
+
+Total of the amounts determined under paragraph (j) of variable A of IFE (line 041 from Part 2A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143
+
+                                                                                            Line 141 minus line 142 minus line 143. If negative, enter "0".                                                                                               A
+
+                                               Total of all amounts determined under subsection 18.2(2). Amount G in Part 2K multiplied by amount A in Part 2L.
+
+                                                                                            (enter on line 159 in Part 2O and in Schedule 1 of T2 return)                                                                                                 B
+
+T2 SCH 130 E                                                                                                                                                                                                                                              Page 12 of 14
+                                                                                                                                                                    Protected B when completed
+
+  Part 2M ­ Amounts determined under clause 95(2)(f.11)(ii)(D)
+Use the following table to determine amounts that are not deductible under subclause 95(2)(f.11)(ii)(D)(I).
+
+                      1                                                                                      2                      3           4                5                        6
+              Name of CFA
+Row                                                                                                          Amounts                Proportion  Denied amount The corporation's Corporation's share of
+
+                                                                                                             determined for determined under under subclause     specified                the denied amount
+
+                                                                                                             variable A in the subsection 18.2(2) 95(2)(f.11)(ii)(D)(I) participating under subclause 95(2)
+
+                                                                                                             definition of IFE for                               percentage under (f.11)(ii)(D)(I) for the
+
+                                                                                                             the affiliate          Amount G    Column 2         subsection 18.2(1) affiliate's tax year
+
+                                                                                                                                    in Part 2K  multiplied by for the affiliate's
+
+                                                                                                                                                column 3         tax year                 Column 4 multiplied
+
+                                                                                                                                                                 %                        by column 5
+
+                                                                     144                                     145                    146         147              148                      149
+
+1
+2
+3
+4
+5
+
+                                                                                                                                    Total of column 6 (enter on line 161 in Part 2O) 150
+
+Use the following table to determine amounts to be included under subclause 95(2)(f.11)(ii)(D)(II).
+
+                                                1                                                                                               2                3                        4
+              Name of the CFA that is a member of the partnership
+Row                                                                                                                                             Amount determined The corporation's The corporation's share
+
+                                                                                                                                                under subclause  specified                of an amount included
+
+                                                                                                                                                95(2)(f.11)(ii)(D)(II) participating under subclause 95(2)
+
+                                                                                                                                                in computing a percentage under (f.11)(ii)(D)(II) for the
+
+                                                                                                                                                CFA's FAPI subsection 18.2(1) affiliate's tax year
+
+                                                                                                                                                                 for the affiliate's tax
+
+                                                                                                                                                                 year                     Column 2
+
+                                                                                                                                                                 %                        multiplied by
+
+                                                                                                                                                                                          column 3
+
+                                                                                                    151                                         152              153                      154
+1
+2
+3
+4
+5
+
+                                                                                                                            Total of column 4 (enter on line 162 in Part 2O) 155
+
+T2 SCH 130 E                                                                                                                                                                              Page 13 of 14
+                                                               Protected B when completed
+
+Part 2N ­ Partnership IFE add-back under paragraph 12(1)(l.2)
+
+Total of all amounts included under paragraph (h) of variable A of corporation's IFE (amount A from Part 1E). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
+Ratio determined under subsection 18.2(2) (amount G from Part 2K) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 157
+
+                                                                                                               Total add-back of partnership IFE under paragraph 12(1)(I.2) (line 156 multiplied by line 157)
+                                                                                                                                                            (enter on line 160 in Part 2O and in Schedule 1 of T2 return) 158
+
+Part 2O ­ RIFE under subsection 111(8)
+
+Excess IFE under subsection 18.2(2) (amount B from Part 2L) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
+Partnership IFE add-back under paragraph 12(1)(l.2) (line 158 from Part 2N). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+Amount determined under subclause 95(2)(f.11)(ii)(D)(I) (line 150 from Part 2M) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 161
+Amount determined under subclause 95(2)(f.11)(ii)(D)(II) (line 155 from Part 2M) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+
+                                                               RIFE for the tax year. Total of lines 159 to 162 (enter in Schedule 4)                                                                                                              A
+
+T2 SCH 130 E                                                                                                                                                                                                                                       Page 14 of 14
+

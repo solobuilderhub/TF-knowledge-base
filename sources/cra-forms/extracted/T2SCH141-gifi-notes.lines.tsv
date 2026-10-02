@@ -1,0 +1,33 @@
+line	caption
+111	Can you identify the person* specified in the heading of Part 1?
+095	Does that person have a professional designation in accounting?
+097	Is that person connected** with the corporation?
+300	Completed an auditor's report
+301	Completed a review engagement report
+302	Conducted a compilation engagement
+303	Provided accounting services
+304	Provided bookkeeping services
+305	Other (please specify)
+099	Has the person referred to in Part 1 expressed a reservation?
+101	Were notes to the financial statements prepared?
+104	Did the corporation have any subsequent events?
+105	Did the corporation re-evaluate its assets during the tax year?
+106	Did the corporation have any contingent liabilities during the tax year?
+107	Did the corporation have any commitments during the tax year?
+108	Does the corporation have investments in joint venture(s) or partnership(s)?
+200	of an impairment loss in the tax year, a reversal of an impairment loss recognized in a previous tax year, or a change in fair Yes No value during the tax year?
+210	Property, plant, and equipment
+215	Intangible assets
+220	Investment property
+225	Biological assets
+230	Financial instruments
+235	Other
+250	Did the corporation derecognize any financial instrument(s) during the tax year (other than trade receivables)?
+255	Did the corporation apply hedge accounting during the tax year?
+260	Did the corporation discontinue hedge accounting during the tax year?
+265	Was an amount included in the opening balance of retained earnings or equity, in order to correct an error, to recognize a Yes No change in accounting policy, or to adopt a new accounting standard in the current tax year?
+310	Prepared the T2 return and the financial information contained therein
+311	The client provided the financial statements
+312	The client provided a trial balance
+313	The client provided a general ledger
+314	Other (please specify)

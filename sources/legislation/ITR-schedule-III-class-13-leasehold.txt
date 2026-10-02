@@ -1,0 +1,902 @@
+Income Tax Regulations (C.R.C., c. 945)Full Document:  HTMLFull Document: Income Tax Regulations (Accessibility Buttons available) | XMLFull Document: Income Tax Regulations [5562 KB] |  PDFFull Document: Income Tax Regulations [8020 KB]Regulations are current to 2026-06-17  and last amended on 2026-03-26. Previous Versions
+Previous PageTable of ContentsNext Page
+
+SCHEDULE III(Section 1100)Capital Cost Allowances, Class 131 For the purposes of paragraph 1100(1)(b), the amount that may be deducted in computing the income of a taxpayer for a taxation year in respect of the capital cost of property of Class 13 in Schedule II is the lesser of(a) the aggregate of each amount determined in accordance with section 2 of this Schedule that is a prorated portion of the part of the capital cost to him, incurred in a particular taxation year, of a particular leasehold interest; and(b) the undepreciated capital cost to the taxpayer as of the end of the taxation year (before making any deduction under section 1100) of property of the class.2 Subject to section 3 of this Schedule, the prorated portion for the year of the part of the capital cost, incurred in a particular taxation year, of a particular leasehold interest is the lesser of(a) 1/5 of that part of the capital cost; and(b) the amount determined by dividing that part of the capital cost by the number of 12-month periods (not exceeding 40 such periods) falling within the period commencing with the beginning of the particular taxation year in which the capital cost was incurred and ending with the day the lease is to terminate.3 For the purpose of determining, under section 2 of this Schedule, the prorated portion for the year of the part of the capital cost, incurred in a particular taxation year, of a particular leasehold interest, the following rules apply:(a) where an item of the capital cost of a leasehold interest was incurred before the taxation year in which the interest was acquired, it shall be deemed to have been incurred in the taxation year in which the interest was acquired;(b) where, under a lease, a tenant has a right to renew the lease for an additional term, or for more than one additional term, after the term that includes the end of the particular taxation year in which the capital cost was incurred, the lease shall be deemed to terminate on the day on which the term next succeeding the term in which the capital cost was incurred is to terminate;(c) the prorated portion for the year of the part of the capital cost, incurred in a particular taxation year, of a particular leasehold interest shall not exceed the amount, if any, remaining after deducting from that part of the capital cost the aggregate of the amounts claimed and deductible in previous years in respect thereof;(d) where, at the end of a taxation year, the aggregate of(i) the amounts claimed and deductible in previous taxation years in respect of a particular leasehold interest, and(ii) the proceeds of disposition, if any, of part or all of that interestequals or exceeds the capital cost as of that time of the interest, the prorated portion of any part of that capital cost shall, for all subsequent years, be deemed to be nil; and(e) where, at the end of a taxation year, the undepreciated capital cost to the taxpayer of property of Class 13 in Schedule II is nil, the prorated portion of any part of the capital cost as of that time shall, for all subsequent years, be deemed to be nil.4 Where a taxpayer has acquired a property that would, if the property had been acquired by a person with whom the taxpayer was not dealing at arm’s length at the time the property was acquired, be a leasehold interest of that person, a reference in this Schedule to a leasehold interest shall, in respect of the taxpayer, include a reference to that property, and the terms and conditions of the leasehold interest of that property in respect of the taxpayer shall be deemed to be the same as those that would have applied in respect of that person had that person acquired the property.[NOTE: Application provisions are not included in the consolidated text see relevant amending Acts and regulations.] SOR/86-1092, s. 21(F) SOR/94-140, s. 29 SOR/94-686, s. 66(F)
+
+ 
+Table of Contents
+
+Income Tax Regulations1 - Short Title
+
+2 - Interpretation
+
+100 - PART I - Tax Deductions
+
+100 - Interpretation
+
+101 - Deductions and Remittances
+
+102 - Periodic Payments
+
+103 - Non-Periodic Payments
+
+104 - Deductions not Required
+
+104.1 - Lifelong Learning Plan
+
+105 - Non-Residents
+
+105.1 - Fishermen’s Election
+
+106 - Variations in Deductions
+
+107 - Employee’s Returns
+
+108 - Remittances to Receiver General
+
+109 - Elections To Increase Deductions
+
+110 - Prescribed Persons
+
+111 - Deemed Remittance
+
+200 - PART II - Information Returns
+
+200 - Remuneration and Benefits
+
+201 - Investment Income
+
+202 - Payments to Non-Residents
+
+204 - Estates and Trusts
+
+204.1 - Interpretation
+
+204.2 - Additional Reporting — Trusts
+
+205 - Date Returns To Be Filed
+
+205.1 - Electronic Filing
+
+206 - Legal Representatives and Others
+
+207 - Ownership Certificates
+
+209 - Distribution of Taxpayers Portions of Returns
+
+210 - Tax Deduction Information
+
+211 - Accrued Bond Interest
+
+212 - Employees Profit Sharing Plans
+
+213 - Pooled Registered Pension Plans
+
+214 - Registered Retirement Savings Plans
+
+215 - Registered Retirement Income Funds
+
+216 - Advanced Life Deferred Annuity
+
+217 - Dispositon of Interest in Annuities and Life Insurance Policies
+
+218 - Patronage Payments
+
+219 - First Home Savings Account
+
+220 - Cash Bonus Payments on Canada Savings Bonds
+
+221 - Qualified Investments
+
+223 - TFSAs
+
+224 - Canadian Home Insulation Program and Canada Oil Substitution Program
+
+225 - Certified Films and Video Tapes
+
+226 - Scientific Research Tax Credits
+
+227 - Share Purchase Tax Credits
+
+228 - Resource Flow-Through Shares
+
+229 - Partnership Return
+
+229.1 - Definitions
+
+230 - Security Transactions
+
+232 - Worker’s Compensation
+
+233 - Social Assistance
+
+234 - Farm Support Payments
+
+235 - Identifier Information
+
+237 - Contract for Goods and Services
+
+238 - Reporting of Payments in Respect of Construction Activities
+
+300 - PART III - Annuities and Life Insurance Policies
+
+300 - Capital Element of Annuity Payments
+
+301 - Life Annuity Contracts
+
+304 - Prescribed Annuity Contracts
+
+306 - Exempt Policies
+
+307 - Accumulating Funds
+
+308 - Net Cost of Pure Insurance and Mortality Gains and Losses
+
+309 - Prescribed Premiums and Prescribed Increases
+
+309.1 - Income from Participating Life Insurance Businesses
+
+310 - Interpretation
+
+400 - PART IV - Taxable Income Earned in a Province by a Corporation
+
+400 - Interpretation
+
+401 - Computation of Taxable Income
+
+402 - General Rules
+
+402.1 - Central Paymaster
+
+403 - Insurance Corporations
+
+404 - Banks
+
+405 - Trust and Loan Corporations
+
+406 - Railway Corporations
+
+407 - Airline Corporations
+
+408 - Grain Elevator Operators
+
+409 - Bus and Truck Operators
+
+410 - Ship Operators
+
+411 - Pipeline Operators
+
+412 - Divided Businesses
+
+413 - Non-Resident Corporations
+
+414 - Provincial SIFT Tax Rate
+
+500 - PART V - Non-Resident-Owned Investment Corporations
+
+500 - Elections
+
+501 - Elections Revoked
+
+502 - Certificates of Changes of Ownership
+
+600 - PART VI - Elections
+
+700 - PART VII - Logging Taxes on Income
+
+700 - Logging
+
+800 - PART VIII - Non-Resident Taxes
+
+800 - Registered Non-Resident Insurers
+
+801 - Filing of Returns by Registered Non-Resident Insurers
+
+802 - Amounts Taxable
+
+803 - Payment of Tax by Registered Non-Resident Insurers
+
+804 - Interpretation
+
+805 - Other Non-Resident Persons
+
+805.1 - Payee Certificate
+
+806 - International Organizations and Agencies
+
+806.2 - Prescribed Obligation
+
+807 - Identification of Obligations
+
+808 - Allowances in Respect of Investment in Property in Canada
+
+809 - Reduction of Certain Amounts To Be Deducted or Withheld
+
+1000 - PART IX - [Repealed, SOR/2003-5, s. 13]
+
+1000 - PART X - Elections in Respect of Deceased Taxpayers
+
+1001 - Annual Instalments
+
+1100 - PART XI - Capital Cost Allowances
+
+1100 - DIVISION I - Deductions Allowed
+
+1100A - Exempt Mining Income
+
+1101 - DIVISION II - Separate Classes
+
+1101 - Businesses and Properties
+
+1102 - DIVISION III - Property Rules
+
+1102 - Property not Included
+
+1103 - DIVISION IV - Inclusions In and Transfers Between Classes
+
+1103 - Elections To Include Properties in Class 1
+
+1104 - DIVISION V - Interpretation
+
+1104 - Definitions
+
+1105 - DIVISION VI - Classes Prescribed
+
+1106 - DIVISION VII - Certificates Issued by the Minister of Canadian Heritage
+
+1106 - Interpretation
+
+1107 - DIVISION VIII - Determination of Viscosity and Density
+
+1200 - PART XII - Resource and Processing Allowances
+
+1201 - Earned Depletion Allowances
+
+1203 - Mining Exploration Depletion
+
+1204 - Resource Profits
+
+1205 - Earned Depletion Base
+
+1206 - Interpretation
+
+1207 - Frontier Exploration Allowances
+
+1208 - Additional Allowances in Respect of Certain Oil or Gas Wells
+
+1209 - Additional Allowances in Respect of Certain Mines
+
+1210 - Resource Allowance
+
+1211 - Prescribed Amounts
+
+1212 - Supplementary Depletion Allowances
+
+1213 - Prescribed Deductions
+
+1214 - Amalgamations and Windings-Up
+
+1216 - Prescribed Persons
+
+1217 - Prescribed Canadian Exploration Expense
+
+1218 - Prescribed Canadian Development Expense
+
+1219 - Canadian Renewable and Conservation Expense
+
+1300 - PART XIII - Elections in Respect of Taxpayers Ceasing To Be Resident in Canada
+
+1300 - Elections To Defer Capital Gains
+
+1301 - Elections To Defer Payment of Taxes
+
+1302 - Elections To Realize Capital Gains
+
+1400 - PART XIV - Insurance Business Policy Reserves
+
+1400 - DIVISION 1 - Policy Reserves
+
+1400 - Non-Life Insurance Business
+
+1401 - DIVISION 2 - Amounts Determined
+
+1401 - Life Insurance Business
+
+1402 - DIVISION 3 - Special Rules
+
+1402 - Non-Life and Life Insurance Businesses
+
+1404 - DIVISION 4 - Life Insurance Policy Reserves
+
+1408 - DIVISION 5 - Interpretation
+
+1408 - Insurance Businesses
+
+1500 - PART XV - Profit Sharing Plans
+
+1500 - DIVISION I - Employees Profit Sharing Plans
+
+1501 - DIVISION II - Deferred Profit Sharing Plans
+
+1501 - Registration of Plans
+
+1503 - DIVISION III - Elections in Respect of Certain Single Payments
+
+1600 - PART XVI - Prescribed Countries
+
+1700 - PART XVII - Capital Cost Allowances, Farming and Fishing
+
+1700 - DIVISION I - Deductions Allowed
+
+1700 - Rates
+
+1701 - DIVISION II - Maximum Deductions
+
+1702 - DIVISION III - Property not Included
+
+1703 - DIVISION IV - Interpretation
+
+1703 - Taxation Years for Individuals in Business
+
+1704 - DIVISION V - Application of this Part
+
+1800 - PART XVIII - Inventories
+
+1800 - Manner of Keeping Inventories
+
+1801 - Valuation
+
+1802 - Valuation of Animals
+
+1900 - PART XIX - Investment Income Tax
+
+1900 - Interpretation
+
+2000 - PART XX - Political Contributions
+
+2000 - Contents of Receipts
+
+2002 - Interpretation
+
+2100 - PART XXI - Elections in Respect of Surpluses
+
+2100 - Reduction of Tax-Paid Undistributed Surplus on Hand or 1971 Capital Surplus on Hand
+
+2101 - Capital Dividends and Life Insurance Capital Dividends Payable by Private Corporations
+
+2102 - Tax on 1971 Undistributed Income on Hand
+
+2104 - Capital Gains Dividends Payable by Mutual Fund Corporations, Investment Corporations and Mortgage Investment Corporations
+
+2105 - Capital Gains Dividends Payable by Non-Resident-Owned Investment Corporations
+
+2106 - Alternative to Additional Tax on Excessive Elections
+
+2107 - Tax-deferred Preferred Series
+
+2200 - PART XXII - Security Interests
+
+2300 - PART XXIII - Principal Residences
+
+2400 - PART XXIV - Insurers
+
+2400 - Definitions
+
+2401 - Designated Insurance Property
+
+2403 - Branch Tax Elections
+
+2410 - Prescribed Amount
+
+2412 - Mean Canadian Investment Fund
+
+2500 - PART XXV - Special T1 Tax Table for Individuals
+
+2600 - PART XXVI - Income Earned in a Province by an Individual
+
+2600 - Interpretation
+
+2601 - Residents of Canada
+
+2602 - Non-Residents
+
+2603 - Income from Business
+
+2604 - Bus and Truck Operators
+
+2605 - More than One Business
+
+2606 - Limitations of Business Income
+
+2607 - Dual Residence
+
+2608 - Sift Trusts
+
+2700 - PART XXVII - Group Term Life Insurance Benefits
+
+2700 - Definitions & Interpretation
+
+2700 - Definitions
+
+2701 - Prescribed Benefit
+
+2702 - Term Insurance Benefit
+
+2702 - Amount of Benefit
+
+2703 - Prepaid Insurance Benefit
+
+2703 - Amount of Benefit
+
+2704 - Employee-Paid Insurance
+
+2705 - Prescribed Premium and Insurance
+
+2800 - PART XXVIII - Elections in Respect of Accumulating Incomes of Trusts
+
+2900 - PART XXIX - Scientific Research and Experimental Development
+
+2900 - Interpretation
+
+2901 - Prescribed Expenditures
+
+2903 - Special-Purpose Buildings
+
+3000 to 3002 - PART XXX - [Repealed, 2013, c. 40, s. 105]
+
+3100 - PART XXXI - Tax Shelter
+
+3200 - PART XXXII - [Repealed, SOR/2011-188, s. 17]
+
+3300 - PART XXXIII - Tax Transfer Payments
+
+3400 - PART XXXIV - International Development Assistance Programs
+
+3500 - PART XXXV - Gifts
+
+3500 - Interpretation
+
+3501 - Contents of Receipts
+
+3501.1 - Contents of Information Returns
+
+3502 - Employees’ Charity Trusts
+
+3503 - 
+
+3504 - Prescribed Donees
+
+3505 - Conditions
+
+3600 - PART XXXVI - Reserves for Surveys
+
+3700 - PART XXXVII - Registered Charities
+
+3701 - Disbursement Quota
+
+3702 - Determination of Value
+
+3703 - Information Returns
+
+3800 - PART XXXVIII - Social Insurance Number Applications
+
+3900 - PART XXXIX - Mining Taxes
+
+4000 - PART XL - Borrowed Money Costs
+
+4001 - Interest on Insurance Policy Loans
+
+4100 - PART XLI - Representation Expenses
+
+4200 - PART XLII - Valuation of Annuities and Other Interests
+
+4300 - PART XLIII - Interest Rates
+
+4300 - Interpretation
+
+4301 - Prescribed Rate of Interest
+
+4400 - PART XLIV - Publicly-traded Shares or Securities
+
+4500 - PART XLV - Elections in Respect of Expropriation Assets
+
+4600 - PART XLVI - Investment Tax Credit
+
+4600 - Qualified Property
+
+4601 - Qualified Transportation Equipment
+
+4602 - Certified Property
+
+4603 - Qualified Construction Equipment
+
+4604 - Approved Project Property
+
+4605 - Prescribed Activities
+
+4606 - Prescribed Amount
+
+4607 - Prescribed Designated Regions
+
+4608 - Prescribed Expenditure for Qualified Canadian Exploration Expenditure
+
+4609 - Prescribed Offshore Region
+
+4610 - Prescribed Area
+
+4700 - PART XLVII - Election in Respect of Certain Property Owned on December 31, 1971
+
+4800 - PART XLVIII - Status of Corporations and Trusts
+
+4900 - PART XLIX - Registered Plans  —  Investments
+
+4901 - Interpretation
+
+5000 - PART L - [Repealed, 2013, c. 40, s. 109]
+
+5100 - PART LI - Deferred Income Plans, Investments in Small Business
+
+5200 - PART LII - Canadian Manufacturing and Processing Profits
+
+5200 - Basic Formula
+
+5201 - Small Manufacturers’ Rule
+
+5202 - Interpretation
+
+5203 - Resource Income
+
+5204 - Partnerships
+
+5300 - PART LIII - Instalment Base
+
+5300 - Individuals
+
+5301 - Corporations Under Part I of the Act
+
+5400 - PART LIV - [Repealed, SOR/2011-188, s. 21]
+
+5500 - PART LV - Prescribed Programs and Benefits
+
+5500 - Canadian Home Insulation Program
+
+5501 - Canada Oil Substitution Program
+
+5502 - Benefits Under Government Assistance Programs
+
+5503 - Stabilization of Farm Income
+
+5600 - PART LVI - Prescribed Distributions
+
+5700 - PART LVII - Medical Expense Tax Credit
+
+5800 - PART LVIII - Retention of Books and Records
+
+5900 - PART LIX - Foreign Affiliates
+
+5900 - Dividends out of Exempt, Taxable and Pre-Acquisition Surplus
+
+5901 - Order of Surplus Distributions
+
+5902 - Election in Respect of Capital Gains
+
+5903 - Deductible Loss
+
+5904 - Participating Percentage
+
+5905 - Special Rules
+
+5906 - Carrying on Business in a Country
+
+5907 - Interpretation
+
+6000 - PART LX - Prescribed Activities
+
+6100 - PART LXI - Related Segregated Fund Trusts
+
+6200 - PART LXII - Prescribed Securities, Shares and Debt Obligations
+
+6200 - Prescribed Securities
+
+6201 - Prescribed Shares
+
+6300 - PART LXIII - Child Tax Benefits
+
+6300 - Interpretation
+
+6301 - Non-Application of Presumption
+
+6302 - Factors
+
+6400 - PART LXIV - Prescribed Dates
+
+6400 - Child Tax Credits
+
+6401 - Quebec Tax Abatement
+
+6500 - PART LXV - Prescribed Laws
+
+6600 - PART LXVI - Prescribed Order
+
+6700 - PART LXVII - Prescribed Venture Capital Corporations, Labour-sponsored Venture Capital Corporations, Investment Contract Corporations, Qualifying Corporations and Prescribed Stock Savings Plans
+
+6800 - PART LXVIII - Prescribed Plans, Arrangements and Contributions
+
+6801.1 - COVID-19 — Deferred salary leave plan
+
+6804 - Contributions to Foreign Plans
+
+6804 - Definitions
+
+6900 - PART LXIX - Prescribed Offshore Investment Fund Properties
+
+7000 - PART LXX - Accrued Interest on Debt Obligations
+
+7001 - Indexed Debt Obligations
+
+7100 - PART LXXI - Prescribed Federal Crown Corporations
+
+7300 - PART LXXII - [Repealed, SOR/2001-295, s. 5]
+
+7300 - PART LXXIII - Prescribed Amounts and Areas
+
+7400 - PART LXXIV - Prescribed Forest Management Plans for Woodlots
+
+7500 - PART LXXV - [Repealed, 2013, c. 33, s. 36]
+
+7600 - PART LXXVI - Carved-out Property Exclusion
+
+7700 - PART LXXVII - Prescribed Prizes
+
+7800 - PART LXXVIII - Specified Pension Plans
+
+7900 - PART LXXIX - Prescribed Financial Institutions
+
+8000 - PART LXXX - Prescribed Reserve Amount and Recovery Rate
+
+8100 - PART LXXXI - [Repealed, 2013, c. 34, s. 406]
+
+8200 - PART LXXXII - Prescribed Properties and Permanent Establishments
+
+8200 - Prescribed Properties
+
+8201 - Permanent Establishments
+
+8300 - PART LXXXIII - Pension Adjustments, Past Service Pension Adjustments, Pension Adjustment Reversals and Prescribed Amounts
+
+8300 - Interpretation
+
+8301 - Pension Adjustments
+
+8301 - Pension Adjustment with Respect to Employer
+
+8302 - Benefit Entitlement
+
+8303 - Past Service Pension Adjustment
+
+8303 - PSPA with Respect to Employer
+
+8304 - Past Service Benefits — Additional Rules
+
+8304 - Replacement of Defined Benefits
+
+8304.1 - Pension Adjustment Reversal
+
+8304.1 - Total Pension Adjustment Reversal
+
+8305 - Association of Benefits with Employers
+
+8306 - Exemption from Certification
+
+8307 - Certification in Respect of Past Service Events
+
+8307 - Application for Certification
+
+8308 - Special Rules
+
+8308 - Benefits Provided Before Registration
+
+8308.1 - Foreign Plans
+
+8308.1 - Definition
+
+8308.2 - Prescribed Amount for Member of Foreign Plan
+
+8308.2 - Prescribed Amount
+
+8308.3 - Specified Retirement Arrangements
+
+8308.3 - Definition
+
+8308.4 - Government-Sponsored Retirement Arrangements
+
+8308.4 - Definitions
+
+8309 - Prescribed Amount for Lieutenant Governors and Judges
+
+8310 - Minister’s Powers
+
+8311 - Rounding of Amounts
+
+8400 - PART LXXXIV - Retirement and Profit-sharing Plans — Reporting and Provision of Information
+
+8400 - Definitions
+
+8401 - Pension Adjustment
+
+8402 - Past Service Pension Adjustment
+
+8402.01 - Pension Adjustment Reversal
+
+8402.01 - Deferred Profit Sharing Plan
+
+8402.1 - Government-Sponsored Retirement Arrangements
+
+8403 - Connected Persons
+
+8404 - Reporting to Individuals
+
+8405 - Discontinuance of Business
+
+8406 - Provision of Information
+
+8407 - Qualifying Withdrawals
+
+8408 - Requirement To Provide Minister with Information
+
+8409 - Annual Information Returns
+
+8410 - Actuarial Reports
+
+8500 - PART LXXXV - Registered Pension Plans
+
+8500 - Interpretation
+
+8501 - Prescribed Conditions for Registration and Other Conditions Applicable to Registered Pension Plans
+
+8501 - Conditions for Registration
+
+8502 - Conditions Applicable to all Plans
+
+8503 - Defined Benefit Provisions
+
+8503 - Net Contribution Accounts
+
+8504 - Maximum Benefits
+
+8504 - Lifetime Retirement Benefits
+
+8505 - Additional Benefits on Downsizing
+
+8505 - Downsizing Program
+
+8506 - Money Purchase Provisions
+
+8506 - Permissible Benefits
+
+8507 - Periods of Reduced Pay
+
+8507 - Prescribed Compensation
+
+8508 - Salary Deferral Leave Plan
+
+8509 - Transition Rules
+
+8509 - Prescribed Conditions Applicable Before 1992 to Grandfathered Plan
+
+8510 - Multi-employer Plans and Other Special Plans
+
+8510 - Definition of Multi-employer Plan
+
+8511 - Conditions Applicable to Amendments
+
+8512 - Registration and Amendment
+
+8513 - Designated Laws
+
+8514 - Prohibited Investments
+
+8515 - Special Rules for Designated Plans
+
+8515 - Designated Plans
+
+8516 - Eligible Contributions
+
+8516 - Prescribed Contribution
+
+8517 - Transfer — Defined Benefit to Money Purchase
+
+8517 - Prescribed Amount
+
+8519 - Association of Benefits with Time Periods
+
+8520 - Minister’s Actions
+
+8600 - PART LXXXVI - Taxable Capital Employed in Canada
+
+8700 - PART LXXXVII - National Arts Service Organizations
+
+8800 - PART LXXXVIII - Disability-related Modifications and Apparatus
+
+8900 - PART LXXXIX - Entities Prescribed with Respect to Certain Rules
+
+8900 - International Organizations
+
+8901.1 - PART LXXXIX.1 - COVID-19 Wage and Rent Subsidies
+
+9000 - PART XC - Financial Institutions — Prescribed Entities and Properties
+
+9000 - Prescribed Person not a Financial Institution
+
+9001 - Prescribed Property not Mark-to-Market Property
+
+9002 - Prescribed Property not Mark-to-Market Property
+
+9002.1 - Prescribed Payment Card Corporation Share not Mark-to-Market Property
+
+9003 - Significant Interest in a Corporation
+
+9004 - Financing Arrangement not a Specified Debt Obligation
+
+9005 - Prescribed Non-reporting Financial Institution
+
+9006 - Prescribed Excluded Accounts
+
+9100 - PART XCI - Financial Institutions — Income from Specified Debt Obligations
+
+9100 - Interpretation
+
+9101 - Prescribed Inclusions and Deductions
+
+9102 - General Accrual Rules
+
+9103 - Accrual Rules — Special Cases and Transition
+
+9104 - Foreign Exchange Adjustment
+
+9200 - PART XCII - Financial Institutions — Disposition of Specified Debt Obligations
+
+9200 - Interpretation
+
+9202 - Prescribed Debt Obligations
+
+9203 - Residual Portion of Gain or Loss
+
+9204 - Special Rules for Residual Portion of Gain or Loss
+
+9300 - PART XCIII - Film or Video Production Services Tax Credit
+
+9300 - Accredited Production
+
+9400 - PART XCIV - [Repealed, 2016, c. 7, s. 59]
+
+9500 - PART XCV - Employee Life and Health Trusts
+
+9600 - PART XCVI - School Supplies Tax Credit
+
+9700 - PART XCVII - COVID-19 — Air Quality Improvement Tax Credit
+
+SCHEDULE I  - Ranges of Remuneration and of Total Remuneration
+
+SCHEDULE II  - Capital Cost Allowances
+
+SCHEDULE III  - Capital Cost Allowances, Class 13
+
+SCHEDULE IV  - Capital Cost Allowances, Class 15
+
+SCHEDULE V  - Capital Cost Allowances, Industrial Mineral Mines
+
+SCHEDULE VI  - Capital Cost Allowances, Timber Limits and Cutting Rights
+
+SCHEDULE VII 
+
+SCHEDULE VIII -  - [Repealed, 2018, c. 12, s. 46]
+
+SCHEDULES IX AND X
+
+ Previous PageNext PageSelect pageTable of Contents1    ... 102103 ... 103.1104      ... 108109     ... 202203     ... 205.1206           ... 215216           ... 227228      ... 233234      ... 301302    ... 306307  ... 309309.1    ... 402402.1       ... 407408            ... 503600               ... 808809     ... 11001100A ... 110111021103 ... 11041105 ... 11061107   ... 12021203 ... 1204120512061207      ... 12121213      ... 12191300    ... 14011402       ... 14081500        ... 17031704    ... 19002000          ... 21062107     ... 24002401          ... 24112412    ... 26012602        ... 27012702     ... 29002901      ... 31003101             ... 36003700           ... 43014302      ... 46034604     ... 46094610         ... 48024803 ... 49004901    ... 51005101   ... 51045200  ... 52025203 ... 52045300         ... 57005701    ... 59015902 ... 59035903.1  ... 59055906 ... 590759085909      ... 62016202 ... 6202.16203  ... 62056206          ... 65006501         ... 67026703          ... 68026802.1     ... 70007001     ... 7303.17304 ... 73057305.017305.02    ... 73087309             ... 80058006            ... 830083018302830383048304.18305   ... 83088308.1  ... 8308.38308.4       ... 8402.018402.1         ... 85008501 ... 8502850385048505 ... 85068507  ... 85098510  ... 85128513  ... 85158516 ... 85178518        ... 86058700      ... 8901.29000          ... 91019102    ... 92019202      ... 95009600 ... 9700SCHEDULE I : Ranges of Remuneration and of Total RemunerationSCHEDULE II : Capital Cost AllowancesSCHEDULE III : Capital Cost Allowances, Class 13SCHEDULE IV : Capital Cost Allowances, Class 15SCHEDULE V : Capital Cost Allowances, Industrial Mineral MinesSCHEDULE VI : Capital Cost Allowances, Timber Limits and Cutting RightsSCHEDULE VIISCHEDULE VIII : [Repealed, 2018, c. 12, s. 46]SCHEDULES IX AND XAmendments not in forcePrevious Amendments
+
+    Page Details   
+        
+    Date modified: 
+    ﻿2026-08-06

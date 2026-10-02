@@ -1,0 +1,393 @@
+                                        Low Rate Income Pool (LRIP) Calculation                                                                                                    Schedule 54
+                                                   (2022 and later tax years)                                                                                                            Code 2201
+
+                                                                                                         Business number                                                            Protected B
+                                                                                                                                                                                  when completed
+
+Corporation's name                                                                                                                                                                Tax year-end
+
+                                                                                                                                                        Year                      Month Day
+
+· Use this schedule to calculate the balance of the low rate income pool (LRIP) at any time in the tax year if you are a corporation resident in Canada that is:
+  ­ a corporation other than a Canadian-controlled private corporation (CCPC) or a deposit insurance corporation (DIC)
+  ­ a corporation that elected under subsection 89(11) not to be a CCPC
+  ­ a corporation that was a substantive CCPC at any time in the previous tax year starting after April 6, 2022
+
+· When an eligible dividend was paid or there was a change in the LRIP balance in the tax year, file this schedule with your T2 Corporation Income Tax Return.
+
+  Do not send your worksheets (pages 3 to 5) with your return, but keep them in case we ask to see them later.
+
+· Unless otherwise stated, all legislative references are to the Income Tax Act.
+
+· Subsection 89(1) defines the terms eligible dividend, excessive eligible dividend designation, general rate income pool, and low rate income pool.
+
+· Subsection 129(4) defines the term aggregate investment income and subsection 248(1) defines the term substantive CCPC.
+
+    Part 1 ­ Low rate income pool (LRIP)
+
+LRIP at the end of the immediately previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+
+Aggregate investment income for the previous tax year 1                                                                            × 80% = . . . . . . . . . . 150
+(line 440 of the T2 return of the previous tax year) . . . . . . . . . . . . . . . . . . 140
+
+Investment corporation deduction (line 620 of the T2 return of the                                                                 × 4 = . . . . . . . . . . . . . 160
+previous tax year) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                                                  Subtotal (add lines 100, 150, and 160) 190
+
+1 Enter an amount on line 140 only if:
+
+­ you were not a CCPC in the previous tax year because of an election under subsection 89(11)
+
+­ you were a substantive CCPC at any time in the previous tax year starting after April 6, 2022
+
+Part 2 ­ LRIP and excessive eligible dividend designations during the tax year
+
+· Fill out this part if you paid an eligible dividend in the tax year.
+
+· If you need more space, attach additional sheets.
+
+       1                            2                                         3                                            4                  5                    6
+    Date 2
+(yyyy/mm/dd)              Total dividends 3                      Total adjustments for                                Subtotal      Total dividends 5   Total of excessive
+                       receivable in the year                       amalgamations,                                (add lines 190,  payable in the year   eligible dividend
+     200                                                                                                          210, and 220)                         designations made
+                         before the date on                    wind-ups, or on ceasing                                               before the date    before the date on
+                          line 200 that are                         to be a CCPC 4                                       230            on line 200
+                          deductible under                                                                                                                     line 200
+                                                                            220                                                              240
+                             section 112                                                                                                                          250
+
+                                  210
+
+           7                         8                                     9                                          2 Enter in column 1 each date when:
+                       Total eligible dividends                 Excessive eligible
+LRIP as of the date                                            dividend designation                                    ­ an eligible dividend was paid in the year
+      on line 200        paid on the date on                    (lesser of lines 260                                   ­ an adjustment was made as a result of an amalgamation or the wind-up
+                                 line 200
+(line 230 minus the                                                   and 270)                                               of a subsidiary or on ceasing to be a CCPC (by an election or otherwise)
+total of line 240 and              270
+                                                                         280                                          3 Include taxable dividends from a corporation resident in Canada (other than
+       line 250)                                                                                                        eligible dividends).
+
+         260                                                                                                          4 Fill out Part 4 when the corporation ceases to be a CCPC or DIC. Fill out
+                                                                                                                        Part 5 for each predecessor involved in the amalgamation and Part 6 for
+Total excessive eligible dividend designations                                                                          each subsidiary involved in the wind-up. Add the adjustments calculated in
+in the tax year (total of column 9) . . . . . . . . . . . . .                                                           parts 4 to 6 for the same date and enter the result in column 3 beside the
+                                                                                                                        appropriate date entered in column 1. Enter the total of column 3 on
+Enter amount A at amount C of Schedule 55.                                                                              line 520 in Part 3.
+
+                                                                                                                      5 Include taxable dividends other than eligible dividends, capital gains
+                                                                                                                  A dividends within the meaning assigned by subsection 130.1(4) or 131(1),
+
+                                                                                                                        or dividends deductible under subsection 130.1(1).
+
+T2 SCH 54 E (24)                                               (Ce formulaire est disponible en français.)                         Page 1 of 5
+                                                                                                                                               Protected B when completed
+
+Part 3 ­ LRIP closing balance
+
+Amount from line 190 in Part 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  B
+
+Total dividends 6 receivable in the tax year that are deductible under section 112 . . . . . . . . . . . . . . . . 510
+
+Total adjustments for amalgamations, wind-ups, or on ceasing to be a CCPC 7 . . . . . . . . . . . . . . . . . . 520
+
+                               Subtotal (line 510 plus line 520)                                                                                                                                    C
+
+                               Subtotal (amount B plus amount C)                                                                                                                                    D
+
+Total dividends 8 payable in the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 540
+
+Total excessive eligible dividend designations in the tax year (amount A in Part 2) . . . . . . . . . . . . . . . . . . . .                    E
+
+                               Subtotal (line 540 plus amount E)                                                                                                                                    F
+
+LRIP at the end of the tax year (amount D minus amount F) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 590
+
+6 Include taxable dividends from a corporation resident in Canada (other than eligible dividends).
+
+7 Fill out Part 4 when the corporation ceases to be a CCPC or DIC. Fill out Part 5 for each predecessor involved in the amalgamation and Part 6 for each
+  subsidiary involved in the wind-up. Add the adjustments calculated in parts 4 to 6 for the same date and enter the result in column 3 beside the appropriate
+  date entered in column 1 of Part 2. Enter the total of column 3 on line 520.
+
+8 Include taxable dividends other than eligible dividends, capital gains dividends within the meaning assigned by subsection 130.1(4) or 131(1), or dividends
+  deductible under subsection 130.1(1). For a non-CCPC with a tax year starting after April 6, 2022, include amounts paid in the previous tax year that did not
+  reduce the LRIP or line 150 of the previous tax year, whichever is less.
+
+T2 SCH 54 E (24)                                                                                                                                                                                    Page 2 of 5
+                                                                                                                                                        Protected B when completed
+
+Part 4 ­ Worksheet for adjustment when a corporation ceases to be a CCPC or DIC
+
+· Fill out this part if the corporation is neither a CCPC nor a DIC in this tax year but was a CCPC or a DIC in the previous tax year.
+· This adjustment to the LRIP can be made at any time in the tax year.
+· Keep a copy of this calculation for your records in case we ask to see it later.
+
+Cost amount to the corporation of all property immediately before the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . .        1
+
+The corporation's cash on hand immediately before the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+
+Total of subsection 111(1) losses that would have been deductible in computing the corporation's taxable income for the previous
+tax year if the corporation had had unlimited income from each business carried on and each property held and had realized an
+unlimited amount of capital gains for the previous tax year:
+
+Non-capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     3
+
+Net capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+
+Farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+
+Restricted farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       6
+
+Limited partnership losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         7
+
+                  Subtotal (add amounts 3 to 7)                                                                                                         8
+
+Total of all amounts deducted under subsection 111(1) in computing the corporation's taxable income for the previous tax year:
+
+Non-capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     9
+
+Net capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+
+Farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+
+Restricted farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       12
+
+Limited partnership losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         13
+
+                  Subtotal (add amounts 9 to 13)                                                                                                        14
+
+Unused and unexpired losses at the end of the corporation's previous tax year                                                                                     15
+(amount 8 minus amount 14) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                                               Subtotal (add amounts 1, 2, and 15)                16
+
+All of the corporation's debts and other obligations to pay that were outstanding immediately before the                                                17
+
+end of its previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Paid up capital of all the corporation's issued and outstanding shares of capital stock immediately before                                              18
+
+the end of its previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+All of the corporation's reserves deducted in its previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     19
+
+The corporation's capital dividend account immediately before the end of its previous tax year if the                                                   20
+
+corporation is not a private corporation in the current tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The corporation's general rate income pool (GRIP) at the end of its previous                                   21
+
+tax year (if negative, use brackets) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Eligible dividends paid in the previous tax year . . . .                      22
+
+Excessive eligible dividend designations made in the                          23
+
+previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Subtotal (amount 22 minus amount 23)                                                                           24
+(if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . .
+
+Subtotal (amount 21 minus amount 24) (if negative, use brackets)                                                                                        25
+
+                  Subtotal (add amounts 17, 18, 19, 20, and 25) (if negative, use brackets)                                                                       26
+
+Adjustment for a corporation that ceases to be a CCPC or DIC (amount 16 minus amount 26) (if negative, enter "0"). . . . . . . . . . .                            27
+
+T2 SCH 54 E (24)                                                                                                                                                  Page 3 of 5
+                                                                                                                                                            Protected B when completed
+
+Part 5 ­ Worksheet for adjustment when a corporation is formed as a result of an amalgamation
+
+· Fill out this part if the corporation was formed as a result of an amalgamation or merger of two or more corporations, one or more of which is a taxable
+
+  Canadian corporation. Fill out a separate worksheet for each predecessor.
+
+· This adjustment to the LRIP can be made at any time in the tax year.
+· The last tax year was its tax year that ended immediately before the amalgamation.
+· Keep a copy of this calculation for your records in case we ask to see it later.
+
+For a predecessor corporation that was a CCPC or a DIC in its tax year that ended immediately before the amalgamation
+
+Cost amount to the predecessor of all property immediately before the end of its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                    1
+
+The predecessor's cash on hand immediately before the end of its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                              2
+
+Total of subsection 111(1) losses that would have been deductible in computing the predecessor's taxable income for its last tax
+year if the predecessor had had unlimited income from each business carried on and each property held and had realized an
+unlimited amount of capital gains for its last tax year:
+
+Non-capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     3
+
+Net capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+
+Farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+
+Restricted farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       6
+
+Limited partnership losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         7
+
+                                           Subtotal (add amounts 3 to 7)                                                                                    8
+
+Total of all amounts deducted under subsection 111(1) in computing the predecessor's taxable income for its last tax year:
+
+Non-capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     9
+
+Net capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+
+Farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+
+Restricted farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       12
+
+Limited partnership losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         13
+
+                                           Subtotal (add amounts 9 to 13)                                                                                   14
+
+Unused and unexpired losses at the end of the predecessor's last tax year                                                                                                                         15
+(amount 8 minus amount 14) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                                               Subtotal (add amounts 1, 2, and 15)                                                16
+
+All of the predecessor's debts and other obligations to pay that were outstanding immediately before the                                                    17
+
+end of its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Paid up capital of all the predecessor's issued and outstanding shares of capital stock immediately before                                                  18
+
+the end of its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+All of the predecessor's reserves deducted in its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       19
+
+The predecessor's capital dividend account immediately before the end of its last tax year if the                                                           20
+
+corporation is not a private corporation in its first tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The predecessor's general rate income pool (GRIP) at the end of its last tax                                   21
+
+year (if negative, use brackets) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Eligible dividends paid in its last tax year . . . . . . . . .                22
+
+Excessive eligible dividend designations made in its                          23
+
+last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Subtotal (amount 22 minus amount 23)                                                                           24
+(if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . .
+
+Subtotal (amount 21 minus amount 24) (if negative, use brackets)                                                                                            25
+
+                  Subtotal (add amounts 17, 18, 19, 20, and 25) (if negative, use brackets)                                                                                                       26
+
+Adjustment for a predecessor corporation that was a CCPC or a DIC in its last tax year                                                                                                            27
+
+(amount 16 minus amount 26) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+For a predecessor corporation that was neither a CCPC nor a DIC in its tax year that ended immediately before
+the amalgamation
+
+LRIP at the end of its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  28
+
+Adjustment for a predecessor corporation involved in an amalgamation (amount 27 plus amount 28) . . . . . . . . . . . . . . . . . . . . .                                                         29
+
+Calculate amount 29 for each predecessor.
+
+T2 SCH 54 E (24)                                                                                                                                                                                  Page 4 of 5
+                                                                                                                                                         Protected B when completed
+
+    Part 6 ­ Worksheet for adjustment when a corporation has wound-up a subsidiary
+
+· Fill out this part if the corporation is the parent corporation (parent) that is neither a CCPC nor a DIC in a tax year and has, in the year, received all or
+
+  substantially all of the assets on dissolution or wind-up of a subsidiary. Fill out a separate worksheet for each subsidiary involved in the wind-up.
+
+· This adjustment to the parent's LRIP can be made at any time in the tax year that is at or after the end of the subsidiary's last tax year.
+· The last tax year for the subsidiary was its tax year during which its assets were distributed to the parent corporation on the wind-up.
+· Keep a copy of this calculation for your records in case we ask to see it later.
+
+For a subsidiary that was a CCPC or a DIC in its last tax year
+
+Cost amount to the subsidiary of all property immediately before the end of its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                 1
+
+The subsidiary's cash on hand immediately before the end of its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                             2
+
+Total of subsection 111(1) losses that would have been deductible in computing the subsidiary's taxable income for its last tax year if
+the subsidiary had had unlimited income from each business carried on and each property held and had realized an unlimited amount
+of capital gains for its last tax year:
+
+Non-capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     3
+
+Net capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+
+Farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+
+Restricted farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       6
+
+Limited partnership losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         7
+
+                                          Subtotal (add amounts 3 to 7)                                                                                         8
+
+Total of all amounts deducted under subsection 111(1) in computing the subsidiary's taxable income for the last tax year:
+
+Non-capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     9
+
+Net capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+
+Farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+
+Restricted farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       12
+
+Limited partnership losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         13
+
+                                          Subtotal (add amounts 9 to 13)                                                                                        14
+
+Unused and unexpired losses at the end of the subsidiary's last tax year                                                                                                                          15
+(amount 8 minus amount 14) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                                               Subtotal (add amounts 1, 2, and 15)                                                16
+
+All of the subsidiary's debts and other obligations to pay that were outstanding immediately before the end                                                     17
+
+of its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Paid up capital of all the subsidiary's issued and outstanding shares of capital stock immediately before                                                       18
+
+the end of its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+All of the subsidiary's reserves deducted in its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        19
+
+The subsidiary's capital dividend account immediately before the end of its last tax year if the parent is                                                      20
+
+not a private corporation in the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The subsidiary's general rate income pool (GRIP) at the end of its last                                        21
+
+tax year (if negative, use brackets) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Eligible dividends paid in its last tax year . . . . . . . . .               22
+
+Excessive eligible dividend designations made in                             23
+
+its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Subtotal (amount 22 minus amount 23)                                                                           24
+(if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . .
+
+Subtotal (amount 21 minus amount 24) (if negative, use brackets)                                                                                                25
+
+                  Subtotal (add amounts 17, 18, 19, 20, and 25) (if negative, use brackets)                                                                                                       26
+
+Adjustment for a subsidiary that was a CCPC or a DIC in its last tax year (amount 16 minus amount 26) (if negative, enter "0") . . . . . .                                                        27
+
+For a subsidiary that was neither a CCPC nor a DIC in its last tax year
+
+LRIP at the end of its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  28
+
+Adjustment for a subsidiary involved in a wind-up (amount 27 plus amount 28) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                        29
+
+Calculate amount 29 for each subsidiary.
+
+T2 SCH 54 E (24)                                                                                                                                                                                  Page 5 of 5
+

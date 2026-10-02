@@ -1,0 +1,180 @@
+                                                       Calculation of Parts IV.1 and VI.1 Taxes                                                                                                           Schedule 43
+                                                                 (2019 and later tax years)                                                                                                                  Code 1901
+
+                                                                                                                                         Business number                                                   Protected B
+                                                                                                                                                                                                      when completed
+
+Corporation's name                                                                                                                                                                                    Tax year-end
+
+                                                                                                                                                                                                Year       Month Day
+
+· Use this schedule to calculate a corporation's Part IV.1 tax for dividends received on taxable preferred shares and taxable restricted financial institution (RFI)
+
+  shares, and its Part VI.1 tax for dividends paid on short-term preferred shares and taxable preferred shares.
+
+· Use this schedule to elect under subsection 191.2(1) to pay Part VI.1 tax at a rate of 40% on taxable preferred shares. This rate would apply to all future
+
+   dividends paid on that class or series of shares.
+
+· All legislative references are to the federal Income Tax Act and Income Tax Regulations.
+· Restricted financial institution, taxable RFI share, taxable preferred share, and short-term preferred share are terms defined in subsection 248(1).
+· If Part IV.1 or VI.1 taxes are payable, file one completed copy of this schedule with your T2 Corporation Income Tax Return no later than six months after the
+
+   end of the tax year. If you are making an election under subsection 191.2(1), see subsection 191.2(1) of the Act for information on the period in which to make
+   the election.
+
+· For corporations without taxable income that have Part IV.1 or VI.1 taxes payable and that have a permanent establishment in more than one jurisdiction,
+
+   complete only columns A, B, and D in Part 1 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+· For Part IV.1 tax, an excepted dividend is a dividend as described in section 187.1 and subsections 191(4) and 191(5).
+· For Part VI.1 tax, an excluded dividend is a dividend as described in subsections 191(1), 191(4), 191(5), and 191(6).
+· For more information, see the T2 Corporation Income Tax Guide.
+
+Part 1 ­ Dividend allowance
+
+Basic dividend allowance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             $ 500,000 1A
+
+Taxable dividends (other than excluded dividends) paid in the calendar year immediately
+
+preceding the calendar year in which the tax year ended. These dividends are on taxable
+
+preferred shares or shares that would be taxable preferred shares if they were issued after
+
+June 18, 1987, and were not grandfathered shares (see point 1 in Part 2 below if the corporation                                                          1B
+
+is associated) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                    Excess (amount 1B minus amount 1C) (if negative, enter "0") 110                                                               $ 1,000,000 1C
+                                                                                                                                                                       
+
+Dividend allowance (amount 1A minus line 110) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+
+  Part 2 ­ Agreement among associated corporations to allocate the dividend allowance                                                                                                           Year Month Day
+
+Date filed (do not use this area) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116                 Yes           No
+Is this an amended agreement? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
+Calendar year to which the agreement applies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118                      Year
+
+1. Enter the total of non-excluded dividends paid by all associated corporations at amount 1B in Part 1.
+2. Allocate the dividend allowance (line 115 above) among associated corporations in column 140, as shown below.
+3. Apply the special rules provided under paragraph 191.1(6)(b) if a corporation has two or more tax years ending in the same calendar year during which it
+
+    is associated with another taxable Canadian corporation that has a tax year ending in that calendar year.
+4. If an associated corporation has more than one tax year ending in a calendar year, it has to file an agreement for each of these tax years.
+5. Attach additional schedules if more space is needed.
+
+Allocation of dividend allowance                       Business number (If a corporation is not registered, enter "NR")                                       Dividend allowance allocated
+                                                                                         130                                                                                140
+                  Name of each associated corporation
+                                   120
+
+                                                       Total (cannot be more than amount on line 115)
+
+T2 SCH 43 E (19)                                       (Ce formulaire est disponible en français.)                                                        Page 1 of 3
+                                                                                                                                    Protected B when completed
+
+Part 3 ­ Part VI.1 tax payable
+
+Complete the calculation of the dividend allowance in Part 1.
+Dividend allowance: amount on line 115 (from Part 1) or, if associated, the total amount allocated on line 140 (from Part 2). . . . 210
+
+Note: If the tax year is less than 51 weeks, prorate the dividend allowance based on the number of days in the tax year divided
+         by 365. Enter this amount on line 210 instead of the amount from line 115 or 140.
+
+1. Taxable dividends (other than excluded dividends) paid by the corporation in the year on
+    short-term preferred shares . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+
+Line 210 or 220, whichever is less . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3A
+Line 220 minus amount 3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                                                                                                                                3B × 40% =                                        3C
+
+2. Taxable dividends (other than excluded dividends) paid by the corporation in the year on
+    taxable preferred shares (other than short-term preferred shares) of all classes for which
+    the corporation is making an election under subsection 191.2(1) . . . . . . . . . . . . . . . . . . . 230
+
+Dividend allowance (line 210) . . . . . . . . . . . . . . . . . . . . .            3D
+
+Amount 3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3E
+
+Net amount (amount 3D minus amount 3E) . . . . . . . . . .                         3F
+
+Line 230 or amount 3F, whichever is less . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        3G
+Line 230 minus amount 3G . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                                                                                                                                3H × 40% =                                        3I
+
+3. Taxable dividends (other than excluded dividends) paid by the corporation in the year on
+    taxable preferred shares (other than short-term preferred shares) of all classes for which
+    the corporation is not making an election under subsection 191.2(1) . . . . . . . . . . . . . . . . 240
+
+Dividend allowance (line 210) . . . . . . . . . . . . . . . . . . . . .            3J
+
+Amount 3A . . . . . . . . .     3K
+
+Amount 3G . . . . . . . . .     3L
+
+Subtotal (amount 3K                                                                3M
+plus amount 3L) . . . . .
+
+Net amount (amount 3J minus amount 3M) . . . . . . . . . .                         3N
+
+Line 240 or amount 3N, whichever is less . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        3O
+Line 240 minus amount 3O . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                                                                                                                                3P × 25% =                                        3Q
+
+4. Complete this calculation if the corporation has made an agreement under section 191.3 to pay all or part of a related
+    corporation's Part VI.1 tax otherwise payable for the year (complete and file Schedule 45).
+
+Part VI.1 tax transferred from a related corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250
+
+                                                                                   Subtotal (add amounts 3C, 3I, 3Q, and line 250)                                                3R
+
+    Part VI.1 tax transferred to a related corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 260
+
+Part VI.1 tax payable (amount 3R minus line 260) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 270
+Enter amount from line 270 on line 724 of the T2 return.
+
+Note: Part VI.1 tax payable has the same instalment requirements and balance due date as Part I tax payable.
+
+                                                                                                                                                                                  Page 2 of 3
+                                                                                                                             Protected B when completed
+
+Part 4 ­ Part IV.1 tax payable
+
+This tax does not apply to dividends received by financial intermediary corporations or corporations that were private corporations at the time the dividends
+were received. Part IV.1 tax applies only if the dividend in question was deductible under section 112 or 113 or under subsection 138(6) or 115(1). Part IV.1
+tax payable is due on or before the balance due date of the corporation or the restricted financial institution for a tax year.
+
+Taxable dividends (other than excepted dividends) received in the year on taxable preferred shares [other than a share of a
+class for which the corporation has made an election under subsection 191.2(1)] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310
+
+Taxable dividends (other than excepted dividends) received in the year by a restricted financial institution on taxable RFI
+shares (see section 187.3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 320
+Total taxable dividends subject to Part IV.1 tax (line 310 plus line 320) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 330
+Part IV.1 tax payable (line 330 multiplied by 10%) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 340
+Enter amount from line 340 on line 716 of the T2 return.
+
+Part IV tax reduction
+
+Portion of taxable dividends included on line 330 that is also subject to Part IV tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 350
+Portion of taxable dividends included on line 350 received from connected corporations . . . . 370
+
+Part IV tax on taxable dividends reported on line 370 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 380      × 30% =                                                        4A
+
+Enter amount 4A at amount 2F of Schedule 3, Dividends Received, Taxable Dividends Paid, and Part IV Tax Calculations.
+
+Portion of taxable dividends included on line 350 received from non-connected corporations 390                               × 10% =                                                        4B
+
+Reduction of Part IV tax otherwise payable (amount 4A plus amount 4B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 360
+Enter amount from line 360 on line 320 of Schedule 3.
+
+Eligible taxable dividends included on line 390 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400  × 10% =                                                        4C
+
+Enter amount 4C at amount 2I of Schedule 3.
+
+Part IV tax reduction of non-eligible taxable dividends received from non-connected corporations (amount 4B minus amount 4C)                                                                4D
+
+Enter amount 4D at amount T of the T2 return.
+
+                                                                                                                                                                                            Page 3 of 3
+

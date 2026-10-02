@@ -1,0 +1,341 @@
+                    General Rate Income Pool (GRIP) Calculation                                                                                                                      Schedule 53
+                                     (2019 and later years)                                                                                                                                Code 1902
+
+                                                                                            Business number                                                                           Protected B
+                                                                                                                                                                                    when completed
+
+Corporation's name                                                                                                                                                                  Tax year-end
+
+                                                                                                                                                         Year                       Month Day
+
+· If you are a Canadian-controlled private corporation (CCPC) or a deposit insurance corporation (DIC), use this schedule to determine the general rate income
+  pool (GRIP).
+
+· Credit unions are not required to complete this schedule.
+
+· All legislative references are to the federal Income Tax Act and Income Tax Regulations.
+
+· When an eligible dividend was paid in the tax year or there was a change in the GRIP balance, file a completed copy of this schedule with your T2 Corporation
+  Income Tax Return. Do not send your worksheets with your return, but keep them in your records in case we ask to see them later.
+
+· Subsection 89(1) defines the terms eligible dividend, excessive eligible dividend designation, general rate income pool, and low rate income pool.
+
+Part 1 ­ General rate income pool (GRIP)
+
+GRIP at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+
+Taxable income for the year (DICs enter "0") * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+
+Amount on line 400, 405, 410, or 428 of the T2 return, whichever
+is the least * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+
+For a CCPC, the lesser of aggregate investment income
+(line 440 of the T2 return) and taxable income * . . . . . . . . . . . . . . . . . 140
+
+                    Subtotal (line 130 plus line 140)                                                                                                 A
+
+Income taxable at the general corporate rate (line 110 minus amount A) (if negative enter "0") . . . 150
+
+After-tax income (line 150 multiplied by 0.72 (the general rate factor for the tax year)) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 190
+
+Eligible dividends received in the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+
+Dividends deductible under section 113 received in the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+
+                                          Subtotal (line 200 plus line 210)                                                                                                                       B
+
+Becoming a CCPC (amount W5 in Part 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+
+Post-amalgamation (total of amount E4 in Part 3 and amount W5 in Part 4) . . . . . . . . . . . . . . . . . . 230
+
+Post-wind-up (total of amount E4 in Part 3 and amount W5 in Part 4) . . . . . . . . . . . . . . . . . . . . . . 240
+
+                                          Subtotal (add lines 220, 230, and 240) 290                                                                  
+
+                                                                                  Subtotal (add lines 100, 190, 290, and amount B)                                                                C
+
+Eligible dividends paid in the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300
+Excessive eligible dividend designations made in the previous tax year . . . . . . . . . . . . . . . . . . . . . 310
+
+(If becoming a CCPC (subsection 89(4) applies), enter "0" on lines 300 and 310.)
+
+                                          Subtotal (line 300 minus line 310)                                                                                                                      D
+
+GRIP before adjustment for specified future tax consequences (amount C minus amount D) (amount can be negative) . . . . . 490
+
+Total GRIP adjustment for specified future tax consequences to previous tax years (amount L3 in Part 2) . . . . . . . . . . . . . . . . . 560
+
+GRIP at the end of the tax year (line 490 minus line 560) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 590
+
+Enter this amount on line 160 of Schedule 55, Part III.1 Tax on Excessive Eligible Dividend Designations.
+
+* For lines 110, 130, and 140, the income amount is the amount before considering specified future tax consequences. This phrase is defined in
+  subsection 248(1). It includes the deduction of a loss carryback from subsequent tax years, a reduction of Canadian exploration expenses and Canadian
+  development expenses that were renounced in subsequent tax years (for example, flow-through share renunciations), reversals of income inclusions
+  where an option is exercised in subsequent tax years, and the effect of certain foreign tax credit adjustments.
+
+T2 SCH 53 E (22)                          (Ce formulaire est disponible en français.)                                                    Page 1 of 4
+                                                                                                                    Protected B when completed
+
+Part 2 ­ GRIP adjustment for specified future tax consequences to previous tax years
+
+Complete this part if the corporation's taxable income of any of the previous three tax years took into account the specified future tax consequences defined in
+subsection 248(1) from the current tax year. Otherwise, enter "0" on line 560 on page 1.
+
+First previous tax year
+
+Taxable income before specified future tax consequences from the
+
+current tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  A1
+
+Enter the following amounts before specified future tax consequences
+from the current tax year:
+
+Amount on line 400, 405, 410, or 428 of the
+
+T2 return, whichever is the least . . . . . . . . . . . .         B1
+
+Aggregate investment income
+
+(line 440 of the T2 return) . . . . . . . . . . . . . . . . .     C1
+
+Subtotal (amount B1 plus amount C1)                                                                             D1
+
+Subtotal (amount A1 minus amount D1) (if negative, enter "0")                                                       E1
+
+Taxable income after specified future tax consequences . . . . . . . . . . . . . . .                            F1
+
+Enter the following amounts after specified future tax consequences:
+
+Amount on line 400, 405, 410, or 428 of the
+
+T2 return, whichever is the least . . . . . . . . . . . .         G1
+
+Aggregate investment income
+
+(line 440 of the T2 return) . . . . . . . . . . . . . . . . .     H1
+
+Subtotal (amount G1 plus amount H1)                                                                             I1
+
+                  Subtotal (amount F1 minus amount I1) (if negative, enter "0")                                     J1
+
+                             Subtotal (amount E1 minus amount J1) (if negative, enter "0")                          K1
+
+GRIP adjustment for specified future tax consequences to the first previous tax year
+(amount K1 multiplied by 0.72) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 500
+
+Second previous tax year
+
+Taxable income before specified future tax consequences from the
+
+current tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  A2
+
+Enter the following amounts before specified future tax consequences
+from the current tax year:
+
+Amount on line 400, 405, 410, or 428 of the
+
+T2 return, whichever is the least . . . . . . . . . . . .         B2
+
+Aggregate investment income
+
+(line 440 of the T2 return) . . . . . . . . . . . . . . . . .     C2
+
+Subtotal (amount B2 plus amount C2)                                                                             D2
+
+Subtotal (amount A2 minus amount D2) (if negative, enter "0")                                                       E2
+
+Taxable income after specified future tax consequences . . . . . . . . . . . . . . .                            F2
+
+Enter the following amounts after specified future tax consequences:
+
+Amount on line 400, 405, 410, or 428 of the
+
+T2 return, whichever is the least . . . . . . . . . . . .         G2
+
+Aggregate investment income
+
+(line 440 of the T2 return) . . . . . . . . . . . . . . . . .     H2
+
+Subtotal (amount G2 plus amount H2)                                                                             I2
+
+                  Subtotal (amount F2 minus amount I2) (if negative, enter "0")                                     J2
+
+                             Subtotal (amount E2 minus amount J2) (if negative, enter "0")                          K2
+
+GRIP adjustment for specified future tax consequences to the second previous tax year
+(amount K2 multiplied by 0.72) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 520
+
+T2 SCH 53 E (22)                                                                                                                                                                      Page 2 of 4
+                                                                                                                                       Protected B when completed
+
+Part 2 ­ GRIP adjustment for specified future tax consequences to previous tax years (continued)
+
+Third previous tax year
+
+Taxable income before specified future tax consequences from the
+
+current tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  A3
+
+Enter the following amounts before specified future tax consequences
+from the current tax year:
+
+Amount on line 400, 405, 410, or 428 of the
+
+T2 return, whichever is the least . . . . . . . . . . . .         B3
+
+Aggregate investment income
+
+(line 440 of the T2 return) . . . . . . . . . . . . . . . . .     C3
+
+Subtotal (amount B3 plus amount C3)                                                                             D3
+
+Subtotal (amount A3 minus amount D3) (if negative, enter "0")                                                                          E3
+
+Taxable income after specified future tax consequences . . . . . . . . . . . . . . .                            F3
+
+Enter the following amounts after specified future tax consequences:
+
+Amount on line 400, 405, 410, or 428 of the
+
+T2 return, whichever is the least . . . . . . . . . . . .         G3
+
+Aggregate investment income
+
+(line 440 of the T2 return) . . . . . . . . . . . . . . . . .     H3
+
+Subtotal (amount G3 plus amount H3)                                                                             I3
+
+                  Subtotal (amount F3 minus amount I3) (if negative, enter "0")                                                        J3
+
+                                        Subtotal (amount E3 minus amount J3) (if negative, enter "0")                                  K3
+
+GRIP adjustment for specified future tax consequences to the third previous tax year
+(amount K3 multiplied by 0.72) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 540
+
+Total GRIP adjustment for specified future tax consequences to previous tax years:                                                                                                         L3
+(add lines 500, 520, and 540) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Enter amount L3 on line 560 in Part 1.
+
+    Part 3 ­ Worksheet to calculate the GRIP addition post-amalgamation or post-wind-up
+                (predecessor or subsidiary was a CCPC or a DIC in its last tax year)
+
+· Complete this part when there has been an amalgamation (within the meaning assigned by subsection 87(1)) or a wind-up (to which subsection 88(1)
+  applies) and the predecessor or subsidiary corporation was a CCPC or a DIC in its last tax year. The last tax year for a predecessor corporation was its tax
+  year that ended immediately before the amalgamation and for a subsidiary corporation was its tax year during which its assets were distributed to the parent
+  on the wind-up.
+
+· Calculate the GRIP addition of a successor corporation following an amalgamation at the end of its first tax year.
+
+· Calculate the GRIP addition of a parent corporation upon wind-up at the end of the tax year that ends immediately after the tax year in which the parent has
+  received the assets of the subsidiary.
+
+· In the calculation below, corporation means a predecessor or a subsidiary. Complete a separate worksheet for each predecessor and each subsidiary that
+  was a CCPC or a DIC in its last tax year. Keep a copy of this calculation for your records, in case we ask to see it later.
+
+Corporation's GRIP at the end of its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       A4
+
+Eligible dividends paid by the corporation in its last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  B4
+
+Excessive eligible dividend designations made by the corporation in its last tax year . . . . . . . . . . . . . . . .                  C4
+
+                                                               Subtotal (amount B4 minus amount C4)                                                                                        D4
+
+GRIP addition post-amalgamation or post-wind-up (predecessor or subsidiary was a CCPC or a DIC in its last tax year)
+
+(amount A4 minus amount D4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  E4
+
+After you complete this calculation for each predecessor and each subsidiary, calculate the total of all the E4 amounts. Enter this total amount on:
+ ­ line 230 on page 1 for post-amalgamation; or
+ ­ line 240 on page 1 for post-wind-up.
+
+T2 SCH 53 E (22)                                                                                                                                                                           Page 3 of 4
+                                                                                                                                                       Protected B when completed
+
+    Part 4 ­ Worksheet to calculate the GRIP addition post-amalgamation, post-wind-up (predecessor or subsidiary
+                was not a CCPC or a DIC in its last tax year), or the corporation is becoming a CCPC
+
+· Complete this part when there has been an amalgamation (within the meaning assigned by subsection 87(1)) or a wind-up (to which subsection 88(1)
+  applies) and the predecessor or subsidiary was not a CCPC or a DIC in its last tax year, or when a corporation has become a CCPC since the end of its
+  previous tax year. The last tax year for a predecessor corporation was its tax year that ended immediately before the amalgamation and for a subsidiary
+  corporation was its tax year during which its assets were distributed to the parent on the wind-up.
+
+· Calculate the GRIP addition of a successor corporation following an amalgamation at the end of its first tax year.
+
+· Calculate the GRIP addition of a parent corporation upon wind-up at the end of the tax year that ends immediately after the tax year in which the parent has
+  received the assets of the subsidiary.
+
+· Calculate the GRIP addition of a corporation that became a CCPC since the end of its previous tax year.
+
+· In the calculation below, corporation means a predecessor or a subsidiary, or a corporation that became a CCPC since the end of its previous tax year.
+  Complete a separate worksheet for each predecessor and each subsidiary that was not a CCPC or a DIC in its last year. Keep a copy of this calculation for
+  your records, in case we ask to see it later.
+
+Cost amount to the corporation of all property immediately before the end of its previous/last tax year . . . . . . . . . . . . . . . . . . . . . . . .     A5
+
+The corporation's money on hand immediately before the end of its previous/last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  B5
+
+Total of subsection 111(1) losses that would have been deductible in calculating the corporation's taxable income for
+the previous/last tax year if the corporation had had unlimited income from each business carried on and each property held and had
+realized an unlimited amount of capital gains for the previous/last tax year:
+
+Non-capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     C5
+
+Net capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     D5
+
+Farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  E5
+
+Restricted farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       F5
+
+Limited partnership losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         G5
+
+                  Subtotal (add amounts C5 to G5)                                                                                                      H5
+
+Total of all amounts deducted under subsection 111(1) in calculating the corporation's taxable income for the previous/last tax year:
+
+Non-capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     I5
+
+Net capital losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     J5
+
+Farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  K5
+
+Restricted farm losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       L5
+
+Limited partnership losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         M5
+
+                  Subtotal (add amounts I5 to M5)                                                                                                      N5
+
+Unused and unexpired losses at the end of the corporation's previous/last tax year                                                                     
+
+(amount H5 minus amount N5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               O5
+
+                                                                                                                 Subtotal (add amounts A5, B5, and O5)      P5
+
+All the corporation's debts and other obligations to pay that were outstanding immediately before the end
+
+of its previous/last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  Q5
+
+Paid-up capital of all the corporation's issued and outstanding shares of capital stock immediately before
+
+the end of its previous/last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      R5
+
+All the corporation's reserves deducted in its previous/last tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        S5
+
+The corporation's capital dividend account immediately before the end of its previous/last tax year . . . . .                                          T5
+
+The corporation's low rate income pool immediately before the end of its previous/last tax year . . . . . . .                                          U5
+
+                  Subtotal (add amounts Q5 to U5)                                                                                                           V5
+
+GRIP addition post-amalgamation or post-wind-up (predecessor or subsidiary was not a CCPC or a DIC in its last tax year),
+
+or the corporation is becoming a CCPC (amount P5 minus amount V5) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . .          W5
+
+After you complete this worksheet for each predecessor and each subsidiary, calculate the total of all the W5 amounts. Enter this total amount on:
+ ­ line 220 on page 1 for a corporation becoming a CCPC;
+ ­ line 230 on page 1 for post-amalgamation; or
+ ­ line 240 on page 1 for post-wind-up.
+
+T2 SCH 53 E (22)                                                                                                                                            Page 4 of 4
+

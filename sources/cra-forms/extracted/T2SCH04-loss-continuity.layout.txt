@@ -1,0 +1,482 @@
+Corporation's name           Corporation Loss Continuity and Application                                                                                                                                           Schedule 4
+                                           (2024 and later tax years)
+                                                                                                                                                                                                                          Code 2401
+                                                                                                                Business number                                                                                      Protected B
+                                                                                                                                                                                                                   when completed
+
+                                                                                                                                                                                                              Tax year-end
+                                                                                                                                                                                                            Year Month Day
+
+· Use this form to determine the continuity and use of available losses; to determine a current-year non-capital loss, farm loss, restricted farm loss, limited
+
+  partnership loss, or restricted interest and financing expense; to determine the amount of restricted farm losses, limited partnership losses, and restricted
+  interest and financing expenses (RIFE) that can be applied in a year; and to ask for a loss carryback to previous years.
+
+· A corporation can choose whether or not to deduct an available loss from income in a tax year. The corporation can deduct losses in any order. However, for
+
+  each type of loss, deduct the oldest loss first.
+
+· All legislative references are to the Income Tax Act.
+· According to subsection 111(4), when control has been acquired, no amount of capital loss incurred in a tax year ending before that time is deductible when
+
+  calculating taxable income for a tax year ending after that time. Also, no amount of capital loss incurred in a tax year ending after that time is deductible when
+  calculating taxable income for a tax year ending before that time.
+
+· When control has been acquired, subsection 111(5) provides for similar treatment of non-capital and farm losses except as listed in paragraphs 111(5)(a) and
+
+  (b), and of RIFE except as listed in paragraph 111(5)(a).
+
+· For information on these losses, see Guide T4012, T2 Corporation ­ Income Tax.
+· File this schedule with the T2 Corporation Income Tax Return, or send the schedule by itself to the tax centre where the return is filed.
+
+Part 1 ­ Non-capital losses
+
+Determination of current-year non-capital loss
+
+Net income (loss) for income tax purposes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   1A
+
+RIFE deducted in the year under paragraph 111(1)(a.1) (enter as a positive amount) . . . . . . . . . . . . . . . .                                         1B
+
+Net capital losses deducted in the year (enter as a positive amount) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                             1C
+
+Taxable dividends deductible under section 112 or subsections 113(1) or 138(6) . . . . . . . . . . . . . . . . . . .                                       1D
+
+Amount of Part VI.1 tax deductible under paragraph 110(1)(k) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           1E
+
+Amount deductible as prospector's and grubstaker's shares ­ Paragraph 110(1)(d.2) . . . . . . . . . . . . . . . .                                          1F
+
+Employer deduction for non-qualified securities ­ Paragraph 110(1)(e) . . . . . . . . . . . . . . . . . . . . . . . . . . .                                1G
+
+                                                                      Subtotal (total of amounts 1B to 1G)                                                                                                  1H
+                                                                                                                                                                        
+                                                                      Subtotal (amount 1A minus amount 1H; if positive, enter "0")                                                                          1I
+                                                                                                                                                                        
+Section 110.5 or subparagraph 115(1)(a)(vii) ­ Addition for foreign tax deductions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                            1J
+
+                                                                      Subtotal (amount 1I minus amount 1J)                                                                                                  1K
+
+Current-year farm loss (the lesser of: the net loss from farming or fishing included in income and the non-capital loss before deducting                                                                    1L
+
+the farm loss) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Current-year non-capital loss (amount 1K plus amount 1L, if positive enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                       1M
+
+If amount 1M is negative, enter it on line 110 as a positive amount.
+
+Continuity of non-capital losses and request for a carryback
+
+Non-capital losses at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     1N
+
+Non-capital loss expired 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+
+Non-capital losses at the beginning of the tax year (amount 1N minus line 100) . . . . . . . . . . . . . . . 102
+
+Non-capital losses transferred on an amalgamation or on the wind-up of a subsidiary 2
+corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+
+Current-year non-capital loss (from amount 1M) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+
+                                                                      Subtotal (line 105 plus line 110)                                                                                                     1O
+
+                                                                                             Subtotal (line 102 plus amount 1O)                                                                             1P
+
+1 A non-capital loss expires after 20 tax years and an allowable business investment loss becomes a net capital loss after 10 tax years.
+
+2 Subsidiary is defined in subsection 88(1) as a taxable Canadian corporation of which 90% or more of each class of issued shares are owned by its parent
+  corporation and the remaining shares are owned by persons that deal at arm's length with the parent corporation.
+
+T2 SCH 4 E (25)                                 (Ce formulaire est disponible en français.)                                                                Page 1 of 7
+                                                                                                                                                                    Protected B when completed
+
+Part 1 ­ Non-capital losses (continued)
+
+Other adjustments (includes adjustments for an acquisition of control) . . . . . . . . . . . . . . . . . . . . . . . 150
+
+Section 80 ­ Adjustments for forgiven amounts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+
+Non-capital losses of previous tax years applied in the current tax year . . . . . . . . . . . . . . . . . . . . . . 130
+Enter the amount from line 130 on line 331 of the T2 return.
+Current and previous years non-capital losses applied against current-year
+taxable dividends subject to Part IV tax 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+
+                                            Subtotal (total of lines 150, 140, 130 and 135)                                                                                 1Q
+                                                                                                                                                                    
+                                            Non-capital losses before any request for a carryback (amount 1P minus amount 1Q)                                               1R
+
+Request to carry back non-capital loss to:                                                                                                                          
+
+First previous tax year to reduce taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 901
+
+Second previous tax year to reduce taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 902
+
+Third previous tax year to reduce taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 903
+
+First previous tax year to reduce taxable dividends subject to Part IV tax . . . . . . . . . . . . . . . . . . . . . 911
+
+Second previous tax year to reduce taxable dividends subject to Part IV tax . . . . . . . . . . . . . . . . . . . 912
+
+Third previous tax year to reduce taxable dividends subject to Part IV tax . . . . . . . . . . . . . . . . . . . . . 913
+
+Total of requests to carry back non-capital losses to previous tax years (total of lines 901 to 913)                                                                        1S
+
+                 Closing balance of non-capital losses to be carried forward to future tax years (amount 1R minus amount 1S) 180
+
+3 Line 135 is the total of lines 330 and 335 from Schedule 3, Dividends Received, Taxable Dividends Paid, and Part IV Tax Calculation.
+
+Part 2 ­ Capital losses
+
+Continuity of capital losses and request for a carryback
+Capital losses at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+
+Capital losses transferred on an amalgamation or on the wind-up of a subsidiary corporation . . . . . . . 205
+
+                                            Subtotal (line 200 plus line 205)                                                                                               2A
+
+Other adjustments (includes adjustments for an acquisition of control). . . . . . . . . . . . . . . . . . . . . . . . . . 250
+
+Section 80 ­ Adjustments for forgiven amounts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 240
+
+                                            Subtotal (line 250 plus line 240)                                                                                               2B
+
+                                            Subtotal (amount 2A minus amount 2B)                                                                                            2C
+
+Current-year capital loss (from the calculation on Schedule 6, Summary of Dispositions of Capital Property) . . . . . . . . . . . . . . . . . 210
+
+Unused non-capital losses from the 11th previous tax year 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                               2D
+
+Allowable business investment losses (ABILs) that expired as non-capital losses at the end of the previous                                                          2E
+
+tax year 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Enter amount 2D or 2E, whichever is less. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+
+ABILs expired as non-capital losses (line 215 multiplied by 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+
+                                            Subtotal (amount 2C plus line 210 plus line 220)                                                                                2F
+
+Note
+If there has been an amalgamation or a wind­up of a subsidiary, do a separate calculation of the ABIL expired as non-capital loss for each predecessor or
+subsidiary corporation. Add all these amounts and enter the total on line 220.
+
+4 Determine the amount of the non-capital loss from the 11th previous tax year, and enter the part of the non-capital loss that was not deducted in the
+  previous 11 years.
+
+5 Enter the amount of the ABILs from the 11th previous tax year. Enter the full amount on amount 2E.
+
+T2 SCH 4 E (25)                                                                                                                                                             Page 2 of 7
+                                                                                                                                                           Protected B when completed
+
+Part 2 ­ Capital losses (continued)
+
+Capital losses from previous tax years applied against the current-year net capital gain 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 225
+
+                                     Capital losses before any request for a carryback (amount 2F minus line 225)                                               2G
+
+Request to carry back capital loss to: 7
+    First previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 951
+
+Second previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 952
+
+Third previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 953
+
+                                                       Subtotal (total of lines 951 to 953)                                                                     2H
+                                                                                                                                                             
+                 Closing balance of capital losses to be carried forward to future tax years (amount 2G minus amount 2H) 8 280                               
+                                                                                                                                                             
+6 To get the net capital losses required to reduce the taxable capital gain included in the net income (loss) for the current tax year, enter the amount from
+  line 225 divided by 2 at line 332 of the T2 return.                                                                                                        
+
+7 On line 225, 951, 952, or 953, whichever applies, enter the actual amount of the loss. When the loss is applied, divide this amount by 2. The result
+  represents the 50% inclusion rate.
+
+8 Capital losses can be carried forward indefinitely.
+
+Part 3 ­ Farm losses
+
+Continuity of farm losses and request for a carryback
+
+Farm losses at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              3A
+
+Farm loss expired 9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300
+Farm losses at the beginning of the tax year (amount 3A minus line 300) . . . . . . . . . . . . . . . . . . . . . . 302
+
+Farm losses transferred on an amalgamation or on the wind-up of a subsidiary corporation . . . . . . . . . 305
+
+Current-year farm loss (amount 1L in Part 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310
+
+                                                       Subtotal (line 305 plus line 310)                                                                        3B
+
+                                                       Subtotal (line 302 plus amount 3B)                                                                       3C
+
+Other adjustments (includes adjustments for an acquisition of control). . . . . . . . . . . . . . . . . . . . . . . . . . 350
+
+Section 80 ­ Adjustments for forgiven amounts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 340
+
+Farm losses of previous tax years applied in the current tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 330
+Enter the amount from line 330 on line 334 of the T2 Return.
+Current and previous years farm losses applied against
+current-year taxable dividends subject to Part IV tax 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 335
+
+                                                       Subtotal (total of lines 350, 340, 330 and 335)                                                          3D
+
+                                     Farm losses before any request for a carryback (amount 3C minus amount 3D)                                                 3E
+
+Request to carry back farm loss to:
+
+First previous tax year to reduce taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 921
+
+Second previous tax year to reduce taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 922
+
+Third previous tax year to reduce taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 923
+
+First previous tax year to reduce taxable dividends subject to Part IV tax . . . . . . . . . . . . . . . . . . . . . 931
+
+Second previous tax year to reduce taxable dividends subject to Part IV tax . . . . . . . . . . . . . . . . . . . 932
+
+Third previous tax year to reduce taxable dividends subject to Part IV tax . . . . . . . . . . . . . . . . . . . . . 933
+
+                                                       Subtotal (total of lines 921 to 933)                                                                     3F
+
+                                    Closing balance of farm losses to be carried forward to future tax years (amount 3E minus amount 3F) 380
+9 A farm loss expires after 20 tax years.
+10 Line 335 is the total of lines 340 and 345 from Schedule 3.
+
+T2 SCH 4 E (25)                                                                                                                                                 Page 3 of 7
+                                                                                                                                                          Protected B when completed
+  Part 4 ­ Restricted farm losses
+Current-year restricted farm loss
+Total losses for the year from farming business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 485
+
+(line 485        ­ $2,500) divided by 2 . . . . . . . . . . . . . . .                        4A
+
+Amount 4A or $15,000, whichever is less . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                                       4B
+                                                                                                                                                                                  
+                                                                                                                                                                                  4C
+                                                                                                                                                                                  
+                                                                  Subtotal (amount 4B plus amount 4C)                                                                               4D
+
+                                                                  Current-year restricted farm loss (line 485 minus amount 4D)                                                      4E
+
+Continuity of restricted farm losses and request for a carryback
+
+Restricted farm losses at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 4F
+
+Restricted farm loss expired 11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+
+Restricted farm losses at the beginning of the tax year (amount 4F minus line 400) . . . . . . . . . . . . . . . 402
+
+Restricted farm losses transferred on an amalgamation or on the wind-up
+of a subsidiary corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 405
+
+Current-year restricted farm loss (from amount 4E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 410
+
+Enter the amount from line 410 on line 233 of Schedule 1, Net Income (Loss) for Income Tax Purposes.
+
+                                                                  Subtotal (line 405 plus line 410)                                                                                 4G
+
+                                                                                             Subtotal (line 402 plus amount 4G)                                                     4H
+
+Restricted farm losses from previous tax years applied against current farming income . . . . . . . . . . . . 430
+Enter the amount from line 430 on line 333 of the T2 return.
+Section 80 ­ Adjustments for forgiven amounts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 440
+
+Other adjustments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 450
+
+                                                                  Subtotal (total of lines 430 to 450)                                                                              4I
+
+                 Restricted farm losses before any request for a carryback (amount 4H minus amount 4I)                                                                              4J
+
+Request to carry back restricted farm loss to:
+
+First previous tax year to reduce farming income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 941
+
+Second previous tax year to reduce farming income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 942
+
+Third previous tax year to reduce farming income. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 943
+
+                                                                  Subtotal (total of lines 941 to 943)                                                                              4K
+
+                 Closing balance of restricted farm losses to be carried forward to future tax years (amount 4J minus amount 4K) 480
+
+   Note
+   The total losses for the year from all farming businesses are calculated without including scientific research expenses.
+
+11 A restricted farm loss expires after 20 tax years.
+
+T2 SCH 4 E (25)                                                                                                                                                                     Page 4 of 7
+                                                                                                                                                         Protected B when completed
+
+Part 5 ­ Listed personal property losses
+
+Continuity of listed personal property losses and request for a carryback
+
+Listed personal property losses at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      5A
+
+Listed personal property loss expired 12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 500           
+Listed personal property losses at the beginning of the tax year (amount 5A minus line 500) . . . . . . . . 502                                          
+                                                                                                                                                         
+Current-year listed personal property loss (from Schedule 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 510
+
+                                                                           Subtotal (line 502 plus line 510)                                                                  5B
+
+Listed personal property losses from previous tax years applied against listed
+personal property gains. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 530
+Enter the amount from line 530 on line 655 of Schedule 6.
+Other adjustments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 550
+
+                                                                   Subtotal (line 530 plus line 550)                                                                          5C
+
+                   Listed personal property losses remaining before any request for a carryback (amount 5B minus amount 5C)                                                   5D
+
+Request to carry back listed personal property loss to:
+   First previous tax year to reduce listed personal property gains . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 961
+
+Second previous tax year to reduce listed personal property gains . . . . . . . . . . . . . . . . . . . . . . . . . . 962
+
+Third previous tax year to reduce listed personal property gains . . . . . . . . . . . . . . . . . . . . . . . . . . . . 963
+
+                                                                   Subtotal (total of lines 961 to 963)                                                                       5E
+
+Closing balance of listed personal property losses to be carried forward to future tax years (amount 5D minus amount 5E) 580
+
+12 A listed personal property loss expires after seven tax years.
+
+Part 6 ­ Analysis of balance of losses by year of origin
+
+         1                      2                3                                       4                                                                                   5
+Year of origin 13  Non-capital losses 14  Farm losses                      Restricted farm losses                                                        Listed personal property losses
+
+                 Total
+13 Enter each loss by year of origin, starting with the current year and going down to the 20th previous year.
+14 A non-capital loss expires after 20 tax years and an allowable business investment loss becomes a net capital loss after 10 tax years.
+
+T2 SCH 4 E (25)                                                                                                                                                               Page 5 of 7
+                                                                                                                           Protected B when completed
+
+Part 7 ­ Limited partnership losses
+
+Current-year limited partnership losses          2                        3                 4               5              6               7
+                                            Tax year              Corporation's     Corporation's       Total of
+                                1             ending             share of limited   at-risk amount   corporation's    Column 4 minus Current-year
+             Partnership account number  YYYY-MM-DD              partnership loss                       share of
+                                                                                                      partnership
+                                                                                                    investment tax    column 5 limited partnership
+                                                                                                     credit, clean
+                                                                                                     economy tax      (if negative,        losses
+                                                                                                    credit, farming
+                                                                                                      losses, and     enter "0") (column 3 minus
+                                                                                                       resource
+                                                                                                     expenses 15                           column 6)
+
+                 600                     602                     604                606                  608                               620
+
+                            RZ
+                            RZ
+                            RZ
+                            RZ
+                            RZ
+
+                                                                                    Total (enter this amount on line 222 of Schedule 1)
+
+Limited partnership losses from previous tax years that may be applied in the current year
+
+                  1                                     2        3                          4                5             6               7
+Partnership account number                                                          Corporation's        Total of
+                                         Tax year                Limited            at-risk amount   corporation's    Column 4 minus       Limited
+                                                                                                         share of
+                                         ending                  partnership                          partnership     column 5 partnership losses
+                                                                                                    investment tax
+                                         YYYY-MM-DD losses at the end                                 credit, clean   (if negative,        that may be
+                                                                                                     economy tax
+                                                                 of the previous                    credit, business  enter "0") applied in the year
+                                                                                                       or property
+                                                                 tax year                             losses, and                          (the lesser of
+                                                                                                        resource
+                                                                 and amounts                          expenses 15                          column 3 and 6)
+
+                                                                 transferred on an
+
+                                                                 amalgamation
+
+                                                                 or on the
+
+                                                                 wind-up of a
+
+                                                                 subsidiary
+
+                 630                     632                     634                636                  638                               650
+
+                            RZ
+                            RZ
+                            RZ
+                            RZ
+                            RZ
+
+Continuity of limited partnership losses that can be carried forward to future tax years
+
+                  1 RZ                                     2                   3                      4                           5                     6
+Partnership accountRnumZber                                                               Current-year limited        Limited partnership   Current year limited
+                                         Limited partnership Limited partnership           partnership losses                               partnership losses
+                           RZ                                                                                          losses applied in   closing balance to be
+                                         losses at the end of losses transferred             (from line 620)            the current year     carried forward to
+                           RZ                                                                                           (must be equal
+                                         the previous tax year in the year on an                                                                 future years
+                           RZ                                                                                                to or less        (column 2 plus
+                                                                 amalgamation or on                                      than line 650)        column 3 plus
+                                                                                                                                              column 4 minus
+                                                                 the wind-up of a
+                                                                                                                                                  column 5)
+                                                                      subsidiary
+
+                 660                                       662                 664                  670               675                  680
+
+                                                              Total (enter this amount on line 335 of the T2 return)
+
+If you need more space, you can attach more schedules.
+
+15 Clean economy tax credit is defined in subsection 127.47(1).
+
+T2 SCH 4 E (25)                                                                                                                            Page 6 of 7
+                                                                                                                                              Protected B when completed
+
+Part 8 ­ Restricted interest and financing expenses (RIFE)
+
+Continuity of RIFE
+
+RIFE at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 700
+
+RIFE transferred on an amalgamation or on the wind-up of a subsidiary corporation . . . . . . . . . . . . . . . 705
+
+RIFE adjustments for an acquisition of control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 750
+
+                    Subtotal (line 700 plus line 705 minus line 750)                                                                                                                            8A
+
+Enter amount 8A on line 128 in Part 2J of Schedule 130, Excessive Interest and Financing Expenses Limitation.
+
+Current-year restricted interest and financing expense determined under subsection 111(8)
+(amount A from Part 2O of Schedule 130) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 710
+
+RIFE deducted for the tax year 16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 730
+Enter the amount from line 730 on line 336 of the T2 return.
+
+                                              Closing balance of RIFE (amount 8A plus line 710 minus line 730) 780
+
+16 The amount deducted must not exceed amount B in Part 2J of Schedule 130.
+
+Part 9 ­ Election under paragraph 88(1.1)(f)
+
+If you are making an election under paragraph 88(1.1)(f), tick the box . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 190             Yes
+
+In the case of the wind-up of a subsidiary, if the election is made, the non-capital loss, restricted farm loss, farm loss, or limited partnership loss of the
+subsidiary--that otherwise would become the loss of the parent corporation for a particular tax year starting after the the wind-up began--will be considered
+as the loss of the parent corporation for its immediately preceding tax year and not for the particular year.
+
+Note
+
+This election is only applicable for wind-ups under subsection 88(1) that are reported on Schedule 24, First-Time Filer after Incorporation, Amalgamation,
+or Winding-up of a Subsidiary into a Parent.
+
+                                                                                                                                              See the privacy notice on your return.
+
+T2 SCH 4 E (25)                                                                                                                                                                            Page 7 of 7
+

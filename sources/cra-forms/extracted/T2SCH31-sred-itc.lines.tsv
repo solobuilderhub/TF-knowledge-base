@@ -1,0 +1,74 @@
+line	caption
+101	Is the corporation a qualifying corporation?
+390	Enter your taxable income for the previous tax year1 (prior to any loss carrybacks applied)
+650	Is the qualifying corporation an excluded corporation as defined under subsection 127.1(2)?
+102	Is the corporation claiming a contribution in the current year to an agricultural organization whose goal is to Yes No finance SR&ED work (for example, check-off dues)?
+210	Credit deemed as a remittance of co-op corporations
+215	Credit expired
+220	ITC at the beginning of the tax year (amount 5A minus amount 5B)
+230	Credit transferred on an amalgamation or the wind-up of a subsidiary
+235	ITC from repayment of assistance
+250	Credit allocated from a partnership
+260	Credit deducted from Part I tax
+280	Credit transferred to offset Part VII tax liability
+310	Refund of credit claimed on investments from qualified property (from Part 7)
+320	ITC closing balance of investments from qualified property and qualified resource property (amount 5G minus line 310)
+903	Total of lines 901 to
+350	Current expenditures (line 557 on Form T661 plus line 103 in Part 3)4
+360	Capital expenditures incurred after December 15, 2024 (from line 558 on Form T661)
+370	Repayments made in the year (from line 560 on Form T661)
+380	Total qualified SR&ED expenditures (total of lines 350 to 370)
+382	Are you an ECPC as defined in subsection 127(9)?
+385	Is the corporation associated with another CCPC for the purpose of calculating the SR&ED expenditure limit?
+398	For TYS after December 15, 2024, if this amount is over $60 million, enter $60 million
+399	$15 million. If you are an ECPC that is a member of a consolidated group, enter the average, over the period of three fiscal years immediately preceding and ending in the last calendar year that ended before the end of the particular tax year, of the annual revenue of the consolidated group, minus $15 million.5 If this amount is nil or negative, enter "0". If this amount is over $60 million, enter $60 million
+400	For an associated corporation If associated, the allocation of the SR&ED expenditure limit, as provided on Schedule 49 6
+410	Your SR&ED expenditure limit for the year (enter amount 10C, line 400, or amount 10D, whichever applies)
+420	Current SR&ED expenditures (from line 350 in Part 8) or × 15% = 11B the expenditure limit (from line 410), whichever is less 8
+430	Line 350 minus line 410 (if negative, enter "0")
+440	Capital expenditures incurred after December 15, 2024 (from line 360 in Part 8) or amount × 35% = 11D 11C above, whichever is less
+450	Line 360 minus amount 11C above (if negative, enter "0")
+460	qualifying expenditure eligible for the 35% SR&ED × 35% = 11F ITC rate 9
+480	September 16, 2016, that reduced a × 20% = 11G qualifying expenditure incurred before 2015
+490	September 16, 2016, that reduced a × 15% = 11H qualifying expenditure incurred after 2014
+510	Credit deemed as a remittance of co-op corporations
+515	Credit expired
+520	ITC at the beginning of the tax year (amount 12A minus amount 12B)
+530	Credit transferred on an amalgamation or the wind-up of a subsidiary
+540	Total current-year credit (from amount 11J)
+550	Credit allocated from a partnership
+560	Credit deducted from Part I tax
+580	Credit transferred to offset Part VII tax liability
+610	Refund of credit claimed on SR&ED expenditures (from Part 14 or 15, whichever applies)
+620	ITC closing balance on SR&ED (amount 12G minus line 610)
+913	Total of lines 911 to
+841	Credit deemed as a remittance of co-op corporations
+845	Credit expired
+850	ITC at the beginning of the tax year (amount 18A minus amount 18B)
+860	Credit transferred on an amalgamation or the wind-up of a subsidiary
+885	Amount of unused credit carried forward from previous years and applied to reduce Part I tax payable in the current year
+890	ITC closing balance from pre-production mining expenditures (amount 18C minus line 885)
+611	apprentice whose contract number (or social insurance number (SIN) or name) appears below? (If not, you Yes No cannot claim the tax credit.)
+602	wages11 D or $2,000
+612	Credit deemed as a remittance of co-op corporations
+615	Credit expired after 20 tax years
+625	ITC at the beginning of the tax year (amount 20A minus amount 20B)
+630	Credit transferred on an amalgamation or the wind-up of a subsidiary
+635	ITC from repayment of assistance
+640	Total current-year credit (amount 19A)
+655	Credit allocated from a partnership
+660	Credit deducted from Part I tax
+690	ITC closing balance from apprenticeship job creation expenditures (amount 20D minus amount 20F)
+933	Total of lines 931 to
+765	Credit deemed as a remittance of co-op corporations
+770	Credit expired after 20 tax years
+775	ITC at the beginning of the tax year (amount 22A minus amount 22B)
+777	Credit transferred on an amalgamation or the wind-up of a subsidiary
+782	Credit allocated from a partnership
+785	Credit deducted from Part I tax
+790	ITC closing balance from child care spaces expenditures (amount 22D minus line 785)
+140	Clean hydrogen ITC (from Schedule 74)
+155	Clean technology ITC (from Schedule 75)
+170	Clean technology manufacturing ITC (from Schedule 76)
+185	Clean electricity ITC
+200	Carbon capture, utilization, and storage ITC (from Schedule 78)

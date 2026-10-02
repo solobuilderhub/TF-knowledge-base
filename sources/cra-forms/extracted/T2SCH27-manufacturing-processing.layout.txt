@@ -1,0 +1,565 @@
+                    Calculation of Canadian Manufacturing and Processing Profits Deduction                          Schedule 27
+                                                      (2022 and later tax years)
+                                                                                                                           Code 2201
+
+                                                                                                                      Protected B
+                                                                                                                    when completed
+
+Corporation's name                                                Business number                                   Tax year-end
+
+                                                                                                              Year  Month Day
+
+· Use this schedule to claim either the Canadian manufacturing and processing profits deduction (including for profits from the generation of electrical energy
+  for sale or production of steam for sale) or the zero-emission technology manufacturing (ZETM) deduction.
+
+· Corporations claiming the manufacturing and processing profits deduction should begin with parts 1, 2, or 10, as applicable:
+   ­ small manufacturing corporations that meet all requirements in Part 1 should begin with Part 1
+   ­ corporations that only generate electrical energy for sale or produce steam for sale should begin with Part 10 on page 5
+   ­ all other corporations should begin with Part 2
+
+· Corporations claiming the ZETM deduction must complete Part 14 on page 7.
+· All legislative references are to the federal Income Tax Act and Income Tax Regulations.
+· Income that is eligible for the small business deduction is not eligible for the manufacturing and processing profits deduction, but may be eligible for the
+
+  ZETM deduction if related to relevant eligible activities.
+· See page 9 for notes and definitions to help you complete this schedule.
+
+     Part 1 ­ Small manufacturing corporations
+
+ See notes 1 to 7 on page 9.
+ To qualify as a small manufacturer, you have to meet all of the following requirements:
+ 1. your activities during the year were primarily manufacturing or processing in Canada of goods for sale or lease, not including generating
+
+       electrical energy for sale or producing steam for sale
+
+ 2. the following calculation totals $200,000 or less:
+           your active business income minus active business losses for the year (this includes your share of active business
+           income and active business loss for the fiscal period of each partnership of which you were a member at any time
+           in the year 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+
+           the active business income for the tax year of each Canadian corporation with which you were associated
+           in the year 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+
+                                            Total (line 100 plus line 105) (cannot exceed $200,000 under section 5201 of the regulations) 110
+
+ 3. you were not engaged at any time during the year in any activities as set out in subsections 5201 (c) to (c.3) of the regulations
+ 4. you did not carry on any active business outside Canada at any time during the year
+ If you meet requirements 1 through 4, your Canadian manufacturing and processing profits are equal to line 100 above.
+ Enter this amount on line 200 in Part 9.
+ If you do not meet requirements 1 through 4, complete Part 2 below.
+
+ 1 If you were a member of a partnership at any time in the year, provide the following information on a separate sheet of paper attached to this form:
+   the name, business number, and total income or loss of each active business carried on by each partnership.
+
+ 2 If you were associated with any Canadian corporations in the year, provide the following information on a separate sheet of paper attached to this form:
+   the name, business number, and total income of each active business for the tax year carried on by each corporation.
+
+Part 2 ­ Corporations that do not qualify as small manufacturers
+
+See note 6 on page 9.
+Canadian manufacturing and processing profits (MP)
+
+ADJUBI              × [ MC (Part 5, line 150)       + ML (Part 7, line 170)                      ] = MP
+(Part 3, line 130)    [ C (Part 4, line 140)        + L (Part 6, line 160)                       ]
+
+Enter amount MP on line 200 in Part 9.
+
+T2 SCH 27 E (22)                                    (Ce formulaire est disponible en français.)  Page 1 of 9
+                                                                                                                                           Protected B when completed
+
+    Part 3 ­ Adjusted business income (ADJUBI)
+
+See notes 1, 3, and 5 on page 9.
+
+ Your active business income minus active business losses for the year (this includes your share of active business income
+ and active business loss for the fiscal period of each partnership of which you were a member
+ at any time in the year 3). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+
+Net resource income (amount 8G from Part 8) . . . . . . . . . . . . . . . . . . .             3A
+
+Net resource adjustment per subsection 5203(3.1) of the regulations                           3B
+
+Excess (amount 3A minus amount 3B, if negative, enter "0") . . . . . . .                                                               3C
+
+Refund interest under subsection 5203(4) of the regulations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              3D
+                                                                                  Subtotal (amount 3C plus amount 3D)
+                                                                                                                                        125
+
+Adjusted business income (ADJUBI) (line 120 minus line 125, if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+Enter this amount in parts 2, 10, and 14 as applicable.
+
+3 If you were a member of a partnership at any time in the year, provide the following information on a separate sheet of paper attached to this form:
+  the name, business number, and total income or loss of each active business carried on by each partnership.
+
+   Part 4 ­ Cost of capital (C)
+
+See notes 3, 5, 9, and 13 on page 9.
+
+Gross cost of the following property that you owned at the end of the year and used at any time during the year:
+
+depreciable assets eligible for capital cost allowance under Schedule II of                                                            4A
+
+the regulations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+timber limits and cutting rights (other than a timber resource property) . . . . . . . . . . . . . . . .                               4B
+
+immovable wood assets (Class 15) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 4C
+
+industrial mineral mines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       4D
+
+capital expenditures for scientific research and experimental development . . . . . . . . . . . . .                                    4E
+
+Part XVII property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4F
+
+                                      Subtotal (total of amounts 4A to 4F)                                                             × 10% =                                                  4G
+
+Rental cost for the use of property, which would be included in 4A to 4F if it were owned by                                                                                                    4H
+
+you at the end of the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Your share of the amounts that would be determined under amounts 4G and 4H for a partnership of                                                                                                 4I
+
+which you were a member at any time in the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Cost of capital (C) (add amounts 4G, 4H, and 4I) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+
+Enter this amount in parts 2 and 5, parts 10 and 11, and Part 14, as applicable.
+
+Part 5 ­ Cost of manufacturing and processing capital (MC)
+
+Complete this part using all eligible activities other than generating electrical energy for sale or producing steam for sale.
+
+See notes 3, 5, and 13 on page 9.
+
+Cost of capital from line 140 in Part 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     5A
+
+The part of amount 5A that reflects the extent to which each property was used directly in qualified activities of the                                                                          5B
+
+corporation during the year, or of a partnership during its fiscal period of which you were a member at any time in the year . . . . . . .
+
+Cost of manufacturing and processing capital (MC)
+(amount 5B multiplied by 100 divided by 85, cannot be more than amount 5A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+
+Enter this amount in Part 2.
+
+T2 SCH 27 E (22)                                                                                                                                                                                Page 2 of 9
+                                                                                                                                             Protected B when completed
+
+Part 6 ­ Cost of labour (L)
+
+See notes 3, 5, 10, 11, and 13 on page 9.
+
+Salaries and wages paid or payable to all employees for services performed during the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                        6A
+
+Salaries and wages included in amount 6A that were:
+
+included in the gross cost of property (Part 4) other than property manufactured and leased                                              6B
+
+during the year to other persons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+related to an active business carried on outside Canada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  6C
+
+related to activities engaged in for the purpose of earning Canadian resource profits under                                              6D
+
+section 5202 of the regulations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+included in your Canadian or foreign exploration and development expenses . . . . . . . . . . . . . . . .                                6E
+
+                                                     Subtotal (total of amounts 6B to 6E)                                                                                                                       6F
+
+                                                     Subtotal (amount 6A minus amount 6F)                                                                                                                       6G
+
+Salaries and wages referred to in amount 6A, minus the deductions in amount 6F for the fiscal period of a partnership of which you                                                                              6H
+
+were a member at any time in the year ­ corporation's share (attach calculation) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                     Subtotal ­ salaries and wages (amount 6G plus amount 6H)                                                                                                   6I
+
+Amounts paid or payable during the year to non-employees for performing functions relating to:
+
+management and administration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      6J
+
+scientific research and experimental development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               6K
+
+any service or function normally performed by employees of the corporation . . . . . . . . . . . . . . . . .                             6L
+
+                                                     Subtotal (total of amounts 6J to 6L)                                                                                                                       6M
+
+Amounts included in amount 6M that were:
+
+included in the gross cost of property (Part 4) other than property manufactured and leased                                              6N
+
+during the year to other persons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+related to an active business carried on outside Canada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  6O
+
+related to activities engaged in for the purpose of earning Canadian resource profits under                                              6P
+
+section 5202 of the regulations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+included in your Canadian or foreign exploration and development expenses . . . . . . . . . . . . . . . .                                6Q
+
+                                                     Subtotal (total of amounts 6N to 6Q)                                                                                                                       6R
+
+                                                     Subtotal (amount 6M minus amount 6R)                                                                                                                       6S
+
+  Amounts referred to in amount 6M, minus the deductions in amount 6R for the fiscal period of a partnership of which you were a                                                                                        6T
+  member at any time in the year ­ corporation's share (attach calculation) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                 6U
+
+                                                                                                       Subtotal ­ other payments (amount 6S plus amount 6T)                                                             7A
+                                                                                                                                                                                                                        7B
+  Cost of labour (L) (amount 6I plus amount 6U) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160                                             7C
+  Enter this amount in parts 2, 10, and 14, as applicable.                                                                                                                                                      Page 3 of 9
+
+      Part 7 ­ Cost of manufacturing and processing labour (ML)
+
+  Complete this part using all eligible activities other than generating electrical energy for sale or producing steam for sale.
+  See notes 3, 5, and 13 on page 9.
+  Part of salaries and wages (included in amount 6I) that was paid or payable to employees for services directly engaged in qualified
+  activities of the corporation during the year, or of a partnership during its fiscal period of which you were a member at any time in the
+  year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  Part of other payments (included in amount 6U) that was paid or payable to non-employees for performing functions that would be
+  directly related to qualified activities of the corporation during the year, or of a partnership during its fiscal period of which you were a
+  member at any time in the year, if they had been employees of the corporation or partnership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                                                                   Total (amount 7A plus amount 7B)
+  Cost of manufacturing and processing labour (ML)
+  (amount 7C multiplied by 100 divided by 75, cannot be more than line 160 in Part 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170
+  Enter this amount in Part 2.
+
+T2 SCH 27 E (22)
+                                                                                                                                                         Protected B when completed
+
+Part 8 ­ Net resource income
+
+For corporations with resource activities
+
+See notes 5, 12, and 13 on page 9.
+
+Resource profits under section 1204 of the regulations for the year, including your share of resource profits as a member of a                                                       8A
+
+partnership under subsection 1206(3) of the regulations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Amounts included in income under section 59 (other than amounts that were included in calculating resource profits), including your                                                  8B
+
+share of such amounts as a member of a partnership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                         Subtotal (amount 8A plus amount 8B)                                                         8C
+
+Amounts deducted under section 65 (other than amounts that were deducted in calculating                                                              8D
+
+resource profits) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Income from the processing of foreign ore (see note 12 on page 9) . . . . . . . . . . . . . . . . . . . . . . . . .                                  8E
+
+                                                 Subtotal (amount 8D plus amount 8E)                                                                                                 8F
+
+Net resource income (amount 8C minus amount 8F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              8G
+
+Enter this at amount 3A.
+
+    Part 9 ­ Manufacturing and processing profits deduction and ZETM deduction
+
+For eligible corporations that have such profits
+Canadian manufacturing and processing profits from Part 1 or Part 2, as applicable . . . . . . . . 200
+
+Line 400, 405, 410, or 428 of the T2 return, whichever is the least 4 . . . . . . . . . . . . . . . . . . . . . . . . .                              9A
+
+                                                                                 Subtotal (line 200 minus amount 9A)                                                                 9B
+
+Taxable income from line 360 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9C
+
+Line 400, 405, 410, or 428 of the T2 return, whichever is the least 4 . . . . . . . . . . . . . . . . . . . . . . .                                  9D
+
+Aggregate investment income from line 440 of the T2 return 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                 9E
+
+Foreign business income tax credit deductible from                               × 46 =                                                              9F
+line 636 of the T2 return 5 . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                 Subtotal (total of amounts 9D to 9F)                                                                9G
+
+                                                                                         Subtotal (amount 9C minus amount 9G)                                                        9H
+
+Lesser of amount 9B and amount 9H . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  × 13% =                         9I
+
+Amount 13L if you are claiming the deduction for generating electrical energy for sale or producing steam for sale . . . . . . . . . . . . . .                                       9J
+
+Amount from line 350 in Part 17 if you are claiming the ZETM deduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 9K
+
+Manufacturing and processing profits deduction and ZETM deduction (total of amounts 9I to 9K) . . . . . . . . . . . . . . . . . . . . . . .                                          9L
+
+Enter this amount on line 616 of the T2 return.
+
+4 Applies only if you are a Canadian-controlled private corporation throughout your tax year.
+5 Calculate the amount of foreign business income tax credit without reference to the corporate tax reductions under section 123.4.
+6 General tax reduction for the year being 13% since January 1, 2012, the equation 1/(0.38 ­ X) becomes: 1/(0.38 ­ 0.13) = 1/(0.25) = 4.
+
+T2 SCH 27 E (22)                                                                                                                                                                     Page 4 of 9
+                                                                                                                                     Protected B when completed
+
+                           Corporations that generate electrical energy for sale or produce steam for sale
+
+Part 10 is for corporations claiming the manufacturing and processing profits deduction on profits from generating electrical energy for sale or
+producing steam for sale. If the corporation has eligible activities in addition to generating electrical energy for sale or producing steam for sale, it will
+also need to complete Part 2.
+
+Part 10 ­ Corporations that generate electrical energy for sale or produce steam for sale
+
+Canadian manufacturing and processing profits (MPA)
+
+ADJUBI            × [ MCA (Part 11, line 205)        + MLA (Part 12, line 206)                                                       ] = MPA
+                    [ C (Part 4, line 140)           + L (Part 6, line 160)                                                          ]
+(Part 3,
+line 130)
+
+Enter amount MPA on line 210 in Part 13.
+
+Part 11 ­ Cost of all manufacturing and processing capital (MCA)
+
+Include capital used directly in generating electrical energy for sale or producing steam for sale.
+See notes 3, 5, and 13 on page 9.
+
+Cost of capital from line 140 in Part 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                11A
+
+The part of amount 11A that reflects the extent to which each property was used directly in qualified activities of the corporation                                                                        11B
+
+during the year, or of a partnership during its fiscal period of which you were a member at any time in the year . . . . . . . . . . . . . . . . .
+
+Cost of manufacturing and processing capital (MCA)
+(amount 11B multiplied by 100 divided by 85, cannot be more than amount 11A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 205
+
+Enter this amount in Part 10.
+
+Part 12 ­ Cost of all manufacturing and processing labour (MLA)
+
+Include labour used directly in generating electrical energy for sale or producing steam for sale.
+
+See notes 3, 5, and 13 on page 9.
+
+Part of salaries and wages (included in amount 6I) that was paid or payable to employees for services directly engaged in qualified
+
+activities of the corporation during the year, or of a partnership during its fiscal period of which you were a member at any time                                                                         12A
+
+in the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Part of other payments (included in amount 6U) that was paid or payable to non-employees for performing functions that would be
+
+directly related to qualified activities of the corporation during the year, or of a partnership during its fiscal period of which you were a                                                              12B
+
+member at any time in the year, if they had been employees of the corporation or partnership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                  Total (amount 12A plus amount 12B)                                                                                                       12C
+
+Cost of manufacturing and processing labour (MLA)
+(amount 12C multiplied by 100 divided by 75, cannot be more than line 160 in Part 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 206
+
+Enter this amount in Part 10.
+
+T2 SCH 27 E (22)                                                                                                                                                                                           Page 5 of 9
+                                                                                                                                         Protected B when completed
+
+    Part 13 ­ Manufacturing and processing profits deduction for generating electrical
+                  energy for sale or producing steam for sale
+
+For eligible corporations that have profits from generating electrical energy for sale or producing steam for sale
+
+Canadian manufacturing and processing profits from Part 10 . . . . . . . . . . . . . . . . . . . . . . . . . 210
+
+Line 400, 405, 410, or 428 of the T2 return, whichever is the least 7 . . . . . . . . . . . . . . . . . . . . . . . . . .           13A
+
+                  Subtotal (Line 210 minus amount 13A)                                                                                                                                   13B
+
+Taxable income from line 360 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      13C
+
+Line 400, 405, 410, or 428 of the T2 return, whichever is the least 7 . . . . . . . . . . . . . . . . . . . . . . .                 13D
+
+Aggregate investment income from line 440 of the T2 return 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . .                13E
+
+Foreign business income tax credit deductible from                               × 49 =                                             13F
+line 636 of the T2 return 8 . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                  Subtotal (total of amounts 13D to 13F)                                                                                                                                 13G
+
+                                                                                 Subtotal (amount 13C minus amount 13G)                                                                  13H
+
+Lesser of amount 13B and amount 13H . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   13I
+
+Lesser of amount 9B and amount 9H 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13J
+
+                  Subtotal (amount 13I minus amount 13J)                                                                                                                                 13K
+
+Manufacturing and processing profits deduction for generating electrical energy for sale or producing steam for sale                                                                     13L
+
+(amount 13K multiplied by 13%) 11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7 Applies only if you are a Canadian-controlled private corporation throughout your tax year.
+
+8 Calculate the amount of foreign business income tax credit without reference to the corporate tax reductions under section 123.4.
+
+9 General tax reduction for the year being 13% since January 1, 2012, the equation 1/(0.38 ­ X) becomes: 1/(0.38 ­ 0.13) = 1/(0.25) = 4.
+
+10 Enter "0" if you are only claiming the manufacturing and processing profits deduction for generating electrical energy for sale or producing steam for sale.
+11 If you are also claiming the manufacturing and processing profits deduction for other eligible activities, enter amount 13L on 9J of Part 9. If you are only
+
+   claiming the deduction for generating electrical energy for sale or producing steam for sale, enter amount 13L on line 616 of the T2 return.
+
+T2 SCH 27 E (22)                                                                                                                                                                         Page 6 of 9
+                                                                                                                                  Protected B when completed
+
+               Corporations that engage in qualified zero-emission technology manufacturing (ZETM) activities
+
+Part 14 is for corporations claiming the ZETM deduction. If the corporation has eligible activities in addition to ZETM or wants to claim the
+manufacturing and processing profits deduction in addition to the ZETM deduction, it will also need to complete Part 2.
+
+    Part 14 ­ ZETM profits
+
+See note 8 on page 9.
+
+ADJUBI from line 130 in Part 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   14A
+                                                                                                                                                                                                         14B 12
+                  [ MCB (Part 15, line 305)                  + MLB (Part 16, line 306)                                         ]=
+                                                                                                                                                                                                         14C
+                  [                    C (Part 4, line 140)  +  L (Part 6, line 160)                                           ]
+
+ZETM profits (if amount 14B is 0.9 or greater, enter amount 14A, otherwise, multiply amount 14A by amount 14B) . . . . . . . . .
+Enter this amount on line 310 in Part 17.
+12 Enter a decimal number less than or equal to 1 with a maximum of five decimal places to express fractions.
+
+    Part 15 ­ ZETM cost of capital (MCB)
+
+Include capital used directly in ZETM.
+See notes 3, 5, and 13 on page 9.
+
+ZETM cost of capital (MCB) (the part of the cost of capital from line 140 in Part 4 that reflects the extent to which each
+property was used directly in qualified zero-emission technology manufacturing activities of the corporation during the year, or
+of a partnership during its fiscal period of which you were a member at any time in the year) . . . . . . . . . . . . . . . . . . . . . . . . . . 305
+Enter this amount in Part 14.
+
+Part 16 ­ ZETM cost of labour (MLB)
+
+Include labour used directly in ZETM.
+See notes 3, 5, and 13 on page 9.
+
+Part of salaries and wages (included in amount 6I) that was paid or payable to employees for services directly engaged in qualified
+
+zero-emission technology manufacturing activities of the corporation during the year, or of a partnership during its fiscal period of                                                                    16A
+
+which you were a member at any time in the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Part of other payments (included in amount 6U) that was paid or payable to non-employees for performing functions that would be
+
+directly related to qualified zero-emission technology manufacturing activities of the corporation during the year, or of a partnership
+
+during its fiscal period of which you were a member at any time in the year, if they had been employees of the corporation or                                                                            16B
+
+partnership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ZETM cost of labour (MLB) (amount 16A plus amount 16B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 306
+Enter this amount in Part 14.
+
+T2 SCH 27 E (22)                                                                                                                                                                                         Page 7 of 9
+                                                                                                                                                       Protected B when completed
+
+Part 17 ­ ZETM deduction
+
+For eligible corporations that have profits from ZETM
+
+ZETM profits from Part 14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310
+
+Line 120 from Part 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17A
+
+Line 400, 405, 410, or 428 of the T2 return, whichever is the least 13 . . . . . . . . . . . . . . . . . . . . . . . . .                          17B
+
+                          Subtotal (amount 17A minus amount 17B)                                                                                                                           17C
+
+Taxable income from line 360 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        17D
+
+Line 400, 405, 410, or 428 of the T2 return, whichever is the least 13 . . . . . . . . . . . . . . . . . . . . . . .                              17E
+
+Aggregate investment income from line 440 of the T2 return 13 . . . . . . . . . . . . . . . . . . . . . . . . . . .                               17F
+
+Foreign business income tax credit deductible from                           × 4 14 =                                                             17G
+line 636 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                             Subtotal (total of amounts 17E to 17G)                                                                        17H
+
+                                                                             Subtotal (amount 17D minus amount 17H)                                                                        17I
+
+Line 310, amount 17C, or amount 17I, whichever is the least . . . . . . . . . . . . . . . . . . . . . .                                           17J × 7.5% =                             17L
+
+Amount 17E or the result of line 310 minus amount 17J, whichever is the least 13 . . . . .                                                        17K × 4.5% =                             17M
+
+ZETM deduction (amount 17L plus amount 17M) 15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 350
+
+13 Applies only if you are a Canadian-controlled private corporation throughout your tax year.
+
+14 General tax reduction for the year being 13% since January 1, 2012, the equation 1/(0.38 ­ X) becomes: 1/(0.38 ­ 0.13) = 1/(0.25) = 4.
+15 If you are also claiming a manufacturing and processing profits deduction for other eligible activities, enter the amount from line 350 at amount 9K in
+
+   Part 9. If you are only claiming the ZETM deduction, enter the amount from line 350 on line 616 of the T2 return.
+
+T2 SCH 27 E (22)                                                                                                                                                                           Page 8 of 9
+Notes and definitions
+
+1. Active business, in relation to any business carried on by a taxpayer resident in Canada, means any business other than a specified investment
+     business or a personal services business.
+
+2. Active business income of an associated corporation includes its share of the active business income for the fiscal period of a partnership of which it
+     was a member at any time in the year.
+
+3. Fiscal period of a partnership refers to the period coinciding with or ending in the tax year of the corporation.
+
+4. Tax year of an associated corporation means any tax year that coincides with or ends in the tax year of the corporation completing this schedule.
+
+5. Year means the tax year of the corporation completing this schedule.
+
+6. Canadian manufacturing and processing profits is defined in subsection 125.1(3). There is also a definition of manufacturing or processing which
+     lists activities that are not included.
+
+7. The term associated corporation has the meaning given by section 256. See the T2 Corporation Income Tax Guide for more information.
+
+8. Zero-emission technology manufacturing profits is defined in subsection 125.2(1).
+
+9. To determine the cost of capital, exclude from the gross cost or rental cost, the part that reflects the extent the property was used during the year by
+     the corporation or the partnership (section 5204 of the regulations):
+
+     (a) in an active business carried on outside Canada
+
+     (b) to earn Canadian investment income or foreign investment income as defined in subsection 129(4) (assuming that the subsection applies also to
+           partnerships)
+
+     (c) in activities that earn Canadian resource profits as defined in section 5202 of the regulations
+
+     (d) in activities referred to in items (a), (b), or (e) under the definition of "Canadian exploration and development expenses" in subsection 66(15), items
+           (a) or (b) under the definition of "foreign exploration and development expenses" in subsection 66(15), items (a), (c), (f), or (i) under the definition of
+           "Canadian exploration expense" in subsection 66.1(6), or items (a), (c), or (g) under the definition of "Canadian development expense" in
+           subsection 66.2(5)
+
+10. Canadian exploration and development expenses, foreign exploration and development expenses, Canadian exploration expense, and
+     Canadian development expense are defined in subsection 66(15), subsection 66.1(6), and subsection 66.2(5). Your Canadian or foreign exploration
+     and development expenses include the share of these expenses incurred by a partnership only if you were a member of that partnership at the end of
+     the partnership's fiscal period.
+
+11. Salaries and wages paid or payable to employees or amounts paid or payable to non-employees by a partnership that are included in its Canadian or
+     foreign exploration and development expenses will be excluded from the calculation of the partnership's "Cost of labour" only if these exploration and
+     development expenses can be included in the corporate partner's exploration and development expenses (see note 10 above).
+
+12. Section 5203 of the regulations, Resource income, provides that a corporation's income from the processing of foreign ore be excluded from its net
+     resource income (NRI) for the year. Income from foreign ore processing is generally equal to the resource profits for the year less the sum of Canadian
+     resource profits for the year and the earned depletion base at the beginning of the immediately following tax year.
+
+13. The following terms are defined in the Income Tax Regulations:
+
+                    Terms                                                Section or subsection
+                  ­ Gross cost                                           5202 and 5204
+                  ­ Net resource income                                  5203(3)
+                  ­ Qualified activities                                 5202
+                  ­ Qualified zero-emission technology                   5202
+
+                    manufacturing activities                             5202
+                  ­ Rental cost                                          5203(2)
+                  ­ Resource activities                                  5202
+                  ­ Salaries and wages
+
+T2 SCH 27 E (22)                                                                                Page 9 of 9
+

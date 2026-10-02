@@ -1,0 +1,19 @@
+line	caption
+240	were paid YYYYMMDD 230 paragraph 113(1)(c)
+320	Part IV.I tax payable on dividends subject to Part IV tax (from line 360 of Schedule 43)
+330	Current-year non-capital loss claimed to reduce Part IV tax
+335	Non-capital losses from previous years claimed to reduce Part IV tax
+340	Current-year farm loss claimed to reduce Part IV tax
+345	Farm losses from previous years claimed to reduce Part IV tax
+360	Part IV tax payable (amount 2B minus amount 2D, if negative enter "0")
+400	received YYYYMMDD which you are
+450	Total taxable dividends paid in the tax year to other than connected corporations
+455	Eligible dividends included in line 450
+460	Total taxable dividends paid in the tax year that qualify for a dividend refund (total of column Q plus line 450)
+465	Total eligible dividends paid in the tax year (total of column R plus line 455)
+470	Total non-eligible taxable dividends paid in the tax year (line 460 minus line 465)
+500	Total dividends paid in the tax year
+510	Dividends paid out of capital dividend account
+520	Capital gains dividends
+530	Dividends paid on shares described in subsection 129(1.2)
+540	Taxable dividends paid to a controlling corporation that was bankrupt at any time in the year

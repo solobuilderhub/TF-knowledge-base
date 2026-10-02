@@ -1,0 +1,319 @@
+Corporation's name     Federal and Provincial or Territorial Foreign Income Tax Credits                                                         Schedule 21
+                                              and Federal Logging Tax Credit                                                                          Code 2301
+                                                  (2023 and later tax years)
+                                                                                                                                                Protected B
+                                                                                                                      Business number          when completed
+
+                                                                                                                                          Tax year-end
+                                                                                                                                       Year Month Day
+
+· Corporations resident in Canada at any time in the year and authorized foreign banks can use this schedule to claim a federal foreign non-business income
+
+  tax credit, a federal foreign business income tax credit, or a provincial or territorial foreign non-business income tax credit.
+
+· Corporations can use this schedule to claim a federal logging tax credit.
+· Calculate the foreign income tax credits for each country separately. Attach another schedule if the corporation is claiming credits for more than five countries.
+· Calculate the provincial or territorial foreign non-business income tax credits for each country and province or territory separately.
+· Unless otherwise noted, all legislative references are to the Income Tax Act.
+· For more information on foreign tax credits, see Income Tax Folio S5-F2-C1, Foreign Tax Credit.
+
+Part 1 ­ Federal foreign non-business income tax credit
+
+                1A                            1B            1C                                          1D                                       1E
+
+Country of source of foreign   Net foreign non-business    Foreign non-business  Foreign non-business income                           Column 1C minus
+    non-business income       income earned in the year 1                                                                                   column 1D
+                                                           income tax paid for the year 2 tax paid, deducted from income
+
+                                                                                 under subsection 20(12)
+
+                  100         110                           120                                         130
+
+            1F                                1G                                           1H                                                    1I
+
+ Adjusted net income          Part I tax otherwise payable       The result of column 1B multiplied by 1G,                             Deductible credit
+(amount from line 600            (amount from line 610                        divided by column 1F                                     (column 1E or 1H,
+                                          in Part 7)                                                                                   whichever is less)
+        in Part 6)                                                    (cannot be more than column 1G)
+                                                                                                                                                180
+
+                                                 Total deductible federal foreign non-business income tax credit (total of column 1I)
+
+                                                 Enter the total deductible federal foreign non-business income tax credit, or a lesser amount, on line 632 of the T2 return.
+
+1 Net foreign non-business income is the excess of qualifying income over qualifying losses, as determined according to subsection 126(9).
+  Do not include:
+
+  ­ income that is exempt from tax in Canada under an income tax treaty
+  ­ dividends received from foreign affiliates
+  ­ tax-exempt income as defined in subsection 126(7)
+
+2 Do not include:
+
+  ­ tax paid to a foreign government on income that is exempt from tax in Canada under an income tax treaty
+  ­ foreign tax paid on dividends received from foreign affiliates
+  ­ foreign tax that may reasonably be regarded as relating to an amount that any other person or partnership has received, or is entitled to receive, from
+
+      that government
+
+  ­ tax paid for property (other than capital property) from which the corporation is not expected to realize a profit
+  ­ tax paid that is in excess of the limit and paid for dividends or interest on a share or debt obligation held for one year or less
+
+T2 SCH 21 E (26)                                           (Ce formulaire est disponible en français.)       Page 1 of 5
+Part 2 ­ Federal foreign business income tax credit                                                                       Protected B when completed
+
+2A                           2B                            2C                                             2D                         2E
+                                                                                                                     Column 2C plus column 2D
+Country in which foreign Net foreign business income Foreign business income tax          Unused foreign income tax
+                                                                                             credits from previous
+business income was earned   earned in the year 3          paid for the year 4                       tax years
+
+200                          210                           220                            230
+
+              2F                             2G            2H                             2I                                      2J
+
+  Adjusted net income        Part I tax otherwise payable  Part I tax otherwise payable The result of column 2B         Deductible credit
+(amount from line 600 in       (amount from line 620 in                                                              (column 2E, 2H, or 2I,
+                                           Part 8)         minus foreign non-business multiplied by 2G, divided by
+           Part 6)                                                                                                     whichever is least)
+                                                           income tax credits claimed     column 2F
+                                                                                                                                 280
+
+                                                   Total deductible federal foreign business income tax credit (total of column 2J)
+
+                                                  Enter the total deductible federal foreign business income tax credit, or a lesser amount, on line 636 of the T2 return.
+
+3 Net foreign business income is the excess of qualifying income over qualifying losses, as determined according to subsection 126(9).
+  Do not include:
+
+  ­ income that is exempt from tax in Canada under an income tax treaty
+  ­ tax-exempt income as defined in subsection 126(7)
+
+4 Do not include:
+
+  ­ tax paid to a foreign government on income that is exempt from tax in Canada under an income tax treaty
+  ­ foreign tax that may reasonably be regarded as relating to an amount that any other person or partnership has received, or is entitled to
+
+      receive, from that government
+
+  ­ tax paid for property (other than capital property) from which the corporation is not expected to realize a profit
+  ­ tax paid that is in excess of the limit and paid for dividends or interest on a share or debt obligation held for one year or less
+
+Part 3 ­ Continuity of unused federal foreign business income tax credits
+
+                 3K                      3L                        3M                               3N                                3O
+                                                                                                                       Credits transferred on an
+   Country in which foreign  Balance at end of the         Amount expired                 Opening balance            amalgamation or the wind-up
+business income was earned     previous tax year             in the year 5                (column 3L minus
+                                                                                                                              of a subsidiary
+                                                                                              column 3M)
+                                                                                                                                      360
+345                                                        348                            350
+
+3P                           3Q                            3R                                           3S
+
+Foreign business income tax Foreign business income tax Carryback to previous years            Closing balance
+                                                                                          (total of columns 3N, 3O,
+paid for the year            credit deductible in the year (total of columns 4V, 4W, and
+                                                                                                 and 3P minus
+(column 2C in Part 2)        (cannot be more than          4X in Part 4)                    columns 3Q and 3R)
+
+                             column 2J in Part 2)                                                       380
+
+   5 An unused federal foreign business income tax credit expires after 10 tax years.                                                        Page 2 of 5
+T2 SCH 21 E (26)
+                                                                                                                                                             Protected B when completed
+
+Part 4 ­ Request for a federal foreign business income tax credit carryback
+
+                 4T                        4U                             4V                          4W                                       4X
+   Country in which foreign                                                                                                     Carry back to 3rd previous
+business income was earned   Unused foreign business       Carry back to 1st previous  Carry back to 2nd previous
+                                  income tax credit                   tax year 6                  tax year 6                               tax year 6
+                 900             (column 3P minus
+                                                                                                                                               903
+                               column 3Q, in Part 3)
+
+                                                           901                                                             902
+
+6 Total of carryback (amounts from columns 4V, 4W, and 4X) cannot be more than the unused foreign business income tax credit (amount from column 4U).
+
+Part 5 ­ Federal logging tax credit
+
+    5A                        5B                       5C                             5D                                                 5E                                                 5F
+Province                                                                                                                   Column 5D multiplied by                                 Column 5C or 5E,
+                  Income from logging   Column 5B multiplied by           Logging tax paid on                                                                                      whichever is less
+                  under Regulation 700              6 2/3%                income in column 5B                                             2/3
+                                                                                                                                                                                                                5G
+British Columbia 500                                                      510                                                      Total of column 5F
+
+Quebec            520                                                     530
+
+                             6 2/3% of taxable income (or, for non-residents, 6 2/3% of taxable income earned in Canada)                                                           5H
+
+Federal logging tax credit (amount 5G or 5H, whichever is less) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 580
+Enter line 580 or a lesser amount on line 640 of the T2 return.
+
+Part 6 ­ Adjusted net income
+
+To be filled out by all corporations other than authorized foreign banks
+
+Net income for income tax purposes (line 300 of the T2 return) (if negative, enter "0"). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     6A
+
+Net capital losses claimed under paragraph 111(1)(b) (line 332 of the T2 return). . . . . . . . . . . . . . .                   6B
+
+Taxable dividends deductible under sections 112 and 113 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         6C
+
+Prospector's and grubstaker's shares (line 350 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . .          6D
+
+Employer deduction for non-qualified securities (line 352 of the T2 return) . . . . . . . . . . . . . . . . . . .               6E
+
+                                                           Subtotal (total of amounts 6B to 6E)                                                                                    6F
+                                                                                                                                    
+                                                           Subtotal (amount 6A minus amount 6F) (if negative, enter "0")                                                           6G
+
+Amount added to taxable income for foreign tax deductions under section 110.5 (line 355 of the T2 return) . . . . . . . . . . . . . . . . . . .                                    6H
+
+                                                                                       Total (amount 6G plus amount 6H)                                                            6I
+
+To be filled out by authorized foreign banks only (see subsection 126(1.1))
+
+Taxable income earned in Canada (line 360 of the T2 return) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     6J
+
+Income from its Canadian banking business (line 300 of the T2 return) (if negative, enter "0"). . . . .                         6K
+
+Amount added to taxable income for foreign tax deductions                                                                       6L
+
+under subparagraph 115(1)(a)(vii) (line 355 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                           Subtotal (amount 6K plus amount 6L)                                                                                     6M
+
+Amount 6J or amount 6M, whichever is less . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6N
+
+Adjusted net income (amount 6I or amount 6N, whichever is applicable) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 600
+
+T2 SCH 21 E (26)                                                                                                                                                                   Page 3 of 5
+                                                                                                                                         Protected B when completed
+
+Part 7 ­ Part I tax otherwise payable (foreign non-business income tax credit)
+
+Base amount of Part 1 tax (line 550 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    7A
+
+Federal tax abatement (line 608 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    7B
+
+Investment corporation deduction (line 620 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           7C
+
+General tax reduction (line 639 of the T2 return). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   7D
+
+                  Subtotal (total of amounts 7B to 7D)                                                                                                                             7E
+
+Additional tax on personal services business income (line 560 of the T2 return) . . . . . . . . . . . . . . . .                      7F
+
+Additional tax on banks and life insurers (line 565 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . .            7G
+
+Total labour requirements addition to tax (line 580 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . .            7H
+
+Recapture of investment tax credit (line 602 of the T2 return). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          7I
+
+Refundable tax on Canadian-controlled private corporation's (CCPC) or substantive CCPC's                                             7J
+
+investment income (line 604 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                  Subtotal (total of amounts 7F to 7J)                                                                                                                             7K
+
+Part I tax otherwise payable (foreign non-business income tax credit)
+(amount 7A minus amount 7E plus amount 7K) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 610
+
+Part 8 ­ Part I tax otherwise payable (foreign business income tax credit)
+
+Base amount of Part 1 tax (line 550 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  8A
+
+Investment corporation deduction (line 620 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         8B
+
+General tax reduction for CCPCs (line 638 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          8C
+
+General tax reduction (line 639 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  8D
+
+                  Subtotal (total of amounts 8B to 8D)                                                                                                                             8E
+
+Additional tax on personal services business income (line 560 of the T2 return) . . . . . . . . . . . . . . . . .                    8F
+
+Additional tax on banks and life insurers (line 565 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . .            8G
+
+Total labour requirements addition to tax (line 580 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . .            8H
+
+Recapture of investment tax credit (line 602 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         8I
+
+                  Subtotal (total of amounts 8F to 8I)                                                                                                                             8J
+
+Part I tax otherwise payable (foreign business income tax credit)
+(amount 8A minus amount 8E plus amount 8J) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 620
+
+T2 SCH 21 E (26)                                                                                                                                                                   Page 4 of 5
+                                                                                                                              Protected B when completed
+
+    Part 9 ­ Provincial or territorial foreign tax credit
+
+· Fill out a separate calculation for each province or territory for which you are claiming the credit.
+· If you have foreign non-business income from more than one country, fill out a separate calculation for each country and total these calculations to
+
+  determine the credit for the applicable province or territory.
+
+Province or territory for which you are claiming this credit . . . .
+Country of source of foreign non-business income . . . . . . . . .
+
+Foreign non-business income tax available for provincial or territorial foreign tax credit:
+
+Foreign non-business income tax paid for the year (amount from column 1C in Part 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         9A
+
+Foreign non-business income tax paid, deducted from income under subsection 20(12) (amount from column 1D in Part 1) . . . . . .                                  9B
+
+                                                                         Subtotal (amount 9A minus amount 9B)                                                     9C
+
+Federal foreign non-business income tax credit deductible (amount from column 1I in Part 1). . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            9D
+
+Foreign non-business income tax credit available (amount 9C minus amount 9D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          9E
+
+Note: If amount 9E is "0", no provincial or territorial foreign tax credit may be claimed in respect of the foreign country.
+
+                     Taxable income earned in the
+
+Amount 9E         ×  province or territory 7                                                 = ......................                                             9F
+
+                     Taxable income 8
+
+Limit on amount of foreign non-business income tax that can be claimed:
+
+Net foreign non-business income earned in the year (amount from column 1B in Part 1) . . . . . . . . . . . .                  9G
+
+                     Provincial or
+
+Amount 9G         ×  territorial tax rate 9                                                  =                                9H
+
+                     Taxable income earned in the
+
+Amount 9H         ×  province or territory 7                                                 = ......................                                             9I
+
+                     Taxable income 10
+
+Provincial or territorial foreign tax credit (amount 9F or 9I, whichever is less). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9J
+
+Enter amount 9J on the corresponding line in Part 2 of Schedule 5, Tax Calculation Supplementary ­ Corporations. If you have more than one
+calculation of the credit for a province or territory, enter the total credits calculated on the corresponding line in Part 2 of Schedule 5.
+
+For Ontario, if the corporation is not a life insurance corporation, also enter amount 9J on line 550 of Schedule 510, Ontario Corporate Minimum Tax.
+
+7 Enter the amount allocated to the province or territory in column F from Part 1 of Schedule 5. For Nova Scotia and Newfoundland and Labrador,
+  include their offshore areas. For Ontario, if the corporation's taxable income is nil, calculate the amount in column F as if the taxable income
+  were $1,000.
+
+8 Do not include taxable income earned outside Canada. For Ontario, if the corporation's taxable income is nil, enter "1,000."
+
+9 For all provinces and territories except Ontario, use the higher tax rate. If the rate has changed during the tax year, use the average rate based on the
+  number of days in the tax year before and after the change. For Ontario, use the basic rate of tax calculated in Part 1 of Schedule 500, Ontario
+  Corporation Tax Calculation.
+
+10 Enter the amount from line 360 of the T2 Corporation Income Tax Return. For Ontario, if the corporation's taxable income is nil, enter "1,000."
+
+T2 SCH 21 E (26)                                                                                                                                                  Page 5 of 5
+

@@ -1,0 +1,209 @@
+                                                              Capital Cost Allowance (CCA)                                                                                                     Schedule 8
+                                                                 (2025 and later tax years)                                                                                                        Code 2501
+
+Corporation's name                                                                                                                     Business number                                        Protected B
+                                                                                                                                                                                             when completed
+
+                                                                                                                                                                                          Tax year-end
+                                                                                                                                                                                     Year Month Day
+
+· Fill out this schedule to calculate the amount of capital cost allowance (CCA) the corporation is claiming for the tax year or to account for acquisitions or dispositions of depreciable property, or both.
+· Unless otherwise stated, all legislative references are to the Income Tax Act.
+· For more information, see the section called "Schedule 8, Capital Cost Allowance (CCA)" in Guide T4012, T2 Corporation ­ Income Tax.
+· If you do not have enough space to list all the information, use an additional Schedule 8.
+· Attach the original copy of this completed schedule to your T2 Corporation Income Tax Return.
+
+Is the corporation electing under subsection 1101(5q) of the Income Tax Regulations? 101       Yes  No
+
+    1                         2                     3                            4                                 5                             6                         7                    8
+ Class
+number           Undepreciated capital  Cost of acquisitions     Cost of acquisitions from         Cost of acquisitions from           Adjustments and       Amount from column 6        Amount from
+                   cost (UCC) at the    during the year (new  column 3 that are accelerated    column 3 that are reaccelerated    transfers (show amounts       that is assistance     column 6 that is
+Note 1                                                        investment incentive property                                       that will reduce the UCC                            repaid during the
+                 beginning of the year    property must be                                      investment incentive property                                received or receivable  year for a property,
+                                          available for use)    (AIIP) or property acquired    (RIIP) or property acquired after          in brackets)        during the year for a   subsequent to its
+                                                              before 2025 that is included in                                                               property, subsequent to
+                                                 Note 2                                             2024 that is included in                 Note 5                                       disposition
+                                                                      Classes 54 to 56                   Classes 54 to 56                                         its disposition
+                                                                                                                                                                                             Note 7
+                                                                             Note 3                            Note 4                                                  Note 6
+
+200                 201                 203                   225                                   226                           205                       221                      222
+
+T2 SCH 8 E (26)                                                    (Ce formulaire est disponible en français.)                                              Page 1 of 4
+                                                                                                                                                                           Protected B when completed
+
+       9     10                                11                 12                                     13             14                             15                  16
+Proceeds of
+disposition  UCC (column 2 plus       Proceeds of disposition         Net capital cost       Proceeds of disposition         Net capital cost      UCC adjustment for       UCC adjustment for RIIP and
+               column 3 plus or    available to reduce additions  additions of AIIP and     from column 11 available     additions of RIIP and       AIIP and property       property acquired after 2024
+   Note 8      minus column 6                                                                                           property acquired after   acquired before 2025     that is included in Classes 54 to
+               minus column 9)      of AIIP, RIIP and property      property acquired         to reduce additions of    2024 that is included in     that is included in     56 (column 14 multiplied by
+    207                            included in Classes 54 to 56     before 2025 that is         RIIP and property                                    Classes 54 to 56
+                      Note 9                                                                                                Classes 54 to 56      (column 12 multiplied            the relevant factor)
+                                     (column 7 plus column 9             included in        acquired after 2024 that       (column 5 minus        by the relevant factor)
+                                       minus column 3 plus           Classes 54 to 56       is included in Classes 54                                                                     Note 11
+                                                                     (column 4 minus        to 56 (column 11 minus              column 13)                 Note 10
+                                     column 4 plus column 5                                                             (if negative, enter "0")
+                                          minus column 8)                column 11)           column 4)(if negative,
+                                                                  (if negative, enter "0")            enter "0")
+                                       (if negative, enter "0")
+
+                    17                   18                  19                                                 20                              21                                           22
+                                   CCA rate %      Recapture of CCA                                      Terminal loss
+   UCC adjustment for property                                                                                                 CCA (for declining balance                    UCC at the end of the year
+  acquired during the year other     Note 13             Note 14                                            Note 15         method, the result of column 10                (column 10 minus column 21)
+   than AIIP, RIIP and property                                                                                             plus column 15 plus column 16
+included in Classes 54 to 56 (0.5       212                 213                                                 215         minus column 17, multiplied by
+                                                                                                                             column 18 or a lower amount)
+    multiplied by the result of
+column 3 minus column 4 minus                                                                                                                     Note 16
+ column 5 plus column 8 minus
+                                                                                                                                                  217                      220
+    column 7 minus column 9)
+       (if negative, enter "0")
+
+                 Note 12
+
+                   224
+
+                                                                               Totals                                                                                           Page 2 of 4
+
+  Enter the total of column 19 on line 107 of Form T2 SCH 1, Net Income (Loss) for Income Tax Purposes.
+  Enter the total of column 20 on line 404 of Form T2 SCH 1.
+  Enter the total of column 21 on line 403 of Form T2 SCH 1.
+
+T2 SCH 8 E (26)
+Notes
+
+Note 1: If a class number has not been provided in Schedule II of the Income Tax Regulations for a particular class of property, use the subsection provided in Regulation 1101.
+
+Note 2:  Include any property acquired in previous years that has now become available for use, net of any government assistance received or entitled to be received in the year from a government,
+         municipality or other public authority, or a reduction of capital cost after the application of section 80. This property would have been previously excluded from column 3. List separately any
+         acquisitions of property in the class that are not subject to the 50% rule. See Income Tax Folio S3-F4-C1, General Discussion of Capital Cost Allowance, for exclusions from the half-year rule. Do not
+         include any amount in column 3 in respect of property included in column 6 (Note 5). See Guide T4012 for more information about the cost of acquisitions during the year.
+
+Note 3: An AIIP is a property (other than property included in Classes 54 to 56) that you acquired after November 20, 2018 and before 2025, and that became available for use before 2028.
+            Classes 54 and 55 include zero-emission vehicles that you acquired after March 18, 2019, and that became available for use before 2034.
+            Class 56 applies to eligible zero-emission automotive equipment and vehicles (other than motor vehicles) that you acquired after March 1, 2020, and that became available for use before 2034.
+            See Guide T4012 for more information.
+
+Note 4: An RIIP is a property (other than property included in Classes 54 to 56) that you acquired after 2024, and that became available for use before 2034.
+            Classes 54 and 55 include zero-emission vehicles that you acquired after March 18, 2019, and that became available for use before 2034.
+            Class 56 applies to eligible zero-emission automotive equipment and vehicles (other than motor vehicles) that you acquired after March 1, 2020, and that became available for use before 2034.
+            See Guide T4012 for more information.
+
+Note 5:  Enter in column 6, "Adjustments and transfers," amounts that increase or reduce the UCC (column 10). Items that increase the UCC include amounts transferred under section 85, or transferred on
+         amalgamation or winding-up of a subsidiary. Items that reduce the UCC (show amounts that reduce the UCC in brackets) include assistance received or receivable during the year for a property,
+         subsequent to its disposition, if such assistance would have decreased the capital cost of the property by virtue of paragraph 13(7.1)(f). See Guide T4012 for other examples of adjustments and
+         transfers to include in column 6.
+
+         Also include property acquired in a non-arm's length transaction [other than by virtue of a right referred to in paragraph 251(5)(b)] if the property was a depreciable property acquired by the transferor
+         at least 364 days before the end of your tax year and continuously owned by the transferor until it was acquired by you.
+
+Note 6: Include all amounts of assistance you received (or were entitled to receive) after the disposition of a depreciable property that would have decreased the capital cost of the property by virtue of
+            paragraph 13(7.1)(f) if received before the disposition.
+
+Note 7: Include all amounts you have repaid during the year for any legally required repayment, made after the disposition of a corresponding property, of:
+
+          · assistance that would have otherwise increased the capital cost of the property under paragraph 13(7.1)(d) and
+          · an inducement, assistance, or any other amount contemplated in paragraph 12(1)(x) received, that otherwise would have increased the capital cost of the property under paragraph 13(7.4)(b)
+
+            Include the UCC of each property of a prescribed class acquired in the course of a corporate reorganization described under paragraph 55(3)(b) (also known as "butterfly reorganization") or include
+            property acquired in a non-arm's length transaction [other than by virtue of a right referred to in paragraph 251(5)(b)] if the property was a depreciable property acquired by the transferor less than 364
+            days before the end of your tax year and continuously owned by the transferor until it was acquired by you.
+
+Note 8: For each property disposed of during the year, deduct from the proceeds of disposition any outlays and expenses to the extent that they were made or incurred for the purpose of making the
+            disposition(s). The amount reported in respect of the property cannot exceed the property's capital cost, unless that property is a timber resource property as defined in subsection 13(21).
+
+            If the cost of a zero-emission passenger vehicle (or a passenger vehicle that was, at any time, a designated immediate expensing property) exceeds the prescribed amount and it is disposed of to a
+            person or partnership with which you deal at arm's length, the proceeds of disposition will be adjusted based on a factor equal to the prescribed amount as a proportion of the actual cost of the vehicle.
+            The actual cost of the vehicle will be adjusted for payment or repayment of government assistance.
+
+Note 9: If the amount in column 6 (as shown in brackets) reduces the UCC, you must subtract it for the purpose of the calculation. Otherwise, add the amount in column 6 for the purpose of the calculation.
+
+Note 10: The adjustment from column 15 is added to the UCC in column 10 to calculate the CCA deduction in column 21.
+
+            The relevant factors for property of a class in Schedule II, that is an AIIP or property acquired before 2025 that is included in Classes 54 to 56, are:
+
+          · 1 1/2 for property in Classes 43.1, 54 and 56 that became available for use in 2024 or 2025 or 5/6 if it became available for use after 2025
+          · 7/8 for property in Class 55 that became available for use in 2024 or 2025 or 3/8 if it became available for use after 2025
+          · 1/2 for property in Classes 43.2 and 53 that became available for use in 2024 or 2025 or 1/10 if it became available for use after 2025
+          · 3 for property in Class 44 that was acquired and became available for use after April 15, 2024 and before 2027 or 0 if it became available for use after 2026
+          · 2 1/3 for property in Class 46 that was acquired and became available for use after April 15, 2024 and before 2027 or 0 if it became available for use after 2026
+          · 9/11 for property in Class 50 that was acquired and became available for use after April 15, 2024 and before 2027 or 0 if it became available for use after 2026
+          · 0 for property in Classes 12, 13, 14, 15, and 59, as well as properties that are Canadian vessels included in paragraph 1100(1)(v) of the Regulations (see note 16 for additional information)
+          · 0 for all other property (including property in Class 10.1) that is an AIIP (other than property in Classes 44, 46 or 50) that became available for use after 2023
+
+            If the tax year does not follow the calendar year, the relevant factor is determined under subsection 1100(2.01) of the Regulations.
+
+T2 SCH 8 E (26)                                                                                                                                                                   Page 3 of 4
+   Notes (continued)
+
+Note 11: The adjustment from column 16 is added to the UCC in column 10 to calculate the CCA deduction in column 21.
+
+            The relevant factors for property of a class in Schedule II, that is an RIIP or property acquired after 2024 that is included in Classes 54 to 56, are:
+
+          · 2 1/3 for property in Classes 43.1, 54 and 56 that became available for use before 2030
+          · 1 1/2 for property in Class 55 that became available for use before 2030
+          · 1 for property in Class 53
+          · 2 1/3 for property in Class 43 acquired after 2025 that became available for use before 2030, if such property would have been included in Class 53 if it had been acquired in 2025
+          · 3 for property in Class 44 that became available for use before 2027 or 0 if it became available for use after 2026
+          · 2 1/3 for property in Class 46 that became available for use before 2027 or 0 if it became available for use after 2026
+          · 9/11 for property in Class 50 that became available for use before 2027 or 0 if it became available for use after 2026
+          · 0 for property in Classes 12, 13, 14, 15, and 59, as well as properties that are Canadian vessels included in paragraph 1100(1)(v) of the Regulations (see note 16 for additional information)
+          · 0.5 for all other property (including property in Class 10.1) that is an RIIP that became available for use before 2030 or 0 if it became available for use after 2029
+
+            If the tax year does not follow the calendar year, the relevant factor is determined under subsection 1100(2.011) of the Regulations.
+
+Note 12: The UCC adjustment for property acquired during the year (also known as the half-year rule or 50% rule) does not apply to certain property (including AIIP, RIIP and property included in Classes 54 to
+            56). For special rules and exceptions, see Income Tax Folio S3-F4-C1, General Discussion of Capital Cost Allowance. The adjustment from column 17 is subtracted from the UCC in column 10 to
+            calculate the CCA deduction in column 21.
+
+Note 13: Enter a rate only if you are using the declining balance method. For any other method (for example, the straight-line method, where calculations are always based on the cost of acquisitions),
+            enter "N/A". Then enter the amount you are claiming in column 21.
+
+Note 14: If the amount in column 10 is negative, you have a recapture of CCA. If applicable, enter the negative amount from column 10 in column 19 as a positive. The recapture rules do not apply to
+            passenger vehicles in Class 10.1. However, they do apply to a passenger vehicle that was, at any time, a designated immediate expensing property.
+
+Note 15: If no property is left in the class at the end of the tax year and there is still a positive amount in the column 10, you have a terminal loss. If applicable, enter the positive amount from column 10 in
+            column 20. The terminal loss rules do not apply to:
+
+          · passenger vehicles in Class 10.1
+          · property in Class 14.1, unless you have ceased carrying on the business to which it relates
+          · limited-period franchises, concessions, or licences in Class 14 if, at the time of acquisition, the property was a former property of the transferor or any similar property attributable to the
+
+               same fixed place of business, and you had jointly elected with the transferor to have the replacement property rules apply, unless certain conditions are met
+
+Note 16: If the tax year is shorter than 365 days, prorate the CCA claim. Some classes of property do not have to be prorated. See Guide T4012 for more information.
+
+            For property in Class 10.1 disposed of during the year, deduct a maximum of 50% of the regular CCA deduction if you owned the property at the beginning of the tax year.
+
+            For AIIP and RIIP listed below, the maximum first year allowance you can claim is determined as follows:
+
+          · Class 13: if the capital cost of the RIIP was incurred before 2030, the lesser of 150% of the amount calculated in Schedule III of the Regulations and the UCC at the end of the tax year (before any
+
+               CCA deduction), and in any other case, the amount for the year calculated in accordance with Schedule III of the Regulations
+
+          · Class 14: the lesser of 150% (if the property is an RIIP that becomes available for use in the year and before 2030) or 125% (if the property is an AIIP that becomes available for use in the
+
+               year and after 2023 or an RIIP that becomes available for use in the year and after 2029) of the allocation for the year of the capital cost of the property apportioned over the remaining life
+               of the property (at the time the cost was incurred) and the UCC at the end of the tax year (before any CCA deduction)
+
+          · Class 15: the lesser of 150% (if the property is an RIIP acquired in the year and before 2026) or 125% (if the property is an AIIP acquired in the year and after 2023 or an RIIP acquired in the year
+
+               and after 2025) of an amount calculated on the basis of a rate per cord, board foot, or cubic metre cut in the tax year and the UCC at the end of the tax year (before any CCA deduction)
+
+          · Canadian vessels described under paragraph 1100(1)(v) of the Regulations: the lesser of 50% (for RIIP acquired in the year and before 2030) or 33 1/3% (in any other case) of the capital cost of the
+
+               property and the UCC at the end of the tax year (before any CCA deduction)
+
+          · Natural gas liquefaction: The additional allowances in respect of natural gas liquefaction under paragraphs 1100(1)(a.3) and (yb) of the Regulations are eligible for the accelerated investment
+
+               incentive and the reaccelerated investment incentive.
+
+            The AIIP and RIIP provisions also apply to property (other than a timber resource property) that is a timber limit or a right to cut timber from a limit as well as to an industrial mineral mine or a right to
+            remove minerals from an industrial mineral mine. See the Income Tax Regulations for more details.
+
+T2 SCH 8 E (26)  Page 4 of 4
+

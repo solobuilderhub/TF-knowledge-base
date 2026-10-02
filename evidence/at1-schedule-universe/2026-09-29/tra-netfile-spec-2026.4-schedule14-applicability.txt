@@ -1,0 +1,45 @@
+3.2.3.15 Schedule 14 - Alberta Cumulative Eligible Capital Deduction                                                        MAPPINGS
+
+                                                                            SCHEDULE/FORM/LINE
+
+                                                                                                                         Q            L
+
+                                                              M                                 Business Rules    Map    U            O
+                                                                                                                  Data
+        Line                  Line                            O                                 and             Element  A            O  Pos
+       Code                  Name
+                                            Type Length  +/-  X                                 Comments                 L            P  No.
+014
+              Cumulative Eligible Capital                     X If 000060 and 000061 = 2,
+CYDCF         Deduction                                               then do not allow the
+002                                                                   completion of form 014. If
+004                                                                   the opening balance or the
+                                                                      claim (i.e. 014024 and
+                                                                      014040) for Alberta
+                                                                      purposes differs from that
+                                                                      for federal purposes and
+                                                                      000061 = 1, then form 014
+                                                                      is REQUIRED to be
+                                                                      completed.
+                                                                      For taxation years that end
+                                                                      on or after January 1, 2017
+                                                                      and includes December 31,
+                                                                      2016, the Schedule 14
+                                                                      Supplemental Worksheet
+                                                                      must be filed with the
+                                                                      Schedule 14. If the tax
+                                                                      return is net filed, the
+                                                                      Schedule Supplemental
+                                                                      Worksheet must be sent
+                                                                      separately.
+
+              Current Year Deduction           1/13      +    M Enter the amount of Alberta
+              and Carry-Forward                                       cumulative eligible capital
+                                                                      balance from last year or the
+              Cumulative eligible capital - $                         federal cumulative eligible
+              balance at end of preceding                             capital balance from last year
+              taxation year                                           if the balance is the same for
+                                                                      federal and Alberta purposes.
+              Cost of eligible capital      $  1/13      +
+                                                              X If the cost of eligible capital
+              property acquired during the                            property acquired during the

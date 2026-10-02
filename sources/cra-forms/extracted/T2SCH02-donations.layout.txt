@@ -1,0 +1,264 @@
+                               Charitable Donations and Gifts                                                                                                                                Schedule 2
+                                   (2023 and later tax years)                                                                                                                                    Code 2301
+
+                                                                                                Business number                                                                             Protected B
+                                                                                                                                                                                          when completed
+
+Corporation's name                                                                                                                                                                        Tax year-end
+
+                                                                                                                                                        Year                              Month Day
+
+· For use by corporations to claim any of the following:
+  ­ the eligible amount of charitable donations to qualified donees
+  ­ the Ontario, Nova Scotia, and British Columbia food donation tax credits for farmers
+  ­ the eligible amount of gifts of certified cultural property
+  ­ the eligible amount of gifts of certified ecologically sensitive land or
+  ­ the additional deduction for gifts of medicine made before March 22, 2017
+
+· All legislative references are to the federal Income Tax Act, unless stated otherwise.
+· The eligible amount of a gift is the amount by which the fair market value of the gifted property exceeds the amount of an advantage, if any, for the gift.
+· The donations and gifts can be carried forward for 5 years except for gifts of certified ecologically sensitive land made after February 10, 2014,
+
+  which can be carried forward for 10 years.
+
+· Use this schedule to show a transfer of unused amounts from previous years following an amalgamation or the wind-up of a subsidiary as
+
+  described under subsections 87(1) and 88(1).
+
+· Subsection 110.1(1.2) provides as follows:
+  ­ Where a particular corporation has undergone an acquisition of control, for tax years that end on or after the acquisition of control, no corporation can
+
+       claim a deduction for a gift made by the particular corporation to a qualified donee before the acquisition of control.
+
+  ­ If a particular corporation makes a gift to a qualified donee pursuant to an arrangement under which both the gift and the acquisition of control is
+
+       expected, no corporation can claim a deduction for the gift unless the person acquiring control of the particular corporation is the qualified donee.
+
+· An eligible medical gift made before March 22, 2017, to a qualifying organization for activities outside of Canada may be eligible for an additional
+
+  deduction. Calculate the additional deduction in Part 5.
+
+· File this schedule with your T2 Corporation Income Tax Return.
+· For more information, see the T2 Corporation ­ Income Tax Guide.
+
+Part 1 ­ Charitable donations
+
+Charitable donations at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      1A
+
+Charitable donations expired after five tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239
+Charitable donations at the beginning of the current tax year (amount 1A minus line 239) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 240
+
+Charitable donations transferred on an amalgamation or the wind-up of a subsidiary . . . . . . . . . . . . . . 250
+
+Total charitable donations made in the current year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+(include this amount on line 112 of Schedule 1, Net Income (Loss) for Income Tax Purposes)
+
+                               Subtotal (line 250 plus line 210)                                                                                                                                        1B
+
+                                                                            Subtotal (line 240 plus amount 1B)                                                                                          1C
+
+Adjustment for an acquisition of control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 255
+
+Total charitable donations available (amount 1C minus line 255) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                             1D
+
+Amount applied in the current year against taxable income (cannot be more than amount 2H in Part 2) . . . . . . . . . . . . . . . . . . . . . 260
+(enter this amount on line 311 of the T2 return)
+
+Charitable donations closing balance (amount 1D minus line 260) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 280
+
+T2 SCH 2 E (23)                (Ce formulaire est disponible en français.)                                                               Page 1 of 4
+                                                                                                                                                      Protected B when completed
+
+Part 1 ­ Charitable donations (continued)
+
+The amount of qualifying donations for the Ontario community food program donation tax credit for                                                262
+farmers included in the amount on line 260 (for donations made after December 31, 2013) . . . . . . . . .
+
+Ontario community food program donation tax credit for farmers                                                                                        1
+
+(amount on line 262 multiplied by 25%) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Enter amount 1 on line 420 of Schedule 5, Tax Calculation Supplementary ­ Corporations. The maximum you can claim in the
+current year is whichever is less: the Ontario income tax otherwise payable or amount 1. For more information,
+see section 103.1.2 of the Taxation Act, 2007 (Ontario).
+
+The amount of qualifying donations for the Nova Scotia food bank tax credit for farmers                                                          263
+included in the amount on line 260 (for donations made after December 31, 2015) . . . . . . . . . . . . . . . .
+
+Nova Scotia food bank tax credit for farmers (amount on line 263 multiplied by 25%) . . . . . . . . . . . . . . . . .                                 2
+
+Enter amount 2 on line 570 of Schedule 5, Tax Calculation Supplementary ­ Corporations. The maximum you can claim in the
+current year is whichever is less: the Nova Scotia income tax otherwise payable or amount 2. For more information,
+see section 50A of the Nova Scotia Income Tax Act.
+
+The amount of qualifying gifts for the British Columbia farmers' food donation tax credit included in the                                        265
+amount on line 260 (for donations made after February 16, 2016, and before January 1, 2027) . . . . . .
+
+British Columbia farmers' food donation tax credit (amount on line 265 multiplied by 25%) . . . . . . . . . . . . .                                   3
+
+Enter amount 3 on line 683 of Schedule 5, Tax Calculation Supplementary ­ Corporations. The maximum you can claim
+in the current year is whichever is less: the British Columbia income tax otherwise payable or amount 3. For more information,
+see section 20.1 of the British Columbia Income Tax Act.
+
+Part 2 ­ Maximum allowable deduction for charitable donations
+
+Net income for tax purposes (Note 1) multiplied by 75% . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2A
+
+Taxable capital gains arising in respect of gifts of capital property included in Part 1 (Note 2) . . . . . . . 225
+
+Taxable capital gain in respect of a disposition of a non-qualifying security                                                                    227
+under subsection 40(1.01) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The amount of the recapture of capital cost allowance in respect of                                     230
+charitable donations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Proceeds of disposition,                                        2B
+
+less outlays and expenses (Note 2) . . . . . .
+
+Capital cost (Note 2) . . . . . . . . . . . . . . . . . .       2C
+
+Amount 2B or 2C, whichever is less . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235
+
+Amount on line 230 or 235, whichever is less . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          2D
+
+                                                           Subtotal (add lines 225, 227, and amount 2D)                                               2E
+
+                                                                                                                                                 Amount 2E multiplied by 25%    2F
+
+                                                                                                             Subtotal (amount 2A plus amount 2F)                                2G
+
+Maximum allowable deduction for charitable donations                                                                                                                            2H
+
+(enter amount 1D from Part 1, amount 2G, or net income for tax purposes, whichever is the least) . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Note 1: For credit unions, this amount is before the deduction of bonus interest payments and payments pursuant to allocations in proportion to
+            borrowing made by the credit union that is otherwise deductible under subsection 137(2).
+
+Note 2: This amount must be prorated by the following calculation: eligible amount of the gift divided by the proceeds of disposition of the gift.
+
+T2 SCH 2 E (23)                                                                                                                                                                 Page 2 of 4
+                                                                                                                                                                                             Protected B when completed
+
+Part 3 ­ Gifts of certified cultural property
+
+Gifts of certified cultural property at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  3A
+
+Gifts of certified cultural property expired after five tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 439
+Gifts of certified cultural property at the beginning of the current tax year (amount 3A minus line 439) . . . . . . . . . . . . . . . . . . . . . 440
+
+Gifts of certified cultural property transferred on an amalgamation or the wind-up of a subsidiary . . . . . 450
+
+Total gifts of certified cultural property in the current year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 410
+(include this amount on line 112 of Schedule 1)
+
+                                                         Subtotal (line 450 plus line 410)                                                                                                        3B
+
+                                                         Subtotal (line 440 plus amount 3B)                                                                                                       3C
+
+Adjustment for an acquisition of control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 455
+
+Amount applied in the current year against taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 460
+(enter this amount on line 313 of the T2 return)
+
+                                                         Subtotal (line 455 plus line 460)                                                                                                        3D
+
+Gifts of certified cultural property closing balance (amount 3C minus amount 3D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 480
+
+Part 4 ­ Gifts of certified ecologically sensitive land
+
+Gifts of certified ecologically sensitive land at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        4A
+
+Gifts of certified ecologically sensitive land expired after 5 tax years, or after 10 tax years for gifts made                                                                               539
+after February 10, 2014 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Gifts of certified ecologically sensitive land at the beginning of the current tax year (amount 4A minus line 539) . . . . . . . . . . . . . . 540
+
+Gifts of certified ecologically sensitive land transferred on an amalgamation or the                                                                 550
+wind-up of a subsidiary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Total current-year gifts of certified ecologically sensitive land . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 520
+(include this amount on line 112 of Schedule 1)
+
+                                                         Subtotal (line 550 plus line 520)                                                                                                        4B
+
+                                                         Subtotal (line 540 plus amount 4B)                                                                                                       4C
+
+Adjustment for an acquisition of control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 555
+
+Amount applied in the current year against taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 560
+(enter this amount on line 314 of the T2 return)
+
+                                                         Subtotal (line 555 plus line 560)                                                                                                        4D
+
+Gifts of certified ecologically sensitive land closing balance (amount 4C minus amount 4D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 580
+
+T2 SCH 2 E (23)                                                                                                                                                                                   Page 3 of 4
+                                                                                                                                                Protected B when completed
+
+Part 5 ­ Additional deduction for gifts of medicine
+
+Additional deduction for gifts of medicine at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5A
+
+Additional deduction for gifts of medicine expired after five tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 639
+
+Additional deduction for gifts of medicine at the beginning of the current tax year (amount 5A minus line 639) . . . . . . . . . . . . . . . 640
+
+Additional deduction for gifts of medicine made before March 22, 2017 transferred on an                                                650
+amalgamation or the wind-up of a subsidiary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Additional deduction for gifts of medicine made before March 22, 2017:
+   Proceeds of disposition . . . . . . . . . . . . . 602
+
+Cost of gifts of medicine made                   601
+before March 22, 2017 . . . . . . . . . . . . .
+
+   Subtotal (line 602 minus line 601)                              5B
+
+Amount 5B multiplied by 50% . . . . . . . . . . .                  5C
+
+Eligible amount of gifts . . . . . . . . . . . . . 600
+
+a                                            ( ×  b                ) Additional deduction for
+                                                                        = gifts of medicine made 610
+                                                  c                               before March 22, 2017
+
+where:
+
+a is the lesser of line 601 and amount 5C
+
+b is the eligible amount of gifts (line 600)
+
+c is the proceeds of disposition (line 602)
+
+                                                                        Subtotal (line 650 plus line 610)                                                                  5D
+
+                                                                                       Subtotal (line 640 plus amount 5D)                                                  5E
+
+Adjustment for an acquisition of control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 655
+
+Amount applied in the current year against taxable income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 660
+(enter this amount on line 315 of the T2 return)
+
+                                                                        Subtotal (line 655 plus line 660)                                                                  5F
+
+Additional deduction for gifts of medicine closing balance (amount 5E minus amount 5F) (Note 3) . . . . . . . . . . . . . . . . . . . . . . . . 680
+
+Note 3: The amount at line 680 is not available for carryforward.
+
+     Part 6 ­ Amount available for carryforward by year of origin
+
+You can complete this part to show all the donations and gifts from previous years available for carryforward by year of origin.
+This will help you determine the amount that could expire in following years.
+
+   Year of origin                            Charitable donations  Gifts of certified        Gifts of certified                                      Gifts of certified
+   YYYY-MM-DD                                     available for    cultural property     ecologically sensitive                                   ecologically sensitive
+                                                  carryforward
+                                                                     available for          land available for                                       land available for
+                                                                     carryforward         carryforward, made                                    carryforward, made after
+                                                                                       before February 11, 2014
+                                                                                                                                                    February 10, 2014
+
+                                      Total                                                                                                                                Page 4 of 4
+T2 SCH 2 E (23)
+

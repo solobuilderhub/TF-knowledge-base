@@ -1,0 +1,88 @@
+federal total   : 71
+  implemented   : 21
+  not           : 50
+provincial total: 66  (Alberta absent - it files its own AT1)
+   20  Ontario
+   10  Newfoundland And Labrador
+   10  Nova Scotia
+   10  Manitoba
+    8  British Columbia
+    2  Prince Edward Island
+    2  New Brunswick
+    2  Saskatchewan
+    2  Yukon
+
+=== FEDERAL IMPLEMENTED ===
+  001  Net Income (Loss) for Income Tax Purposes
+  002  Charitable Donations and Gifts
+  003  Dividends Received, Taxable Dividends Paid, and Part IV Tax Calculation
+  004  Corporation Loss Continuity and Application
+  005  Tax Calculation Supplementary – Corporations
+  006  Summary of Dispositions of Capital Property
+  007  Aggregate Investment Income and Income Eligible for the Small Business Deduction
+  008  Capital Cost Allowance (CCA)
+  013  Continuity of Reserves
+  021  Federal and Provincial or Territorial Foreign Income Tax Credits and Federal Logging Tax Credit
+  023  Agreement Among Associated Canadian-Controlled Private Corporations to Allocate the Business Limit
+  024  First-time Filer After Incorporation, Amalgamation, or Winding-up of a Subsidiary into a Parent
+  027  Calculation of Canadian Manufacturing and Processing Profits Deduction
+  031  Investment Tax Credit –Corporations
+  033  Taxable Capital Employed in Canada – Large Corporations
+  043  Calculation of Parts IV.1 and VI.1 Taxes
+  049  Agreement among Associated Corporations to Allocate the Expenditure Limit
+  053  General Rate Income Pool (GRIP) Calculation
+  055  Part III.1 Tax on Excessive Eligible Dividend Designations
+  088  Internet Business Activities
+  101  100 – Balance Sheet (GIFI) 101 – Opening Balance Sheet (GIFI)
+
+=== FEDERAL NOT IMPLEMENTED ===
+  009  Related and Associated Corporations
+  011  Transactions with Shareholders, Officers, or Employees
+  012  Resource-Related Deductions
+  014  Miscellaneous Payments to Residents
+  015  Deferred Income Plans
+  016  Patronage Dividend Deduction
+  017  Credit Union Deductions
+  018  Federal and Provincial or Territorial Capital Gains Refund
+  019  Non-Resident Shareholder Information
+  020  Part XIV – Additional Tax on Non-Resident Corporations
+  022  Non-Resident Discretionary Trust
+  025  Investment in Foreign Affiliates
+  028  Election not to be an Associated Corporation
+  029  Payments to Non-Residents
+  030  Third-Party Payments for Scientific Research and Experimental development (SR&ED)
+  032  T661 Scientific Research and Experimental Development (SR&ED) Expenditures Claim
+  034  Taxable Capital Employed in Canada − Financial Institutions
+  035  Taxable Capital Employed in Canada − Large Insurance Corporations
+  038  Part VI Tax on Capital of Financial Institutions
+  039  Agreement among Related Financial Institutions – Part VI Tax
+  042  Calculation of Unused Part I Tax Credit
+  044  Non-Arm’s Length Transactions
+  045  Agreement respecting Liability for Part VI.1 Tax
+  047  T1131 Canadian Film or Video Production Tax Credit
+  048  T1177 Film or Video Production Services Tax Credit
+  050  Shareholder Information
+  054  Low Rate Income Pool (LRIP) Calculation
+  056  Part II.2 Tax on Repurchases of Equity
+  058  Canadian Journalism Labour Tax Credit
+  059  Non-qualified securities reporting
+  060  T661 Part 2 – Project Information
+  061  T1145 Agreement to Allocate Assistance for SR&ED Between Persons Not Dealing at Arm’s Length
+  062  T1146 Agreement to Transfer Qualified Expenditures Incurred in Respect of SR&ED Contracts Between Persons Not Dealing at Arm’s Length
+  063  Return of Fuel Charge Proceeds to Farmers Tax Credit
+  067  Canada Recovery Dividend
+  068  Additional Tax on Banks and Life Insurers
+  073  Income Inclusion Summary for Corporations that are Members of Partnerships
+  074  Clean Hydrogen Investment Tax Credit
+  075  Clean Technology Investment Tax Credit
+  076  Clean Technology Manufacturing Investment Tax Credit
+  078  Carbon Capture, Utilization, and Storage Investment Tax Credit
+  091  Information Concerning Claims for Treaty-Based Exemptions
+  097  Additional Information on Non-Resident Corporations in Canada
+  100  100 – Balance Sheet (GIFI) 101 – Opening Balance Sheet (GIFI)
+  130  Excessive Interest and Financing Expenses Limitation
+  140  Summary Statement of the Income Statement Information (GIFI)
+  141  General Index of Financial Information (GIFI) – Additional Information
+  150  Net Income (loss) for Income Tax Purposes for Insurance Companies
+  151  Investment Revenue from Designated Insurance Property for Insurance Companies
+  200  T2 Corporation Income Tax Return

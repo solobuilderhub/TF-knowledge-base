@@ -1,0 +1,862 @@
+                  Investment Tax Credit ­ Corporations                        Schedule 31
+                          (2024 and later tax years)                               Code 2401
+
+                                                                               Protected B
+                                                                             when completed
+
+    General information
+· Use this schedule:
+
+   ­ to calculate an investment tax credit (ITC) earned during the tax year
+   ­ to claim a deduction against Part I tax payable
+   ­ to claim a refund of credit earned during the current tax year
+   ­ to claim a carryforward of credit from previous tax years
+   ­ to transfer a credit following an amalgamation or the wind-up of a subsidiary, as described under subsections 87(1) and 88(1)
+   ­ to request a credit carryback to one or more previous years
+   ­ if you are subject to a recapture of ITC
+
+· Unless otherwise stated, all legislative references are to the Income Tax Act or, where appropriate, the Income Tax Regulations.
+· Certain ITCs are eligible for a three-year carryback (if not deductible in the year earned) and are also eligible for a twenty-year carryforward. This
+
+   does not apply to the clean economy ITCs, which are refundable tax credits.
+
+· Investments or expenditures, described in subsection 127(9) and Regulation Part XLVI, that earn an ITC are:
+   ­ qualified property and qualified resource property (Parts 4 to 7 of this schedule)
+       ­ You can no longer claim the ITC for the qualified resource property expenditures. Only unused credits that have not expired can be carried
+
+            forward for up to 20 tax years following the tax year in which you incurred the expenditures.
+
+   ­ qualified scientific research and experimental development (SR&ED) expenditures (Parts 8 to 17). File Form T661, Scientific Research
+
+       and Experimental Development (SR&ED) Expenditures Claim
+
+   ­ pre-production mining expenditures (Part 18)
+       ­ You can no longer claim the ITC for the pre-production mining expenditures. Only unused credits that have not expired can be carried forward
+
+            for up to 20 tax years following the tax year in which you incurred the expenditures.
+
+   ­ apprenticeship job creation expenditures (Parts 19 to 21)
+   ­ child care spaces expenditures (Part 22)
+
+       ­ You can no longer claim the ITC for the child care spaces expenditures. Only unused credits that have not expired can be carried forward for up
+
+            to 20 tax years following the tax year in which you incurred the expenditures.
+
+· Investments or expenditures for the clean economy, described in sections 127.44, 127.45, 127.48, 127.49, and 127.491 that earn an ITC are investments
+
+   in (Part 23):
+
+   ­ carbon capture, utilization, or storage (CCUS) projects, for qualifying expenditures made after 2021
+   ­ clean technology property that is acquired and becomes available for use after March 27, 2023
+   ­ eligible clean hydrogen property that is acquired and becomes available for use after March 27, 2023
+   ­ clean technology manufacturing (CTM) property that is used in qualifying manufacturing and processing activities or the extraction and processing of
+
+       certain critical minerals and that is acquired and becomes available for use after 2023
+
+   ­ clean electricity property that is acquired and becomes available for use after April 15, 2024, for projects that did not begin construction before
+
+       March 28, 2023
+
+· File this schedule with the T2 Corporation Income Tax Return. If you need more space, attach additional schedules.
+· For more information on ITCs, see Investment Tax Credits in Guide T4012, T2 Corporation ­ Income Tax Guide.
+· For more information on SR&ED, see Guide T4088, Scientific Research and Experimental Development (SR&ED) Expenditures Claim ­ Guide to
+
+   Form T661.
+
+    Detailed information
+· For the purpose of this schedule, investment generally means the capital cost of the property (excluding amounts added by an election under section 21),
+
+   determined without reference to subsections 13(7.1) and 13(7.4), minus the amount of any government or non-government assistance that the corporation
+   has received, is entitled to receive, or can reasonably be expected to receive for that property at the time it files the income tax return for the year in which
+   the property was acquired. For rules related to capital cost for the CCUS ITC, clean technology ITC, clean hydrogen ITC, clean technology manufacturing
+   ITC, and clean electricity ITC, see, respectively, subsections 127.44(9), 127.45(5), 127.48(10), 127.49(5), and 127.491(9).
+
+· An ITC deducted in a tax year for a depreciable property reduces both the capital cost of that property and the undepreciated capital cost of that class in
+
+   the next tax year. An ITC for SR&ED deducted or refunded in a tax year will reduce the balance in the pool of deductible SR&ED expenditures and the
+   adjusted cost base (ACB) of an interest in a partnership in the next tax year. An ITC from pre-production mining expenditures deducted in a tax year
+   reduces the balance in the pool of deductible cumulative Canadian exploration expenses in the next tax year.
+
+· Property acquired has to be available for use (AFU) before a claim for an ITC can be made. See subsections 127(11.2), 127.45(4), 127.48(5), 127.49(4),
+
+   127.491(7), and 248(19) for more information. The AFU rules do not apply to claims for the CCUS ITC.
+
+· Current and capital expenditures for SR&ED qualifying for an ITC must be identified by the claimant on Form T661, and the related SR&ED ITC must be
+
+   reported on Schedule 31, no later than one year after the claimant's income tax return is due for the tax year in which it incurred the expenditures or
+   acquired the property. A claimant that does not meet this reporting deadline will not be able to file Schedule 508, Ontario Research and Development Tax
+   Credit, and Schedule 566, Ontario Innovation Tax Credit.
+
+· Expenditures for an apprenticeship ITC must be identified by the claimant on Schedule 31 no later than one year after the claimant's income tax return is
+
+   due for the tax year in which it incurred the expenditures.
+
+· The claimant must identify the clean economy ITC on Schedule 31 the later of one year after the claimant's income tax return is due for the tax year it
+
+   is entitled to claim the credit for and December 31, 2026.
+
+T2 SCH 31 E (26)  (Ce formulaire est disponible en français.)  Page 1 of 11
+                                                        Protected B when completed
+
+Detailed information (continued)
+
+· Partnership allocations ­ Subsection 127(8) provides for the allocation of the amount that may reasonably be considered to be a partner's share of the
+
+   ITCs of the partnership at the end of the fiscal period of the partnership. An allocation of ITCs is generally considered to be the partner's reasonable
+   share of the ITCs if it is made in the same proportion in which the partners have agreed to share any income or loss and if section 103 is not applicable
+   for the agreement to share any income or loss. Special rules apply to specified members of a partnership and limited partners. For more information, see
+   Guide T4068, Guide for the Partnership Information Return (T5013 Forms). See section 127.47 for rules that apply to partnerships for the clean economy
+   ITCs generally. For more information on partnership allocations for the CCUS ITC, clean technology ITC, clean hydrogen ITC, clean technology
+   manufacturing ITC, and clean electricity ITC, see, respectively, subsections 127.44(11), 127.45(8), 127.48(12), 127.49(8), and 127.491(12).
+
+· For certain purposes, Canada includes the exclusive economic zone of Canada as defined in the Oceans Act (which generally consists of an area of the
+
+   sea that is within 200 nautical miles from the Canadian coastline), including the airspace, seabed and subsoil of that zone. For the clean technology ITC,
+   Canada includes the exclusive economic zone of Canada only for property that is described in subparagraph (d)(v) or (xiv) of Class 43.1 in Schedule II of
+   the Regulations.
+
+· For the purpose of this schedule, the expression Atlantic Canada includes the Gaspé Peninsula and the provinces of Newfoundland and Labrador,
+
+   Prince Edward Island, Nova Scotia, and New Brunswick, as well as their respective offshore regions (prescribed in Regulation 4609).
+
+· For the purpose of this schedule, qualified property means property in Atlantic Canada that is used primarily for manufacturing and processing, farming
+
+   or fishing, logging, storing grain, or harvesting peat. Qualified property includes new buildings and new machinery and equipment (prescribed in
+   Regulation 4600), and new energy generation and conservation property (prescribed in Regulation 4600). Certain qualified property can also be used
+   primarily to produce or process electrical energy or steam in a prescribed area (as described in Regulation 4610). See the definition of qualified property
+   in subsection 127(9) for more information.
+
+    Part 1 ­ Investments, expenditures and percentages   Specified
+                                                        percentage
+Investments
+
+Qualified property acquired primarily for use in Atlantic Canada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10%
+
+Expenditures
+
+If you are a Canadian-controlled private corporation (CCPC) or, for tax years starting after December 15, 2024, an eligible Canadian public                                                                                 35%
+corporation (ECPC) as defined in subsection 127(9), this percentage may apply to the portion that you claim of the SR&ED qualified
+expenditure pool that does not exceed your expenditure limit (see Part 10 on page 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Note: If your current year's qualified expenditures are more than your expenditure limit (see Part 10 on page 5), the excess is eligible for an
+       ITC calculated at the 15% rate.
+
+For tax years starting before December 16, 2024, if you are a corporation that is not a CCPC and have incurred qualified expenditures for
+SR&ED in any area in Canada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15%
+
+If you paid salary and wages to apprentices in the first 24 months of their apprenticeship contract for employment . . . . . . . . . . . . . . . . . . . . . . 10%
+
+Clean economy ITCs
+
+For work performed after November 27, 2023, to qualify for the investment tax credit rates indicated below, an incentive claimant must elect (in
+prescribed form) to meet certain labour requirements ­ prevailing wage requirements and apprenticeship requirements. Otherwise, the credit rate will
+be reduced by 10 percentage points. The incentive claimant must also attest (in prescribed form) to have met these requirements. The labour
+requirements do not apply to the clean technology manufacturing ITC.
+
+CCUS                                                                                                                                                                                                                        60%
+If you incurred qualified carbon capture expenditures to capture carbon directly from ambient air:                                                                                                                          30%
+after 2021 and before 2036 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+after 2035 and before 2041 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+If you incurred qualified carbon capture expenditures to capture carbon other than directly from ambient air:
+after 2021 and before 2036 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50%
+after 2035 and before 2041 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25%
+If you incurred qualified expenditures for carbon transportation, use, or storage:
+after 2021 and before 2036 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37.5%
+after 2035 and before 2041 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18.75%
+
+Clean technology                                                                                                                                                                                                            30%
+If you acquired clean technology property after March 27, 2023, and it becomes available for use:                                                                                                                           15%
+before 2034 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+in 2034. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Clean hydrogen
+If you acquired an eligible clean hydrogen property after March 27, 2023, and it becomes available for use:
+before 2034 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . depending on the carbon intensity tier 40%, 25% or 15%
+in 2034. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . depending on the carbon intensity tier 20%, 12.5%, or 7.5%
+
+For clean ammonia equipment or certain other equipment used solely in connection with clean ammonia equipment, the rate is 15% if the equipment
+becomes available for use before 2034 and 7.5% if it becomes available for use in 2034.
+
+Clean technology manufacturing                                                                                                                                                                                              30%
+If you acquired CTM property after 2023 and it becomes available for use:                                                                                                                                                   20%
+before 2032 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     10%
+in 2032. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5%
+in 2033. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+in 2034. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15%
+
+Clean electricity
+If you acquired clean electricity property after April 15, 2024, and it becomes available for use before 2035 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+T2 SCH 31 E (26)                                                                                                                                                                                                            Page 2 of 11
+                                                                                                                                                     Protected B when completed
+
+Corporation's name                                                                               Business number                                                  Tax year-end
+
+                                                                                                                                                                  Year  Month Day
+
+    Part 2A ­ Determination of a qualifying corporation
+
+This section does not apply to the clean economy investment tax credits.
+
+Is the corporation a qualifying corporation? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101 Yes  No
+
+Enter your taxable income for the previous tax year1 (prior to any loss carrybacks applied) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 390
+
+For the purpose of a refundable ITC, a qualifying corporation is defined under subsection 127.1(2). The corporation has to be a CCPC and its taxable
+income (before any loss carrybacks) for its previous tax year cannot be more than its qualifying income limit for the particular tax year. If the corporation is
+associated with any other corporations during the tax year, the total of the taxable incomes of the corporation and the associated corporations (before any
+loss carrybacks), for their last tax year ending in the previous calendar year, cannot be more than their qualifying income limit for the particular tax year.
+
+Note: A CCPC considered associated with another corporation under subsection 256(1) will be considered not associated for the calculation of a
+       refundable ITC if both of the following conditions are met:
+
+         · one corporation is associated with another corporation only because one or more persons own shares of the capital
+
+              stock of both corporations
+
+         · one of the corporations has at least one shareholder who is not common to both corporations
+
+If you are a qualifying corporation, you will earn a 100% refund on your share of any ITCs earned at the 35% rate on qualified current expenditures for
+SR&ED, up to the allocated expenditure limit. The 100% refund does not apply to qualified capital expenditures eligible for the 35% credit rate.
+They are only eligible for the 40% refund.
+
+Some CCPCs that are not qualifying corporations may also earn a 100% refund on their share of any ITCs earned at the 35% rate on qualified current
+expenditures for SR&ED, up to the allocated expenditure limit. The expenditure limit can be determined in Part 10 on page 5. The 100% refund does not
+apply to qualified capital expenditures eligible for the 35% credit rate. They are only eligible for the 40% refund.2
+
+1 If the tax year referred to on line 390 is less than 51 weeks, multiply the taxable income by the following result: 365 divided by the number of days in
+  that tax year.
+
+2 Only capital expenditures incurred after December 15, 2024, are qualified SR&ED expenditures and eligible for an ITC.
+
+    Part 2B ­ Determination of an excluded corporation ­ SR&ED
+
+Is the qualifying corporation an excluded corporation as defined under subsection 127.1(2)? . . . . . . . . . . . . . . . . 650                      Yes          No
+
+Only a 40% refund will be available to a qualifying corporation that is an excluded corporation as defined under subsection 127.1(2). A corporation is an
+excluded corporation if, at any time during the year, it is a corporation that is either controlled by (directly or indirectly, in any manner whatever) or is related to
+one of the following:
+
+   a) one or more persons exempt from Part I tax under section 149
+
+   b) His Majesty in right of a province, a Canadian municipality, or any other public authority
+
+   c) any combination of persons referred to in a) or b) above
+
+    Part 3 ­ Corporations in the farming industry
+
+Complete this area if the corporation is making SR&ED contributions.
+
+Is the corporation claiming a contribution in the current year to an agricultural organization whose goal is to                                      Yes          No
+finance SR&ED work (for example, check-off dues)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+
+If yes, complete Schedule 125, Income Statement Information, to identify the type of farming industry the corporation is involved in.
+
+Contributions to agricultural organizations for SR&ED 3 . . . . . . . . . . . . . . . . . . . .  × 80% = 103
+Include on line 350 of Part 8.
+
+3 Enter only contributions not already included on Form T661.
+
+                                        Qualified Property and Qualified Resource Property
+    Part 4 ­ Eligible investments for qualified property from the current tax year
+
+     Capital cost   Description of investment                                                    Date available for  Location used in                             Amount of
+      allowance                   110                                                                     use        Atlantic Canada                              investment
+    class number
+                                                                                                          115            (province)                                    125
+           105
+                                                                                                                              120
+
+1.
+
+2.
+
+3.
+
+4.
+
+                                                                                                 Total of investments for qualified property                                    4A
+
+T2 SCH 31 E (26)                                                                                                                                                        Page 3 of 11
+                                                                                                                                                      Protected B when completed
+
+Part 5 ­ Current-year credit and account balances ­ ITC from investments in
+           qualified property and qualified resource property
+
+ITC at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5A
+
+Credit deemed as a remittance of co-op corporations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+
+Credit expired . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+
+                                                                                    Subtotal (line 210 plus line 215)                                                                      5B
+
+ITC at the beginning of the tax year (amount 5A minus amount 5B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+
+Credit transferred on an amalgamation or the wind-up of a subsidiary . . . . . . . . . . . . . . . . . . . . . . 230
+
+ITC from repayment of assistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235
+
+Qualified property (amount 4A) . . . . . . . . . . . . . . . . . . . . . . . . . .         × 10% = 240
+
+Credit allocated from a partnership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250
+
+                                                                                    Subtotal (total of lines 230 to 250)                                                                   5C
+
+Total credit available (line 220 plus amount 5C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         5D
+
+Credit deducted from Part I tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 260
+
+Credit carried back to previous years (amount 6A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 5E
+
+Credit transferred to offset Part VII tax liability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 280
+
+                             Subtotal (total of line 260, amount 5E, and line 280)                                                                                                         5F
+
+Credit balance before refund (amount 5D minus amount 5F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   5G
+
+Refund of credit claimed on investments from qualified property (from Part 7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310
+ITC closing balance of investments from qualified property and qualified resource property
+(amount 5G minus line 310) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 320
+
+Part 6 ­ Request for carryback of credit from investments in qualified property
+
+                       Year  Month Day
+
+1st previous tax year                           . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 901
+2nd previous tax year                           . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 902
+3rd previous tax year                           . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 903
+
+                                                                                                                                                      Total of lines 901 to 903            6A
+
+                                                                                                                                                      Enter at amount 5E.
+
+Part 7 ­ Refund of ITC for qualifying corporations on investments from qualified property
+
+Current-year ITCs (line 240 plus line 250 in Part 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         7A
+
+Credit balance before refund (from amount 5G) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          7B
+
+Refund (40% of amount 7A or 7B, whichever is less) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               7C
+
+Enter amount 7C or a lesser amount on line 310 in Part 5 (also include in line 780 of the T2 return if you do not claim an SR&ED ITC refund).
+
+                                                                                    SR&ED
+
+Part 8 ­ Qualified SR&ED expenditures
+
+Current expenditures (line 557 on Form T661 plus line 103 in Part 3)4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 350
+Capital expenditures incurred after December 15, 2024 (from line 558 on Form T661). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 360
+Repayments made in the year (from line 560 on Form T661) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 370
+Total qualified SR&ED expenditures (total of lines 350 to 370) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 380
+
+4 If you are claiming only contributions made to agricultural organizations for SR&ED, line 350 should equal line 103 in Part 3. Do not file Form T661.
+
+T2 SCH 31 E (26)                                                                                                                                                                           Page 4 of 11
+                                                                                                                                                                                             Protected B when completed
+
+Part 9 ­ Components of the SR&ED expenditure limit calculation
+
+Part 9 applies if you are a CCPC or for tax years starting (TYS) after December 15, 2024, an ECPC.
+
+Are you an ECPC as defined in subsection 127(9)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 382 Yes                             No
+
+Are you a CCPC electing under subsection 127(10.31) or (10.32) to determine the SR&ED expenditure limit based on                                                                        383 Yes  No
+
+revenue? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Note: A CCPC considered associated with another corporation under subsection 256(1) will be considered not associated for the calculation of an
+         SR&ED expenditure limit if both of the following apply:
+
+       · one corporation is associated with another corporation solely because one or more persons own shares of the capital stock of the corporation
+       · one of the corporations has at least one shareholder who is not common to both corporations
+
+If you are a CCPC that is not electing to determine its expenditure limit under 127(10.31) or (10.32), fill out lines 385 and 398, if applicable.
+
+Is the corporation associated with another CCPC for the purpose of calculating the SR&ED expenditure limit? . . . . . . . . . 385 Yes                                                            No
+
+If you answered no to the question on line 385 or if you are not associated with any other corporations, complete line 398.
+If you answered yes, complete Schedule 49, Agreement Among Associated Canadian-Controlled Private Corporations to Allocate the Expenditure Limit,
+to determine the amounts for associated corporations.
+
+For a CCPC, enter your taxable capital employed in Canada for the previous tax year minus $10 million (minus $15 million for
+TYS after December 15, 2024). If this amount is nil or negative, enter "0". If this amount is over $40 million, enter $40 million.
+For TYS after December 15, 2024, if this amount is over $60 million, enter $60 million . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 398
+
+ If you are an ECPC, or a CCPC that is electing to determine its expenditure limit under 127(10.31) or (10.32), fill out new line 399.
+
+ For an ECPC, or a CCPC filing an election under 127(10.31), enter your average annual revenue from the three fiscal years
+ immediately preceding and ending before this tax year, minus $15 million. For a CCPC filing an election under 127(10.32),
+ enter the total of each member's three-year average annual revenue (with required partnership/trust/single-economic-entity
+ adjustments) for the three fiscal year periods ending in the last calendar year that ended before the end of the tax year, minus
+ $15 million. If you are an ECPC that is a member of a consolidated group, enter the average, over the period of three fiscal
+ years immediately preceding and ending in the last calendar year that ended before the end of the particular tax year, of the
+ annual revenue of the consolidated group, minus $15 million.5 If this amount is nil or negative, enter "0". If this amount is over
+ $60 million, enter $60 million. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 399
+
+5 If any relevant fiscal year is less than 51 weeks, gross up revenue by multiplying by 365 and dividing by the number of days in that fiscal year. If there
+  are fewer than three relevant fiscal years, calculate the average over the actual number of fiscal years.
+
+Part 10A ­ SR&ED expenditure limit for a CCPC with a TYS before December 16, 2024
+
+For a stand-alone (not associated) corporation
+
+$40,000,000 minus line 398 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                  10A
+
+Amount 10A divided by $40,000,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           10B
+Expenditure limit for the stand-alone corporation ($3,000,000 multiplied by amount 10B)6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                      10C
+                                                                                                                                                                                                              10D
+For an associated corporation
+If associated, the allocation of the SR&ED expenditure limit, as provided on Schedule 49 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400                                                        10B
+                                                                                                                                                                                                              10C
+If your tax year is less than 51 weeks, calculate the amount of the expenditure limit as follows:                                                                                                             10D
+                                                                                                                                                                                                     Page 5 of 11
+Amount 10C or line 400  × Number of days in the tax year                                                                                          = ...............
+
+                                                          365
+
+Your SR&ED expenditure limit for the year (enter amount 10C, line 400, or amount 10D, whichever applies) . . . . . . . . . . . . 410
+
+6 Amount 10C or line 400 cannot be more than $3,000,000.
+
+Part 10B ­ SR&ED expenditure limit for TYS after December 15, 2024, for a CCPC or an ECPC
+
+For a stand-alone (not associated) corporation
+
+$60,000,000 minus line 398 or, for CCPCs filing an election under 127(10.31) or for ECPCs,                                                                                              10A
+
+minus line 399 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Amount 10A divided by $60,000,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Expenditure limit for the stand-alone corporation ($6,000,000 multiplied by amount 10B)7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+For an associated corporation
+If associated, the allocation of the SR&ED expenditure limit, as provided on Schedule 49 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+
+If your tax year is less than 51 weeks, calculate the amount of the expenditure limit as follows:
+
+Amount 10C or line 400  × Number of days in the tax year                                                                                          = ...............
+
+                                                          365
+
+Your SR&ED expenditure limit for the year (enter amount 10C, line 400, or amount 10D, whichever applies) . . . . . . . . . . . . 410
+
+7 Amount 10C or line 400 cannot be more than $6,000,000.
+
+T2 SCH 31 E (26)
+                                                                                                                                                           Protected B when completed
+
+    Part 11 ­ Investment tax credits on SR&ED expenditures                                                                                            × 35% =                              11A
+
+Current SR&ED expenditures (from line 350 in Part 8) or                                                                                               × 15% =                              11B
+the expenditure limit (from line 410), whichever is less 8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 420
+Line 350 minus line 410 (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 430                            11C
+Line 410 minus line 350 (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Capital expenditures incurred after December 15, 2024 (from line 360 in Part 8) or amount                                                             × 35% =                              11D
+11C above, whichever is less . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 440
+Line 360 minus amount 11C above (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . 450                                      × 15% =                              11E
+
+If a corporation makes a repayment of any government or non-government assistance, or contract payments that reduced the
+amount of qualified expenditures for ITC purposes, the amount of the repayment is eligible for a credit.
+
+Repayments (amount from line 370 in Part 8) . . . . . . . . . . . . .
+
+Enter the amount of the repayment on the line that corresponds to the appropriate rate.
+
+Repayment of assistance that reduced a
+
+qualifying expenditure eligible for the 35% SR&ED                                        × 35% =                                                      11F
+ITC rate 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 460
+
+Repayment of assistance made after
+
+September 16, 2016, that reduced a                                                       × 20% =                                                      11G
+qualifying expenditure incurred before 2015 . . . . . . . . . . 480
+
+Repayment of assistance made after
+
+September 16, 2016, that reduced a                                                       × 15% =                                                      11H
+qualifying expenditure incurred after 2014 . . . . . . . . . . . 490
+
+                                        Subtotal (total of amounts 11F to 11H)                                                                                                             11I
+
+Current-year SR&ED ITC (total of amounts 11A, 11B, 11D, 11E, and 11I; enter on line 540 in Part 12) . . . . . . . . . . . . . . . . . . . . . .                                            11J
+
+8 For TYS before December 16, 2024, for corporations that are not CCPCs, enter "0" for amount 11A. For TYS after December 15, 2024, if the
+  corporation is neither a CCPC nor an ECPC, enter "0" for amount 11A.
+
+9 If you were a CCPC or, for TYS after December 15, 2024, an ECPC, this percentage was applied to the portion that you claimed of the SR&ED
+  qualified expenditure pool that did not exceed your expenditure limit at the time. This percentage includes the rate under subsection 127(10.1),
+  Additions to investment tax credit. See subsection 127(10.1) for details about exceptions. For expenditures not eligible for this rate use line
+  480 or 490 as appropriate.
+
+Part 12 ­ Current-year credit and account balances ­ ITC from SR&ED expenditures
+
+ITC at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12A
+
+Credit deemed as a remittance of co-op corporations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 510
+
+Credit expired . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 515
+
+                                                                                         Subtotal (line 510 plus line 515)                                                                 12B
+
+ITC at the beginning of the tax year (amount 12A minus amount 12B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 520
+
+Credit transferred on an amalgamation or the wind-up of a subsidiary . . . . . . . . . . . . . . . . . . . . . . 530
+
+Total current-year credit (from amount 11J) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 540
+
+Credit allocated from a partnership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 550
+
+                                                                                         Subtotal (total of lines 530 to 550)                                                              12C
+
+Total credit available (line 520 plus amount 12C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          12D
+
+Credit deducted from Part I tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 560
+
+Credit carried back to previous years (amount 13A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       12E
+
+Credit transferred to offset Part VII tax liability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 580
+
+                                        Subtotal (line 560 plus amount 12E plus line 580)                                                                                                           12F
+                                                                                                                                                                                                    12G
+Credit balance before refund (amount 12D minus amount 12F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Refund of credit claimed on SR&ED expenditures (from Part 14 or 15, whichever applies) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 610                                         Page 6 of 11
+ITC closing balance on SR&ED (amount 12G minus line 610) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 620
+
+T2 SCH 31 E (26)
+                                                                                                                           Protected B when completed
+
+Part 13 ­ Request for carryback of credit from SR&ED expenditures
+
+                       Year  Month Day
+
+1st previous tax year                           . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 911
+2nd previous tax year                           . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 912
+3rd previous tax year                           . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 913
+
+                                                                                                                           Total of lines 911 to 913                                                  13A
+
+                                                                                                                           Enter at amount 12E.
+
+Part 14 ­ Refund of ITC for qualifying corporations ­ SR&ED
+
+Complete this part if you are a qualifying corporation as determined on line 101 in Part 2A.10
+
+Current-year ITC (lines 540 plus 550 in Part 12 minus amount 11I) . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14A
+
+Refundable credits (amount 14A or amount 12G, whichever is less) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                  14B
+
+Amount 14B or amount 11A, whichever is less . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     14C
+
+Net amount (amount 14B minus amount 14C; if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                  14D
+
+Amount 14D multiplied by 40% . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              14E
+
+Amount 14C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14F
+
+Refund of ITC (amount 14E plus amount 14F ­ enter this, or a lesser amount, on line 610 in Part 12) . . . . . . . . . . . . . . . . . . . . . . .                                                     14G
+
+Include the total of line 310 in Part 5 and line 610 in Part 12 in line 780 of the T2 return.
+
+10 If you are also an excluded corporation, as determined in Part 2B, amount 14B must be multiplied by 40%. Claim this, or a lesser amount, as your refund
+   of ITC for amount 14G.
+
+Part 15 ­ Refund of ITC for CCPCs that are neither qualifying nor excluded corporations and ECPCs
+with TYS after December 15, 2024 ­ SR&ED
+
+Complete this part only if you are a CCPC that is not a qualifying corporation as determined on line 101 in Part 2A, an excluded corporation
+as determined on line 650 in Part 2B, or an ECPC with TYS after December 15, 2024.
+
+Credit balance before refund (amount 12G). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    15A
+
+Amount 15A or amount 11A, whichever is less . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       15B
+
+Net amount (amount 15A minus amount 15B; if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                    15C
+
+Amount 15C or amount 11D, whichever is less . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       15D
+
+Amount 15D multiplied by 40% . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                15E
+
+Amount 15B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15F
+
+Refund of ITC (amount 15E plus amount 15F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                          15G
+
+Enter amount 15G, or a lesser amount, on line 610 in Part 12 and also include it in line 780 of the T2 return.
+
+T2 SCH 31 E (26)                                                                                                                                                                                      Page 7 of 11
+                                                                                                                                Protected B when completed
+
+                                                             Recapture ­ SR&ED
+
+   Part 16 ­ Recapture of ITC for corporations and partnerships ­ SR&ED
+
+You will have a recapture of ITC in a year when all of the following conditions are met:
+
+· you acquired a particular property in the current year or in any of the 20 previous tax years, and the credit was earned in a tax year ending after 1997 and
+
+   did not expire before 2008
+
+· you claimed the cost of the property as a qualified expenditure for SR&ED on Form T661
+· the cost of the property was included in calculating your ITC or was the subject of an agreement made under subsection 127(13) to transfer qualified
+
+   expenditures
+
+· you disposed of the property or converted it to commercial use after February 23, 1998. This condition is also met if you disposed of or converted to
+
+   commercial use a property that incorporates the particular property previously referred to
+
+   Note:
+
+   The recapture does not apply if you disposed of the property to a non-arm's-length purchaser who intended to use it all or substantially all for SR&ED.
+   When the non-arm's-length purchaser later sells or converts the property to commercial use, the recapture rules will apply to the purchaser based on the
+   historical ITC rate of the original user.
+
+   You will report a recapture on the T2 return for the year in which you disposed of the property or converted it to commercial use. In the following tax
+   year, add the amount of the ITC recapture to the SR&ED expenditure pool.
+
+   If you have more than one disposition for calculations 1 and 2, complete the columns for each disposition for which a recapture applies, using the
+   calculation formats below.
+
+    Calculation 1 ­ If you meet all of the above conditions
+
+    Amount of ITC you originally calculated for the    Amount calculated using ITC rate at the date of          Amount from column 700 or 710,
+    property you acquired, or the original user's ITC       acquisition (or the original user's date of                   whichever is less
+
+         where you acquired the property from a        acquisition) on either the proceeds of disposition
+       non-arm's length party, as described in the     (if sold in an arm's length transaction) or the fair
+                                                       market value of the property (in any other case)
+                            note above
+                                                                                     710
+                                700
+
+1.
+
+2.
+
+3.
+
+4.
+
+                                                                                                Subtotal                                                         16A
+
+                                                                  Enter at amount 17A.
+
+    Calculation 2 ­ Only if you transferred all or a part of the qualified expenditure to another person under an agreement
+                          described in subsection 127(13); otherwise, enter nil at amount 16B.
+
+                  A    B                                     C                                               D               E                          F
+                                                                                                                                                Amount from
+    Rate that the transferee Proceeds of disposition of the Amount, if any, already Amount determined ITC earned by the                        column D or E,
+                                                                                                                                              whichever is less
+    used in determining its ITC property if you dispose of it to provided for in Calculation 1  by the formula  transferee for the
+     for qualified expenditures an arm's length person; or, in (This allows for the situation                        qualified
+                                                                                                 (A × B) ­ C
+
+    under a subsection 127(13) any other case, enter the fair where only part of the cost of                    expenditures that
+
+    agreement          market value of the property at a property is transferred under                          were transferred
+
+                       conversion or disposition             a subsection 127(13)
+
+                                                             agreement.)
+
+                  720  730                                   740                                                750
+
+1.
+2.
+3.
+4.
+
+                                                                                                                Subtotal (total of column F)                     16B
+
+                                                                                                                Enter at amount 17B.
+
+      Calculation 3
+
+    As a member of the partnership, you will report your share of the SR&ED ITC of the partnership after the SR&ED ITC has been reduced by the
+    amount of the recapture. If this amount is a positive amount, you will report it on line 550 in Part 12 on page 6. However, if the partnership does not
+    have enough ITC otherwise available to offset the recapture, then the amount by which reductions to ITC exceed additions (the excess) will be
+    determined and reported on line 760.
+
+                                                                                               Corporate partner's share of the excess of SR&ED ITC 760
+                                                                                                                                           Enter at amount 17C.
+
+T2 SCH 31 E (26)                                                                                                                                Page 8 of 11
+                                                                                                                                                      Protected B when completed
+
+Part 17 ­ Total recapture of SR&ED investment tax credit
+
+Recaptured ITC from calculation 1, amount 16A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          17A
+
+Recaptured ITC from calculation 2, amount 16B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          17B
+
+Recaptured ITC from calculation 3, line 760 in Part 16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           17C
+
+Total recapture of SR&ED investment tax credit (total of amounts 17A to 17C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                 17D
+
+Enter at amount 24A in Part 24.
+
+                                 Pre-Production Mining
+
+Part 18 ­ Account balances ­ ITC from pre-production mining expenditures
+
+ITC at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18A
+
+Credit deemed as a remittance of co-op corporations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 841
+Credit expired . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 845
+
+                                 Subtotal (line 841 plus line 845)                                                                                                                         18B
+
+ITC at the beginning of the tax year (amount 18A minus amount 18B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 850
+
+Credit transferred on an amalgamation or the wind-up of a subsidiary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 860
+
+Total credit available (line 850 plus line 860) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    18C
+
+Amount of unused credit carried forward from previous years and applied to reduce Part I tax payable in the current year . . . . 885
+
+ITC closing balance from pre-production mining expenditures (amount 18C minus line 885) . . . . . . . . . . . . . . . . . . . . . . 890
+
+T2 SCH 31 E (26)                                                                                                                                                                           Page 9 of 11
+                                                                                                                                                                            Protected B when completed
+
+                                 Apprenticeship Job Creation
+
+    Part 19 ­ Total current-year credit ­ ITC from apprenticeship job creation expenditures
+
+If you are a related person as defined under subsection 251(2), has it been agreed in writing that you are the
+
+only employer who will be claiming the apprenticeship job creation tax credit for this tax year for each
+
+apprentice whose contract number (or social insurance number (SIN) or name) appears below? (If not, you                                                                Yes                 No
+cannot claim the tax credit.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 611
+
+For each apprentice in their first 24 months of the apprenticeship, enter the apprenticeship contract number registered with Canada, or a province or territory,
+under an apprenticeship program designed to certify or license individuals in the trade. For the province, the trade must be a Red Seal trade. If there is no
+contract number, enter the SIN or the name of the eligible apprentice.
+
+                     A                        B                                                           C                                                            D                             E
+           Contract number       Name of eligible trade                                                                                                                                    Lesser of column
+    (SIN or name of apprentice)                          Eligible salary and Column C × 10%
+                                              602              wages11                                                                                                                        D or $2,000
+                    601
+                                                                                                          603                                                          604                          605
+
+1.
+
+2.
+
+3.
+
+4.
+
+                                                         Total current-year credit (total of column E)                                                                                                       19A
+
+                                                                                                                                             Enter on line 640 in Part 20.
+
+11 Other than qualified expenditure incurred, and net of any other government or non-government assistance received or to be received. Eligible salary and
+   wages, and qualified expenditures are defined under subsection 127(9).
+
+    Part 20 ­ Current-year credit and account balances ­ ITC from apprenticeship job creation expenditures
+
+ITC at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    20A
+
+Credit deemed as a remittance of co-op corporations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 612
+Credit expired after 20 tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 615
+
+                                 Subtotal (line 612 plus line 615)                                                                                                                                           20B
+
+ITC at the beginning of the tax year (amount 20A minus amount 20B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 625
+
+Credit transferred on an amalgamation or the wind-up of a subsidiary . . . . . . . . . . . . . . . . . . . . . . 630
+ITC from repayment of assistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 635
+Total current-year credit (amount 19A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 640
+Credit allocated from a partnership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 655
+
+                                 Subtotal (total of lines 630 to 655)                                                                                                                                        20C
+
+Total credit available (line 625 plus amount 20C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                            20D
+
+Credit deducted from Part I tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 660
+
+Credit carried back to previous years (amount 21A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                        20E
+
+                                 Subtotal (line 660 plus amount 20E)                                                                                                                                         20F
+
+ITC closing balance from apprenticeship job creation expenditures (amount 20D minus amount 20F) . . . . . . . . . . . . . . . 690
+
+    Part 21 ­ Request for carryback of credit from apprenticeship job creation expenditures
+
+                       Year      Month Day
+
+1st previous tax year                               . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 931
+2nd previous tax year                               . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 932
+3rd previous tax year                               . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 933
+
+                                                                                                                                             Total of lines 931 to 933                                  21A
+                                                                                                                                                Enter at amount 20E.                           Page 10 of 11
+
+T2 SCH 31 E (26)
+                                                                                                                                             Protected B when completed
+
+Child Care Spaces
+
+Part 22 ­ Account balances ­ ITC from child care spaces expenditures
+
+ITC at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        22A
+
+Credit deemed as a remittance of co-op corporations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 765
+Credit expired after 20 tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 770
+
+Subtotal (line 765 plus line 770)                                                                                                                                                                22B
+
+ITC at the beginning of the tax year (amount 22A minus amount 22B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 775
+
+Credit transferred on an amalgamation or the wind-up of a subsidiary . . . . . . . . . . . . . . . . . . . . . . 777
+Credit allocated from a partnership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 782
+
+Subtotal (line 777 plus line 782)                                                                                                                                                                22C
+
+Total credit available (line 775 plus amount 22C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                22D
+
+Credit deducted from Part I tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 785
+
+ITC closing balance from child care spaces expenditures (amount 22D minus line 785) . . . . . . . . . . . . . . . . . . . . . . . . . . 790
+
+                                                    Summary of Investment Tax Credits                                                                                                                     23A
+      Part 23 ­ Clean economy ITCs
+                                                                                                                                                                                                          24A
+  Clean hydrogen ITC (from Schedule 74) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140                         24B
+  Clean technology ITC (from Schedule 75) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 155                         24C
+  Clean technology manufacturing ITC (from Schedule 76) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170                                   24D
+  Clean electricity ITC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 185           24E
+  Carbon capture, utilization, and storage ITC (from Schedule 78). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200                                    24F
+
+  Clean economy ITCs (total of lines 140 to 200) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      25A
+  Include the total on line 780 of the T2 return.                                                                                                                                                         25B
+                                                                                                                                                                                                          25C
+      Part 24 ­ Total recapture of investment tax credit                                                                                                                                                  25D
+                                                                                                                                                                                                          25E
+  Recaptured SR&ED ITC (amount 17D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       25F
+  Recaptured or recovered clean hydrogen ITC (from Schedule 74) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  Recaptured clean technology ITC (from Schedule 75) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   Page 11 of 11
+  Recaptured clean technology manufacturing ITC (from Schedule 76) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  Recaptured or recovered clean electricity ITC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  Total recapture of investment tax credit (total of amounts 24A to 24E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  Enter on line 602 of the T2 return.
+
+      Part 25 ­ Total ITC deducted from Part I tax
+
+  ITC from investments in qualified property deducted from Part I tax (line 260 in Part 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  ITC from SR&ED expenditures deducted from Part I tax (line 560 in Part 12) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  ITC from pre-production mining expenditures deducted from Part I tax (line 885 in Part 18) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  ITC from apprenticeship job creation expenditures deducted from Part I tax (line 660 in Part 20) . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  ITC from child care space expenditures deducted from Part I tax (line 785 in Part 22) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  Total ITC deducted from Part I tax (total of amounts 25A to 25E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  Enter on line 652 of the T2 return.
+T2 SCH 31 E (26)
+

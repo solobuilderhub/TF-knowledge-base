@@ -1,0 +1,65 @@
+line	caption
+100	Non-capital loss expired 1
+102	Non-capital losses at the beginning of the tax year (amount 1N minus line 100)
+105	Non-capital losses transferred on an amalgamation or on the wind-up of a subsidiary 2 corporation
+110	Current-year non-capital loss (from amount 1M)
+150	Other adjustments (includes adjustments for an acquisition of control)
+140	Section 80 – Adjustments for forgiven amounts
+130	Non-capital losses of previous tax years applied in the current tax year
+135	Current and previous years non-capital losses applied against current-year taxable dividends subject to Part IV tax 3
+901	First previous tax year to reduce taxable income
+902	Second previous tax year to reduce taxable income
+903	Third previous tax year to reduce taxable income
+911	First previous tax year to reduce taxable dividends subject to Part IV tax
+912	Second previous tax year to reduce taxable dividends subject to Part IV tax
+913	Third previous tax year to reduce taxable dividends subject to Part IV tax
+200	Continuity of capital losses and request for a carryback Capital losses at the end of the previous tax year
+205	Capital losses transferred on an amalgamation or on the wind-up of a subsidiary corporation
+250	Other adjustments (includes adjustments for an acquisition of control)
+240	Section 80 – Adjustments for forgiven amounts
+210	Current-year capital loss (from the calculation on Schedule 6, Summary of Dispositions of Capital Property)
+215	Enter amount 2D or 2E, whichever is less
+220	ABILs expired as non-capital losses (line 215 multiplied by 2)
+225	Capital losses from previous tax years applied against the current-year net capital gain 6
+951	Request to carry back capital loss to: 7 First previous tax year
+952	Second previous tax year
+953	Third previous tax year
+300	Farm loss expired 9
+302	Farm losses at the beginning of the tax year (amount 3A minus line 300)
+305	Farm losses transferred on an amalgamation or on the wind-up of a subsidiary corporation
+310	Current-year farm loss (amount 1L in Part 1)
+350	Other adjustments (includes adjustments for an acquisition of control)
+340	Section 80 – Adjustments for forgiven amounts
+330	Farm losses of previous tax years applied in the current tax year
+335	Current and previous years farm losses applied against current-year taxable dividends subject to Part IV tax 10
+921	First previous tax year to reduce taxable income
+922	Second previous tax year to reduce taxable income
+923	Third previous tax year to reduce taxable income
+931	First previous tax year to reduce taxable dividends subject to Part IV tax
+932	Second previous tax year to reduce taxable dividends subject to Part IV tax
+933	Third previous tax year to reduce taxable dividends subject to Part IV tax
+485	Current-year restricted farm loss Total losses for the year from farming business
+400	Restricted farm loss expired 11
+402	Restricted farm losses at the beginning of the tax year (amount 4F minus line 400)
+405	Restricted farm losses transferred on an amalgamation or on the wind-up of a subsidiary corporation
+410	Current-year restricted farm loss (from amount 4E)
+430	Restricted farm losses from previous tax years applied against current farming income
+440	Section 80 – Adjustments for forgiven amounts
+450	Other adjustments
+941	First previous tax year to reduce farming income
+942	Second previous tax year to reduce farming income
+943	Third previous tax year to reduce farming income
+500	Listed personal property loss expired 12
+502	Listed personal property losses at the beginning of the tax year (amount 5A minus line 500)
+510	Current-year listed personal property loss (from Schedule 6)
+530	Listed personal property losses from previous tax years applied against listed personal property gains
+550	Other adjustments
+961	First previous tax year to reduce listed personal property gains
+962	Second previous tax year to reduce listed personal property gains
+963	Third previous tax year to reduce listed personal property gains
+700	RIFE at the end of the previous tax year
+705	RIFE transferred on an amalgamation or on the wind-up of a subsidiary corporation
+750	RIFE adjustments for an acquisition of control
+710	Current-year restricted interest and financing expense determined under subsection 111(8) (amount A from Part 2O of Schedule 130)
+730	RIFE deducted for the tax year 16
+190	If you are making an election under paragraph 88(1.1)(f), tick the box

@@ -1,0 +1,453 @@
+                                                          Marche à suivre                                                                                                      CO-17 (2025-12)
+                                                                                                                                                                                              1 de 5
+                                                         Formulaire officiel ­ Revenu Québec
+                                                                                                                                                                                        Effacer
+                                                                          Avis aux utilisateurs
+
+                                            Déclaration de revenus des sociétés
+
+Pour remplir cette déclaration, aidez-vous du Guide de la déclaration de revenus des sociétés (CO-17.G). Vous trouverez ce guide uniquement
+dans notre site Internet, à revenuquebec.ca.
+
+1 Renseignements sur l'identité de la société
+
+      Numéro d'entreprise du Québec (NEQ)         Numéro d'identification  Dossier                                    Numéro d'entreprise fédéral (NE)             RC
+01a                                         01b                                                                 01c
+                                                                            IC 0001
+
+    Nom de la société                                                                                                                                    Ind. rég. Téléphone
+
+02
+
+    Adresse du siège social ou du principal lieu d'affaires (pour un changement d'adresse, consultez le guide)
+
+    Numéro             Rue ou case postale                                                                                                                                     Bureau
+
+03
+
+    Ville, village ou municipalité                                                                                                                       Province              Code postal
+
+                                                                                                                                                                          03b
+
+2 Renseignements sur la société
+
+Date de clôture de l'exercice financier visé par la présente déclaration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  05
+                                                                                                                                                                                                                                 A A A A MM J J
+
+Cochez la case ci-après pour confirmer que la date de clôture (ligne 05)
+
+est la même que celle qui figure dans la déclaration de revenus fédérale. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  05a
+
+Date du début des activités au Québec s'il s'agit de la première déclaration de la société dans cette province . . . . . . . . . . . . . . 06
+
+Date de clôture de l'exercice financier précédent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  08
+
+Date de la constitution en société . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  09
+                                                                                                                                                                                                                                 A A A A MM J J
+
+La société a-t-elle reçu une aide gouvernementale (subvention) au cours de l'exercice financier visé à la ligne 05? . . . . . . . .  10 Oui                                    Non
+
+    Si oui, inscrivez le montant de l'aide et à quoi elle a été affectée.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                     00
+
+La société demande-t-elle l'exonération temporaire d'impôt pour la commercialisation d'une propriété intellectuelle?. . . . . . .  12 Oui                                      Non
+La société demande-t-elle un report de pertes sur les années passées (formulaire CO-1012)?. . . . . . . . . . . . . . . . . . . . .  14 Oui                                    Non
+
+La société doit-elle calculer la proportion entre ses affaires faites au Québec                                                                                                Non
+                                                                                                                                                                                                  00
+et l'ensemble de ses affaires (formulaire CO771.R.3 ou CO771.R.14)?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16 Oui                                                  00
+Revenu brut de source québécoise de la société. Consultez le guide. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16a                                                  00
+Revenu brut de la société . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+Total de l'actif qui figure dans les états financiers de la société . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18                        Non
+La société a-t-elle des revenus provenant d'activités commerciales effectuées sur Internet? . . . . . . . . . . . . . . . . . . . . . .  19a Oui
+                                                                                                                                                                               Non
+Au cours de l'année, la société a-t-elle possédé, reçu ou aliéné (vendu, cédé, échangé, donné, etc.)
+                                                                                                                                                                               Non
+des cryptoactifs, ou en a-t-elle utilisé dans le cadre d'une transaction (formulaire TP-21.4.39)? . . . . . . . . . . . . . . . . . . . .  19b Oui                             Non
+
+Si l'année d'imposition se termine après le 30 décembre 2025,                                                                                                                                     00
+la société détenait-elle des biens étrangers désignés dont le coût total                                                                                                       Non
+
+était supérieur à 100 000 $ CA à un moment quelconque de cette année (formulaire TP-1079.8.BE)? . . . . . . . . . . . . . . .  19c Oui                                         Non
+La société a-t-elle un revenu d'agriculture? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 Oui                  Non
+                                                                                                                                                                               Non
+   Si oui, inscrivez le revenu brut. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22a                    Non
+La date de clôture (ligne 05) coïncide-t-elle avec une acquisition de contrôle de la société?. . . . . . . . . . . . . . . . . . . . . . .  23 Oui
+                                                                                                                                                                                  SFuorimteulaire prescrit .
+La date de clôture (ligne 05) coïncide-t-elle avec la date où la société est devenue ou a cessé d'être
+
+une ssoocciété privée sous contrôle ccaannaaddiieenn((SSPPCCCC))? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  23a Oui
+Est-ce une déclaration modifiée? Si oui, consultez le guide. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  24 Oui
+S'agit-il d'une société autre qu'une SPCC? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25 Oui
+La société est-elle un organisme sans but lucratif? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27 Oui
+
+                                                                                          1659 ZZ 49545357
+2 Renseignements sur la société (suite)                                                                                                                                                CO-17 (2025-12)
+                                                                                                                                                                                                      2 de 5
+
+S'agit-il d'une société non résidente? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  28 Oui Non
+
+La société a-t-elle reçu un paiement qui a fait l'objet d'une retenue d'impôt? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  28a Oui              Non
+
+La société a-t-elle cessé ses activités? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  29 Oui Non
+
+Un changement a-t-il été apporté au genre de la société au cours de l'année? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  30 Oui                   Non
+
+Si oui, inscrivez la date du changement. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  30a
+                                                                                                                                                                                                                           A A A A MM J J
+
+La société est-elle exonérée d'impôt en vertu de l'article 984, 985, 991, 995, 996 ou 998 de la Loi sur les impôts?. . . . . . . . . . . . 31 Oui                    Non
+
+Secteur d'activité principal de la société. Inscrivez le code SCIAN. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  32
+
+La société est-elle issue d'une fusion réalisée au cours de l'année?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34 Oui Non
+
+La société a-t-elle continué l'exploitation d'une autre entreprise au cours de l'année? . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35 Oui               Non
+
+La société a-t-elle été partie à une transaction pour laquelle une demande de roulement a été
+
+effectuée dans l'année à l'aide du formulaire TP-518?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38 Oui Non
+
+Les renseignements sur la société figurant au registre des entreprises sont-ils exacts?. . . . . . . . . . . . . . . . . . . . . . . . . . . 39 Oui                  Non
+
+Dans sa déclaration de revenus fédérale, la société a-t-elle choisi de déclarer ses revenus
+
+dans une monnaie fonctionnelle (autre que le dollar canadien)?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 Oui Non
+
+Si oui, inscrivez le code correspondant à cette monnaie. Consultez le guide. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  40a
+
+La société a-t-elle liquidé une ou plusieurs de ses filiales au cours de l'année?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42 Oui              Non
+
+Si oui, inscrivez le NEQ ou le numéro d'identification de la ou des filiales et la date de la liquidation.
+
+42a 1.                42b 1.
+
+    2.                2.
+
+                                                                      A A A AMM J J
+
+Les attributs fiscaux de la ou des filiales canadiennes liquidées sont-ils transférés à la société?. . . . . . . . . . . . . . . . . . . . . 42c Oui                 Non
+
+La société détient-elle une participation dans une coentreprise ou dans une ou plusieurs sociétés de personnes? . . . . . . . . . 43 Oui                             Non
+
+Si oui, inscrivez son pourcentage de participation ainsi que le NEQ ou le numéro d'identification des sociétés de personnes ou des coentreprises, s'il y a lieu.
+
+43a 1.  % 43b 1.
+
+    2.  %  2.
+
+    3.  %  3.
+
+    4.  %  4.
+
+SSiillaassoocciiété était associée à unee oouupplluussiieeuurrssssoocciéiéttééss, indiquez-en le nombre et remplissez les lignes 44a à 45a. . . . . . . . .  44
+
+Capital versé de l'année d'imposition précédente, calculé sur une base consolidée, pour l'ensemble des sociétés associées . . 44a                                                                                                          00
+
+Inscrivez le NEQ ou le numéro d'identification de chacune des sociétés associées. S'il y en a plus de quatre, joignez une feuille contenant les renseignements demandés.
+
+44b 1.            2.                                                                 3.                                 4.
+
+Y a-t-il, parmi ces sociétés, une ou plusieurs sociétés canadiennes qui résident à l'extérieur du Québec?. . . . . . . . . . . . . 44c Oui                           Non
+
+Y a-t-il, parmi ces sociétés, une ou plusieurs sociétés qui résident à l'extérieur du Canada?. . . . . . . . . . . . . . . . . . . . . . 44d Oui                     Non
+
+Si la société était associée à une ou plusieurs SPCC, indiquez-en le nombre. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+
+Capital versé de l'année d'imposition précédente, calculé sur une base canadienne,                                                                                                                                                         00
+pour l'ensemble des sociétés associées qui résident au Canada ou y ont un établissement . . . . . . . . . . . . . . . . . . . . . 45a
+
+La société est-elle bénéficiaire d'une fiducie désignée?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46 Oui Non
+
+          Noms des administrateurs et administratrices de la société                        Numéro d'assurance sociale                                              Titre ou fonction
+200 1.                                                                                   1.                                                                      1.
+
+2.                                                                                       2.                                                                      2.
+
+3.                                                                                       3.                                                                      3.
+
+                                                                                                                                                                                       Suite                                               .
+
+                                                                                     15CT ZZ 49536784
+2 Renseignements sur la société (suite)                                                                                                     CO-17 (2025-12)
+                                                                                                                                                           3 de 5
+
+Si la société est une SPCC, fournissez les renseignements demandés sur ses actionnaires (selon son registre des actionnaires), du plus important au moins important, en fonction
+de leur pourcentage d'actions avec droit de vote en toutes circonstances. S'il y en a plus de trois, fournissez uniquement les renseignements sur les trois plus importants.
+
+        Noms des actionnaires de la société                                                   NAS, NEQ ou numéro d'identification           Pourcentage d'actions
+                                                                                                                                            avec droit de vote détenues
+
+206 1.                                                     207 1.                                                                   208 1.                 ,  %
+
+2.                                                                                        2.                                        2.                     ,  %
+
+3.                                                                                        3.                                        3.                     ,  %
+
+          Nom de la personne à contacter                                                                                              Numéro de téléphone
+210 1.                                                                                                                             2.
+
+      Adresse de l'emplacement des registres
+211
+
+IMPORTANT
+Vous devez annexer les états financiers complets de la société déclarante (y compris les notes complémentaires) et, s'il y a lieu, le rapport du vérificateur.
+Si la société détient une participation dans une coentreprise ou dans une société de personnes, vous devez joindre les états financiers de cette
+coentreprise ou de cette société de personnes pour tout exercice financier qui s'est terminé au cours de l'exercice financier de la société déclarante.
+
+De plus, si la société réalise un grand projet d'investissement ou est un armateur admissible qui s'est constitué une réserve libre d'impôt, vous devez
+également joindre les états financiers relatifs au grand projet d'investissement ou à la réserve libre d'impôt, selon le cas.
+
+3 Revenu imposable
+
+Revenu net (ou perte nette) d'après les états financiers ou le formulaire CO-17.A.1, selon le cas                              250                               00
+                                                                                                                         + 250a                                  00
+Montant relatif à l'étalement du revenu d'un producteur forestier (formulaire CO-726.PF)                                 = 252
+                                                                                                                   00                                         0 00
+Additionnez les montants des lignes 250 et 250a.
+                                                                                                                   00
+Dons (annexe CO-17S.2)                                                               253                           00
+
+Dons de biens culturels, de biens ayant une valeur patrimoniale, de bbiieennss                                     00
+écosennssiibblleess, d'instruments de musique et de médicaments (annexe CO-17S.2) + 255                            00
+                                                                                                                   00
+Dividendes imposables (annexe CO-17S.3)                    + 256                                                   00
+                                                                                                                   00
+Pertes d'autres années (annexe CO-17S.4) :
+                                                                                                                   00
+· pertes agricoles restreintes                             + 260                                                   00
+                                                                                                               0 00 ­ 270
+· pertes autres que des pertes en capital                  + 261
+                                                                                                                         = 275
+· pertes nettes en capital                                 + 262                                                         + 297
+                                                                                                   Revenu imposable = 299
+· pertes agricoles                                         + 263
+
+· pertes comme membre à responsabilité limitée d'une société de personnes + 264
+
+Déductions. Consultez le guide.
+
+PPrréécciissez :                                     265i  + 265
+
+                                                     266i  + 266
+
+Additionnez les montants des lignes 253 à 266.             =                                                                                                  0 00
+                                                                                                                                                              0 00
+Montant de la ligne 252 moins celui de la ligne 270
+                                                                                                                                                                 00
+Autres (précisez) :                                                                                                                                           0 00
+
+Additionnez les montants des lignes 275 et 297. Si le résultat est négatif, inscrivez 0.
+
+Les lignes 300 à 399 figurent dans le formulaire Calcul du capital versé (CO-1136).
+
+                                                                                                                                            Suite                .
+
+                                                                                          15CU ZZ 49536785
+4 Sommaire de l'impôt et des taxes                                                                                                             CO-17 (2025-12)
+4.1 Impôt à payer                                                                                                                                             4 de 5
+
+Revenu imposable (montant de la ligne 299)                                                                              420                               0 00
+
+Part du plafond des affaires d'une société associée (montant de la ligne 15 [colonne E] du formulaire CO-771.1.3)   420ab                                      00
+                                                                                                                                                               00
+Revenu provenant d'une entreprise admissible (montant D du formulaire CO-771)                                       420c                                       00
+                                                                                                                                                               00
+Revenu provenant d'une entreprise admissible exploitée au Canada (montant G du formulaire CO-771)                   420cb
+                                                                                                                                       1 0 0 ., 0 0 0 0 %
+Impôt (formulaire CO-771)                                                                                                    420d                         0 00
+
+Proportion des affaires faites au Québec (100 % ou pourcentage H du formulaire CO-771.R.3 ou CO-771.R.14, selon le cas) × 421                             0 00
+                                                                                                                                                          0 00
+Montant de la ligne 420d multiplié par le pourcentage de la ligne 421                                                    = 421a
+                                                                                                                                                               00
+Déductions dans le calcul de l'impôt                                                                                                                      0 00
+
+PPrécisezz :                                                           421bi                   421b                 00                                    0 00
+                                                                                                                                                          0 00
+                                                                       421ci          + 421c                        00
+                                                                                                                                                               00
+                                                                       421di          + 421d                        00                                         00
+
+                                                                       421ei          + 421e                        00
+
+                                                                       421fi          + 421f                        00
+
+                                                                       421gi          + 421g                        00
+
+                                                                       421hi          + 421h                          00
+                                                                                                                   0 00 ­ 422
+Additionnez les montants des lignes 421b à 421h (maximum : montant de la ligne 421a). =
+
+Montant de la ligne 421a moins celui de la ligne 422                                                                     = 422a
+
+Déduction pour impôt sur les opérations forestières                                                                      - 423
+
+Montant de la ligne 422a moins celui de la ligne 423                                                          Impôt à payer = 425
+
+4.2 Montants radiés et impôts spéciaux à payer
+
+                                                                       Montant radié                 Impôt spécial
+
+Préciseezz :                                425ai            425aa                    00 425a                       00
+
+                                            425bi            425bb                    00 + 425b                     00
+
+Additionnez les montants des lignes 425a et 425b.                   Impôts spéciaux à payer =                      0 00 425z
+
+Additionnez les montants des lignes 425 et 425z.                                                     Total des impôts à payer = 425zz
+
+4.3 Capital versé
+
+Capital versé (formulaire CO-1136 ou CO-1140, selon le cas)                                                        426
+
+Capital versé utilisé dans le calcul de la déduction pour petite entreprise (montant J du formulaire CO-771)       426a
+
+                                                                                                                                       Suite  .
+
+                                                                                      165A ZZ 49545365
+4.4 Impôts et taxes à payer                                                                                                                 CO-17 (2025-12)
+                                                                                                                                                           5 de 5
+Taxe sur le capital à payer par une société d'assurance (formulaire CO-1167)           Total des primes
+                                                                                                                                              Taxe
+· Primes et taxe relatives à de l'assurance de personnes ou à des RASNA           432                        00              432aa                             00
+                                                                                                                                                               00
+· Primes et taxe relatives à de l'assurance de dommages                          432a                        00          + 432b                                00
+                                                                                                                         + 433
+· Taxe sur l'assurance maritime océanique ou taxe sur l'assurance maritime                                               = 433a                           0 00
+
+Additionnez les montants des lignes 432aa, 432b et 433.                                                                                                        00
+                                                                                                                                                               00
+Taxe sur le capital à payer par une société d'assurance (montant de la ligne 433a ou montant minimal).                                                         00
+
+Consultez le guide.                                                                                                          434                          0 00
+                                                                                                                                                          0 00
+Taxe sur le capital à payer par une société d'assurance vie (formulaire CO-1175.4)                                       + 434a                           0 00
+
+Taxe compensatoire à payer par une institution financière (formulaire CO-1159.2)                                         + 436
+
+Additionnez les montants des lignes 434, 434a et 436.                                           Autres taxes à payer = 436a
+
+Total des impôts à payer (montant de la ligne 425zz)                                                                     + 437
+
+Additionnez les montants des lignes 436a et 437.                                                Impôts et taxes à payer = 438
+
+5 Solde à payer ou remboursement
+
+Versements effectués (formulaire CO-1027.VE)                                     440
+
+Impôt retenu à la source                                                      + 440b
+
+Crédits diverrss. Consultez le guide.                      440pi              + 440p                               00
+
+                                                           440qi              + 440q                               00
+
+                                                           440ri              + 440r                               00
+
+                                                           440si              + 440s                               00
+
+                                                           440ti              + 440t                               00
+
+                                                           440ui              + 440u                               00
+
+                                                           440vi              + 440v                               00
+
+                                                           440wi              + 440w                               00
+
+                                                           440xi              + 440x                               00
+
+                                                           440yi              + 440y                             00
+                                                                                                             0.00
+Additionnez les montants des lignes 440 à 440y.                               =                                          ­ 440z                     0.00
+                                                                                                                                                    0.00
+Montant de la ligne 438 moins celui de la ligne 440z                                                                     = 441a
+                                                                                                                                                        00
+Droits d'immatriculation                                                                                                 + 441b
+                                                                                                                                                    0.00
+Additionnez les montants des lignes 441a et 441b. Reportez le résultat à la ligne 444 ou 445, selon le cas.
+
+Nous n'exigeons pas le solde s'il s'élève à moins de 2 $.                              Solde à payer ou remboursement = 441
+
+      Solde à payer                          Remboursement                                            Somme payée
+444                                    445                                                      435
+
+                                             Répartition du remboursement                       demandé
+                                       490                                                      imputé à un versement futur d'acompte provisionnel
+                                       491                                                      cédé à un tiers (formulaire CO-1055.2)
+                                       492
+
+6 Signature
+
+Je déclare que j'ai examiné la présente déclaration (y compris les formulaires connexes, les annexes, les autres déclarations et les états financiers annexés),
+qu'elle est exacte et complète et que les renseignements qu'elle contient correspondent aux renseignements inscrits dans les registres de la société. De
+plus, je déclare que la méthode utilisée pour calculer le revenu de la société pour l'exercice financier visé par la présente déclaration est conforme à celle
+utilisée pour l'exercice précédent. S'il y a des exceptions, elles sont expressément décrites dans un état annexé à cette déclaration.
+
+Signature de la représentante ou du représentant autorisé         Fonction de la représentante                     Date          Ind. rég.          Téléphone
+                                                                  ou du représentant autorisé
+                                                                                                                                                      Imprimer
+                                       Nous pourrons comparer les renseignements fournis avec ceux obtenus d'autres sources
+                                                et les transmettre à d'autres ministères ou organismes gouvernementaux.
+
+                                                                                       15CW ZZ 49536787
+                                                                                                                                                      COZ-1027.P (2025-12)
+
+                                     Paiement de l'impôt sur le revenu,
+                         de la taxe sur le capital, des droits d'immatriculation
+
+                                ou de la taxe compensatoire d'une société
+                                                     Loi sur les impôts
+
+Ce formulaire s'adresse à une société qui a une somme à payer, conformément à la Loi sur les impôts, et pour qui un montant est inscrit à la ligne 435
+de la Déclaration de revenus des sociétés (CO-17) ou de la Déclaration de revenus et de renseignements des sociétés sans but lucratif (CO-17.SP).
+
+Modes de paiement
+Vous pouvez effectuer un paiement par l'intermédiaire du service de paiement en ligne de l'institution financière de la société en utilisant le code de
+paiement qui figure sur le bordereau de paiement. Vous pouvez également payer par chèque ou par mandat.
+
+Vous ne pouvez pas utiliser le bordereau de paiement pour payer un solde au comptoir d'une institution financière.
+
+Envoi du bordereau de paiement                                                           Paiement du solde
+Vous devez nous faire parvenir le bordereau de paiement, accompagné                      Si, à la fin de l'exercice financier, la société n'a pas effectué tous les ver-
+d'un chèque ou d'un mandat fait à l'ordre du ministre du Revenu du Québec,               sements d'acomptes provisionnels exigés ou n'a pas versé toutes les
+à l'une des adresses suivantes, selon le cas :                                           sommes dues, vous devrez nous faire parvenir le solde, au plus tard deux
+                                                                                         mois après la fin de l'exercice financier visé. Des intérêts s'appliqueront
+Paiement seul                                                                            sur tout solde impayé après cette date.
+   Revenu Québec
+   C. P. 8025, succursale Place-Desjardins                                               Notez que le solde à payer n'est pas exigé s'il s'élève à moins de 2 $.
+   Montréal (Québec) H5B 0A8
+                                                                                         Pour obtenir plus de renseignements, communiquez avec nous
+Paiement transmis avec la déclaration                                                    au 418 659-4692 (Québec), au 514 873-4692 (Montréal) ou au
+   Revenu Québec                                                                         1 800 567-4692 (sans frais).
+   C. P. 7300, succursale Place-Desjardins
+   Montréal (Québec) H5B 0A8                                                             Service offert aux personnes sourdes : région de Montréal, 514 873-4455;
+                                                                                         ailleurs au Canada, 1 800 361-3795.
+
+Nom de la société                                                                        Numéro d'entreprise du Québec (NEQ) Numéro d'identification  Dossier
+
+                                                                                                                                                       IC0001
+
+Somme imputée à l'exercice financier qui se termine en
+
+  A A A AMM              Somme versée                           Date du paiement
+
+Solde à payer                                                       A A A AMM J J
+
+                   0.00                                        Conservez cette partie pour vos dossiers.
+                                                                Joignez ce bordereau à votre paiement.
+                                                                                                                                                      COZ-1027.P (2025-12)
+                                                        Bordereau de paiement
+
+                                                                                                          Code de paiement
+
+Nom de la société                                                                                                Numéro d'identification              Dossier
+Adresse
+                                                                                                          32                                           IC0001
+Retournez à : RReevveenunQuuéQbeucébec
+             CC.. PP. 8.08250, 2su5cc, usrsuaclecPularcse-aDleesjaPrdliansce-Desjardins  Code postal      Somme imputée à l'exercice financier qui se termine en
+
+                   Montréal (Québec) H5B 0A8                                                                A A A AMM
+
+             Montréal (Québec) H5B 0A8                                                                    Somme versée
+
+                         Non valide pour paiement dans une institution financière                                                                     Imprimer
+

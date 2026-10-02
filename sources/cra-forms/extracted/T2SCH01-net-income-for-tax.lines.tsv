@@ -1,0 +1,118 @@
+line	caption
+101	Provision for income taxes – current
+102	Provision for income taxes – deferred
+103	Interest and penalties on taxes
+104	Amortization of tangible assets
+105	Amortization of natural resource assets
+106	Amortization of intangible assets
+107	Recapture of capital cost allowance from Schedule 8
+110	Loss in equity of subsidiaries and affiliates
+111	Loss on disposal of assets
+112	Charitable donations and gifts from Schedule 2
+113	Taxable capital gains from Schedule 6
+114	Political contributions
+115	Holdbacks
+116	Deferred and prepaid expenses
+117	Depreciation in inventory – end of year
+118	Scientific research expenditures deducted per financial statements
+119	Capitalized interest
+120	Non-deductible club dues and fees
+121	Non-deductible meals and entertainment expenses
+122	Non-deductible automobile expenses
+123	Non-deductible life insurance premiums
+124	Non-deductible company pension plans
+125	Other reserves on lines 270 and 275 from Schedule 13
+126	Reserves from financial statements – balance at the end of the year
+127	Soft costs on construction and renovation of buildings
+128	Non-deductible fines and penalties under section 67.6
+129	Income or loss for tax purposes – partnerships
+130	Amounts calculated under section 34.2 from Schedule 73
+131	Income shortfall adjustment and additional amount from Schedule 73
+132	Income or loss for tax purposes – joint ventures
+199	Amount D on page 3
+500	Total (lines 101 to 199)
+401	Gain on disposal of assets per financial statements
+402	Non-taxable dividends under section 83 from Schedule 3
+403	Capital cost allowance from Schedule 8
+404	Terminal loss from Schedule 8
+406	Allowable business investment loss from Schedule 6
+407	Foreign non-business tax deduction under subsection 20(12)
+408	Holdbacks
+409	Deferred and prepaid expenses
+410	Depreciation in inventory – end of prior year
+411	SR&ED expenditures claimed in the year on line 460 from Form T661
+413	Other reserves on line 280 from Schedule 13
+414	Reserves from financial statements – balance at the beginning of the year
+416	Patronage dividend deduction from Schedule 16
+417	Contributions to deferred income plans from Schedule 15
+418	Incorporation expenses under paragraph 20(1)(b)
+499	Amount E on page 4
+510	Total (lines 401 to 499)
+201	Accounts payable and accruals for cash basis – closing
+202	Accounts receivable and prepaid for cash basis – opening
+203	Accrual inventory – opening
+204	Accrued dividends – prior year
+206	Capital items expensed
+208	Debt issue expense
+209	Deemed dividend income
+210	Deemed interest on loans to non-residents
+211	Deemed interest received
+212	Development expenses claimed in current year
+213	Dividend stop-loss adjustment
+214	Dividends credited to the investment account
+215	Exploration expenses claimed in current year
+216	Financing fees deducted in books
+217	Foreign accrual property income
+218	Foreign affiliate property income
+219	Foreign exchange included in retained earnings
+220	Gain on settlement of debt
+221	Interest paid on income debentures
+222	Limited partnership losses from Schedule 4
+224	Mandatory inventory adjustment – included in current year
+226	Non-deductible advertising
+227	Non-deductible interest
+228	Non-deductible legal and accounting fees
+229	Optional value of inventory – included in current year
+230	Other expenses from financial statements
+231	Recapture of SR&ED expenditures from Form T661
+232	Resource amounts deducted
+233	Restricted farm losses – current year from Schedule 4
+234	Sales tax assessments
+235	Share issue expense
+236	Write-down of capital property
+237	Amounts received in respect of qualifying environmental trust per paragraphs 12(1)(z.1) and 12(1)(z.2)
+238	Contractors' completion method adjustment: revenue net of costs on contracts under two years – previous year
+239	Taxable/non-deductible other comprehensive income items
+248	Book loss of joint ventures
+249	Book loss of partnerships
+250	Hybrid mismatch amount under subsection 18.4(4) or 12.7(3)
+251	Excess IFE under subsection 18.2(2) from Schedule 130
+252	Partnership IFE add-back under paragraph 12(1)(l.2) from Schedule 130
+253	Non-deductible interest under subsection 18(4)
+254	Partnership interest deduction add-back under paragraph 12(1)(l.1)
+296	Total of column 2
+300	Accounts payable and accruals for cash basis – opening
+301	Accounts receivable and prepaid for cash basis – closing
+302	Accrual inventory – closing
+303	Accrued dividends – current year
+304	Bad debt
+306	Equity in income from subsidiaries or affiliates
+307	Exempt income under section 81
+309	Mandatory inventory adjustment – included in prior year
+310	Contributions to a qualifying environmental trust
+311	Non-Canadian advertising expenses – broadcasting
+312	Non-Canadian advertising expenses – printed materials
+313	Optional value of inventory – included in prior year
+314	Other income from financial statements
+315	Payments made for allocations in proportion to borrowing and bonus interest payments from Schedule 17
+316	Contractors' completion method adjustment: revenue net of costs on contracts under two years – current year
+347	Non-taxable/deductible other comprehensive income items
+348	Book income of joint venture
+349	Book income of partnership
+350	Adjustment for hybrid mismatch amount under paragraph 20(1)(yy)
+340	Canadian development expenses from Schedule 12
+341	Canadian exploration expenses from Schedule 12
+342	Canadian oil and gas property expenses from Schedule 12
+344	Depletion from Schedule 12
+345	Foreign exploration and development expenses from Schedule 12
+396	Total of column 2

@@ -1,0 +1,104 @@
+Manufacturing and processing profits deduction and zero-emission technology manufacturing deduction
+Lines 620 and 624 – Investment corporation deduction
+Line 632 – Federal foreign non-business income tax credit
+Line 636 – Federal foreign business income tax credit
+Continuity of unused federal foreign business income tax credits
+Carryback or carryforward of unused credits
+
+
+Lines 638 and 639 – General tax reduction
+Line 640 – Federal logging tax credit
+Line 641 – Eligible Canadian bank deduction under section 125.21
+Line 648 – Federal qualifying environmental trust tax credit
+Line 652 – Investment tax credit
+Available-for-use rule
+Investments and expenditures that qualify for an ITC 
+ITC for qualified property (Atlantic ITC)
+Scientific research and experimental development (SR&ED) qualified expenditure pool
+SR&ED investment tax credit and refund
+Apprenticeship job creation tax credit
+Investment tax credit (ITC) for child care spaces
+Investment tax credit (ITC) claim
+When to complete Schedule 31
+Investment tax credit refund
+
+
+Part I tax payable
+
+
+
+
+
+    
+
+
+
+
+    
+
+    
+        Part I tax
+    
+
+
+
+
+    
+
+    
+        Line 550 – Base amount of Part I tax
+The basic rate of Part I tax is 38% of taxable income. To determine the base amount of Part I tax, calculate 38% of the taxable income from line 360 of page 3.
+
+    
+
+
+
+
+    
+
+    
+        On line 550, enter this base amount.
+Reference
+Section 123
+
+    
+
+
+
+
+    
+
+    
+        Line 560 – Additional tax on personal services business income (section 123.5)
+A corporation must add to its Part I tax payable for a year an amount equal to 5% of the corporation's taxable income for the year from a personal services business.
+ReferenceSection 123.5
+
+    
+
+
+
+
+    
+
+    
+        Line 565 – Additional tax on banks and life insurers
+For tax years that end after April 7, 2022, an additional tax of 1.5% of the taxable income is introduced for members of bank and life insurer groups. The tax applies to any member in the group that is a bank, life insurer or other related financial institution.
+A $100 million taxable income exemption could be allocated by agreement amongst group members. For a tax year that includes April 7, 2022, the additional tax would be prorated based on the number of days after April 7, 2022.
+To allocate the exemption and calculate the additional tax, complete Schedule 68, Additional Tax on Banks and Life Insurers, and file it with your return. Enter the amount of the additional tax on line 565 of the return.
+Reference
+Section 123.6
+
+    
+
+
+
+
+    
+
+    
+        Line 580 – Total labour requirements addition to tax
+For clean economy ITCs other than the clean technology manufacturing ITC, there are consequences for not complying with the labour requirements (prevailing wage requirements and apprenticeship requirements) if you elected to meet the labour requirements and claimed the credit at the regular rate.
+Addition to tax for prevailing wages not paid
+You will be liable to pay a dollar amount per day for each day in the installation tax year, for each covered worker who was not paid the prevailing wage, except when gross negligence applies. The dollar amount was $20 in 2023 and is adjusted for inflation in each calendar year after 2023. See the details on the consequences of failing to meet the labour requirements.
+You may also be liable to pay a corrective measure in the form of a top up amount to each covered worker as per notification from the minister.
+This amount is the difference between prevailing wages that were required to have been paid to the covered worker and the amount th

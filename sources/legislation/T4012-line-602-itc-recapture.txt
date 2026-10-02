@@ -1,0 +1,68 @@
+Recapture of investment tax credit (ITC)
+    
+
+
+
+
+    
+
+    
+        Scientific research and experimental development
+A corporation that disposed of a property used in scientific research and experimental development (SR&ED), or converted it to commercial use, should report a recapture in its income tax return for the year in which the disposition or conversion occurred.
+If you disposed of a property on which you earned SR&ED ITC, the recapture will be whichever is less:
+
+the ITC earned for the property
+the amount determined by applying the percentage you used in calculating the ITC earned on the property to:
+the proceeds of disposition of the property if you dispose of it to an arm's length person
+in any other case, the fair market value of the property
+
+
+
+If you did the SR&ED and transferred the qualified expenditures to a non-arm's length party according to an agreement as described in subsection 127(13), the recapture will be whichever is less:
+
+the ITC earned by the transferee on the qualified expenditures for the property that was transferred
+the amount determined by the formula:A × B − C
+where
+
+"A" is the percentage that the transferee used in determining its ITC
+"B" is the proceeds of disposition of the property if you dispose of it to an arm's length person, or in any other case, the fair market value of the property
+"C" is the amount, if any, added to the tax payable under subsection 127(27) for the property. This allows for the situation where you transferred only a portion of the cost of the property in an agreement under subsection 127(13)
+
+
+
+If you transferred a portion of the expenditures and claimed a portion of that expenditure for ITC purposes, both calculations will apply.
+The recapture period for ITCs is 20 years.
+Enter the amount of the recapture in Part 24 of Schedule 31, Investment Tax Credit – Corporations. For more information, see parts 16 and 17 of Schedule 31 on how to calculate the recapture of  SR&ED  ITC or go to Scientific Research and Experimental Development (SR&ED).
+
+    
+
+
+
+
+    
+
+    
+        Clean economy
+Enter the amount of the recapture for each clean economy ITC (except for the CCUS ITC) in Part 24 of Schedule 31. The amounts are determined on the credit calculation schedules for each clean economy ITC. For more information on recapture, see the details on the clean economy investment tax credits (ITCs).
+
+    
+
+
+
+
+    
+
+    
+        On line 602, enter the total amount of recaptured ITC.
+References
+Subsections 127(27) to (35), 127.45(11), (12), 127.48(21), (22), and 127.49(11), (12)
+
+    
+
+
+
+
+    
+
+    
+        Lin

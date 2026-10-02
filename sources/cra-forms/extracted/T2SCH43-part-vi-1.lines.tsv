@@ -1,0 +1,21 @@
+line	caption
+115	Dividend allowance (amount 1A minus line 110) (if negative, enter "0")
+116	Date filed (do not use this area)
+117	Is this an amended agreement?
+118	Calendar year to which the agreement applies
+210	Dividend allowance: amount on line 115 (from Part 1) or, if associated, the total amount allocated on line 140 (from Part 2)
+220	Taxable dividends (other than excluded dividends) paid by the corporation in the year on short-term preferred shares
+230	Taxable dividends (other than excluded dividends) paid by the corporation in the year on taxable preferred shares (other than short-term preferred shares) of all classes for which the corporation is making an election under subsection 191.2(1)
+240	Taxable dividends (other than excluded dividends) paid by the corporation in the year on taxable preferred shares (other than short-term preferred shares) of all classes for which the corporation is not making an election under subsection 191.2(1)
+250	Part VI.1 tax transferred from a related corporation
+260	Part VI.1 tax transferred to a related corporation
+270	Part VI.1 tax payable (amount 3R minus line 260)
+310	Taxable dividends (other than excepted dividends) received in the year on taxable preferred shares [other than a share of a class for which the corporation has made an election under subsection 191.2(1)]
+320	Taxable dividends (other than excepted dividends) received in the year by a restricted financial institution on taxable RFI shares (see section 187.3)
+330	Total taxable dividends subject to Part IV.1 tax (line 310 plus line 320)
+340	Part IV.1 tax payable (line 330 multiplied by 10%)
+350	Portion of taxable dividends included on line 330 that is also subject to Part IV tax
+370	Portion of taxable dividends included on line 350 received from connected corporations
+380	Part IV tax on taxable dividends reported on line 370
+360	Reduction of Part IV tax otherwise payable (amount 4A plus amount 4B)
+400	Eligible taxable dividends included on line 390

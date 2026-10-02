@@ -1,0 +1,364 @@
+Income Tax Act (R.S.C., 1985, c. 1 (5th Supp.))Full Document:  HTMLFull Document: Income Tax Act (Accessibility Buttons available) | XMLFull Document: Income Tax Act [13749 KB] |  PDFFull Document: Income Tax Act [22848 KB]Act current to 2026-06-17 and last amended on 2026-04-01. Previous Versions
+Go to full pageTable of Contents
+Marginal note:Tax on taxable dividends191.1 (1) Every taxable Canadian corporation shall pay a tax under this Part for each taxation year equal to the amount, if any, by which(a) the total of(i) the amount determined by multiplying the amount by which the total of all taxable dividends (other than excluded dividends) paid by the corporation in the year and after 1987 on short-term preferred shares exceeds the corporation’s dividend allowance for the year, by(A) 50% for dividends paid in a taxation year that ends before 2010,(B) 45% for dividends paid in a taxation year that ends after 2009 and before 2012,(C) 40% for dividends paid in a taxation year that ends after 2011,(ii) 40% of the amount, if any, by which the total of all taxable dividends (other than excluded dividends) paid by the corporation in the year and after 1987 on taxable preferred shares (other than short-term preferred shares) of all classes in respect of which an election under subsection 191.2(1) has been made exceeds the amount, if any, by which the corporation’s dividend allowance for the year exceeds the total of the dividends referred to in subparagraph 191.1(1)(a)(i),(iii) 25% of the amount, if any, by which the total of all taxable dividends (other than excluded dividends) paid by the corporation in the year and after 1987 on taxable preferred shares (other than short-term preferred shares) of all classes in respect of which an election under subsection 191.2(1) has not been made exceeds the amount, if any, by which the corporation’s dividend allowance for the year exceeds the total of the dividends referred to in subparagraphs 191.1(1)(a)(i) and 191.1(1)(a)(ii), and(iv) the total of all amounts each of which is an amount determined for the year in respect of the corporation under paragraph 191.3(1)(d)exceeds(b) the total of all amounts each of which is an amount determined for the year in respect of the corporation under paragraph 191.3(1)(c).Marginal note:Dividend allowance(2) For the purposes of this section, a taxable Canadian corporation’s dividend allowance for a taxation year is the amount, if any, by which(a) $500,000exceeds(b) the amount, if any, by which the total of taxable dividends (other than excluded dividends) paid by it on taxable preferred shares, or shares that would be taxable preferred shares if they were issued after June 18, 1987 and were not grandfathered shares, in the calendar year immediately preceding the calendar year in which the taxation year ended exceeds $1,000,000,unless the corporation is associated in the taxation year with one or more other taxable Canadian corporations, in which case, except as otherwise provided in this section, its dividend allowance for the year is nil.Marginal note:Associated corporations(3) If all of the taxable Canadian corporations that are associated with each other in a taxation year and that have paid taxable dividends (other than excluded dividends) on taxable preferred shares in the year have filed with the Minister in prescribed form an agreement whereby, for the purposes of this section, they allocate an amount to one or more of them for the taxation year, and the amount so allocated or the total of the amounts so allocated, as the case may be, is equal to the total dividend allowance for the year of those corporations and all other taxable Canadian corporations with which each such corporation is associated in the year, the dividend allowance for the year for each of the corporations is the amount so allocated to it.Marginal note:Total dividend allowance(4) For the purposes of this section, the total dividend allowance of a group of taxable Canadian corporations that are associated with each other in a taxation year is the amount, if any, by which(a) $500,000exceeds(b) the amount, if any, by which the total of taxable dividends (other than excluded dividends) paid by those corporations on taxable preferred shares, or shares that would be taxable preferred shares if they were issued after June 18, 1987 and were not grandfathered shares, in the calendar year immediately preceding the calendar year in which the taxation year ended exceeds $1,000,000.Marginal note:Failure to file agreement(5) If any of the taxable Canadian corporations that are associated with each other in a taxation year and that have paid taxable dividends (other than excluded dividends) on taxable preferred shares in the year has failed to file with the Minister an agreement as contemplated by subsection 191.1(3) within 30 days after notice in writing by the Minister has been forwarded to any of them that such an agreement is required for the purpose of any assessment of tax under this Part, the Minister shall, for the purpose of this section, allocate an amount to one or more of them for the taxation year, which amount or the total of which amounts, as the case may be, shall equal the total dividend allowance for the year for those corporations and all other taxable Canadian corporations with which each such corporation is associated in the year, and the dividend allowance for the year of each of the corporations is the amount so allocated to it.Marginal note:Dividend allowance in short years(6) Notwithstanding any other provision of this section,(a) where a corporation has a taxation year that is less than 51 weeks, its dividend allowance for the year is that proportion of its dividend allowance for the year determined without reference to this paragraph that the number of days in the year is of 365; and(b) where a taxable Canadian corporation (in this paragraph referred to as the “first corporation”) has more than one taxation year ending in a calendar year and is associated in two or more of those taxation years with another taxable Canadian corporation that has a taxation year ending in that calendar year, the dividend allowance of the first corporation for each taxation year in which it is associated with the other corporation ending in that calendar year is, subject to the application of paragraph 191.1(6)(a), an amount equal to the amount that would be its dividend allowance for the first such taxation year if the allowance were determined without reference to paragraph 191.1(6)(a).[NOTE: Application provisions are not included in the consolidated text see relevant amending Acts and regulations.] R.S., 1985, c. 1 (5th Supp.), s. 191.1 2013, c. 34, s. 333
+Previous Version
+
+ 
+Table of Contents
+
+Income Tax Act1 - Short Title
+
+2 - PART I - Income Tax
+
+2 - DIVISION A - Liability for Tax
+
+3 - DIVISION B - Computation of Income
+
+3 - Basic Rules
+
+5 - SUBDIVISION A - Income or Loss from an Office or Employment
+
+5 - Basic Rules
+
+6 - Inclusions
+
+8 - Deductions
+
+9 - SUBDIVISION B - Income or Loss from a Business or Property
+
+9 - Basic Rules
+
+12 - Inclusions
+
+18 - Deductions
+
+22 - Ceasing to carry on business
+
+26 - Special Cases
+
+38 - SUBDIVISION C - Taxable Capital Gains and Allowable Capital Losses
+
+47.1 - Indexed Security Investment Plans
+
+56 - SUBDIVISION D - Other Sources of Income
+
+56.4 - Restrictive Covenants
+
+60 - SUBDIVISION E - Deductions in Computing Income
+
+67 - SUBDIVISION F - Rules Relating to Computation of Income
+
+81 - SUBDIVISION G - Amounts Not Included in Computing Income
+
+82 - SUBDIVISION H - Corporations Resident in Canada and their Shareholders
+
+86.1 - Foreign Spin-offs
+
+90 - SUBDIVISION I - Shareholders of Corporations Not Resident in Canada
+
+96 - SUBDIVISION J - Partnerships and their Members
+
+104 - SUBDIVISION K - Trusts and their Beneficiaries
+
+110 - DIVISION C - Computation of Taxable Income
+
+110.2 - Lump-sum Payments
+
+115 - DIVISION D - Taxable Income Earned in Canada by Non-Residents
+
+115.2 - Non-Residents with Canadian Investment Service Providers
+
+117 - DIVISION E - Computation of Tax
+
+117 - SUBDIVISION A - Rules Applicable to Individuals
+
+117.1 - Annual Adjustment of Deductions and Other Amounts
+
+120.31 - Lump-sum Payments
+
+120.4 - Tax on Split Income
+
+122.6 - SUBDIVISION A.1 - Canada Child Benefit
+
+122.7 - SUBDIVISION A.2 - Canada Workers Benefit
+
+122.8 - SUBDIVISION A.3 - Climate Action Incentive
+
+122.9 - SUBDIVISION A.4 - School Supplies Tax Credit
+
+122.91 - SUBDIVISION A.5 - Canada Training Credit
+
+122.92 - SUBDIVISION A.6 - Multigenerational Home Renovation Tax Credit
+
+122.93 - SUBDIVISION A.7 - Personal Support Workers Tax Credit
+
+123 - SUBDIVISION B - Rules Applicable to Corporations
+
+123.4 - Corporation Tax Reductions
+
+123.6 - Additional Tax on Banks and Life Insurers
+
+125.4 - Canadian Film or Video Production Tax Credit
+
+125.5 - Film or Video Production Services Tax Credit
+
+126 - SUBDIVISION C - Rules Applicable to all Taxpayers
+
+127.5 - DIVISION E.1 - Minimum Tax
+
+128 - DIVISION F - Special Rules Applicable in Certain Circumstances
+
+128 - Bankruptcies
+
+128.1 - Changes in Residence
+
+129 - Private Corporations
+
+130 - Investment Corporations
+
+130.1 - Mortgage Investment Corporations
+
+131 - Mutual Fund Corporations
+
+132 - Mutual Fund Trusts
+
+133 - Non-Resident-Owned Investment Corporations
+
+135 - Patronage Dividends
+
+135.1 - Agricultural Cooperatives — Tax-deferred Patronage Dividends
+
+135.2 - Continuance of the Canadian Wheat Board
+
+136 - Cooperative Corporations
+
+137 - Credit Unions, Savings and Credit Unions and Deposit Insurance Corporations
+
+138 - Insurance Corporations
+
+139.1 - Demutualization of Insurance Corporations
+
+142.2 - Financial Institutions
+
+142.2 - Interpretation
+
+142.3 - Income from Specified Debt Obligations
+
+142.4 - Disposition of Specified Debt Obligations
+
+142.5 - Mark-to-Market Properties
+
+142.6 - Additional Rules
+
+142.7 - Conversion of Foreign Bank Affiliate to Branch
+
+143 - Communal Organizations
+
+143.2 - Cost of Tax Shelter Investments and Limited-recourse Debt in Respect of Gifting Arrangements
+
+143.3 - Expenditure — Limitations
+
+143.4 - Expenditure — Limit for Contingent Amount
+
+144 - DIVISION G - Deferred and Other Special Income Arrangements
+
+144 - Employees Profit Sharing Plans
+
+144.1 - Employee Life and Health Trust
+
+145 - Registered Supplementary Unemployment Benefit Plans
+
+146 - Registered Retirement Savings Plans
+
+146.01 - Home Buyers’ Plan
+
+146.02 - Lifelong Learning Plan
+
+146.1 - Registered Education Savings Plans
+
+146.2 - Tax-free Savings Accounts
+
+146.3 - Registered Retirement Income Funds
+
+146.4 - Registered Disability Savings Plan
+
+146.5 - Advanced Life Deferred Annuity
+
+146.6 - Tax-Free First Home Savings Account
+
+147 - Deferred Profit Sharing Plans
+
+147.1 - Registered Pension Plans
+
+147.5 - Pooled Registered Pension Plans
+
+148 - Life Insurance Policies
+
+148.1 - Eligible Funeral Arrangements
+
+149 - DIVISION H - Exemptions
+
+149 - Miscellaneous Exemptions
+
+149.1 - Qualified Donees
+
+150 - DIVISION I - Returns, Assessments, Payment and Appeals
+
+150 - Returns
+
+151 - Estimate of Tax
+
+152 - Assessment
+
+153 - Payment of Tax
+
+160.5 - Electronic Payments
+
+161 - Interest
+
+161.1 - Offset of Refund Interest and Arrears Interest
+
+161.3 - Small Amounts Owing
+
+162 - Penalties
+
+163.2 - Misrepresentation of a Tax Matter by a Third Party
+
+164 - Refunds
+
+165 - Objections to Assessments
+
+166 - General
+
+168 - Revocation of Registration of Certain Organizations and Associations
+
+168.1 - Designation of Qualified Canadian Journalism Organizations
+
+169 - DIVISION J - Appeals to the Tax Court of Canada and the Federal Court of Appeal
+
+180.01 - PART I.01 - Tax in Respect of Stock Option Benefit Deferral
+
+180.1 - PART I.1 - Individual Surtax
+
+180.2 - PART I.2 - Tax on Old Age Security Benefits
+
+181 - PART I.3 - Tax on Large Corporations
+
+182 - PART II - [Repealed, 2017, c. 20, s. 27]
+
+183.1 - PART II.1 - Tax on Corporate Distributions
+
+183.3 - PART II.2 - Tax on Repurchases of Equity
+
+184 - PART III - Additional Tax on Excessive Elections
+
+185.1 - PART III.1 - Additional Tax on Excessive Eligible Dividend Designations
+
+186 - PART IV - Tax on Taxable Dividends Received by Private Corporations
+
+187.1 - PART IV.1 - Taxes on Dividends on Certain Preferred Shares Received by Corporations
+
+187.7 - PART V - Tax and Penalties in Respect of Qualified Donees
+
+190 - PART VI - Tax on Capital of Financial Institutions
+
+190.1 - Calculation of Capital Tax
+
+190.2 - Administrative Provisions
+
+191 - PART VI.1 - Tax on Corporations Paying Dividends on Taxable Preferred Shares
+
+191.5 - PART VI.2 - Canada Recovery Dividend
+
+192 - PART VII - Refundable Tax on Corporations Issuing Qualifying Shares
+
+194 - PART VIII - Refundable Tax on Corporations in Respect of Scientific Research and Experimental Development Tax Credit
+
+196 - PART IX - Tax on Deduction Under Section 66.5
+
+197 - PART IX.1 - Tax on Sift Partnerships
+
+198 - PART X - Taxes on Deferred Profit Sharing Plans and Revoked Plans
+
+204.1 - PART X.1 - Tax in Respect of Over-contributions to Deferred Income Plans
+
+204.4 - PART X.2 - Tax in Respect of Registered Investments
+
+204.8 - PART X.3 - Labour-sponsored Venture Capital Corporations
+
+204.9 - PART X.4 - Tax in Respect of Overpayments to Registered Education Savings Plans
+
+204.94 - PART X.5 - Payments Under Registered Education Savings Plans
+
+205 - PART XI - Tax in Respect of Advanced Life Deferred Annuity
+
+207.01 - PART XI.01 - Taxes in Respect of Registered Plans
+
+207.1 - PART XI.1 - Tax in Respect of Deferred Income Plans and Other Tax Exempt Persons
+
+207.3 - PART XI.2 - Tax in Respect of Dispositions of Certain Properties
+
+207.5 - PART XI.3 - Tax in Respect of Retirement Compensation Arrangements
+
+207.8 - PART XI.4 - Tax on Excess EPSP Amounts
+
+207.9 - PART XI.5 - Tax in Respect of Employee Life and Health Trust
+
+208 - PART XII - Tax in Respect of Certain Royalties, Taxes, Lease Rentals, Etc., Paid to a Government by a Tax Exempt Person
+
+209 - PART XII.1 - Tax on Carved-out Income
+
+210 - PART XII.2 - Tax on Designated Income of Certain Trusts
+
+211 - PART XII.3 - Tax on Investment Income of Life Insurers
+
+211.6 - PART XII.4 - Tax on Qualifying Environmental Trusts
+
+211.7 - PART XII.5 - Recovery of Labour-sponsored Funds Tax Credit
+
+211.91 - PART XII.6 - Tax on Flow-through Shares
+
+211.92 - PART XII.7 - Carbon Capture, Utilization and Storage
+
+212 - PART XIII - Tax on Income from Canada of Non-resident Persons
+
+218.2 - PART XIII.1 - Additional Tax on Authorized Foreign Banks
+
+218.3 - PART XIII.2 - Non-resident Investors in Canadian Mutual Funds
+
+219 - PART XIV - Additional Tax on Non-resident Corporations
+
+220 - PART XV - Administration and Enforcement
+
+220 - Administration
+
+222 - Collection
+
+230 - General
+
+238 - Offences and Punishment
+
+244 - Procedure and Evidence
+
+244.1 - PART XV.1 - Reporting of Electronic Funds Transfer
+
+245 - PART XVI - Tax Avoidance
+
+247 - PART XVI.1 - Transfer Pricing
+
+248 - PART XVII - Interpretation
+
+263 - PART XVIII - Enhanced International Information Reporting
+
+270 - PART XIX - Common Reporting Standard
+
+282 - PART XX - Reporting Rules for Digital Platform Operators
+
+SCHEDULE  - Listed Corporations
+
+Select pageTable of Contents1     ... 6789   ... 111212.1    ... 12.512.6  ... 1314 ... 1515.1   ... 16.11717.1 ... 1818.1 ... 18.218.2118.3 ... 18.419   ... 2020.01  ... 20.220.3   ... 2223      ... 27.128   ... 3132     ... 34.234.3   ... 3737.1      ... 3939.1 ... 4041    ... 4444.145   ... 47.148    ... 5051   ... 535454.1  ... 555656.1   ... 56.457  ... 5959.1 ... 6060.001    ... 60.02160.022  ... 60.160.11     ... 61.361.4  ... 6364    ... 6666.166.266.2166.3 ... 66.466.5  ... 66.766.8   ... 67.267.3       ... 697072 ... 7374.1   ... 74.474.5  ... 75.175.2     ... 7979.1 ... 8080.01 ... 80.0280.03 ... 80.0480.1 ... 80.280.3 ... 80.480.5  ... 8182  ... 8484.184.2 ... 8585.186  ... 878888.1 ... 89909192 ... 9393.1  ... 93.393.49494.1  ... 959697 ... 9898.1   ... 100101   ... 104105  ... 107107.1   ... 107.4108110110.1110.2   ... 110.6110.61110.62110.7 ... 111111.1 ... 112113    ... 115115.1  ... 116117  ... 118118.01     ... 118.041118.05   ... 118.1118.2118.3  ... 118.5118.6    ... 118.8118.81          ... 120.1120.2   ... 120.4121  ... 122.1122.2  ... 122.5122.51  ... 122.61122.62   ... 122.7122.71   ... 122.9122.91 ... 122.92122.93       ... 123.6124 ... 125125.1   ... 125.21125.3 ... 125.4125.5 ... 125.6125.7126126.1 ... 127127.1 ... 127.2127.3 ... 127.4127.41  ... 127.421127.43 ... 127.44127.45127.46127.47 ... 127.48127.49127.491127.5  ... 127.52127.53    ... 128128.1128.2  ... 129130 ... 130.1131132132.1  ... 132.2133134    ... 135.1135.2136 ... 137137.1 ... 137.2138138.1 ... 138.2139 ... 139.1139.2      ... 142.2142.3  ... 142.5142.51 ... 142.6142.7143 ... 143.1143.2 ... 143.3143.4 ... 144144.1145 ... 146146.01146.02146.1146.2 ... 146.3146.4146.5 ... 146.6147147.1147.2 ... 147.3147.4 ... 147.5148148.1 ... 149149.01 ... 149.1149.2 ... 150150.1  ... 152153154    ... 157157.1   ... 160160.01  ... 160.2160.21    ... 161161.1    ... 162163163.1  ... 163.3164164.1     ... 167168     ... 172173         ... 180.2181 ... 181.1181.2 ... 181.3181.4           ... 183.3183.4    ... 185.2186      ... 187.3187.4      ... 188.1188.2  ... 190190.1   ... 190.13190.14          ... 191191.1   ... 191.4191.5   ... 193194 ... 195196   ... 199200     ... 204.1204.2204.3    ... 204.7204.8 ... 204.81204.82    ... 204.85204.86      ... 204.94205       ... 207.01207.02         ... 207.07207.1     ... 207.5207.6      ... 207.7207.71    ... 209210    ... 211211.1     ... 211.6211.7      ... 211.92211.93   ... 212212.1 ... 212.2212.3213 ... 214215   ... 217218    ... 219219.1   ... 220221      ... 223223.1      ... 225.1225.2  ... 227227.1      ... 231.1231.2      ... 231.6231.7    ... 233.1233.2  ... 233.4233.5     ... 235236  ... 237.1237.2 ... 237.3237.4 ... 237.5238    ... 241242   ... 244.1244.2      ... 245246 ... 247248249 ... 249.1250  ... 251251.1 ... 251.2252      ... 256256.1   ... 259260261262   ... 265266    ... 270271  ... 273274      ... 280281    ... 285286         ... 295SCHEDULE : Listed CorporationsRelated ProvisionsAmendments not in forcePrevious Amendments
+
+    Page Details   
+        
+    Date modified: 
+    ﻿2026-08-06

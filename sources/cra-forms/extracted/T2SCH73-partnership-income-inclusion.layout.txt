@@ -1,0 +1,141 @@
+                                                                                                                                                                                                                    Schedule 73
+                                                                                                                                                                                                                       Code 1901
+
+                                                                                                                                                                                                                     Protected B
+                                                                                                                                                                                                                when completed
+
+Corporation's name             Income Inclusion Summary for Corporations that are Members of Partnerships                                                                                          Tax year-end
+                                                                     (2019 and later tax years)
+
+                                                                                                                                                                                  Business number
+
+                                                                                                                                                                                                   Year               Month Day
+
+· Use this schedule to calculate the income inclusion resulting from limiting the deferral of tax on     · All legislative references are to the Income Tax Act.
+  income earned through a partnership under sections 34.2, 34.3 and 249.1 of                             · If you need more space, attach additional schedules.
+  the Income Tax Act. If applicable, complete Part 3 of this schedule to calculate the income shortfall  · File this schedule with your T2 Corporation Income Tax Return.
+  inclusion and additional amount.
+
+· This schedule is a summary of the amounts calculated on Schedule 71, Income Inclusion for
+  Corporations that are Members of Single-Tier Partnerships, and Schedule 72, Income Inclusion for
+  Corporations that are Members of Multi-Tier Partnerships.
+
+· This schedule does not replace the law. For more information, see sections 34.2 and 34.3
+  of the Income Tax Act.
+
+   Part 1 ­ Partnership information
+
+                                         RZ
+
+                           RZ  Partnership's name                                                        Fiscal period-start                                                                       Fiscal period-end   Part of a
+Partnership accountRnumZber             110                                                              Year-Month-Day                                                                            Year-Month-Day     multi-tiered
+
+                           RZ                                                                                    130                                                                                        140        structure
+              100                                                                                        Year Month Day                                                                                                 1 = yes
+                                                                                                                                                                                                                         2= no
+                           RZ
+                                                                                                                                                                                                                            150
+
+                                                                                                                                                                                                   Year Month Day
+
+                    RZ                                                                                   Year Month Day Year Month Day
+
+                    RZ                                                                                   Year Month Day                                                                            Year Month Day
+                    RZ                                                                                   Year Month Day                                                                            Year Month Day
+
+                                                                                                         Year Month Day Year Month Day
+
+                                                                                                         Year Month Day Year Month Day
+
+                                                                                                         Year Month Day Year Month Day
+
+                                                                                                         Year Month Day Year Month Day
+
+T2 SCH 73 E (19)               (Ce formulaire est disponible en français.)                                                                                                                         Page 1 of 3
+                                                                                                                                                     Protected B when completed
+
+Part 2 ­ Income Inclusion                                  1                 2               3                 4       5               6             7                                           8
+                                                    Stub period       Designated      Discretionary
+         Partnership account number                               qualified resource                   Adjusted stub   Previous-year   Income inclusion Previous-year Net amount to be
+                    (from Part 1)                      accrual         expenses          amount        period accrual  adjusted stub
+                                                                                       designated    (column 1 minus   period accrual  for a new corporate income inclusion included in
+                                    RZ              (see note 1)     (see note 2)                    column 2 minus
+                                    RZ                    200              205        (see note 3)                                     member of a   for a new                income for the tax
+                                    RZ                                                     210           column 3)
+                                    RZ                                                                                                 partnership corporate member                              year
+                                    RZ                                                                        215
+                                    RZ                                                                                                               of a partnership
+                                    RZ
+                                    RZ                                                                                 (see note 4)    (see note 5)  (see note 6)             (see note 7)
+
+                                                                                                                       220             225           230                                         260
+
+                                        Totals
+
+Generally, amounts included under subsections 34.2(2) and 34.2(3) or claimed under subsection 34.2(4) are deemed to have the same character and be in the same
+proportions as the partnership income to which they relate. Enter the breakdown of the total of column 8 on lines 270, 275, 280, 285 and 290 below. For lines 270, 280, and 290, amounts can be
+negative.
+
+Total active business income . . . . . . . 270                    Total taxable capital gain . . . . . . . . . 275     Total property income . . . . . . . . . . . . . . 280
+
+Total allowable capital loss . . . . . . . . . 285                Total other income . . . . . . . . . . . . . . 290
+
+Note 1. Enter amount 2I from Part 2 of either Schedule 71 or Schedule 72.
+Note 2. Enter amount 2J from Part 2 of either Schedule 71 or Schedule 72.
+Note 3. Enter amount 2K from Part 2 of either Schedule 71 or Schedule 72.
+Note 4. Enter line 215 (column 4) of previous year's Schedule 73.
+Note 5. Enter amount 3E from Part 3 of either Schedule 71 or Schedule 72.
+Note 6. Enter line 225 (column 6) of previous year's Schedule 73.
+Note 7. Add columns 4 and 6, and subtract columns 5 and 7. Enter the total of lines 270, 280, and 290 on line 130 of Schedule 1. Use the amount from line 275 in the calculation of line 899 of Schedule 6. Use
+
+          the amount from line 285 in the calculation of line 901 of Schedule 6.
+
+                                                                                                                                                                                                 Page 2 of 3
+                                                                                                                                                                             Protected B when completed
+
+  Part 3 ­ Income shortfall adjustment and additional amount
+
+For a tax year, the corporation is required under section 34.3 to include in its income an income shortfall adjustment to account for under-reported income
+in circumstances where the corporation has made a discretionary designation, for any qualifying partnership it is a member of, to reduce the adjusted stub
+period accrual (ASPA) inclusion for a base year. The base year is the preceding tax year of the corporation in which began the fiscal period of the qualifying
+partnership that ends in the corporation's tax year.
+
+When the corporation is a member of more than one qualifying partnership, it can, in determining its income inclusion under section 34.3 for a tax year,
+offset an over-reported ASPA in respect of a qualifying partnership against an under-reported ASPA of another qualifying partnership.
+
+A qualifying partnership is a partnership that has a fiscal period that began in the preceding tax year and ended in the tax year, and in respect of which the
+corporation had to calculate an ASPA for the preceding tax year in which the fiscal period of the partnership began.
+
+                           RZ                                                          9                     10
+                                                                                                   Threshold amount
+Partnership accountRnumZber                                                   Income shortfall
+          (from Part 1)                                                          adjustment           (see note 9)
+                           RZ                                                                               310
+                                                                                (see note 8)
+                           RZ                                                        300
+
+RZ
+
+RZ
+
+RZ
+
+RZ
+
+                                           Totals
+
+Total of column 9 (if negative, enter "0") . . . . . . . . . . . . . . . . .                    ............................                                 3A
+
+Total of column 9 or, column 10, whichever is less . . . . . . . . .                            3B
+Subtotal (amount 3A minus amount 3B) (if negative, enter "0")
+                                                                                                ×   0.50 = Additional amount: 320
+
+Income shortfall adjustment and additional amount (amount 3A plus line 320) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3C
+
+Enter amount 3C on line 131 of Schedule 1
+
+Note 8. Enter amount 4T from Part 4 of either Schedule 71 or Schedule 72.
+Note 9. Enter amount 4W from Part 4 of either Schedule 71 or Schedule 72.
+
+                                                                                                                                                             Page 3 of 3
+

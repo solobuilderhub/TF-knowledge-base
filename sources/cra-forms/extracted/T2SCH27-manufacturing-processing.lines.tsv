@@ -1,0 +1,18 @@
+line	caption
+100	your active business income minus active business losses for the year (this includes your share of active business income and active business loss for the fiscal period of each partnership of which you were a member at any time in the year 1)
+105	the active business income for the tax year of each Canadian corporation with which you were associated in the year 2
+110	Total (line 100 plus line 105) (cannot exceed $200,000 under section 5201 of the regulations)
+120	Your active business income minus active business losses for the year (this includes your share of active business income and active business loss for the fiscal period of each partnership of which you were a member at any time in the year 3)
+130	Adjusted business income (ADJUBI) (line 120 minus line 125, if negative, enter "0")
+140	Cost of capital (C) (add amounts 4G, 4H, and 4I)
+150	Cost of manufacturing and processing capital (MC) (amount 5B multiplied by 100 divided by 85, cannot be more than amount 5A)
+160	Cost of labour (L) (amount 6I plus amount 6U)
+170	Cost of manufacturing and processing labour (ML) (amount 7C multiplied by 100 divided by 75, cannot be more than line 160 in Part 6)
+200	For eligible corporations that have such profits Canadian manufacturing and processing profits from Part 1 or Part 2, as applicable
+205	Cost of manufacturing and processing capital (MCA) (amount 11B multiplied by 100 divided by 85, cannot be more than amount 11A)
+206	Cost of manufacturing and processing labour (MLA) (amount 12C multiplied by 100 divided by 75, cannot be more than line 160 in Part 6)
+210	Canadian manufacturing and processing profits from Part 10
+305	ZETM cost of capital (MCB) (the part of the cost of capital from line 140 in Part 4 that reflects the extent to which each property was used directly in qualified zero-emission technology manufacturing activities of the corporation during the year, or of a partnership during its fiscal period of which you were a member at any time in the year)
+306	ZETM cost of labour (MLB) (amount 16A plus amount 16B)
+310	ZETM profits from Part 14
+350	ZETM deduction (amount 17L plus amount 17M) 15

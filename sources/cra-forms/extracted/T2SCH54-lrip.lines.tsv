@@ -1,0 +1,11 @@
+line	caption
+100	LRIP at the end of the immediately previous tax year
+150	Aggregate investment income for the previous tax year 1 × 80% =
+140	(line 440 of the T2 return of the previous tax year)
+160	Investment corporation deduction (line 620 of the T2 return of the × 4 =
+190	Subtotal (add lines 100, 150, and 160)
+270	total of line 240 and
+510	Total dividends 6 receivable in the tax year that are deductible under section 112
+520	Total adjustments for amalgamations, wind-ups, or on ceasing to be a CCPC 7
+540	Total dividends 8 payable in the tax year
+590	LRIP at the end of the tax year (amount D minus amount F) (if negative, enter "0")

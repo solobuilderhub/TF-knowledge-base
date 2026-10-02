@@ -1,0 +1,219 @@
+Corporation's name                           Summary of Dispositions of Capital Property                                                                                            Schedule 6
+                                                           (2011 and later tax years)                                                                                                    Code 1105
+
+                                                                                                                     Business number                                               Protected B
+                                                                                                                                                                                 when completed
+
+                                                                                                                                                                             Tax year-end
+                                                                                                                                                                         Year Month Day
+
+· Use this schedule if your corporation disposed of (actual or deemed) capital property or claimed an allowable business investment loss (ABIL), or both, in the
+
+  tax year.
+
+· All legislative references are to the Income Tax Act.
+· Also use this schedule to make a designation under paragraph 111(4)(e) if control of the corporation has been acquired by a person or a group of persons.
+· For more information, see the section called "Schedule 6, Summary of Dispositions of Capital Property" in the T2 Corporation Income Tax Guide.
+· If you need more space, attach additional schedules.
+
+Designation under paragraph 111(4)(e)
+
+Are any dispositions shown on this schedule related to deemed dispositions designated under paragraph 111(4)(e)? . . . . . 050 Yes                                       No
+
+If yes, attach a statement specifying which properties such a designation applies to.
+
+Part 1 ­ Shares
+
+      1                           2                    3            4             5                               6                            7                                   8
+Number of           Name of corporation in         Class of     Date of    Proceeds of                    Adjusted cost                Outlays and                         Gain (or loss)
+                 which the shares were held        shares     acquisition  disposition                                                expenses from                      (column 5 minus
+  shares                                                     YYYYMMDD                                          base                     disposition                      columns 6 and 7)
+                                                     106                        120
+100                 105                                            110                                          130                          140                                 150
+
+                                                             Totals
+
+Total adjustment under subsection 112(3) to all losses identified in column 8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+
+Actual gain or loss from the disposition of shares (total of column 8 plus line 160). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    A
+
+Part 2 ­ Real estate (Do not include losses on depreciable property)
+
+                                     1                              2             3                               4                            5                                 6
+                 Municipal address of real estate               Date of    Proceeds of                    Adjusted cost                Outlays and                         Gain (or loss)
+                                                              acquisition  disposition                                                expenses from                      (column 3 minus
+                                   200                       YYYYMMDD                                          base                     disposition                      columns 4 and 5)
+                                                                                220
+                                                                   210                                          230                          240                                250
+
+                                                             Totals                                                                                                                        B
+
+T2 SCH 6 E (24)                                              (Ce formulaire est disponible en français.)                 Page 1 of 4
+                                                                                                 Protected B when completed
+
+Part 3 ­ Bonds
+
+        1               2                    3                4             5             6               7               8
+Face value of    Maturity date  Name of bond issuer       Date of    Proceeds of  Adjusted cost   Outlays and     Gain (or loss)
+                 YYYYMMDD                               acquisition  disposition                 expenses from  (column 5 minus
+    bonds                                              YYYYMMDD                        base        disposition  columns 6 and 7)
+                                                                          320
+      300        305                            307    310                              330             340              350
+
+                                                       Totals                                                                                                C
+
+Part 4 ­ Other properties (Do not include losses on depreciable property)
+
+                                   1                          2             3             4               5             6
+                 Description of other property            Date of    Proceeds of  Adjusted cost   Outlays and   Gain (or loss)
+                                                        acquisition  disposition                 expenses from  (column 3 minus
+                                  400                  YYYYMMDD                        base        disposition  columns 4 and 5)
+                                                                          420
+                                                             410                        430             440           450
+
+                                                       Totals                                                                                                D
+
+Other property includes capital debts, debts in respect of the disposition of a personal-use property per subsection 50(2), amounts that arise from foreign
+currency transactions, and capital gains (losses) allocated from partnerships and trusts.
+
+If you are a member of a partnership, include:
+
+­ under column 3 (line 420), any capital gain reported in boxes 151, 270, or 271 of the T5013 slips
+­ under column 4 (line 430), any capital loss reported in boxes 151, 270, or 271 of the T5013 slips
+
+If you are a beneficiary of a trust, include under column 3 (line 420) the amount reported in box 21 of the T3 slips.
+
+Part 5 ­ Personal-use property (Do not include listed personal property)
+
+                                        1                     2             3             4               5               6
+                 Description of personal-use property     Date of    Proceeds of  Adjusted cost   Outlays and        Gain only
+                                                        acquisition  disposition                 expenses from  (column 3 minus
+                                                       YYYYMMDD                        base        disposition  columns 4 and 5;
+                                                                                                                    if negative,
+                 500                                   510           520          530                   540          enter "0")
+
+                                                                                                                        550
+
+                                                       Totals                                                                                                E
+
+You cannot deduct losses on dispositions of personal-use property (other than listed personal property or a debt that is a personal-use property)
+from your income.
+
+T2 SCH 6 E (24)                                                                                                                                    Page 2 of 4
+                                                                                                                                      Protected B when completed
+
+Part 6 ­ Listed personal property                            2             3                             4                         5                                                                 6
+                                                         Date of    Proceeds of                  Adjusted cost             Outlays and                                                       Gain (or loss)
+                                     1                 acquisition  disposition                                           expenses from                                                    (column 3 minus
+             Description of listed personal property  YYYYMMDD                                        base                  disposition                                                    columns 4 and 5)
+
+                                    600               610                                620           630                       640                                                                 Note 1
+
+                                                                                                                                                                                                   650
+
+                                                      Totals
+
+Unapplied listed personal property losses from other years (amount from line 530 of Schedule 4,                                                                                     655
+Corporation Loss Continuity and Application) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Net gains (or losses) from the disposition of listed personal property (total of column 6 minus line 655) . . . . . . . . . . . . . . . . . . . . . . . . . .                                                F
+
+Net listed personal property losses can only be applied against listed personal property gains.
+
+Note 1: Do not include gains arising on the disposition of certain certified cultural property to a designated cultural institution.
+           See subparagraph 39(1)(a)(i.1) for more information.
+
+Part 7 ­ Property qualifying for and resulting in an allowable business investment loss
+
+                       1                   2                 3             4                             5                         6                                                               7
+Name of small business corporation     Shares,           Date of    Proceeds of                  Adjusted cost             Outlays and                                                         Loss only
+                                       enter 1;        acquisition  disposition                                           expenses from                                                    (column 4 minus
+                      900           debt, enter 2     YYYYMMDD                                        base                  disposition                                                    columns 5 and 6)
+                                                                         920
+                                           905              910                                        930                       940                                                             950
+
+                                                      Totals
+
+Allowable business investment losses (ABILs) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Total of Column 7              × 1/2 =                                                                G
+
+Enter amount G on line 406 of Schedule 1, Net Income (Loss) for Income Tax Purposes.
+
+Properties listed in Part 7 should not be included in any other parts of this schedule.
+
+Part 8 ­ Capital gains or losses
+
+Total of amounts A to F (do not include amount F if it is a loss) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                          H
+
+Capital gains dividend received in the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 875
+
+Capital gains reserve opening balance (from Part 1 of Schedule 13, Continuity of Reserves) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 880
+
+                                                                                         Subtotal (amount H plus total of lines 875 and 880)                                                                 I
+
+Capital gains reserve closing balance (from Part 1 of Schedule 13, Continuity of Reserves) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 885
+
+Capital gains or losses, excluding ABILs (amount I minus line 885) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 890
+
+T2 SCH 6 E (24)                                                                                                                                                                            Page 3 of 4
+                                                                                                                                                       Protected B when completed
+
+Part 9 ­ Taxable capital gains and total capital losses
+
+Capital gains or losses, excluding ABILs (amount from line 890 in Part 8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  J
+
+Deduct the following amounts included in amount J, that are subject to the zero inclusion rate Note 2:
+
+Gain on the donation to a qualified donee of a share, debt obligation, or right listed on a designated 895
+stock exchange and other securities under paragraphs 38(a.1)(i) and (iii) . . . . . . . . . . . . . . . . . . . . . . .
+
+Gain on the donation to a qualified donee of ecologically sensitive land under
+subsection 38(a.2) Note 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 896
+
+                                                         Subtotal (line 895 plus line 896)                                                                                   K
+
+                                                                                                                      Subtotal (amount J minus amount K)                     L
+
+Deemed capital gain from the donation of property included in a flow-through share class of
+property to a qualified donee under subsection 40(12):
+
+Exemption threshold at time of disposition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 897
+
+The total of all capital gains from the actual disposition of the property . . . . . . . . . . . . . . . . . . . . . . . . 898
+
+                                                                                                                      Line 897 or line 898, whichever is less                M
+
+Taxable capital gains under section 34.2 (line 275 of Schedule 73, Income Inclusion Summary                                                            × 2 = 899
+for Corporations that are Members of Partnerships) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                         Subtotal (total of amounts L and M plus line 899)                                                                   N
+
+Allowable capital losses under section 34.2 (line 285 of Schedule 73, Income Inclusion                                                                 × 2 = 901
+Summary for Corporations that are Members of Partnerships) . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                                                      Subtotal (amount N minus line 901)                     O
+
+Portion of the capital gain that is subject to a 100% inclusion rate per 100(1) Note 4 . . . . . . . . . .                                             × 2 = 902
+
+                                                         Total capital gains or losses (amount O plus line 902)                                                              P
+
+Taxable capital gains or total capital losses
+
+Total capital losses (if amount P is negative, enter amount P; if amount P is positive, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             Q
+
+Enter amount Q on line 210 of Schedule 4.
+
+Taxable capital gains (if amount P is positive, enter the result of amount P multiplied by 50%; if amount P is negative, enter "0") . . . . .                                R
+
+Enter amount R on line 113 of Schedule 1.
+
+Note 2: When a taxpayer is entitled to an advantage in respect of a donation, the zero inclusion rate is restricted to only that part of the taxpayer's capital gain
+           on disposition of the property that is attributable to the eligible amount of the donation. The amount of the gain attributable to any advantage (or benefit)
+           received in respect of the donation is subject to the ordinary capital gains inclusion rate. See section 38.2 for more information.
+
+Note 3: Do not include gains on donations of ecologically sensitive land to a private foundation.
+
+Note 4: Do not include any portion of the capital gain that is subject to the 50% inclusion rate. Enter any such portion in Part 4. If you are a member of a
+           partnership, include the amount reported in box 289 of the T5013 slip.
+
+T2 SCH 6 E (24)                                                                                                                                                              Page 4 of 4
+

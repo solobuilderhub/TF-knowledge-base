@@ -1,0 +1,78 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:wmh="http://www.wmhelp.com/2003/eGenerator"
+elementFormDefault="qualified">
+  <!--
+*******************************************************************
+ *
+ *    Produced by Treasury Board and Finance / Tax and Revenue Administration
+ *    for Alberta Corprate Income Tax Returns.
+ *
+ *    Version Number 0.09
+ *    November 19, 2010
+ ******************************************************************
+ -->
+  <xs:element name="ReturnSubmission">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Return"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Return">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ProgramCode"/>
+        <xs:element ref="Schedule" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ProgramCode" type="ProgramCode"/>
+  <xs:element name="Schedule">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Value" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="Number" type="ScheduleNumber" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Value">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="ValueString">
+          <xs:attribute name="LineItemID" type="LineItemID" use="required"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:simpleType name="ProgramCode">
+    <xs:restriction base="xs:string">
+      <xs:length value="2"/>
+      <xs:pattern value="[0-9]{2}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="LineItemID">
+    <xs:restriction base="xs:string">
+      <xs:length value="9"/>
+      <xs:pattern value="\w{3}[0-9]{6}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+
+  <xs:simpleType name="ValueString">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="175"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+
+
+  <xs:simpleType name="ScheduleNumber">
+    <xs:restriction base="xs:string">
+      <xs:length value="3"/>
+      <xs:pattern value="\w{3}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+</xs:schema>

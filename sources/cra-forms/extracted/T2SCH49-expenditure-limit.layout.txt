@@ -1,0 +1,88 @@
+                  Agreement Among Associated Canadian-Controlled Private Corporations                                                                                                                          Schedule 49
+                            to Allocate the Expenditure Limit (2024 and later tax years)
+                                                                                                                                                                                                                      Code 2401
+
+                                                                                                                                                                                                                 Protected B
+                                                                                                                                                                                                               when completed
+
+· Use this schedule to allocate the annual expenditure limit among associated Canadian-controlled private corporations (CCPCs), (subsection 127(10.2) of the
+
+  Income Tax Act), in order to calculate the investment tax credit eligible for the 35% rate on qualifying scientific research and experimental development
+  expenditures.
+
+· An associated CCPC that has more than one tax year ending in a calendar year is required to file an agreement for each tax year ending in that
+
+  calendar year.
+
+  Column 1: Enter the legal name of each corporation in the associated group, including CCPCs and non-CCPCs. Do not include corporations deemed not
+                   to be associated under subsection 127(10.22) of the ITA.
+
+  Column 2: Provide the business number for each corporation listed in column 1 (if a corporation is not registered, enter "NR").
+
+  Column 3: Enter "1" for CCPCs or "2" for non-CCPCs that applies for each corporation identified in columns 1 and 2.
+  Column 4: Enter the amount of the expenditure limit allocated to each corporation that has type of corporation code 1 in column 3. The rules for
+
+                   determining the expenditure limit that can be allocated (subsection 127(10.2) of the ITA) are explained below.
+
+Allocating the expenditure limit
+
+                                                                                                                                                                           Year                          Month Day
+
+Date filed (do not use this area). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 025
+
+                                                                                                                                                                                                   Year
+Enter the calendar year to which the agreement applies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 050
+
+Is this an amended agreement for the above-noted calendar year that is intended to replace                                                                          1 Yes                                2 No
+an agreement previously filed by any of the associated corporations listed below?. . . . . . . . . . . . . . . . . . . . . . . . 075
+
+                                         1                                     2                   3                                                                                                           4
+                  Names of associated corporations 1
+                                                                  Business number of               Type of                                                          Expenditure limit allocated 2
+                                                                associated corporations
+                                                                                                   corporation code                                                                                            $
+
+                  100                                           200                                300                                                                                                   400
+
+1.
+2.
+3.
+4.
+5.
+
+                                                              The expenditure limit (cannot be more than $3,000,000 3 or $6,000,000 4) 410
+  The expenditure limit is calculated as follows:
+
+ A = For taxation years ending after March 18, 2019, and taxation years beginning before December 16, 2024, the total of all taxable capital
+
+         employed in Canada by all associated corporations for their last tax year ending in the previous calendar year minus $10 million. If this amount is
+         negative, enter "0". If this amount is over $40 million, enter $40 million.
+
+      For taxation years beginning after December 15, 2024, the total of all taxable capital employed in Canada by all associated corporations for their
+      last tax year ending in the previous calendar year minus $15 million. If this amount is negative, enter "0". If this amount is over $60 million, enter $60
+      million.
+
+Amount A 495
+
+For taxation years ending after March 18, 2019 and beginning before December 16, 2024
+
+($3,000,000) × [($40,000,000 minus A) divided by $40,000,000)]
+
+For taxation years beginning after December 15, 2024
+
+($6,000,000) × [($60,000,000 minus A) divided by $60,000,000)]
+
+1 For the purposes of this agreement, association is determined in accordance with section 256, as modified by subsection 127(10.22) of the ITA,
+  where applicable.
+
+2 The expenditure limit allocated to a particular corporation cannot be more than the amount calculated under subsection 127(10.2) of the ITA for that
+  corporation's tax year ending in the calendar year. Special rules apply if a CCPC has more than one tax year ending in a calendar year and is
+  associated in more than one of those years with another CCPC that has a tax year ending in the same calendar year. In this case, the expenditure
+  limit for the second (and subsequent) tax year(s) will be equal to the expenditure limit allocated for the first tax year ending in the calendar year.
+
+3 For tax years beginning before December 16, 2024.
+
+4 For tax years beginning after December 15, 2024.
+
+T2 SCH 49 E (26)                                      (Ce formulaire est disponible en français.)
+

@@ -1,0 +1,172 @@
+                                                         ALBERTA INCOME/LOSS RECONCILIATION -
+                                                                                              AT1 SCHEDULE 12
+
+Protected B (when completed)                                                                          The Alberta Corporate Tax Act
+
+The Alberta Corporate Tax Act adopts most rules of the federal Income Tax Act for determining income and taxable income. However,
+some of the rules are elective and allow corporations to claim different amounts for Alberta purposes than they have for federal
+purposes. This results in different discretionary Alberta and federal tax account balances. The differences between the Alberta and
+federal resource tax regimes from 2003 onwards also lead to discretionary income federally and for Alberta purposes. If the
+corporation elects to differ its claim for Alberta purposes in the current year, if the opening balances for Alberta and federal
+purposes differ, or if the corporation has crown charges, Alberta Royalty Tax Credit claims or resource allowance in 2003 and
+onwards, then Schedule 12 MUST be completed and submitted with the applicable supporting Alberta schedule(s).
+Report all monetary amounts in dollars; DO NOT indicate cents. Show negative amounts in brackets ().
+
+Area A - Net Income for Alberta Corporate Income Tax Purposes
+
+Net Income (Loss) for federal purposes from T2 line 300                                 002
+
+Only specify the federal and Alberta amount of the items that are calculated differently for Alberta purposes or where the opening
+balance for Alberta purposes differs from the federal opening balance.
+If these amounts are the same, DO NOT indicate the amount for either federal or Alberta purposes.
+
+Capital Cost Allowance                    -  005  Federal Dollar Amount                -  004         Alberta Dollar Amount
+                                                                                       +  006
+Recapture of CCA                          +  007    Federal Schedule 1 line 403        -  008               Schedule 13 line 027
+                                                    Federal Schedule 1 line 107
+                                          -  009    Federal Schedule 1 line 404                             Schedule 13 line 023
+                                          +  015    Federal Schedule 1 line 224
+                                                                                                            Schedule 13 line 025
+                                                    Federal Schedule 1 line 309
+Terminal Loss                                       Federal Schedule 1 line 229        +  014
+                                                    Federal Schedule 1 line 313
+Farming Inventory:                                  Federal Schedule 1 line 344
+ - Mandatory inventory adjustment                   Federal Schedule 1 line 341
+                                                    Federal Schedule 1 line 340
+   included in current year                         Federal Schedule 1 line 345
+                                                    Federal Schedule 1 line 342
+- - Mandatory inventory adjustment         017     Federal Schedule 1 line 411         -  016
+ included in prior year                           + Federal Schedule 1 line 231
+                                                    Federal Schedule 1 line 125
+- Optional value of inventory             +  019    Federal Schedule 1 line 413        +  018
+ included in current year
+
+- Optional value of inventory             -  021                                       -  020
+ included in prior year
+
+                                          -  023                                       -  022         Schedule 15 lines 007 + 019 +031
+
+Depletion
+
+- Canadian Exploration Expenses (CEE)  027                                             -  026         Schedule 15 lines 061 + 081
+
+Canadian Development                      -  029                                       -  028         Schedule 15 lines 115 + 141
+Expenses (CDE)
+
+Foreign Exploration and                   -  031                                       -         030 Schedule 15 lines 209 +221 + I + R + JJ + SS
+Development Expenses
+
+Canadian Oil and gas Property             -  033                                       -  032         Schedule 15 lines 169 + 189
+Expenses (COGPE)
+
+                                                                                                      Schedule 16 line 016 OR line 20
+
+Scientific Research Expenses              -  035                                       -  034
+claimed in year
+
++ Tax reserves deducted in prior year      037                                         +  036         Schedule 17 line 091
+
+- Tax reserves claimed in current year     039                                         -  038         Schedule 17 line 081
+
+                                                                                       +  042         Capital tax liability in other provinces
+
+Capital Tax Liability in other provinces
+
+                                           041    + Fed Schedule 1 line 113 minus 406            040  + Schedule 18 line 076 + 094
+                                                  + Fed Schedule 1 other Additions                    + Schedule 15 AREAs C, D, F, G & H
+                                                   Fed Schedule 21 Part 1 column D                     ACTA subsection 8 (2.2) deduction
+                                                   Fed Schedule 1 line 218                            + Foreign affiliate property income
+
+                                                                                                        after ITA s.152(6.1) adjustment
+
+Other - Attach supporting schedule
+
+                                  Total     050                                          Total  052
+                               Federal                                                 Alberta
+                               Amount:                                                 Amount:
+
+Net Income (Loss) for Alberta purposes: Line 002 - line 050 + line 052                           054
+
+If amount in Line 040, provide explanation:  048
+
+TRA11732 (AT112) Rev. 2026-03 Form authorized and prescribed by the President of Treasury Board and Minister of Finance AT1 Schedule 12 Page 1 of 2
+Report all monetary amounts in dollars; Do Not include cents.  CAN:                                          Taxation
+Show negative amounts in brackets ( ).                                                                       Year Ending:
+
+Area B - Taxable Income for Alberta
+
+For this section, all of the following items that determine taxable income must be specified. If the opening balance or the claim for the
+current year for donations, gifts or losses are different for Alberta purposes than for federal purposes, complete the applicable Alberta
+schedule(s) and enter the amount from those schedule(s) below. Otherwise, enter the amounts from the federal T2 for these items and
+any other applicable line items.
+
+                                                                     Federal                                               Alberta
+
+Net Income (Loss) for carried forward from page 1: 002                                                       054
+
+Deduct:                                                        Federal Dollar Amount of Deduction Alberta Dollar Amount of Deduction
+
+Charitable Donations                                            057  T2 line 311                              056          Schedule 20 line 016
+Gifts to Canada or a province, cultural gifts and
+ecological gifts                                                059  T2 line 312 + 313 +314                   058          Schedule 20 line 076
+Taxable dividends deductible under ITA section 112,
+113 or 138(6)                                                   061  T2 line 320                              060          T2 line 320
+
+Part VI.1 tax deduction                                         063  T2 line 325                              062          T2 line 325
+
+Non-capital losses of preceding taxation years                  065  T2 line 331                              064          Schedule 21 line 041
+
+Net-capital losses of preceding taxation years                  067  T2 line 332                              066 Schedule 21 line 061 x Inclusion Rate
+
+Restricted farm losses of preceding taxation years              069  T2 line 333                              068          Schedule 21 line 099
+
+Farm losses of preceding taxation years                         071  T2 line 334                              070          Schedule 21 line 079
+Limited partnership losses of preceding
+taxation years                                                  073  T2 line 335                              072  Schedule 21 total of column 139
+
+Restricted interest and financing expenses                      131  T2 line 336                              130          Schedule 21 line 240
+Taxable capital gains or taxable dividends allocated
+from a central credit union                                     075  T2 line 340                              074          T2 line 340
+
+Prospector's and grubstaker's shares                            079  T2 line 350                              078          T2 line 350
+
+Employer deduction for non-qualified securities                 141  T2 line 352                              140          T2 line 352
+
+                                                     Subtotal: 081                                           080
+
+Add: ITA section 110.5 and/or subparagraph                      083  T2 line 335                              082          Schedule 21 line 0017
+115(1)(a)(vii) additions
+
+Taxable Income for Federal purposes or (Loss)                   091
+Lines 002 - 081 + 083
+
+If there is an amount at line 083 and line 002 - line 081 is negative, then line 091 must equal line 083
+
+Taxable Income for Alberta purposes or (Loss) Lines 054 - 080 + 082                                           090
+If there is an amount at line 082 and line 054 - line 080 is negative, then line 090 must equal line 082
+
+Enter this amount on AT1 page 2, line 062
+
+Reconciliation of Active Business Income (ABI):                                                                             100 Yes No
+
+Does the corporation's calculation of ABI for Alberta purposes differ from its federal ABI?
+If "Yes", complete the following to reconcile the two amounts
+
+Active Business Income from Federal Schedule 7, the calculate value* of amount "Q" or federal  102
+
+Schedule 16, line 124
+
+*If the calculated amount is negative, enter the negative amount in brackets (). If this includes specified   104
+partnership income, ensure the correct Alberta small business threshold is used.
+
+Adjustment to ABI for Alberta purposes due to discretionary items
+Show negative amount in brackets ().
+
+Active Business Income for Alberta purpose (ABI)                                                             106
+
+Line 102 + 104 (if negative, enter "0")
+
+This amount is to be used for Schedule 1, line 003.
+
+TRA11732 (AT112) Rev. 2026-03 Form authorized and prescribed by the President of Treasury Board and Minister of Finance AT1 Schedule 12 Page 2 of 2
+

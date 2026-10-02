@@ -1,0 +1,99 @@
+line	caption
+001	Does the corporation have received capacity as defined in subsection 18.2(1) in the year?
+006	Has the corporation incurred any amounts for a borrowing or other financing that are exempt IFE as defined in subsection 18.2(1)?
+022	income or included in (column 3 minus column 4
+027	An amount (other than excluded interest, deemed interest under subsection 137(4.1), or an amount included in any other line below), that is, Interest paid or payable on a borrowing or other financing (excluding shares) (amount A from Part 1C)
+028	Interest paid or payable – other
+029	An amount that, on the assumption that it is not deductible under another section, would be deductible under subparagraphs 20(1)(e)(ii), 20(1)(e)(ii.1), 20(1)(e)(ii.2) and paragraphs 20(1)(e.1), 20(1)(e.2) and 20(1)(f)
+030	Capital cost allowance (CCA) (amount B from Part 2B)
+031	Resource expenses (amount A from Part 2C)
+032	Terminal loss (amount A from Part 2B)
+033	Paid or payable that is deductible in the tax year (other than under subparagraph 20(1)(e)(i)) (amount B from Part 1C)
+034	A loss that is deductible in the tax year (other than under subparagraph 20(1)(e)(i))
+035	A capital loss that reduces the amount determined under paragraph 3(b) or deducted when calculating the corporation's taxable income for the tax year
+036	An amount being included in IFE – under paragraph (e) of variable A of the definition of IFE
+037	An amount that reduces the IFE for the year under variable B of the definition of IFE
+038	A lease financing amount (other than an excluded lease and excluded interest)
+039	The corporation's share of the IFE of a partnership it is a member of (amount A from Part 1E)
+040	The portion of an amount claimed under paragraph 111(1)(e) that was denied under subsection 96(2.1) in a preceding tax year that is attributable to IFE
+042	Received or receivable (other than as a dividend or exempt IFE) included in computing the corporation's income for the year (amount C from Part 1C)
+043	A gain included in the corporation's income for the year
+044	Total of lines 042 to
+058	Interest received or receivable (other than excluded interest, deemed interest under subsection 137(4.1), or an amount included in any of the other lines in Part 2D)
+059	Amount included in the income because of subsection 12(9) or section 17.1 (other than an amount included in any of the other lines in Part 2D)
+060	Fee or similar amount in respect of a guarantee or a similar credit support for the payment of any amount on a debt obligation owing by another person or partnership that is included in computing the corporation's income for the year (other than an amount included in any of the other lines in Part 2D)
+061	Received or receivable (other than as a dividend) included in computing the corporation's income for the year (amount A from Part 1D)
+062	A gain included in the corporation's income for the year
+063	A lease financing amount (other than a lease that would meet the definition of an excluded lease in subsection 18.2(1), if that definition were read without regard to paragraph (a)) that is included in income, that is not excluded interest for the year
+065	Amount that is a CFA's relevant affiliate interest and financing revenues, to the extent of the corporation's specified participating percentage in respect of the affiliate for the affiliate tax year, less any deduction in respect of foreign accrual tax
+066	An amount paid or payable (other than a loss or capital loss) that is deductible in computing the corporation's income for the year (amount B from Part 1D)
+067	A loss that is deductible in computing the corporation's income for the year
+068	A capital loss that reduces the amount determined under paragraph 3(b) for the tax year
+070	An amount otherwise included in the corporation's IFR (amount A), to the extent the amount is sheltered from Canadian tax by virtue of a credit or deduction in respect of foreign taxes, other than a credit or deduction in respect of foreign withholding taxes
+071	Amounts included in amount A of Part 2D that are exempt from tax under Part I of the Income Tax Act
+072	Total IFR. Amount A minus amount B. If negative, enter "0". (enter on line 096 in Part 2F, line 109 in Part 2G, line 121 in Part 2H and line 135 in Part 2K.)
+076	adjusted taxable income
+079	Variable A If corporation is a non-resident, the corporation's taxable income earned in Canada (determined without regard to subsection 18.2(2), paragraphs 12(1)(l.2) and 111(1)(a.1)). In any other case, the corporation's taxable income (determined without regard to subsection 18.2(2), paragraphs 12(1)(l.2) and 111(1)(a.1) and clause 95(2)(f.11)(ii)(D))
+081	Total of all amounts determined under paragraph (b) of variable E of the ATI for CFAs of the corporation
+082	corporation is a member
+083	The corporation's IFE for the year (line 045 from Part 2A)
+084	Amounts deducted when calculating income under paragraphs 20(1)(a) and 59.1(a), subsections 66(4), 66.1(2) or (3), 66.2(2), 66.21(4), 66.4(2), or 66.7(1), (2), (2.3), (3), (4) or (5), other than any portion already included in IFE
+085	Terminal loss deducted under subsection 20(16) when calculating income for the year, other than any portion already included in IFE
+086	The corporation's share of the CCA or terminal loss of a partnership it is a member of (other than the portion that is already included in IFE), minus the portion of the amount that is not deductible when calculating the corporation's income or non-capital loss for the year because of subsection 96(2.1)
+087	If an amount has been deducted under paragraph 111(1)(e), the portion of the amount deducted that can reasonably be considered to be attributable to the CCA or terminal loss of a partnership (other than any portion that has been included in IFE)
+088	Amount deducted under paragraph 110(1)(k) when calculating taxable income for the year
+089	The portion of non-capital loss being deducted under paragraph 111(1)(a) that can reasonably be considered to be derived from IFE (amount A from Part 2E)
+090	25% of the amount deducted for a specified pre-regime loss under paragraph 111(1)(a) (see note 4)
+091	Additional amount, if any, that would be included in the corporation's income, in respect of a CFA or a CFA of a partnership of which the corporation or a CFA of the corporation is a member of, if the affiliate's foreign accrual property income (FAPI) was increased by an amount determined by the formula L x M/N contained in paragraph (j) of variable B of the definition of the ATI
+092	The corporation's loss if it had no income or loss other than a loss that can reasonably be considered to be from activities funded by a borrowing that results in exempt IFE (amount C from Part 1B)
+093	The corporation's share of the loss of a partnership it is a member of, if the partnership had no income or loss other than a loss that can reasonably be considered to be from activities funded by a borrowing that results in exempt IFE
+095	An amount described in clause 12(1)(x)(i)(C) or subparagraph 12(1)(x)(ii) that the corporation received, to the extent it reduces the cost or capital cost of property and is not included when calculating the corporation's income of the year under subparagraph 12(1)(x)(vi) or (vii)
+096	Variable C IFR of the corporation for the year (line 072 from Part 2D)
+097	Recaptured depreciation amount under subsection 13(1)
+098	The corporation's share of the recaptured depreciation amount of a partnership of which it is a member
+099	Amount included under subsection 59(1) or (3.2) or paragraph 59.1(b) in computing income for the year
+100	Foreign-source income, to the extent it is sheltered from Canadian tax by foreign tax credits under subsection 126(1) or (2)
+101	Amount included under section 110.5 in computing the corporation's taxable income for the year
+102	Amount included in income of the corporation under subsection 104(13), less any portion designated under subsection 104(19) or any amount that gives rise to a deduction under paragraph 94.2(3)(a) in computing FAPI
+103	Amount of taxable income for the year that is not, because of an Act of Parliament, subject to tax under Part I of the Income Tax Act
+104	Income of the corporation if it had no income or loss other than income that can reasonably be considered to derive from activities funded by a borrowing that results in exempt IFE (amount B from Part 1B)
+105	Corporation's share of the income or loss of a partnership of which it is a member, if the partnership had no income or loss other than income that can reasonably be considered to derive from activities funded by a borrowing that results in exempt IFE
+107	ATI of the corporation for the year (line 106 from Part 2F)
+108	The ratio of permissible expenses of the corporation for the year
+109	IFR of the corporation for the year (line 072 from Part 2D)
+110	The amount by which the IFR exceeds the IFE for the year. If negative, enter "0"
+111	If, in the absence of section 257, the ATI is a negative amount, the absolute value of ATI, otherwise nil
+112	The ratio of permissible expenses of the corporation for the year
+113	The corporation's IFE for the year (line 045 from Part 2A)
+114	The restricted interest and financing expenses deductible under paragraph 111(1)(a.1) for the year (amount B from Part 2J)
+116	Cumulative unused excess capacity determined as if the absorbed capacity for the year were nil (amount B in Part 2I)
+117	The corporation's IFE for the year (line 045 in Part 2A)
+118	If the corporation has made a group ratio election under subsection 18.21(2), the allocated group ratio amount
+119	If it has not made a group ratio election, the ATI (line 106 from Part 2F)
+120	Ratio of permissible expenses for the year
+121	The corporation's IFR for the year (line 072 from Part 2D)
+126	Excess capacity for the year (line 115 from Part 2G)
+127	Absorbed capacity (amount D from Part 2H)
+128	RIFE from previous tax years
+129	Corporation's excess capacity for the year if the amount determined for C in that definition were nil (amount F from Part 2G)
+130	Total of all amounts of the corporation's received capacity for the year (amount A from Part 1A)
+131	The corporation's IFE for the year (line 045 from Part 2A)
+133	If no group ratio election has been made, the ATI (line 106 from Part 2F)
+134	Ratio of permissible expenses
+135	The corporation's IFR for the year (line 072 from Part 2D)
+136	Received capacity for the year (amount A from Part 1A)
+137	RIFE deductible under paragraph 111(1)(a.1) for the year (amount B from Part 2J)
+138	Absorbed capacity amount for the year (amount D from Part 2H)
+139	Variable A of IFE (amount A from Part 2A)
+140	Variable A of IFE, adjusted to remove any amounts that are part of a CFA's relevant affiliate interest and financing expenses under variable B of IFE
+141	Variable A of IFE (amount A from Part 2A)
+142	Total of the amounts determined under paragraph (h) of variable A of IFE (amount A from Part 1E)
+143	Total of the amounts determined under paragraph (j) of variable A of IFE (line 041 from Part 2A)
+150	Total of column 6 (enter on line 161 in Part 2O)
+155	Total of column 4 (enter on line 162 in Part 2O)
+156	Total of all amounts included under paragraph (h) of variable A of corporation's IFE (amount A from Part 1E)
+157	Ratio determined under subsection 18.2(2) (amount G from Part 2K)
+159	Excess IFE under subsection 18.2(2) (amount B from Part 2L)
+160	Partnership IFE add-back under paragraph 12(1)(l.2) (line 158 from Part 2N)
+161	Amount determined under subclause 95(2)(f.11)(ii)(D)(I) (line 150 from Part 2M)
+162	Amount determined under subclause 95(2)(f.11)(ii)(D)(II) (line 155 from Part 2M)

@@ -1,0 +1,9 @@
+line	caption
+100	Total taxable dividends paid in the tax year
+150	Total eligible dividends paid in the tax year
+160	GRIP at the end of the tax year (line 590 of Schedule 53) (if negative, enter "0")
+180	Excessive eligible dividend designations elected under subsection 185.1(2) to be treated as ordinary dividends
+190	Part III.1 tax on excessive eligible dividend designations – CCPC or DIC (amount B multiplied by 20%)
+200	Total taxable dividends paid in the tax year
+280	Excessive eligible dividend designations elected under subsection 185.1(2) to be treated as ordinary dividends
+290	Part III.1 tax on excessive eligible dividend designations – Other corporations (amount D multiplied by 20%)

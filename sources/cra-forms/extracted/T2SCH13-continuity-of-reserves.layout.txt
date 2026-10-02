@@ -1,0 +1,54 @@
+                                                          Continuity of Reserves                                                               Schedule 13
+                                                         (2011 and later tax years)                                                                  Code 1102
+
+                                                                                                       Business number                          Protected B
+                                                                                                                                              when completed
+
+Name of corporation                                                                                                                     Tax year end
+
+                                                                                                                                        Year  Month Day
+
+· For use by corporations to provide a continuity of all reserves claimed which are allowed for tax purposes.
+· File one completed copy of this schedule with the corporation's T2 Corporation Income Tax Return.
+· For more information, see the T2 Corporation Income Tax Guide.
+
+Part 1 ¦ Capital gains reserves
+
+                     Description of property                 Balance at the                                         Transfer on an      Balance at the end of
+                                 001                     beginning of the year                                  amalgamation or the             the year
+                                                                                                               wind-up of a subsidiary
+                                                                      $                                                                              $
+                                                                    002                                                      $                     004
+
+                                                                                                                           003
+
+                                                         Totals 008                                            009                      010
+
+The amount from line 008 plus the amount from line 009 should be entered on line 880 of Schedule 6, Summary of Dispositions of Capital Property.
+The amount from line 010 should be entered on line 885 of Schedule 6.
+
+Part 2 ¦ Other reserves
+
+                     Description                                     Balance at the                                     Transfer on an  Balance at the end of
+
+                                                         beginning of the year amalgamation or the                                            the year
+
+                                                                                                               wind-up of a subsidiary
+
+Reserve for doubtful debts                                                        $                                           $                        $
+Reserve for undelivered goods and services not rendered
+Reserve for prepaid rent                                          110                                          115                      120
+Reserve for returnable containers                                 130                                          135                      140
+Reserve for unpaid amounts                                        150                                          155                      160
+Other tax reserves                                                190                                          195                      200
+                                                                  210                                          215                      220
+                                                                  230                                          235                      240
+                                                         Totals 270                                            275                      280
+
+The amount from line 270 plus the amount from line 275 should be entered on line 125 of Schedule 1, Net Income (Loss) for Income Tax Purposes, as an
+addition.
+
+The amount from line 280 should be entered on line 413 of Schedule 1 as a deduction.
+
+T2 SCH 13 E (22)                                         (Ce formulaire est disponible en français.)
+

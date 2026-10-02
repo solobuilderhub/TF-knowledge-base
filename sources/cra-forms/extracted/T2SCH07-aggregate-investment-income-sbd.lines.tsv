@@ -1,0 +1,40 @@
+line	caption
+002	Eligible portion of taxable capital gains for the year
+012	Eligible portion of allowable capital losses for the year (including allowable business investment losses)
+032	carried on in Canada other than income from a source outside Canada)
+042	Exempt income
+052	Amounts received from AgriInvest Fund No. 2 that were included in computing the corporation's income for the year
+062	Taxable dividends deductible (amount deductible under paragraph 113(1)(c) plus total of column F on Schedule 3, Dividends Received, Taxable Dividends Paid, and Part IV Tax Calculation minus related expenses)
+072	Business income from an interest in a trust that is considered property income under paragraph 108(5)(a)
+082	other than a loss from a source outside Canada)
+092	Amount E minus line 082 (if negative, enter "0") (enter on line 440 of the T2 return)
+705	Eligible portion of taxable capital gains for the year (other than taxable capital gains from the disposition of an active asset 13 )
+710	Eligible portion of allowable capital losses for the year (including allowable business investment losses) (other than allowable capital losses from the disposition of an active asset 13 )
+715	Total income from property 14
+720	Exempt income
+725	Amounts received from AgriInvest Fund No. 2 that were included in computing the corporation's income for the year
+730	Dividends from connected corporations
+735	Business income from an interest in a trust that is considered property income under paragraph 108(5)(a)
+740	Total losses from property 14
+741	Amount, if any, deducted under subsection 91(4) in computing the corporation's income for the year
+745	Adjusted aggregate investment income (amount I minus line 740, plus line 741) (if negative, enter "0")
+001	Eligible portion of taxable capital gains for the year
+009	Eligible portion of allowable capital losses for the year (including allowable business investment losses)
+019	Total income from property from a source outside Canada (net of related expenses)
+029	Exempt income
+059	Business income from an interest in a trust that is considered property income under paragraph 108(5)(a)
+069	Total losses from property from a source outside Canada
+079	Amount M minus line 069 (if negative, enter "0") (enter on line 445 of the T2 return)
+350	Total
+385	Total
+370	Corporation's losses for the year from an active business carried on in Canada (other than as a member of a partnership) – enter as a positive amount
+380	Specified partnership loss of the corporation for the year – enter as a positive amount (total of all negative amounts in column F1)
+390	Amount at line 385 or amount N, whichever is less
+400	Specified partnership income (line 360 plus line 390)
+450	Partnership income not eligible for the small business deduction (amount Q minus amount R)
+500	Foreign business income after deducting related expenses 9
+520	Personal services business income and other income after deducting related expenses 9
+530	Partnership income allocated to your corporation under subsection 96(1.1)
+540	Income referred to in clause 125(1)(a)(i)(C)
+600	column EE 11
+615	Total

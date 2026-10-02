@@ -1,0 +1,69 @@
+                    Part III.1 Tax on Excessive Eligible Dividend Designations                                                                                                          Schedule 55
+                                           (2006 and later tax years)                                                                                                                        Code 0606
+
+                                                                                                                                                                                         Protected B
+                                                                                                                                                                                       when completed
+
+Corporation's name                                            Business number                                                                                                          Tax year-end
+
+                                                                                                                                        Year                                           Month Day
+
+· Every corporation resident in Canada that pays a taxable dividend (other than a capital gains dividend within the                     Do not use this area
+  meaning assigned by subsection 130.1(4) or 131(1)) in the tax year must file this schedule.
+
+· Canadian-controlled private corporations (CCPC) and deposit insurance corporations (DIC) must complete
+  Part 1 of this schedule. All other corporations must complete Part 2.
+
+· Every corporation that has paid an eligible dividend must also file Schedule 53, General Rate Income Pool (GRIP)
+  Calculation, or Schedule 54, Low Rate Income Pool (LRIP) Calculation, whichever is applicable.
+
+· File the schedules with your T2 Corporation Income Tax Return no later than six months from the end of the
+  tax year.
+
+· All legislative references are to the Income Tax Act and the Income Tax Regulations.
+
+· Subsection 89(1) defines the terms eligible dividend, excessive eligible dividend designation, general rate income pool,
+  and low rate income pool.
+
+· The calculations in Part 1 and Part 2 do not apply if the excessive eligible dividend designation arises from the application of paragraph (c)
+  of the definition of excessive eligible dividend designation in subsection 89(1). This paragraph applies when an eligible dividend is paid to
+  artificially maintain or increase the GRIP or to artificially maintain or decrease the LRIP.
+
+Part 1 ­ Canadian-controlled private corporations and deposit insurance corporations
+
+Total taxable dividends paid in the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+
+Total eligible dividends paid in the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+
+GRIP at the end of the tax year (line 590 of Schedule 53) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+
+Excessive eligible dividend designation (line 150 minus line 160) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                            A
+
+Excessive eligible dividend designations elected under subsection 185.1(2) to be treated as ordinary dividends *. . . . . . . . . . . . 180
+
+                                                              Subtotal (amount A minus line 180)                                                                                                     B
+
+Part III.1 tax on excessive eligible dividend designations ­ CCPC or DIC (amount B multiplied by 20%). . . . . . . . . . . . . . . 190
+
+Enter the amount from line 190 on line 710 of the T2 return.
+
+Part 2 ­ Other corporations
+
+Total taxable dividends paid in the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+
+Total excessive eligible dividend designations in the tax year (amount A of Schedule 54) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                         C
+
+Excessive eligible dividend designations elected under subsection 185.1(2) to be treated as ordinary dividends *. . . . . . . . . . . . 280
+
+                                                              Subtotal (amount C minus line 280)                                                                                                     D
+
+Part III.1 tax on excessive eligible dividend designations ­ Other corporations (amount D multiplied by 20%) . . . . . . . . . 290
+
+Enter the amount from line 290 on line 710 of the T2 return.
+
+* You can elect to treat all or part of your excessive eligible dividend designation as a separate taxable dividend in order to eliminate or reduce the Part III.1 tax
+  otherwise payable. You must file the election on or before the day that is 90 days after the day the notice of assessment for Part III.1 tax was sent. We will
+  accept an election before the assessment of the tax.
+
+T2 SCH 55 E (19)                                              (Ce formulaire et disponible en français.)
+

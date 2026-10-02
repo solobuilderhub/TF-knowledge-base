@@ -1,0 +1,30 @@
+
+
+w14:paraId="226E9ABC" w14:textId="38B58E2C" w:rsidR="003E6AC7" w:rsidRDefault="00616BC9">Alberta Test Case #2 for AT1
+w14:paraId="4BA63233" w14:textId="5822E0C4" w:rsidR="003E6AC7" w:rsidRDefault="00187880" w:rsidP="003E7335">Change TYB to January 1, 2024, and TYE to December 31, 2024. This test case is a $NIL Alberta return filed for the purposes of claiming Alberta IEG [Alberta Schedule 29 and AT1 line 129] only. 
+w14:paraId="672A6659" w14:textId="77777777" w:rsidR="003E6AC7" w:rsidRDefault="003E6AC7">
+w14:paraId="63281FCC" w14:textId="77777777" w:rsidR="003E6AC7" w:rsidRDefault="003E6AC7">Additional Alberta Information: 
+w14:paraId="56240FA6" w14:textId="77777777" w:rsidR="003E6AC7" w:rsidRDefault="003E6AC7" w:rsidP="003E7335">Alberta corporate account number: Select from list of CANs provided
+w14:paraId="0A37501D" w14:textId="77777777" w:rsidR="003E6AC7" w:rsidRDefault="003E6AC7">
+w14:paraId="7AD208F4" w14:textId="77777777" w:rsidR="00D441D6" w:rsidRDefault="00700FDE" w:rsidP="00D441D6">Qualified Corporation 
+w14:paraId="5DAB6C7B" w14:textId="77777777" w:rsidR="00700FDE" w:rsidRPr="00700FDE" w:rsidRDefault="00700FDE" w:rsidP="00700FDE">
+w14:paraId="52E34B01" w14:textId="5003191A" w:rsidR="003F35C9" w:rsidRPr="003F35C9" w:rsidRDefault="003F35C9" w:rsidP="003F35C9">The corporation’s taxation year begins January 1, 2024 and ends December 31, 2024.
+w14:paraId="74C13F33" w14:textId="77777777" w:rsidR="003F35C9" w:rsidRPr="003F35C9" w:rsidRDefault="003F35C9" w:rsidP="003F35C9">The corporation is a Canadian-controlled private corporation that is associated with another corporation for the purposes of the IEG.
+w14:paraId="34A27F90" w14:textId="1C67E02F" w:rsidR="003F35C9" w:rsidRPr="003F35C9" w:rsidRDefault="003F35C9" w:rsidP="003F35C9">The corporation had federal qualified SR&amp;ED expenditures of $1,000,000 during the taxation year ended December 31, 2024, as reported on line 559 of federal Form T661 for that year before deducting the IEG as provincial government assistance on federal line 513. Of this amount, $400,000 was eligible expenditures in respect of SR&amp;ED carried out in Alberta, and the balance of $600,000 was incurred in Ontario.
+w14:paraId="590490DA" w14:textId="1988D378" w:rsidR="003F35C9" w:rsidRPr="003F35C9" w:rsidRDefault="003F35C9" w:rsidP="003F35C9">The corporation had eligible expenditures of $300,000 in respect of SR&amp;ED carried out in Alberta during the first preceding taxation year ended December 31, 2023.
+w14:paraId="1F35D75C" w14:textId="33F4E94C" w:rsidR="003F35C9" w:rsidRPr="003F35C9" w:rsidRDefault="003F35C9" w:rsidP="003F35C9">The corporation had eligible expenditures of $200,000 in respect of SR&amp;ED carried out in Alberta during the second preceding taxation year ended December 31, 2022.
+w14:paraId="6F93A7EE" w14:textId="00E07153" w:rsidR="003F35C9" w:rsidRPr="003F35C9" w:rsidRDefault="003F35C9" w:rsidP="003F35C9">The corporation paid total salaries and wages of $100,000 in respect of SR&amp;ED carried out in Alberta during the taxation year ended December 31, 2024.
+w14:paraId="0E9E488E" w14:textId="77777777" w:rsidR="003F35C9" w:rsidRPr="003F35C9" w:rsidRDefault="003F35C9" w:rsidP="003F35C9">The corporation used the prescribed proxy method for federal tax purposes.
+w14:paraId="6952230F" w14:textId="00C85DB0" w:rsidR="003F35C9" w:rsidRPr="003F35C9" w:rsidRDefault="003F35C9" w:rsidP="003F35C9">The corporation had taxable capital employed in Canada of $12,000,000 for the taxation year ended December 31, 2023, as reported on line 690 of federal Form T2 SCH 33 for that year.
+w14:paraId="02EB378F" w14:textId="77777777" w:rsidR="00D441D6" w:rsidRDefault="00D441D6" w:rsidP="00700FDE">
+w14:paraId="6A05A809" w14:textId="77777777" w:rsidR="003E6AC7" w:rsidRDefault="003E6AC7"/>
+w14:paraId="5CBAB174" w14:textId="77777777" w:rsidR="00254E9E" w:rsidRDefault="00254E9E" w:rsidP="00254E9E">Associated Corporation
+w14:paraId="5A39BBE3" w14:textId="77777777" w:rsidR="00700FDE" w:rsidRPr="00700FDE" w:rsidRDefault="00700FDE" w:rsidP="00700FDE">
+w14:paraId="575A4EA6" w14:textId="336AF10D" w:rsidR="003F35C9" w:rsidRPr="003F35C9" w:rsidRDefault="003F35C9" w:rsidP="003F35C9">The associated corporation’s taxation year begins July 1, 2023 and ends June 30, 2024, and the associated corporation has a permanent establishment in Alberta.
+w14:paraId="3E882A98" w14:textId="57818F1F" w:rsidR="003F35C9" w:rsidRPr="003F35C9" w:rsidRDefault="003F35C9" w:rsidP="003F35C9">The associated corporation had eligible expenditures of $400,000 in respect of SR&amp;ED carried out in Alberta during the taxation year ended June 30, 2024.
+w14:paraId="08D6DF77" w14:textId="42123D8B" w:rsidR="003F35C9" w:rsidRPr="003F35C9" w:rsidRDefault="003F35C9" w:rsidP="003F35C9">The associated corporation had eligible expenditures of $150,000 in respect of SR&amp;ED carried out in Alberta during the first preceding taxation year ended June 30, 2023.
+w14:paraId="36478E54" w14:textId="7F471C11" w:rsidR="003F35C9" w:rsidRPr="003F35C9" w:rsidRDefault="003F35C9" w:rsidP="003F35C9">The associated corporation had eligible expenditures of $100,000 in respect of SR&amp;ED carried out in Alberta during the second preceding taxation year ended June 30, 2022.
+w14:paraId="722C0BE6" w14:textId="4FF68647" w:rsidR="003F35C9" w:rsidRPr="003F35C9" w:rsidRDefault="003F35C9" w:rsidP="003F35C9">The associated corporation had taxable capital employed in Canada of $13,000,000 for the taxation year ended June 30, 2023, as reported on line 690 of federal Form T2 SCH 33 for that year.
+w14:paraId="41C8F396" w14:textId="77777777" w:rsidR="00254E9E" w:rsidRDefault="00254E9E" w:rsidP="00AF6BC8"/>
+w14:paraId="72A3D3EC" w14:textId="77777777" w:rsidR="003E6AC7" w:rsidRDefault="003E6AC7">
+w14:paraId="46B771C9" w14:textId="704F56A0" w:rsidR="003E6AC7" w:rsidRPr="007654D7" w:rsidRDefault="003E6AC7">

@@ -1,0 +1,192 @@
+                    Taxable Capital Employed in Canada ­ Large Corporations                                                                                 Schedule 33
+                                            (2014 and later tax years)
+                                                                                                                                                                   Code 1402
+                                                                                                                              Business number
+                                                                                                                                                              Protected B
+                                                                                                                                                            when completed
+
+Corporation's name                                                                                                                                    Year  Tax year-end
+                                                                                                                                                            Month Day
+
+· Use this schedule in determining if the total taxable capital employed in Canada of the corporation (other than a financial institution or an insurance
+  corporation) and its related corporations is greater than $10,000,000.
+
+· If the total taxable capital employed in Canada of the corporation and its related corporations is greater than $10,000,000, file a completed Schedule 33 with
+  your T2 Corporation Income Tax Return no later than six months from the end of the tax year.
+
+· Unless otherwise noted, all legislative references are to the Income Tax Act and the Income Tax Regulations.
+
+· Subsection 181(1) defines the terms financial institution, long-term debt, and reserves.
+
+· Subsection 181(3) provides the basis to determine the carrying value of a corporation's assets or any other amount under Part I.3 for its capital, investment
+  allowance, taxable capital, or taxable capital employed in Canada, or for a partnership in which it has an interest.
+
+· If the corporation was a non-resident of Canada throughout the year and carried on a business through a permanent establishment in Canada, go to Part 4,
+  Taxable capital employed in Canada.
+
+Part 1 ­ Capital
+
+Add the following year-end amounts:
+   Reserves that have not been deducted in calculating income for the year under Part I . . . . . . . . 101
+   Capital stock (or members' contributions if incorporated without share capital) . . . . . . . . . . . . . . 103
+   Retained earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+   Contributed surplus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+   Any other surpluses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
+   Deferred unrealized foreign exchange gains . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
+   All loans and advances to the corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108
+
+All indebtedness of the corporation represented by bonds, debentures, notes, mortgages,
+hypothecary claims, bankers' acceptances, or similar obligations . . . . . . . . . . . . . . . . . . . . . . . . 109
+Any dividends declared but not paid by the corporation before the end of the year . . . . . . . . . . . 110
+
+All other indebtedness of the corporation (other than any indebtedness for a lease) that has
+been outstanding for more than 365 days before the end of the year . . . . . . . . . . . . . . . . . . . . . . 111
+
+The total of all amounts, each of which is the amount, if any, in respect of a partnership in which
+the corporation held a membership interest at the end of the year, either directly or indirectly
+through another partnership (see note below) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+
+                    Subtotal (add lines 101 to 112)                                                                                                                       A
+
+Note:
+
+Line 112 is determined by the formula (A ­ B) x C/D (as per paragraph 181.2(3)(g)) where:
+
+    A is the total of all amounts that would be determined for lines 101, 107, 108, 109, and 111 in respect of the partnership for its last fiscal period that
+       ends at or before the end of the year if
+         (a) those lines applied to partnerships in the same manner that they apply to corporations, and
+
+         (b) those amounts were computed without reference to amounts owing by the partnership
+
+              (i) to any corporation that held a membership interest in the partnership either directly or indirectly through another partnership, or
+
+             (ii) to any partnership in which a corporation described in subparagraph (i) held a membership interest either directly or indirectly through
+                  another partnership.
+
+    B is the partnership's deferred unrealized foreign exchange losses at the end of the period,
+
+    C is the share of the partnership's income or loss for the period to which the corporation is entitled either directly or indirectly through another
+       partnership, and
+
+    D is the partnership's income or loss for the period.
+
+T2 SCH33 E (15)     (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca/formulaires ou en composant le 1-800-959-7775.) Page 1 of 3
+                                                                                                                                       Protected B when completed
+
+Part 1 ­ Capital (continued)
+
+                                                                                                                                       Subtotal A (from page 1)                                  A
+
+Deduct the following amounts:
+
+Deferred tax debit balance at the end of the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121
+
+Any deficit deducted in calculating its shareholders' equity (including, for this purpose, the
+amount of any provision for the redemption of preferred shares) at the end of the year . . . . . . . 122
+
+To the extent that the amount may reasonably be regarded as being included in any of lines
+101 to 112 above for the year, any amount deducted under subsection 135(1) in calculating
+income under Part I for the year. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123
+
+Deferred unrealized foreign exchange losses at the end of the year . . . . . . . . . . . . . . . . . . . . . 124
+
+                               Subtotal (add lines 121 to 124)                                                                                                                                   B
+
+Capital for the year (amount A minus amount B) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 190
+
+    Part 2 ­ Investment allowance
+
+Add the carrying value at the end of the year of the following assets of the corporation:
+
+   A share of another corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 401
+   A loan or advance to another corporation (other than a financial institution) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 402
+   A bond, debenture, note, mortgage, hypothecary claim, or similar obligation of another corporation (other than a financial institution) . . . . . . . . . . . 403
+   Long-term debt of a financial institution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 404
+   A dividend payable on a share of the capital stock of another corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 405
+   A loan or advance to, or a bond, debenture, note, mortgage, hypothecary claim or similar obligation of, a partnership each
+   member of which was, throughout the year, another corporation (other than a financial institution) that was not exempt from
+   tax under this Part (otherwise than because of paragraph 181.1(3)(d)), or another partnership described in
+   paragraph 181.2(4)(d.1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 406
+   An interest in a partnership (see note 2 below) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 407
+   Investment allowance for the year (add lines 401 to 407) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 490
+
+Notes:
+1. Lines 401 to 405 should not include the carrying value of a share of the capital stock of, a dividend payable by, or indebtedness of a corporation that is
+
+   exempt from tax under Part I.3 (other than a non-resident corporation that at no time in the year carried on business in Canada through a permanent
+   establishment).
+2. Where the corporation has an interest in a partnership held either directly or indirectly through another partnership, refer to subsection 181.2(5) for
+   additional rules regarding the carrying value of an interest in a partnership.
+3. Where a trust is used as a conduit for loaning money from a corporation to another related corporation (other than a financial institution), the loan will be
+   considered to have been made directly from the lending corporation to the borrowing corporation. Refer to subsection 181.2(6) for special rules that may
+   apply.
+
+Part 3 ­ Taxable capital
+
+Capital for the year (line 190) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  C
+
+Deduct: Investment allowance for the year (line 490) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   D
+
+Taxable capital for the year (amount C minus amount D) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 500
+
+                                                                                                                                                                                                 Page 2
+                                                                                                                                            Protected B when completed
+
+Part 4 ­ Taxable capital employed in Canada
+
+                     To be completed by a corporation that was resident in Canada at any time in the year
+
+Taxable capital for     Taxable income earned                                                                              Taxable capital  690
+the year (line 500)                                                                                                     employed in Canada
+                     ×  in Canada              610  =
+
+                        Taxable income
+
+Notes:  1. Regulation 8601 gives details on calculating the amount of taxable income earned in Canada.
+
+        2. Where a corporation's taxable income for a tax year is "0," it shall, for the purposes of the above calculation, be deemed to have a taxable
+           income for that year of $1,000.
+
+        3. In the case of an airline corporation, Regulation 8601 should be considered when completing the above calculation.
+
+                                         To be completed by a corporation that was a non-resident of Canada throughout the year
+                                                     and carried on a business through a permanent establishment in Canada
+
+Total of all amounts each of which is the carrying value at the end of the year of an asset of the corporation used in the year or
+held in the year, in the course of carrying on any business during the year through a permanent establishment in Canada . . . . 701
+
+Deduct the following amounts:
+Corporation's indebtedness at the end of the year [other than indebtedness described in any of
+paragraphs 181.2(3)(c) to (f)] that may reasonably be regarded as relating to a business it carried
+on during the year through a permanent establishment in Canada . . . . . . . . . . . . . . . . . . . . . . . . . . 711
+
+Total of all amounts each of which is the carrying value at the end of year of an asset described in
+subsection 181.2(4) of the corporation that it used in the year, or held in the year, in the course of
+carrying on any business during the year through a permanent establishment in Canada . . . . . . . . 712
+
+Total of all amounts each of which is the carrying value at the end of year of an asset of the
+corporation that is a ship or aircraft the corporation operated in international traffic, or personal or
+movable property used or held by the corporation in carrying on any business during the year
+through a permanent establishment in Canada (see note below) . . . . . . . . . . . . . . . . . . . . . . . . . . 713
+
+                        Total deductions (add lines 711, 712, and 713)                                                                                                                                     E
+
+Taxable capital employed in Canada (line 701 minus amount E) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 790
+
+Note: Complete line 713 only if the country in which the corporation is resident did not impose a capital tax for the year on similar assets, or a tax for the
+         year on the income from the operation of a ship or aircraft in international traffic, of any corporation resident in Canada during the year.
+
+    Part 5 ­ Calculation for purposes of the small business deduction                                                                                                                                                            F
+                                                                                                                                                                                                           $10,000,000 G
+This part is applicable to corporations that are not associated in the current year, but were associated in the prior year.
+                                                                                                                                                                                                                                 H
+Taxable capital employed in Canada (amount from line 690) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Deduct: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        I
+
+                                                                                                   Excess (amount F minus amount G) (if negative, enter "0")
+
+Calculation for purposes of the small business deduction (amount H × 0.225%) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Enter this amount at line 415 of the T2 return.
+
+                                                                                                                                                                                                           Page 3
+

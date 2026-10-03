@@ -4,6 +4,8 @@
 > **Printed form** `research/sources/tra-forms/pdf/AT1SCH01-small-business-deduction-TRA11723.pdf`  
 > GENERATED from `packages/ca-tax/spec/at1/forms/` — do not hand-edit. Re-render: `npx tsx scripts/rulebook/render.ts` in packages/ca-tax.
 
+**When this form is filed:** If: • 000029 = 1 or 2 throughout the taxation year or 000030 = 3 or 4 (i.e. Alberta co-op or credit union), and • Schedule 12 exists and 012102 + 012104 > 0 or, if schedule 12 does not exist, fed 200400 > 0, then form 001 can be completed. If 000030 = 5 (i.e. sec. 149 exempt), then form 001 cannot exist. SBD cannot be claimed.
+
 ## Sections
 
 | Code | Section | M/O/X | Condition | Page |

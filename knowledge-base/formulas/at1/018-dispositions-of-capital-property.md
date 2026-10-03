@@ -4,6 +4,8 @@
 > **Printed form** `research/sources/tra-forms/pdf/AT1SCH18-dispositions-TRA15156.pdf`  
 > GENERATED from `packages/ca-tax/spec/at1/forms/` — do not hand-edit. Re-render: `npx tsx scripts/rulebook/render.ts` in packages/ca-tax.
 
+**When this form is filed:** If 000060 and 000061 = 2, then do not allow completion of form 018. If the capital gains reserve opening balance, proceeds of disposition or adjusted cost bases differ from the federal amounts, form 018 is REQUIRED. ***FILING REQUIREMENT EXCEPTION: If dispositions in a taxation year straddle one or more inclusion rate periods, then supporting documentation MUST be submitted with the AT1 RSI to detail how the inclusion rate was calculated.
+
 ## Sections
 
 | Code | Section | M/O/X | Condition | Page |
@@ -16,7 +18,6 @@
 
 | Line | Name | Type | M/O/X | Section | Business rule (verbatim) | Page |
 |---|---|---|---|---|---|---|
-| 018 | Dispositions of Capital Property Capital Property Dispositions | — | X | — | If 000060 and 000061 = 2, then do not allow completion of form 018. If the capital gains reserve opening balance, proceeds of disposition or adjusted cost bases differ from the federal amounts, form 018 is REQUIRED. ***FILING REQUIREMENT EXCEPTION: If dispositions in a taxation year straddle one or more inclusion rate periods, then supporting documentation MUST be submitted with the AT1 RSI to detail how the inclusion rate was calculated. | 3-181 |
 | 001 | Is the corporation electing to transfer property per ACTA 14.1, 14.2 or 16.1? | N | M | — | If the corp is electing to transfer property under ACTA 14.1, 14.2 or 16.1, then set value = 1 (Yes). Otherwise, default to 2 (No). NOTE: if the corp is electing for Alberta, then either form AT107, AT108 or AT109 must be submitted with the AT1 RSI. See website: www.finance.gov.ab.ca/publicat ions/tax_rebates/corporate/form s for prescribed forms. | 3-181 |
 | 002 | Total of all shares | $ | X | — | If Alberta proceeds of disposition are the same as the federal proceeds of disposition, then enter the total of all occurrences of fed 006120. Otherwise, enter the Alberta total amount of proceeds of disposition. | 3-182 |
 | 004 | Total of all real estate | $ | X | — | If Alberta proceeds of disposition are the same as the federal proceeds of disposition, then enter the total of all occurrences of fed 006220. Otherwise, enter the Alberta total amount of proceeds of disposition. | 3-182 |
@@ -111,4 +112,4 @@ Every federal field a rule on this form reads (`fed SSSFFF`, or `SSSFFFF` for th
 
 ## Other AT1 lines referenced
 
-`000060` · `000061` · `006898` · `021115`
+`006898` · `021115`

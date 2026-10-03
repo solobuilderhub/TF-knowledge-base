@@ -50,9 +50,10 @@ import fitz  # PyMuPDF
 HERE = Path(__file__).resolve().parent
 RESEARCH = HERE.parents[2]
 SPEC = RESEARCH / "sources" / "tra-spec" / "AT1-Chapter3-2026.4.pdf"
-#: The versioned home of the extracted rules: ca-tax (research/ is not a git
-#: repository). The renderer there writes the engine module and the
-#: knowledge-base pages from this one file.
+#: The home of the extracted rules is ca-tax's private repository, beside the
+#: engine that ships structure from them and the tests that check it. The
+#: renderer there writes the engine module and these knowledge-base pages. (This
+#: repository, TF-knowledge-base, holds the sources, the pages and the tools.)
 OUT = RESEARCH.parent / "packages" / "ca-tax" / "spec" / "at1"
 RULESET = "at1-tra-ch3-2026.4"
 
@@ -167,6 +168,8 @@ def text_of(words: list) -> str:
             out += line  # "non-" + "capital" → "non-capital"
         else:
             out += " " + line
+    # The PDF's bullet is a private-use glyph (U+F0B7) that prints as "�".
+    out = re.sub("[-]", "•", out)
     return re.sub(r"\s+", " ", out).strip()
 
 
@@ -353,21 +356,39 @@ def finalize(raw: dict) -> dict:
         if form in LEGACY_FORMS or form not in TITLES:
             continue
         legacy = LEGACY_LINES.get(form, set())
+        # A table opens with a TITLE row numbered like the form ("002 Allocation
+        # of Income") whose rule is the form's existence condition; a real line
+        # can share that number ("013 CCA rate", "002 … value must equal fed
+        # 005119"). Keeping whichever row won on strictness let the title
+        # overwrite the real line wherever both read X (002, 004, 010, 015, 017,
+        # 018, 020) and dropped every condition. So: the first row with the form's
+        # own number is the title when a second one follows; a lone one is the
+        # title only if its name is part of the form's printed title.
+        same = [r for r in entry["rows"] if r["line"] == form]
+        title_row = None
+        if len(same) >= 2:
+            title_row = same[0]
+        elif len(same) == 1:
+            name = same[0]["name"].lower().strip()
+            printed_title = TITLES[form].lower()
+            # A title row's rule is the existence condition, which names the form
+            # ("do not allow completion of form 018"); a real line's never does.
+            names_itself = re.search(r"\bform " + form + r"\b", same[0]["rule"]) is not None
+            if not same[0]["requirement"] or names_itself or (name and name in printed_title):
+                title_row = same[0]
+        if title_row is not None:
+            entry["title_rule"] = title_row["rule"]
         merged: dict[str, dict] = {}
         order: list[str] = []
         for row in entry["rows"]:
             line = row["line"]
-            if line in legacy:
-                continue
-            if line == form and not row["requirement"]:
-                entry["title_rule"] = row["rule"]  # the table's own title row
+            if line in legacy or row is title_row:
                 continue
             prior = merged.get(line)
             if prior is None:
                 merged[line] = row
                 order.append(line)
             elif STRICTNESS.get(row["requirement"] or "", -1) > STRICTNESS.get(prior["requirement"] or "", -1):
-                # e.g. "013 Capital Cost Allowance" (title, X) vs "013 CCA rate" (M)
                 merged[line] = row
         rows = []
         for line in order:

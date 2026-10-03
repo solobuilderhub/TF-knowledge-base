@@ -4,6 +4,8 @@
 > **Printed form** `research/sources/tra-forms/pdf/AT1SCH12-income-loss-reconciliation-TRA11732.pdf`  
 > GENERATED from `packages/ca-tax/spec/at1/forms/` — do not hand-edit. Re-render: `npx tsx scripts/rulebook/render.ts` in packages/ca-tax.
 
+**When this form is filed:** This form is required if either 000060 or 000061 = 1. If both 000060 and 000061 = 2, then do not allow completion of form 012.
+
 ## Sections
 
 | Code | Section | M/O/X | Condition | Page |

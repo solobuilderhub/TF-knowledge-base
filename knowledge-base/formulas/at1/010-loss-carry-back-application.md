@@ -4,6 +4,8 @@
 > **Printed form** `research/sources/tra-forms/pdf/AT1SCH10-loss-carryback-TRA11731.pdf`  
 > GENERATED from `packages/ca-tax/spec/at1/forms/` — do not hand-edit. Re-render: `npx tsx scripts/rulebook/render.ts` in packages/ca-tax.
 
+**When this form is filed:** If the corp is requesting a loss carry-back to prior taxation years, then form 010 must be completed even if the corp is exempt from filing the AT1 (must be filed for the year in which the loss incurred).
+
 ## Sections
 
 | Code | Section | M/O/X | Condition | Page |
@@ -14,7 +16,6 @@
 
 | Line | Name | Type | M/O/X | Section | Business rule (verbatim) | Page |
 |---|---|---|---|---|---|---|
-| 010 | Loss Carry-Back Application | — | X | — | If the corp is requesting a loss carry-back to prior taxation years, then form 010 must be completed even if the corp is exempt from filing the AT1 (must be filed for the year in which the loss incurred). | 3-89 |
 | 002 | Non-capital Loss: Amt of current yr loss available for carry-back | $ | X | — | If the corporation has a value at 021037 and chooses to carry the loss back to a prior year, Value = 021037. Otherwise, if form 021 does not exist, value = fed 004110. | 3-89 |
 | 003 | 1st preceding taxation year ending | D | X | — | 010003 must exist if 010004, 010014, 010034 or 010044 exists. | 3-89 |
 | 004 | Non-capital Loss: 1st preceding taxation year ending | $ | X | — | 010004 may exist only if 010002 exists. 010004 must be less than or equal to 010002 | 3-89 |
@@ -22,6 +23,7 @@
 | 006 | Non-capital Loss: 2nd preceding taxation year ending | $ | X | — | 010006 may exist only if 010002 exists. 010006 must be less than or equal to 010002 | 3-89 |
 | 007 | 3rd preceding taxation year ending | D | X | — | 010007 must exist if 010008, 010018, 010038 or 010048 exists. | 3-90 |
 | 008 | Non-capital Loss: 3rd preceding taxation year ending | $ | X | — | 010008 may exist only if 010002 exists. 010008 must be less than or equal to 010002 | 3-90 |
+| 010 | Non-capital Loss: Balance of current year loss available for carry forward | $ | X | — | If 010002 exists, then 010010 must exists. Value must equal: 010002 - (010004 + 010006 + 010008) where 010004 + 010006 + 010008 cannot exceed 010002 | 3-90 |
 | 012 | Farm Loss: Amt of current yr loss available for carry-back | $ | X | — | If the corporation has a value at 021077 and chooses to carry the loss back to a prior year, then set value = 021077. Otherwise, if form 021 does not exist, value = fed 004310. | 3-90 |
 | 014 | Farm Loss: 1st preceding taxation year ending | $ | X | — | 010014 may exist only if 010012 exists. 010014 must be less than or equal to 010012 | 3-90 |
 | 016 | Farm Loss: 2nd preceding taxation year ending | $ | X | — | 010016 may exist only if 010012 exists. 010016 must be less than or equal to 010012 | 3-90 |

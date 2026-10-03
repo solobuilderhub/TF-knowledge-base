@@ -4,6 +4,8 @@
 > **Printed form** `research/sources/tra-forms/pdf/AT1SCH15-resource-related-deductions-TRA11736.pdf`  
 > GENERATED from `packages/ca-tax/spec/at1/forms/` — do not hand-edit. Re-render: `npx tsx scripts/rulebook/render.ts` in packages/ca-tax.
 
+**When this form is filed:** If 000060 and 000061 = 2, then do not allow the completion of form 015. If the opening balance or the claim for Alberta purposes differs from that for federal purposes and 000061 = 1, then form 015 is REQUIRED to be completed.
+
 ## Sections
 
 | Code | Section | M/O/X | Condition | Page |
@@ -21,7 +23,6 @@
 
 | Line | Name | Type | M/O/X | Section | Business rule (verbatim) | Page |
 |---|---|---|---|---|---|---|
-| 015 | Resource Related Deductions | — | X | — | If 000060 and 000061 = 2, then do not allow the completion of form 015. If the opening balance or the claim for Alberta purposes differs from that for federal purposes and 000061 = 1, then form 015 is REQUIRED to be completed. | 3-134 |
 | 001 | Regular Expenses: Balance at end of preceding taxation year | $ | M | — | Enter the amount of Alberta regular expenses earned depletion allowance balance from last year or, if the balance is the same for federal and Alberta purposes, enter current year fed 012101. | 3-134 |
 | 003 | Regular Expenses: transferred on amalgamation or wind-up of subsidiary | $ | X | — | If the amount of the regular expenses earned depletion allowance acquired on amalgamation or wind-up of subsidiary for Alberta purposes differs from the federal amount, enter the Alberta amount. Otherwise, enter fed 012105. | 3-134 |
 | 005 | Regular Expenses: transferred on sale of resource property to successor | $ | X | — | If the amount of the regular expenses earned depletion allowance transferred on sale of resource property for Alberta purposes differs from the federal amount, enter the Alberta amount. Otherwise, enter fed 012110. | 3-135 |
@@ -29,6 +30,7 @@
 | 009 | Regular Expenses: Closing balance | $ | M | — | Value = 015001 + 015003 - 015005 - 015007. | 3-135 |
 | 011 | Successor Expenses: Balance at end of preceding taxation year | $ | M | — | Enter the amount of the Alberta successor expenses earned depletion allowance balance from last year or, if the balance is the same for federal and Alberta purposes, enter current year fed 012126. | 3-135 |
 | 013 | Successor Expenses: transferred on amalgamation or wind-up subsidiary | $ | X | — | If the amount of the successor expenses earned depletion allowance acquired on amalgamation or wind-up of subsidiary for Alberta purposes differs from the federal amount, enter the Alberta amount. Otherwise, enter fed 012130. | 3-136 |
+| 015 | Successor Expenses: transferred other than on amalgamation or wind-up of subsidiary | $ | X | — | If the amount of the successor expenses earned depletion allowance acquired other than on amalgamation or wind-up of subsidiary for Alberta purposes differs from the federal amount, enter the Alberta amount. Otherwise, enter fed 012132. | 3-136 |
 | 017 | Successor Expenses: transferred on sale of resource property | $ | X | — | If the amount of the successor expenses earned depletion allowance transferred on sale of resource property for Alberta purposes differs from the federal amount, enter the Alberta amount. Otherwise, enter fed 012135. | 3-136 |
 | 019 | Successor Expenses: Claim for the year per federal Regulation 1202(2) | $ | M | — | If the successor expenses earned depletion allowance Regulation 1202(2) amount for Alberta purposes differs from the federal amount, enter the Alberta amount. Otherwise, enter fed 012140. Value cannot exceed: 015011 + 015013 + 015015 - 015017. If none, enter zero. | 3-137 |
 | 021 | Successor Expenses: Closing balance | $ | M | — | Value = 015011 + 015013 + 015015 - 015017 - 015019. | 3-137 |
@@ -176,6 +178,7 @@ Every federal field a rule on this form reads (`fed SSSFFF`, or `SSSFFFF` for th
 | 007 | 012115 |
 | 011 | 012126 |
 | 013 | 012130 |
+| 015 | 012132 |
 | 017 | 012135 |
 | 019 | 012140 |
 | 023 | 012150 |
@@ -270,4 +273,4 @@ Every federal field a rule on this form reads (`fed SSSFFF`, or `SSSFFFF` for th
 
 ## Other AT1 lines referenced
 
-`000060` · `000061` · `012040`
+`012040`

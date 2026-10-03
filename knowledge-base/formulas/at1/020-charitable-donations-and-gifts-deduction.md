@@ -4,6 +4,8 @@
 > **Printed form** `research/sources/tra-forms/pdf/AT1SCH20-charitable-donations-TRA11740.pdf`  
 > GENERATED from `packages/ca-tax/spec/at1/forms/` — do not hand-edit. Re-render: `npx tsx scripts/rulebook/render.ts` in packages/ca-tax.
 
+**When this form is filed:** If 000060 and 000061 = 2, then do not allow completion of form 020. If the opening balances for charitable donations or gifts differ from the federal opening balances or if the current year’s claim for charitable donations and gifts differs from the federal claim, then form 020 is REQUIRED. If the corporation is reporting nil net income or a loss for the year, donations CANNOT be claimed – in this case, do NOT allow Schedule 20 to be created.
+
 ## Sections
 
 | Code | Section | M/O/X | Condition | Page |
@@ -15,7 +17,6 @@
 
 | Line | Name | Type | M/O/X | Section | Business rule (verbatim) | Page |
 |---|---|---|---|---|---|---|
-| 020 | Charitable Donations & Gifts Deduction Charitable Donations | — | X | — | If 000060 and 000061 = 2, then do not allow completion of form 020. If the opening balances for charitable donations or gifts differ from the federal opening balances or if the current year’s claim for charitable donations and gifts differs from the federal claim, then form 020 is REQUIRED. If the corporation is reporting nil net income or a loss for the year, donations CANNOT be claimed – in this case, do NOT allow Schedule 20 to be created. | 3-192 |
 | 002 | Charitable donations at the end of the preceding taxation year | $ | M | — | If the Alberta charitable donations balance at the end of the preceding taxation year differs from the federal balance, then enter the Alberta balance. Otherwise, the value equals the ending balance of the preceding taxation year on the federal schedule 2. | 3-192 |
 | 004 | Deduct: donations expired after five taxation years | $ | X | — | If 020002 is not equal to fed 002 amount A, then enter the Alberta charitable donations that have expired after five taxation years. Otherwise, value = fed 002239. | 3-192 |
 | 008 | Add: donations transferred on amalgamation or wind-up of subsidiary | $ | X | — | If the donations transferred upon amalgamation or wind-up of a subsidiary differ for Alberta purposes, then enter the Alberta amount. Otherwise, value = fed 002250. | 3-193 |
@@ -70,4 +71,4 @@ Every federal field a rule on this form reads (`fed SSSFFF`, or `SSSFFFF` for th
 
 ## Other AT1 lines referenced
 
-`000060` · `000061` · `012054` · `012056`
+`012054` · `012056`

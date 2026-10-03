@@ -1,8 +1,10 @@
 # Schedule 21 — Alberta Calculation of Current Year Loss and Continuity of Losses
 
-> **Ruleset** `at1-tra-ch3-2026.4` · **Spec pages** 3-200 – 3-219 (PDF 199–219 of `sources/tra-spec/AT1-Chapter3-2026.4.pdf`)  
+> **Ruleset** `at1-tra-ch3-2026.4` · **Spec pages** 3-199 – 3-219 (PDF 199–219 of `sources/tra-spec/AT1-Chapter3-2026.4.pdf`)  
 > **Printed form** `research/sources/tra-forms/pdf/AT1SCH21-loss-continuity-TRA11741.pdf`  
 > GENERATED from `packages/ca-tax/spec/at1/forms/` — do not hand-edit. Re-render: `npx tsx scripts/rulebook/render.ts` in packages/ca-tax.
+
+**When this form is filed:** If 000060 and 000061 = 2, then do not allow completion of form 021. If Alberta opening balances differ from federal opening balances, if the current year loss for Alberta’s purposes differs from federal current year loss or if the current year’s loss application for Alberta differs from the federal loss application, then form 021 is REQUIRED.
 
 ## Sections
 
@@ -23,7 +25,6 @@
 
 | Line | Name | Type | M/O/X | Section | Business rule (verbatim) | Page |
 |---|---|---|---|---|---|---|
-| 021 | Non-capital loss for the current year | $ | M | CYNCL | If 021001 - (021002+021003 + 021005 + 021007 + 021011+021012) is greater than zero, then calculate: 0 - 021017 + 021019. Value must be less than or equal to zero. Otherwise, calculate: 021001 - (021002+021003 + 021005 + 021007 + 021011+021012) - 021017 + 021019. If the amount is negative, then value equals calculated amount. Otherwise, if value is greater than or equal to zero, default to zero. | 3-200 |
 | 001 | Net Income (loss) per AB Sched. 12 line 054 | $ | M | CYNCL | Value must equal 012054. | 3-199 |
 | 002 | Deduct: RIFE deducted in the year under paragraph 111(1)(a.1) of ITA | $ | X | CYNCL | Must equal 021240 | 3-199 |
 | 003 | Deduct: Net capital losses deducted in the year | $ | X | CYNCL | Must equal 021061 x Inclusion Rate. If 021061 is blank, then field must not exist. | 3-199 |
@@ -33,6 +34,7 @@
 | 012 | Deduct: Employer deduction for non-qualified securities – Paragraph 110(1)(e) of ITA | $ | X | CYNCL | Value must equal fed 200352 | 3-200 |
 | 017 | Deduct: ITA section 110.5 and 115(1)(a)(vii) additions for foreign tax credits | $ | M | CYNCL | Value cannot exceed fed 200355 to the extent that 00070 and/or 000071 would increase as a result. | 3-200 |
 | 019 | Add: Current year farm loss | $ | X | CYNCL | If the current year Alberta farm loss differs from the federal amount, then enter the Alberta amount. Otherwise, value = fed 004310. Value cannot exceed 021015. | 3-200 |
+| 021 | Non-capital loss for the current year | $ | M | CYNCL | If 021001 - (021002+021003 + 021005 + 021007 + 021011+021012) is greater than zero, then calculate: 0 - 021017 + 021019. Value must be less than or equal to zero. Otherwise, calculate: 021001 - (021002+021003 + 021005 + 021007 + 021011+021012) - 021017 + 021019. If the amount is negative, then value equals calculated amount. Otherwise, if value is greater than or equal to zero, default to zero. | 3-200 |
 | 031 | Non-Capital Losses - Losses carried forward from preceding taxation years | $ | M | CNCL | If the Alberta non-capital loss balance from the preceding taxation years differs from the federal balance, then enter the Alberta balance. Otherwise, the value equals the federal balance. | 3-201 |
 | 032 | Non-Capital Losses - Deduct: losses expired after seven taxation years | $ | X | CNCL | If the Alberta non-capital losses expired after seven taxation years differ from the federal amount, then enter the Alberta expired non-capital losses. Otherwise, value = fed 004100. | 3-201 |
 | 033 | Non-Capital Losses - Losses - beginning of taxation year | $ | M | CNCL | Value = 021031 - 021032. | 3-201 |

@@ -1,8 +1,10 @@
 # Schedule 16 — Alberta Scientific Research Expenditures
 
-> **Ruleset** `at1-tra-ch3-2026.4` · **Spec pages** 3-171 – 3-172 (PDF 170–172 of `sources/tra-spec/AT1-Chapter3-2026.4.pdf`)  
+> **Ruleset** `at1-tra-ch3-2026.4` · **Spec pages** 3-195 – 3-172 (PDF 170–172 of `sources/tra-spec/AT1-Chapter3-2026.4.pdf`)  
 > **Printed form** `research/sources/tra-forms/pdf/AT1SCH16-scientific-research-TRA11737.pdf`  
 > GENERATED from `packages/ca-tax/spec/at1/forms/` — do not hand-edit. Re-render: `npx tsx scripts/rulebook/render.ts` in packages/ca-tax.
+
+**When this form is filed:** If 000060 and 000061 = 2, then do not allow the completion of form 016. If the opening balance or the claim for Alberta purposes differs from that for federal purposes and 000061 = 1, then form 016 is REQUIRED to be completed.
 
 ## Sections
 
@@ -14,7 +16,6 @@
 
 | Line | Name | Type | M/O/X | Section | Business rule (verbatim) | Page |
 |---|---|---|---|---|---|---|
-| 016 | Subtotal | $ | M | — | Calculate: 016002 - (016004 + 016006 + 016008) + 016010 + 016012 + 016014 + 016015. | 3-171 |
 | 002 | Allowable current year SR&ED expenditures (from federal form 032 line 400) | $ | M | — | Value must equal fed 032400. | 3-195 |
 | 004 | Deduct: Gov’t and non-gov’t assistance for expenditures (use federal schedule 32 (T661) line 430 from 2007 and prior versions; use sum of lines 429, 431 and 432 from 2008 and later versions) | $ | X | — | Value must equal fed 032430 from 2007 and prior versions OR sum of 032429, 032431 and 032432 from 2008 and later versions. | 3-195 |
 | 006 | Deduct: Previous yr’s investment tax credit (ITC) claimed for SR&ED (from federal form 032 line 435) | $ | X | — | Value must equal fed 032435. | 3-195 |
@@ -23,6 +24,7 @@
 | 012 | Add: Unclaimed SR&ED expenditure pool balance from the previous year | $ | X | — | Enter the amount of Alberta unclaimed SR&ED expenditure pool balance from last year or the federal SR&ED expenditure pool balance from last year if the amount is the same for federal and Alberta purposes. | 3-171 |
 | 014 | Add: SR&ED expenditure pool transfer from amalgamation or wind-up of a wholly-owned subsidiary | $ | X | — | If the amount of SR&ED expenditure pool transferred from amalgamation or wind-up of a wholly-owned subsidiary for Alberta purposes differs from the federal amount, enter the Alberta amount. Otherwise, enter fed 032452. | 3-171 |
 | 015 | Add: Amount of ITC recaptured in the previous taxation year (from federal form 032 line 453) | $ | X | — | Value must equal fed 032453. | 3-171 |
+| 016 | Subtotal | $ | M | — | Calculate: 016002 - (016004 + 016006 + 016008) + 016010 + 016012 + 016014 + 016015. | 3-171 |
 | 018 | SR&ED expenditure pool deduction available | $ | X | — | If 016016 is positive, then value equals this amount. If 016016 is negative, default to zero. | 3-171 |
 | 020 | Deduct: SR&ED expenditure pool deduction claimed | $ | M | — | Value cannot exceed 016018. | 3-172 |
 | 022 | Unclaimed SR&ED expenditure pool deduction balance | $ | M | — | Value = 016018 - 016020 | 3-172 |

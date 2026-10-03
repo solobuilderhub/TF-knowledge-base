@@ -4,6 +4,8 @@
 > **Printed form** `research/sources/tra-forms/pdf/AT1SCH02-income-allocation-factor-TRA11724.pdf`  
 > GENERATED from `packages/ca-tax/spec/at1/forms/` — do not hand-edit. Re-render: `npx tsx scripts/rulebook/render.ts` in packages/ca-tax.
 
+**When this form is filed:** If 000062 is greater than zero and if fed 005119 < fed 005129 or fed 005159 < fed 005169, then complete form 002.
+
 ## Sections
 
 | Code | Section | M/O/X | Condition | Page |
@@ -16,8 +18,8 @@
 
 | Line | Name | Type | M/O/X | Section | Business rule (verbatim) | Page |
 |---|---|---|---|---|---|---|
-| 002 | Allocation of Income | — | X | — | If 000062 is greater than zero and if fed 005119 < fed 005129 or fed 005159 < fed 005169, then complete form 002. | 3-46 |
 | 001 | Is the corporation in any of the following categories? | N | M | — | If special allocation rules apply (fed 005100 value is other than 402), value = 1. Otherwise, if general allocation (fed 005100 = 402), default value = 2. | 3-46 |
+| 002 | Salaries and wages paid in Alberta (per federal form 005) | $ | X | — | If 002001 = 2 and fed 005100 = 402, value must equal fed 005119. | 3-46 |
 | 004 | Total salaries and wages paid in all jurisdictions (per federal form 005) | $ | X | — | Must exist if 002002 exists. Must equal fed 005129 – fed 005127 (only if Reg 413 (non-residents) applies). | 3-46 |
 | 006 | Gross revenue in Alberta (per federal form 005) | $ | X | — | If 002001 = 2 and fed 005100 = 402, value must equal fed 005159. | 3-46 |
 | 008 | Gross revenue in all jurisdictions (per federal form 005) | $ | X | — | Must exist if 002006 exists. Must equal fed 005169 – fed 005167(only if Reg 413 (non-residents) applies). | 3-46 |
@@ -66,8 +68,8 @@ Every federal field a rule on this form reads (`fed SSSFFF`, or `SSSFFFF` for th
 
 | Line | Federal fields |
 |---|---|
-| 002 | 005119, 005129, 005159 |
 | 001 | 005100 |
+| 002 | 005100, 005119 |
 | 004 | 005127, 005129 |
 | 006 | 005100, 005159 |
 | 008 | 005167, 005169 |

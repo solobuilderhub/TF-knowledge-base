@@ -15,16 +15,16 @@ formulas with TRA Chapter 3. They were written against server `e9944c0`, which p
 | G2-01 Schedule 2 existence rule | real | filed only if 062 > 0 and Alberta < the totals (Area B: 062 > 0) |
 | G1-10 Schedule 1 filed for an ineligible corporation | real | gated on `result.eligible` (029 = 1/2 or 030 = 3/4; never 030 = 5) |
 | G2-08 form-definition errors | real | 002–008 conditional; T2SCH5 links 119 / 129 / 159 / 169; ship note "062 − 064" |
+| G1-03 / G1-04 / G1-08 / G1-09 | one source for association: the federal associated list (fed form 023) gives Yes, a typed answer is used otherwise, a typed No against a list is flagged; Area A occurrence 1 defaults to the filer (name, CAN from the jacket) |
+| G2-02 | Schedule 2 line 001 follows T2 Schedule 5 line 100 (`provincialAllocation.regulation`, 402-413); an AT1 answer that disagrees is flagged |
+| G2-04 | a partly typed Area A merges with the Schedule 5 roll-up: blanks take the federal figure, differences are flagged |
+| G2-05 | Area B is prefilled from Schedule 5 (119 / 129 / 159 / 169, less 127 / 167 where the formula says); ship 096 and divided-business 106 stay typed |
+| G2-07 | a dormant multi-province year gives Alberta an equal share, as the federal Schedule 5 does |
+| G1-05 | tax years starting before 2022-04-07 use the $11,250 / $5M-band taxable-capital reduction |
 
-## Open (not yet fixed)
+## Open
 
-| Item | Note |
-|---|---|
-| G1-03 / G1-04 / G1-08 / G1-09 | one source for association and allocation: derive 001 from the federal list / T2 line 160, A from 001045, and add the Area A cross-checks (filer first, CAN = 000034, Σ045 ≤ 200,000) |
-| G2-02 / G2-04 / G2-05 | line 001 from fed 005100; a partly typed Area A override reads blanks as nil; Area B is not prefilled from Schedule 5 |
-| G2-07 | a dormant multi-province year gives Alberta 0%; federal splits equally |
-| G1-05 | no pre-2022-04-07 branch ($11,250 divisor) |
-| Reg. 413 | non-residents take totals less 127 / 167; not modelled (type the Area A boxes without the outside-Canada amounts) |
+- **Reg. 413** (non-residents: totals less 127 / 167) is not modelled; type the Area A boxes without the outside-Canada amounts.
 
 ## Decisions, not bugs
 

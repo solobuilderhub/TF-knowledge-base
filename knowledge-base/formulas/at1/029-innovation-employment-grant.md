@@ -47,3 +47,14 @@
 | 267 | Individual corporation maximum allowed amount | $ | X | — | For each corporation associated for the purposes of the IEG, enter the amount calculated from line 245 – [(line 250 + line 260) / 2]. | 3-229 |
 | 268 | Allocated allowed amount to each corporation | $ | X | — | For each corporation associated for the purposes of the IEG, enter the allocated allowed amount. The allocated allowed amount for each corporation cannot exceed the lesser of • the qualified corporation’s allowed amount, as calculated in the applicable row in column 267, • the aggregate total of the individual corporations’ maximum allowed amount, as calculated on line 310, • the amount determined if the qualified corporation was not associated with one or more corporations in the taxation year (per subsection 26.971 (3)); calculated as: (the lesser of the qualified corporation’s eligible expenditures and maximum expenditure limit for the taxation year) - ((the eligible expenditures of the qualified corporation for the first preceding year + the eligible expenditures of the qualified corporation for the second preceding year) / 2), and • the qualified corporation’s maximum expenditure limit for the taxation year. If the amount calculated in column 267 is negative, enter “zero” for column 268. | 3-229 |
 | 325 | Corporation allocated allowed amount | $ | X | — | Enter the allocated allowed amount for the claiming qualified corporation from the first line of column 268 into line 325. | 3-230 |
+
+## Printed-form lines (not in Chapter 3)
+
+Numbered lines on the printed form that the Net File specification does not list: arithmetic, totals and signature boxes. They are **not transmitted**; the caption below is the formula as the form prints it, and the engine computes them. Read from `research/sources/tra-forms/pdf/` by `adapters/tra-printed-forms.py`.
+
+| Line | As printed | Page |
+|---|---|---|
+| 001 | Legal name | form p.1 |
+| 031 | Total: Eligible Expenditures for Alberta Purposes (lines 005 - 007 + 009 + 011 + 025) | form p.1 |
+| 118 | Base amount: average of line 114 + line 116 | form p.2 |
+| 208 | Maximum eligible expenditures: $4,000,000 X (line 206 / 365 days; 366 if the longest taxation year includes February 29) | form p.3 |

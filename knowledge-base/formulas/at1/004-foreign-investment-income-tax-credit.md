@@ -22,6 +22,16 @@
 | 008 | Federal non-business foreign tax credit. | $ | X | — | Must equal all occurrences of fed 021180. | 3-59 |
 | 012 | Allowable Credit (Lesser of D or G) | $ | X | — | Must equal the lesser of: 004004 X 000065 X [000068/((000062 – 000064) X 000065)] or (004006 - 004008) X 000065 (Calculate to 3 decimal places rounding up at 5.) | 3-59 |
 
+## Printed-form lines (not in Chapter 3)
+
+Numbered lines on the printed form that the Net File specification does not list: arithmetic, totals and signature boxes. They are **not transmitted**; the caption below is the formula as the form prints it, and the engine computes them. Read from `research/sources/tra-forms/pdf/` by `adapters/tra-printed-forms.py`.
+
+| Line | As printed | Page |
+|---|---|---|
+| 014 | Total Allowable Credits: sum of amounts in column H | form p.1 |
+| 018 | From AT1, page 2: line 068 - (lines 070 + 071) | form p.1 |
+| 020 | Alberta Foreign Investment Income Tax Credit: Lesser of amounts on lines 014 and 018 | form p.1 |
+
 ## Federal inputs
 
 Every federal field a rule on this form reads (`fed SSSFFF`, or `SSSFFFF` for the four-digit GIFI/jacket forms 100/101/125/140). This is the AT1 ↔ T2 seam.

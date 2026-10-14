@@ -32,6 +32,9 @@ The specification still carries tables for legacy forms — Schedules 5, 6, 7, 8
 ```
 research/sources/tra-spec/AT1-Chapter3-2026.4.pdf
   → research/tools/rulebook/adapters/tra-chapter3.py   (PyMuPDF, by word position)
+research/sources/tra-forms/pdf/*.pdf   (the printed forms)
+  → research/tools/rulebook/adapters/tra-printed-forms.py   (numbered lines Chapter 3 does not list)
+  → packages/ca-tax/spec/at1/printed/<form>.json
   → packages/ca-tax/spec/at1/forms/<form>.json + manifest.json (private repo; the source of truth)
   → packages/ca-tax/scripts/rulebook/render.ts
       → src/t2/at1/filing/generated/at1-spec-rows.ts  (shipped: M/O/X, types, sections — no rule text)

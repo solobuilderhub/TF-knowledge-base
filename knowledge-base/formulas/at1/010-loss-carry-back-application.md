@@ -57,6 +57,16 @@
 | 084 | Current Taxation Year Ending | D | M | — | **CRITICAL MANDATORY** Current taxation year ending. This field must be entered. If the schedule 10 is submitted with the AT1 RSI or AT1 Net File Return then value must = 000037. | 3-98 |
 | 090 | Functional Currency Other Than Canadian? | N | M | — | Enter a valid code to specify if monetary amounts reported in functional currency other than Canadian. 1 = Yes, 2 = No. | 3-98 |
 
+## Printed-form lines (not in Chapter 3)
+
+Numbered lines on the printed form that the Net File specification does not list: arithmetic, totals and signature boxes. They are **not transmitted**; the caption below is the formula as the form prints it, and the engine computes them. Read from `research/sources/tra-forms/pdf/` by `adapters/tra-printed-forms.py`.
+
+| Line | As printed | Page |
+|---|---|---|
+| 070 | Signing officer, surname ("I, 070 072 074, am an authorized signing officer") | form p.1 |
+| 072 | Signing officer, first name | form p.1 |
+| 074 | Signing officer, position, office or rank | form p.1 |
+
 ## Federal inputs
 
 Every federal field a rule on this form reads (`fed SSSFFF`, or `SSSFFFF` for the four-digit GIFI/jacket forms 100/101/125/140). This is the AT1 ↔ T2 seam.

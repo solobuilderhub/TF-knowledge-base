@@ -44,6 +44,23 @@
 | 098 | Gifts of certified ecological sensitive land available for carryforward | $ | X | GIFTS | If the Alberta gifts of certified ecological sensitive land available for carryforward differ from the federal amount, then enter the Alberta amount. Otherwise, the value equals the federal amount | 3-198 |
 | 100 | Additional deduction for gifts of medicine available for carryforward | $ | X | GIFTS | If the Alberta additional deduction for gifts of medicine available for carryforward differ from the federal amount, then enter the Alberta amount. Otherwise, the value equals the federal amount | 3-198 |
 
+## Printed-form lines (not in Chapter 3)
+
+Numbered lines on the printed form that the Net File specification does not list: arithmetic, totals and signature boxes. They are **not transmitted**; the caption below is the formula as the form prints it, and the engine computes them. Read from `research/sources/tra-forms/pdf/` by `adapters/tra-printed-forms.py`.
+
+| Line | As printed | Page |
+|---|---|---|
+| 006 | Charitable donations at the beginning of the taxation year | form p.1 |
+| 012 | Subtotal: Lines 008 + 010 | form p.1 |
+| 014 | Total donations available: lines 006 + 012 - 013 | form p.1 |
+| 042 | The lesser of amounts on lines 038 and 040 | form p.1 |
+| 044 | The lesser of amounts on lines 036 and 042 | form p.1 |
+| 046 | Calculate: (lines 032 + 034 + 044) x 25% | form p.1 |
+| 048 | Maximum deduction allowable: lines 030 + 046 | form p.1 |
+| 066 | Gifts balance at the beginning of the taxation year | form p.2 |
+| 072 | Subtotal: Lines 068 + 070 | form p.2 |
+| 074 | Total gifts available: lines 066 + 072 - 073 | form p.2 |
+
 ## Formulas (machine-checkable)
 
 Rules that are pure arithmetic over line references, normalized (`×` → `*`, `–` → `-`). The formula-conformance test checks each against the engine.

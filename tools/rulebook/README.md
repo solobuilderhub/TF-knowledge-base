@@ -42,6 +42,26 @@ cd packages/ca-tax && npx tsx scripts/rulebook/render.ts
 
 The `spec/at1/forms/` diff is the changelog of the new spec version, form by form.
 
+## Printed-form lines (not in Chapter 3)
+
+Chapter 3 lists only what Net File transmits. The printed form also has numbered lines that
+are pure arithmetic (Schedule 1's 007 and 013, the totals and subtotals elsewhere, the
+signature boxes). `adapters/tra-printed-forms.py` reads each printed form in
+`sources/tra-forms/pdf/` by text-block position and writes every numbered line Chapter 3 does
+not list to `packages/ca-tax/spec/at1/printed/<form>.json`, with the caption as printed. The
+caption is the formula. The renderer adds them to each page as "Printed-form lines".
+
+`adapters/tra-printed-forms.overrides.json` holds the hand-checked corrections (a token that is
+a reference, not a line; a caption the geometry got wrong), each with a reason. The adapter
+stops on an override that no longer matches a token. Not covered: the lettered-column formulas
+of grid forms (Schedule 2 Area B's "(A/B + C/D) x 1/2"), which have no line number.
+
+```bash
+python research/tools/rulebook/adapters/tra-printed-forms.py --report   # show, write nothing
+python research/tools/rulebook/adapters/tra-printed-forms.py            # write printed/*.json
+cd packages/ca-tax && npx tsx scripts/rulebook/render.ts                # then re-render
+```
+
 ## One row
 
 ```jsonc

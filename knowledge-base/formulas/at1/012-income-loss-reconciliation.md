@@ -90,6 +90,17 @@
 | 102 | Active Business Income from federal schedule 7 calculated amount Q or federal schedule 16 line 124. | $ | X | RABI | If 012100 = 1, then the value must exist. If 012100 = 1 and fed 200400 > zero, then value = fed 200400. Note: if fed 200400 includes specified partnership income and the tax year ends after March 31, 2002, then fed Schedule 7 column G must be recalculated using the applicable business limit to arrive at the Income from active businesses for Alberta purposes. I.e. $300,000 on April 1, 2001, $350,000 on April 1, 2002, $400,000 on April 1, 2003 and prorated accordingly if the taxation year straddles any of these dates. See AT1 Guide for more details. Otherwise, if 012100 = 1 and fed 200400 is less than or equal to zero, then value must equal calculated amount of fed 007 amount Q or fed 016124 (if negative, use the negative amount, do not default to zero). If 012100 = 2, then field must not exist. | 3-118 |
 | 104 | Adjustment to ABI for AB purposes due to discretionary items | $ | X | RABI | If 012100 = 1 enter the amount of adjustment to ABI for AB purposes due to discretionary items. If 012100 = 2, then field must not exist. | 3-119 |
 
+## Printed-form lines (not in Chapter 3)
+
+Numbered lines on the printed form that the Net File specification does not list: arithmetic, totals and signature boxes. They are **not transmitted**; the caption below is the formula as the form prints it, and the engine computes them. Read from `research/sources/tra-forms/pdf/` by `adapters/tra-printed-forms.py`.
+
+| Line | As printed | Page |
+|---|---|---|
+| 052 | Total Alberta Amount | form p.1 |
+| 080 | Subtotal (Alberta Dollar Amount of Deduction) | form p.2 |
+| 081 | Subtotal (Federal Dollar Amount of Deduction) | form p.2 |
+| 106 | Active Business Income for Alberta purpose (ABI): line 102 + 104 (if negative, enter "0"). This amount is to be used for Schedule 1, line 003 | form p.2 |
+
 ## Formulas (machine-checkable)
 
 Rules that are pure arithmetic over line references, normalized (`×` → `*`, `–` → `-`). The formula-conformance test checks each against the engine.

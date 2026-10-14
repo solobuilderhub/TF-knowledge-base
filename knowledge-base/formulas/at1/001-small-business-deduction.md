@@ -28,6 +28,19 @@
 | 043 | Corporate Account Number | N | X | — | Enter the applicable Alberta CAN for each corp registered in Alberta. The value of 001043001 must be equal to the value of 000034. | 3-44 |
 | 045 | Allocation of the Base Amount | $ | M | — | If there is a value at 001041, then this field must exist. Enter the amount allocated to each associated corp with the first occurrence being the corp filing the return. The allocation must be the same as per the federal schedule 23 this is accomplished by using the same percentage used federally to determine the allocation for Alberta purposes. Multiply the $200,000 Alberta base amount by the corresponding value for the same corporation from fed 023350. Ensure to sort such that 001045001 belonging to the corp filing this return. Total of all occurrences max $200,000. | 3-45 |
 
+## Printed-form lines (not in Chapter 3)
+
+Numbered lines on the printed form that the Net File specification does not list: arithmetic, totals and signature boxes. They are **not transmitted**; the caption below is the formula as the form prints it, and the engine computes them. Read from `research/sources/tra-forms/pdf/` by `adapters/tra-printed-forms.py`.
+
+| Line | As printed | Page |
+|---|---|---|
+| 005 | Deduct: Royalty Tax Deduction for the year (Schedule 5, line 021) | form p.1 |
+| 007 | Balance line 003 minus line 005 (if negative, enter "0") | form p.1 |
+| 011 | Deduct: Royalty Tax Deduction for the year (Schedule 5, line 021) | form p.1 |
+| 013 | Balance line 009 minus line 011 (if negative, enter "0") | form p.1 |
+| 031 | Alberta Small Business Deduction: total of column G. Enter this amount on AT1 page 2, line 070 | form p.1 |
+| 044 | Percentage of the Business Limit (Area A, column 044) | form p.2 |
+
 ## Federal inputs
 
 Every federal field a rule on this form reads (`fed SSSFFF`, or `SSSFFFF` for the four-digit GIFI/jacket forms 100/101/125/140). This is the AT1 ↔ T2 seam.

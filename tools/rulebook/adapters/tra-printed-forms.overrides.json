@@ -1,0 +1,70 @@
+{
+  "_about": "Hand-checked against the printed form (page image), one reason per entry. 'exclude' removes a token that is not a line (a reference, a department-use box, a wrapped number); 'caption' replaces a caption the geometry got wrong. Keys are line@page. Every key must still match a token the adapter finds - the extractor fails on a stale one.",
+  "000": {
+    "exclude": {
+      "001@1": "department-use box printed beside the privacy notice",
+      "004@1": "department-use box printed beside the privacy notice",
+      "310@2": "federal line reference inside line 062's instructions",
+      "370@2": "federal line reference inside line 062's instructions"
+    },
+    "caption": {
+      "066@2": "Amount Taxable in Alberta: line 062 X line 065 (if negative, enter \"0\"); if the corporation has permanent establishments only in Alberta, multiply by \"1\"",
+      "088@2": "Total (lines 129 + 082 + 085 + 086 + 115 + 087)",
+      "079@2": "Total (lines 070 + 072 + 076)"
+    }
+  },
+  "001": {
+    "caption": {
+      "031@1": "Alberta Small Business Deduction: total of column G. Enter this amount on AT1 page 2, line 070",
+      "044@2": "Percentage of the Business Limit (Area A, column 044)"
+    }
+  },
+  "010": {
+    "exclude": {
+      "080@1": "a house number in the return address, not a line",
+      "109@1": "a street number in the return address, not a line"
+    },
+    "caption": {
+      "070@1": "Signing officer, surname (\"I, 070 072 074, am an authorized signing officer\")",
+      "072@1": "Signing officer, first name",
+      "074@1": "Signing officer, position, office or rank"
+    }
+  },
+  "012": {
+    "exclude": {
+      "081@1": "part of the 'Schedule 15 lines 061 + 081' source note",
+      "094@1": "part of the 'Schedule 18 line 076 + 094' source note",
+      "189@1": "part of the 'Schedule 15 lines 169 + 189' source note",
+      "113@2": "wrapped 'section 112, 113 or 138(6)' in line 060/061's caption",
+      "313@2": "part of the 'T2 line 312 + 313 + 314' source note"
+    },
+    "caption": {
+      "052@1": "Total Alberta Amount",
+      "080@2": "Subtotal (Alberta Dollar Amount of Deduction)",
+      "081@2": "Subtotal (Federal Dollar Amount of Deduction)",
+      "106@2": "Active Business Income for Alberta purpose (ABI): line 102 + 104 (if negative, enter \"0\"). This amount is to be used for Schedule 1, line 003"
+    }
+  },
+  "017": {
+    "caption": {
+      "021@1": "Totals (the reserve columns 021, 051 and 081)"
+    }
+  },
+  "029": {
+    "exclude": {
+      "365@3": "days-in-year figure in a footnote",
+      "366@3": "days-in-year figure in a footnote",
+      "365@2": "days-in-year figure in a footnote",
+      "366@2": "days-in-year figure in a footnote"
+    },
+    "caption": {
+      "001@1": "Legal name",
+      "208@3": "Maximum eligible expenditures: $4,000,000 X (line 206 / 365 days; 366 if the longest taxation year includes February 29)"
+    }
+  },
+  "021": {
+    "caption": {
+      "015@1": "Line 001 - line 013 (if positive, enter \"0\")"
+    }
+  }
+}

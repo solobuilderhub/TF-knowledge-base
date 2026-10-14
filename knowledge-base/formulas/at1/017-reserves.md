@@ -41,6 +41,14 @@
 | 075 | Closing balance for the year: Bank Reserves | $ | X | — | If the bank reserves ending balance for the year for Alberta purposes is not equal to the federal bank reserves ending balance, then enter the Alberta balance. Otherwise, enter the federal balance. | 3-178 |
 | 077 | Closing balance for the year: Other Tax Reserves | $ | X | — | If the other tax reserves ending balance for the year for Alberta purposes is not equal to the federal other tax reserves ending balance, then enter the Alberta balance. Otherwise, enter the federal balance. | 3-179 |
 
+## Printed-form lines (not in Chapter 3)
+
+Numbered lines on the printed form that the Net File specification does not list: arithmetic, totals and signature boxes. They are **not transmitted**; the caption below is the formula as the form prints it, and the engine computes them. Read from `research/sources/tra-forms/pdf/` by `adapters/tra-printed-forms.py`.
+
+| Line | As printed | Page |
+|---|---|---|
+| 021 | Totals (the reserve columns 021, 051 and 081) | form p.1 |
+
 ## Federal inputs
 
 Every federal field a rule on this form reads (`fed SSSFFF`, or `SSSFFFF` for the four-digit GIFI/jacket forms 100/101/125/140). This is the AT1 ↔ T2 seam.

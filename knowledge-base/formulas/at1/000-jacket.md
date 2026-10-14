@@ -86,6 +86,16 @@
 | 103 | Certification: Telephone Number | N | M | — | No override permitted. Must include area code. This field must be entered. | 3-39 |
 | 105 | CIT Authorized Email | AN | M | — | No override permitted. This field must be entered. Must be a valid-formatted e-mail address. This email must belong to the owner, operator, or director of the corporation. It is not intended for accountants, tax preparers, or third party. It will only be used to send important TRACS updates and key documents related to your tax account. The regular expression used for address validation is the following: ^[a-z0- 9!#$%&''*+/=?^_`{\|}~- ]+(\.[a-z0- 9!#$%&''*+/=?^_`{\|}~- ]+)*@([a-z0-9]([a-z0- 9-]*[a-z0- 9])?\.)+([A-Z]{1,6})$ Â À Ç É Ê Ë È Î Ï Ô Ö Û Ü Ù â à ç é ê ë è î ï ô ö û ü ù 2017043239 | 3-39 |
 
+## Printed-form lines (not in Chapter 3)
+
+Numbered lines on the printed form that the Net File specification does not list: arithmetic, totals and signature boxes. They are **not transmitted**; the caption below is the formula as the form prints it, and the engine computes them. Read from `research/sources/tra-forms/pdf/` by `adapters/tra-printed-forms.py`.
+
+| Line | As printed | Page |
+|---|---|---|
+| 066 | Amount Taxable in Alberta: line 062 X line 065 (if negative, enter "0"); if the corporation has permanent establishments only in Alberta, multiply by "1" | form p.2 |
+| 079 | Total (lines 070 + 072 + 076) | form p.2 |
+| 088 | Total (lines 129 + 082 + 085 + 086 + 115 + 087) | form p.2 |
+
 ## Formulas (machine-checkable)
 
 Rules that are pure arithmetic over line references, normalized (`×` → `*`, `–` → `-`). The formula-conformance test checks each against the engine.

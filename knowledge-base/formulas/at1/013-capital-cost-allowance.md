@@ -38,6 +38,16 @@
 | 019 | Capital cost allowance | $ | M | — | For each occurrence of 013001 and if it is a declining balance, the value cannot exceed: [(013003+013005+ 013007-013009) - 013011] X 013013 X number of days in taxation year (max 365)/365. | 3-126 |
 | 021 | Undepreciated capital cost at the end of the year | $ | M | — | Value = 013003 + 013005 + 013007 - 013009 + 013015 - 013017 - 013019 | 3-126 |
 
+## Printed-form lines (not in Chapter 3)
+
+Numbered lines on the printed form that the Net File specification does not list: arithmetic, totals and signature boxes. They are **not transmitted**; the caption below is the formula as the form prints it, and the engine computes them. Read from `research/sources/tra-forms/pdf/` by `adapters/tra-printed-forms.py`.
+
+| Line | As printed | Page |
+|---|---|---|
+| 023 | Totals | form p.2 |
+| 025 | Totals | form p.2 |
+| 027 | Totals | form p.2 |
+
 ## Formulas (machine-checkable)
 
 Rules that are pure arithmetic over line references, normalized (`×` → `*`, `–` → `-`). The formula-conformance test checks each against the engine.

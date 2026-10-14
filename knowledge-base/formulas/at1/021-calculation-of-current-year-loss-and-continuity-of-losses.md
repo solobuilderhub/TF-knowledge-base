@@ -111,6 +111,16 @@
 | 185 | Restricted farm losses | $ | X | AOL | If the Alberta restricted farm loss for a specific occurrence differs from the federal amount, then enter the Alberta amount. Otherwise, the value equals the federal amount | 3-219 |
 | 187 | Listed personal property losses | $ | X | AOL | If the Alberta listed personal property loss for a specific occurrence differs from the federal amount, then enter the Alberta amount. Otherwise, the value equals the federal amount. There should be no amount for occurrences 8 to 20. | 3-219 |
 
+## Printed-form lines (not in Chapter 3)
+
+Numbered lines on the printed form that the Net File specification does not list: arithmetic, totals and signature boxes. They are **not transmitted**; the caption below is the formula as the form prints it, and the engine computes them. Read from `research/sources/tra-forms/pdf/` by `adapters/tra-printed-forms.py`.
+
+| Line | As printed | Page |
+|---|---|---|
+| 013 | Subtotal of lines 002 to 012 | form p.1 |
+| 015 | Line 001 - line 013 (if positive, enter "0") | form p.1 |
+| 340 | Line 320 plus line 330 | form p.5 |
+
 ## Formulas (machine-checkable)
 
 Rules that are pure arithmetic over line references, normalized (`×` → `*`, `–` → `-`). The formula-conformance test checks each against the engine.

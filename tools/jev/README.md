@@ -1,5 +1,7 @@
 # Jev (TypeSafe System One) as a checker for our forms and formulas
 
+**How to use it on a new form or program: [GUIDE.md](./GUIDE.md).** Dated findings with numbers: `findings/jev/2026-10-21-jev-validation-pilot.md`; raw results: `findings/jev/data/`. `dump-forms.mts` exports our form definitions for `pilot.py`.
+
 Jev answers typed questions (Noul = probability of yes) about a piece of text, fast and
 cheap ($0.042 / M input tokens; the whole pilot cost well under $0.10). Key: `research/.env`
 (`TYPESAFE_API_KEY`, gitignored; `.env.example` shows the name). Rule text is sent to

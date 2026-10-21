@@ -1,0 +1,222 @@
+[
+ {
+  "line": "000080",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "000090",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "003108",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "003208",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "003316",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operand"
+ },
+ {
+  "line": "003600",
+  "true": 0.98,
+  "mutant": 0.01,
+  "kind": "operand"
+ },
+ {
+  "line": "003602",
+  "true": 0.81,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "012054",
+  "true": 0.87,
+  "mutant": 0.01,
+  "kind": "operand"
+ },
+ {
+  "line": "013021",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operand"
+ },
+ {
+  "line": "015009",
+  "true": 0.98,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "015021",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "015033",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operand"
+ },
+ {
+  "line": "015083",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operand"
+ },
+ {
+  "line": "015211",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "015223",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "015255",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operand"
+ },
+ {
+  "line": "015275",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "015295",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operand"
+ },
+ {
+  "line": "015315",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "016016",
+  "true": 0.98,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "016022",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operand"
+ },
+ {
+  "line": "018059",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "020018",
+  "true": 0.96,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "020078",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operand"
+ },
+ {
+  "line": "021033",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "021037",
+  "true": 0.93,
+  "mutant": 0.38,
+  "kind": "operator"
+ },
+ {
+  "line": "021049",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "021069",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "021073",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operand"
+ },
+ {
+  "line": "021077",
+  "true": 0.92
+ },
+ {
+  "line": "021087",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "021093",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "021107",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "021115",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "021125",
+  "true": 0.99,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "021250",
+  "true": 0.98,
+  "mutant": 0.01,
+  "kind": "operator"
+ },
+ {
+  "line": "021310",
+  "true": 0.97,
+  "mutant": 0.01,
+  "kind": "operand"
+ }
+]

@@ -62,6 +62,10 @@ python research/tools/rulebook/adapters/tra-printed-forms.py            # write 
 cd packages/ca-tax && npx tsx scripts/rulebook/render.ts                # then re-render
 ```
 
+## Checking the result
+
+Besides the drift tests, `research/tools/jev/` compares our form definitions and written-down formulas with these rows using TypeSafe's Jev model (guide: `tools/jev/GUIDE.md`). It is a lead generator for review, not a gate.
+
 ## One row
 
 ```jsonc

@@ -111,10 +111,14 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--forms", required=True)
     ap.add_argument("--only", nargs="*")
+    ap.add_argument("--spec-dir", help="rule-book forms dir (default: AT1)")
     ap.add_argument("--model", default="jev-latest")
     ap.add_argument("--out", default=str(HERE / "pilot-result.json"))
     a = ap.parse_args()
     KEY = load_key()
+    global SPEC
+    if a.spec_dir:
+        SPEC = Path(a.spec_dir)
     ours = json.loads(Path(a.forms).read_text(encoding="utf8"))
     rng = random.Random(7)
     jobs = []

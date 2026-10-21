@@ -1,0 +1,1673 @@
+[
+ {
+  "form": "001",
+  "line": "001",
+  "name": "Is the corporation associated with one or more Canadian-controlled private corporations?",
+  "true": 0.05,
+  "ctrl": 0.02,
+  "mutant": 0.06,
+  "mutation": ">-><="
+ },
+ {
+  "form": "001",
+  "line": "003",
+  "name": "Inc. from active business carried on in Canada as reported on the T2 line 400 OR schedule 12, line 106",
+  "true": 0.04,
+  "ctrl": 0.05,
+  "mutant": 0.03,
+  "mutation": ">-><="
+ },
+ {
+  "form": "001",
+  "line": "009",
+  "name": "Taxable Income (less adj. For foreign tax credits. See Guide for calc. Details)",
+  "true": 0.03,
+  "ctrl": 0.04,
+  "mutant": 0.04,
+  "mutation": "max->min"
+ },
+ {
+  "form": "001",
+  "line": "015",
+  "name": "Business Limit: as determined from AREA B",
+  "true": 0.08,
+  "ctrl": 0.05,
+  "mutant": 0.08,
+  "mutation": "constant 515->1030"
+ },
+ {
+  "form": "001",
+  "line": "019",
+  "name": "Amount reported on federal Schedule 5, line 127",
+  "true": 0.05,
+  "ctrl": 0.05,
+  "mutant": 0.05,
+  "mutation": "max->min"
+ },
+ {
+  "form": "001",
+  "line": "020",
+  "name": "Amount reported on federal Schedule 5, line 167",
+  "true": 0.04,
+  "ctrl": 0.05,
+  "mutant": 0.03,
+  "mutation": "constant 001015->2030"
+ },
+ {
+  "form": "001",
+  "line": "021",
+  "name": "Alberta allocation factor Allocation Agreement",
+  "true": 0.04,
+  "ctrl": 0.03,
+  "mutant": 0.04,
+  "mutation": ">-><="
+ },
+ {
+  "form": "002",
+  "line": "001",
+  "name": "Is the corporation in any of the following categories?",
+  "true": 0.13,
+  "ctrl": 0.09,
+  "mutant": 0.15,
+  "mutation": "max->min"
+ },
+ {
+  "form": "002",
+  "line": "002",
+  "name": "Salaries and wages paid in Alberta (per federal form 005)",
+  "true": 0.04,
+  "ctrl": 0.05,
+  "mutant": 0.03,
+  "mutation": "max->min"
+ },
+ {
+  "form": "002",
+  "line": "004",
+  "name": "Total salaries and wages paid in all jurisdictions (per federal form 005)",
+  "true": 0.03,
+  "ctrl": 0.03
+ },
+ {
+  "form": "002",
+  "line": "006",
+  "name": "Gross revenue in Alberta (per federal form 005)",
+  "true": 0.03,
+  "ctrl": 0.03,
+  "mutant": 0.03,
+  "mutation": "constant 10->20"
+ },
+ {
+  "form": "002",
+  "line": "008",
+  "name": "Gross revenue in all jurisdictions (per federal form 005)",
+  "true": 0.03,
+  "ctrl": 0.03,
+  "mutant": 0.03,
+  "mutation": "constant 10->20"
+ },
+ {
+  "form": "010",
+  "line": "002",
+  "name": "Non-capital Loss: Amt of current yr loss available for carry-back",
+  "true": 0.06,
+  "ctrl": 0.05
+ },
+ {
+  "form": "010",
+  "line": "004",
+  "name": "Non-capital Loss: 1st preceding taxation year ending",
+  "true": 0.08,
+  "ctrl": 0.09
+ },
+ {
+  "form": "010",
+  "line": "006",
+  "name": "Non-capital Loss: 2nd preceding taxation year ending",
+  "true": 0.06,
+  "ctrl": 0.05
+ },
+ {
+  "form": "010",
+  "line": "008",
+  "name": "Non-capital Loss: 3rd preceding taxation year ending",
+  "true": 0.07,
+  "ctrl": 0.08
+ },
+ {
+  "form": "010",
+  "line": "010",
+  "name": "Non-capital Loss: Balance of current year loss available for carry forward",
+  "true": 0.08,
+  "ctrl": 0.09,
+  "mutant": 0.09,
+  "mutation": ">-><="
+ },
+ {
+  "form": "010",
+  "line": "012",
+  "name": "Farm Loss: Amt of current yr loss available for carry-back",
+  "true": 0.06,
+  "ctrl": 0.05,
+  "mutant": 0.06,
+  "mutation": "constant 023->46"
+ },
+ {
+  "form": "010",
+  "line": "014",
+  "name": "Farm Loss: 1st preceding taxation year ending",
+  "true": 0.11,
+  "ctrl": 0.09,
+  "mutant": 0.09,
+  "mutation": "constant 023->46"
+ },
+ {
+  "form": "010",
+  "line": "016",
+  "name": "Farm Loss: 2nd preceding taxation year ending",
+  "true": 0.1,
+  "ctrl": 0.09,
+  "mutant": 0.09,
+  "mutation": "constant 023->46"
+ },
+ {
+  "form": "010",
+  "line": "018",
+  "name": "Farm Loss: 3rd preceding taxation year ending",
+  "true": 0.1,
+  "ctrl": 0.08,
+  "mutant": 0.1,
+  "mutation": "constant 023->46"
+ },
+ {
+  "form": "010",
+  "line": "020",
+  "name": "Farm Loss: Balance of current year loss available for carry forward",
+  "true": 0.08,
+  "ctrl": 0.07,
+  "mutant": 0.1,
+  "mutation": "+->-"
+ },
+ {
+  "form": "010",
+  "line": "032",
+  "name": "Other Losses: Amt of current yr loss available for carry-back",
+  "true": 0.06,
+  "ctrl": 0.06,
+  "mutant": 0.05,
+  "mutation": "+->-"
+ },
+ {
+  "form": "010",
+  "line": "034",
+  "name": "Other Losses: 1st preceding taxation year ending",
+  "true": 0.18,
+  "ctrl": 0.05,
+  "mutant": 0.15,
+  "mutation": "constant 032->64"
+ },
+ {
+  "form": "010",
+  "line": "036",
+  "name": "Other Losses: 2nd preceding taxation year ending",
+  "true": 0.17,
+  "ctrl": 0.07,
+  "mutant": 0.17,
+  "mutation": "constant 032->64"
+ },
+ {
+  "form": "010",
+  "line": "038",
+  "name": "Other Losses: 3rd preceding taxation year ending",
+  "true": 0.2,
+  "ctrl": 0.07,
+  "mutant": 0.17,
+  "mutation": "+->-"
+ },
+ {
+  "form": "010",
+  "line": "040",
+  "name": "Other Losses: Balance of current year loss available for carry forward",
+  "true": 0.09,
+  "ctrl": 0.07,
+  "mutant": 0.1,
+  "mutation": "constant 042->84"
+ },
+ {
+  "form": "010",
+  "line": "042",
+  "name": "Capital: Gross Amt of current yr loss available for carry-back",
+  "true": 0.06,
+  "ctrl": 0.05,
+  "mutant": 0.06,
+  "mutation": "constant 044->88"
+ },
+ {
+  "form": "010",
+  "line": "043",
+  "name": "Inclusion Rate",
+  "true": 0.17,
+  "ctrl": 0.05,
+  "mutant": 0.17,
+  "mutation": "constant 044->88"
+ },
+ {
+  "form": "010",
+  "line": "044",
+  "name": "Capital: Gross amount applied to 1st preceding taxation year ending",
+  "true": 0.07,
+  "ctrl": 0.07,
+  "mutant": 0.07,
+  "mutation": "+->-"
+ },
+ {
+  "form": "010",
+  "line": "045",
+  "name": "Inclusion Rate",
+  "true": 0.16,
+  "ctrl": 0.06,
+  "mutant": 0.17,
+  "mutation": "constant 044->88"
+ },
+ {
+  "form": "010",
+  "line": "046",
+  "name": "Capital: Gross amount applied to 2nd preceding taxation year ending",
+  "true": 0.07,
+  "ctrl": 0.06,
+  "mutant": 0.06,
+  "mutation": "+->-"
+ },
+ {
+  "form": "010",
+  "line": "047",
+  "name": "Inclusion Rate",
+  "true": 0.18,
+  "ctrl": 0.05,
+  "mutant": 0.15,
+  "mutation": "+->-"
+ },
+ {
+  "form": "010",
+  "line": "048",
+  "name": "Capital: Gross amount applied to 3rd preceding taxation year ending",
+  "true": 0.07,
+  "ctrl": 0.05,
+  "mutant": 0.07,
+  "mutation": "+->-"
+ },
+ {
+  "form": "010",
+  "line": "050",
+  "name": "Capital: Balance of current year loss available for carry forward.",
+  "true": 0.04,
+  "ctrl": 0.08,
+  "mutant": 0.04,
+  "mutation": "constant 2000->4000"
+ },
+ {
+  "form": "012",
+  "line": "002",
+  "name": "Net Income (Loss) for federal purposes from T2 line 300",
+  "true": 0.19,
+  "ctrl": 0.14,
+  "mutant": 0.18,
+  "mutation": ">-><="
+ },
+ {
+  "form": "012",
+  "line": "004",
+  "name": "Capital Cost Allowance for Alberta purposes",
+  "true": 0.07,
+  "ctrl": 0.06,
+  "mutant": 0.08,
+  "mutation": ">-><="
+ },
+ {
+  "form": "012",
+  "line": "005",
+  "name": "Capital Cost Allowance for federal purposes",
+  "true": 0.05,
+  "ctrl": 0.05,
+  "mutant": 0.06,
+  "mutation": ">-><="
+ },
+ {
+  "form": "012",
+  "line": "006",
+  "name": "Recapture of CCA for Alberta purposes",
+  "true": 0.12,
+  "ctrl": 0.09,
+  "mutant": 0.13,
+  "mutation": "constant 007->14"
+ },
+ {
+  "form": "012",
+  "line": "007",
+  "name": "Recapture of CCA for federal purposes",
+  "true": 0.06,
+  "ctrl": 0.11,
+  "mutant": 0.06,
+  "mutation": "constant 035->70"
+ },
+ {
+  "form": "012",
+  "line": "008",
+  "name": "Terminal Loss for Alberta purposes",
+  "true": 0.08,
+  "ctrl": 0.06,
+  "mutant": 0.08,
+  "mutation": "constant 034->68"
+ },
+ {
+  "form": "012",
+  "line": "009",
+  "name": "Terminal Loss for federal purposes",
+  "true": 0.07,
+  "ctrl": 0.07,
+  "mutant": 0.06,
+  "mutation": "constant 035->70"
+ },
+ {
+  "form": "012",
+  "line": "015",
+  "name": "Farming Inventory: Mandatory inventory adjustment - included in current year for federal purposes",
+  "true": 0.09,
+  "ctrl": 0.17,
+  "mutant": 0.09,
+  "mutation": "constant 035->70"
+ },
+ {
+  "form": "012",
+  "line": "017",
+  "name": "Farming Inventory: Mandatory inventory adjustment - included in prior year for federal purposes",
+  "true": 0.12,
+  "ctrl": 0.13
+ },
+ {
+  "form": "012",
+  "line": "019",
+  "name": "Farming Inventory: Optional value of inventory - included in current year for federal purposes",
+  "true": 0.09,
+  "ctrl": 0.22,
+  "mutant": 0.08,
+  "mutation": "constant 035->70"
+ },
+ {
+  "form": "012",
+  "line": "021",
+  "name": "Farming Inventory: Optional value of inventory - included in prior year for federal purposes",
+  "true": 0.09,
+  "ctrl": 0.13,
+  "mutant": 0.09,
+  "mutation": "constant 034->68"
+ },
+ {
+  "form": "012",
+  "line": "022",
+  "name": "Depletion for Alberta purposes",
+  "true": 0.06,
+  "ctrl": 0.04,
+  "mutant": 0.06,
+  "mutation": "constant 034->68"
+ },
+ {
+  "form": "012",
+  "line": "023",
+  "name": "Depletion for federal purposes",
+  "true": 0.1,
+  "ctrl": 0.1,
+  "mutant": 0.11,
+  "mutation": "constant 034->68"
+ },
+ {
+  "form": "012",
+  "line": "026",
+  "name": "Canadian Exploration Expense (CEE) for Alberta purposes",
+  "true": 0.07,
+  "ctrl": 0.06,
+  "mutant": 0.07,
+  "mutation": "constant 034->68"
+ },
+ {
+  "form": "012",
+  "line": "027",
+  "name": "Canadian Exploration Expense (CEE) for federal purposes",
+  "true": 0.11,
+  "ctrl": 0.06,
+  "mutant": 0.1,
+  "mutation": "constant 034->68"
+ },
+ {
+  "form": "012",
+  "line": "028",
+  "name": "Canadian Development Expense (CDE) for Alberta purposes",
+  "true": 0.09,
+  "ctrl": 0.07,
+  "mutant": 0.1,
+  "mutation": "constant 034->68"
+ },
+ {
+  "form": "012",
+  "line": "029",
+  "name": "Canadian Development Expense (CDE) for federal purposes",
+  "true": 0.15,
+  "ctrl": 0.1,
+  "mutant": 0.13,
+  "mutation": "constant 034->68"
+ },
+ {
+  "form": "012",
+  "line": "030",
+  "name": "Foreign Exploration and Development Expense for Alberta purposes",
+  "true": 0.09,
+  "ctrl": 0.06,
+  "mutant": 0.1,
+  "mutation": "constant 034->68"
+ },
+ {
+  "form": "012",
+  "line": "031",
+  "name": "Foreign Exploration and Development Expense for federal purposes",
+  "true": 0.1,
+  "ctrl": 0.06,
+  "mutant": 0.11,
+  "mutation": "-->+"
+ },
+ {
+  "form": "012",
+  "line": "032",
+  "name": "Canadian Oil and Gas Property Expense (COGPE) for Alberta purposes",
+  "true": 0.1,
+  "ctrl": 0.06,
+  "mutant": 0.1,
+  "mutation": "-->+"
+ },
+ {
+  "form": "012",
+  "line": "033",
+  "name": "Canadian Oil and Gas Property Expense (COGPE) for federal purposes",
+  "true": 0.13,
+  "ctrl": 0.12,
+  "mutant": 0.13,
+  "mutation": "constant 034->68"
+ },
+ {
+  "form": "012",
+  "line": "034",
+  "name": "Scientific Research Expenses claimed in the year for Alberta purposes",
+  "true": 0.06,
+  "ctrl": 0.12,
+  "mutant": 0.06,
+  "mutation": ">-><="
+ },
+ {
+  "form": "012",
+  "line": "035",
+  "name": "Scientific Research Expenses claimed in the year for federal purposes",
+  "true": 0.07,
+  "ctrl": 0.08,
+  "mutant": 0.06,
+  "mutation": "constant 012034->24068"
+ },
+ {
+  "form": "012",
+  "line": "036",
+  "name": "Tax Reserves deducted in prior year for Alberta purposes",
+  "true": 0.08,
+  "ctrl": 0.07,
+  "mutant": 0.07,
+  "mutation": ">-><="
+ },
+ {
+  "form": "012",
+  "line": "037",
+  "name": "Tax Reserves deducted in prior year for federal purposes",
+  "true": 0.05,
+  "ctrl": 0.09,
+  "mutant": 0.06,
+  "mutation": "constant 012034->24068"
+ },
+ {
+  "form": "012",
+  "line": "038",
+  "name": "Tax Reserves claimed in current year for Alberta purposes",
+  "true": 0.06,
+  "ctrl": 0.07,
+  "mutant": 0.06,
+  "mutation": ">-><="
+ },
+ {
+  "form": "012",
+  "line": "039",
+  "name": "Tax Reserves claimed in current year for federal purposes",
+  "true": 0.08,
+  "ctrl": 0.07,
+  "mutant": 0.08,
+  "mutation": "constant 012034->24068"
+ },
+ {
+  "form": "012",
+  "line": "042",
+  "name": "Capital tax liability in other provinces",
+  "true": 0.43,
+  "ctrl": 0.09,
+  "mutant": 0.44,
+  "mutation": "constant 012034->24068"
+ },
+ {
+  "form": "012",
+  "line": "041",
+  "name": "Other for federal purposes - specify",
+  "true": 0.11,
+  "ctrl": 0.06,
+  "mutant": 0.11,
+  "mutation": "constant 040->80"
+ },
+ {
+  "form": "012",
+  "line": "050",
+  "name": "Total Federal Amount",
+  "true": 0.18,
+  "ctrl": 0.08,
+  "mutant": 0.14,
+  "mutation": "-->+"
+ },
+ {
+  "form": "012",
+  "line": "054",
+  "name": "Net Income (Loss) for Alberta purposes",
+  "true": 0.06,
+  "ctrl": 0.09,
+  "mutant": 0.05,
+  "mutation": ">-><="
+ },
+ {
+  "form": "012",
+  "line": "056",
+  "name": "Charitable Donations for Alberta purposes",
+  "true": 0.07,
+  "ctrl": 0.12,
+  "mutant": 0.08,
+  "mutation": "constant 080->160"
+ },
+ {
+  "form": "012",
+  "line": "057",
+  "name": "Charitable Donations for federal purposes",
+  "true": 0.08,
+  "ctrl": 0.11
+ },
+ {
+  "form": "012",
+  "line": "058",
+  "name": "Gifts to Canada or a province, cultural gifts and Ecological gifts for Alberta purposes",
+  "true": 0.11,
+  "ctrl": 0.11,
+  "mutant": 0.11,
+  "mutation": "constant 052->104"
+ },
+ {
+  "form": "012",
+  "line": "059",
+  "name": "Gifts to Canada or a province, cultural gifts and Ecological gifts for federal purposes",
+  "true": 0.1,
+  "ctrl": 0.08
+ },
+ {
+  "form": "012",
+  "line": "060",
+  "name": "Taxable dividend deductible under ITA section 112, 113 or 138(6) for Alberta purposes",
+  "true": 0.18,
+  "ctrl": 0.07,
+  "mutant": 0.17,
+  "mutation": "constant 052->104"
+ },
+ {
+  "form": "012",
+  "line": "061",
+  "name": "Taxable dividend deductible under ITA section 112, 113 or 138(6) for federal purposes",
+  "true": 0.11,
+  "ctrl": 0.09
+ },
+ {
+  "form": "012",
+  "line": "062",
+  "name": "Part VI.1 tax deduction for Alberta purposes",
+  "true": 0.12,
+  "ctrl": 0.11
+ },
+ {
+  "form": "012",
+  "line": "063",
+  "name": "Part VI.1 tax deduction for federal purposes",
+  "true": 0.1,
+  "ctrl": 0.09
+ },
+ {
+  "form": "012",
+  "line": "064",
+  "name": "Non-capital losses of preceding taxation years for Alberta purposes",
+  "true": 0.07,
+  "ctrl": 0.07,
+  "mutant": 0.07,
+  "mutation": ">-><="
+ },
+ {
+  "form": "012",
+  "line": "065",
+  "name": "Non-capital losses of preceding taxation years for federal purposes",
+  "true": 0.11,
+  "ctrl": 0.11,
+  "mutant": 0.1,
+  "mutation": ">-><="
+ },
+ {
+  "form": "012",
+  "line": "066",
+  "name": "Net-capital losses of preceding taxation years for Alberta purposes",
+  "true": 0.07,
+  "ctrl": 0.08
+ },
+ {
+  "form": "012",
+  "line": "067",
+  "name": "Net-capital losses of preceding taxation years for federal purposes",
+  "true": 0.09,
+  "ctrl": 0.11
+ },
+ {
+  "form": "012",
+  "line": "068",
+  "name": "Restricted farm losses of preceding taxation years for Alberta purposes",
+  "true": 0.06,
+  "ctrl": 0.07
+ },
+ {
+  "form": "012",
+  "line": "069",
+  "name": "Restricted farm losses of preceding taxation years for federal purposes",
+  "true": 0.08,
+  "ctrl": 0.12
+ },
+ {
+  "form": "012",
+  "line": "070",
+  "name": "Farm losses of preceding taxation years for Alberta purposes",
+  "true": 0.08,
+  "ctrl": 0.06
+ },
+ {
+  "form": "012",
+  "line": "071",
+  "name": "Farm losses of preceding taxation years for federal purposes",
+  "true": 0.07,
+  "ctrl": 0.07
+ },
+ {
+  "form": "012",
+  "line": "072",
+  "name": "Limited partnership losses of preceding taxation years for Alberta purposes",
+  "true": 0.08,
+  "ctrl": 0.06
+ },
+ {
+  "form": "012",
+  "line": "073",
+  "name": "Limited partnership losses of preceding taxation years for federal purposes",
+  "true": 0.09,
+  "ctrl": 0.09
+ },
+ {
+  "form": "012",
+  "line": "130",
+  "name": "Restricted Interest and Financing Expense for Alberta purposes",
+  "true": 0.08,
+  "ctrl": 0.09
+ },
+ {
+  "form": "012",
+  "line": "131",
+  "name": "Restricted Interest and Financing Expense for federal purposes",
+  "true": 0.16,
+  "ctrl": 0.08
+ },
+ {
+  "form": "012",
+  "line": "074",
+  "name": "Taxable capital gains or taxable dividends allocated from a central credit union for Alberta purposes",
+  "true": 0.1,
+  "ctrl": 0.07,
+  "mutant": 0.11,
+  "mutation": "constant 050->100"
+ },
+ {
+  "form": "012",
+  "line": "075",
+  "name": "Taxable capital gains or taxable dividends allocated from a central credit union for federal purposes",
+  "true": 0.1,
+  "ctrl": 0.06,
+  "mutant": 0.11,
+  "mutation": "constant 050->100"
+ },
+ {
+  "form": "012",
+  "line": "078",
+  "name": "Prospector\u2019s and grubstaker\u2019s shares for Alberta purposes",
+  "true": 0.12,
+  "ctrl": 0.07,
+  "mutant": 0.12,
+  "mutation": "constant 050->100"
+ },
+ {
+  "form": "012",
+  "line": "079",
+  "name": "Prospector\u2019s and grubstaker\u2019s shares for federal purposes",
+  "true": 0.13,
+  "ctrl": 0.13,
+  "mutant": 0.13,
+  "mutation": "constant 050->100"
+ },
+ {
+  "form": "012",
+  "line": "140",
+  "name": "Employer deductions for non-qualified securities for Alberta purposes",
+  "true": 0.11,
+  "ctrl": 0.09,
+  "mutant": 0.11,
+  "mutation": "constant 050->100"
+ },
+ {
+  "form": "012",
+  "line": "141",
+  "name": "Employer deductions for non-qualified securities for federal purposes",
+  "true": 0.1,
+  "ctrl": 0.1,
+  "mutant": 0.1,
+  "mutation": "constant 050->100"
+ },
+ {
+  "form": "012",
+  "line": "082",
+  "name": "Add: ITA section 110.5 and 115(1)(a)(vii) additions for Alberta purposes",
+  "true": 0.07,
+  "ctrl": 0.09,
+  "mutant": 0.07,
+  "mutation": "constant 050->100"
+ },
+ {
+  "form": "012",
+  "line": "083",
+  "name": "Add: ITA section 110.5 and 115(1)(a)(vii) additions for federal purposes",
+  "true": 0.14,
+  "ctrl": 0.13,
+  "mutant": 0.15,
+  "mutation": "constant 050->100"
+ },
+ {
+  "form": "012",
+  "line": "090",
+  "name": "Taxable Income for Alberta purposes or (Loss)",
+  "true": 0.38,
+  "ctrl": 0.1,
+  "mutant": 0.35,
+  "mutation": "constant 100->200"
+ },
+ {
+  "form": "012",
+  "line": "091",
+  "name": "Taxable Income for federal purposes or (Loss)",
+  "true": 0.52,
+  "ctrl": 0.05,
+  "mutant": 0.56,
+  "mutation": ">-><="
+ },
+ {
+  "form": "012",
+  "line": "100",
+  "name": "Does the corporation\u2019s calculation of ABI for AB purposes differ from its federal ABI?",
+  "true": 0.66,
+  "ctrl": 0.06,
+  "mutant": 0.65,
+  "mutation": "constant 100->200"
+ },
+ {
+  "form": "012",
+  "line": "102",
+  "name": "Active Business Income from federal schedule 7 calculated amount Q or federal schedule 16 line 124.",
+  "true": 0.07,
+  "ctrl": 0.06,
+  "mutant": 0.06,
+  "mutation": "+->-"
+ },
+ {
+  "form": "013",
+  "line": "003",
+  "name": "Undepreciated capital cost at the beginning of the year",
+  "true": 0.16,
+  "ctrl": 0.1,
+  "mutant": 0.18,
+  "mutation": "constant 003->6"
+ },
+ {
+  "form": "013",
+  "line": "009",
+  "name": "Proceeds of dispositions during the year",
+  "true": 0.06,
+  "ctrl": 0.03,
+  "mutant": 0.05,
+  "mutation": "constant 005->10"
+ },
+ {
+  "form": "013",
+  "line": "035",
+  "name": "UCC adjustments for AIIP acquired during the year",
+  "true": 0.07,
+  "ctrl": 0.05,
+  "mutant": 0.07,
+  "mutation": "+->-"
+ },
+ {
+  "form": "013",
+  "line": "037",
+  "name": "UCC adjustments for non- AIIP acquired during the year",
+  "true": 0.1,
+  "ctrl": 0.06,
+  "mutant": 0.09,
+  "mutation": "+->-"
+ },
+ {
+  "form": "013",
+  "line": "017",
+  "name": "Terminal Loss",
+  "true": 0.06,
+  "ctrl": 0.06,
+  "mutant": 0.06,
+  "mutation": "constant 13->26"
+ },
+ {
+  "form": "013",
+  "line": "019",
+  "name": "Capital cost allowance",
+  "true": 0.06,
+  "ctrl": 0.06,
+  "mutant": 0.06,
+  "mutation": "constant 13->26"
+ },
+ {
+  "form": "013",
+  "line": "021",
+  "name": "Undepreciated capital cost at the end of the year",
+  "true": 0.11,
+  "ctrl": 0.1,
+  "mutant": 0.12,
+  "mutation": "constant 13->26"
+ },
+ {
+  "form": "016",
+  "line": "002",
+  "name": "Allowable current year SR&ED expenditures (from federal form 032 line 400)",
+  "true": 0.2,
+  "ctrl": 0.06,
+  "mutant": 0.17,
+  "mutation": ">-><="
+ },
+ {
+  "form": "016",
+  "line": "004",
+  "name": "Deduct: Gov\u2019t and non-gov\u2019t assistance for expenditures (use federal schedule 32 (T661) line 430 from 2007 and prior versions; use sum of lines 429, 431 and 432 from 2008 and later versions)",
+  "true": 0.09,
+  "ctrl": 0.05,
+  "mutant": 0.1,
+  "mutation": "constant 004->8"
+ },
+ {
+  "form": "016",
+  "line": "006",
+  "name": "Deduct: Previous yr\u2019s investment tax credit (ITC) claimed for SR&ED (from federal form 032 line 435)",
+  "true": 0.36,
+  "ctrl": 0.25,
+  "mutant": 0.39,
+  "mutation": "constant 004->8"
+ },
+ {
+  "form": "016",
+  "line": "008",
+  "name": "Deduct: Sale of SR&ED capital assets and other deductions (from federal form 032 line 440)",
+  "true": 0.18,
+  "ctrl": 0.16,
+  "mutant": 0.16,
+  "mutation": "constant 004->8"
+ },
+ {
+  "form": "016",
+  "line": "010",
+  "name": "Add: Repayments of government and non-government assistance for SR&ED (from federal form 032 line 445)",
+  "true": 0.2,
+  "ctrl": 0.17,
+  "mutant": 0.17,
+  "mutation": "constant 004->8"
+ },
+ {
+  "form": "016",
+  "line": "014",
+  "name": "Add: SR&ED expenditure pool transfer from amalgamation or wind-up of a wholly-owned subsidiary",
+  "true": 0.05,
+  "ctrl": 0.08
+ },
+ {
+  "form": "016",
+  "line": "015",
+  "name": "Add: Amount of ITC recaptured in the previous taxation year (from federal form 032 line 453)",
+  "true": 0.14,
+  "ctrl": 0.09
+ },
+ {
+  "form": "016",
+  "line": "016",
+  "name": "Subtotal",
+  "true": 0.15,
+  "ctrl": 0.17,
+  "mutant": 0.13,
+  "mutation": ">-><="
+ },
+ {
+  "form": "016",
+  "line": "018",
+  "name": "SR&ED expenditure pool deduction available",
+  "true": 0.15,
+  "ctrl": 0.13
+ },
+ {
+  "form": "016",
+  "line": "020",
+  "name": "Deduct: SR&ED expenditure pool deduction claimed",
+  "true": 0.1,
+  "ctrl": 0.12
+ },
+ {
+  "form": "016",
+  "line": "022",
+  "name": "Unclaimed SR&ED expenditure pool deduction balance",
+  "true": 0.36,
+  "ctrl": 0.09
+ },
+ {
+  "form": "017",
+  "line": "017",
+  "name": "Opening balance for the year: Other Tax Reserves",
+  "true": 0.07,
+  "mutant": 0.07,
+  "mutation": "constant 001->2"
+ },
+ {
+  "form": "018",
+  "line": "001",
+  "name": "Is the corporation electing to transfer property per ACTA 14.1, 14.2 or 16.1?",
+  "true": 0.26,
+  "ctrl": 0.04
+ },
+ {
+  "form": "018",
+  "line": "054",
+  "name": "Gain or (loss): Total of all shares",
+  "true": 0.05,
+  "ctrl": 0.09,
+  "mutant": 0.05,
+  "mutation": "constant 062->124"
+ },
+ {
+  "form": "018",
+  "line": "055",
+  "name": "Gain or (loss): Total of all real estate",
+  "true": 0.04,
+  "ctrl": 0.1,
+  "mutant": 0.05,
+  "mutation": ">-><="
+ },
+ {
+  "form": "018",
+  "line": "056",
+  "name": "Gain or (loss): Total of all bonds",
+  "true": 0.03,
+  "ctrl": 0.11,
+  "mutant": 0.04,
+  "mutation": ">-><="
+ },
+ {
+  "form": "018",
+  "line": "057",
+  "name": "Gain or (loss): Total of all other property",
+  "true": 0.07,
+  "ctrl": 0.07,
+  "mutant": 0.07,
+  "mutation": "-->+"
+ },
+ {
+  "form": "018",
+  "line": "058",
+  "name": "Gain: Total of all personal-use property",
+  "true": 0.07,
+  "ctrl": 0.08,
+  "mutant": 0.06,
+  "mutation": "min->max"
+ },
+ {
+  "form": "018",
+  "line": "059",
+  "name": "Gain: Total of all listed personal property",
+  "true": 0.05,
+  "ctrl": 0.09,
+  "mutant": 0.05,
+  "mutation": "min->max"
+ },
+ {
+  "form": "018",
+  "line": "060",
+  "name": "Subtract: Unapplied listed personal property losses from other years up to the total listed personal property gains",
+  "true": 0.09,
+  "ctrl": 0.07,
+  "mutant": 0.06,
+  "mutation": "min->max"
+ },
+ {
+  "form": "018",
+  "line": "064",
+  "name": "Capital gains dividends",
+  "true": 0.15,
+  "ctrl": 0.07,
+  "mutant": 0.1,
+  "mutation": "min->max"
+ },
+ {
+  "form": "018",
+  "line": "066",
+  "name": "Add: capital gain reserve opening balance",
+  "true": 0.08,
+  "ctrl": 0.04,
+  "mutant": 0.07,
+  "mutation": "min->max"
+ },
+ {
+  "form": "018",
+  "line": "068",
+  "name": "Deduct: capital gain reserve closing balance",
+  "true": 0.08,
+  "ctrl": 0.09,
+  "mutant": 0.07,
+  "mutation": "constant 070->140"
+ },
+ {
+  "form": "018",
+  "line": "071",
+  "name": "Deduct: Gain on the donation to a qualified done of a share, debt obligation, or right listed on a designated stock exchange and other securities",
+  "true": 0.07,
+  "ctrl": 0.07,
+  "mutant": 0.07,
+  "mutation": "-->+"
+ },
+ {
+  "form": "018",
+  "line": "073",
+  "name": "Deduct: Gain on donation to a qualified done of ecologically sensitive land",
+  "true": 0.06,
+  "ctrl": 0.04,
+  "mutant": 0.05,
+  "mutation": "min->max"
+ },
+ {
+  "form": "018",
+  "line": "076",
+  "name": "Taxable capital gain: Line 074 X 50% Taxable capital gain: Line 099 x 50%",
+  "true": 0.06,
+  "ctrl": 0.14,
+  "mutant": 0.06,
+  "mutation": "constant 086->172"
+ },
+ {
+  "form": "018",
+  "line": "077",
+  "name": "Add: Exemption threshold at time of disposal",
+  "true": 0.08,
+  "ctrl": 0.06,
+  "mutant": 0.07,
+  "mutation": "constant 096->192"
+ },
+ {
+  "form": "018",
+  "line": "078",
+  "name": "Add; Total of capital gains from disposition of actual property",
+  "true": 0.06,
+  "ctrl": 0.06,
+  "mutant": 0.06,
+  "mutation": "constant 070->140"
+ },
+ {
+  "form": "018",
+  "line": "086",
+  "name": "Date of Acquisition YYYYMMDD",
+  "true": 0.11,
+  "ctrl": 0.06,
+  "mutant": 0.1,
+  "mutation": ">-><="
+ },
+ {
+  "form": "018",
+  "line": "092",
+  "name": "Outlays and expenses",
+  "true": 0.11,
+  "ctrl": 0.08,
+  "mutant": 0.12,
+  "mutation": "constant 086->172"
+ },
+ {
+  "form": "018",
+  "line": "094",
+  "name": "(Loss) Col. A - (Cols. B + C): Allowable Business Investment Loss: total of column D X Inclusion Rate",
+  "true": 0.21,
+  "ctrl": 0.1,
+  "mutant": 0.18,
+  "mutation": "constant 094->188"
+ },
+ {
+  "form": "018",
+  "line": "096",
+  "name": "Taxable capital gains under section 34.2 of the federal Act",
+  "true": 0.25,
+  "ctrl": 0.23,
+  "mutant": 0.24,
+  "mutation": "+->-"
+ },
+ {
+  "form": "018",
+  "line": "098",
+  "name": "Deduct: Allowable capital losses under section 34.2 of the federal Act",
+  "true": 0.37,
+  "ctrl": 0.39,
+  "mutant": 0.35,
+  "mutation": "+->-"
+ },
+ {
+  "form": "020",
+  "line": "030",
+  "name": "Alberta net income for tax purposes*: schedule 12, line 054 X 75%",
+  "true": 0.05,
+  "ctrl": 0.06,
+  "mutant": 0.04,
+  "mutation": "constant 032->64"
+ },
+ {
+  "form": "020",
+  "line": "032",
+  "name": "Taxable capital gains arising in respect of gifts of capital property",
+  "true": 0.06,
+  "ctrl": 0.03,
+  "mutant": 0.06,
+  "mutation": "constant 032->64"
+ },
+ {
+  "form": "020",
+  "line": "034",
+  "name": "Taxable capital gain in respect of deemed gifts of non-qualifying securities per ITA subsection 40(1.01)",
+  "true": 0.1,
+  "ctrl": 0.06,
+  "mutant": 0.09,
+  "mutation": "constant 032->64"
+ },
+ {
+  "form": "020",
+  "line": "036",
+  "name": "The amount of the recapture of capital cost allowance in respect of charitable gifts",
+  "true": 0.09,
+  "ctrl": 0.05,
+  "mutant": 0.1,
+  "mutation": "constant 032->64"
+ },
+ {
+  "form": "020",
+  "line": "038",
+  "name": "Proceeds of dispositions less outlays and expenses",
+  "true": 0.08,
+  "ctrl": 0.06,
+  "mutant": 0.08,
+  "mutation": "constant 032->64"
+ },
+ {
+  "form": "020",
+  "line": "040",
+  "name": "The capital cost",
+  "true": 0.06,
+  "ctrl": 0.03,
+  "mutant": 0.06,
+  "mutation": "constant 032->64"
+ },
+ {
+  "form": "020",
+  "line": "092",
+  "name": "Charitable donations available for carryforward",
+  "true": 0.04,
+  "ctrl": 0.04,
+  "mutant": 0.04,
+  "mutation": ">-><="
+ },
+ {
+  "form": "020",
+  "line": "094",
+  "name": "Gifts to Canada, a province, or territory available for carryforward",
+  "true": 0.04,
+  "ctrl": 0.08,
+  "mutant": 0.04,
+  "mutation": ">-><="
+ },
+ {
+  "form": "020",
+  "line": "096",
+  "name": "Gifts of certified cultural property available for carryforward",
+  "true": 0.04,
+  "ctrl": 0.04,
+  "mutant": 0.04,
+  "mutation": ">-><="
+ },
+ {
+  "form": "020",
+  "line": "098",
+  "name": "Gifts of certified ecological sensitive land available for carryforward",
+  "true": 0.04,
+  "ctrl": 0.04,
+  "mutant": 0.05,
+  "mutation": ">-><="
+ },
+ {
+  "form": "020",
+  "line": "100",
+  "name": "Additional deduction for gifts of medicine available for carryforward",
+  "true": 0.08,
+  "ctrl": 0.07,
+  "mutant": 0.08,
+  "mutation": "constant 16->32"
+ },
+ {
+  "form": "021",
+  "line": "001",
+  "name": "Net Income (loss) per AB Sched. 12 line 054",
+  "true": 0.1,
+  "ctrl": 0.03,
+  "mutant": 0.09,
+  "mutation": "constant 003->6"
+ },
+ {
+  "form": "021",
+  "line": "003",
+  "name": "Deduct: Net capital losses deducted in the year",
+  "true": 0.09,
+  "ctrl": 0.03,
+  "mutant": 0.1,
+  "mutation": "constant 003->6"
+ },
+ {
+  "form": "021",
+  "line": "017",
+  "name": "Deduct: ITA section 110.5 and 115(1)(a)(vii) additions for foreign tax credits",
+  "true": 0.08,
+  "ctrl": 0.05,
+  "mutant": 0.08,
+  "mutation": "constant 003->6"
+ },
+ {
+  "form": "021",
+  "line": "021",
+  "name": "Non-capital loss for the current year",
+  "true": 0.11,
+  "ctrl": 0.05,
+  "mutant": 0.11,
+  "mutation": "constant 003->6"
+ },
+ {
+  "form": "021",
+  "line": "139",
+  "name": "Limited partnership losses applied",
+  "true": 0.06,
+  "ctrl": 0.04,
+  "mutant": 0.06,
+  "mutation": "+->-"
+ },
+ {
+  "form": "021",
+  "line": "141",
+  "name": "Limited partnership losses closing balance (133 + 135 + 137 - 139)",
+  "true": 0.05,
+  "ctrl": 0.04,
+  "mutant": 0.06,
+  "mutation": ">-><="
+ },
+ {
+  "form": "021",
+  "line": "200",
+  "name": "RIFE at the end of the previous tax year",
+  "true": 0.06,
+  "ctrl": 0.06,
+  "mutant": 0.06,
+  "mutation": "constant 220->440"
+ },
+ {
+  "form": "021",
+  "line": "210",
+  "name": "RIFE - Add: RIFE transferred from wind-up of a wholly-owned subsidiary or amalgamation",
+  "true": 0.06,
+  "ctrl": 0.03,
+  "mutant": 0.06,
+  "mutation": "constant 220->440"
+ },
+ {
+  "form": "021",
+  "line": "220",
+  "name": "RIFE- Deduct: adjustment for an acquisition of control",
+  "true": 0.06,
+  "ctrl": 0.04,
+  "mutant": 0.06,
+  "mutation": "+->-"
+ },
+ {
+  "form": "021",
+  "line": "240",
+  "name": "RIFE - Deduct: RIFE deducted for the tax year",
+  "true": 0.05,
+  "ctrl": 0.04,
+  "mutant": 0.05,
+  "mutation": "constant 340->680"
+ },
+ {
+  "form": "021",
+  "line": "250",
+  "name": "Closing Balance of RIFE",
+  "true": 0.12,
+  "ctrl": 0.13,
+  "mutant": 0.1,
+  "mutation": "constant 340->680"
+ },
+ {
+  "form": "021",
+  "line": "310",
+  "name": "RIFE from previous tax years",
+  "true": 0.11,
+  "ctrl": 0.07,
+  "mutant": 0.09,
+  "mutation": "constant 340->680"
+ },
+ {
+  "form": "021",
+  "line": "153",
+  "name": "Tax year end",
+  "true": 0.18,
+  "ctrl": 0.06,
+  "mutant": 0.1,
+  "mutation": ">-><="
+ },
+ {
+  "form": "021",
+  "line": "155",
+  "name": "Balance at the beginning of year",
+  "true": 0.04,
+  "ctrl": 0.04,
+  "mutant": 0.05,
+  "mutation": "constant 20->40"
+ },
+ {
+  "form": "021",
+  "line": "157",
+  "name": "Loss incurred in current year",
+  "true": 0.07,
+  "ctrl": 0.05,
+  "mutant": 0.04,
+  "mutation": ">-><="
+ },
+ {
+  "form": "021",
+  "line": "159",
+  "name": "Adjustments and Transfers",
+  "true": 0.06,
+  "ctrl": 0.04,
+  "mutant": 0.06,
+  "mutation": "+->-"
+ },
+ {
+  "form": "021",
+  "line": "165",
+  "name": "Loss carried back",
+  "true": 0.05,
+  "ctrl": 0.05,
+  "mutant": 0.05,
+  "mutation": "constant 21->42"
+ },
+ {
+  "form": "021",
+  "line": "167",
+  "name": "Applied to reduce taxable income",
+  "true": 0.05,
+  "ctrl": 0.03,
+  "mutant": 0.05,
+  "mutation": "constant 21->42"
+ },
+ {
+  "form": "021",
+  "line": "169",
+  "name": "Balance at the end of year (155 + 157 + 159 - 165 - 167)",
+  "true": 0.07,
+  "ctrl": 0.12,
+  "mutant": 0.08,
+  "mutation": "+->-"
+ },
+ {
+  "form": "021",
+  "line": "183",
+  "name": "Farm losses",
+  "true": 0.05,
+  "ctrl": 0.05,
+  "mutant": 0.06,
+  "mutation": "+->-"
+ },
+ {
+  "form": "021",
+  "line": "185",
+  "name": "Restricted farm losses",
+  "true": 0.05,
+  "ctrl": 0.04,
+  "mutant": 0.05,
+  "mutation": "+->-"
+ },
+ {
+  "form": "021",
+  "line": "187",
+  "name": "Listed personal property losses",
+  "true": 0.12,
+  "ctrl": 0.03,
+  "mutant": 0.04,
+  "mutation": "<=->>"
+ },
+ {
+  "form": "029",
+  "line": "003",
+  "name": "Federal amount of qualified SR & ED expenditures at line 557/559 of federal T661",
+  "true": 0.15,
+  "ctrl": 0.08,
+  "mutant": 0.14,
+  "mutation": ">-><="
+ },
+ {
+  "form": "029",
+  "line": "005",
+  "name": "Portion of line 557/559 of federal T661 carried out in Alberta",
+  "true": 0.13,
+  "ctrl": 0.04,
+  "mutant": 0.13,
+  "mutation": ">-><="
+ },
+ {
+  "form": "029",
+  "line": "007",
+  "name": "Deduct: Federal prescribed proxy amount (if any) included in the Alberta portion of line 557/559",
+  "true": 0.18,
+  "ctrl": 0.06,
+  "mutant": 0.25,
+  "mutation": ">-><="
+ },
+ {
+  "form": "029",
+  "line": "009",
+  "name": "Add: Alberta proxy amount",
+  "true": 0.16,
+  "ctrl": 0.03,
+  "mutant": 0.16,
+  "mutation": "+->-"
+ },
+ {
+  "form": "029",
+  "line": "011",
+  "name": "Add: IEG that reduced the federal expenditure in line 557/559 of federal T661 in the taxation year",
+  "true": 0.16,
+  "ctrl": 0.16,
+  "mutant": 0.17,
+  "mutation": "constant 031->62"
+ },
+ {
+  "form": "029",
+  "line": "025",
+  "name": "Add: Alberta portion of any repayment of assistance (other than an IEG) and contract payments made in the year that relates to amounts included in line 005 made in the taxation year or any preceding taxation year",
+  "true": 0.11,
+  "ctrl": 0.1,
+  "mutant": 0.11,
+  "mutation": ">-><="
+ },
+ {
+  "form": "029",
+  "line": "100",
+  "name": "Is the corporation associated with one or more corporations for IEG purposes?",
+  "true": 0.09,
+  "ctrl": 0.03,
+  "mutant": 0.12,
+  "mutation": "constant 110->220"
+ },
+ {
+  "form": "029",
+  "line": "102",
+  "name": "If the corporation is associated (line 100 = Yes), enter the allocated amount from applicable line 240 on page 3",
+  "true": 0.08,
+  "ctrl": 0.06,
+  "mutant": 0.08,
+  "mutation": "constant 100->200"
+ },
+ {
+  "form": "029",
+  "line": "104",
+  "name": "If the corporation is not associated (line 100 = No), calculate Maximum Expenditure Limit",
+  "true": 0.14,
+  "ctrl": 0.03,
+  "mutant": 0.13,
+  "mutation": "constant 100->200"
+ },
+ {
+  "form": "029",
+  "line": "108",
+  "name": "Maximum expenditure limit for the year",
+  "true": 0.53,
+  "ctrl": 0.33,
+  "mutant": 0.49,
+  "mutation": "constant 100->200"
+ },
+ {
+  "form": "029",
+  "line": "112",
+  "name": "((Lesser of line 31 and line 108)- Base Amount)*12%",
+  "true": 0.07,
+  "ctrl": 0.05,
+  "mutant": 0.08,
+  "mutation": "constant 365->730"
+ },
+ {
+  "form": "029",
+  "line": "200",
+  "name": "The Corporate Account Number of the associated corporation with the longest taxation year.",
+  "true": 0.27,
+  "ctrl": 0.04,
+  "mutant": 0.27,
+  "mutation": "constant 220->440"
+ },
+ {
+  "form": "029",
+  "line": "202",
+  "name": "Taxation Year Beginning",
+  "true": 0.15,
+  "ctrl": 0.07,
+  "mutant": 0.14,
+  "mutation": ">-><="
+ },
+ {
+  "form": "029",
+  "line": "204",
+  "name": "Taxation Year Ending",
+  "true": 0.13,
+  "ctrl": 0.07,
+  "mutant": 0.12,
+  "mutation": "+->-"
+ },
+ {
+  "form": "029",
+  "line": "206",
+  "name": "Number of days in the longest year",
+  "true": 0.05,
+  "ctrl": 0.02,
+  "mutant": 0.05,
+  "mutation": ">-><="
+ },
+ {
+  "form": "029",
+  "line": "230",
+  "name": "Alberta Corporate Account Number",
+  "true": 0.13,
+  "ctrl": 0.06,
+  "mutant": 0.11,
+  "mutation": ">-><="
+ },
+ {
+  "form": "029",
+  "line": "240",
+  "name": "Allocated Amount Expenditure Limit. Enter the amount allocated to the corporation on line 102 on page 2",
+  "true": 0.07,
+  "ctrl": 0.08,
+  "mutant": 0.07,
+  "mutation": "+->-"
+ },
+ {
+  "form": "029",
+  "line": "250",
+  "name": "Enter eligible expenditures for the first preceding year",
+  "true": 0.06,
+  "ctrl": 0.06,
+  "mutant": 0.06,
+  "mutation": "constant 220->440"
+ },
+ {
+  "form": "029",
+  "line": "260",
+  "name": "Enter eligible expenditures for second preceding year",
+  "true": 0.07,
+  "ctrl": 0.08
+ },
+ {
+  "form": "029",
+  "line": "265",
+  "name": "Enter Taxable Capital for the first preceding year",
+  "true": 0.26,
+  "ctrl": 0.06,
+  "mutant": 0.23,
+  "mutation": "constant 208->416"
+ },
+ {
+  "form": "029",
+  "line": "268",
+  "name": "Allocated allowed amount to each corporation",
+  "true": 0.1,
+  "ctrl": 0.05,
+  "mutant": 0.09,
+  "mutation": "constant 208->416"
+ }
+]

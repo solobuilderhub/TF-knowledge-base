@@ -1,0 +1,456 @@
+[
+ {
+  "line": "001001",
+  "name": "Is the corporation associated with one or more Canadian-controlled private corporations?",
+  "rule_sents": [
+   "If fed 200160 equals 1 or fed form 023 exists, then value = 1 (Yes).",
+   "If fed 200160 is blank and there is no fed form 023, then 001001 must be completed.",
+   "Allow input of a valid code 1 (Yes) or 2 (No)."
+  ],
+  "impl_sents": [
+   "The answer is Yes (1) when the federal Schedule 23 associated-corporations list has any entry (a name or an assigned limit).",
+   "Otherwise it is the answer typed on the AT1 (Yes = 1, No = 2).",
+   "A typed No against a federal list is filed as Yes and reported as a finding.",
+   "If nothing is typed and there is no list, the line is left unanswered.",
+   "The federal T2 line 160 answer (fed 200160) is not read."
+  ],
+  "R": {
+   "R0": 0.22,
+   "R1": 0.04,
+   "R2": 0.76
+  },
+  "I": {
+   "I0": 0.75,
+   "I1": 0.5,
+   "I2": 0.74,
+   "I3": 0.28,
+   "I4": 0.13
+  },
+  "ctrl_rmin": 0.06,
+  "ctrl_imin": 0.5,
+  "mut": [
+   {
+    "what": "Yes -> No",
+    "rmin": 0.05,
+    "imin": 0.2
+   },
+   {
+    "what": "Yes -> No",
+    "rmin": 0.05,
+    "imin": 0.14
+   },
+   {
+    "what": "1 -> 2",
+    "rmin": 0.04,
+    "imin": 0.12
+   }
+  ]
+ },
+ {
+  "line": "001003",
+  "name": "Inc. from active business carried on in Canada as reported on the T2 line 400 OR schedule 12, line 106",
+  "rule_sents": [
+   "If form 012 exists and 012100 = 1, then value = 012102 + 012104.",
+   "If negative, default = 0.",
+   "Otherwise, if form 012 does not exist, default to fed 200400.",
+   "Threshold are: $300,000 on April 1, 2001 $350,000 on April 1, 2002 $400,000 on April 1, 2003 $430,000 on April 1, 2007 $460,000 on April 1, 2008 $500,000 on April 1, 2009 The amount must be prorated by the number of days in the partnership\u2019s fiscal period straddling the threshold dates."
+  ],
+  "impl_sents": [
+   "The line is filed only when active business income is above zero and the corporation is eligible (Schedule 1 is not filed otherwise).",
+   "Active business income is the federal amount (T2 line 400, fed 200400).",
+   "When the Schedule 12 reconciliation says Alberta differs from federal, it is the federal amount (typed, else the T2 figure) plus the discretionary adjustment, which is Schedule 12 line 102 plus line 104.",
+   "A negative result is treated as zero.",
+   "The specified-partnership-income recalculation of federal Schedule 7 is not applied."
+  ],
+  "R": {
+   "R0": 0.64,
+   "R1": 0.94,
+   "R2": 0.65,
+   "R3": 0.02
+  },
+  "I": {
+   "I0": 0.41,
+   "I1": 0.56,
+   "I2": 0.52,
+   "I3": 0.9,
+   "I4": 0.11
+  },
+  "ctrl_rmin": 0.03,
+  "ctrl_imin": 0.4,
+  "mut": [
+   {
+    "what": "1 -> 2",
+    "rmin": 0.02,
+    "imin": 0.09
+   },
+   {
+    "what": "1 -> 2",
+    "rmin": 0.02,
+    "imin": 0.16
+   },
+   {
+    "what": "above -> below",
+    "rmin": 0.02,
+    "imin": 0.11
+   }
+  ]
+ },
+ {
+  "line": "001009",
+  "name": "Taxable Income (less adj. For foreign tax credits. See Guide for calc. Details)",
+  "rule_sents": [
+   "If form 004 exists, calculate: 000062 - [(2.5 X fed 200636) + (10/3 X sum of 004008)].",
+   "If form 004 does not exist, calculate: 000062 - [(2.5 X fed 200636) + (10/3 X sum of fed 021180)].",
+   "If negative, default = zero."
+  ],
+  "impl_sents": [
+   "Alberta taxable income (Schedule 12 line 090 when Schedule 12 is filed, else the federal taxable income, T2 line 360 less deductions) less the sum of 2.5 times the federal foreign business tax credit (fed 200636) and 10/3 times the sum of the Schedule 4 federal non-business foreign tax credits (the 004008 amounts; the federal figure fed 021180 stands in when there is no Schedule 4).",
+   "The result is rounded and floored at zero.",
+   "It is taxable income before the allocation factor;",
+   "Schedule 1 applies its own factor at line 021."
+  ],
+  "R": {
+   "R0": 0.91,
+   "R1": 0.93,
+   "R2": 0.98
+  },
+  "I": {
+   "I0": 0.79,
+   "I1": 0.82,
+   "I2": 0.94,
+   "I3": 0.89
+  },
+  "ctrl_rmin": 0.03,
+  "ctrl_imin": 0.72,
+  "mut": [
+   {
+    "what": "12 -> 24",
+    "rmin": 0.9,
+    "imin": 0.75
+   },
+   {
+    "what": "12 -> 24",
+    "rmin": 0.91,
+    "imin": 0.74
+   },
+   {
+    "what": "times -> divided by",
+    "rmin": 0.49,
+    "imin": 0.37
+   }
+  ]
+ },
+ {
+  "line": "001015",
+  "name": "Business Limit: as determined from AREA B",
+  "rule_sents": [
+   "If 001001 = 1, then A = 001045001 X No. of days in tax year (Max 365)/365.",
+   "Otherwise, if 001001 = 2, calculate: For taxation years starting before April 7, 2022 A = $200,000 X No. of days in tax year (Max 365)/365.",
+   "B = A X fed 200415 (Max $11,250)/$11,250.",
+   "Value = A \u2013 B For taxation years starting after April 6, 2022 A = $200,000 X No. of days in tax year (Max 365)/365.",
+   "B = A X fed 200415 (Max $90,000)/$90,000.",
+   "Value = A \u2013 B"
+  ],
+  "impl_sents": [
+   "On the $200,000 base-amount scale.",
+   "Not associated: A is $200,000 times days in the tax year (maximum 365) divided by 365.",
+   "Associated: A is the filing corporation's allocated base amount (Area A line 045, first row) times days divided by 365.",
+   "The business limit is then reduced by the greater of the taxable-capital reduction and the passive-income reduction, both from the printed form's Area B, and less the line 515 assignment divided by 2.5.",
+   "The taxable-capital reduction is A times the lesser of $90,000 and 0.225 percent of taxable capital over $10,000,000, divided by $90,000; for years starting before 2022-04-07 the divisor and cap are $11,250.",
+   "This follows the printed form's Area B rather than the specification's rule, which subtracts only the taxable-capital reduction."
+  ],
+  "R": {
+   "R0": 0.36,
+   "R1": 0.33,
+   "R2": 0.19,
+   "R3": 0.16,
+   "R4": 0.34,
+   "R5": 0.34
+  },
+  "I": {
+   "I0": 0.75,
+   "I1": 0.9,
+   "I2": 0.36,
+   "I3": 0.12,
+   "I4": 0.59,
+   "I5": 0.52
+  },
+  "ctrl_rmin": 0.26,
+  "ctrl_imin": 0.88,
+  "mut": [
+   {
+    "what": "first -> last",
+    "rmin": 0.21,
+    "imin": 0.14
+   },
+   {
+    "what": "200,000 -> 400000",
+    "rmin": 0.2,
+    "imin": 0.14
+   },
+   {
+    "what": "times -> divided by",
+    "rmin": 0.15,
+    "imin": 0.12
+   }
+  ]
+ },
+ {
+  "line": "001019",
+  "name": "Amount reported on federal Schedule 5, line 127",
+  "rule_sents": [
+   "If fed 200750 = MJ, then value = fed 005127"
+  ],
+  "impl_sents": [
+   "Filed with the value of federal Schedule 5 line 127 (salaries and wages outside Canada) when that amount is above zero.",
+   "It is taken from the Outside Canada row of the federal Schedule 5 allocation, or typed on Schedule 1 when the AT1 is prepared without the T2.",
+   "It is not conditional on the federal multi-jurisdiction code fed 200750."
+  ],
+  "R": {
+   "R0": 0.08
+  },
+  "I": {
+   "I0": 0.55,
+   "I1": 0.75,
+   "I2": 0.37
+  },
+  "ctrl_rmin": 0.05,
+  "ctrl_imin": 0.75,
+  "mut": [
+   {
+    "what": "5 -> 10",
+    "rmin": 0.05,
+    "imin": 0.27
+   },
+   {
+    "what": "5 -> 10",
+    "rmin": 0.06,
+    "imin": 0.26
+   },
+   {
+    "what": "above -> below",
+    "rmin": 0.06,
+    "imin": 0.29
+   }
+  ]
+ },
+ {
+  "line": "001020",
+  "name": "Amount reported on federal Schedule 5, line 167",
+  "rule_sents": [
+   "If fed 200750 = MJ, then value = fed 005167"
+  ],
+  "impl_sents": [
+   "Filed with the value of federal Schedule 5 line 167 (gross revenue outside Canada) when that amount is above zero.",
+   "It is taken from the Outside Canada row of the federal Schedule 5 allocation, or typed on Schedule 1 when the AT1 is prepared without the T2.",
+   "It is not conditional on the federal multi-jurisdiction code fed 200750."
+  ],
+  "R": {
+   "R0": 0.12
+  },
+  "I": {
+   "I0": 0.58,
+   "I1": 0.73,
+   "I2": 0.37
+  },
+  "ctrl_rmin": 0.05,
+  "ctrl_imin": 0.8,
+  "mut": [
+   {
+    "what": "5 -> 10",
+    "rmin": 0.09,
+    "imin": 0.33
+   },
+   {
+    "what": "5 -> 10",
+    "rmin": 0.12,
+    "imin": 0.2
+   },
+   {
+    "what": "5 -> 10",
+    "rmin": 0.08,
+    "imin": 0.27
+   }
+  ]
+ },
+ {
+  "line": "001021",
+  "name": "Alberta allocation factor Allocation Agreement",
+  "rule_sents": [
+   "Value cannot be less than 000065.",
+   "If greater than 000065, then value must be calculated using the following adjusted form 002 amounts to determine form 002 column I amount: if fed 005100 is equal to 402, 409, 408, 411, 403, 404 or 405 then a. reduce 002004, 002014, 002024, 002034 or 002054, as applicable, by the amount at fed 005127, if any; and b. reduce 002008, 002018, 002028, 002038, 002048, 002058 or 002068, as applicable, by the amount of fed 005167, if any.",
+   "Default value = 000065.",
+   "If 001001 = 1, then this section must be completed."
+  ],
+  "impl_sents": [
+   "The Schedule 2 allocation factor, filed to six decimals.",
+   "When line 127 and line 167 are both zero it is the jacket's factor (line 065).",
+   "Otherwise, under the general rule (Regulation 402) and the bus and truck, grain elevator, pipeline, insurance, chartered bank and trust and loan formulas, the factor is recomputed with line 127 taken off the total salaries base and line 167 taken off the total gross revenue base; railway, airline, ship and divided-business formulas get no reduction and keep the jacket's factor.",
+   "The result is never below line 065 and never above 1."
+  ],
+  "R": {
+   "R0": 0.93,
+   "R1": 0.61,
+   "R2": 0.9,
+   "R3": 0.36
+  },
+  "I": {
+   "I0": 0.78,
+   "I1": 0.87,
+   "I2": 0.61,
+   "I3": 0.78
+  },
+  "ctrl_rmin": 0.06,
+  "ctrl_imin": 0.83,
+  "mut": [
+   {
+    "what": "never below -> never above",
+    "rmin": 0.35,
+    "imin": 0.52
+   },
+   {
+    "what": "2 -> 4",
+    "rmin": 0.29,
+    "imin": 0.63
+   },
+   {
+    "what": "above -> below",
+    "rmin": 0.3,
+    "imin": 0.48
+   }
+  ]
+ },
+ {
+  "line": "001041",
+  "name": "Name of the Associated Canadian-controlled Private Corporations",
+  "rule_sents": [
+   "If 001001 = 1, this field must exist.",
+   "Must be the same as each occurrence of fed 023100.",
+   "Sort such that 001041001 = corp filing this return."
+  ],
+  "impl_sents": [
+   "When associated, one row per corporation in the agreement, the filing corporation first.",
+   "The first row's name defaults to the corporation's legal name from the jacket.",
+   "The other rows' names are typed.",
+   "The names are not compared with the federal Schedule 23 names."
+  ],
+  "R": {
+   "R0": 0.47,
+   "R1": 0.38,
+   "R2": 0.87
+  },
+  "I": {
+   "I0": 0.93,
+   "I1": 0.92,
+   "I2": 0.9,
+   "I3": 0.93
+  },
+  "ctrl_rmin": 0.14,
+  "ctrl_imin": 0.73,
+  "mut": [
+   {
+    "what": "first -> last",
+    "rmin": 0.29,
+    "imin": 0.89
+   },
+   {
+    "what": "first -> last",
+    "rmin": 0.29,
+    "imin": 0.89
+   },
+   {
+    "what": "first -> last",
+    "rmin": 0.29,
+    "imin": 0.9
+   }
+  ]
+ },
+ {
+  "line": "001043",
+  "name": "Corporate Account Number",
+  "rule_sents": [
+   "Enter the applicable Alberta CAN for each corp registered in Alberta.",
+   "The value of 001043001 must be equal to the value of 000034."
+  ],
+  "impl_sents": [
+   "The Alberta corporate account number of each row.",
+   "The first row defaults to the filer's CAN from the jacket (000034); other rows are typed and optional."
+  ],
+  "R": {
+   "R0": 0.75,
+   "R1": 0.8
+  },
+  "I": {
+   "I0": 0.86,
+   "I1": 0.85
+  },
+  "ctrl_rmin": 0.1,
+  "ctrl_imin": 0.75,
+  "mut": [
+   {
+    "what": "first -> last",
+    "rmin": 0.54,
+    "imin": 0.83
+   },
+   {
+    "what": "000034 -> 68",
+    "rmin": 0.07,
+    "imin": 0.63
+   },
+   {
+    "what": "first -> last",
+    "rmin": 0.52,
+    "imin": 0.83
+   }
+  ]
+ },
+ {
+  "line": "001045",
+  "name": "Allocation of the Base Amount",
+  "rule_sents": [
+   "If there is a value at 001041, then this field must exist.",
+   "Enter the amount allocated to each associated corp with the first occurrence being the corp filing the return.",
+   "The allocation must be the same as per the federal schedule 23 this is accomplished by using the same percentage used federally to determine the allocation for Alberta purposes.",
+   "Multiply the $200,000 Alberta base amount by the corresponding value for the same corporation from fed 023350.",
+   "Ensure to sort such that 001045001 belonging to the corp filing this return.",
+   "Total of all occurrences max $200,000."
+  ],
+  "impl_sents": [
+   "The filer's allocated amount of the $200,000 base amount is the typed first row, else the federal business limit (Schedule 23) divided by 2.5, rounded.",
+   "A typed first-row amount that differs from that federal figure by more than $1 is reported as a finding.",
+   "The total across all rows is flagged when it exceeds $200,000."
+  ],
+  "R": {
+   "R0": 0.43,
+   "R1": 0.52,
+   "R2": 0.34,
+   "R3": 0.29,
+   "R4": 0.39,
+   "R5": 0.88
+  },
+  "I": {
+   "I0": 0.29,
+   "I1": 0.75,
+   "I2": 0.94
+  },
+  "ctrl_rmin": 0.03,
+  "ctrl_imin": 0.38,
+  "mut": [
+   {
+    "what": "200,000 -> 400000",
+    "rmin": 0.24,
+    "imin": 0.11
+   },
+   {
+    "what": "first -> last",
+    "rmin": 0.13,
+    "imin": 0.17
+   },
+   {
+    "what": "200,000 -> 400000",
+    "rmin": 0.24,
+    "imin": 0.09
+   }
+  ]
+ }
+]

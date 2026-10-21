@@ -112,6 +112,7 @@ def main() -> None:
     ap.add_argument("--forms", required=True)
     ap.add_argument("--only", nargs="*")
     ap.add_argument("--spec-dir", help="rule-book forms dir (default: AT1)")
+    ap.add_argument("--line-slice", default="3:6", help="slice of OUR line id that is the rule-book line (AT1 FFFLLLNNN: 3:6)")
     ap.add_argument("--model", default="jev-latest")
     ap.add_argument("--out", default=str(HERE / "pilot-result.json"))
     a = ap.parse_args()
@@ -127,9 +128,10 @@ def main() -> None:
             continue
         spec = json.loads((SPEC / f"{form}.json").read_text(encoding="utf8"))["rows"]
         by_line = {r["line"]: r for r in spec}
+        lo, hi = (int(x) for x in a.line_slice.split(":"))
         mine: dict[str, dict] = {}
         for f in fields:
-            mine.setdefault(f["line"][3:6], f)  # FFFLLLNNN -> LLL (first occurrence)
+            mine.setdefault(f["line"][lo:hi], f)  # AT1 FFFLLLNNN -> LLL (first occurrence)
         pairs = [(ln, by_line[ln], mine[ln]) for ln in by_line if ln in mine]
         pool = [m for _, _, m in pairs]
         for ln, r, m in pairs:

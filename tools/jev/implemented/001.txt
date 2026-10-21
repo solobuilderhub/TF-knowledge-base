@@ -6,13 +6,13 @@
 # assemble-provincial-input.ts.
 
 ### 001001
-The answer is Yes (1) when the federal Schedule 23 associated-corporations list has any entry (a name or an assigned limit). Otherwise it is the answer typed on the AT1 (Yes = 1, No = 2). A typed No against a federal list is filed as Yes and reported as a finding. If nothing is typed and there is no list, the line is left unanswered. The federal T2 line 160 answer (fed 200160) is not read.
+The answer is Yes (1) when the federal Schedule 23 associated-corporations list has any entry (a name or an assigned limit). Otherwise it is the answer typed on the AT1 (Yes = 1, No = 2). A typed No against a federal list is filed as Yes and reported as a finding. If nothing is typed and there is no list, the line is left unanswered. The federal T2 line 160 answer (fed 200160) is not collected by the T2 input contract, so it is not read; the Schedule 23 list stands in for it.
 
 ### 001003
 The line is filed only when active business income is above zero and the corporation is eligible (Schedule 1 is not filed otherwise). Active business income is the federal amount (T2 line 400, fed 200400). When the Schedule 12 reconciliation says Alberta differs from federal, it is the federal amount (typed, else the T2 figure) plus the discretionary adjustment, which is Schedule 12 line 102 plus line 104. A negative result is treated as zero. The specified-partnership-income recalculation of federal Schedule 7 is not applied.
 
 ### 001009
-Alberta taxable income (Schedule 12 line 090 when Schedule 12 is filed, else the federal taxable income, T2 line 360 less deductions) less the sum of 2.5 times the federal foreign business tax credit (fed 200636) and 10/3 times the sum of the Schedule 4 federal non-business foreign tax credits (the 004008 amounts; the federal figure fed 021180 stands in when there is no Schedule 4). The result is rounded and floored at zero. It is taxable income before the allocation factor; Schedule 1 applies its own factor at line 021.
+Alberta taxable income (Schedule 12 line 090 when Schedule 12 is filed, else the federal taxable income) less the sum of 2.5 times the federal foreign business tax credit (fed 200636) and 10/3 times the sum of the Schedule 4 federal non-business foreign tax credits (the 004008 amounts; the federal figure fed 021180 stands in when there is no Schedule 4). The result is rounded and floored at zero. It is taxable income before the allocation factor; Schedule 1 applies its own factor at line 021.
 
 ### 001015
 On the $200,000 base-amount scale. Not associated: A is $200,000 times days in the tax year (maximum 365) divided by 365. Associated: A is the filing corporation's allocated base amount (Area A line 045, first row) times days divided by 365. The business limit is then reduced by the greater of the taxable-capital reduction and the passive-income reduction, both from the printed form's Area B, and less the line 515 assignment divided by 2.5. The taxable-capital reduction is A times the lesser of $90,000 and 0.225 percent of taxable capital over $10,000,000, divided by $90,000; for years starting before 2022-04-07 the divisor and cap are $11,250. This follows the printed form's Area B rather than the specification's rule, which subtracts only the taxable-capital reduction.
@@ -27,7 +27,7 @@ Filed with the value of federal Schedule 5 line 167 (gross revenue outside Canad
 The Schedule 2 allocation factor, filed to six decimals. When line 127 and line 167 are both zero it is the jacket's factor (line 065). Otherwise, under the general rule (Regulation 402) and the bus and truck, grain elevator, pipeline, insurance, chartered bank and trust and loan formulas, the factor is recomputed with line 127 taken off the total salaries base and line 167 taken off the total gross revenue base; railway, airline, ship and divided-business formulas get no reduction and keep the jacket's factor. The result is never below line 065 and never above 1.
 
 ### 001041
-When associated, one row per corporation in the agreement, the filing corporation first. The first row's name defaults to the corporation's legal name from the jacket. The other rows' names are typed. The names are not compared with the federal Schedule 23 names.
+When associated, one row per corporation in the agreement, the filing corporation first. The first row's name defaults to the corporation's legal name from the jacket. The other rows' names are typed. When any Area A name is typed, every corporation named on the federal Schedule 23 associated list (fed 023100) must appear in Area A (compared ignoring case and surrounding spaces); an omission is reported as a finding. The reverse (an Area A name the federal list does not have) is not checked.
 
 ### 001043
 The Alberta corporate account number of each row. The first row defaults to the filer's CAN from the jacket (000034); other rows are typed and optional.

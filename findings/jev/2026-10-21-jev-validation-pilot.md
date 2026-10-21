@@ -23,15 +23,16 @@ code**. Use it as a lead generator for human review, never as a pass/fail gate o
 
 | Line | Lead | Status |
 |---|---|---|
-| 001001 | fed 200160 (T2 line 160) is not read; spec says Yes when it is 1 | **Open gap**: decide whether to read it |
+| 001001 | fed 200160 (T2 line 160) is not read; spec says Yes when it is 1 | **Decision**: the T2 input contract does not collect line 160; the Schedule 23 list stands in and a typed AT1 answer covers the rest. Written into `implemented/001.txt`; Jev no longer flags it once the text says so |
 | 001003 | specified-partnership-income recalculation (federal Schedule 7) not applied | Known, documented (Net File rule); open |
 | 001015 | printed form's Area B (greater of capital and passive reductions) vs spec's capital-only | Known decision G1-01; ask TRA |
 | 001019 / 001020 | condition `fed 200750 = MJ` not applied (filed whenever the amount > 0) | Open: harmless when 127 / 167 are zero outside multi-jurisdiction returns, but not the spec's wording |
-| 001041 | names are not compared with fed 023100 | **Open gap** (G1-09 follow-up) |
+| 001041 | names are not compared with fed 023100 | **False lead, caused by our own text**: the code already reports every federal Schedule 23 name missing from Area A (assemble-at1-schedules.ts, `filerBaseAmount`). The first draft of `implemented/001.txt` was wrong; corrected and re-run, the flag is gone. The reverse direction (an Area A name the federal list lacks) is not checked. Lesson: the text is only as honest as its author, so verify it against the code |
 | 001009, 001043 | clean | none |
 
-`implemented/001.txt` was written partly from memory of earlier work (the 041 name check and
-the Σ045 ≤ 200,000 check in particular): re-verify it against the code before relying on it.
+`implemented/001.txt` was re-verified against the code on 2026-10-21 (every entry read against
+schedule1Values and the server assemblers); the 041 entry and one 009 phrase were wrong and are
+corrected.
 
 ## Cost and terms
 

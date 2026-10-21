@@ -4,6 +4,10 @@ Evidence for everything below: `findings/jev/2026-10-21-jev-validation-pilot.md`
 Rule of thumb: **Jev compares short, single-claim text well; it judges long prose and code
 badly.** Deterministic tests decide correctness; Jev finds what to look at.
 
+**Status:** proven on AT1 (15 forms). There is no T2 rule book yet (CRA's CIF specification is not
+in `research/sources/`), so the T2 path is untested: step 1 comes first and the pipeline
+cannot start without it.
+
 ## The pipeline, in the order to run it
 
 For a new form set (T2 CIF, a new AT1 year, another province):
@@ -22,8 +26,8 @@ For a new form set (T2 CIF, a new AT1 year, another province):
      several sections (it compares the first occurrence), glyph noise in the spec.
    - A real one is a definition that names the wrong line, or a wrong form/line mapping.
    - Assumes our line ids are `FFFLLLNNN` (form, line, occurrence) and the rule book's `line`
-     is `LLL`. T2 ids differ: change the one key line in `pilot.py` (`f["line"][3:6]`) and
-     nothing else.
+     is `LLL`. T2 ids differ: pass `--line-slice lo:hi` (the slice of our id that is the rule-book
+     line; AT1 is `3:6`). Nothing else changes.
    - Healthy: AUC against the wrong-line control above 0.95. If it is lower, the pairing is
      wrong (keys), not the forms.
 4. **Formulas as formulas: `expr_check.py`.** Where the rule book has an `expr`, this proves

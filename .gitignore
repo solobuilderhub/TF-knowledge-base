@@ -2,3 +2,11 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+
+# secrets
+.env
+.env.*
+!.env.example
+
+# Jev outputs (hold rule text sent to the API; regenerate with the scripts)
+tools/jev/out/

@@ -198,7 +198,20 @@ def main() -> None:
                 r["caption"] = captions[key]
                 r["confidence"] = "checked"
             kept.append(r)
-        lines = kept
+        # Lines the geometry cannot reach (a row of column totals under one header row; a
+        # dynamic XFA form whose PDF pages are a placeholder). Entered by hand from the form
+        # image or the XFA template text, each with its source.
+        present = {(r["line"], r["page"]) for r in kept}
+        for key, entry in ov.get("add", {}).items():
+            line, page = key.split("@")
+            if (line, int(page)) in present:
+                sys.exit(f"{form}: add {key} is already extracted; remove the override")
+            if line in listed:
+                sys.exit(f"{form}: add {key} is a Chapter 3 line")
+            kept.append(
+                {"line": line, "caption": entry["caption"], "page": int(page), "confidence": "checked", "source": entry["source"]}
+            )
+        lines = sorted(kept, key=lambda r: (r["page"], r["line"]))
         stale = [k for k in {**excluded, **captions} if k not in {f"{r['line']}@{r['page']}" for r in extract_all}]
         if stale:
             sys.exit(f"{form}: override keys match no printed token: {stale}")

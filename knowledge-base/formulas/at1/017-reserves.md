@@ -47,7 +47,10 @@ Numbered lines on the printed form that the Net File specification does not list
 
 | Line | As printed | Page |
 |---|---|---|
-| 021 | Totals (the reserve columns 021, 051 and 081) | form p.1 |
+| 021 | TOTALS: Balance at the beginning of the year | form p.1 |
+| 051 | TOTALS: Transfer on amalgamation or wind-up of subsidiary | form p.1 |
+| 081 | TOTALS: Balance at the end of the year. Carry forward the amount at line 081 to Schedule 12, line 038 | form p.1 |
+| 091 | Line 021 + line 051 =. Carry forward the amount at line 091 to Schedule 12, line 036 | form p.1 |
 
 ## Federal inputs
 

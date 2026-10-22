@@ -58,3 +58,10 @@ Numbered lines on the printed form that the Net File specification does not list
 | 031 | Total: Eligible Expenditures for Alberta Purposes (lines 005 - 007 + 009 + 011 + 025) | form p.1 |
 | 118 | Base amount: average of line 114 + line 116 | form p.2 |
 | 208 | Maximum eligible expenditures: $4,000,000 X (line 206 / 365 days; 366 if the longest taxation year includes February 29) | form p.3 |
+| 270 | Totals, column 240 (allocated expenditure limit). Line 270: total must not exceed line 208 | form p.3 |
+| 275 | Totals, column 245 (current year's eligible expenditures) | form p.3 |
+| 280 | Totals, column 250 (eligible expenditures for the first preceding year) | form p.3 |
+| 290 | Totals, column 260 (eligible expenditures for the second preceding year) | form p.3 |
+| 300 | Totals, column 265 (taxable capital for the first preceding year) | form p.3 |
+| 310 | Totals, column 267 (individual corporation maximum allowed amount). Line 310: should be equal to line 275 minus the average of line 280 and line 290 | form p.3 |
+| 320 | Totals, column 268 (allocated allowed amount to each corporation). Line 320: must be less than or equal to line 310 | form p.3 |

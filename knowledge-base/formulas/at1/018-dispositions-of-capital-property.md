@@ -64,6 +64,19 @@
 | 096 | Taxable capital gains under section 34.2 of the federal Act | $ | X | PQRABIL | Must equal fed 006899 | 3-191 |
 | 098 | Deduct: Allowable capital losses under section 34.2 of the federal Act | $ | X | PQRABIL | Must equal fed 006901 | 3-191 |
 
+## Printed-form lines (not in Chapter 3)
+
+Numbered lines on the printed form that the Net File specification does not list: arithmetic, totals and signature boxes. They are **not transmitted**; the caption below is the formula as the form prints it, and the engine computes them. Read from `research/sources/tra-forms/pdf/` by `adapters/tra-printed-forms.py`.
+
+| Line | As printed | Page |
+|---|---|---|
+| 062 | Total of Column D (Do not include the amounts at lines 059 and 060 if the difference is a net loss) | form p.1 |
+| 070 | Capital gain or (loss): Line 062 + line 064 + line 066 - line 068 | form p.1 |
+| 075 | Line 070 minus (line 071 + 073) | form p.1 |
+| 079 | Lesser of lines 077 or 078 | form p.1 |
+| 097 | Subtotal: Line 075 + line 079 + line 096 | form p.1 |
+| 099 | Total capital gains or losses: Line 097 - line 098. If line 099 is negative, carry this capital loss amount forward to Schedule 21, line 057 | form p.1 |
+
 ## Formulas (machine-checkable)
 
 Rules that are pure arithmetic over line references, normalized (`×` → `*`, `–` → `-`). The formula-conformance test checks each against the engine.

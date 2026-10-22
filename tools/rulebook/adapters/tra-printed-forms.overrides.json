@@ -47,7 +47,21 @@
   },
   "017": {
     "caption": {
-      "021@1": "Totals (the reserve columns 021, 051 and 081)"
+      "021@1": "TOTALS: Balance at the beginning of the year"
+    },
+    "add": {
+      "051@1": {
+        "caption": "TOTALS: Transfer on amalgamation or wind-up of subsidiary",
+        "source": "printed form, page image"
+      },
+      "081@1": {
+        "caption": "TOTALS: Balance at the end of the year. Carry forward the amount at line 081 to Schedule 12, line 038",
+        "source": "printed form, page image"
+      },
+      "091@1": {
+        "caption": "Line 021 + line 051 =. Carry forward the amount at line 091 to Schedule 12, line 036",
+        "source": "printed form, page image"
+      }
     }
   },
   "029": {
@@ -60,11 +74,69 @@
     "caption": {
       "001@1": "Legal name",
       "208@3": "Maximum eligible expenditures: $4,000,000 X (line 206 / 365 days; 366 if the longest taxation year includes February 29)"
+    },
+    "add": {
+      "270@3": {
+        "caption": "Totals, column 240 (allocated expenditure limit). Line 270: total must not exceed line 208",
+        "source": "printed form, page 3 image (totals row under the allocation grid)"
+      },
+      "275@3": {
+        "caption": "Totals, column 245 (current year's eligible expenditures)",
+        "source": "printed form, page 3 image (totals row under the allocation grid)"
+      },
+      "280@3": {
+        "caption": "Totals, column 250 (eligible expenditures for the first preceding year)",
+        "source": "printed form, page 3 image (totals row under the allocation grid)"
+      },
+      "290@3": {
+        "caption": "Totals, column 260 (eligible expenditures for the second preceding year)",
+        "source": "printed form, page 3 image (totals row under the allocation grid)"
+      },
+      "300@3": {
+        "caption": "Totals, column 265 (taxable capital for the first preceding year)",
+        "source": "printed form, page 3 image (totals row under the allocation grid)"
+      },
+      "310@3": {
+        "caption": "Totals, column 267 (individual corporation maximum allowed amount). Line 310: should be equal to line 275 minus the average of line 280 and line 290",
+        "source": "printed form, page 3 image (totals row under the allocation grid)"
+      },
+      "320@3": {
+        "caption": "Totals, column 268 (allocated allowed amount to each corporation). Line 320: must be less than or equal to line 310",
+        "source": "printed form, page 3 image (totals row under the allocation grid)"
+      }
     }
   },
   "021": {
     "caption": {
       "015@1": "Line 001 - line 013 (if positive, enter \"0\")"
+    }
+  },
+  "018": {
+    "add": {
+      "062@1": {
+        "caption": "Total of Column D (Do not include the amounts at lines 059 and 060 if the difference is a net loss)",
+        "source": "sources/tra-forms/xfa/AT1SCH18-dispositions-TRA15156.template.txt (the PDF is a dynamic XFA placeholder)"
+      },
+      "070@1": {
+        "caption": "Capital gain or (loss): Line 062 + line 064 + line 066 - line 068",
+        "source": "sources/tra-forms/xfa/AT1SCH18-dispositions-TRA15156.template.txt (the PDF is a dynamic XFA placeholder)"
+      },
+      "075@1": {
+        "caption": "Line 070 minus (line 071 + 073)",
+        "source": "sources/tra-forms/xfa/AT1SCH18-dispositions-TRA15156.template.txt (the PDF is a dynamic XFA placeholder)"
+      },
+      "079@1": {
+        "caption": "Lesser of lines 077 or 078",
+        "source": "sources/tra-forms/xfa/AT1SCH18-dispositions-TRA15156.template.txt (the PDF is a dynamic XFA placeholder)"
+      },
+      "097@1": {
+        "caption": "Subtotal: Line 075 + line 079 + line 096",
+        "source": "sources/tra-forms/xfa/AT1SCH18-dispositions-TRA15156.template.txt (the PDF is a dynamic XFA placeholder)"
+      },
+      "099@1": {
+        "caption": "Total capital gains or losses: Line 097 - line 098. If line 099 is negative, carry this capital loss amount forward to Schedule 21, line 057",
+        "source": "sources/tra-forms/xfa/AT1SCH18-dispositions-TRA15156.template.txt (the PDF is a dynamic XFA placeholder)"
+      }
     }
   }
 }

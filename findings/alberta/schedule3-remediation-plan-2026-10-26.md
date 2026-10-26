@@ -78,3 +78,16 @@ table is what is filed). Without table rows the aggregate path still works, with
 Not done: a browser run of the filing flow with a Schedule 3 return (no dev servers were started
 in this session); recommended before release. The A-2 room decision is in code (stricter cap),
 and still worth a question to TRA.
+
+# Schedule 4 (issue-schedule4-fitc.md): status
+
+| Item | Status |
+|---|---|
+| 1 Line 012 always 0 (jacket inputs never supplied) | **Fixed**: ca-tax computes Schedule 4 inside `computeAlbertaReturn` with its own 062 / 064 / 065 / 068; the host passes country rows only |
+| 2 018 / 020, jacket 072 | **Fixed**: 020 = lesser of 014 and 018 is jacket 072 and Schedule 3's room |
+| 3 Nil form filed | **Fixed**: not filed when total 012 is nil |
+| 4 Federal links | **Partly**: federal Schedule 21 is aggregate here, so totals are compared (004 / 006 / 008) and a Schedule 4 with no federal foreign non-business income is reported. Per-country rows and sort order need a per-country federal Schedule 21: open |
+| 5 Schedule 12 side effect | **Fixed**: a differing ACTA 8(2.2) deduction enters 040 / 041 as a deduction on both sides, with an explanation at 048 |
+| 6 Comment, country format | **Fixed**: comment corrected; a non two-character country is reported (the shared fixture said "United States", now "US") |
+| 7 Negative credit | **Decision, kept the floor**; recorded at the code. Disagrees with AuraTax only where 008 > 006 on a row. Confirm with TRA |
+| 8 Columns C / D / G, lines 014 / 018 / 020 on screen | **Fixed**: on `display` (synthetic ids), read by the paper view |

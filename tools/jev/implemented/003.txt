@@ -1,0 +1,57 @@
+# AT1 Schedule 3: what the engine implements (ca-tax schedule3-other-deductions-credits.ts, 2026-10-26).
+# Written from the code, not the specification. Where a credit has a year-of-origin table with rows, the
+# table is the source of page 1 and is filed; without rows the typed page-1 figures are used and no table is filed.
+
+### 003104
+With an ITC table, the amount applied is the sum of line 126 over the rows; with no row amounts it is the typed page-1 claim; with neither it is the maximum. The maximum is the pool (line 100 plus line 102) less line 106 expired, and not more than line 602, floored at zero. A claim above that is reduced and reported. A typed page-1 figure that differs from the sum of 126 is reported and the table figure is filed.
+
+### 003106
+With an ITC table, the sum of line 128. Otherwise the typed amount. Line 128 on any occurrence other than 4 is reported (the rule allows an amount on the last year only).
+
+### 003108
+100 plus 102 less 104 less 106. A negative result is reported.
+
+### 003204
+Zero whenever line 108 is above zero. Otherwise, from the CITC table (sum of 226) or the typed claim, else the maximum: the pool (200 plus 202) less 206, and not more than line 602 less line 104. A claim above that is reduced and reported.
+
+### 003206
+With a CITC table, the sum of line 228; otherwise typed. Line 228 on any occurrence other than 10 is reported.
+
+### 003304
+With an APITC table, line 336 on occurrence 0, not more than 20 percent of that row's line 334 and not more than line 334. Without a table, the typed current-year claim, with the same cap on the typed receipt.
+
+### 003306
+Line 336 on occurrence 1, not more than 30 percent of that row's original receipt (line 334) and not more than its balance (line 335). If the table has no line 334 for the row, the cap is 30 percent of line 335 and a note says it can understate.
+
+### 003308
+Line 336 on occurrence 2, not more than 50 percent of that row's original receipt (line 334) and not more than its balance (line 335).
+
+### 003310
+The sum of line 336 on occurrences 3 to 10, each limited to its own balance (line 335). On the aggregate path, the typed claim limited to the block balance less the typed expired amount.
+
+### 003312
+304 plus 306 plus 308 plus 310. Application is limited to line 068 less (070 + 072) less (104 + 204), as the rule states, and also to line 602 less (104 + 204), so no credit is used up that line 604 will not deduct. When the room is short the claims are met oldest vintage first and the shortfall is reported.
+
+### 003314
+With an APITC table, line 338 on occurrence 10, which is derived as line 335 less line 336 there; a typed 338 that differs is reported, and an amount on occurrences 1 to 9 is reported. On the aggregate path, the typed amount.
+
+### 003316
+300 plus 302 less 312 less 314. A negative result is reported.
+
+### 003336
+Per occurrence: occurrence 0 at most 20 percent of line 334, occurrence 1 at most 30 percent of line 334, occurrence 2 at most 50 percent of line 334, occurrences 3 to 10 at most their own line 335. A typed amount above its cap is reduced to the cap and reported.
+
+### 003340
+Occurrence 0 is line 334 less line 336. Occurrences 1 to 10 are line 335 less line 336 less line 338. The sum over the rows equals line 316.
+
+### 003130
+For each ITC row, 124 plus 125 less 126 less 128. Filed per occurrence when the table has rows. The opening balance (124) is not filed on occurrence 0 and line 125 is filed on occurrence 0 only.
+
+### 003600
+104 plus 204 plus 312.
+
+### 003602
+068 less (070 + 071 + 072 + 074), where 071 and 074 are the amounts typed on the jacket and 072 is the Schedule 4 credit limited to 068 less (070 + 071). It is not floored.
+
+### 003604
+The lesser of 600 and 602, floored at zero. It is filed as jacket line 076, and jacket line 080 is 068 less (070 + 071 + 072 + 074 + 076).

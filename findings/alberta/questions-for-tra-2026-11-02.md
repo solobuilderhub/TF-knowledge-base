@@ -45,7 +45,9 @@ Chapter 3 (001015) and the printed Schedule 1 (TRA11723, Area B) give different 
 10. Line 015105 ("Deduct: credit balance in the CCOGPE pool"): the rule says "If amount A is negative,
     then value = amount A." Line 015115 then subtracts 015105. Taken literally, a negative 105 is
     added to the CDE pool. Is 105 meant to be the credit balance as a positive amount (so the
-    deduction reduces CDE), as the caption and the Income Tax Act treatment suggest?
+    deduction reduces CDE), as the caption and the Income Tax Act treatment suggest? The same question
+    applies to the successor side (015133, "if amount A is negative, then value may not exceed amount A",
+    subtracted in 015141).
 11. Line 015169: a negative A is routed to 105 "if the corporation has made a designation under
     66.7(4)(a)(iii)", otherwise to 015133. Which field carries the designation in Net File?
 12. Line 015191: the rule subtracts `015167 + 015169` (claims on the regular pool) from the successor
@@ -53,9 +55,13 @@ Chapter 3 (001015) and the printed Schedule 1 (TRA11723, Area B) give different 
 13. Accelerated claims: 015115 / 141 / 169 / 189 say "Accelerated claims will be accepted by TRA's system.
     Override of the above calculation should be utilized to report accelerated claims." How is an
     override transmitted: simply a value above the 30% / 10% cap, or a separate indicator?
-14. Negative foreign pools (015209 / 221 / 253 / 273 / 293 / 313): "include the pool balance in 012040".
-    Is it entered as a positive amount at 012040 with the federal counterpart on 012041 (and an
-    explanation at 012048), as for the Schedule 18 component?
+14. Negative pools (015209 / 221 / 253 / 273 / 293 / 313 and a negative CDE pool at 015107 / 015139):
+    "include the pool balance in 012040". Is it entered as a positive amount at 012040 with the federal
+    counterpart on 012041 (and an explanation at 012048), as for the Schedule 18 component? Which
+    Schedule 15 areas does the 012040 rule list (the Chapter 3 text for it, p. 3-110, reads garbled)?
+21. 015313 (CFRE successor): the cap is "total of all occurrences of 015317". Is that a per-country cap equal
+    to the total foreign resource income of all countries (so the countries together may claim more than
+    that total), or should the claims across all countries together not exceed the sum of 015317?
 
 ## F. Schedule 12 (income / loss reconciliation)
 
@@ -66,6 +72,12 @@ Chapter 3 (001015) and the printed Schedule 1 (TRA11723, Area B) give different 
     negative loss amount?
 17. 012092 ("fed 200370"): only for section 149(1)(t) insurers. Can it be omitted for everyone else
     (we send 0)?
+20. 021157 (loss incurred in current year, occurrence 0): "Value must equal 021021." 021021 is the
+    non-capital loss as a negative amount, while 021169 = 155 + 157 + 159 - 165 - 167 only produces the
+    closing balance if 157 is positive. Is 157 the loss as a positive amount (= 021021 x -1, as 021037)?
+    We file it positive.
+22. 012106 and 012052 / 080 / 081: these are printed on the form and not listed in Chapter 3. We do not
+    transmit them. Confirm they are not expected.
 
 ## G. Schedule 4 and federal Schedule 21 per country
 

@@ -91,3 +91,33 @@ Chapter 3 (001015) and the printed Schedule 1 (TRA11723, Area B) give different 
     Reg 413 (non-residents) applies)". For Schedule 1 line 021, the rule lists regulations 402, 403, 404,
     405, 408, 409 and 411 for the 127 / 167 reduction. For a Reg 413 corporation, we take 127 and 167 off
     the totals once (Schedule 2) and make no further reduction at 021. Is that the intended result?
+
+## I. Added 2026-11-11 (from the schedules 16 / 17 / 18 / 20 / 21 / 29 and jacket reports)
+
+23. Schedule 18, lines 096 and 098 (the s. 34.2 partnership amounts, federal Schedule 73 lines 275 / 285).
+    076 is "(097 - 098) x inclusion rate" with 097 = subtotal + 096. If 275 / 285 are already the taxable
+    (50%) amounts, should they be grossed up (x 2) before the inclusion rate is applied, or added as they
+    are? We gross them up so that 076 matches the printed arithmetic. Please confirm which TRA recomputes.
+24. Jacket 000129 against Schedule 29 line 130. Both carry the grant amount. When the two disagree (for
+    example after the grant is limited), which one does TRA validate, and what is the tolerance?
+25. Jacket 000090 (balance of tax payable / overpayment). The printed form and Chapter 3 differ on how the
+    instalments and 092 relate. Is 000092 required whenever 000090 is negative, and ignored otherwise?
+26. Jacket 000071 (manufacturing and processing deduction). The formula gives F = 0 for years after
+    2001-03-31. If a value is sent, is it rejected or ignored? We send nothing.
+27. Jacket 000074 (political contributions credit). We cap it at 1,000 and at the room left after 070-072.
+    Is there a rule beyond Schedule 8 (which we do not file) that TRA expects us to apply?
+28. Schedule 20, line 076 and 016. We cap 076 at 012054 - 012056 and 016 at 012054. Please confirm
+    that 016 and 076 are not otherwise limited, and that Schedule 20 must not be created in a nil or
+    loss year (we do not file it, and leave the donations in the federal pool).
+
+### Resolution of 23–28 (team answers, 2026-11-12)
+
+Closed from the spec / IEG Guide / TC2-TC3 acceptance — do NOT send: 24 (129 = Schedule 29 line 134), 26 (071 is
+always 0), 27 (074 is 0 without Schedule 8, locked), 28 (016 / 076 caps and no Schedule 20 in a loss year are in
+the spec). 25 is closed once the 090 approach is chosen (we keep the printed form's 090 and require 092).
+
+Still for TRA:
+- **23.** Schedule 18 lines 096 / 098 (s. 34.2): we file them as the spec says ("must equal" fed 006899 /
+  006901, no gross-up). Does TRA's 076 formula halve an amount that is already taxable?
+- **25b.** Does jacket line 090 net the IEG (line 129)? The spec formula is 090 = 080 - (081 + 082 + 085 + 086 +
+  087), without 129; the printed AT1 nets 129. TC2 / TC3 were accepted with 090 = -31,250 / -89,250 and no 092.

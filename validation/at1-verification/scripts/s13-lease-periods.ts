@@ -1,0 +1,1 @@
+﻿import { leaseholdPeriods } from 'C:/Users/User/Desktop/TaxFoundry/ca-tax/src/t2/schedules/cca-straight-line.ts'; const d = new Date('2024-01-01'); console.log('String(Date):', JSON.stringify(String(d)), '-> periods', leaseholdPeriods(String(d), '2033-12-31')); console.log('ISO string  :', '2024-01-01', '-> periods', leaseholdPeriods('2024-01-01', '2033-12-31'));

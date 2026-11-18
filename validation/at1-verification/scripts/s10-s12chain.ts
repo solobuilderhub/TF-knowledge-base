@@ -1,6 +1,6 @@
-﻿import { assembleProvincialInput } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-provincial-input.ts';
-import { assembleT2Input } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-t2-input.ts';
-import { runAT1Compute } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-compute.ts';
+import { assembleProvincialInput } from '../../../../TaxFoundry-be/src/engine/assemble-provincial-input.ts';
+import { assembleT2Input } from '../../../../TaxFoundry-be/src/engine/assemble-t2-input.ts';
+import { runAT1Compute } from '../../../../TaxFoundry-be/src/engine/at1-compute.ts';
 const input = { identification: { corpType: 'ccpc', province: 'AB' }, albertaSchedule12: { federalNetIncomeForTax: -50_000 },
   albertaContinuity: { farmCurrentYearLoss: 8_000, nonCapitalCarrybacks: [{ amount: 20_000 }] } };
 const a = assembleT2Input(input as never, { taxYearStart: new Date('2025-01-01'), taxYearEnd: new Date('2025-12-31'), program: 'AT1' } as never) as any;

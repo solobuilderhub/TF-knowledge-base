@@ -1,5 +1,5 @@
-﻿import { assembleSchedule3 } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-schedule-composers/schedule-3-compose.ts';
-import { computeSchedule3, schedule3Values } from 'C:/Users/User/Desktop/TaxFoundry/ca-tax/src/t2/at1/schedules/schedule3-other-deductions-credits.ts';
+import { assembleSchedule3 } from '../../../../TaxFoundry-be/src/engine/at1-schedule-composers/schedule-3-compose.ts';
+import { computeSchedule3, schedule3Values } from '../../../../ca-tax/src/t2/at1/schedules/schedule3-other-deductions-credits.ts';
 const rows = [
   { yearIndex: 0, taxYearEnd: '2025-12-31', received: 300, applied: 300 },
   { yearIndex: 1, taxYearEnd: '2024-12-31', received: 100, openingBalance: 200, applied: 300 },

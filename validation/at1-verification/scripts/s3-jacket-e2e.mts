@@ -1,11 +1,11 @@
 // The real filing chain (as at1-transmission-conformance.test.ts drives it) on the maximal return,
 // plus jacket 071/074 and filled ITC/CITC year-of-origin tables. Reads the RENDERED XML.
-import { renderAt1NetFile } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/node_modules/@classytic/ca-tax/dist/t2.mjs';
-import { assembleProvincialInput } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-provincial-input.ts';
-import { assembleT2Input } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-t2-input.ts';
-import { runAT1Compute } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-compute.ts';
-import { composeAt1FilingData } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-netfile.service.ts';
-import { maximalReturn } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
+import { renderAt1NetFile } from '../../../../TaxFoundry-be/node_modules/@classytic/ca-tax/dist/t2.mjs';
+import { assembleProvincialInput } from '../../../../TaxFoundry-be/src/engine/assemble-provincial-input.ts';
+import { assembleT2Input } from '../../../../TaxFoundry-be/src/engine/assemble-t2-input.ts';
+import { runAT1Compute } from '../../../../TaxFoundry-be/src/engine/at1-compute.ts';
+import { composeAt1FilingData } from '../../../../TaxFoundry-be/src/engine/at1-netfile.service.ts';
+import { maximalReturn } from '../../../../TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
 
 const taxYearStart = new Date('2024-01-01');
 const taxYearEnd = new Date('2024-12-31');

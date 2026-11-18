@@ -1,7 +1,7 @@
 // ca-tax 0.0.37: Schedule 3 validations + prior-year roll-forward.
-import { assembleSchedule3 } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-schedule-composers/schedule-3-compose.ts';
-import { applyPriorAlbertaCredits, priorCreditsFrom } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/prior-year-openings.service.ts';
-import { computeSchedule3, schedule3Values } from 'C:/Users/User/Desktop/TaxFoundry/ca-tax/src/t2/at1/schedules/schedule3-other-deductions-credits.ts';
+import { assembleSchedule3 } from '../../../../TaxFoundry-be/src/engine/at1-schedule-composers/schedule-3-compose.ts';
+import { applyPriorAlbertaCredits, priorCreditsFrom } from '../../../../TaxFoundry-be/src/engine/prior-year-openings.service.ts';
+import { computeSchedule3, schedule3Values } from '../../../../ca-tax/src/t2/at1/schedules/schedule3-other-deductions-credits.ts';
 
 const wide = { taxPayableBeforeDeduction: 500_000, line070: 0, line071: 0, line072: 0, line074: 0 };
 const run = (label: string, s3: object, lines: string[]) => {

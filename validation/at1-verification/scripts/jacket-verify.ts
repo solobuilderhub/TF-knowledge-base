@@ -2,14 +2,14 @@
 // (identity via withAt1JacketIdentity). Every §3.2.3.1 rule recomputed from the filed jacket lines and the
 // filed lines of the schedules it reads (001, 002, 003, 004, 012, 029).
 // Run from TaxFoundry-be:  npx tsx ..\TF-knowledge-base\validation\at1-verification\scripts\jacket-verify.ts [J1 …]
-import { renderAt1NetFile } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/node_modules/@classytic/ca-tax/dist/index.mjs';
-import { computeFederalT2 } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/node_modules/@classytic/ca-tax/dist/index.mjs';
-import { assembleProvincialInput } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-provincial-input.ts';
-import { assembleT2Input } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-t2-input.ts';
-import { runAT1Compute } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-compute.ts';
-import { composeAt1FilingData } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-netfile.service.ts';
-import { withAt1JacketIdentity } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/engagement-compute.service.ts';
-import { maximalReturn } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
+import { renderAt1NetFile } from '../../../../TaxFoundry-be/node_modules/@classytic/ca-tax/dist/index.mjs';
+import { computeFederalT2 } from '../../../../TaxFoundry-be/node_modules/@classytic/ca-tax/dist/index.mjs';
+import { assembleProvincialInput } from '../../../../TaxFoundry-be/src/engine/assemble-provincial-input.ts';
+import { assembleT2Input } from '../../../../TaxFoundry-be/src/engine/assemble-t2-input.ts';
+import { runAT1Compute } from '../../../../TaxFoundry-be/src/engine/at1-compute.ts';
+import { composeAt1FilingData } from '../../../../TaxFoundry-be/src/engine/at1-netfile.service.ts';
+import { withAt1JacketIdentity } from '../../../../TaxFoundry-be/src/engine/engagement-compute.service.ts';
+import { maximalReturn } from '../../../../TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
 
 const m = maximalReturn as Record<string, any>;
 // Every mandatory jacket answer, no M&P / political credit unless a scenario adds one.

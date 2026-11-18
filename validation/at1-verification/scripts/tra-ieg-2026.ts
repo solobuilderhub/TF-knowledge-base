@@ -2,12 +2,12 @@
 //   npx tsx ..\TF-knowledge-base\validation\at1-verification\scripts\tra-ieg-2026.ts tc2|tc3 [guide]   (from TaxFoundry-be)
 // "guide" fills the inputs the way the guide's sample forms are filled: step-2 figures on 003/005/011,
 // the proxy amounts on 007/009/111/113, the AT4970 jurisdiction table, and the guide's longest-year pick.
-import { renderAt1NetFile } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/node_modules/@classytic/ca-tax/dist/t2/index.mjs';
-import { assembleProvincialInput } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-provincial-input.ts';
-import { assembleT2Input } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-t2-input.ts';
-import { runAT1Compute } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-compute.ts';
-import { composeAt1FilingData } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-netfile.service.ts';
-import { TRA_CASES } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/tests/fixtures/tra-cases.ts';
+import { renderAt1NetFile } from '../../../../TaxFoundry-be/node_modules/@classytic/ca-tax/dist/t2/index.mjs';
+import { assembleProvincialInput } from '../../../../TaxFoundry-be/src/engine/assemble-provincial-input.ts';
+import { assembleT2Input } from '../../../../TaxFoundry-be/src/engine/assemble-t2-input.ts';
+import { runAT1Compute } from '../../../../TaxFoundry-be/src/engine/at1-compute.ts';
+import { composeAt1FilingData } from '../../../../TaxFoundry-be/src/engine/at1-netfile.service.ts';
+import { TRA_CASES } from '../../../../TaxFoundry-be/tests/fixtures/tra-cases.ts';
 
 const id = (process.argv[2] ?? 'tc3') as 'tc2' | 'tc3';
 const guide = process.argv[3] === 'guide';

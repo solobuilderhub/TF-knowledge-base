@@ -1,12 +1,12 @@
 // Schedule 4 through the real filing chain (maximal return), then the same country rows
 // through computeSchedule4 with the jacket figures that run actually produced.
-import { renderAt1NetFile } from 'C:/Users/User/Desktop/TaxFoundry/ca-tax/src/t2/at1/filing/at1-netfile-renderer.ts';
-import { computeSchedule4 } from 'C:/Users/User/Desktop/TaxFoundry/ca-tax/src/t2/at1/schedules/schedule4-foreign-investment-tax-credit.ts';
-import { assembleProvincialInput } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-provincial-input.ts';
-import { assembleT2Input } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-t2-input.ts';
-import { runAT1Compute } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-compute.ts';
-import { composeAt1FilingData } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-netfile.service.ts';
-import { maximalReturn } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
+import { renderAt1NetFile } from '../../../../ca-tax/src/t2/at1/filing/at1-netfile-renderer.ts';
+import { computeSchedule4 } from '../../../../ca-tax/src/t2/at1/schedules/schedule4-foreign-investment-tax-credit.ts';
+import { assembleProvincialInput } from '../../../../TaxFoundry-be/src/engine/assemble-provincial-input.ts';
+import { assembleT2Input } from '../../../../TaxFoundry-be/src/engine/assemble-t2-input.ts';
+import { runAT1Compute } from '../../../../TaxFoundry-be/src/engine/at1-compute.ts';
+import { composeAt1FilingData } from '../../../../TaxFoundry-be/src/engine/at1-netfile.service.ts';
+import { maximalReturn } from '../../../../TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
 
 const taxYearStart = new Date('2024-01-01');
 const taxYearEnd = new Date('2024-12-31');

@@ -9,12 +9,13 @@ These scripts produced the evidence in the AT1 verification docs (`issue-*.md`, 
 Run them **from `TaxFoundry-be`**, so that `@classytic/ca-tax` and `tsx` resolve from the BE's `node_modules`:
 
 ```powershell
-cd C:\Users\User\Desktop\TaxFoundry\TaxFoundry-be
+cd <your checkout>\TaxFoundry-be
 npx tsx ..\TF-knowledge-base\validation\at1-verification\scripts\s13-verify.ts          # all scenarios
 npx tsx ..\TF-knowledge-base\validation\at1-verification\scripts\s13-verify.ts F        # one scenario, by label prefix
 ```
 
-- The scripts import BE source and the BE's installed ca-tax **by absolute path** (`C:/Users/User/Desktop/TaxFoundry/...`). If the checkout moves, update the import lines.
+- The scripts import BE source and the BE's installed ca-tax by **relative path** (`../../../../TaxFoundry-be/...`, `../../../../ca-tax/...`). So `TF-knowledge-base`, `TaxFoundry-be` and `ca-tax` must be checked out side by side in the same folder.
+- `s3-jacket-e2e.mts` is out of date: it imports a name that `ca-tax/dist/t2.mjs` no longer exports. Use `s3-jacket-e2e.ts` instead.
 - A ca-tax fix must be **published and installed in the BE**, or linked with `npm run build` in `ca-tax` and then `npm i --no-save file:../ca-tax` in the BE. Otherwise the scripts still run the old engine. Check first with `(Get-Content node_modules\@classytic\ca-tax\package.json | ConvertFrom-Json).version`.
 
 ## Index

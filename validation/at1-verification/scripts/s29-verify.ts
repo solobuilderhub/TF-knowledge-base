@@ -1,9 +1,9 @@
 // AT1 Schedule 29 (Innovation Employment Grant) verification — full BE chain; every §3.2.3.29 rule recomputed
 // from the FILED 029 lines, plus jacket line 129.
 // Run from TaxFoundry-be:  npx tsx ..\TF-knowledge-base\validation\at1-verification\scripts\s29-verify.ts [G1 …]
-import { assembleProvincialInput } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-provincial-input.ts';
-import { assembleT2Input } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-t2-input.ts';
-import { runAT1Compute } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-compute.ts';
+import { assembleProvincialInput } from '../../../../TaxFoundry-be/src/engine/assemble-provincial-input.ts';
+import { assembleT2Input } from '../../../../TaxFoundry-be/src/engine/assemble-t2-input.ts';
+import { runAT1Compute } from '../../../../TaxFoundry-be/src/engine/at1-compute.ts';
 
 const id = { identification: { corpType: 'ccpc', province: 'AB' } };
 const t2 = { incomeStatement: { revenue: 1_000_000, costOfSales: 400_000 } };

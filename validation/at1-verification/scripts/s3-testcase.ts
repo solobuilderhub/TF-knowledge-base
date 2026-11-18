@@ -1,6 +1,6 @@
-﻿// UI test case for Schedule 3: baseline (no issues) + one-change-at-a-time negative cases. Room: 068 48,000, 070 30,000 → 602 18,000.
-import { assembleSchedule3 } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-schedule-composers/schedule-3-compose.ts';
-import { computeSchedule3, schedule3Values } from 'C:/Users/User/Desktop/TaxFoundry/ca-tax/src/t2/at1/schedules/schedule3-other-deductions-credits.ts';
+// UI test case for Schedule 3: baseline (no issues) + one-change-at-a-time negative cases. Room: 068 48,000, 070 30,000 → 602 18,000.
+import { assembleSchedule3 } from '../../../../TaxFoundry-be/src/engine/at1-schedule-composers/schedule-3-compose.ts';
+import { computeSchedule3, schedule3Values } from '../../../../ca-tax/src/t2/at1/schedules/schedule3-other-deductions-credits.ts';
 const mad = { taxPayableBeforeDeduction: 48_000, line070: 30_000, line071: 0, line072: 0, line074: 0 };
 const itc = [
   { yearIndex: 0, taxYearEnd: '2024-12-31', received: 2_000, applied: 2_000 },

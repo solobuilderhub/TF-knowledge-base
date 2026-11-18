@@ -1,7 +1,7 @@
-﻿// UI test case for Schedule 10, 2025 tax year (preceding years 2024/2023/2022), full chain.
-import { assembleProvincialInput } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-provincial-input.ts';
-import { assembleT2Input } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-t2-input.ts';
-import { runAT1Compute } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-compute.ts';
+// UI test case for Schedule 10, 2025 tax year (preceding years 2024/2023/2022), full chain.
+import { assembleProvincialInput } from '../../../../TaxFoundry-be/src/engine/assemble-provincial-input.ts';
+import { assembleT2Input } from '../../../../TaxFoundry-be/src/engine/assemble-t2-input.ts';
+import { runAT1Compute } from '../../../../TaxFoundry-be/src/engine/at1-compute.ts';
 const taxYearStart = new Date('2025-01-01'), taxYearEnd = new Date('2025-12-31');
 function compute(input: Record<string, unknown>) {
   const a = assembleT2Input(input as never, { taxYearStart, taxYearEnd, program: 'AT1' } as never) as any;

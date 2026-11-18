@@ -1,10 +1,10 @@
 // TRA Test Case 1, August 2026 edition: TYB 2024-09-01, TYE 2025-08-31, class 8 by AIIP (no immediate expensing).
-import { renderAt1NetFile } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/node_modules/@classytic/ca-tax/dist/t2/index.mjs';
-import { assembleProvincialInput } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-provincial-input.ts';
-import { assembleT2Input } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-t2-input.ts';
-import { runAT1Compute } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-compute.ts';
-import { composeAt1FilingData } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-netfile.service.ts';
-import { TRA_CASES } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/tests/fixtures/tra-cases.ts';
+import { renderAt1NetFile } from '../../../../TaxFoundry-be/node_modules/@classytic/ca-tax/dist/t2/index.mjs';
+import { assembleProvincialInput } from '../../../../TaxFoundry-be/src/engine/assemble-provincial-input.ts';
+import { assembleT2Input } from '../../../../TaxFoundry-be/src/engine/assemble-t2-input.ts';
+import { runAT1Compute } from '../../../../TaxFoundry-be/src/engine/at1-compute.ts';
+import { composeAt1FilingData } from '../../../../TaxFoundry-be/src/engine/at1-netfile.service.ts';
+import { TRA_CASES } from '../../../../TaxFoundry-be/tests/fixtures/tra-cases.ts';
 
 const amended = process.argv[2] === 'a';
 const base = TRA_CASES.tc1;

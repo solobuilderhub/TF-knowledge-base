@@ -2,7 +2,7 @@
 // Area A presence when the supporting schedule exists, recapture on a T2 return).
 // Run from TaxFoundry-be:  npx tsx ..\TF-knowledge-base\validation\at1-verification\scripts\s12-pass2.ts [W1 …]
 import { run } from './s12-verify.ts';
-import { maximalReturn } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
+import { maximalReturn } from '../../../../TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
 
 const m = maximalReturn as Record<string, any>;
 const yes = { ...m.alberta, manufacturingDeduction: undefined, politicalContributionsTaxCredit: undefined };

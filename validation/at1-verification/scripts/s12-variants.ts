@@ -1,5 +1,5 @@
 import { run } from './s12-verify.ts';
-import { maximalReturn } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
+import { maximalReturn } from '../../../../TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
 
 const m = maximalReturn as Record<string, any>;
 const jacketYes = { ...m.alberta }; // 060/061 = yes plus the jacket's other mandatory answers

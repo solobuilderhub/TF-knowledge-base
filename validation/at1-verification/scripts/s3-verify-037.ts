@@ -1,7 +1,7 @@
 // ca-tax 0.0.37: re-run every Schedule 3 repro from issue-schedule3-itc.md / -aapitc-330-340.md.
-import { assembleSchedule3 } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-schedule-composers/schedule-3-compose.ts';
-import { computeSchedule3, schedule3Values } from 'C:/Users/User/Desktop/TaxFoundry/ca-tax/src/t2/at1/schedules/schedule3-other-deductions-credits.ts';
-import { vintageClosing } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-fe/app/dashboard/engagements/[id]/return/_config/schedules/at1/vintage-closing.ts';
+import { assembleSchedule3 } from '../../../../TaxFoundry-be/src/engine/at1-schedule-composers/schedule-3-compose.ts';
+import { computeSchedule3, schedule3Values } from '../../../../ca-tax/src/t2/at1/schedules/schedule3-other-deductions-credits.ts';
+import { vintageClosing } from '../../../../TaxFoundry-fe/app/dashboard/engagements/[id]/return/_config/schedules/at1/vintage-closing.ts';
 
 // Report jacket: 068 76,000; 070 30,000; 071 5,000; 072 2,000; 074 1,000 → 602 = 38,000, APITC spec room 44,000.
 const tight = { taxPayableBeforeDeduction: 76_000, line070: 30_000, line071: 5_000, line072: 2_000, line074: 1_000 };

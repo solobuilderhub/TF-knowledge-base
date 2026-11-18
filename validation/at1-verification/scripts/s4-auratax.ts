@@ -2,7 +2,7 @@
 // AuraTax: B 100,000; C .625; D 5,000 (so 068/066 = 0.08); col 5 (ACTA 8(2.2)) 3,000; E 5,000; F 10,000; 018 = 14,062.
 // Jacket chosen to reproduce those: 062 400,000, 064 0 → 066 250,000; 068 20,000; 070 5,938 → 068 − 070 = 14,062.
 // E = fed 120 − max(3,000, fed 130) = 5,000 → fed 130 2,000 (differs, as col 5 requires), fed 120 8,000.
-import { computeSchedule4, schedule4Values } from 'C:/Users/User/Desktop/TaxFoundry/ca-tax/src/t2/at1/schedules/schedule4-foreign-investment-tax-credit.ts';
+import { computeSchedule4, schedule4Values } from '../../../../ca-tax/src/t2/at1/schedules/schedule4-foreign-investment-tax-credit.ts';
 
 const j = { f062: 400_000, f064: 0, f065: 0.625, f068: 20_000, f070: 5_938, f071: 0 };
 const r = computeSchedule4({

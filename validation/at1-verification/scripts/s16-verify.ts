@@ -2,7 +2,7 @@
 // plus the Schedule 12 034/035/054 checks from s12-verify.ts.
 // Run from TaxFoundry-be:  npx tsx ..\TF-knowledge-base\validation\at1-verification\scripts\s16-verify.ts [U1 …]
 import { run } from './s12-verify.ts';
-import { maximalReturn } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
+import { maximalReturn } from '../../../../TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
 
 const m = maximalReturn as Record<string, any>;
 const yes = { ...m.alberta, manufacturingDeduction: undefined, politicalContributionsTaxCredit: undefined };

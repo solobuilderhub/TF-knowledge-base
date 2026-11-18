@@ -1,7 +1,7 @@
-﻿// UI test case for Schedule 4 on the Route 2 return (revenue 1,000,000, cost of sales 400,000 → 062 600,000, 068 48,000, 070 30,000).
-import { assembleProvincialInput } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-provincial-input.ts';
-import { assembleT2Input } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-t2-input.ts';
-import { runAT1Compute } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-compute.ts';
+// UI test case for Schedule 4 on the Route 2 return (revenue 1,000,000, cost of sales 400,000 → 062 600,000, 068 48,000, 070 30,000).
+import { assembleProvincialInput } from '../../../../TaxFoundry-be/src/engine/assemble-provincial-input.ts';
+import { assembleT2Input } from '../../../../TaxFoundry-be/src/engine/assemble-t2-input.ts';
+import { runAT1Compute } from '../../../../TaxFoundry-be/src/engine/at1-compute.ts';
 const taxYearStart = new Date('2024-01-01'), taxYearEnd = new Date('2024-12-31');
 function compute(input: Record<string, unknown>) {
   const a = assembleT2Input(input as never, { taxYearStart, taxYearEnd, program: 'AT1' } as never) as any;

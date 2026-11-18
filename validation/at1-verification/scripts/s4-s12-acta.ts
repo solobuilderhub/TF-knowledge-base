@@ -1,9 +1,9 @@
 // S12 040/041 with and without an ACTA 8(2.2) amount that differs from fed 20(12). Credit kept positive.
-import { renderAt1NetFile } from 'C:/Users/User/Desktop/TaxFoundry/ca-tax/src/t2/at1/filing/at1-netfile-renderer.ts';
-import { assembleProvincialInput } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-provincial-input.ts';
-import { assembleT2Input } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/assemble-t2-input.ts';
-import { runAT1Compute } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-compute.ts';
-import { maximalReturn } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
+import { renderAt1NetFile } from '../../../../ca-tax/src/t2/at1/filing/at1-netfile-renderer.ts';
+import { assembleProvincialInput } from '../../../../TaxFoundry-be/src/engine/assemble-provincial-input.ts';
+import { assembleT2Input } from '../../../../TaxFoundry-be/src/engine/assemble-t2-input.ts';
+import { runAT1Compute } from '../../../../TaxFoundry-be/src/engine/at1-compute.ts';
+import { maximalReturn } from '../../../../TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
 
 const taxYearStart = new Date('2024-01-01');
 const taxYearEnd = new Date('2024-12-31');

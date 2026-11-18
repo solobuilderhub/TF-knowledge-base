@@ -2,7 +2,7 @@
 // if it exists, otherwise fed 200360 - fed 200370", i.e. FEDERAL TAXABLE income, not net income.
 // Run from TaxFoundry-be:  npx tsx ..\TF-knowledge-base\validation\at1-verification\scripts\jacket-062-probe.ts
 import { run } from './s12-verify.ts';
-import { maximalReturn } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
+import { maximalReturn } from '../../../../TaxFoundry-be/tests/fixtures/at1-maximal-return.ts';
 
 const m = maximalReturn as Record<string, any>;
 const no = { ...m.alberta, manufacturingDeduction: undefined, politicalContributionsTaxCredit: undefined, reportsDifferentAlbertaIncome: 'no', electsDifferentDiscretionaryAmounts: 'no' };

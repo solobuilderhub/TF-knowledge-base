@@ -1,7 +1,7 @@
 // Feed a fully-entered AAPITC table (lines 330-340) through the real backend composer and the engine,
 // and show which of the table's figures reach the filed Schedule 3.
-import { assembleSchedule3 } from 'C:/Users/User/Desktop/TaxFoundry/TaxFoundry-be/src/engine/at1-schedule-composers/schedule-3-compose.ts';
-import { computeSchedule3, schedule3Values } from 'C:/Users/User/Desktop/TaxFoundry/ca-tax/src/t2/at1/schedules/schedule3-other-deductions-credits.ts';
+import { assembleSchedule3 } from '../../../../TaxFoundry-be/src/engine/at1-schedule-composers/schedule-3-compose.ts';
+import { computeSchedule3, schedule3Values } from '../../../../ca-tax/src/t2/at1/schedules/schedule3-other-deductions-credits.ts';
 
 // Jacket: 068 200,000; 070 30,000 → room is not the constraint here.
 const mad = { taxPayableBeforeDeduction: 200_000, line070: 30_000, line071: 0, line072: 0, line074: 0 };

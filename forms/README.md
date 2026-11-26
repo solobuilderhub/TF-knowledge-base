@@ -119,10 +119,14 @@ The form definitions carry the new lines and the engine computes them:
 Each was written from the arithmetic the form prints, and
 `tests/t2-2026-reprints.test.ts` in ca-tax works every line by hand.
 
-Still open: Part IV tax on dividends from connected corporations (Schedule 3
-columns 250 to 280), the eligible / non-eligible ordering of the dividend
-refund, and jacket line 279 (a question that calls for Schedule 52, which is
-not built).
+Also rebuilt from the forms on 2026-11-26: Part IV tax on dividends from
+connected corporations, the two RDTOH pools and the dividend refund
+(`schedule3-part4-rdtoh.ts`, from Schedule 3 Parts 1 and 2 and page 7 of the
+T2 return). The refund is now split by pool, and last year's refund comes off
+the opening balances.
+
+Still open: Schedule 52 (which jacket line 279 calls for), and Schedule 43's
+amounts 4A, 4C and 4D feeding Part IV, which the engine takes as inputs.
 
 ## Is a definition complete? `form-coverage`
 

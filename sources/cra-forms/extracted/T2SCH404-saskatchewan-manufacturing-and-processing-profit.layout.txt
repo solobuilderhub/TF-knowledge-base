@@ -1,0 +1,70 @@
+                    Saskatchewan Manufacturing and Processing Profits Tax Reduction                                                                                                           Schedule 404
+                                                  (2020 and later tax years)
+                                                                                                                                                                                                Protected B
+                                                                                                                                                                                              when completed
+
+Corporation's name                                                                                     Business number                                                                        Tax year-end
+
+                                                                                                                                                Year                                          Month Day
+
+· Use this schedule if your corporation had all of the following:
+  ­ a permanent establishment (as defined under subsection 400(2) of the Regulations) in Saskatchewan at any time in the year
+  ­ taxable income earned in the year in Saskatchewan
+  ­ Canadian manufacturing and processing profits, as defined under subsection 125.1(3) of the Act, earned in Saskatchewan.
+
+· All legislative references are to the federal Income Tax Act and the federal Income Tax Regulations.
+
+· Canadian manufacturing and processing profits earned in Saskatchewan include profits from generating or producing electrical energy or
+
+  steam for sale in Saskatchewan.
+
+· This schedule is a worksheet only. You do not need to file it with your T2 Corporation Income Tax Return.
+
+Part 1 ­ Income eligible for the Saskatchewan manufacturing and processing profits tax reduction
+
+Canadian manufacturing and processing profits (line 200 of Schedule 27) Note 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                        1A
+
+Amount 1E from Schedule 411 Note 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  1B
+
+                                                                                                  Excess (amount 1A minus amount 1B, if negative enter 0)                                                   1C
+
+Taxable income (line 360 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  1D
+
+Amount 1E from Schedule 411 Note 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1E
+
+Aggregate investment income (line 440 of the T2 return) Note 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              1F
+
+Federal foreign business income tax credit                                                        ×4=                                       1G
+
+(line 636 of the T2 return) Note 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                                  Subtotal (add amounts 1E to 1G)                                                                           1H
+
+                                                                                                  Excess (amount 1D minus amount 1H, if negative, enter 0)                                                  1I
+
+Amount 1C or 1I, whichever is less . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1J
+
+Note 1: If your corporation only generated or produced electrical energy or steam for sale in Saskatchewan, use the amount from line 210 of Schedule 27.
+
+Note 2: Applies only if your corporation was a Canadian-controlled private corporation throughout the tax year.
+
+Note 3: Calculate the amount of federal foreign business income tax credit deductible at line 636 of the T2 return without reference to
+            the corporate tax reductions under section 123.4 of the Act.
+
+Part 2 ­ Saskatchewan manufacturing and processing profits tax reduction
+
+Amount 1J           ×                       Taxable income earned in Saskatchewan                                                           =                                                               2A
+
+                                            Taxable income earned in all provinces Note 4
+
+             Taxable income earned in Saskatchewan                                                . . . . . . . . . . . . . . . . . × 2% =                                                                  2B
+           Taxable income earned in all provinces Note 4
+
+Saskatchewan manufacturing and processing profits tax reduction (amount 2A multiplied by amount 2B) . . . . . . . . . . . . . . . . . .                                                                     2C
+
+Enter amount 2C on line 626 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+Note 4: Includes the territories and the offshore jurisdictions for Nova Scotia and Newfoundland and Labrador.
+
+T2 SCH 404 E (21)                                         (Ce formulaire est disponible en français.)
+

@@ -1,0 +1,6 @@
+line	caption
+100	Current-year credit earned (amount A from Part 1)
+104	Credit expired after seven tax years
+105	Unused credit at the beginning of this tax year (amount B minus line 104)
+160	Credit claimed in the current year (Note 1) (enter on line 563 of Schedule 5, Tax Calculation Supplementary – Corporations)
+200	Closing balance – Credit available for carryforward (amount C minus amount E)

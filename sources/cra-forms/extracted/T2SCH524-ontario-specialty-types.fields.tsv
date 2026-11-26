@@ -1,0 +1,25 @@
+page	part	field	line	kind	digits	speak
+1	CorpInfo_Sub	NameOfCorp_TextField		text		
+1	CorpInfo_Sub	BusinessNumber		text		Business Number. 9 digits, 2 letters, and 4 digits.
+1	CorpInfo_Sub/TaxYearEnd_Date	TaxYearEnd_DateYYYYMMDD_Comb		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Specialties_List	TypesBox_1		check		Specialty types. Line 100. Identify the specialty type that applies to your corporation. Box 01. Family farm corporation. See subsection 64(3).
+1	Specialties_List	TypesBox_1		check		Box 02. Family fishing corporation. See subsection 64(3).
+1	Specialties_List	TypesBox_1		check		Box 03. Mortgage investment corporation. See subsection 130.1(6) of the federal Income Tax Act .
+1	Specialties_List	TypesBox_1		check		Box 04. Credit union. See subsection 137(6) of the federal Act.
+1	Specialties_List	TypesBox_1		check		Box 06. Bank. See subsection 248(1) of the federal Act.
+1	Specialties_List	TypesBox_1		check		Box 08. Financial institution prescribed by regulation only. See clause 66(2)(f).
+1	Specialties_List	TypesBox_1		check		Box 09. Registered securities dealer. See subsection 248(1) of the federal Act.
+1	Specialties_List	TypesBox_1		check		Box 10. Farm feeder finance co-operative corporation.
+1	Specialties_List	TypesBox_1		check		Box 11. Insurance corporation. See subsection 248(1) of the federal Act.
+1	Specialties_List	TypesBox_1		check		Box 12. Mutual insurance. See subsection 27(2) of the Taxation Act, 2007 (Ontario) and paragraph 149(1)(m) of the federal Act.
+1	Specialties_List	TypesBox_1		check		Box 13. Specialty mutual insurance.
+1	Specialties_List	TypesBox_1		check		Box 14. Mutual fund corporation. See subsection 131(8) of the federal Act.
+1	Specialties_List	TypesBox_1		check		Box 15. Bare trustee corporation.
+1	Specialties_List	TypesBox_1		check		Box 16. Professional corporation (incorporated professional only). See subsection 248(1) of the federal Act.
+1	Specialties_List	TypesBox_1		check		Box 17. Limited liability corporation.
+1	Specialties_List	TypesBox_1		check		Box 18. Generator of electrical energy for sale, or producer of steam for use in the generation of electrical energy for sale. See subsection 33(7).
+1	Specialties_List	TypesBox_1		check		Box 19. Hydro successor, municipal electrical utility, or subsidiary of either. See subsection 91.1(1) and section 88 of the Electricity Act, 1998 (Ontario).
+1	Specialties_List	TypesBox_1		check		Box 20. Producer and seller of steam for uses other than for the generation of electricity. See subsection 33(7).
+1	Specialties_List	TypesBox_1		check		Box 21. Mining corporation.
+1	Specialties_List	TypesBox_1		check		Box 22. Non-resident corporation .
+1	Specialties_List	TypesBox_1		check		Box 99. Other (if none of the previous descriptions apply).

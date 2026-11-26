@@ -1,0 +1,211 @@
+                    Ontario Tax Credit for Manufacturing and Processing                                                                                                                     Schedule 502
+                                        (2022 and later tax years)                                                                                                                                 Code 2201
+
+                                                                                                             Business number                                                                  Protected B
+                                                                                                                                                                                            when completed
+
+Corporation's name                                                                                                                                                                          Tax year-end
+
+                                                                                                                              Year                                                          Month Day
+
+· Complete this schedule if your corporation had Ontario taxable income during the tax year and had eligible Canadian profits (ECP) from any of the
+
+  following activities: manufacturing and processing, farming, fishing, logging, mining, generating electrical energy for sale, or producing steam for sale.
+
+· You do not need to file Schedule 27, Calculation of Canadian Manufacturing and Processing Profits Deduction, if you are only eligible for the Ontario tax
+
+  credit for manufacturing and processing.
+
+· File this schedule with your T2 Corporation Income Tax Return.
+
+    Part 1 ­ Adjusted business income
+
+Active business income minus active business losses of your corporation for the year 1
+(line 100 or line 120, whichever applies, of Schedule 27, if filed) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 025
+
+Adjusted Crown royalties for the tax year (amount 5H in Part 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 030
+
+                                                                 Subtotal (line 025 plus line 030)                                                                                                        1A
+
+Notional resource allowance for the tax year as determined in subsection 7(3) of Ontario Regulation 37/09 under
+the Taxation Act, 2007 (Ontario) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 040
+Adjusted business income (amount 1A minus line 040) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 050
+
+1 This includes your share of active business income and active business loss for the fiscal period of each partnership of which your corporation was a
+   member at any time in the tax year.
+
+Small manufacturing corporations:
+
+To qualify as a small manufacturer, your corporation has to meet the following requirements:
+
+  ­ The adjusted business income of your corporation for the year is $250,000 or less
+  ­ The active business income from non-manufacturing and processing sources, including generating electrical energy for sale and
+
+      producing steam for sale, cannot be greater than 20% of your corporation's adjusted business income. Active business income from
+      manufacturing and processing sources includes income from farming, fishing, logging, or mining in Canada.
+
+If your corporation meets both requirements, your ECP is equal to the adjusted business income for the year. Enter the amount from line 050 on line 075
+in Part 2 of this schedule.
+
+T2 SCH 502 E (22)   (Ce formulaire est disponible en français.)  Page 1 of 3
+                                                                                                                                               Protected B when completed
+
+Part 2 ­ Ontario tax credit for manufacturing and processing
+
+Eligible Canadian profits:
+
+If you are a small manufacturing corporation, enter the amount from line 050 in Part 1 of this schedule on line 075.
+Otherwise, complete the following calculation:
+
+Canadian manufacturing and processing profits (line 200 of Schedule 27) . . . . . . . . . . . . . . . . . . . . . . . . . . .                  2A
+
+Canadian profits from generating electrical energy or producing steam for sale                                                                 2B
+
+(line 210 of Schedule 27 minus amount 2A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Total Canadian farming, fishing, or logging income (line 150 in Part 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            2C
+
+Total Canadian mining income (amount 4A in Part 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       2D
+
+Total ECP (total of amounts 2A, 2B, 2C, and 2D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 075
+
+Ontario adjusted small business income                                                                                                         2E
+
+(amount 3A in Part 3 of Schedule 500, Ontario Corporation Tax Calculation) 2 . . . . . . . . . . . . . . . . . . . . . . . .
+
+Excess (line 075 minus amount 2E, if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            2F
+
+Adjusted taxable income (line 360 of the T2 return plus line 030, minus line 040) . . . . . . . . . . . . . . . . . . . . .                    2G
+
+For corporations resident in Canada, complete amounts 2H to 2J as applicable. Otherwise, enter "0" at amount 2K.
+
+Ontario adjusted small business income (amount 2E) 2 . . . . . . . . . . . . . . . . . . . . . .  2H
+
+                    Taxable income earned in all
+
+           1 ­ provinces and territories 3
+( ) Amount 2G ×                                                                 =                 2I 4
+
+                            Total taxable income
+
+Aggregate investment income (line 440 of the T2 Return) 2 . . . . . . . . . . . . . . . . . . .   2J
+
+                                        Subtotal (total of amounts 2H, 2I, and 2J)                                                             2K
+
+Excess (amount 2G minus amount 2K) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                2L
+
+Income eligible for the Ontario tax credit for manufacturing and processing                                                                    2M
+
+(least of amounts, line 050 in Part 1, amount 2F, or amount 2L) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ontario tax credit for manufacturing and processing:
+
+Amount 2M                   ×           Taxable income for Ontario 5                              × 1.5% . . . . . . . . . . =                     2N
+
+                                        Taxable income for all 3
+                                        provinces and territories
+
+Enter amount 2N on line 406 of Schedule 5, Tax Calculation Supplementary ­ Corporations
+
+2 Applies only if your corporation was a Canadian-controlled private corporation throughout the tax year.
+
+3 Includes the offshore jurisdictions for Nova Scotia and Newfoundland and Labrador.
+
+4 If negative, enter "0".
+
+5 If your corporation had a permanent establishment only in Ontario, enter the amount from line 360 on page 3 of the T2 return. Otherwise,
+   enter the taxable income allocated to Ontario from column F in Part 1 of Schedule 5.
+
+                                                                                                                                                   Page 2 of 3
+                                                                                                                                     Protected B when completed
+
+If you are not a small manufacturing corporation as described in Part 1, complete Parts 3 and 4 below.
+For the purpose of Parts 3 and 4, the following terms apply:
+
+· ADJUBI Adjusted business income: Enter the amount from line 130 in Part 3 of Schedule 27, if filed. If Schedule 27 has not been filed,
+
+               see Part 3 of that schedule to calculate the adjusted business income.
+
+· CC   Cost of capital: See Part 4 of Schedule 27 to calculate the cost of capital for farming, fishing, logging, or industrial mining operations.
+       For a farming operation, the cost of capital includes the cost of land, and/or the annual rental cost of the land, used by the corporation
+       for its farming business.
+
+· MCC Cost of manufacturing and processing capital: See Part 5 of Schedule 27 to calculate the cost of manufacturing and
+
+               processing capital for farming, fishing, logging, or industrial mining operations.
+
+· LC   Cost of labour: See Part 6 of Schedule 27 to calculate the cost of labour for farming, fishing, logging, or industrial mining operations.
+
+· MLC  Cost of manufacturing and processing labour: See Part 7 of Schedule 27 to calculate the cost of manufacturing and processing
+       labour for farming, fishing, logging, or industrial mining operations.
+
+Part 3 ­ Corporations that have income from farming, fishing, or logging in Canada
+
+Total Canadian farming, fishing, or logging income:
+
+ADJUBI 100                              × [ MCC 120    + MLC 140                                                        ] = 150
+                                             [ CC 110  + LC 130                                                         ]
+
+Enter line 150 at amount 2C in Part 2.
+
+Part 4 ­ Corporations that have income from mining in Canada
+
+Mining profits under subparagraph 2(i) of subsection 33(7) of the Taxation Act, 2007 (Ontario) . . . . . . . . . . . . . . . . . . . . . . . . . . . 175
+Complete the following calculation for industrial mining operations in Canada: 6
+
+ADJUBI 200                              × [ MCC 220    + MLC 240                                                        ] = 250
+                                             [ CC 210  + LC 230                                                         ]
+
+Total Canadian mining income (line 175 plus line 250) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              4A
+
+Enter amount 4A at amount 2D in Part 2
+
+6 Do not include income reported on line 175.
+
+Part 5 ­ Adjusted Crown royalties for the tax year
+
+Add the following amounts as defined under subsection 36(2) of the Taxation Act, 2007 (Ontario):
+
+Provincial or territorial tax on income from mining operations, excluding amounts prescribed in subsection 108.1(2) of                                                                         5A
+
+Ontario Regulation 183, as it applies under subsection 11.0.1(2) of the Corporations Tax Act (Ontario) . . . . . . . . . . . . . . . . . . . . . . . . .
+
+A Crown charge 7, paid or payable to the Crown 8, or receivable by the Crown under subsections 11.0.1(3) or (5)                                                                                5B
+
+of the Corporations Tax Act (Ontario) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Adjustment to income where an operator, at any time in a tax year, disposes of or acquires production from a Canadian natural
+
+accumulation of petroleum or natural gas, an oil or gas well, or a mineral resource at less than or more than the fair market value                                                            5C
+
+under subsection 26(4.1) of the Corporations Tax Act (Ontario) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Payments made under contract to reimburse Crown charges 7 under paragraph 1 of subsection 26(7)                                                                                                5D
+
+of the Corporations Tax Act (Ontario) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The corporation's share of amounts 5A and 5B incurred by a partnership of which the corporation is a majority interest partner under                                                           5E
+
+subsection 31(1.2) of the Corporations Tax Act (Ontario) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                                  Subtotal (total of amounts 5A to 5E)                                                         5F
+
+Amounts received under contract as reimbursements of Crown charges 7 under paragraph 2 of subsection 26(7)                                                                                     5G
+
+of the Corporations Tax Act (Ontario) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Adjusted Crown royalties for the tax year (amount 5F minus amount 5G) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                5H
+
+Enter amount 5H at line 030 in Part 1.
+
+7 Crown charge is an amount to which the Crown is entitled and that is, or can reasonably be considered to be a royalty, tax, lease rental, or bonus
+   relating to the acquisition, development, or ownership of a Canadian resource property, or relating to the production in Canada from certain resource
+   properties. Crown charge does not include a municipal or school tax or amounts prescribed in section 108.2 of Ontario Regulation 183 under the
+   Corporations Tax Act (Ontario).
+
+8 Crown refers to Her Majesty in right of Canada or of a province, an agent of Her Majesty in right of Canada or of a province, or a corporation,
+   commission, or association that is controlled by Her Majesty in right of Canada or of a province, or by an agent of Her Majesty in right of
+   Canada or of a province.
+
+                                                                                                                                                                                               Page 3 of 3
+

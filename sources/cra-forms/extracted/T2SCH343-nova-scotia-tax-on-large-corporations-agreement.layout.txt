@@ -1,0 +1,65 @@
+                                                                                                                                                       SCHEDULE 343
+
+                                                                                                                                                                                                         Code 0801
+                                                                                                                                                           Protected B when completed
+
+               NOVA SCOTIA TAX ON LARGE CORPORATIONS - AGREEMENT AMONG RELATED CORPORATIONS
+                                                                      (2008 and later tax years)
+
+    · For use by members of a related group of corporations to allocate the capital deduction of $5,000,000 among the members of the related group. The
+       $5,000,000 capital deduction is only available if the combined taxable capital for the year for all members of the related group, using line 500 on
+       Schedule 33, 34, or 35, is less than $10,000,000. If the combined taxable capital for the year for related corporations is $10,000,000, or more, none of the
+       corporations are entitled to a deduction.
+
+    · A related corporation that has more than one tax year ending in a calendar year, is required to file an agreement for each tax year ending in that calendar
+       year.
+
+    · The terms "related", "related group", and "associated" are defined in sections 251 and 256 and, for the Nova Scotia tax on large corporations, have the
+       meaning assigned to those sections.
+
+    · If no agreement is filed, the Minister may ask that one be filed. If the corporation does not file such an agreement within 30 days after receiving the
+       request, the Minister may allocate an amount among the members of the related group.
+
+    · Subsections 181.5(4) to (7) apply to this allocation.
+
+    · According to subsection 181.5(5), where a corporation has more than one tax year ending in the same calendar year and is related in two or more of those
+       tax years to another corporation that has a tax year ending in that calendar year, the capital deduction of the first corporation for each such tax year at the
+       end of which it is related to the other corporation is an amount equal to its capital deduction for the first such tax year.
+
+    · According to subsection 181.5(7), a Canadian-controlled private corporation is not considered to be related to another corporation for the capital
+       deduction unless it is also associated with that corporation.
+
+    · Except as otherwise stated, sections and subsections referred to on this schedule are those from the federal Income Tax Act.
+
+    · Provide details below. If you need more space, continue on a separate schedule.
+
+                                              Allocation of capital deduction for related corporations                                                                                                Month Day
+                                                                                                                                                                                                    2 No
+                                                                                                                                                                                              Year
+    Date filed (do not use this area) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 010
+
+    Is this an amended agreement? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 020 1 Yes
+
+                                                                                                                                                                                              Year
+    Calendar year to which the agreement applies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 030
+
+    Name of each corporation that is a member of the related group            Business Number             Allocation of capital deduction
+                                       200                          (if a corporation is not registered,              for the year
+                                                                                                                             $
+                                                                                  enter "NR")
+                                                                                                                         400
+                                                                                    300
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+                                                                    Total (not to exceed $5,000,000)
+
+T2 SCH 343 E (08)  (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca/formulaires ou en composant le 1-800-959-7775.)
+

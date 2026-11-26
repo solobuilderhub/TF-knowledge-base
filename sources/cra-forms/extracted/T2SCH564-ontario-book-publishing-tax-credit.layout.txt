@@ -1,0 +1,173 @@
+                                           Ontario Book Publishing Tax Credit                                                                                             Schedule 564
+                                                  (2009 and later tax years)                                                                                                     Code 0904
+
+                                                                                                  Business number                                                           Protected B
+                                                                                                                                                                          when completed
+
+Name of corporation                                                                                                                                           Tax year-end
+
+                                                                                                                                Year                                      Month Date
+
+· Use this schedule to claim an Ontario book publishing tax credit (OBPTC) under section 95 of the Taxation Act, 2007 (Ontario). Complete a separate
+
+  Schedule 564 for each eligible literary work.
+
+· The OBPTC is a refundable tax credit that is equal to 30% of the qualifying expenditures incurred during a tax year by an Ontario book publishing company
+
+  (OBPC) for an eligible literary work up to a maximum credit of $30,000 per work. Qualifying expenditures include pre-production costs, marketing
+  expenditures, and 50% of production costs paid by the OBPC for the publishing of an eligible literary work.
+
+· After March 26, 2009, the following expenses are also eligible:
+  ­ 100% of expenditures that relate to publishing a digital or electronic version of the literary work
+  ­ 50% of expenditures relating to transferring a prepared digital or electronic version of the literary work into or onto a form suitable for distribution
+
+· The criteria for a corporation to be eligible for the OBPTC include the eligibility requirements in Part 3 of this schedule.
+
+· Before claiming an OBPTC, the OBPC must obtain a Certificate of Eligibility from Ontario Creates for each eligible literary work. Enter the certificate
+
+  information for this literary work in Part 2 of this schedule.
+
+· The OBPTC is considered government assistance under paragraph 12(1)(x) of the federal Income Tax Act and must be included as income in the tax year
+
+  the credit is received. The OBPTC is not considered government assistance under subsection 95(20) of the Taxation Act, 2007 (Ontario) for the purposes of
+  calculating the credit itself.
+
+· To claim the OBPTC, include both of the following with the T2 Corporation Income Tax Return:
+  ­ a completed copy of this schedule for each literary work
+  ­ a certificate of eligibility (or copy) issued by Ontario Creates for each literary work
+
+       Part 1 ­ Corporate information
+
+100 Name of corporation (from certificate of eligibility, if different from above)
+
+110 Name of person to contact for more information                                  120 Telephone number including area code
+
+Is the claim filed for an OBPTC earned through a partnership? Note 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150 Yes  No
+
+If you answered yes to the question at line 150,
+what is the name of the partnership? . . . . . . . . . . 160
+
+Enter the percentage of the partnership's OBPTC allocated to the corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170                  %
+
+Note 1: When a corporate member of a partnership is claiming an amount for qualifying expenditures incurred by a partnership, complete a Schedule 564 for
+           the partnership as if the partnership were a corporation. Each corporate partner, other than a limited partner, should file a separate Schedule 564 to
+           claim the partner's share of the partnership's OBPTC. The allocated amounts can never exceed the amount of the partnership's OBPTC.
+
+       Part 2 ­ Identifying the eligible literary work
+
+200 Certificate of eligibility number
+
+210 Title of literary work
+
+220 Name(s) of author(s) / illustrator(s)
+
+230 Date of publication                                       Year  Month 240 Date of certificate                               Year                                      Month Day
+
+250 Genre
+
+T2 SCH 564 E (21)                                             (Ce formulaire est disponible en français.)          Page 1 of 3
+                                                                                                                                      Protected B when completed
+
+Part 3 ­ Eligibility
+
+1. Was the corporation a Canadian-controlled corporation throughout the tax year, as determined                                                                                                   No
+under sections 26 to 28 of the Investment Canada Act? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300 Yes
+
+2. Did the corporation, for the tax year, carry on a book publishing business primarily through a permanent
+establishment in Ontario? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310 Yes         No
+
+3. Was the corporation exempt from tax under Part III of the Taxation Act, 2007 (Ontario)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . 320 Yes                                        No
+
+4. Is the corporation controlled by the author of the literary work, or by a person not dealing at arm's length                                                                                   No
+with the author? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 330 Yes
+
+If you answered no to question 1 or 2 or yes to question 3 or 4, then you are not eligible for the OBPTC.
+
+Part 4 ­ Qualifying expenditures
+
+Pre-production costs: Advances to author
+  Amount of non-refundable monetary advances made to the eligible Canadian author(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+
+Pre-production costs: Technical expenditures Note 2
+
+Salaries and wages for editing, design, and project management . . . . . . . . . . . . . . . . . . . . . . . . . . 410
+
+Freelance fees relating to editing, design, and research . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 420
+
+Amounts for artwork, developing prototypes, set-up and typesetting . . . . . . . . . . . . . . . . . . . . . . . . 430
+
+Salaries, wages, fees, and other amounts for scanning, editing, formatting, indexing,
+encryption, and establishing digital rights management or other technological protection
+measures (incurred after March 26, 2009) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 435
+
+                                                                       Subtotal (total of lines 410 to 435)                                                                                           4A
+
+Production costs: Printing, assembling, binding and electronic distribution expenditures Note 2
+
+Expenditures . . . . . . . . . . . . . . . . . . . . . . . . 440       × 50% = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 450
+
+Marketing expenditures (include expenditures incurred within 12 months following the publication date of the book) Note 3
+
+Expenditures for book promotional tours of eligible Canadian authors
+(excluding costs for meals and entertainment) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 460
+
+Expenditures for meals and entertainment of eligible                   × 50% = 470
+Canadian authors on promotional tours . . . . . . . . . . . . . . 465
+
+Salaries and wages of employees for the marketing of the book . . . . . . . . . . . . . . . . . . . . . . . . . . . 480
+
+Other amounts (not included above) incurred for promoting and marketing the book . . . . . . . . . . . 490
+
+                                                                       Subtotal (total of lines 460 to 490)                                                                                           4B
+
+Total qualifying expenditures (total of line 400, amount 4A, line 450 and amount 4B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 500
+
+Government assistance attributed to qualifying expenditures on line 500 (includes
+amounts received, entitled to be received, or reasonably expected to be received) . . . . . . . . . . . . . 510
+
+Qualifying expenditures included in the amount on line 500 that were included in
+determining the available credit in a previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 520
+
+                                                                       Subtotal (line 510 plus line 520)                                                                                              4C
+
+Total qualifying expenditures eligible for the OBPTC (line 500 minus amount 4C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 530
+
+Note 2: Include only the expenditures for activities carried out primarily in Ontario.
+           After March 26, 2009, include expenditures incurred for preparing a literary work for publication in one or more digital or electronic formats.
+
+Note 3: For expenditures incurred after March 29, 2011, include expenditures incurred within the period that begins 12 months before and ends 12 months
+           after the date of publication of the literary work.
+
+                                                                                                                                                                                                  Page 2 of 3
+                                                                                                                                                    Protected B when completed
+
+     Part 5 ­ Tax credit calculation                                                                                                                × 30% =    5A
+
+Total qualifying expenditures eligible for credit (line 530 in Part 4) . . . . . . . . . . . . . . . . . . . . . . . .
+
+Credit available to be claimed in the tax year
+
+Maximum credit available . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Total credit claimed in a previous tax year Note 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 540
+
+Unused credit available (30,000 minus line 540) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                          5B
+
+Ontario book publishing tax credit (lesser of amount 5A or amount 5B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 550
+
+Or, if the corporation answered yes on line 150 (in Part 1), determine the partner's share of line 550:
+
+Line 550  × percentage on line 170              % = ................................                                                                           5C
+
+Enter line 550 or amount 5C (as applicable) on line 466 of Schedule 5, Tax Calculation Supplementary ­ Corporations. If you are filing more than one
+Schedule 564, add line 550 or amount 5C (as applicable) on all the schedules and enter the total amount on line 466 of Schedule 5.
+
+Note 4: Include the total of all credits previously claimed for the particular literary work by the filing corporation (and, in the case of OBPTCs earned through a
+           partnership, include all amounts that were claimed by corporate partners). When a corporate reorganization has occurred under section 87,
+           subsection 88(1), or subsection 85(1) of the federal Income Tax Act, include the credits claimed for the particular literary work by the predecessor
+           corporations, subsidiaries, and transferor corporations, respectively.
+
+                                                                                                                        Privacy Act, personal information bank number CRA PPU 047
+
+                                                                                                                                                               Page 3 of 3
+

@@ -1,0 +1,18 @@
+line	caption
+100	Total eligible expenditures incurred by the corporation in Ontario in the tax year
+105	Government assistance, non-government assistance, or a contract payment for eligible expenditures
+110	Eligible expenditures transferred to the corporation by another corporation
+115	Eligible expenditures the corporation transferred to another corporation
+120	Ontario SR&ED expenditure pool (amount E minus amount F) (if negative, enter "0")
+210	Repayments for tax years that end before June 1, 2016
+212	Repayments for tax years that start after May 31, 2016
+229	Eligible repayments (total of amounts H to K)
+230	The ORDTC for tax years that end before June 1, 2016 (total of amounts M to O)
+231	(total of amounts Q to S)
+232	The ORDTC for tax years that start after May 31, 2016 (total of amounts U to W)
+300	ORDTC expired after 20 tax years
+305	ORDTC at the beginning of the tax year (amount Y minus amount Z)
+310	ORDTC transferred to the corporation on amalgamation or windup
+320	Waiver of the current part of the ORDTC
+325	ORDTC balance at the end of the tax year (amount FF minus amount II)
+760	Corporate partner's share of the excess of ORDTC (enter at amount ZZ in Part 8)

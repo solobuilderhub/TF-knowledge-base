@@ -1,0 +1,38 @@
+page	part	field	line	kind	digits	speak
+1		Name_Corp		text		Corporation's name.
+1		BusinessNumber		text		Business number. 9 digits, 2 letters, 4 digits.
+1	Tax_Year	Tax_Tear_End		text		Tax year-end. Date. Year 4 digits, Month 2 digits, Day 2 digits.
+1	Part1_sf	Line151_Name	151	text		Line 151. Name of person to contact for more information.
+1	Part1_sf	Line153_PhoneNumber	153	text		Line 153. Telephone number including area code of the person to contact for more information. 10 digits.
+1	Part2_sf/RadioButtonGroup	Yes	210	check		Line 210. Has the corporation applied to the British Columbia Ministry of Finance for a registered number so it can claim a British Columbia interactive digital media tax credit? Yes.
+1	Part2_sf/RadioButtonGroup	No	210	check		Line 210. Has the corporation applied to the British Columbia Ministry of Finance for a registered number so it can claim a British Columbia interactive digital media tax credit? No.
+1	Part2_sf	Line215_Reg_Number	215	text		Line 215. If you answered yes to the question at line 210, please give the registration number. If you do not register the corporation, you are not eligible for the BCIDMTC.
+2	Part3_sf/Line310_sf/RadioButtonGroup310	Yes	310	check		Line 310. Has the corporation claimed a British Columbia scientific research and experimental development tax credit for the tax year? Yes.
+2	Part3_sf/Line310_sf/RadioButtonGroup310	No	310	check		Line 310. Has the corporation claimed a British Columbia scientific research and experimental development tax credit for the tax year? No.
+2	Part3_sf/Line315_sf/RadioButtonGroup315	Yes	315	check		Line 315. Was the corporation at any time in the tax year exempt from tax under section 27 of the Income Tax Act of British Columbia? Yes
+2	Part3_sf/Line315_sf/RadioButtonGroup315	No	315	check		Line 315. Was the corporation at any time in the tax year exempt from tax under section 27 of the Income Tax Act of British Columbia? No.
+2	Part3_sf/Line320_sf/RadioButtonGroup320	Yes	320	check		Line 320. Was the corporation at any time in the tax year exempt from tax under Part I of the Income Tax Act, federal act? Yes.
+2	Part3_sf/Line320_sf/RadioButtonGroup320	No	320	check		Line 320. Was the corporation at any time in the tax year exempt from tax under Part I of the Income Tax Act, federal act? No.
+2	Part3_sf/Line325_sf/RadioButtonGroup325	Yes	325	check		Line 325. Was the corporation at any time in the tax year a prescribed labour-sponsored venture capital corporation for the purpose of section 127.4 of the federal act? Yes.
+2	Part3_sf/Line325_sf/RadioButtonGroup325	No	325	check		Line 325. Was the corporation at any time in the tax year a prescribed labour-sponsored venture capital corporation for the purpose of section 127.4 of the federal act? No.
+2	Part3_sf/Line330_sf/RadioButtonGroup330	Yes	330	check		Line 330. Was the corporation at any time in the tax year a corporation that has an employee share ownership plan registered under section 2 of the Employee Investment Act? Yes.
+2	Part3_sf/Line330_sf/RadioButtonGroup330	No	330	check		Line 330. Was the corporation at any time in the tax year a corporation that has an employee share ownership plan registered under section 2 of the Employee Investment Act? No.
+2	Part3_sf/Line335_sf/RadioButtonGroup335	Yes	335	check		Line 335. Was the corporation at any time in the tax year registered as an employee venture capital corporation under section 8 of the Employee Investment Act? Yes.
+2	Part3_sf/Line335_sf/RadioButtonGroup335	No	335	check		Line 335. Was the corporation at any time in the tax year registered as an employee venture capital corporation under section 8 of the Employee Investment Act? No.
+2	Part3_sf/Line340_sf/RadioButtonGroup340	Yes	340	check		Line 340. Was the corporation at any time in the tax year a small business venture capital corporation registered under section 3 of the Small Business Venture Capital Act? Yes.
+2	Part3_sf/Line340_sf/RadioButtonGroup340	No	340	check		Line 340. Was the corporation at any time in the tax year a small business venture capital corporation registered under section 3 of the Small Business Venture Capital Act? No.
+2	Part3_sf/Line350_sf/RadioButtonGroup350	Yes	350	check		Line 350. Was the corporation at any time in the tax year controlled directly or indirectly in any way by one or more corporations described in questions 2 to 7? Yes.
+2	Part3_sf/Line350_sf/RadioButtonGroup350	No	350	check		Line 350. Was the corporation at any time in the tax year controlled directly or indirectly in any way by one or more corporations described in questions 2 to 7? No.
+2	Part3_sf/Line355_sf/RadioButtonGroup355	Yes	355	check		Line 355. Was the corporation at any time in the tax year a personal services business as defined in subsection 125(7) of the federal act? Yes. If you answered yes to any of the above questions, you are not eligible for the BCIDMTC.
+2	Part3_sf/Line355_sf/RadioButtonGroup355	No	355	check		Line 355. Was the corporation at any time in the tax year a personal services business as defined in subsection 125(7) of the federal act? No.
+2	Part4_sf	Amount400	400	numeric	12	Line 400. Eligible salary and wages incurred before September 1, 2025.
+2	Part4_sf	Amount450	450	numeric	12	Line 450. Designated assistance for salary and wages incurred before September 1, 2025.
+2	Part4_sf	Amount490	490	numeric	12	"Line 490. Net eligible salary and wages incurred before September 1, 2025. Line 400 minus line 450. If negative, enter ""0""."
+2	Part4_sf	Amount405	405	numeric	12	Line 405. Eligible salary and wages incurred after August 31, 2025.
+2	Part4_sf	Amount455	455	numeric	12	Line 455. Designated assistance for salary and wages incurred after August 31, 2025.
+2	Part4_sf	Amount495	495	numeric	12	"Line 495. Net eligible salary and wages incurred after August 31, 2025. Line 405 minus line 455. If negative, enter ""0""."
+3	Part5_sf/AmountA	Part6_Ln610_1_Field	490	numeric	12	Line 490 from Part 4. Instance 2.
+3	Part5_sf/AmountA	P8_Ln620_inpt2		numeric	12	Amount A. Line 490 from Part 4 multiplied by 17.5%
+3	Part5_sf/AmountB	Part6_Ln610_1_Field	495	numeric	12	Line 495 from Part 4. Instance 2.
+3	Part5_sf/AmountB	P8_Ln620_inpt2		numeric	12	Amount B. Line 495 from Part 4 multiplied by 25%.
+3	Part5_sf/AmountC	AmountA		numeric	12	Amount C. British Columbia interactive digital media tax credit. Amount A plus amount B. Enter amount C on line 680 of Schedule 5, Tax Calculation Supplementary – Corporations.

@@ -1,0 +1,157 @@
+                    NEW BRUNSWICK RESEARCH AND DEVELOPMENT TAX CREDIT                                                                                                   SCHEDULE 360
+                                                 (2011 and later tax years)
+                                                                                                                                                                                     Code 1101
+                                                                                                                                  Business Number
+                                                                                                                                                                                Protected B
+                                                                                                                                                                              when completed
+
+Corporation's name                                                                                                                                                Year  Tax year-end
+                                                                                                                                                                        Month Day
+
+· Use this schedule if you are a corporation with a permanent establishment in New Brunswick that has made eligible expenditures for scientific research
+  and experimental development carried out in the province, and you want to:
+
+ ­ calculate a refundable New Brunswick research and development (R&D) tax credit on eligible expenditures;
+
+ ­ show a credit allocated to a corporation that is a member of a partnership, or a credit allocated to a corporation that is a beneficiary under a trust; or
+ ­ calculate a recapture of the New Brunswick R&D tax credit.
+
+· An eligible expenditure for R&D is one that meets the definition of a qualified expenditure in subsection 127(9) of the federal Income Tax Act. Deduct the
+  amount of any government assistance, non-government assistance, or contract payment in calculating the amount of a qualified expenditure for
+  investment tax credit purposes in subsection 127(9) of the federal Act.
+
+· Credits earned on eligible expenditures are applied to reduce New Brunswick income tax otherwise payable for the year, as well as amounts owing under
+  the federal and provincial income tax acts, the Canada Pension Plan, and the Employment Insurance Act. Any remaining balance will be refunded.
+
+· File one completed copy of this schedule with your T2 Corporation Income Tax Return.
+
+Part 1 ­ New Brunswick refundable R&D tax credit
+
+Total eligible expenditures for R&D made in the current year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106                      A
+
+Refundable current-year credit earned (amount A multiplied by 15%). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121                               B
+
+Plus:
+
+Refundable credit allocated to a corporation that is a member of a partnership. . . . . . . . . . 131      a
+
+Refundable credit allocated to a corporation that is a beneficiary under a trust . . . . . . . . . . 141   b
+
+                    Subtotal (amount a plus amount b)                                                                                                                                 C
+
+Total New Brunswick refundable R&D tax credit (amount B plus amount C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 190                                        D
+
+(enter amount D on line 597 of Schedule 5, Tax Calculation Supplementary ­ Corporations)
+
+T2 SCH 360 E (11)   (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca ou au 1 800 959-7775.)                                          Page 1 of 3
+                                                                                                          Protected B when completed
+
+    Part 2 ­ Recapture of New Brunswick R&D tax credit
+
+· You will have a recapture of New Brunswick R&D tax credit in a year when you meet all the following conditions:
+
+  1. you acquired a particular property in the current year or in any of the four preceding tax years;
+
+  2. the cost of the property was an eligible expenditure to the corporation;
+
+  3. a) the cost of the property was included in calculating your R&D tax credit at the end of the tax year: or
+       b) all or part of the eligible expenditure is the subject of an agreement made under subsection 127(13) of the federal Income Tax Act by you and
+            another corporation (the "transferee"); and
+
+  4. you disposed of the property or converted it to commercial use in the current year. You also meet this condition if you disposed of, or
+      converted to commercial use, a property that incorporates the property previously referred to.
+
+      Note:
+      The recapture does not apply if you disposed of the property to a non-arm's-length buyer who intended to use it all or substantially all for R&D.
+      When the non-arm's-length buyer later sells or converts the property to commercial use, the recapture rules will apply to the non-arm's length
+      buyer based on the historical amount of the original user's New Brunswick R&D tax credit.
+
+· If the corporation is a member of a partnership or a beneficiary under a trust, report its share of the recapture at line 760 in Calculation 3.
+
+· If you have more than one property for calculations 1 and 2, complete the columns for each property for which a recapture applies, using the
+  calculation formats below.
+
+    Calculation 1 ­ Complete this if you meet conditions 1, 2, 3a, and 4 above
+
+       Amount of New Brunswick R&D tax credit           Amount calculated using the New Brunswick         Amount from column 700 or 710,
+     you originally calculated for the property you    R&D tax credit rate on the date of acquisition               whichever is less
+    acquired, or the original user's tax credit where   (or the original user's date of acquisition) on
+                                                       either the proceeds of disposition (if sold in an
+             you acquired the property from a
+                    non-arm's-length party                      arm's-length transaction) or the
+                                                                fair market value of the property
+
+                                                                         (in any other case)
+
+    700                                                 710
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+                                                       Subtotal (enter amount E on line N on page 3)                                                     E
+
+                                                                                                                                                         Page 2
+                                                                                                                                        Protected B when completed
+
+    Part 2 ­ Recapture of New Brunswick R&D tax credit ­ continued
+                  Calculation 2 ­ Complete this if you meet conditions 1, 2, 3b, and 4 on page 2
+
+    F                                              G                                                                             H
+
+    The rate the transferee used to determine its    The proceeds of disposition of the property      The amount, if any, already provided for in
+      New Brunswick R&D tax credit for eligible    if you dispose of it to a person at arm's length;      calculation 1 (where only part of the
+                   expenditures under a            or, in any other case, the fair market value of
+             subsection 127(13) agreement                                                              cost of a property is transferred under a
+                                                      the property at conversion or disposition              subsection 127(13) agreement)
+
+    720                                            730                                                                                  740
+
+1.
+2.
+3.
+4.
+5.
+
+                          I                                                   J                                        K
+
+    Amount determined by the formula               New Brunswick R&D tax credit earned by             Amount from column I or J,
+                  (F  G)  H                        the transferee for the eligible expenditures             whichever is less
+
+         (using the columns above)                               that were transferred
+
+                                                   750
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+                                                   Subtotal (enter amount L on line O below)                                                                  L
+
+    Calculation 3
+
+    As a member of a partnership or a beneficiary under a trust, you have to report your share of the recapture on line M below:
+
+    Corporation's share of the recapture of New Brunswick R&D tax credit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 760                     M
+
+    (enter amount M on line P below)
+
+    Part 3 ­ Total recapture of New Brunswick R&D tax credit                                                                                                  N
+Recaptured New Brunswick R&D tax credit for calculation 1 from line E on page 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        O
+Recaptured New Brunswick R&D tax credit for calculation 2 from line L above . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     P
+Recaptured New Brunswick R&D tax credit for calculation 3 from line M above . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       Q
+Total recapture of New Brunswick R&D tax credit (total of lines N, O, and P) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(enter amount Q on line 573 of Schedule 5)                                                                                                                    Page 3
+

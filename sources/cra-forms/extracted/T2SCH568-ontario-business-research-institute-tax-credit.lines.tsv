@@ -1,0 +1,11 @@
+line	caption
+100	Did the corporation, for the tax year, carry on business in Ontario through a permanent establishment in Ontario?
+105	Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario)?
+200	Was the corporation associated at any time in the tax year with another corporation?
+310	in Part 3.
+205	Qualified expenditure limit
+210	Qualified expenditure limit for the tax year (amount from line 205 or amount A, whichever applies)
+315	Total expenditure limit (cannot exceed $20 million)
+400	Total number of eligible contracts used to determine the OBRITC for this tax year
+405	(total of amounts on line 310 in Part 3 of each Schedule 569)
+410	Qualified expenditures for the OBRITC for the tax year (amount from line 405 or amount B, whichever is less)

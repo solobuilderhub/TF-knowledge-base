@@ -1,0 +1,16 @@
+line	caption
+110	in the current tax year before July 1, 2013 (amount A plus amount B)
+111	in the current tax year after June 30, 2013 and before April 12, 2017 (amount C plus amount D)
+201	acquired (by purchase or lease) in the current tax year YYYYMMDD 203 204
+210	in the current tax year before July 1, 2013 (amount G plus amount H)
+211	in the current tax year after June 30, 2013 and before April 12, 2017 (amount I plus amount J)
+309	Credit allocated from a partnership
+310	Data processing centre investment tax credit for operator (Add amounts M to Q)
+410	before April 12, 2017 (must be at least $10 million) (amount S plus amount T)
+499	Credit allocated from a partnership
+500	Data processing property investment tax credit (amount V plus amount W)
+601	corporation in the current tax year YYYYMMDD 603
+604	corporation in the current tax year YYYYMMDD
+614	column 5
+621	Credit allocated from a partnership
+622	Data processing centre investment tax credit for building lessor (add amounts AA to CC)

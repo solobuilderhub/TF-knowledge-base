@@ -1,0 +1,177 @@
+page	part	field	line	kind	digits	speak
+1	Info_sf	Info_inpt-Name		text		Corporation's name.
+1	Info_sf	Info_inpt-Number		text		Business Number. 9 numbers, 2 letters, and 4 numbers.
+1	Info_sf/Info_grp	Info_grp_inpt-FYED		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row1	cell1		text		Column A1. Line 150. Name of qualifying youth. Row 1.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row1	cell2		numeric	12	Column B1. Line 155. Salary and wages paid. Row 1.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row1	cell3		numeric	12	Column C1. B1 multiplied by 25%. Row 1.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row1	cell4		numeric	12	Column D1. Line 170. Lesser of C1 and maximum amount. Row 1.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row2	cell1		text		Column A1. Line 150. Name of qualifying youth. Row 2.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row2	cell2		numeric	12	Column B1. Line 155. Salary and wages paid. Row 2.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row2	cell3		numeric	12	Column C1. B1 multiplied by 25%. Row 2.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row2	cell4		numeric	12	Column D1. Line 170. Lesser of C1 and maximum amount. Row 2.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row3	cell1		text		Column A1. Line 150. Name of qualifying youth. Row 3.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row3	cell2		numeric	12	Column B1. Line 155. Salary and wages paid. Row 3.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row3	cell3		numeric	12	Column C1. B1 multiplied by 25%. Row 3.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row3	cell4		numeric	12	Column D1. Line 170. Lesser of C1 and maximum amount. Row 3.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row4	cell1		text		Column A1. Line 150. Name of qualifying youth. Row 4.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row4	cell2		numeric	12	Column B1. Line 155. Salary and wages paid. Row 4.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row4	cell3		numeric	12	Column C1. B1 multiplied by 25%. Row 4.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row4	cell4		numeric	12	Column D1. Line 170. Lesser of C1 and maximum amount. Row 4.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row5	cell1		text		Column A1. Line 150. Name of qualifying youth. Row 5.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row5	cell2		numeric	12	Column B1. Line 155. Salary and wages paid. Row 5.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row5	cell3		numeric	12	Column C1. B1 multiplied by 25%. Row 5.
+1	P1_sf/P1_Frm_sf/P1_Frm_table/P1_Frm_table_row5	cell4		numeric	12	Column D1. Line 170. Lesser of C1 and maximum amount. Row 5.
+1	P1_sf/P1_Frm_sf/P1_Frm_Ln175_sf	P1_Frm_Ln175_inpt	175	numeric	12	Line 175. Credit allocated for qualifying youths whose salaries and wages were paid by a partnership.
+1	P1_sf/P1_Frm_sf/P1_Frm_Ln180_sf	P1_Frm_Ln180_inpt	180	numeric	12	Line 180. Youth work experience hiring incentive. Total of column D1 plus line 175.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row1	cell1		text		Column A2. Line 250. Name of co-op student. Maximum 5 placements per co-op student. Row 1.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row1	cell2		numeric	12	Column B2. Line 260. Salary and wages paid. Row 1.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row1	cell3		numeric	12	Column C2. B2 multiplied by 15%. Row 1.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row1	cell4		numeric	12	Column D2. Line 270. Lesser of C2 and maximum amount. Row 1.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row2	cell1		text		Column A2. Line 250. Name of co-op student. Maximum 5 placements per co-op student. Row 2.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row2	cell2		numeric	12	Column B2. Line 260. Salary and wages paid. Row 2.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row2	cell3		numeric	12	Column C2. B2 multiplied by 15%. Row 2.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row2	cell4		numeric	12	Column D2. Line 270. Lesser of C2 and maximum amount. Row 2.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row3	cell1		text		Column A2. Line 250. Name of co-op student. Maximum 5 placements per co-op student. Row 3.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row3	cell2		numeric	12	Column B2. Line 260. Salary and wages paid. Row 3.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row3	cell3		numeric	12	Column C2. B2 multiplied by 15%. Row 3.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row3	cell4		numeric	12	Column D2. Line 270. Lesser of C2 and maximum amount. Row 3.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row4	cell1		text		Column A2. Line 250. Name of co-op student. Maximum 5 placements per co-op student. Row 4.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row4	cell2		numeric	12	Column B2. Line 260. Salary and wages paid. Row 4.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row4	cell3		numeric	12	Column C2. B2 multiplied by 15%. Row 4.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row4	cell4		numeric	12	Column D2. Line 270. Lesser of C2 and maximum amount. Row 4.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row5	cell1		text		Column A2. Line 250. Name of co-op student. Maximum 5 placements per co-op student. Row 5.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row5	cell2		numeric	12	Column B2. Line 260. Salary and wages paid. Row 5.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row5	cell3		numeric	12	Column C2. B2 multiplied by 15%. Row 5.
+2	P2_sf/P2_Frm_sf/P2_Frm_table/P2_Frm_table_row5	cell4		numeric	12	Column D2. Line 270. Lesser of C2 and maximum amount. Row 5.
+2	P2_sf/P2_Frm_sf/P2_Frm_Ln275_sf	P2_Frm_Ln275_inpt	275	numeric	12	Line 275. Credit allocated for co-op students whose salaries and wages were paid by a partnership.
+2	P2_sf/P2_Frm_sf/P2_Frm_Ln280_sf	P2_Frm_Ln280_inpt	280	numeric	12	Line 280. Co-op student hiring incentive. Total of column D2 plus line 275.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row1	cell1		text		Column A3. Line 350. Name of qualifying graduate. Qualifying periods of employment totalling up to 24 months. Row 1.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row1	cell2		numeric	12	Column B3. Line 360. Salary and wages paid. Row 1.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row1	cell3		numeric	12	Column C3. B3 multiplied by 15%. Row 1.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row1	cell4		numeric	12	Column D3. Line 370. Lesser of C3 and maximum amount. Row 1.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row2	cell1		text		Column A3. Line 350. Name of qualifying graduate. Qualifying periods of employment totalling up to 24 months. Row 2.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row2	cell2		numeric	12	Column B3. Line 360. Salary and wages paid. Row 2.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row2	cell3		numeric	12	Column C3. B3 multiplied by 15%. Row 2.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row2	cell4		numeric	12	Column D3. Line 370. Lesser of C3 and maximum amount. Row 2.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row3	cell1		text		Column A3. Line 350. Name of qualifying graduate. Qualifying periods of employment totalling up to 24 months. Row 3.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row3	cell2		numeric	12	Column B3. Line 360. Salary and wages paid. Row 3.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row3	cell3		numeric	12	Column C3. B3 multiplied by 15%. Row 3.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row3	cell4		numeric	12	Column D3. Line 370. Lesser of C3 and maximum amount. Row 3.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row4	cell1		text		Column A3. Line 350. Name of qualifying graduate. Qualifying periods of employment totalling up to 24 months. Row 4.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row4	cell2		numeric	12	Column B3. Line 360. Salary and wages paid. Row 4.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row4	cell3		numeric	12	Column C3. B3 multiplied by 15%. Row 4.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row4	cell4		numeric	12	Column D3. Line 370. Lesser of C3 and maximum amount. Row 4.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row5	cell1		text		Column A3. Line 350. Name of qualifying graduate. Qualifying periods of employment totalling up to 24 months. Row 5.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row5	cell2		numeric	12	Column B3. Line 360. Salary and wages paid. Row 5.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row5	cell3		numeric	12	Column C3. B3 multiplied by 15%. Row 5.
+2	P3_sf/P3_Frm_sf/P3_Frm_table/P3_Frm_table_row5	cell4		numeric	12	Column D3. Line 370. Lesser of C3 and maximum amount. Row 5.
+2	P3_sf/P3_Frm_sf/P3_Frm_Ln375_sf	P3_Frm_Ln375_inpt	375	numeric	12	Line 375. Credit allocated for qualifying graduates whose salaries and wages were paid by a partnership.
+2	P3_sf/P3_Frm_sf/P3_Frm_Ln380_sf	P3_Frm_Ln380_inpt	380	numeric	12	Line 380. Co-op graduate hiring incentive. Total of column D3 plus line 375.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row1	cell1		text		Column A4. Line 450. Name of qualifying apprentice. Row 1.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row1	cell2		numeric	12	Column B4. Line 460. Salary and wages paid. Row 1.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row1	cell3		numeric	12	Column C4. B4 multiplied by 15%. Row 1.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row1	cell4		numeric	12	Column D4. Line 470. Lesser of C4 and maximum amount. Row 1.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row2	cell1		text		Column A4. Line 450. Name of qualifying apprentice. Row 2.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row2	cell2		numeric	12	Column B4. Line 460. Salary and wages paid. Row 2.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row2	cell3		numeric	12	Column C4. B4 multiplied by 15%. Row 2.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row2	cell4		numeric	12	Column D4. Line 470. Lesser of C4 and maximum amount. Row 2.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row3	cell1		text		Column A4. Line 450. Name of qualifying apprentice. Row 3.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row3	cell2		numeric	12	Column B4. Line 460. Salary and wages paid. Row 3.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row3	cell3		numeric	12	Column C4. B4 multiplied by 15%. Row 3.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row3	cell4		numeric	12	Column D4. Line 470. Lesser of C4 and maximum amount. Row 3.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row4	cell1		text		Column A4. Line 450. Name of qualifying apprentice. Row 4.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row4	cell2		numeric	12	Column B4. Line 460. Salary and wages paid. Row 4.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row4	cell3		numeric	12	Column C4. B4 multiplied by 15%. Row 4.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row4	cell4		numeric	12	Column D4. Line 470. Lesser of C4 and maximum amount. Row 4.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row5	cell1		text		Column A4. Line 450. Name of qualifying apprentice. Row 5.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row5	cell2		numeric	12	Column B4. Line 460. Salary and wages paid. Row 5.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row5	cell3		numeric	12	Column C4. B4 multiplied by 15%. Row 5.
+3	P4_sf/P4_Frm_sf/P4_Frm_table/P4_Frm_table_row5	cell4		numeric	12	Column D4. Line 470. Lesser of C4 and maximum amount. Row 5.
+3	P4_sf/P4_Frm_sf/P4_Frm_Ln475_sf	P4_Frm_Ln475_inpt	475	numeric	12	Line 475. Credit allocated for qualifying apprentices whose salaries and wages were paid by a partnership.
+3	P4_sf/P4_Frm_sf/P4_Frm_Ln477_sf	P4_Frm_Ln477_inpt	477	numeric	12	Line 477. Amount received or receivable from the Federal apprenticeship job creation tax credit.
+3	P4_sf/P4_Frm_sf/P4_Frm_Ln480_sf	P4_Frm_Ln480_inpt	480	numeric	12	Line 480. Apprentice hiring incentive. Total of column D4 plus line 475 minus line 477.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row1	cell1		text		Column A5. Line 550. Name of qualifying apprentice. Row 1.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row1	cell2		numeric	12	Column B5. Line 560. Salary and wages paid. Row 1.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row1	cell3		numeric	12	Column C5. B5 multiplied by 20%. Row 1.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row1	cell4		numeric	12	Column D5. Line 570. Lesser of C5 and maximum amount. Row 1.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row2	cell1		text		Column A5. Line 550. Name of qualifying apprentice. Row 2.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row2	cell2		numeric	12	Column B5. Line 560. Salary and wages paid. Row 2.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row2	cell3		numeric	12	Column C5. B5 multiplied by 20%. Row 2.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row2	cell4		numeric	12	Column D5. Line 570. Lesser of C5 and maximum amount. Row 2.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row3	cell1		text		Column A5. Line 550. Name of qualifying apprentice. Row 3.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row3	cell2		numeric	12	Column B5. Line 560. Salary and wages paid. Row 3.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row3	cell3		numeric	12	Column C5. B5 multiplied by 20%. Row 3.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row3	cell4		numeric	12	Column D5. Line 570. Lesser of C5 and maximum amount. Row 3.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row4	cell1		text		Column A5. Line 550. Name of qualifying apprentice. Row 4.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row4	cell2		numeric	12	Column B5. Line 560. Salary and wages paid. Row 4.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row4	cell3		numeric	12	Column C5. B5 multiplied by 20%. Row 4.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row4	cell4		numeric	12	Column D5. Line 570. Lesser of C5 and maximum amount. Row 4.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row5	cell1		text		Column A5. Line 550. Name of qualifying apprentice. Row 5.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row5	cell2		numeric	12	Column B5. Line 560. Salary and wages paid. Row 5.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row5	cell3		numeric	12	Column C5. B5 multiplied by 20%. Row 5.
+3	P5_sf/P5_Frm_sf/P5_Frm_table/P5_Frm_table_row5	cell4		numeric	12	Column D5. Line 570. Lesser of C5 and maximum amount. Row 5.
+3	P5_sf/P5_Frm_sf/P5_Frm_Ln575_sf	P5_Frm_Ln575_inpt	575	numeric	12	Line 575. Credit allocated for rural or northern early level apprentices whose salaries and wages were paid by a partnership.
+3	P5_sf/P5_Frm_sf/P5_Frm_Ln577_sf	P5_Frm_Ln577_inpt	577	numeric	12	Line 577. Amount received or receivable from the Federal apprenticeship job creation tax credit.
+3	P5_sf/P5_Frm_sf/P5_Frm_Ln580_sf	P5_Frm_Ln580_inpt	580	numeric	12	Line 580. Apprentice hiring incentive for rural or northern early level apprentice. Total of column D5 plus line 575 minus line 577.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row1	cell1		text		Column A6. Line 750. Name of qualifying apprentice. Row 1.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row1	cell2		numeric	12	Column B6. Line 760. Salary and wages paid. Row 1.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row1	cell3		numeric	12	Column C6. B6 multiplied by 25%. Row 1.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row1	cell4		numeric	12	Column D6. Line 770. Lesser of C6 and maximum amount. Row 1.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row2	cell1		text		Column A6. Line 750. Name of qualifying apprentice. Row 2.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row2	cell2		numeric	12	Column B6. Line 760. Salary and wages paid. Row 2.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row2	cell3		numeric	12	Column C6. B6 multiplied by 25%. Row 2.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row2	cell4		numeric	12	Column D6. Line 770. Lesser of C6 and maximum amount. Row 2.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row3	cell1		text		Column A6. Line 750. Name of qualifying apprentice. Row 3.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row3	cell2		numeric	12	Column B6. Line 760. Salary and wages paid. Row 3.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row3	cell3		numeric	12	Column C6. B6 multiplied by 25%. Row 3.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row3	cell4		numeric	12	Column D6. Line 770. Lesser of C6 and maximum amount. Row 3.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row4	cell1		text		Column A6. Line 750. Name of qualifying apprentice. Row 4.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row4	cell2		numeric	12	Column B6. Line 760. Salary and wages paid. Row 4.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row4	cell3		numeric	12	Column C6. B6 multiplied by 25%. Row 4.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row4	cell4		numeric	12	Column D6. Line 770. Lesser of C6 and maximum amount. Row 4.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row5	cell1		text		Column A6. Line 750. Name of qualifying apprentice. Row 5.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row5	cell2		numeric	12	Column B6. Line 760. Salary and wages paid. Row 5.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row5	cell3		numeric	12	Column C6. B6 multiplied by 25%. Row 5.
+4	P6_sf/P6_Frm_sf/P6_Frm_table/P6_Frm_table_row5	cell4		numeric	12	Column D6. Line 770. Lesser of C6 and maximum amount. Row 5.
+4	P6_sf/P6_Frm_sf/P6_Frm_Ln775_sf	P6_Frm_Ln775_inpt	775	numeric	12	Line 775. Credit allocated for high school apprentices whose salaries and wages were paid by a partnership.
+4	P6_sf/P6_Frm_sf/P6_Frm_Ln777_sf	P6_Frm_Ln777_inpt	777	numeric	12	Line 777. Amount received or receivable from the Federal apprenticeship job creation tax credit.
+4	P6_sf/P6_Frm_sf/P6_Frm_Ln780_sf	P6_Frm_Ln780_inpt	780	numeric	12	Line 780. Apprentice hiring incentive for high school apprentice. Total of column D6 plus line 775 minus line 777.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row1	cell1		text		Column A7. Line 650. Name of qualifying journeyperson. Qualifying periods of employment totalling up to 24 months. Row 1.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row1	cell2		numeric	12	Column B7. Line 660. Salary and wages paid. Row 1.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row1	cell3		numeric	12	Column C7. B7 multiplied by 15%. Row 1.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row1	cell4		numeric	12	Column D7. Line 670. Lesser of C7 and maximum amount. Row 1.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row2	cell1		text		Column A7. Line 650. Name of qualifying journeyperson. Qualifying periods of employment totalling up to 24 months. Row 2.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row2	cell2		numeric	12	Column B7. Line 660. Salary and wages paid. Row 2.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row2	cell3		numeric	12	Column C7. B7 multiplied by 15%. Row 2.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row2	cell4		numeric	12	Column D7. Line 670. Lesser of C7 and maximum amount. Row 2.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row3	cell1		text		Column A7. Line 650. Name of qualifying journeyperson. Qualifying periods of employment totalling up to 24 months. Row 3.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row3	cell2		numeric	12	Column B7. Line 660. Salary and wages paid. Row 3.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row3	cell3		numeric	12	Column C7. B7 multiplied by 15%. Row 3.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row3	cell4		numeric	12	Column D7. Line 670. Lesser of C7 and maximum amount. Row 3.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row4	cell1		text		Column A7. Line 650. Name of qualifying journeyperson. Qualifying periods of employment totalling up to 24 months. Row 4.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row4	cell2		numeric	12	Column B7. Line 660. Salary and wages paid. Row 4.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row4	cell3		numeric	12	Column C7. B7 multiplied by 15%. Row 4.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row4	cell4		numeric	12	Column D7. Line 670. Lesser of C7 and maximum amount. Row 4.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row5	cell1		text		Column A7. Line 650. Name of qualifying journeyperson. Qualifying periods of employment totalling up to 24 months. Row 5.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row5	cell2		numeric	12	Column B7. Line 660. Salary and wages paid. Row 5.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row5	cell3		numeric	12	Column C7. B7 multiplied by 15%. Row 5.
+4	P7_sf/P7_Frm_sf/P7_Frm_table/P7_Frm_table_row5	cell4		numeric	12	Column D7. Line 670. Lesser of C7 and maximum amount. Row 5.
+4	P7_sf/P7_Frm_sf/P7_Frm_Ln675_sf	P7_Frm_Ln675_inpt	675	numeric	12	Line 675. Credit allocated for qualifying journeypersons whose salaries and wages were paid by a partnership.
+4	P7_sf/P7_Frm_sf/P7_Frm_Ln680_sf	P7_Frm_Ln680_inpt	680	numeric	12	Line 680. Journeyperson hiring incentive. Total of column D7 plus line 675.
+4	P8_sf/P8_Frm_sf/P8_Frm_LnA_sf	P8_Frm_LnA_inpt		numeric	12	Amount A. Youth work experience hiring incentive. Amount from line 180.
+4	P8_sf/P8_Frm_sf/P8_Frm_LnB_sf	P8_Frm_LnB_inpt		numeric	12	Amount B. Co-op student hiring incentive. Amount from line 280.
+4	P8_sf/P8_Frm_sf/P8_Frm_LnC_sf	P8_Frm_LnC_inpt		numeric	12	Amount C. Co-op graduate hiring incentive. Amount from line 380.
+4	P8_sf/P8_Frm_sf/P8_Frm_LnD_sf	P8_Frm_LnD_inpt		numeric	12	Amount D. Apprentice hiring incentive. Amount from line 480.
+4	P8_sf/P8_Frm_sf/P8_Frm_LnE_sf	P8_Frm_LnE_inpt		numeric	12	Amount E. Apprentice hiring incentive for rural or northern early level apprentice. Amount from line 580.
+4	P8_sf/P8_Frm_sf/P8_Frm_LnF_sf	P8_Frm_LnF_inpt		numeric	12	Amount F. Apprentice hiring incentive for high school apprentice. Amount from line 780.
+4	P8_sf/P8_Frm_sf/P8_Frm_LnG_sf	P8_Frm_LnG_inpt		numeric	12	Amount G. Journeyperson hiring incentive. Amount from line 680.
+4	P8_sf/P8_Frm_sf/P8_Frm_LnH_sf	P8_Frm_LnH_inpt		numeric	12	Amount H. Manitoba paid work experience tax credit. Total of amounts A to G. Enter amount H on line 622 of Schedule 5.
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		

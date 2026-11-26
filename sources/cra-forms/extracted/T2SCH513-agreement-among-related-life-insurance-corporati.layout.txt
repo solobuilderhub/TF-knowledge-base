@@ -1,0 +1,54 @@
+                                                                                                                                   SCHEDULE 513
+
+                                                                                                                                              Code 0901
+
+                   AGREEMENT AMONG RELATED LIFE INSURANCE CORPORATIONS (ONTARIO)                                                     Protected B
+                                                          (2009 and later tax years)                                               when completed
+
+     · A life insurance corporation that is subject to Ontario's special additional tax on life insurance corporations (SAT) and is related at the end of its tax
+        year to another life insurance corporation carrying on business in Canada, must use this schedule to allocate the related group's capital allowance
+        among the members of the group.
+
+     · If you need more space, you can attach more schedules.
+
+     · File this schedule with the T2 Corporation Income Tax Return.
+
+                   Name of each life insurance corporation that  Agreement                                            Allocation of capital
+                          is a member of the related group                                                        allowance for the tax year
+                                                                                  Business Number
+                                          200                    (enter "NR" if a corporation is not registered)              400
+
+                                                                                       300
+
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
+ 8.
+ 9.
+10.
+11.
+12.
+
+                                                                                                                   Capital allowance * 410
+
+ Note
+ A life insurance corporation may have more than one tax year that ends in the same calendar year and, in two or more of those tax years, is related to
+ another life insurance corporation that has a tax year ending in that calendar year. If so, the life insurance corporation's capital allowance for each tax
+ year ending in that calendar year is its capital allowance for the first tax year that ends in the calendar year.
+
+* The amount on line 410 cannot be more than the sum of the following amounts:
+      $10 million plus the total of:
+         i) 0.50 × [(lesser of $50 million and the taxable capital employed in Canada **) minus $10 million] (if negative, the result is zero)
+         ii) 0.25 × [(lesser of $100 million and the taxable capital employed in Canada **) minus $50 million] (if negative, the result is zero)
+         iii) 0.50 × [(lesser of $300 million and the taxable capital employed in Canada **) minus $200 million] (if negative, the result is zero)
+         iv) 0.75 × (the taxable capital employed in Canada ** minus $300 million) (if negative, the result is zero)
+
+** The taxable capital employed in Canada is the amount from line 190 or 290, whichever applies, on Schedule 512, Ontario Special Additional Tax on Life
+   Insurance Corporations (SAT) for all the related life insurance corporations carrying on business in Canada.
+
+T2 SCH 513 E (08)  (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca/formulaires ou en composant le 1-800-959-7775.)
+

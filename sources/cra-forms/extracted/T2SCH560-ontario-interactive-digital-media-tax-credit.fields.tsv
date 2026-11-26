@@ -1,0 +1,130 @@
+page	part	field	line	kind	digits	speak
+1	CorpInfo_Bus_Date_Subform	Corporation_name		text		
+1	CorpInfo_Bus_Date_Subform	BusinessNumber_Contiguous_EN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	CorpInfo_Bus_Date_Subform	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_Info_Subform	Line110_txt	110	text		Line 110. Name of contact person.
+1	Part1_Info_Subform	Line120_PhoneNumber_Underlined	120	text		Line 120. Telephone number. 10 digits.
+1	Part2_Info_Subform	Line200_txt	200	text		Line 200. Certificate of eligibility number.
+1	Part2_Info_Subform	Line210_txt	210	text		Line 210. Product title.
+1	Part2_Info_Subform	Line220_txt	220	text		Line 220. Estimated Ontario interactive digital media tax credit for the eligible product or eligible digital game.
+1	Part3_Subform/Line300_Subform/RadioButtonGroup300	Yes	300	check		Line 300. Did the corporation develop, start developing, or complete development of an eligible product or an eligible digital game at a permanent establishment in Ontario operated by the corporation? Yes.
+1	Part3_Subform/Line300_Subform/RadioButtonGroup300	No	300	check		Line 300. Did the corporation develop, start developing, or complete development of an eligible product or an eligible digital game at a permanent establishment in Ontario operated by the corporation? No.
+1	Part3_Subform/Line310_Subform/RadioButtonGroup310	Yes	310	check		Line 310. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario)? Yes.
+1	Part3_Subform/Line310_Subform/RadioButtonGroup310	No	310	check		Line 310. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario)? No.
+1	Part3_Subform/Line320_Subform/RadioButtonGroup320	Yes	320	check		Line 320. Was the corporation, at any time in the tax year, controlled directly or indirectly, in any manner, by one or more corporations, all or part of whose taxable income was exempt from tax under section 57 of the Corporations Tax Act (Ontario) or Part III of the Taxation Act, 2007 (Ontario)? Yes.
+1	Part3_Subform/Line320_Subform/RadioButtonGroup320	No	320	check		Line 320. Was the corporation, at any time in the tax year, controlled directly or indirectly, in any manner, by one or more corporations, all or part of whose taxable income was exempt from tax under section 57 of the Corporations Tax Act (Ontario) or Part III of the Taxation Act, 2007 (Ontario)? No.
+1	Part3_Subform/Line330_Subform/RadioButtonGroup330	Yes	330	check		Line 330. Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation? Yes.
+1	Part3_Subform/Line330_Subform/RadioButtonGroup330	No	330	check		Line 330. Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation? No.
+1		CurrentPage		numeric		
+1		PageCount		numeric		
+2	Part4_Subform/Line400_Subform/RadioButtonGroup400	Yes	400	check		Line 400. Is the product a specified product, under subsection 93(15) of the Taxation Act, 2007 (Ontario)? Yes. Do not complete Part 5.
+2	Part4_Subform/Line400_Subform/RadioButtonGroup400	No	400	check		Line 400. Is the product a specified product, under subsection 93(15) of the Taxation Act, 2007 (Ontario)? No.
+2	Part4_Subform/Line403_Subform/RadioButtonGroup403	Yes	403	check		Line 403. Is the corporation a QSC under subsection 93(14) of the Taxation Act, 2007 (Ontario)? Yes.
+2	Part4_Subform/Line403_Subform/RadioButtonGroup403	No	403	check		Line 403. Is the corporation a QSC under subsection 93(14) of the Taxation Act, 2007 (Ontario)? No. Enter 0 on line 610 in Part 8.
+2	Part4_Subform/Line405-Subform	Input	405	numeric	12	Line 405. Qualifying wage amount paid to employees for the eligible product in the tax year.
+2	Part4_Subform/Line411_Subform	Input	411	numeric	12	Line 411. Qualifying remuneration amount incurred for the eligible product in the tax year and paid to individuals.
+2	Part4_Subform/Line416_Subform	Line416	416	numeric	12	Line 416. Qualifying remuneration amount incurred for the eligible product in the tax year and paid to taxable Canadian corporations.
+2	Part4_Subform/Line421_Subform	Line421_Amount	421	numeric	12	Line 421. Qualifying remuneration amount incurred for the eligible product in the tax year and paid to eligible partnerships.
+2	Part4_Subform/Amount_4A_sf	Amount_4A		numeric	12	Amount 4A. Subtotal. Total of lines 405 to 421.
+2	Part4_Subform/Line430_Subform	Line430_Amount	430	numeric	12	Line 430. Ontario labour expenditures incurred for the eligible product by the qualifying corporation in a previous tax year.
+2	Part4_Subform/Line435_Subform	Line435_Amount	435	numeric	12	Line 435. Ontario labour expenditures incurred for the eligible product by a qualifying predecessor corporation before disposition, merger, or windup.
+2	Part4_Subform/Amount_4B_Subform	Amount_4B_1		numeric	12	Amount 4B. Subtotal. Line 430 plus line 435. Instance 1.
+2	Part4_Subform/Amount_4B_Subform	Amount4B_2		numeric	12	Amount 4B. Instance 2.
+2	Part4_Subform/List_Line440_Line445_Subform/Line440_Subform	Line440_Amount	440	numeric	12	Line 440. Eligible labour expenditures for the eligible product included in determining an Ontario interactive digital media tax credit claimed in a previous tax year, or claimed under section 93.2 for this year by the qualifying corporation.
+2	Part4_Subform/List_Line440_Line445_Subform/Line445_Subform	Line445_Amount	445	numeric	12	Line 445. Eligible labour expenditures for the eligible product included in determining an Ontario interactive digital media tax credit claimed in a previous tax year, or claimed under section 93.2 for this year by a qualifying predecessor corporation.
+2	Part4_Subform/Amount_4C_Subform	Amount_4C_1		numeric	12	Amount 4C. Subtotal. Line 440 plus line 445. Instance 1.
+2	Part4_Subform/Amount_4C_Subform	Amount_4C_2		numeric	12	Amount 4C. Instance 2.
+2	Part4_Subform/Amount_4D_Subform	Amount_4D_1		numeric	12	Amount 4D. Subtotal. Amount 4B minus amount 4C. If negative, enter 0. Instance 1.
+2	Part4_Subform/Amount_4D_Subform	Amount4D_2		numeric	12	Amount 4D. Instance 2.
+2	Part4_Subform/Line450_Subform	Line450_Amount	450	numeric	12	Line 450. Total Ontario labour expenditures before government assistance. Amount 4A plus amount 4D.
+2	Part4_Subform/Line455_Subform	Line455_Amount	455	numeric	12	Line 455. Amounts the corporation or any other person or partnership has received, is entitled to receive, or may reasonably expect to receive.
+2	Part4_Subform/Line460_Subform	Line460_Amount	460	numeric	12	Line 460. Repayment of government assistance.
+2	Part4_Subform/Amount_4E_Subform	Amount4E_1		numeric	12	Amount 4E. Net government assistance. Line 455 minus line 460. If negative enter 0. Instance 1.
+2	Part4_Subform/Amount_4E_Subform	Amount4E_2		numeric	12	Amount 4E. Instance 2.
+2	Part4_Subform/Line473-Subform	Line473_Amount	473	numeric	12	Line 473. Total eligible labour expenditures for the eligible product. Line 450 minus amount 4E. If negative enter 0. Instance 1.
+2		CurrentPage		numeric		
+2		PageCount		numeric		
+3	Part5_Subform/MaxEligible_Subform	MaxAmount		numeric	12	
+3	Part5_Subform/Line500_Subform	Line500_Amount	500	numeric	12	Line 500. Eligible marketing and distribution expenditures incurred for the eligible product that were already included in determining an Ontario interactive digital media tax credit for a previous tax year by the qualifying corporation.
+3	Part5_Subform/Line505_Subform	Line505_Amount	505	numeric	12	Line 505. Eligible marketing and distribution expenditures incurred for the eligible product that were already included in determining an Ontario interactive digital media tax credit for a previous tax year by a qualifying predecessor corporation before disposition, merger, or windup.
+3	Part5_Subform/Amount_5A_Subform	Amount_5A_1		numeric	12	Amount 5A. Subtotal. Line 500 plus line 505. Cannot exceed the maximum. Instance 1.
+3	Part5_Subform/Amount_5A_Subform	Line_Amount_5A_2		numeric	12	Amount 5A. Instance 2.
+3	Part5_Subform/Line510_Subform	Line510_Amount_1	510	numeric	12	Line 510. Balance of maximum eligible marketing and distribution expenditures. $100,000 minus amount 5A. Instance 1.
+3	Part5_Subform/Line510_Subform	Line510_Amount_2	510	numeric	12	Line 510. Instance 2.
+3	Part5_Subform/Line515_Subform	Line515_Amount	515	numeric	12	Line 515. Marketing and distribution expenditures incurred in the month in which development of the eligible product was completed, plus those incurred in the 24 months before, or 12 months after, the month in which development of the eligible product was completed by the qualifying corporation in the tax year or in a previous tax year.
+3	Part5_Subform/Line520_Subform	Line520_Amount	520	numeric	12	Line 520. Marketing and distribution expenditures incurred in the month in which development of the eligible product was completed, plus those incurred in the 24 months before, or 12 months after, the month in which development of the eligible product was completed by a qualifying predecessor corporation before disposition, merger, or windup.
+3	Part5_Subform/Line525_Subform	Line525_Amount_1	525	numeric	12	Line 525. Subtotal. Line 515 plus line 520. Instance 1.
+3	Part5_Subform/Line525_Subform	Line525_Amount_2	525	numeric	12	Line 525. Instance 2.
+3	Part5_Subform/Line530_Subform	Line530_Amount	530	numeric	12	Line 530. Amounts the corporation or any other person or partnership has received, is entitled to receive, or may reasonably expect to receive.
+3	Part5_Subform/Line535_Subform	Line535_Amount	535	numeric	12	Line 535. Repayment of government assistance.
+3	Part5_Subform/Amount_5B_Subform	Amount_5B_1		numeric	12	Amount 5B. Net government assistance. Line 530 minus line 535. If negative, enter 0. Instance 1.
+3	Part5_Subform/Amount_5B_Subform	Amount_5B_2		numeric	12	Amount 5B. Instance 2.
+3	Part5_Subform/Line540_Subform	Line540_Amount	540	numeric	12	Line 540. Eligible marketing and distribution expenditures incurred for the eligible product already included in determining an Ontario interactive digital media tax credit claimed in a previous tax year by the qualifying corporation.
+3	Part5_Subform/Line545-Subform	Line545_Amount	545	numeric	12	Line 545. Eligible marketing and distribution expenditures incurred for the eligible product already included in determining an Ontario interactive digital media tax credit claimed in a previous tax year by a qualifying predecessor corporation.
+3	Part5_Subform/Amount_5C_Subform	Line_Amount_5C_1		numeric	12	Amount 5C. Subtotal. Line 540 plus line 545. Instance 1.
+3	Part5_Subform/Amount_5C_Subform	Line_Amount_5C_2		numeric	12	Amount 5C. Instance 2.
+3	Part5_Subform/Line550_Subform	Line550_Amount	550	numeric	12	Line 550. Total of all marketing and distribution expenditures on line 525 that are Ontario labour expenditures that were incurred by the qualifying corporation.
+3	Part5_Subform/Line555_sf	Line555_Amount	555	numeric	12	Line 555. Total of all marketing and distribution expenditures on line 525 that are Ontario labour expenditures that were incurred by a qualifying predecessor corporation.
+3	Part5_Subform/Amount_5D_Subform	Line_Amount_5D_1		numeric	12	Amount 5D. Subtotal. Line 550 plus line 555. Instance 1.
+3	Part5_Subform/Amount_5D_Subform	Line_Amount_5D_2		numeric	12	Amount 5D. Instance 2.
+3	Part5_Subform/Line560_Subform	Line560_Amount_1	560	numeric	12	Line 560. Subtotal. Total of amounts 5B, 5C and 5D. Instance 1.
+3	Part5_Subform/Line560_Subform	Line560_Amount_2	560	numeric	12	Line 560. Instance 2.
+3	Part5_Subform/Line565_Subform	Line565_Amount	565	numeric	12	Line 565. Subtotal. Line 525 minus line 560. If negative enter 0.
+3	Part5_Subform/Line578_Subform	Line578_Amount	578	numeric	12	Line 578. Eligible marketing and distribution expenditures for the tax year. Lesser of line 510 and line 565.
+3		CurrentPage		numeric		
+3		PageCount		numeric		
+4	Part6_Subform/Line705_Subform	Line705_Amount	705	numeric	12	Line 705. Qualifying wage amount paid to employees for the eligible digital game in the tax year.
+4	Part6_Subform/Line710_Subform	Line710_Amount	710	numeric	12	Line 710. Qualifying remuneration amount incurred for the eligible digital game in the tax year and paid to individuals.
+4	Part6_Subform/Line715_Subform	Line715_Amount	715	numeric	12	Line 715. Qualifying remuneration amount incurred for the eligible digital game in the tax year and paid to taxable Canadian corporations.
+4	Part6_Subform/Line720_Subform	Line720_Amount	720	numeric	12	Line 720. Qualifying remuneration amount incurred for the eligible digital game in the tax year and paid to eligible partnerships.
+4	Part6_Subform/Amount_6A_Subform	Line_Amount_6A_1		numeric	12	Amount 6A. Subtotal. Total of lines 710, 715, and 720. Instance 1.
+4	Part6_Subform/Amount_6A_Subform	Line_Amount_6A_2		numeric	12	Amount 6A. Instance 2.
+4	Part6_Subform/Line730_Subform	Line730_Amount	730	numeric	12	Line 730. Ontario labour expenditures incurred for the eligible digital game by the qualifying digital game corporation in a previous tax year.
+4	Part6_Subform/Line735_Subform	Line735_Amount	735	numeric	12	Line 735. Ontario labour expenditures incurred for the eligible digital game by a qualifying predecessor corporation before merger or windup.
+4	Part6_Subform/Amount_6B_Subform	Line_Amount_6B_1		numeric	12	Amount 6B. Subtotal. line 730 plus line 735. Instance 1.
+4	Part6_Subform/Amount_6B_Subform	Line_Amount_6B		numeric	12	Amount 6B. Instance 2.
+4	Part6_Subform/Line750_Subform	Line750_Amount	750	numeric	12	Line 750. Ontario labour expenditures for the eligible digital game. Total of line 705, amounts 6A, and 6B.
+4	Part6_Subform/Line740_Subform	Line740_Amount	740	numeric	12	Line 740. Eligible labour expenditures for the eligible digital game included in determining an Ontario interactive digital media tax credit under section 93.2, in the current year.
+4	Part6_Subform/Line745_Subform	Line745_Amount	745	numeric	12	Line 745. Eligible labour expenditures for the eligible digital game included in determining an Ontario interactive digital media tax credit under section 93.2, in the previous year.
+4	Part6_Subform/Amount_6C_Subform	Line_Amount6C_1		numeric	12	Amount 6C. Subtotal. Line 740 plus line 745. Instance 1.
+4	Part6_Subform/Amount_6C_Subform	Line_Amount6C_2		numeric	12	Amount 6C. Instance 2.
+4	Part6_Subform/Line755_Subform	Line755_Amount	755	numeric	12	Line 755. Amounts the corporation or any other person or partnership has received, is entitled to receive, or may reasonably expect to receive.
+4	Part6_Subform/Line760_Subform	Line760_Amount	760	numeric	12	Line 760. Repayment of government assistance.
+4	Part6_Subform/Amount_6D_Subform	Line_Amount6C_1		numeric	12	Amount 6D. Net government assistance. Line 755 minus line 760. If negative enter 0. Instance 1.
+4	Part6_Subform/Amount_6D_Subform	Line_Amount6C_2		numeric	12	Amount 6D. Instance 2.
+4	Part6_Subform/Line775_Subform	Line775_Amount	775	numeric	12	Line 775. Total qualifying labour expenditures for the eligible digital game for a qualifying digital game corporation. Line 750 minus amount 6C minus amount 6D. If negative enter 0. Instance 1.
+4		CurrentPage		numeric		
+4		PageCount		numeric		
+5	Part7_Subform/Line805_Subform	Line805_Amount	805	numeric	12	Line 805. Qualifying wage amount paid to employees for the eligible digital game in the tax year.
+5	Part7_Subform/Line810_Subform	Line810_Amount	810	numeric	12	Line 810. Qualifying remuneration amount incurred for the eligible digital game in the tax year and paid to individuals.
+5	Part7_Subform/Line815_Subform	Line815_Amount	815	numeric	12	Line 815. Qualifying remuneration amount incurred for the eligible digital game in the tax year and paid to taxable Canadian corporations.
+5	Part7_Subform/Line820_Subform	Line820_Amount	820	numeric	12	Line 820. Qualifying remuneration amount incurred for the eligible digital game in the tax year and paid to eligible partnerships.
+5	Part7_Subform/Amount_7A_Subform	Line_Amount7A_1		numeric	12	Amount 7A. Subtotal. Total of lines 810, 815, and 820. Instance 1.
+5	Part7_Subform/Amount_7A_Subform	Line_Amount7A_2		numeric	12	Amount 7A. Instance 2.
+5	Part7_Subform/Line830_Subform	Line830_Amount	830	numeric	12	Line 830. Ontario labour expenditures for the eligible digital game before government assistance. Line 805 plus amount 7A.
+5	Part7_Subform/Lin835_Subform	Line835_Amount	835	numeric	12	Line 835. Amounts the corporation or any other person or partnership has received, is entitled to receive, or may reasonably expect to receive.
+5	Part7_Subform/Line840_sf	Line840_Amount	840	numeric	12	Line 840. Repayment of government assistance.
+5	Part7_Subform/Amount_7B_Subform	Line_Amount7B_1		numeric	12	Amount 7B. Net government assistance. Line 835 minus line 840. If negative enter 0. Instance 1.
+5	Part7_Subform/Amount_7B_Subform	Line_Amount7B_2		numeric	12	Amount 7B. Instance 2.
+5	Part7_Subform/Line875_Subform	Line875_Amount	875	numeric	12	Line 875. Total qualifying labour expenditures for the eligible digital game for a specialized digital game corporation. Line 830 minus amount 7B. If negative enter 0. Instance 1.
+5		CurrentPage		numeric		
+5		PageCount		numeric		
+6	Part8_Subform/Line608_Subform	Line608_1_Amount	473	numeric	12	Line 473 in Part 4. Instance 2.
+6	Part8_Subform/Line608_Subform	Numeric_Float		numeric		
+6	Part8_Subform/Line608_Subform	Line608_2_Amount	608	numeric	12	Line 608. Ontario interactive digital media tax credit for a specified product. Line 473 in Part 4 multiplied by 35%.
+6	Part8_Subform/Line610_Subform	Line610_1_Amount	473	numeric	12	Line 473 in Part 4 plus line 578 in Part 5. Instance 1.
+6	Part8_Subform/Line610_Subform	Numeric_Percent		numeric		
+6	Part8_Subform/Line610_Subform	Line610_2_Amount	610	numeric	12	Line 610. For a qualifying small corporation. Line 473 in Part 4 plus line 578 in Part 5 multiplied by 40%.
+6	Part8_Subform/Line613_Subform	Line613_1__Amount	473	numeric	12	Line 473 in Part 4 plus line 578 in Part 5. Instance 2.
+6	Part8_Subform/Line613_Subform	Numeric_Percent		numeric		
+6	Part8_Subform/Line613_Subform	Line613_2__Amount	613	numeric	12	Line 613. For a qualifying corporation other than a qualifying small corporation. Line 473 in Part 4 plus line 578 in Part 5 multiplied by 40%.
+6	Part8_Subform/Amount8A_Subform	Line_Amount8A		numeric	12	Amount 8A. Ontario interactive digital media tax credit for an eligible product that is not a specified product. Line 610 or 613, whichever applies.
+6	Part8_Subform/Line616_Subform	Line616_1_Amount	775	numeric	12	Line 775 in Part 6. Instance 2.
+6	Part8_Subform/Line616_Subform	Numeric_Percent		numeric		
+6	Part8_Subform/Line616_Subform	Line616_2_Amount	616	numeric	12	Line 616. Qualifying digital game corporation credit for an eligible digital game, section 93.1. Line 775 in Part 6 multiplied by 35%.
+6	Part8_Subform/Line617_Subform	Line617_1_Amount	875	numeric	12	Line 875 in Part 7. Instance 2.
+6	Part8_Subform/Line617_Subform	Numeric_Percent		numeric		
+6	Part8_Subform/Line617_Subform	Line617_2_Amount	617	numeric	12	Line 617. Specialized digital game corporation credit for an eligible digital game, section 93.2. Line 875 in Part 7 multiplied by 35%.
+6	Part8_Subform/Line620_Subform	Line620_Amount	620	numeric	12	Line 620. Ontario interactive digital media tax credit. Line 608, amount 8A, line 616, or line 617 whichever applies. Enter the amount from line 620 on line 462 of Schedule 5, Tax Calculation Supplementary – Corporations. If you are filing more than one Schedule 560, add the amount from line 620 from all the schedules and enter the total amount on line 462 of Schedule 5.
+6		CurrentPage		numeric		
+6		PageCount		numeric		

@@ -1,0 +1,36 @@
+line	caption
+110	Name of contact person
+200	Certificate of eligibility number
+210	Production title
+220	Date principal photography began Year Month Day
+230	Estimated QPE 240 Estimated OPSTC for the production
+300	Did the primary activities of the corporation in the tax year consist of carrying on a film or video production Yes No business or a film or video production services business, through a permanent establishment in Ontario?
+310	Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario) or Part I of the federal Income Tax Act?
+320	persons, all or part of whose taxable income was exempt from tax under Part I of the federal Income Tax Act?
+330	Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation?
+400	Have you claimed, at any time, an Ontario film and television tax credit for the production identified in Part 2?
+730	Eligible wage expenditure paid to Ontario-based individuals, for services rendered in Ontario, that is directly attributable to the eligible production
+732	Ontario-based individuals
+734	other taxable Canadian corporations (for their Ontario-based employees)
+736	other taxable Canadian corporations (solely owned by an Ontario-based individual)
+738	partnerships (for their Ontario-based members or employees)
+740	Subtotal (total of lines 732 to 738)
+745	Eligible wage and service contract expenditures incurred by a parent corporation (a taxable Canadian corporation) and transferred to its wholly-owned subsidiary (the corporation) under a reimbursement agreement
+747	Business number of parent corporation
+750	Eligible tangible property expenditure directly attributable to the eligible production
+751	Ontario production expenditure for the tax year (total of lines 730, 740, 745 and 750)
+752	Ontario production expenditure for all previous tax years
+755	Ontario production expenditure (line 751 plus line 752)
+757	amounts received, entitled to be received, or reasonably expected to be received by the corporation or any other person or partnership)
+758	Amounts repaid under a legal obligation
+762	Federal tax credits and assistance
+764	Ontario refundable tax credits and assistance
+765	Subtotal (line 762 plus line 764)
+770	Net assistance (line 760 minus line 765) (if negative, enter "0")
+775	QPE from all previous tax years
+780	Eligible wage and service contract expenditures incurred by the parent corporation (a taxable Canadian corporation) and transferred to its wholly-owned subsidiary corporation under a reimbursement agreement
+785	Subtotal (total of amount B, line 775 and line 780)
+786	Qualifying production expenditure (amount A minus line 785) (if negative, enter "0")
+795	Qualifying production expenditure for the tax year (line 786 or line 787, whichever is less)
+716	QPE for the tax year (line 795 in Part 6)
+720	Ontario production services tax credit (amount E)

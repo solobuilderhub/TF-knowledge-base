@@ -1,0 +1,74 @@
+Corporation's name  Yukon Research and Development Tax Credit                                                                                                              Schedule 442
+                                  (2020 and later tax years)                                                                                                                       Code 2001
+
+                                                                                                              Business number                                                Protected B
+                                                                                                                                                                           when completed
+
+                                                                                                                                                                      Tax year-end
+                                                                                                                                                                   Year Month Day
+
+· For corporations with a permanent establishment in Yukon at any time in the year, which have made eligible expenditures for scientific research and
+
+   experimental development carried out in Yukon, and want to:
+
+   ­ calculate a Yukon research and development tax credit
+   ­ claim the credit to reduce Yukon income tax otherwise payable in the current year, or
+   ­ claim a refund of the remaining credit
+· Legislative references are to the Federal Income Tax Act.
+· If all or part of the corporation's income is exempt from tax under subsection 149(1) or a corporation is controlled by one or more persons, all or part of
+
+   whose income is exempt from tax under subsection 149(1), then the corporation is not eligible to claim the Yukon research and development tax credit.
+
+· An eligible expenditure is one that meets the definition of a qualified expenditure under subsection 127(9).
+· Eligible expenditures must be identified on this schedule and filed no later than 18 months after the end of the tax year in which the expenditures
+
+   were incurred.
+
+· Credits earned in the year are applied to reduce Yukon income tax otherwise payable for the year. Any remaining balance will be refunded.
+· Use this schedule to show a credit allocated from a trust or a partnership.
+· Use this schedule to calculate and claim the Yukon research and development tax credit on repayments of government or non-government assistance or on
+
+   a contract payment made after December 31, 2010, and in the tax year, that reduced an eligible expenditure.
+
+· File this schedule with your T2 Corporation Income Tax Return.
+
+    Part 1 ­ Eligible expenditures
+
+Total eligible expenditures for research and development incurred in the current tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103
+
+Part 2 ­ Current year refundable credit
+
+Current year refundable credit earned:                                                      × 15% = 120
+                                                                                            × 5% = 121
+Expenditures from line 103 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Expenditures of line 103 paid or payable to
+Yukon University . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                            Subtotal (line 120 plus line 121)                                      2A
+
+Credit allocated from a partnership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+
+Credit allocated from a trust . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+
+Repayments Note 1   × Applicable rate Note 2                                                = . . . . . . . . . . . . . . . . 145
+
+                                                                                            Subtotal (total of lines 130, 140 and 145)                             2B
+
+Total current year refundable credit (amount 2A plus amount 2B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+(enter line 160 on line 698 of Schedule 5, Tax Calculation Supplementary ­ Corporations)
+
+Note 1: Repayments must relate to a repayment made after December 31, 2010, by the corporation in the tax year, but not in any other tax year.
+            Repayments are the sum of the following:
+
+          ­ a repayment made in the tax year of government or non-government assistance or a contract payment that reduced an eligible expenditure
+
+                 other than for first term or second term shared-use-equipment and
+
+          ­ a repayment made in the tax year of government or non-government assistance or a contract payment that reduced an eligible expenditure
+
+                 for first term or second term shared-use-equipment, multiplied by 1/4.
+
+Note 2: If the repayment is for an eligible expenditure paid to the Yukon University, use 20%. Otherwise use 15%.
+
+T2 SCH 442 E (20)                        (Ce formulaire est disponible en français.)
+

@@ -1,0 +1,217 @@
+                    Ontario Apprenticeship Training Tax Credit                                                                                                                  Schedule 552
+                                (2015 and later tax years)
+                                                                                                                                                                                         Code 1501
+                                                                                                                    Business number
+                                                                                                                                                                                  Protected B
+                                                                                                                                                                                 when completed
+
+Corporation's name                                                                                                                                                        Tax year end
+
+                                                                                                                                                                          Year  Month Day
+
+· Use this schedule to claim an Ontario apprenticeship training tax credit (ATTC) under section 89 of the Taxation Act, 2007 (Ontario).
+
+· The ATTC is a refundable tax credit that is equal to a specified percentage (25% to 45%) of the eligible expenditures incurred by a corporation for a qualifying
+  apprenticeship. For eligible expenditures incurred after March 26, 2009 for an apprenticeship program that began before April 24, 2015, the maximum credit
+  for each qualifying apprenticeship is $10,000 per year to a maximum credit of $40,000 over the first 48-month period of the qualifying apprenticeship. For an
+  apprenticeship program that began after April 23, 2015, the maximum credit for each qualifying apprenticeship is $5,000 per year to a maximum credit of
+  $15,000 over the first 36-month period of the qualifying apprenticeship.
+
+· Eligible expenditures are salaries and wages (including taxable benefits) paid to an apprentice in a qualifying apprenticeship or fees paid to an employment
+  agency for the provision of services performed by the apprentice in a qualifying apprenticeship. These expenditures must be:
+  ­ paid on account of employment or services, as applicable, at a permanent establishment of the corporation in Ontario;
+
+  ­ for services provided by the apprentice during the first 48 months of the apprenticeship program, if an apprenticeship program began before April 24, 2015; and
+  ­ for services provided by the apprentice during the first 36 months of the apprenticeship program, if an apprenticeship program began after April 23, 2015.
+
+· An expenditure is not eligible for an ATTC if:
+  ­ the same expenditure was used, or will be used, to claim a co-operative education tax credit; or
+  ­ it is more than an amount that would be paid to an arm's length apprentice.
+
+· An apprenticeship must meet the following conditions to be a qualifying apprenticeship:
+  ­ the apprenticeship is in a qualifying skilled trade approved by the Ministry of Training, Colleges and Universities (Ontario) or a person designated by him or
+     her; and
+  ­ the corporation and the apprentice must be participating in an apprenticeship program in which the training agreement has been registered under the
+     Ontario College of Trades and Apprenticeship Act, 2009, or the Apprenticeship and Certification Act, 1998, or in which the contract of apprenticeship has
+     been registered under the Trades Qualification and Apprenticeship Act.
+
+· Do not submit the training agreement or contract of apprenticeship with your T2 Corporation Income Tax Return. Keep a copy of the training agreement or
+  contract of apprenticeship to support your claim.
+
+· File this schedule with your T2 Corporation Income Tax Return.
+
+     Part 1 ­ Corporate information                                                                                                  120 Telephone number
+110 Name of person to contact for more information
+
+Is the claim filed for an ATTC earned through a partnership? * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150 1 Yes        2 No
+
+If you answered yes to the question at line 150,
+what is the name of the partnership? . . . . . . . . . . . 160
+
+Enter the percentage of the partnership's ATTC allocated to the corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170
+
+* When a corporate member of a partnership is claiming an amount for eligible expenditures incurred by a partnership, complete a Schedule 552 for the
+  partnership as if the partnership were a corporation. Each corporate partner, other than a limited partner, should file a separate Schedule 552 to claim the
+  partner's share of the partnership's ATTC. The total of the partners' allocated amounts can never exceed the amount of the partnership's ATTC.
+
+    Part 2 ­ Eligibility                                                                                                                                                        2 No
+1. Did the corporation have a permanent establishment in Ontario in the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200 1 Yes                     2 No
+2. Was the corporation exempt from tax under Part III of the Taxation Act, 2007 (Ontario)? . . . . . . . . . . . . . . . . . . . . . . . . . 210 1 Yes
+If you answered no to question 1 or yes to question 2, then you are not eligible for the ATTC.
+
+T2 SCH 552 E (15)   (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca ou en composant le 1-800-959-7775.)               Page 1 of 3
+Part 3 ­ Specified percentage                                                                                                                                                         Protected B when completed
+
+Corporation's salaries and wages paid in the previous tax year * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300
+
+For eligible expenditures incurred after March 26, 2009 for an apprenticeship program that began before April 24, 2015:
+  ­ If line 300 is $400,000 or less, enter 45% on line 312.
+  ­ If line 300 is $600,000 or more, enter 35% on line 312.
+  ­ If line 300 is more than $400,000 and less than $600,000, enter the percentage on line 312 using the following formula:
+
+         [ ] Specified percentage = 45% ­ 10% × (amount on line 300 minus 400,000)
+                                                                                                      200,000
+Specified percentage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 312
+
+For eligible expenditures incurred for an apprenticeship program that began after April 23, 2015:
+  ­ If line 300 is $400,000 or less, enter 30% on line 314.
+  ­ If line 300 is $600,000 or more, enter 25% on line 314.
+  ­ If line 300 is more than $400,000 and less than $600,000, enter the percentage on line 314 using the following formula:
+
+         [ ] Specified percentage = 30% ­ 5% × (amount on line 300 minus 400,000)
+                                                                                                     200,000
+Specified percentage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 314
+
+* If this is the first tax year of an amalgamated corporation and subsection 89(6) of the Taxation Act, 2007 (Ontario) applies, enter salaries and wages paid in
+  the previous tax year by the predecessor corporations.
+
+    Part 4 ­ Ontario apprenticeship training tax credit
+
+Complete a separate entry for each apprentice for each qualifying apprenticeship with the corporation. When claiming an ATTC for repayment of
+government assistance, complete a separate entry for each repayment, and complete columns A to G and M and N with the details for the employment
+period in the previous tax year in which the government assistance was received.
+
+              A                                                 B                                                       C
+       Trade code                        Apprenticeship program/trade name                                 Name of apprentice
+
+            400                                               405                                                      410
+1.
+2.
+3.
+4.
+5.
+
+                          D                               E                                   F                             G
+          Original contract or training                                     Start date of employment as    End date of employment as
+                                         Original registration date of      an apprentice in the tax year  an apprentice in the tax year
+               agreement number          apprenticeship contract or
+                                                                                     (YYYYMMDD)                     (YYYYMMDD)
+                        420                   training agreement                       (see note 2)                   (see note 3)
+1.                                               (YYYYMMDD)
+2.                                                 (see note 1)                             430                             435
+3.
+4.                                                      425
+5.
+
+Note 1: Enter the original registration date of the apprenticeship contract or training agreement in all cases, even when multiple employers employed the
+          apprentice.
+
+Note 2: When there are multiple employment periods as an apprentice in the tax year with the corporation, enter the date that is the first day of
+          employment as an apprentice in the tax year with the corporation. When claiming an ATTC for repayment of government assistance, enter the
+          start date of employment as an apprentice for the tax year in which the government assistance was received.
+
+Note 3: When there are multiple employment periods as an apprentice in the tax year with the corporation, enter the date that is the last day of
+          employment as an apprentice in the tax year with the corporation. When claiming an ATTC for repayment of government assistance, enter the
+          end date of employment as an apprentice for the tax year in which the government assistance was received.
+
+                                                                                                                                                                                      Page 2
+    Part 4 ­ Ontario apprenticeship training tax credit (continued)                                                                                      Protected B when completed
+
+If you need more space, attach additional schedule(s).
+
+                               H1                                                  H2                                            I
+
+    Number of days in the tax year employed as          Number of days in the tax year employed as     Maximum credit amount for the tax year
+    an apprentice in a qualifying apprenticeship        an apprentice in a qualifying apprenticeship                     (see note 2)
+     program that began before April 24, 2015
+                                                           program that began after April 23, 2015
+                         (see note 1)                                        (see note 1)
+
+              442                                       443                                            445
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+    Note 1: When there are multiple employment periods as an apprentice in the tax year with the corporation, do not include days in which the individual was
+              not employed as an apprentice.
+                  For H1: The days employed as an apprentice must be within 48 months of the registration date provided in column E on page 2.
+                  For H2: The days employed as an apprentice must be within 36 months of the registration date provided in column E on page 2.
+
+    Note 2: Maximum credit = ($10,000 × H1/ 365*) or ($5,000 × H2/ 365*), whichever applies.
+
+              * 366 days, if the tax year includes February 29
+
+                                    J1                                       J2                                              K
+                                                                                                       Eligible expenditures multiplied by
+              Eligible expenditures incurred after      Eligible expenditures incurred for a
+       March 26, 2009 for a qualifying apprenticeship   qualifying apprenticeship program                       specified percentage
+                                                                                                                      (see note 4)
+          program that began before April 24, 2015        that began after April 23, 2015
+                              (see note 3)                             (see note 3)                                         460
+
+                                  452                                       453
+1.
+2.
+3.
+4.
+5.
+
+    Note 3: Reduce eligible expenditures by all government assistance, as defined under subsection 89(19) of the Taxation Act, 2007 (Ontario), that the
+              corporation has received, is entitled to receive, or may reasonably expect to receive, in respect of the eligible expenditures, on or before the filing
+              due date of the T2 Corporation Income Tax Return for the tax year.
+
+                  For J1: Eligible expenditures must be for services provided by the apprentice to the taxpayer during the first 48 months of the apprenticeship
+                             program, and not relating to services performed before the apprenticeship program began or after it ended.
+
+                  For J2: Eligible expenditures must be for services provided by the apprentice to the taxpayer during the first 36 months of the apprenticeship
+                             program, and not relating to services performed before the apprenticeship began or after it ended.
+
+    Note 4: Calculate the amount in column K as follows:
+              Column K = (J1 × line 312) or (J2 × line 314), whichever applies.
+
+                                     L                                                M                                      N
+                 ATTC on eligible expenditures          ATTC on repayment of government assistance           ATTC for each apprentice
+                                                                                                       (column L or M, whichever applies)
+                    (lesser of columns I and K)                                (see note 5)
+                                                                                                                           490
+                                  470                                               480
+1.
+2.
+3.
+4.
+5.
+
+Ontario apprenticeship training tax credit (total of amounts in column N) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 500                O
+
+Or, if the corporation answered yes at line 150 in Part 1, determine the partner's share of amount O:
+
+    Amount O       × percentage on line 170 in Part 1                = ................................                                                                P
+
+Enter amount O or P, whichever applies, on line 454 of Schedule 5, Tax Calculation Supplementary ­ Corporations. If you are filing more than one
+Schedule 552, add the amounts from line O or P, whichever applies, on all the schedules, and enter the total amount on line 454 of Schedule 5.
+
+    Note 5: Include the amount of government assistance repaid in the tax year multiplied by the specified percentage for the tax year in which the government
+              assistance was received, to the extent that the government assistance reduced the ATTC in that tax year. Complete a separate entry for each
+              repayment of government assistance.
+
+                                                                                                       See the privacy notice on your return.
+
+                                                                                                                                                         Page 3
+

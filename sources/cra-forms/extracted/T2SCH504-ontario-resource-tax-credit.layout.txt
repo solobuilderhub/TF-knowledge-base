@@ -1,0 +1,42 @@
+Corporation's name                                       Ontario Resource Tax Credit                                                                               Schedule 504
+                                                           (2019 and later tax years)                                                                                      Code 1901
+
+                                                                                                                            Business number                           Protected B
+                                                                                                                                                                    when completed
+
+                                                                                                                                                              Tax year-end
+                                                                                                                                                            Year Month Day
+
+· Use this schedule to claim an unused Ontario resource tax credit under section 37 of the Taxation Act, 2007 (Ontario).
+
+  Note: For tax years starting after April 22, 2015, the Ontario resource tax credit and the Ontario additional tax re Crown royalties are eliminated.
+  The credit and the tax are calculated on a pro-rated basis for tax years that include April 23, 2015. Effective that date, Ontario will provide a
+  deduction for royalties and mining taxes paid.
+
+· File this schedule with your T2 Corporation Income Tax Return.
+
+Part 1 ­ Ontario resource tax credit
+
+Complete this part to claim an unused resource tax credit. You can carry forward unused Ontario resource tax credits only for a tax year that is one of the first
+five tax years beginning after April 23, 2015.
+
+Ontario resource tax credit balance at the end of the previous tax year. Enter the amount
+from line 200 of Schedule 504 from the previous tax year, if applicable . . . . . . . . . . . . . . . . . . . . . . . . . 115
+
+Ontario resource tax credit balance transferred on an amalgamation or the windup of a subsidiary if
+subsection 87(1) or 88(1) of the federal Income Tax Act applies to the amalgamation or wind-up . . . . . 120
+
+                                                         Subtotal (line 115 plus line 120)                                                                  1A
+
+Ontario corporate income tax payable before tax credits
+
+(amount 5C in Part 2 of Schedule 5 Tax Calculation Supplementary ­ Corporations) . . . . . . . . . . . . . . . . . .                         1B
+
+Ontario resource tax credit claimed in the current year (amount 1A or 1B, whichever is less) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1C
+
+Enter amount 1C on line 404 in Part 2 of Schedule 5
+
+Ontario resource tax credit balance at the end of the tax year (amount 1A minus amount 1C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+
+T2 SCH 504 E (19)                                        (Ce formulaire est disponible en français.)
+

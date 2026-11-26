@@ -1,0 +1,58 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Nm		text		Corporation's name.
+1		BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Prt1_sf/ID_1A	Amt_1A		numeric	12	Amount 1A. Taxable income for Saskatchewan.
+1	Prt1_sf/Lower_Tax_Rates_sf	Amt_1B		numeric	12	Amount 1B. Line 400 of the T2 return.
+1	Prt1_sf/Lower_Tax_Rates_sf	Amt_1C		numeric	12	Amount 1C. Line 405 of the T2 return.
+1	Prt1_sf/Lower_Tax_Rates_sf	Ln428_T2_rtrn	428	numeric	12	Line 428 of the T2 return.
+1	Prt1_sf/Lower_Tax_Rates_sf	Amt_1D		numeric	12	Amount 1D. Line 428 of the T2 return multiplied by the result of 600,000 divided by 500,000.
+1	Prt1_sf/Lower_Tax_Rates_sf	Amt_1E_Inst_1		numeric	12	Amount 1E. Amount 1B, 1C, or 1D, whichever is the least. Instance 1.
+1	Prt1_sf/Lower_Tax_Rates_sf	Amount_1E_Inst_2		numeric	12	Amount 1E. Instance 2.
+1	Prt1_sf/ID_1F_sf	Amount_1E_Inst2		numeric	12	Amount 1E. Instance 3.
+1	Prt1_sf/ID_1F_sf	IncTxforSask_amount		numeric	12	Taxable income for Saskatchewan.
+1	Prt1_sf/ID_1F_sf	IncAllProv_amount		numeric	12	Taxable income for all provinces.
+1	Prt1_sf/ID_1F_sf	Amount_1F_inst1		numeric	12	Amount 1F. Income eligible for Saskatchewan lower tax rate. Amount 1E multiplied by the result of taxable income for Saskatchewan divided by taxable income for all provinces. Instance 1.
+1	Prt1_sf/ID_1G_sf	Amount_1G_Inst1		numeric	12	Amount 1G. Income subject to Saskatchewan higher tax rate. Amount 1A minus amount 1F. Instance 1.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Prt2_Header_sf/Prt2_sf/ID_2A_to_2G_sf	Amount_2A		numeric	12	Amount 2A. Amount Y from part 6 of Schedule 7.
+2	Prt2_Header_sf/Prt2_sf/ID_2A_to_2G_sf	Amount_2B		numeric	12	Amount 2B. Line 530 from Part 6 of Schedule 7.
+2	Prt2_Header_sf/Prt2_sf/ID_2A_to_2G_sf	Amount_2C		numeric	12	Amount 2C. Line 540 from part 6 of Schedule 7.
+2	Prt2_Header_sf/Prt2_sf/ID_2A_to_2G_sf	Amount_2D		numeric	12	Amount 2D. Amount AA from Part 6 of Schedule 7.
+2	Prt2_Header_sf/Prt2_sf/ID_2A_to_2G_sf	Amount_2E		numeric	12	Amount 2E. Amount CC from Part 6 of Schedule 7.
+2	Prt2_Header_sf/Prt2_sf/ID_2A_to_2G_sf	Amt2F_instance1		numeric	12	Amount 2F. Subtotal. Amount 2A minus amounts 2B, 2C, and 2D, plus amount 2E. Instance 1.
+2	Prt2_Header_sf/Prt2_sf/ID_2A_to_2G_sf	Amt2F_instance2		numeric	12	Amount 2F. Instance 2.
+2	Prt2_Header_sf/Prt2_sf/ID_2A_to_2G_sf	Amount_2G		numeric	12	Amount 2G. Amount Q from part 5 of Schedule 7.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row1	Cell1		numeric	12	Column 1. Amounts from column F1 in Part 4 of Schedule 7. Row 1.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row1	Cell2		numeric	12	Column 2. Amounts from column K1 in Part 4 of Schedule 7 multiplied by 600,000 divided by 500,000. Row 1.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row1	Cell3		numeric	12	Column 3. Column 1 minus column 2, if negative, enter 0. Row 1.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row1	Cell4		numeric	12	Column 4. Lesser of columns 1 and 2, if column 1 is negative, enter 0. Row 1.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row2	Cell1		numeric	12	Column 1. Amounts from column F1 in Part 4 of Schedule 7. Row 2.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row2	Cell2		numeric	12	Column 2. Amounts from column K1 in Part 4 of Schedule 7 multiplied by 600,000 divided by 500,000. Row 2.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row2	Cell3		numeric	12	Column 3. Column 1 minus column 2, if negative, enter 0. Row 2.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row2	Cell4		numeric	12	Column 4. Lesser of columns 1 and 2, if column 1 is negative, enter 0. Row 2.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row3	Cell1		numeric	12	Column 1. Amounts from column F1 in Part 4 of Schedule 7. Row 3.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row3	Cell2		numeric	12	Column 2. Amounts from column K1 in Part 4 of Schedule 7 multiplied by 600,000 divided by 500,000. Row 3.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row3	Cell3		numeric	12	Column 3. Column 1 minus column 2, if negative, enter 0. Row 3.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row3	Cell4		numeric	12	Column 4. Lesser of columns 1 and 2, if column 1 is negative, enter 0. Row 3.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row4/Total_Col_3	Cell1		numeric	12	Amount 2H. Total of column 3.
+2	Prt2_Header_sf/Prt2_sf/Table_sf/Table1/Row4/Total_Col_4	Cell1		numeric	12	Amount 2I. Total of column 4.
+2	Prt2_Header_sf/Prt2_sf/ID_2J_to_20_Calc_sf	Amount_2J		numeric	12	Amount 2J. Line 370 from Part 4 of Schedule 7.
+2	Prt2_Header_sf/Prt2_sf/ID_2J_to_20_Calc_sf	Amount_2K		numeric	12	Amount 2K. Line 380 from Part 4 of Schedule 7.
+2	Prt2_Header_sf/Prt2_sf/ID_2J_to_20_Calc_sf	Amount_2L		numeric	12	Amount 2L. Subtotal. Amount 2J plus amount 2K.
+2	Prt2_Header_sf/Prt2_sf/ID_2J_to_20_Calc_sf	Amount_2M		numeric	12	Amount 2M. Enter amount 2H or amount 2L, whichever is less.
+2	Prt2_Header_sf/Prt2_sf/ID_2J_to_20_Calc_sf	Amt2N_instance1		numeric	12	Amount 2N. Specified partnership income. Amount 2I plus amount 2M. Instance 1.
+2	Prt2_Header_sf/Prt2_sf/ID_2J_to_20_Calc_sf	Amt_2N_inst2		numeric	12	Amount 2N. Instance 2.
+2	Prt2_Header_sf/Prt2_sf/ID_2J_to_20_Calc_sf	Amt2O_inst1		numeric	12	Amount 2O. Partnership income not eligible for the small business deduction. Amount 2G minus amount 2N. Instance 1.
+2	Prt2_Header_sf/Prt2_sf/ID_2J_to_20_Calc_sf	Amt2O_inst2		numeric	12	Amount 2O. Instance 2.
+2	Prt2_Header_sf/Prt2_sf/ID_2O_2P_sf	Amount_2P		numeric	12	Amount 2P. Income from active business. Amount 2F minus amount 2O. Enter amount 2P at amount 1B in Part 1.
+2	Prt3_sf/Lower_Rate_sf	Amt_1F_inst2		numeric	12	Amount 1F. Instance 2.
+2	Prt3_sf/Lower_Rate_sf	Amt_1F_numerator_inpt		numeric	3	Number of days in the tax year after June 30, 2023.
+2	Prt3_sf/Lower_Rate_sf	Amt_1F_denominator_inpt		numeric	3	Number of days in the tax year.
+2	Prt3_sf/Lower_Rate_sf	Amt_3A		numeric	12	Amount 3A. Saskatchewan tax at the lower rate. Amount 1F multiplied by the result of the number of days in the tax year after June 30, 2023 divided by the number of days in the tax year multiplied by 1%.
+2	Prt3_sf/Higher_Rate_sf	Amt_1G_Inst2		numeric	12	Amount 1G. Instance 2.
+2	Prt3_sf/Higher_Rate_sf	Amt_3D		numeric	12	Amount 3B. Saskatchewan tax at the higher rate. Amount 1G multiplied by 12%.
+2	Prt3_sf/ID_3E_sf	Amt_3E		numeric	12	Amount 3C. Saskatchewan tax before credits. Amount 3A plus amount 3B.
+2	Page2Nbrs	CurrentPage		numeric		
+2	Page2Nbrs	PageCount		numeric		

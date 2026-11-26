@@ -1,0 +1,48 @@
+page	part	field	line	kind	digits	speak
+1	Ident_Bar	Corp_Name		text		Corporation's name
+1	Ident_Bar	BusinessNumber_Contiguous_EN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident_Bar/DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Tax year end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_Content/P1_Line_110	P1_Line110_Input	110	numeric	12	Line 110. Capital for the year. Amount from line 190 or 290 of schedule 38.
+1	Part1_Content/P1_Line_120	P1_Line120_Input	120	numeric	12	Line 120. Capital deduction claimed for the year.
+1	Part1_Content/P1_Line_1A	P1_Line1A_Input		numeric	12	Amount 1A. Excess amount. Line 110 minus line 120. If negative, enter 0. Instance 1.
+1	Part1_Content/P1_Line_1B	P1_Line1B_Input1	143	numeric	12	Line 143 plus line 144 of schedule 5.
+1	Part1_Content/P1_Line_1B	P1_Line1B_Input2	169	numeric	12	Line 169 of schedule 5
+1	Part1_Content/P1_Line_1B	P1_Line1B_Percent_Input		numeric		Amount 1B. Percentage. Line 143 plus line 144 of schedule 5 divided by line 169 of schedule 5. Instance 1.
+1	Part1_Content/P1_Line_1C	P1_Line1C_Input1		numeric	12	Amount 1A. Instance 2.
+1	Part1_Content/P1_Line_1C	P1_Line1C_Percent_Input		numeric		Amount 1B. Instance 2.
+1	Part1_Content/P1_Line_1C	P1_Line1C_Input2		numeric	12	Amount 1C. Amount 1A multiplied by percentage on amount 1B. Enter amount 1C on amount 1H.
+1	Part1_Content/P1_Line_1D	P1_Line1D_Input1	103	numeric	12	Line 103 plus line 104 of Schedule 5.
+1	Part1_Content/P1_Line_1D	P1_Line1D_Input2	129	numeric	12	Line 129 of Schedule 5
+1	Part1_Content/P1_Line_1D	P1_Line1D_Percent_Input		numeric		Amount 1D. Percentage. Line 103 plus line 104 of Schedule 5 divided by Line 129 of Schedule 5.
+1	Part1_Content/P1_Line_1E	P1_Line1E_Input1		numeric	12	2 multiplied by the result of line 143 plus line 144 of schedule 5.
+1	Part1_Content/P1_Line_1E	P1_Line1E_Input2	169	numeric	12	Line 169 of schedule 5.
+1	Part1_Content/P1_Line_1E	P1_Line1E_Percent_Input		numeric		Amount 1E. Percentage. 2 multiplied by the result of line 143 plus line 144 of schedule 5 divided by line 169 of schedule 5.
+1	Part1_Content/P1_Line_1F	P1_Line1F_Percent_Input1		numeric		Add percentages 1D and 1E.
+1	Part1_Content/P1_Line_1F	P1_Line1F_Percent_Input2		numeric		Amount 1F. Percentage. Add percentages 1D and 1E and multiply by one third. Instance 1.
+1	Part1_Content/P1_Line_1G	P1_Line1G_Input1		numeric	12	Amount 1A. Instance 3.
+1	Part1_Content/P1_Line_1G	P1_Line1G_Percent_Input		numeric		Amount 1F. Instance 2.
+1	Part1_Content/P1_Line_1G	P1_Line1G_Input2		numeric	12	Amount 1G. Amount 1A multiplied by percentage on amount 1F. Enter amount 1G on amount 1H.
+1	Part1_Content/P1_Line_1H	P1_Line1H_Input		numeric	12	Amount 1H. Newfoundland and Labrador taxable capital employed in the year. Amount 1A, 1C, or 1G, whichever applies.
+1	Part1_Content/P1_Line_125	P1_Line125_Input	125	numeric	12	Line 125. Investments in related financial institutions as determined under section 66.4 of the Newfoundland and Labrador Income Tax Act.
+1	Part1_Content/P1_Line_130	P1_Line130_Input	130	numeric	12	Line 130. Newfoundland and Labrador taxable capital in excess of capital deduction for the year. Amount 1H minus line 125. Instance 1.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Part2_Content/P2_Line_2A	P2_Line2A_Input1	130	numeric	12	Line 130. Instance 2.
+2	Part2_Content/P2_Line_2A	P2_Line2A_Input2		numeric	3	Number of days in the tax year before April 1, 2015.
+2	Part2_Content/P2_Line_2A	P2_Line2A_Input3		numeric	3	Number of days in the tax year. Instance 1.
+2	Part2_Content/P2_Line_2A	P2_Line2A_Input4		numeric	12	Amount 2A. Line 130 multiplied by the number of days in the tax year before April 1, 2015, divided by the number of days in the tax year, and multiplied by 4 percent.
+2	Part2_Content/P2_Line_2B	P2_Line2B_Input1	130	numeric	12	Line 130. Instance 3.
+2	Part2_Content/P2_Line_2B	P2_Line2B_Input2		numeric	3	Number of days in the tax year after March 31, 2015 and before January 1, 2016.
+2	Part2_Content/P2_Line_2B	P2_Line2B_Input3		numeric	3	Number of days in the tax year. Instance 2.
+2	Part2_Content/P2_Line_2B	P2_Line2B_Input4		numeric	12	Amount 2B. Line 130 multiplied by the number of days in the tax year after March 31, 2015 and before January 1, 2016, divided by the number of days in the tax year and multiplied by 5 percent.
+2	Part2_Content/P2_Line_2C	P2_Line2C_Input1	130	numeric	12	Line 130. Instance 4.
+2	Part2_Content/P2_Line_2C	P2_Line2C_Input2		numeric	3	Number of days in the tax year after December 31, 2015.
+2	Part2_Content/P2_Line_2C	P2_Line2C_Input3		numeric	3	Number of days in the tax year. Instance 3.
+2	Part2_Content/P2_Line_2C	P2_Line2C_Input4		numeric	12	Amount 2C. Line 130 multiplied by the number of days in the tax year after December 31, 2015, divided by the number of days in the tax year and multiplied by 6 percent.
+2	Part2_Content/P2_Line_2D	P2_Line2D_Input		numeric	12	Amount 2D. Subtotal. Total of amounts 2A, 2B and 2C. Instance 1.
+2	Part2_Content/P2_Line_2E	P2_Line2E_Input1		numeric	12	Amount 2D. Instance2.
+2	Part2_Content/P2_Line_2E	P2_Line2E_Input2		numeric	3	Number of days in the tax year. Instance 4.
+2	Part2_Content/P2_Line_2E	P2_Line2E_Input3		numeric	12	Amount 2E. Amount 2D multiplied by the number of days in the tax year divided by 365.
+2	Part2_Content/P2_Line_150	P2_Line150_Input	150	numeric	12	Line 150. Newfoundland and Labrador capital tax on financial institutions. Amount 2D or amount 2E, whichever applies. Enter line 150 on line 518 of Schedule 5, Tax Calculation Supplementary – Corporations. Line 150 may be deducted in calculating net income for federal income tax purposes.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		

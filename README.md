@@ -18,32 +18,50 @@ with us.
 
 ```
 research/
-  sources/            ORIGINAL documents, unmodified. The ground truth.
-    legislation/      Income Tax Regulations text (s.1100, Schedule III)
-    cra-forms/        Blank CRA T2 schedule PDFs, as published
-    tra-spec/         Alberta TRA Net File specification, Chapter 3
-    tra-test-cases/   Alberta Fall-2025 certification test cases
+  forms/              THE FORM REGISTRY. Start here for "which forms exist, which
+                      bucket, how far along". registry.tsv is edited by hand;
+                      STATUS.md is generated; run.py is the whole pipeline.
 
-  field-maps/         LINE-BY-LINE reference: every field, its line number,
-                      its formula, and the total algorithm restated
+  sources/            ORIGINAL documents, unmodified. The ground truth.
+    cra-forms/        CRA forms: pdf/ (as published), extracted/ (derived),
+                      catalog/ (CRA's own list of forms), tools/ (the extractors)
+    tra-forms/        Alberta AT1 forms, as published
+    tra-spec/         Alberta TRA Net File specification, Chapter 3
+    tra-guides/       TRA guides (the IEG guide)
+    tra-test-cases/   Alberta certification test cases
+    rq-forms/         Quebec CO-17
+    legislation/      Income Tax Act / Regulations extracts, T4012 extracts
+
+  knowledge-base/     GENERATED reference. formulas/at1/<form>.md is the AT1 rule
+                      book: every line's rule, verbatim, with its spec page.
+
+  field-maps/         LINE-BY-LINE reference written by hand: every field, its
+                      line number, its formula, and the total algorithm restated
     _raw/             raw captures the maps were built from
 
   findings/           ANALYSIS: what we concluded, why, and what is open
     federal/          T2 schedules and the Income Tax Act
-    alberta/          AT1 schedules and the Alberta Corporate Tax Act
+    alberta/          AT1 schedules, and the questions put to TRA
+    jev/              the TypeSafe Jev checker
 
-  validation/         EVIDENCE from outside this repo — certified competitors,
-                      CRA worked examples. Screenshots and raw captures.
+  evidence/           dated evidence folders behind a specific conclusion
+
+  validation/         EVIDENCE from outside this repo: certified competitors,
+                      TRA test runs, the team's verification scripts.
     <source>/<date>-<topic>/
 
-  architecture.md · BUILD-PLAN.md · forms-catalog.md
+  tools/              rulebook/ (the AT1 rule-book extractor), jev/
+
+  architecture.md · BUILD-PLAN.md · forms-catalog.md · PLAN-*.md
 ```
 
 ## Where to start for a given task
 
 | Task | Read first |
 |---|---|
-| Implementing a T2 schedule | `field-maps/` for the line map, then `sources/cra-forms/` for the blank form |
+| Which forms exist, and what is built | `forms/STATUS.md`; the bucket of a form is in `forms/registry.tsv` |
+| Implementing a T2 schedule | `forms/README.md` for the chain, then `sources/cra-forms/extracted/<form>.fields.tsv` (CRA's own description of every box, with its arithmetic) and the PDF itself. In ca-tax, `npx tsx scripts/form-coverage.mts` shows what a definition is missing |
+| A CRA form was reprinted | `forms/README.md`, "Keeping it current" |
 | Implementing an AT1 schedule | `knowledge-base/formulas/at1/<form>.md` — every line's rule verbatim, with its spec page (generated; see `tools/rulebook/`) — then the matching `field-maps/at1-*.md` |
 | A number looks wrong | `sources/legislation/` — go to the regulation, not to a summary |
 | "Is this in scope?" | `findings/` first; several schedules are deliberately excluded and the reason is recorded |
@@ -149,12 +167,11 @@ number before deciding what safe means.
 ## Fetching from canada.ca
 
 `curl` and `WebFetch` are blocked (403 / connection timeout) even with a browser
-user-agent. `fetch()` **from inside a live agent-browser session works**, and that
-is how `sources/cra-forms/` and `sources/legislation/` were pulled. Recipe in
-`validation/README.md`.
+user-agent. A real browser session is not.
 
-Form PDF URLs follow
-`https://www.canada.ca/content/dam/cra-arc/formspubs/pbg/t2sch<N>/t2sch<N>-fill-<YY>e.pdf`,
-but the `<YY>` revision differs per schedule and guessing it 404s. Resolve it by
-fetching `…/forms-publications/forms/t2sch<N>.html` and reading the PDF links out
-of the HTML.
+- One form's PDF: `sources/cra-forms/tools/fetch-form.sh <page id> <destination>`.
+  It reads the PDF link off the form's page, so the revision in the file name
+  never has to be guessed, and prefers the fillable PDF.
+- CRA's list of forms: `sources/cra-forms/catalog/README.md`.
+- Anything else on canada.ca: `fetch()` from inside a live agent-browser session;
+  recipe in `validation/README.md`.

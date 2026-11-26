@@ -1,0 +1,7 @@
+line	caption
+260	Total credit earned in the current tax year (total of column 8)
+270	Credit expired after 10 tax years
+275	Unused credit at the beginning of this tax year (amount A minus line 270)
+280	Credit transferred on an amalgamation or the windup of a subsidiary
+290	Manitoba rental housing construction tax credit claimed in the current year 1
+295	Closing balance for carryforward (amount B minus line 290)

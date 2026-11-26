@@ -1,0 +1,68 @@
+                                                                                                                                                   SCHEDULE 517
+
+                                                                                                                                                                                                     Code 0901
+                                                                                                                                                       Protected B when completed
+
+         CALCULATION OF ONTARIO CAPITAL TAX INVESTMENT ALLOWANCE FOR FINANCIAL INSTITUTIONS
+                                                                 (2009 and later tax years)
+
+· Complete this worksheet for a corporation that is a financial institution resident in Canada, or an authorized foreign bank, that is related to a financial
+
+   institution or insurance corporation at the end of the tax year. Complete this worksheet only if the corporation is not an "eligible institution" as defined
+   in subsection 68(6) of the Taxation Act, 2007 (Ontario).
+
+· The investment allowance is calculated under subsection 68(4) of the Taxation Act, 2007 (Ontario) for a corporation that is a financial institution resident
+
+   in Canada. For an authorized foreign bank, the investment allowance is calculated under subsection 69(3) of the Taxation Act, 2007 (Ontario).
+
+· If you need more space, attach more schedules.
+
+· This schedule is a worksheet only and does not have to be filed with your T2 Corporation Income Tax Return.
+
+                                     A                                B                              C                                     D                                                                                E
+             Names of related financial institutions
+                                                       Share of capital stock or  Ontario allocation factor (OAF)                 OAF of the filing                                                            Investment allowance
+                or related insurance corporations     long-term debt (see Note)    of the related corporation for                   corporation *                                                                      (B x C/D)
+                                                                                   its last tax year ending in the
+1.
+2.                                                                                     filing corporation's year
+3.
+4.
+5.
+6.
+7.
+8.
+
+                           Total                                                                                                  Total
+
+Enter the total of the investment allowance on line 130 in Part 2 of Schedule 514, Ontario Capital Tax on Financial Institutions.
+
+Note:
+
+­ For a financial institution resident in Canada, enter the carrying value of the asset at the end of the year for a share of the capital stock or long-term
+   debt of a related financial institution or related insurance corporation.
+
+­ For an authorized foreign bank, enter its reported amount of qualifying investment. A qualifying investment is an asset that is a share of the capital
+   stock or long-term debt of:
+     1) a related financial institution that has a permanent establishment in Ontario and is not exempt from Ontario capital tax; or
+     2) a related insurance corporation that has a permanent establishment in Ontario.
+
+* Calculation of the OAF
+
+  If the provincial or territorial jurisdiction entered on line 750 of the T2 return is "Ontario," enter "1" on line F.
+  If the provincial or territorial jurisdiction entered on line 750 of the T2 return is "multiple," complete the following calculation and enter the result on line F:
+
+Ontario taxable income **                             =
+
+Taxable income ***
+
+Ontario allocation factor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        F
+
+** Enter the amount allocated to Ontario from column F in Part 1 of Schedule 5, Tax Calculation Supplementary ­ Corporations. If the taxable
+     income is nil, calculate the amount in column F as if the taxable income were $1,000.
+
+*** Enter the taxable income amount from line 360 or line Z of the T2 return, whichever applies. If the taxable income is nil, enter "1,000."
+
+T2 SCH 517 E                                          (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca/formulaires
+                                                                                ou en composant le 1-800-959-7775.)
+

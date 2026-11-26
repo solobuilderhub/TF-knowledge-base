@@ -1,0 +1,160 @@
+                    ONTARIO TRANSITIONAL TAX DEBITS AND CREDITS CALCULATION                                                                                          SCHEDULE 507
+                                                    (2009 and later tax years)
+                                                                                                                                                                              Protected B
+                                                                                                                                                 Business Number            when completed
+
+Corporation's name                                                                                                                                                   Tax year-end
+
+                                                                                                                                                                     Year  Month Day
+
+· Use this schedule to calculate the following amounts to be entered in Part 3 of Schedule 506, Ontario Transitional Tax Debits and Credits:
+
+     ­ Eligible amalgamation;
+     ­ Eligible post-2008 windup;
+     ­ Eligible pre-2009 windup; and
+     ­ Specified pre-2009 transfers.
+
+· This schedule is a worksheet only and does not have to be filed with your T2 Corporation Income Tax Return.
+      Part 1 ­ Eligible amalgamation (federal)
+
+Complete this calculation for each predecessor corporation with a permanent establishment (PE) in Ontario and enter the total of all the
+calculations on line 310 of Schedule 506.
+
+Total federal balance of the predecessor corporation immediately before the eligible amalgamation ..................................                                                  A
+
+Days in the reference period of the predecessor                                 =                                                                                 B
+  corporation before the eligible amalgamation
+
+              Total number of days in the reference
+              period of the predecessor corporation
+
+                                                                                   1 minus amount B =                                                                                 C
+
+Eligible amalgamation (federal) (amount A multiplied by amount C) ...................................................................                                                 D
+
+Enter amount D on line 310 of Schedule 506.
+
+Part 2 ­ Eligible amalgamation (Ontario)
+
+Complete this calculation for each predecessor corporation with a PE in Ontario and enter the total of all the calculations on line 350 of Schedule 506.
+
+Total Ontario balance of the predecessor corporation immediately before the eligible amalgamation ..................................                                                  E
+
+Days in the reference period of the predecessor                                 =                                                                                 F
+  corporation before the eligible amalgamation
+
+              Total number of days in the reference
+              period of the predecessor corporation
+
+                                                                                   1 minus amount F =                                                                                 G
+
+Eligible amalgamation (Ontario) (amount E multiplied by amount G) ..................................................................                                                  H
+
+Enter amount H on line 350 of Schedule 506.
+
+Part 3 ­ Eligible post-2008 windup (federal)
+
+Complete this calculation for each wound-up subsidiary corporation with a PE in Ontario and enter the total of all the calculations on
+line 315 of Schedule 506.
+
+Total federal balance of the subsidiary corporation at the completion time of the windup ................................................                                             I
+
+Number of days in the subsidiary's reference period that are after                 = ...................                                                                              J
+the end of the subsidiary's tax year ending at the completion time
+
+     Total number of days in the subsidiary's reference period
+
+               Total number of days in the parent's reference period               = ...................                                                                              K
+
+  Number of days in the parent's reference period after the beginning of the
+parent's tax year that includes the time immediately after the completion time
+
+Eligible post-2008 windup (federal) (amount I multiplied by amount J multiplied by amount K) ....................................                                                     L
+
+Enter amount L on line 315 of Schedule 506.
+
+T2 SCH 507 E        (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca/formulaires ou au 1-800-959-7775.)  Page 1 of 2
+                                                                                Protected B when completed
+
+Part 4 ­ Eligible post-2008 windup (Ontario)
+
+Complete this calculation for each wound-up subsidiary corporation with a PE in Ontario and enter the total of all the calculations on
+line 355 of Schedule 506.
+
+Total Ontario balance of the subsidiary corporation at the completion time of the windup ...............................................                  M
+
+Number of days in the subsidiary's reference period that are after              = ...................                                                           N
+the end of the subsidiary's tax year ending at the completion time
+
+     Total number of days in the subsidiary's reference period
+
+               Total number of days in the parent's reference period            = ...................                                                           O
+
+  Number of days in the parent's reference period after the beginning of the
+parent's tax year that includes the time immediately after the completion time
+
+Eligible post-2008 windup (Ontario) (amount M multiplied by amount N multiplied by amount O) .................................                                  P
+
+Enter amount P on line 355 of Schedule 506.
+
+Part 5 ­ Eligible pre-2009 windup (federal)
+
+Total federal balance of the subsidiary corporation immediately after the completion time* .............................................                        Q
+
+Enter amount Q on line 320 of Schedule 506.
+
+* Determine this amount as if the subsidiary corporation continued to exist, as if its next tax year ending after that time ended no earlier than
+  January 1, 2009, and as if any property that is deemed under paragraph 88(1)(a.2) of the federal Income Tax Act not to have been disposed of
+  had been retained until the completion time.
+
+Part 6 ­ Eligible pre-2009 windup (Ontario)
+
+Total Ontario balance of the subsidiary corporation immediately after the completion time* .............................................                        R
+
+Enter amount R on line 360 of Schedule 506.
+
+* Determine this amount as if the subsidiary corporation continued to exist, as if its next tax year ending after that time ended no earlier than
+  January 1, 2009, and as if any property that is deemed under paragraph 88(1)(a.2) of the federal Act not to have been disposed of had been
+  retained until the completion time.
+
+  Part 7 ­ Specified pre-2009 transfers (federal)
+
+Enter one of the following, whichever applies, on line S:
+  1) If you are the transferee and have received a property in your tax year ending after 2008, enter the transferor's adjusted proceeds* of disposition
+       under the federal Act.
+
+  2) If you are the transferor and have disposed of a property in your tax year ending after 2008, enter in brackets the transferee's adjusted
+       cost** amount under the federal Act.
+
+Specified pre-2009 transfers (federal)........................................................................................................                  S
+
+Enter amount S, in brackets if applicable, on line 325 of Schedule 506.
+
+* The transferor's adjusted proceeds of an eligible capital property are 3/4 of the transferor's proceeds of disposition, as determined under the federal Act.
+   For any other property, the adjusted proceeds are the transferor's proceeds of disposition as determined under the federal Act.
+
+** The adjusted cost of an eligible capital property is 3/4 of the cost amount to the transferee as determined under the federal Act. For any other
+   property, the adjusted cost is the cost amount to the transferee as determined under the federal Act.
+
+Part 8 ­ Specified pre-2009 transfers (Ontario)
+
+Enter one of the following, whichever applies, on line T:
+  1) If you are the transferee and have received a property in your tax year ending after 2008, enter the transferor's adjusted proceeds* of disposition
+       under the Corporations Tax Act (Ontario).
+
+  2) If you are the transferor and have disposed of a property in your tax year ending after 2008, enter in brackets the transferee's adjusted
+       cost** amount under the Corporations Tax Act (Ontario).
+
+Specified pre-2009 transfers (Ontario) .......................................................................................................                  T
+
+Enter amount T, in brackets if applicable, on line 365 of Schedule 506.
+
+* The transferor's adjusted proceeds of an eligible capital property are 3/4 of the transferor's proceeds of disposition, as determined under the
+  Corporations Tax Act (Ontario). For any other property, the adjusted proceeds are the transferor's proceeds of disposition as determined under
+  the Corporations Tax Act (Ontario).
+
+** The adjusted cost of an eligible capital property is 3/4 of the cost amount to the transferee as determined under the Corporations Tax Act (Ontario).
+   For any other property, the adjusted cost is the cost amount to the transferee as determined under the Corporations Tax Act (Ontario).
+
+                                                                                                                                                                                                                                      Page 2
+

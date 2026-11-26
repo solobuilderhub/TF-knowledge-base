@@ -1,0 +1,155 @@
+                                  British Columbia Mining Exploration Tax Credit                                                                   Schedule 421
+                                                 (2024 and later tax years)                                                                               Code 2401
+
+                                                                                                                 Business number                     Protected B
+                                                                                                                                                   when completed
+
+Corporation's name                                                                                                                     Tax year-end
+
+                                                                                                                                  Year             Month Day
+
+· Use this schedule to claim the British Columbia mining exploration tax credit (METC). This tax credit is available to a corporation that has a permanent
+
+  establishment in British Columbia and that has incurred qualified mining exploration expenses in the tax year.
+
+· The British Columbia METC for the tax year is equal to 20% of the amount by which the total qualified mining exploration expenses incurred in the tax year
+
+  exceed the total assistance received or receivable for these expenses.
+
+· Qualified mining exploration expenses incurred in prescribed areas affected by the mountain pine beetle are eligible for a METC enhanced by 10%. The
+
+  prescribed mountain pine beetle affected areas are defined by the BC Mining Exploration Tax Credit Regulation.
+
+· You are not eligible to claim the METC if, at any time in the tax year:
+   ­ the corporation was exempt from tax under section 27 of the British Columbia Income Tax Act
+   ­ all or part of the corporation's taxable income was exempt from tax under Part I of the federal Income Tax Act
+   ­ the corporation was controlled directly or indirectly in any way by one or more persons, all or part of whose taxable income is exempt from tax under
+
+       section 27 of the British Columbia Income Tax Act or under Part I of the federal Income Tax Act
+
+   ­ the corporation was:
+      · a prescribed labour-sponsored venture capital corporation for the purposes of section 127.4 of the federal Income Tax Act
+      · a small business venture capital corporation registered under section 3 of the Small Business Venture Capital Act
+      · a corporation that has registered an employee share ownership plan under section 2 of the Employee Investment Act, or is an employee
+
+          venture capital corporation registered under section 8 of that act
+
+· If you are a member of a partnership, other than a specified member under subsection 248(1) of the federal Income Tax Act, you can claim your appropriate
+
+  portion of the METC for qualified mining exploration expenses incurred by the partnership. A specified member includes any limited partner. Complete and
+  attach Form T1249, British Columbia Mining Exploration Tax Credit Partnership Schedule to calculate your proportionate share, and enter this amount on
+  line 220 of this schedule. If your only source of the METC is from a partnership, only enter on line 220 the calculated amount from Form T1249.
+
+· File a copy of this schedule with your T2 Corporation Income Tax Return. You must claim this credit no later than 18 months after the end of the tax year
+
+  you are claiming the credit for.
+
+    Part 1­ Exploration information
+
+A mineral resource that qualifies for the credit is: a deposit of base or precious metal, coal, bituminous sands or oil shale (before February 23, 2024 only), and
+certain other mineral deposits in which the principal mineral extracted is ammonite gemstone, calcium chloride, diamond, gypsum, halite, kaolin, lithium
+(effective March 28, 2023), sylvite, silica extracted from sandstone or quartzite, and mineral deposits certified by the Minister of Natural Resources that the
+principal mineral extracted therefrom is an industrial mineral contained in a non-bedded deposit.
+
+   British Columbia free miner certificate number . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 010
+
+   List mineral(s) for which exploration has taken place:
+
+020                                    040
+
+030                                    050
+
+For qualified mining exploration expenses reported in Part 2, identify each project, mineral title, and mining division where title is registered. If there were no
+mineral titles, identify the project and mining division only. Attach additional schedules if more space is required.
+
+                    Project name  Mineral title                                                                                   Mining division
+
+                    070           080                                                                                             090
+
+T2 SCH 421 E (24)                 (Ce formulaire est disponible en français.)  Page 1 of 2
+                                                                                                                                                            Protected B when completed
+
+Part 2 ­ Qualified mining exploration expenses*
+
+Qualified mining exploration expenses are expenses that the corporation incurred for goods and services that are all or substantially all provided in British
+Columbia and that are incurred for determining the existence, location, extent, or quality of a mineral resource in British Columbia. They also include
+expenses incurred for environmental studies or community consultations, such as those undertaken to obtain a right, licence, or privilege. Expenses must be
+reasonable in the circumstances and not be an expense that has been claimed by another person, other than an eligible taxpayer claiming their proportionate
+share as a member of a partnership.
+
+By category, enter the total qualified mining exploration expenses incurred in the tax year for mineral titles listed in Part 1.
+Prospecting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+Geological, geophysical, or geochemical surveys . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+Drilling by rotary, diamond, percussion, or other methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+Trenching, digging test pits, and preliminary sampling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+
+Other qualified mining exploration expenses. Attach additional schedules if more space is required.                                              Amount
+                                                          Description                                                                               140
+                                                              135
+
+Total other qualified mining exploration expenses                                                                                                                                                  A
+
+Total qualified mining exploration expenses (add lines 100 to 130, and amount A). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 180
+
+* Expenses that do not qualify for this credit include:
+
+   · an amount that is renounced under subsection 66(12.6) of the federal Income Tax Act or an amount to which subsection 66(12.66) of the federal Income
+
+      Tax Act applies in that particular year
+
+   · any amount renounced and reported to an investor on Form T101, Statement of Resource Expenses or Form T5013, Statement of Partnership Income
+   · any expenses related to a mine that has come into production in reasonable commercial quantities, or to a potential or actual extension of such a mine
+   · a Canadian development expense under subsection 66.2(5) of the federal Income Tax Act, other than an expense incurred for environmental studies or
+
+      community consultations undertaken to obtain a right, licence or privilege for the purpose of determining the existence, location, extent or quality of
+      mineral resource in British Columbia
+
+   · a Canadian exploration and development overhead expense (CEDOE), under the federal Income Tax Act and Regulations. A CEDOE includes an
+
+      expense for the administration, management, or financing of the corporation, and salary, wages, or other remuneration or related benefits paid to a
+      person employed by the corporation whose duties were not all or substantially all directed towards exploration or development activities. It also includes
+      payments for taxes, insurance and maintenance for rental or leasing property on which there has been no substantial exploration or development
+      activities
+
+   · an outlay or expense included in the capital cost of depreciable property
+   · any consideration for any share or any interest in or right to a share
+   · a cost of, or for the use of, seismic data referred to in paragraph 66(12.6)(b.1) of the federal Income Tax Act
+   · any expense incurred in drilling or completing an oil or gas well, in building a temporary access road to an oil or gas well or in preparing the site
+   · effective February 23, 2024, oil or gas exploration expenses, such as those related to bituminous sands and oil shale
+   · an outlay or expense incurred in the course of earning income if any of the income is exempt income, under subsection 248(1), or is exempt from tax
+
+      under Part I, of the federal Income Tax Act
+
+   Part 3 ­ Determining the amount of assistance
+
+All assistance** received in respect of qualified mining exploration expenses for the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . 190
+
+Assistance that have been repaid in respect of qualified mining exploration expenses for the tax year. . . . . . . . . . . . . . . . . . . . 200
+
+Net assistance (line 190 minus line 200) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+** Grants, subsidies, rebates, forgivable loans, reimbursements or other inducements or assistance the corporation received, is entitled to receive, or can
+
+   reasonably be expected to receive other than an amount deemed to have been paid under section 25.1 of the Income Tax Act (British Columbia).
+
+Part 4 ­ Determining the mining exploration tax credit
+
+Total qualified mining exploration expenses (line 180 in Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           B
+
+Net assistance (line 210 in Part 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          C
+
+Net qualified mining exploration expenses (amount B minus amount C) . . . . . . . . . . . . . . . . . . . . . . . .                                      D
+
+                                                            Amount D multiplied by the applicable rate . . . . . . . . . . . . . . × 20% =                                                                  E
+
+Qualified mining exploration expenses incurred in prescribed areas affected by                                                                                                                              F
+the mountain pine beetle (included on line 180) minus net assistance for these expenses                                                                                                                     G
+(included on line 210) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215                                                   Page 2 of 2
+
+Line 215 multiplied by the applicable rate . . . . . . . . . . . . . . . × 10% =
+
+METC allocated from a partnership. Enter your proportionate share from Form T1249, from line 22 of Part 5 . . . . . . . . . . . . . . 220
+
+ Mining exploration tax credit (add amounts E, F, and line 220) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Enter this amount on line 673 in Part 2 of Schedule 5 Tax Calculation Supplementary ­ Corporations.
+T2 SCH 421 E (24)
+

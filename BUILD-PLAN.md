@@ -3,6 +3,13 @@
 Sequenced backward from CRA/TRA certification windows (fall & spring). Principle: **ledger → engine → filing path → agents.**
 Agents are the cheap, replaceable layer; the engine + filing are the long-lead, certifiable items.
 
+> **This is the original sequencing, from before the engine existed.** Phases
+> 1 to 3 are largely built: the AT1 return and its schedules are certified
+> against TRA's test cases, and the T2 engine covers the schedules listed in
+> `forms/STATUS.md`. For what is built and what is open today, read
+> `forms/STATUS.md` (per form) and `forms/README.md` (the open list). The
+> checkboxes below are not maintained.
+
 ## Phase 0 — foundation & evidence (start now, parallel)
 - [ ] **Golden-return corpus** (named owner): replay filed `.cor` returns via fajr's COR import → fixtures the engine must reproduce. No certification dependency. *This is the moat; every month late = corpus not accumulated.*
 - [ ] Scaffold `apps/server` + `apps/web` (done — see below). Wire auth + one trivial org-scoped resource end-to-end; prove login → CRUD → MCP tool works.

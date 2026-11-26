@@ -1,0 +1,139 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Nm		text		Corporation's name
+1		BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	tax-yr-end	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Prt1/RadioButtonGroup-220	Option1-220	050	check		Line 050. Are you an eligible Yukon mining business taxpayer? Yes.
+1	Prt1/RadioButtonGroup-220	Option2-220	050	check		Line 050. Are you an eligible Yukon mining business taxpayer? No.
+1	Prt1/Table/Table_row1	cell1		text		Column 1. Line 100. Class number of eligible Yukon mining asset. Row 1.
+1	Prt1/Table/Table_row1	cell2		numeric		Column 2. Line 105. Prescribed inclusion rate. Row 1.
+1	Prt1/Table/Table_row1	cell3		numeric		Column 3. Line 108. Prescribed fraction. Row 1.
+1	Prt1/Table/Table_row1	cell4		numeric	12	Column 4. Line 110. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8, Capital cost allowance, CCA, that relates to the eligible Yukon mining asset. Row 1.
+1	Prt1/Table/Table_row1	cell5		numeric	12	Column 5. Line 115. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon mining asset. Row 1.
+1	Prt1/Table/Table_row1	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 1.
+1	Prt1/Table/Table_row1	cell7		numeric	12	Column 7. Line 120. Eligible Yukon undepreciated capital cost at the end of the year for eligible Yukon mining assets. Column 2 multiplied by column 3 multiplied by column 6. Row 1.
+1	Prt1/Table/Table_row2	cell1		text		Column 1. Line 100. Class number of eligible Yukon mining asset. Row 2.
+1	Prt1/Table/Table_row2	cell2		numeric		Column 2. Line 105. Prescribed inclusion rate. Row 2.
+1	Prt1/Table/Table_row2	cell3		numeric		Column 3. Line 108. Prescribed fraction. Row 2.
+1	Prt1/Table/Table_row2	cell4		numeric	12	Column 4. Line 110. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8, Capital cost allowance, CCA, that relates to the eligible Yukon mining asset. Row 2.
+1	Prt1/Table/Table_row2	cell5		numeric	12	Column 5. Line 115. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon mining asset. Row 2.
+1	Prt1/Table/Table_row2	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 2.
+1	Prt1/Table/Table_row2	cell7		numeric	12	Column 7. Line 120. Eligible Yukon undepreciated capital cost at the end of the year for eligible Yukon mining assets. Column 2 multiplied by column 3 multiplied by column 6. Row 2.
+1	Prt1/Table/Table_row3	cell1		text		Column 1. Line 100. Class number of eligible Yukon mining asset. Row 3.
+1	Prt1/Table/Table_row3	cell2		numeric		Column 2. Line 105. Prescribed inclusion rate. Row 3.
+1	Prt1/Table/Table_row3	cell3		numeric		Column 3. Line 108. Prescribed fraction. Row 3.
+1	Prt1/Table/Table_row3	cell4		numeric	12	Column 4. Line 110. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8, Capital cost allowance, CCA, that relates to the eligible Yukon mining asset. Row 3.
+1	Prt1/Table/Table_row3	cell5		numeric	12	Column 5. Line 115. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon mining asset. Row 3.
+1	Prt1/Table/Table_row3	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 3.
+1	Prt1/Table/Table_row3	cell7		numeric	12	Column 7. Line 120. Eligible Yukon undepreciated capital cost at the end of the year for eligible Yukon mining assets. Column 2 multiplied by column 3 multiplied by column 6. Row 3.
+1	Prt1/Table/Table_row4	cell1		text		Column 1. Line 100. Class number of eligible Yukon mining asset. Row 4.
+1	Prt1/Table/Table_row4	cell2		numeric		Column 2. Line 105. Prescribed inclusion rate. Row 4.
+1	Prt1/Table/Table_row4	cell3		numeric		Column 3. Line 108. Prescribed fraction. Row 4.
+1	Prt1/Table/Table_row4	cell4		numeric	12	Column 4. Line 110. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8, Capital cost allowance, CCA, that relates to the eligible Yukon mining asset. Row 4.
+1	Prt1/Table/Table_row4	cell5		numeric	12	Column 5. Line 115. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon mining asset. Row 4.
+1	Prt1/Table/Table_row4	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 4.
+1	Prt1/Table/Table_row4	cell7		numeric	12	Column 7. Line 120. Eligible Yukon undepreciated capital cost at the end of the year for eligible Yukon mining assets. Column 2 multiplied by column 3 multiplied by column 6. Row 4.
+1	Prt1/Table/Table_row5	cell1		text		Column 1. Line 100. Class number of eligible Yukon mining asset. Row 5.
+1	Prt1/Table/Table_row5	cell2		numeric		Column 2. Line 105. Prescribed inclusion rate. Row 5.
+1	Prt1/Table/Table_row5	cell3		numeric		Column 3. Line 108. Prescribed fraction. Row 5.
+1	Prt1/Table/Table_row5	cell4		numeric	12	Column 4. Line 110. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8, Capital cost allowance, CCA, that relates to the eligible Yukon mining asset. Row 5.
+1	Prt1/Table/Table_row5	cell5		numeric	12	Column 5. Line 115. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon mining asset. Row 5.
+1	Prt1/Table/Table_row5	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 5.
+1	Prt1/Table/Table_row5	cell7		numeric	12	Column 7. Line 120. Eligible Yukon undepreciated capital cost at the end of the year for eligible Yukon mining assets. Column 2 multiplied by column 3 multiplied by column 6. Row 5.
+1	Prt1/Table/Table_row6	cell1		text		Column 1. Line 100. Class number of eligible Yukon mining asset. Row 6.
+1	Prt1/Table/Table_row6	cell2		numeric		Column 2. Line 105. Prescribed inclusion rate. Row 6.
+1	Prt1/Table/Table_row6	cell3		numeric		Column 3. Line 108. Prescribed fraction. Row 6.
+1	Prt1/Table/Table_row6	cell4		numeric	12	Column 4. Line 110. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8, Capital cost allowance, CCA, that relates to the eligible Yukon mining asset. Row 6.
+1	Prt1/Table/Table_row6	cell5		numeric	12	Column 5. Line 115. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon mining asset. Row 6.
+1	Prt1/Table/Table_row6	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 6.
+1	Prt1/Table/Table_row6	cell7		numeric	12	Column 7. Line 120. Eligible Yukon undepreciated capital cost at the end of the year for eligible Yukon mining assets. Column 2 multiplied by column 3 multiplied by column 6. Row 6.
+1	Prt1/Table/Table_row7	cell1		text		Column 1. Line 100. Class number of eligible Yukon mining asset. Row 7.
+1	Prt1/Table/Table_row7	cell2		numeric		Column 2. Line 105. Prescribed inclusion rate. Row 7.
+1	Prt1/Table/Table_row7	cell3		numeric		Column 3. Line 108. Prescribed fraction. Row 7.
+1	Prt1/Table/Table_row7	cell4		numeric	12	Column 4. Line 110. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8, Capital cost allowance, CCA, that relates to the eligible Yukon mining asset. Row 7.
+1	Prt1/Table/Table_row7	cell5		numeric	12	Column 5. Line 115. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon mining asset. Row 7.
+1	Prt1/Table/Table_row7	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 7.
+1	Prt1/Table/Table_row7	cell7		numeric	12	Column 7. Line 120. Eligible Yukon undepreciated capital cost at the end of the year for eligible Yukon mining assets. Column 2 multiplied by column 3 multiplied by column 6. Row 7.
+1	Prt1/Table/Table_row8	cell1		text		Column 1. Line 100. Class number of eligible Yukon mining asset. Row 8.
+1	Prt1/Table/Table_row8	cell2		numeric		Column 2. Line 105. Prescribed inclusion rate. Row 8.
+1	Prt1/Table/Table_row8	cell3		numeric		Column 3. Line 108. Prescribed fraction. Row 8.
+1	Prt1/Table/Table_row8	cell4		numeric	12	Column 4. Line 110. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8, Capital cost allowance, CCA, that relates to the eligible Yukon mining asset. Row 8.
+1	Prt1/Table/Table_row8	cell5		numeric	12	Column 5. Line 115. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon mining asset. Row 8.
+1	Prt1/Table/Table_row8	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 8.
+1	Prt1/Table/Table_row8	cell7		numeric	12	Column 7. Line 120. Eligible Yukon undepreciated capital cost at the end of the year for eligible Yukon mining assets. Column 2 multiplied by column 3 multiplied by column 6. Row 8.
+1	Prt1	Total_inpt3		numeric	12	Amount A. Total of column 7. Instance 1.
+1	Prt1	Amount		numeric	12	Amount A. Instance 2.
+1	Prt1	Amount_BRF	130	numeric		Line 130. Prescribed mining adjustment factor.
+1	Prt1	Amount_B		numeric	12	Amount B. Eligible Yukon mining undepreciated capital cost. Amount A multiplied by line 130.
+1	amount_150	Line_150	150	numeric	12	Line 150. Eligible Yukon mining undepreciated capital cost allocated from partnerships.
+1	Prt3	Numeric_Amt_C		numeric	12	Amount C. Total eligible Yukon mining undepreciated capital cost. Amount B plus line 150. Instance 1.
+1	Prt3	Amount		numeric	12	Amount C. Instance 2.
+1	Prt3	Amount_BRF	175	numeric		Line 175. Mining business rebate factor.
+1	Prt3	Amount_D		numeric	12	Amount D. Yukon mining business carbon price rebate. Amount C multiplied by line 175. Enter amount D on line 696 of Schedule 5, Tax Calculation Supplementary – Corporations.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Prt4/Part4_sf/Table/Table_row1	cell1		text		Column 1. Line 200. Class number of eligible Yukon asset. Row 1.
+2	Prt4/Part4_sf/Table/Table_row1	cell2		numeric		Column 2. Line 205. Prescribed inclusion rate. Row 1.
+2	Prt4/Part4_sf/Table/Table_row1	cell3		numeric		Column 3. Line 208. Prescribed fraction. Row 1.
+2	Prt4/Part4_sf/Table/Table_row1	cell4		numeric	12	Column 4. Line 210. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8 that relates to the eligible Yukon asset. Row 1.
+2	Prt4/Part4_sf/Table/Table_row1	cell5		numeric	12	Column 5. Line 215. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon asset. Row 1.
+2	Prt4/Part4_sf/Table/Table_row1	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 1.
+2	Prt4/Part4_sf/Table/Table_row1	cell7		numeric	12	Column 7. Line 220. Eligible Yukon undepreciated capital cost at the end of the year. Column 2 multiplied by column 3 multiplied by column 6. Row 1.
+2	Prt4/Part4_sf/Table/Table_row2	cell1		text		Column 1. Line 200. Class number of eligible Yukon asset. Row 2.
+2	Prt4/Part4_sf/Table/Table_row2	cell2		numeric		Column 2. Line 205. Prescribed inclusion rate. Row 2.
+2	Prt4/Part4_sf/Table/Table_row2	cell3		numeric		Column 3. Line 208. Prescribed fraction. Row 2.
+2	Prt4/Part4_sf/Table/Table_row2	cell4		numeric	12	Column 4. Line 210. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8 that relates to the eligible Yukon asset. Row 2.
+2	Prt4/Part4_sf/Table/Table_row2	cell5		numeric	12	Column 5. Line 215. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon asset. Row 2.
+2	Prt4/Part4_sf/Table/Table_row2	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 2.
+2	Prt4/Part4_sf/Table/Table_row2	cell7		numeric	12	Column 7. Line 220. Eligible Yukon undepreciated capital cost at the end of the year. Column 2 multiplied by column 3 multiplied by column 6. Row 2.
+2	Prt4/Part4_sf/Table/Table_row3	cell1		text		Column 1. Line 200. Class number of eligible Yukon asset. Row 3.
+2	Prt4/Part4_sf/Table/Table_row3	cell2		numeric		Column 2. Line 205. Prescribed inclusion rate. Row 3.
+2	Prt4/Part4_sf/Table/Table_row3	cell3		numeric		Column 3. Line 208. Prescribed fraction. Row 3.
+2	Prt4/Part4_sf/Table/Table_row3	cell4		numeric	12	Column 4. Line 210. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8 that relates to the eligible Yukon asset. Row 3.
+2	Prt4/Part4_sf/Table/Table_row3	cell5		numeric	12	Column 5. Line 215. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon asset. Row 3.
+2	Prt4/Part4_sf/Table/Table_row3	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 3.
+2	Prt4/Part4_sf/Table/Table_row3	cell7		numeric	12	Column 7. Line 220. Eligible Yukon undepreciated capital cost at the end of the year. Column 2 multiplied by column 3 multiplied by column 6. Row 3.
+2	Prt4/Part4_sf/Table/Table_row4	cell1		text		Column 1. Line 200. Class number of eligible Yukon asset. Row 4.
+2	Prt4/Part4_sf/Table/Table_row4	cell2		numeric		Column 2. Line 205. Prescribed inclusion rate. Row 4.
+2	Prt4/Part4_sf/Table/Table_row4	cell3		numeric		Column 3. Line 208. Prescribed fraction. Row 4.
+2	Prt4/Part4_sf/Table/Table_row4	cell4		numeric	12	Column 4. Line 210. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8 that relates to the eligible Yukon asset. Row 4.
+2	Prt4/Part4_sf/Table/Table_row4	cell5		numeric	12	Column 5. Line 215. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon asset. Row 4.
+2	Prt4/Part4_sf/Table/Table_row4	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 4.
+2	Prt4/Part4_sf/Table/Table_row4	cell7		numeric	12	Column 7. Line 220. Eligible Yukon undepreciated capital cost at the end of the year. Column 2 multiplied by column 3 multiplied by column 6. Row 4.
+2	Prt4/Part4_sf/Table/Table_row5	cell1		text		Column 1. Line 200. Class number of eligible Yukon asset. Row 5.
+2	Prt4/Part4_sf/Table/Table_row5	cell2		numeric		Column 2. Line 205. Prescribed inclusion rate. Row 5.
+2	Prt4/Part4_sf/Table/Table_row5	cell3		numeric		Column 3. Line 208. Prescribed fraction. Row 5.
+2	Prt4/Part4_sf/Table/Table_row5	cell4		numeric	12	Column 4. Line 210. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8 that relates to the eligible Yukon asset. Row 5.
+2	Prt4/Part4_sf/Table/Table_row5	cell5		numeric	12	Column 5. Line 215. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon asset. Row 5.
+2	Prt4/Part4_sf/Table/Table_row5	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 5.
+2	Prt4/Part4_sf/Table/Table_row5	cell7		numeric	12	Column 7. Line 220. Eligible Yukon undepreciated capital cost at the end of the year. Column 2 multiplied by column 3 multiplied by column 6. Row 5.
+2	Prt4/Part4_sf/Table/Table_row6	cell1		text		Column 1. Line 200. Class number of eligible Yukon asset. Row 6.
+2	Prt4/Part4_sf/Table/Table_row6	cell2		numeric		Column 2. Line 205. Prescribed inclusion rate. Row 6.
+2	Prt4/Part4_sf/Table/Table_row6	cell3		numeric		Column 3. Line 208. Prescribed fraction. Row 6.
+2	Prt4/Part4_sf/Table/Table_row6	cell4		numeric	12	Column 4. Line 210. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8 that relates to the eligible Yukon asset. Row 6.
+2	Prt4/Part4_sf/Table/Table_row6	cell5		numeric	12	Column 5. Line 215. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon asset. Row 6.
+2	Prt4/Part4_sf/Table/Table_row6	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 6.
+2	Prt4/Part4_sf/Table/Table_row6	cell7		numeric	12	Column 7. Line 220. Eligible Yukon undepreciated capital cost at the end of the year. Column 2 multiplied by column 3 multiplied by column 6. Row 6.
+2	Prt4/Part4_sf/Table/Table_row7	cell1		text		Column 1. Line 200. Class number of eligible Yukon asset. Row 7.
+2	Prt4/Part4_sf/Table/Table_row7	cell2		numeric		Column 2. Line 205. Prescribed inclusion rate. Row 7.
+2	Prt4/Part4_sf/Table/Table_row7	cell3		numeric		Column 3. Line 208. Prescribed fraction. Row 7.
+2	Prt4/Part4_sf/Table/Table_row7	cell4		numeric	12	Column 4. Line 210. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8 that relates to the eligible Yukon asset. Row 7.
+2	Prt4/Part4_sf/Table/Table_row7	cell5		numeric	12	Column 5. Line 215. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon asset. Row 7.
+2	Prt4/Part4_sf/Table/Table_row7	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 7.
+2	Prt4/Part4_sf/Table/Table_row7	cell7		numeric	12	Column 7. Line 220. Eligible Yukon undepreciated capital cost at the end of the year. Column 2 multiplied by column 3 multiplied by column 6. Row 7.
+2	Prt4/Part4_sf/Table/Table_row8	cell1		text		Column 1. Line 200. Class number of eligible Yukon asset. Row 8.
+2	Prt4/Part4_sf/Table/Table_row8	cell2		numeric		Column 2. Line 205. Prescribed inclusion rate. Row 8.
+2	Prt4/Part4_sf/Table/Table_row8	cell3		numeric		Column 3. Line 208. Prescribed fraction. Row 8.
+2	Prt4/Part4_sf/Table/Table_row8	cell4		numeric	12	Column 4. Line 210. Undepreciated capital cost at the end of the year. Enter amount from line 220 of Schedule 8 that relates to the eligible Yukon asset. Row 8.
+2	Prt4/Part4_sf/Table/Table_row8	cell5		numeric	12	Column 5. Line 215. Capital cost allowance. Enter amount from line 217 of Schedule 8 that relates to the eligible Yukon asset. Row 8.
+2	Prt4/Part4_sf/Table/Table_row8	cell6		numeric	12	Column 6. Column 4 plus column 5. Row 8.
+2	Prt4/Part4_sf/Table/Table_row8	cell7		numeric	12	Column 7. Line 220. Eligible Yukon undepreciated capital cost at the end of the year. Column 2 multiplied by column 3 multiplied by column 6. Row 8.
+2	Prt4	Total_inpt3		numeric	12	Amount E. Total of column 7.
+2	Prt_5	Line_320	320	numeric	12	Line 320. Eligible Yukon undepreciated capital cost allocated from partnerships.
+2	Prt6/Amt_F	Numeric_Amt_F		numeric	12	Amount F. Total eligible Yukon undepreciated capital cost. Amount E plus line 320. Instance 1.
+2	Prt6/Amnt_G	inpt_I		numeric	12	Amount F. Instance 2.
+2	Prt6/Amnt_G	ln_500_inpt	500	numeric		Line 500. General business rebate factor.
+2	Prt6/Amnt_G	inpt_G		numeric	12	Amount G. Yukon general business carbon price rebate. Amount F multiplied by line 500. Enter amount G on line 699 of Schedule 5.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		

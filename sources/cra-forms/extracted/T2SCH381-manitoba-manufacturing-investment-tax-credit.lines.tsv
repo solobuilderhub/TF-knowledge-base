@@ -1,0 +1,17 @@
+line	caption
+115	Portion of total capital cost related to RST-exempt property acquired in the current tax year
+104	Credit expired after 10 tax years
+105	Unused credit at the beginning of this tax year (amount A minus line 104)
+110	Credit transferred on an amalgamation or the wind-up of a subsidiary
+130	Credit allocated from a partnership (other than RST-exempt property)
+131	Credit allocated from a partnership (RST-exempt property)
+140	Credit allocated from a trust (other than RST-exempt property)
+141	Credit allocated from a trust (RST-exempt property)
+150	Credit renounced
+160	Non-refundable credit claimed in the current tax year (Manitoba tax otherwise payable or amount D, whichever is less)
+165	Portion of amount B related to qualified property (other than RST-exempt property)
+125	Refundable credit claimed in the current tax year (amount E, F, or G, whichever is least)
+200	Closing balance for carryforward (amount D minus amount I)
+901	1st previous tax year ending on
+902	2nd previous tax year ending on
+903	3rd previous tax year ending on

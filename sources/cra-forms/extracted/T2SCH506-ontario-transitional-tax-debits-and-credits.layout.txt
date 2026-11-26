@@ -1,0 +1,636 @@
+                    Ontario Transitional Tax Debits and Credits                                                                        Schedule 506
+                                 (2010 and later tax years)
+                                                                                                                                                    Code 1003
+                                                                                                        Business number  Protected B when completed
+
+Corporation's name                                                                                                                              Tax year end
+
+                                                                                                                         Year                         Month   Day
+
+· Complete this schedule if the corporation is a specified corporation that is subject to the Ontario transitional tax debit or is claiming the
+   Ontario transitional tax credit.
+
+· Unless otherwise noted, all legislative references are to the federal Income Tax Act.
+· File this schedule with the T2 Corporation Income Tax Return.
+
+· Unless otherwise noted, terms on this page are defined under subsection 46(1) of the Taxation Act, 2007 (Ontario).
+
+· Specified corporation is defined under subsection 46(5) of the Taxation Act, 2007 (Ontario) as a corporation:
+
+     ­ that is not exempt at or immediately before its transition time from tax payable under Part I of the federal Act;
+     ­ that has a tax year that ends before 2009 and a tax year that includes January 1, 2009; or has a tax year that begins after 2008 and a tax year
+
+        that is deemed to end on December 31, 2008, under subsection 249(3) of the federal Act;
+     ­ that has a permanent establishment (PE) in Ontario at its transition time;
+     ­ that had a PE in Ontario at any time in its last tax year ending before 2009, and was subject to tax under Part II of the Corporations Tax Act (Ontario)
+
+        for that tax year; and
+     ­ whose assets have not been distributed in an eligible pre-2009 winding-up.
+
+· A specified corporation also includes, under subsection 51(1) of the Taxation Act, 2007 (Ontario), the parent corporation of an eligible post-2008 winding-up
+  and the new corporation of an eligible amalgamation.
+
+· A specified corporation may be subject to the Ontario transitional tax debit if:
+     ­ the corporation's total federal balance is more than the total Ontario balance at the end of the tax year; or
+     ­ the corporation has a post-2008 scientific research and experimental development (SR&ED) balance, as defined under subsection 49(2) of the
+        Taxation Act, 2007 (Ontario), and a federal SR&ED transitional balance, as defined under subsection 49(4) of the Taxation Act, 2007 (Ontario),
+        at the end of the tax year.
+
+· A specified corporation may be able to claim the Ontario transitional tax credit if:
+     ­ the corporation's total Ontario balance is more than the total federal balance at the end of the tax year; or
+     ­ the corporation has an unused transitional tax credit balance from previous tax years.
+
+· Transition time means:
+     ­ the beginning of the corporation's first tax year that starts after 2008 if the previous tax year is deemed under subsection 249(3) of the
+        federal Act to end on December 31, 2008, or
+     ­ the beginning of the corporation's tax year that includes January 1, 2009, in any other case.
+
+· An eligible amalgamation means an amalgamation or merger of a particular corporation and one or more other corporations to form a
+   new corporation where:
+
+     ­ the amalgamation or merger occurs after December 31, 2008, and does not occur at the new corporation's transition time;
+     ­ the new corporation has a PE in Ontario immediately after the amalgamation or merger;
+     ­ the particular corporation has a PE in Ontario immediately before the amalgamation or merger;
+     ­ the particular corporation is a specified corporation at its transition time or at any time before the amalgamation or merger;
+     ­ the amalgamation or merger occurs in the amortization period of the new corporation;
+     ­ the amortization period of the new corporation does not end immediately after the beginning of its reference period; and
+     ­ the amortization period of the particular corporation does not end before the amalgamation or merger.
+
+· An eligible post-2008 winding-up means the winding-up of a subsidiary corporation into its parent corporation under subsection 88(1) where:
+
+­ the completion time of the winding-up is after December 31, 2008, and the time immediately after the completion time is within the
+   amortization periods of the subsidiary and parent;
+
+­ the parent's tax year (during which it received the assets of the subsidiary) ends after December 31, 2008;
+­ the subsidiary has a PE in Ontario during its tax year ending at the completion time; and
+­ the parent has a PE in Ontario during its tax year in which it received the assets from the subsidiary.
+
+· An eligible pre-2009 winding-up means the winding-up of a subsidiary under subsection 88(1) where:
+
+­ the completion time of the winding-up is after December 31, 2008, and the parent's tax year (during which it received the assets of the
+   subsidiary) ended before January 1, 2009; or
+
+­ the completion time of the winding-up is before January 1, 2009, and the parent's tax year (during which it received the assets of the
+   subsidiary) ended after December 31, 2008.
+
+· The completion time of a winding-up means the end of the tax year of the subsidiary during which the subsidiary distributes its assets to the parent for
+   the purposes of paragraph 88(1)(e.2).
+
+· A specified pre-2009 transfer under section 52 of the Taxation Act, 2007 (Ontario) means a transfer of property between corporations not
+   at arm's length that changes the total federal or Ontario balance of either the transferee or the transferor and that occurs:
+     ­ before 2009;
+     ­ at different values under the Corporations Tax Act (Ontario) and the federal Act;
+     ­ in a tax year ending after 2008 for either the transferee or the transferor corporation, and that corporation is a specified corporation; and
+     ­ in a tax year of the other corporation ending before 2009, in which the other corporation has a PE in Ontario.
+
+T2 SCH 506 E (14)   (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca/formulaires ou en composant le 1-800-959-7775.) Page 1 of 8
+ Part 1 ­ Total federal balance                                                                                                                                                                Protected B when completed
+Complete this part if:
+ ­ the tax year includes January 1, 2009; or
+ ­ the previous tax year-end is deemed to be December 31, 2008, under subsection 249(3).
+
+If this is the first year after amalgamation, include the total of all amounts from the predecessor corporations that had a PE in Ontario
+immediately before the amalgamation.
+
+If the corporation is a life insurer or a non-resident corporation, do not include the amounts under the additional rules in subsection 48(8)
+of the Taxation Act, 2007 (Ontario).
+
+For other tax years, go to Part 3.
+
+Federal balances at the end of the previous tax year (tax year ending in 2008)
+
+Total undepreciated capital cost of depreciable properties
+(total of column 220 from Schedule 8, Capital Cost Allowance (CCA)) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+
+Charitable donations not yet deducted from income (from line 280 of Schedule 2, Charitable Donations
+and Gifts) (see Note 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+Gifts to Canada, a province, or a territory (from line 380 of Schedule 2) (see Note 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 114
+Gifts of certified cultural property (from line 480 of Schedule 2) (see Note 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+Gifts of certified ecologically sensitive land (from line 580 of Schedule 2) (see Note 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
+Gifts of medicine (from line 680 of Schedule 2) (see Note 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+Cumulative eligible capital (from line 300 of Schedule 10, Cumulative Eligible Capital Deduction) . . . . . . . . . . . . . . . . . . . . . . . 122
+
+Federal SR&ED expenditure pool (from line 470 of Form T661, Scientific Research and Experimental
+Development (SR&ED) Expenditures Claim) (see Note 2 and Note 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+Cumulative Canadian exploration expense (from line 249 of Schedule 12, Resource-Related Deductions) (see Note 2) . . . . 128
+Cumulative Canadian development expense (from line 349 of Schedule 12) (see Note 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+Cumulative Canadian oil and gas property expense (from line 449 of Schedule 12) (see Note 2) . . . . . . . . . . . . . . . . . . . . . . . . 132
+
+Federal balances at the beginning of the current tax year
+
+Non-capital losses (line 102 of Schedule 4, Corporation Loss Continuity and Application, of the current                                                                                        134
+tax year) (see Note 2 and Note 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Net capital losses (from line 200 of Schedule 4 of the current tax year × 50%) (see Note 2 and Note 4) . . . . . . . . . . . . . . . . . . 136
+
+Amounts included in the calculation of the Ontario income tax in the previous tax year
+Total reserves deducted under paragraph 20(1)(l), (l.1), (m), (m.1), (n), or (o), subsection 32(1), section 61.4 or
+subparagraph 138(3)(a)(i), (ii), or (iv) of the federal Act, as it applies for the purposes of the Corporations Tax Act (Ontario) 150
+One half of the total reserves deducted under subparagraph 40(1)(a)(iii) or 44(1)(e)(iii) of the
+federal Act, as it applies under the Corporations Tax Act (Ontario) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+Other discretionary deductions claimed for Ontario income tax, but not claimed federally in the tax years ending
+after December 12, 2006, and before the transition time . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+
+Other amounts
+
+Total adjusted cost base of partnership interests owned by the corporation, under the federal Act,
+at the beginning of the tax year (see Note 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+
+Gain from a negative adjusted cost base of a partnership interest under subsection 40(3) of the
+federal Act, as it applies under the Corporations Tax Act (Ontario), as if all partnership interests were
+disposed of at the beginning of the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+
+Amount of farming income specified under paragraph 28(1)(b) in the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 164
+
+                                                           Federal balance before election (total of lines 110 to 164)                                                                                       A
+
+Deduct:
+
+Lesser of amount D or amount E from Part 4, if an election is made . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170
+
+Total federal balance (amount A minus line 170) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 180
+Enter amount on line 300 in Part 3.
+
+Note 1: Enter "0" if the corporation was non-resident immediately before its transition time.
+Note 2: Enter "0" if control of the corporation was acquired at transition time.
+Note 3: Do not include the SR&ED expenditure pool earned before control of the corporation was last acquired.
+Note 4: Do not include losses that arose before control of the corporation was last acquired.
+Note 5: The adjusted cost base of any particular partnership interest cannot be less than "0".
+
+                                                                                                                                                                                                             Page 2
+                                                                                                                                                     Protected B when completed
+
+ Part 2 ­ Total Ontario balance
+
+Complete this part if:
+ ­ the tax year includes January 1, 2009; or
+ ­ the previous tax year-end is deemed to be December 31, 2008, under subsection 249(3).
+
+If this is the first year after amalgamation, include the total of all amounts from the predecessor corporations that had a PE in Ontario
+immediately before the amalgamation.
+
+If the corporation is a life insurer or a non-resident corporation, do not include the amounts under the additional rules in subsection 48(8)
+of the Taxation Act, 2007 (Ontario).
+For other tax years, go to Part 3.
+
+Ontario balances at the end of the previous tax year (tax year ending in 2008)
+
+Total undepreciated capital cost of depreciable properties (total of column 13 from                                                                                            210
+Ontario Schedule 8, Ontario Capital Cost Allowance) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Charitable donations (amount I from Ontario Schedule 2, Ontario Charitable Donations and Gifts) (see Note 1) . . . . . . . . . . 212
+
+Gifts to Canada, a province, or a territory (total of closing balance amounts from
+parts 3 and 5 of Ontario Schedule 2) (see Note 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 214
+Gifts of certified cultural property (closing balance amount from Part 6 of Ontario Schedule 2) (see Note 1) . . . . . . . . . . . . . . 216
+Gifts of certified ecologically sensitive land (closing balance amount from Part 7 of Ontario Schedule 2) (see Note 1) . . . . . . 218
+Gifts of medicine (see Note 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+Cumulative eligible capital (amount Q from Ontario Schedule 10, Ontario Cumulative Eligible Capital Deduction) . . . . . . . . . 222
+
+Ontario SR&ED expenditure pool (line 480 from Ontario CT23 Schedule 161, Ontario Scientific Research and
+Experimental Development Expenditures) (see Note 2 and Note 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 224
+
+Adjusted Ontario SR&ED incentive balance (see Note 2 and Note 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+
+Cumulative Canadian exploration expense (closing balance of Regular Expenses from Part 2 of
+Ontario Schedule 12, Ontario Exploration Expenses) (see Note 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 228
+
+Cumulative Canadian development expense (closing balance of Regular Expenses, Canadian CCDE Expenses,
+from Part 3 of Ontario Schedule 12) (see Note 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 230
+Cumulative Canadian oil and gas property expense (closing balance of Regular Expenses from Part 4 of
+Ontario Schedule 12) (see Note 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 232
+
+Non-capital losses (from line 709 of Ontario Corporations Tax Return CT8 or CT23 Corporations Tax
+and Annual Return) (see Note 2 and Note 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 234
+Net capital losses (from line 719 of CT8 or CT23 × 50%) (see Note 2 and Note 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 236
+
+Amounts included in the calculation of the federal income tax in the previous tax year
+
+Total reserves deducted under paragraph 20(1)(l), (l.1), (m), (m.1), (n), or (o), subsection 32(1), section 61.4 or
+subparagraph 138(3)(a)(i), (ii), or (iv) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250
+One half of the total reserves deducted under subparagraph 40(1)(a)(iii) or 44(1)(e)(iii) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 252
+
+Other amounts
+
+Total adjusted cost base of partnership interests owned by the corporation, for the purposes
+of the Corporations Tax Act (Ontario), at the beginning of the tax year (see Note 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 260
+
+Gain from a "negative" adjusted cost base of a partnership interest under subsection 40(3)
+determined as if all partnership interests were disposed of at the beginning of the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 262
+
+Amount of farming income in the previous tax year specified under paragraph 28(1)(b)
+of the federal Act, as it applies for the purposes of the Corporations Tax Act (Ontario) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 264
+
+Total Ontario balance (total of lines 210 to 264) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 280
+Enter amount on line 340 in Part 3.
+
+Note 1: Enter "0" if the corporation was non-resident immediately before its transition time.
+Note 2: Enter "0" if control of the corporation was acquired at transition time.
+Note 3: Do not include the SR&ED expenditure pool earned before control of the corporation was last acquired.
+Note 4: Do not include losses that arose before control of the corporation was last acquired.
+Note 5: The adjusted Ontario SR&ED incentive balance under subsection 49(7) of the Taxation Act, 2007 (Ontario) is the total of
+
+          federal investment tax credits that:
+               ­ have been earned and are available without restriction to the corporation;
+               ­ are attributable to qualifying Ontario SR&ED expenditures; and
+               ­ have not been deducted under subsection 127(5) or (6) of the federal Act in a tax year ending prior to the start of the
+                 tax year ending immediately before the corporation's transition time.
+
+Note 6: The adjusted cost base of any particular partnership interest cannot be less than "0".
+
+                                                                                                                                                                                                      Page 3
+ Part 3 ­ Total federal balance and total Ontario balance at the end of the tax year                                                                                                Protected B when completed
+Total federal balance:
+Total federal balance (amount from line 180 in Part 1, or amount from line 330 in
+Part 3 of Schedule 506 for the previous tax year) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300
+
+Add:
+
+Amount from eligible amalgamation* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310
+Amount from eligible post-2008 winding-up* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 315
+Amount from eligible pre-2009 winding-up* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 320
+Amount from specified pre-2009 transfers* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 325
+
+Total federal balance at the end of the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                          330
+
+Total Ontario balance:                                                                                                                                                           
+                                                                                                                                                                                 
+Total Ontario balance (amount from line 280 in Part 2, or amount from line 370
+in Part 3 of Schedule 506 for the previous tax year) . . . . . . . . . . . . . . . . . . . . . . . . . . . 340
+
+Add:
+
+Amount from eligible amalgamation* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 350
+Amount from eligible post-2008 winding-up* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 355
+Amount from eligible pre-2009 winding-up* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 360
+Amount from specified pre-2009 transfers* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 365
+
+Total Ontario balance at the end of the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                          370
+
+Transitional balance at the end of the tax year (line 330 minus line 370) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 390
+
+If line 390 is positive, the corporation may be subject to a transitional tax debit. Complete Part 7 of this schedule.
+If line 390 is negative, the corporation may be eligible to claim a transitional tax credit. Complete Part 8 of this schedule.
+
+* See page 1 for definitions of eligible amalgamation, eligible post-2008 winding-up, eligible pre-2009 winding-up, and specified pre-2009
+   transfers. To calculate these amounts, you can use Schedule 507, Ontario Transitional Tax Debits and Credits Calculation.
+
+Part 4 ­ Election to reduce federal SR&ED expenditure pool
+
+The corporation may make this election if:                                                                                                                                                1 Yes  2 No
+ ­ the tax year includes January 1, 2009; or
+ ­ the previous tax year-end is deemed to be December 31, 2008, under subsection 249(3).
+
+Are you making an election under clause (b) of the definition of "I" in paragraph 1 of
+subsection 48(4) of the Taxation Act, 2007 (Ontario)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+
+If you answered no to the question at line 400, go to Part 5. If you answered yes to the question at line 400, complete the following calculation:
+
+Federal SR&ED expenditure pool closing balance at the end of the previous tax year (amount from line 124 in Part 1) . . . . . . . . . .                                                                B
+
+Deduct:
+
+Adjusted Ontario SR&ED incentive balance at the end of the previous tax year                                                                                                     1
+
+(amount from line 226 in Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ontario SR&ED expenditure pool closing balance at the end of the previous tax year                                                                                               2
+
+(amount from line 224 in Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+         Subtotal (amount 1 plus amount 2)                                                                                                                                                             C
+
+                                                                  Subtotal (amount B minus amount C) (if negative, enter "0")                                                                          D
+
+Federal balance before election (amount A from Part 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Deduct:
+
+Total Ontario balance (amount from line 280 in Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                                                                      Subtotal (if negative, enter "0")                                E
+
+Enter the lesser of amount D and amount E on line 170 in Part 1.
+
+                                                                                                                                                                                                 Page 4
+ Part 5 ­ Reference period and amortization period                                                                                                                                       Protected B when completed
+Reference period
+The reference period starts at the beginning of the corporation's first tax year ending after December 31, 2008, and
+ends on the earlier of:
+
+ ­ five calendar years after the time immediately before the start of the corporation's reference period; and
+ ­ December 31, 2013.
+
+Number of days in the corporation's reference
+period* (do not include February 29, 2008,
+and February 29, 2012) . . . . . . . . . . . . . . . . . . . . . . . . . . . 410
+
+* The number of days in the corporation's reference period is 1825 unless:
+
+     ­ the previous tax year-end is deemed to be December 31, 2008, under subsection 249(3). In this case, count the number of
+        days from the beginning of the 2009 tax year to December 31, 2013; or
+
+     ­ the corporation was incorporated or amalgamated after January 1, 2009. In this case, count the number of days from the
+        date of incorporation or date of amalgamation to December 31, 2013.
+
+Amortization period
+The amortization period starts at the beginning of the corporation's reference period and ends on the earlier of:
+
+     ­ the end of the corporation's reference period; and
+     ­ the early termination date as indicated under line 430.
+
+Number of days in the amortization period that are in
+the tax year** (do not include February 29, 2008, or
+February 29, 2012) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 420
+
+** The number of days in the amortization period that are in the tax year is the number of days in the tax year unless:
+
+     ­ the tax year-end is later than the end of the reference period. In this case, count the number of days from the beginning of the tax year to
+        the end of the reference period; or
+
+     ­ the corporation terminates the amortization period before the end of the tax year. In this case, count the number of days from the beginning
+        of the tax year to the day of early termination.
+
+Early termination of the amortization period
+
+The amortization period of the corporation usually coincides with the corporation's reference period. However, if the corporation's amortization
+period ends in the tax year and before the reference period ends, tick the applicable box below to indicate the reason for the early termination.
+
+        430 The corporation:
+
+   1  ­ ceases to have a PE in Ontario in the tax year for any reason other than an eligible amalgamation or eligible post-2008 winding-up.
+
+   2  ­ becomes exempt from tax under Part I of the federal Act immediately after the end of the tax year.
+
+   3  ­ elects under subsection 47(2) of the Taxation Act, 2007 (Ontario) to prepay the transitional tax debit.
+
+      Note: The Ontario Allocation Factor, calculated in Part 6, has to be at least 90% or the amount on
+
+      line 390 in Part 3 is not more than $10,000.
+
+   4  ­ does not object to early termination of the amortization period and accelerated payment of the transitional tax credit,
+
+      under subsection 46(3) of the Taxation Act, 2007 (Ontario).
+
+      Note: Amount T in Part 8 cannot be more than $1,000.
+
+If you ticked one of the above boxes:
+
+­ enter the date of the early termination, if the date is different from the tax year-end and you                                                                                                  Year  Month Day
+
+   ticked box 1 at line 430 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 435
+
+­  enter the number of days from the first day of the tax year to the end of the corporation's                                              440
+   reference period (do not include February 29, 2008, or February 29, 2012) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ Part 6 ­ Calculation of Ontario allocation factor (OAF)
+If the provincial or territorial jurisdiction entered on line 750 of the T2 return is "Ontario," enter "1" on line F.
+If the provincial or territorial jurisdiction entered on line 750 of the T2 return is "multiple," complete the following calculation and enter the result on line F:
+
+   Ontario taxable income*                          =
+
+      Taxable income**
+
+Ontario allocation factor (OAF) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   F
+
+* Enter the amount allocated to Ontario from column F in Part 1 of Schedule 5, Tax Calculation Supplementary ­ Corporations. If taxable income is nil,
+    calculate the amount in column F as if taxable income were $1,000.
+
+** Enter taxable income from line 360 or amount Z of the T2 return, whichever applies. If taxable income is nil, enter "1,000."
+
+                                                                                                                                                                                                                    Page 5
+Part 7 ­ Transitional tax debits                                                                                                                    Protected B when completed
+
+Complete this part if the amount on line 390 in Part 3 is positive.                                                                         G
+                                                                                                                                            H
+Amount from line 390 in Part 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  I
+
+Amount G × Ontario basic rate of tax*           % = ............................
+
+Amount H × OAF (from line F in Part 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+      Number of days from line 440                                                       = .............                                    J
+   (if applicable) or line 420 in Part 5
+
+  Number of days in the corporation's
+reference period from line 410 in Part 5
+
+Transitional tax debit before tax on elected reduced SR&ED pool (amount I multiplied by amount J) . . . . . . . . . . . . . . . . . . . . . . . .                                                  K
+
+Post-2008 SR&ED balance at the end of                                    460
+the year (amount HH from Part 12) . . . . . . . . . . . . . . . . . . .
+
+Federal SR&ED transitional balance at the
+end of the year (amount QQ from Part 14) . . . . . . . . . . . . . 470
+
+Tax on elected reduced SR&ED pool (the lesser of lines 460 and 470) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                               L
+Total transitional tax debits (amount K plus amount L) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    M
+Enter amount M on line 276 of Schedule 5.
+                                                                                                                                                                                                        V
+Part 8 ­ Transitional tax credits                                                                                                                                                                      W
+                                                                                                                                                                                                        X
+Complete this part if the amount on line 390 in Part 3 is negative.                                                                                                                                Page 6
+
+Amount C6 from Schedule 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     N
+
+Deduct:
+
+Ontario resource tax credit (from line 404 of Schedule 5) . . . . .
+
+Ontario tax credit for manufacturing and processing
+(from line 406 of Schedule 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ontario foreign tax credit (from line 408 of Schedule 5) . . . . . .
+
+Ontario credit union tax reduction (from line 410 of Schedule 5)                         
+
+                                                Subtotal                                                                                    O
+
+                                                Subtotal (amount N minus amount O)                                                          P
+
+     Number of days from line 420 in Part 5                                              = .............                                    Q
+
+Number of days in the tax year (do not include
+   February 29, 2008, or February 29, 2012)
+
+Ontario tax payable for purposes of the current year transitional tax credit (amount P multiplied by amount Q) . . . . . . . . . . 510
+
+Amount from line 390 in Part 3 (enter as a positive amount) . . . . . . . . . . . . . . . . . . . . . . . . . . . .                         R
+
+Amount R × Ontario basic rate of tax*           % = ............................                                                            S
+
+Amount S × OAF (from line F in Part 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            T
+
+      Number of days from line 440                                                       = .............                                    U
+   (if applicable) or line 420 in Part 5
+
+  Number of days in the corporation's
+reference period from line 410 in Part 5
+
+Current-year transitional tax credit (amount T multiplied by amount U) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 520
+
+Ontario tax payable for purposes of the unused transitional tax credit carryforward . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 530
+(line 510 minus line 520) (if negative, enter "0")
+
+Transitional tax credit:
+Lesser of amounts on line 510 and 520 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  Lesser of unused transitional tax credit available (amount Y from Part 9) and amount on line 530 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  Transitional tax credits (amount V plus amount W) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  Enter amount X on line 414 of Schedule 5.
+
+* Enter the rate calculated in Part 1 of Schedule 500, Ontario Corporation Tax Calculation.
+ Part 9 ­ Unused transitional tax credit                                                                                                              Protected B when completed
+                                                                                                                                           1
+Unused transitional tax credit carryforward from previous year
+(amount from line 580 of the previous year)* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Add:
+
+Unused transitional tax credit transferred from a predecessor corporation or a
+subsidiary on an eligible amalgamation or an eligible post-2008 winding-up* . . . . . . 560                                                2
+                                                                                                                                           
+Unused transitional tax credit available (amount 1 plus amount 2) . . . . . . . . . . . . . . . . . . . . .                                                                                                     Y
+
+Add:                                                                                                                                       
+
+Current-year transitional tax credit (amount from line 520 in Part 8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                               Z
+
+                                                                                                                                         Subtotal (amount Y plus amount Z)                                      3
+
+Deduct:
+
+Transitional tax credit applied (amount X from Part 8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      AA
+
+Unused transitional tax credit (available for later years) (amount 3 minus amount AA) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 580
+* Enter "0" if this is the first tax year ending after 2008.
+
+Complete parts 10 to 14 if the corporation or a predecessor made an election in Part 4 at the transition time.
+
+      Part 10 ­ Federal current SR&ED limit and federal current SR&ED deficit
+
+     Current SR&ED expenditures in the year under paragraph 37(1)(a) . . . . . . . . . . . . . . 610
+     Capital SR&ED expenditures in the year under paragraph 37(1)(b) . . . . . . . . . . . . . . 614
+     Repayment of assistance under paragraph 37(1)(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . 618
+     Investment tax credit recaptured under subsections 127(27), (29), and (34)
+     in the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 624
+
+                        Subtotal (total of lines 610 to 624)                                                                                                                                                    BB
+
+Deduct:
+
+Assistance under paragraph 37(1)(d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 638
+Investment tax credits deducted under paragraph 37(1)(e) . . . . . . . . . . . . . . . . . . . . . . 644
+
+                        Subtotal (line 638 plus line 644)                                                                                                                                                       CC
+
+Federal current SR&ED limit or federal current SR&ED deficit (amount BB minus amount CC) . . . . . . . . . . . . . . . . . . . . . 650
+If the amount on line 650 is positive, enter it on line II in Part 13.
+If the amount on line 650 is negative, enter it as a positive amount on line DD in Part 12.
+
+Part 11 ­ Relevant OAF
+
+Enter on line 660 whichever of the following amounts is greatest:
+
+­ the corporation's OAF for the tax year that includes its transition time                                                                 1
+
+(from line F in Part 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+­ the greatest of the corporation's OAFs for a tax year ending in 2006, 2007, and 2008                                                     2
+   as determined under subsection 12(1) of the Corporations Tax Act (Ontario) . . . . . . . .
+
+­ the greatest of the weighted OAFs* of the corporation and its                                                                            3
+
+designated corporations** for 2006, 2007, and 2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Relevant OAF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 660  %
+
+* The weighted OAF for two or more corporations for their tax years ending in 2006, 2007, or 2008 is the total of the following for each corporation:
+
+     ­ the corporation's OAF as determined under subsection 12(1) of the Corporations Tax Act (Ontario) for the tax year multiplied by the
+        corporation's and its share of partnerships' qualified Ontario SR&ED expenditures in the tax year, divided by the total of all the corporations'
+        and their shares of partnerships' qualified Ontario SR&ED expenditures in the tax year.
+
+  Qualified Ontario SR&ED expenditure is defined in section 11.2 of the Corporations Tax Act (Ontario).
+
+** A designated corporation in respect of a particular corporation is:
+     1) a corporation that amalgamated with the particular corporation under section 87;
+     2) a corporation that wound up into the particular corporation under subsection 88(1); or
+     3) a designated corporation to a corporation identified in 1) or 2).
+
+                                                                                                                                                                                                                Page 7
+Part 12 ­ Post-2008 SR&ED balance                                                                                                                                            Protected B when completed
+
+Federal current SR&ED deficit for the year (amount from line 650 in Part 10, if negative) (enter as a positive amount) . . . . . . . . . .                                        DD
+
+SR&ED expenditure amount deducted in the year under subsection 37(1) . . . . . . . . 670
+
+Deduct:
+
+Cumulative post-2008 SR&ED limit at the end of the year (amount LL from Part 13) 675                                                                                
+                                                                                                                                                                    
+         Subtotal (line 670 minus line 675) (if negative, enter "0")                                                                                                              EE
+                                                                                                                                                                    
+                                                                        Subtotal (amount DD plus amount EE)                                                                       FF
+
+                                                                                                                       Amount FF × 14% =                                          GG
+
+Post-2008 SR&ED balance at the end of the year (amount GG multiplied by line 660 from Part 11) . . . . . . . . . . . . . . . . . . . . . . .                                      HH
+
+Enter amount HH on line 460 in Part 7.
+
+Part 13 ­ Cumulative post-2008 SR&ED limit at the end of the year
+
+Federal current SR&ED limit for the year (amount from line 650 in Part 10, if positive) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    II
+Total of all federal SR&ED limits from previous tax years ending after December 31, 2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 700                                JJ
+
+                                                                                                                                    Subtotal (line II plus line 700)                  LL
+                                                                                                                                                                                      OO
+Total of all amounts deducted under subsection 37(1) for                                                                                                                              PP
+previous tax years ending after December 31, 2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . 705                                                                           QQ
+                                                                                                                                                                                  Page 8
+Total of all transitional tax debits on elected reduced
+SR&ED pool calculated under subsection 48(3) of the
+Taxation Act, 2007 (Ontario) in the previous years
+(total of line L in Part 7 for previous years) . . . . . . . . . 710
+
+Deduct:
+
+Amounts included in line 710 that are
+reasonably attributable to the federal
+current SR&ED deficit for the year . . . . . . . . . . . . . . . . 715
+
+                         Subtotal (line 710 minus line 715) 720
+
+                         Line 720                                       = ..........                                                                                KK
+Relevant OAF (from line 660 in Part 11) × 14%
+
+                                               Subtotal (line 705 minus amount KK)                                                                                           730
+
+Cumulative post-2008 SR&ED limit at the end of the year (amount JJ minus line 730) (if negative, enter "0") . . . . . . . . . . . . . .
+Enter amount LL on line 675 in Part 12.
+
+Part 14 ­ Federal SR&ED transitional balance at the end of the year
+
+Amount from line 170 in Part 1 (see Note) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 735                                               MM
+
+Relevant OAF (from line 660) (see Note) multiplied by amount MM . . . . . . . . . . . . . . . . . . .                                                               NN
+
+                                                                        Amount NN × 14% =
+
+Federal SR&ED transitional balance transferred on an                                                                                                                         740
+eligible amalgamation or an eligible post-2008 winding-up . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                                                       Subtotal (amount OO plus line 740)
+
+Deduct:
+
+Total of all transitional tax debits on elected reduced SR&ED pool calculated under subsection 48(3) of
+the Taxation Act, 2007 (Ontario) in the previous years (total of line L in Part 7 for previous years) . . . . . . . . . . . . . . . . . . . . . . . 750
+
+Federal SR&ED transitional balance at the end of the year (amount PP minus line 750) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Enter amount QQ on line 470 in Part 7.
+
+Note: For tax years ending after 2009;
+­ enter the amount from line 170 from the 2009 tax year on line 735.
+­ use the relevant OAF from the 2009 tax year to calculate amount NN.
+

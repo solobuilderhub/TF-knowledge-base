@@ -1,0 +1,37 @@
+page	part	field	line	kind	digits	speak
+1	Info_sf	Info_inpt-Name		text		Corporation's name.
+1	Info_sf	Info_inpt-Number		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Info_sf/Info_grp-YrEnd	Info_grp_inpt-Field		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P1/GroupA	P1_Frm_AmountA_inpt		numeric	12	Amount A. Credit at the end of the preceding taxation year.
+1	Subform_P1/Group104	P1_Frm_Ln104_inpt	104	numeric	12	Line 104. Credit expired after 10 tax years.
+1	Subform_P1/Group105	P1_Frm_Ln105_inpt1	105	numeric	12	Line 105. Credit at the beginning of the tax year, amount A minus line 104. Instance 1.
+1	Subform_P1/Group105	P1_Frm_AmountB_inpt	105	numeric	12	Line 105. Instance 2.
+1	Subform_P1/Group110	P1_Frm_Ln110_inpt	110	numeric	12	Line 110. Credit transferred on an amalgamation or the wind-up of a subsidiary.
+1	Subform_P1/GroupC	P1_Frm_Amountc_inpt1		numeric	12	Amount B. Total credit available for the tax year, line 105 plus line 110.
+1	Subform_P1/Group160	P1_Frm_Ln160_inpt	160	numeric	12	Line 160. Non-refundable tax credit claimed in the current year. Enter on line 607 of Schedule 5.
+1	Subform_P1/Group200	P1_Frm_Ln200_inpt1	200	numeric	12	Line 200. Closing balance - credit available for carryforward, amount B minus line 160.
+1	Subform_P2/Part2_10th_Tax_Year_Ending_Date	Part3_10th_Tax_Year_Ending_Date_Field		text		Year of origin. 10th previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P2	P2_ten		numeric	12	Credit available for carryforward . 10th previous tax year ending on.
+1	Subform_P2/Part2_9th_Tax_Year_Ending_Date	Part2_9th_Tax_Year_Ending_Date_Field		text		Year of origin. 9th previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P2	Part2_Nine		numeric	12	Credit available for carryforward. 9th previous tax year ending on.
+1	Subform_P2/Part2_8th_Tax_Year_Ending_Date	Part2_8th_Tax_Year_Ending_Date_Field		text		Year of origin. 8th previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P2	Part2_Eight		numeric	12	Credit available for carryforward. 8th previous tax year ending on.
+1	Subform_P2/Part2_7th_Tax_Year_Ending_Date	Part2_7th_Tax_Year_Ending_Date_Field		text		Year of origin. 7th previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P2	Part2_Seven		numeric	12	Credit available for carryforward. 7th previous tax year ending on.
+1	Subform_P2	Part2_6th_Tax_Year_Ending_Date_Field		text		Year of origin. 6th previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P2	Part2_Six		numeric	12	Credit available for carryforward. 6th previous tax year ending on.
+1	Subform_P2/Part2_5th_Tax_Year_Ending_Date	Part2_5th_Tax_Year_Ending_Date_Field		text		Year of origin. 5th previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P2	Part2_five		numeric	12	Credit available for carryforward. 5th previous tax year ending on.
+1	Subform_P2/Part2_4th_Tax_Year_Ending_Date	Part2_4th_Tax_Year_Ending_Date_Field		text		Year of origin. 4th previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P2	Part2_forth		numeric	12	Credit available for carryforward. 4th previous tax year ending on.
+1	Subform_P2/Part2_3rd_Tax_Year_Ending_Date	Part2_3rd_Tax_Year_Ending_Date_Field		text		Year of origin. 3rd previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P2	Part2_third		numeric	12	Credit available for carryforward. 3rd previous tax year ending on.
+1	Subform_P2/Part2_2nd_Tax_Year_Ending_Date	Part2_2nd_Tax_Year_Ending_Date_Field		text		Year of origin. 2nd previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P2	Part2_second		numeric	12	Credit available for carryforward. 2nd previous tax year ending on.
+1	Subform_P2/Part2_1st_Tax_Year_Ending_Date	Part2_1st_Tax_Year_Ending_Date_Field		text		Year of origin. 1st previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P2	Part2_1st		numeric	12	Credit available for carryforward. 1st previous tax year ending on.
+1	Subform_P2/Part2_Current_Tax_Year_Ending_Date	Part2_Current_Tax_Year_Ending_Date_Field		text		Year of origin. Current tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P2	Part2_year_ending		numeric	12	Credit available for carryforward. Current tax year ending on.
+1	Subform_P2/Total_Part2	P2_Frm_Ln200_inpt1		numeric	12	Credit available for carryforward. Total, equals line 200.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		

@@ -1,39 +1,44 @@
-# CRA schedule reference PDFs — validation source
+# CRA forms — the primary documents
 
-> **Adding more forms:** see [`WANTED.md`](WANTED.md) for the prioritised
-> download list and why it has to be done by hand — canada.ca does not answer
-> automated fetches from this machine (curl times out outright; a scripted
-> browser wedges).
+The CRA forms the engine is checked against, exactly as CRA publishes them, and
+everything derived from them.
 
-Blank official CRA T2 schedule forms, used to validate TaxFoundry's engine line-by-line.
-Sourced from the CRA fixture set (identical to the `canada.ca/.../formspubs` PDFs; the
-canada.ca CDN 403s automated fetches, so these were pulled from the mirror and diffed
-against the on-form CRA revision codes below).
-
-| File | Form | Rev | Validated against engine |
-|---|---|---|---|
-| `T2SCH01-net-income-for-tax.pdf` | Schedule 1 — Net income for tax | — | `schedule1.ts` |
-| `T2SCH06-capital-gains.pdf` | Schedule 6 — Dispositions of capital property | — | `schedule6-capital-gains.ts` |
-| `T2SCH08-cca.pdf` | Schedule 8 — CCA | — | `schedule8.ts` |
-| `T2SCH13-continuity-of-reserves.pdf` | Schedule 13 — Continuity of reserves | E (22) | `schedule13-reserves.ts` ✅ |
-| `T2SCH33-taxable-capital.pdf` | Schedule 33 — Taxable capital (large corps) | E (15) | `schedule33-taxable-capital.ts` ✅ |
+**What is held, at which revision, and how far each form has got** is not
+listed here any more: it is generated into [`../../forms/STATUS.md`](../../forms/STATUS.md)
+from this directory, so it cannot fall behind. The pipeline and the rules for
+adding or replacing a form are in [`../../forms/README.md`](../../forms/README.md).
 
 ## Layout
 
 ```
 pdf/         the primary documents, exactly as CRA publishes them.
-             Never written to by any script.
-extracted/   everything derived from them — <form>.layout.txt and
-             <form>.lines.tsv. Regenerate freely; nothing here is hand-edited.
-tools/       the pipeline.
+             Written only by tools/fetch-form.sh, and never over an existing file.
+extracted/   everything derived from them. Regenerate freely; never hand-edited.
+               <form>.layout.txt   pdftotext -layout
+               <form>.lines.tsv    line, caption: the page read as text
+               <form>.fields.tsv   the fillable form's own field list, with
+                                   CRA's description of each box
+catalog/     CRA's own list of forms (what exists, what was last updated)
+tools/       the extractors and the fetcher
 ```
 
-Run the pipeline from `tools/`:
+Run everything with one command, from the research root:
 
 ```bash
-cd research/sources/cra-forms/tools
-python extract-lines.py       # pdf/ -> extracted/
-python generate-captions.py   # extracted/ -> the engine's generated captions
+pip install -r forms/requirements.txt      # once: PyMuPDF
+python forms/run.py                        # every form
+python forms/run.py T2SCH03                # one form
+```
+
+The individual tools, when one step is wanted on its own:
+
+```bash
+cd sources/cra-forms/tools
+./fetch-form.sh t2sch9 ../pdf/T2SCH09-related-associated.pdf
+python extract-lines.py       # pdf/ -> extracted/*.lines.tsv
+python extract-jacket.py      # the T2 jacket, which needs its own reader
+python extract-xfa.py         # pdf/ -> extracted/*.fields.tsv
+python generate-captions.py   # extracted/ -> ca-tax's generated captions
 python check-quality.py       # a verdict per form, before authoring anything
 python extract-parts.py T2SCH31 --map   # a form's parts, ready to paste
 ```

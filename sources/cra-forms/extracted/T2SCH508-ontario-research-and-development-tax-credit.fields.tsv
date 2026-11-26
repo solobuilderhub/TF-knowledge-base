@@ -1,0 +1,174 @@
+page	part	field	line	kind	digits	speak
+1		Corporations_Name		text		
+1		BusinessNumber		text		Business Number. 9 digits, 2 letters, and 4 digits.
+1	Tax_Year_End_Date	Tax_Year_End_Date_Field		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_sf/Amount_A_sf	Field	100	numeric	12	Line 100. Amount A. Total eligible expenditures incurred by the corporation in Ontario in the tax year.
+1	Part1_sf/Amount_B_sf	Field	105	numeric	12	Line 105. Amount B. Government assistance, non-government assistance, or a contract payment for eligible expenditures.
+1	Part1_sf/Amount_C_sf	Field		numeric	12	Amount C. Net eligible expenditures for the tax year. Amount A minus amount B. If negative, enter 0.
+1	Part1_sf/Amount_D_sf	Field	110	numeric	12	Line 110. Amount D. Eligible expenditures transferred to the corporation by another corporation.
+1	Part1_sf/Amount_E_sf	Field1		numeric	12	Amount E. Subtotal. Amount C plus amount D. Instance 1.
+1	Part1_sf/Amount_E_sf	Field2		numeric	12	Amount E. Subtotal. Amount C plus amount D. Instance 2.
+1	Part1_sf/Amount_F_sf	Field	115	numeric	12	Line 115. Amount F. Eligible expenditures the corporation transferred to another corporation.
+1	Part1_sf/Amount_G_sf	Field	120	numeric	12	Line 120. Amount G. Ontario scientific research and experimental development expenditure pool. Amount E minus amount F. If negative, enter 0.
+1	Part2/Amount_H_sf	Field1	210	numeric	12	Line 210. Repayments for tax years that end before June 1, 2016.
+1	Part2/Amount_H_sf	Field2	215	numeric	12	Line 215. Amount H. Amount from Line 210 multiplied by 4.5%.
+1	Part2/Percentage1	DayInYear	240	numeric	3	Line 240. Number of days in tax year before June 1, 2016.
+1	Part2/Percentage1	Year	241	numeric	3	Line 241. Number of days in the tax year.
+1	Part2/Percentage1	Part3_Amount_1_Field		numeric		Percentage 1. Line 240 divided by line 241, multiplied by 4.5%.
+1	Part2/Percentage2	DayInYear	242	numeric	3	Line 242. Number of days in tax year after May 31, 2016.
+1	Part2/Percentage2	Year	243	numeric	3	Line 243. Number of days in the tax year.
+1	Part2/Percentage2	Part3_Amount_1_Field		numeric		Percentage 2. Line 242 divided by line 243, multiplied by 3.5%
+1	Part2/Percentage3	Part3_Amount_1_Field		numeric		Percentage 3. Subtotal. Percentage 1 plus percentage 2. Instance 1.
+1	Part2/Amount_J_sf	Field211	211	numeric	12	Line 211. Repayments for a tax year that ends on or after June 1, 2016, and includes May 31, 2016.
+1	Part2/Amount_J_sf	Part3_Amount_1_Field		numeric		Percentage 3. Instance 2.
+1	Part2/Amount_J_sf	Field2	216	numeric	12	Line 216. Amount I. Amount from Line 211 multiplied by Percentage 3.
+2	Part2/Amount_J_sf	Field1	212	numeric	12	Line 212. Repayments for tax years that start after May 31, 2016.
+2	Part2/Amount_J_sf	Field2	217	numeric	12	Line 217 Amount J. Amount from Line 212 multiplied by 3.5%.
+2	Part2/Amount_K_sf	Field1	220	numeric	12	Line 220. Repayments made in the tax year of government or non-government assistance or contract payments that reduced eligible expenditures for first term or second term shared-use equipment acquired before 2014.
+2	Part2/Amount_K_sf	Field2		numeric	12	Amount from Line 220 multiplied by ¼.
+2	Part2/Amount_K_sf	Field3	225	numeric	12	Line 225. Amount K. Amount from Line 220 multiplied by ¼, multiplied by 4.5%.
+2	Part2/Amount_L	Part3_Line325_Box	229	numeric	12	Line 229. Amount L. Eligible repayments. Total of amounts H to K.
+2	Part3_sf/Amount_M_sf	Field1		numeric	12	Ontario Scientific Research and Experimental Development expenditure pool. Amount G in Part 1.
+2	Part3_sf/Amount_M_sf	Field2	200	numeric	12	Line 200. Amount M. Ontario Scientific Research and Experimental Development expenditure pool. Amount G in Part 1 multiplied by 4.5%.
+2	Part3_sf/Amount_N_sf	Field2	205	numeric	12	Line 205. Amount N. Ontario research and development tax credit allocated to the corporation by a partnership of which it is a member (other than a specified member) for a fiscal period that ends in the corporation's tax year.
+2	Part3_sf/Amount_O	Part3_O_Box		numeric	12	Amount O. Eligible repayments. From amount L in Part 2.
+2	Part3_sf/Amount_P_sf	Field	230	numeric	12	Line 230. Amount P. Current part of the ORDTC for tax years that end before June 1, 2016. Total of amounts M to O.
+2	Part3_sf/Percentage4	DayInYear		numeric	3	Number of days in tax year before June 1, 2016.
+2	Part3_sf/Percentage4	Year		numeric	3	Number of days in the tax year.
+2	Part3_sf/Percentage4	Part3_Amount_1_Field		numeric		Percentage 4. Number of days in the tax year before June 1, 2016. Divided by Number of days in the tax year. Multiplied by 4.5%.
+2	Part3_sf/Percentage5	DayInYear		numeric	3	Number of days in tax year after May 31, 2016.
+2	Part3_sf/Percentage5	Year		numeric	3	Number of days in the tax year.
+2	Part3_sf/Percentage5	Part3_Amount_1_Field		numeric		Percentage 5. Number of days in the tax year after May 31, 2016. Divided by Number of days in the tax year. Multiplied by 3.5%.
+2	Part3_sf/Percentage6	Part3_Amount_1_Field		numeric		Percentage 6. Subtotal. Percentage 4 plus percentage 5. Instance 1.
+2	Part3_sf/Amount_Q_sf	Field1		numeric	12	Ontario Scientific Research and Experimental Development expenditure pool. Amount G in Part 1.
+2	Part3_sf/Amount_Q_sf	Part3_Amount_1_Field		numeric		Percentage 6. Instance 2.
+2	Part3_sf/Amount_Q_sf	Field2	201	numeric	12	Line 201. Amount Q. Ontario Scientific Research and Experimental Development expenditure pool. Amount G in Part 1 multiplied by Percentage 6.
+2	Part3_sf/Amount_R_sf	Field2	206	numeric	12	Line 206. Amount R. Ontario research and development tax credit allocated to the corporation by a partnership of which it is a member (other than a specified member) for a fiscal period that ends in the corporation's tax year.
+2	Part3_sf/Amount_S	Part3_Line_Box		numeric	12	Amount S. Eligible repayments. From amount L in Part 2.
+2	Part3_sf/Amount_T_sf	Field	231	numeric	12	Line 231. Amount T. Part of the ORDTC for tax years that end on or after June 1, 2016, and includes May 31, 2016. Total of amounts Q to S.
+2	Part3_sf/Amount_U_sf	Field1		numeric	12	Ontario scientific research and experimental development expenditure pool. Amount G in Part 1.
+2	Part3_sf/Amount_U_sf	Field2	202	numeric	12	Line 202. Amount U. Ontario Scientific Research and Experimental Development expenditure pool. Amount G in Part 1 multiplied by 3.5%.
+2	Part3_sf/Amount_V_sf	Field2	207	numeric	12	Line 207. Amount V. Ontario research and development tax credit allocated to the corporation by a partnership of which it is a member (other than a specified member) for a fiscal period that ends in the corporation's tax year.
+2	Part3_sf/Amount_W	Part3_Line325_Box		numeric	12	Amount W. Eligible repayments. From amount L in Part 2.
+2	Part3_sf/Amount_X_sf	Field	232	numeric	12	Line 232. Amount X. The ORDTC for tax years that start after May 31, 2016. Total of amounts U to W.
+3	Part4_sf/Amount_Y_sf	Field		numeric	12	Amount Y. Ontario research and development tax credit balance at the end of the previous tax year.
+3	Part4_sf/Amount_Z_sf	Field	300	numeric	12	Line 300. Amount Z. Ontario research and development tax credit expired after 20 tax years.
+3	Part4_sf/Amount_AA_sf	Field	305	numeric	12	Line 305. Amount AA. Ontario research and development tax credit at the beginning of the tax year. Amount Y minus amount Z.
+3	Part4_sf/Amount_BB_sf	Field	310	numeric	12	Line 310. Amount BB. Ontario research and development tax credit transferred to the corporation on amalgamation or windup.
+3	Part4_sf/Amount_CC_sf	Field		numeric	12	Amount CC. Current part of Ontario research and development tax credit. amount P, T or X in Part 3 whichever applies.
+3	Part4_sf/Line_315_sf/RadioButtonGroup	Option1	315	check		Line 315. Are you waiving all or part of the current part of the Ontario research and development tax credit? Yes. If yes enter the amount of the tax credit waived on line 320.
+3	Part4_sf/Line_315_sf/RadioButtonGroup	Option2	315	check		Line 315. Are you waiving all or part of the current part of the Ontario research and development tax credit? No. If no enter 0 on line 320.
+3	Part4_sf/Amount_DD_sf	Field	320	numeric	12	Line 320. Amount DD. Waiver of the current part of the ORDTC.
+3	Part4_sf/Amount_EE_sf	Field1		numeric	12	Amount EE. Subtotal. Amount CC minus amount DD. Instance 1.
+3	Part4_sf/Amount_EE_sf	Field2		numeric	12	Amount EE. Instance 2.
+3	Part4_sf/Amount_FF_sf	Field1		numeric	12	Amount FF. Ontario research and development tax credit available for deduction. Total of amounts AA, BB and EE. Instance 1.
+3	Part4_sf/Amount_FF_sf	Field2		numeric	12	Amount FF. Instance 2.
+3	Part4_sf/Amount_GG_sf	Field		numeric	12	Amount GG. Ontario research and development tax credit claimed. Enter amount GG on line 416 on page 5 of Schedule 5, Tax Calculation Supplementary – Corporations.
+3	Part4_sf/Amount_HH_sf	Field		numeric	12	Amount HH. ORDTC carried back to a previous tax years. From Part 5.
+3	Part4_sf/Amount_II_sf	Field1		numeric	12	Amount II. Subtotal. Amount GG plus amount HH. Instance 1.
+3	Part4_sf/Amount_II_sf	Field2		numeric	12	Amount II. Subtotal. Amount GG plus amount HH. Instance 2.
+3	Part4_sf/Amount_JJ_sf	Field	325	numeric	12	Line 325. Amount JJ. Ontario research and development tax credit balance at the end of the tax year. Amount FF minus amount II.
+3	Part5_sf/Line_901_sf	Date	901	text		Line 901. First previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part5_sf/Line_901_sf	Field	901	numeric	12	Line 901. First previous tax year credit to be applied.
+3	Part5_sf/Line_902_sf	Date	902	text		Line 902. Second previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part5_sf/Line_902_sf	Field	902	numeric	12	Line 902. Second previous tax year credit to be applied.
+3	Part5_sf/Line_903_sf	Date	903	text		Line 903. Third previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part5_sf/Line_903_sf	Field	903	numeric	12	Line 903. Third previous tax year credit to be applied.
+3	Part5_sf/Total_sf	Field		numeric	12	Total credit to be applied. Total of amount 901 to 903. Enter at amount HH in Part 4.
+4	Part6_sf/Tax_year_of_origin_1_sf	Date		text		Tax year of origin. Earliest tax year first. twentieth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_1_sf	Field		numeric	12	Tax year of origin. Credit available. Twentieth previous tax year.
+4	Part6_sf/Tax_year_of_origin_2_sf	Date		text		Tax year of origin 2. Nineteenth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_2_sf	Field		numeric	12	Tax year of origin. Credit available. Nineteenth previous tax year.
+4	Part6_sf/Tax_year_of_origin_3_sf	Date		text		Tax year of origin. Eighteenth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_3_sf	Field		numeric	12	Tax year of origin. Credit available. Eighteenth previous tax year.
+4	Part6_sf/Tax_year_of_origin_4_sf	Date		text		Tax year of origin. Seventeenth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_4_sf	Field		numeric	12	Tax year of origin. Credit available. Seventeenth previous tax year.
+4	Part6_sf/Tax_year_of_origin_5_sf	Date		text		Tax year of origin. Sixteenth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_5_sf	Field		numeric	12	Tax year of origin. Credit available. Sixteenth previous tax year.
+4	Part6_sf/Tax_year_of_origin_6_sf	Date		text		Tax year of origin. Fifteenth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_6_sf	Field		numeric	12	Tax year of origin. Credit available. Fifteenth previous tax year.
+4	Part6_sf/Tax_year_of_origin_7_sf	Date		text		Tax year of origin. Fourteenth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_7_sf	Field		numeric	12	Tax year of origin. Credit available. Fourteenth previous tax year.
+4	Part6_sf/Tax_year_of_origin_8_sf	Date		text		Tax year of origin. Thirteenth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_8_sf	Field		numeric	12	Tax year of origin. Credit available. Thirteenth previous tax year.
+4	Part6_sf/Tax_year_of_origin_9_sf	Date		text		Tax year of origin. Twelfth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_9_sf	Field		numeric	12	Tax year of origin. Credit available. Twelfth previous tax year.
+4	Part6_sf/Tax_year_of_origin_10_sf	Date		text		Tax year of origin. Eleventh previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_10_sf	Field		numeric	12	Tax year of origin. Credit available. Eleventh previous tax year.
+4	Part6_sf/Tax_year_of_origin_11_sf	Date		text		Tax year of origin. Tenth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_11_sf	Field		numeric	12	Tax year of origin. Credit available. Tenth previous tax year.
+4	Part6_sf/Tax_year_of_origin_12_sf	Date		text		Tax year of origin. Ninth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_12_sf	Field		numeric	12	Tax year of origin. Credit available. Ninth previous tax year.
+4	Part6_sf/Tax_year_of_origin_13_sf	Date		text		Tax year of origin. Eighth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_13_sf	Field		numeric	12	Tax year of origin. Credit available. Eighth previous tax year.
+4	Part6_sf/Tax_year_of_origin_14_sf	Date		text		Tax year of origin. Seventh previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_14_sf	Field		numeric	12	Tax year of origin. Credit available. Seventh previous tax year.
+4	Part6_sf/Tax_year_of_origin_15_sf	Date		text		Tax year of origin. Sixth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_15_sf	Field		numeric	12	Tax year of origin. Credit available. Sixth previous tax year.
+4	Part6_sf/Tax_year_of_origin_16_sf	Date		text		Tax year of origin. Fifth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_16_sf	Field		numeric	12	Tax year of origin. Credit available. Fifth previous tax year.
+4	Part6_sf/Tax_year_of_origin_17_sf	Date		text		Tax year of origin. Fourth previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_17_sf	Field		numeric	12	Tax year of origin. Credit available. Fourth previous tax year.
+4	Part6_sf/Tax_year_of_origin_18_sf	Date		text		Tax year of origin. Third previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_18_sf	Field		numeric	12	Tax year of origin. Credit available. Third previous tax year.
+4	Part6_sf/Tax_year_of_origin_19_sf	Date		text		Tax year of origin. Second previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_19_sf	Field		numeric	12	Tax year of origin. Credit available. Second previous tax year.
+4	Part6_sf/Tax_year_of_origin_20_sf	Date		text		Tax year of origin. First previous tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_20_sf	Field		numeric	12	Tax year of origin. Credit available. First previous tax year.
+4	Part6_sf/Tax_year_of_origin_Current_tax_year_sf	Date		text		Tax year of origin. Current tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sf/Tax_year_of_origin_Current_tax_year_sf	Field		numeric	12	Tax year of origin. Credit available. Current tax year.
+4	Part6_sf/Total_sf	Field		numeric	12	Total credit available. Equals line 325 in Part 4.
+4	Part7_sf/Table/Row1	Cell_2			12	
+4	Part7_sf/Table/Row1	Cell_3			12	
+4	Part7_sf/Table/Row1	Cell_4			12	
+4	Part7_sf/Table/Row2	Cell_2			12	
+4	Part7_sf/Table/Row2	Cell_3			12	
+4	Part7_sf/Table/Row2	Cell_4			12	
+4	Part7_sf/Table/Row3	Cell_2			12	
+4	Part7_sf/Table/Row3	Cell_3			12	
+4	Part7_sf/Table/Row3	Cell_4			12	
+4	Part7_sf/Table/Row4	Cell_2			12	
+4	Part7_sf/Table/Row4	Cell_3			12	
+4	Part7_sf/Table/Row4	Cell_4			12	
+4	Part7_sf/Table/Row5	Cell_2			12	
+4	Part7_sf/Table/Row5	Cell_3			12	
+4	Part7_sf/Table/Row5	Cell_4			12	
+4	Part7_sf/SubTotal	Field		numeric	12	Amount NN. Total of column MM. Enter at amount WW in Part 8.
+5	Part7cont/Table1/Row1	Cell_2			12	
+5	Part7cont/Table1/Row1	Cell_3			12	
+5	Part7cont/Table1/Row1	Cell_4			12	
+5	Part7cont/Table1/Row2	Cell_2			12	
+5	Part7cont/Table1/Row2	Cell_3			12	
+5	Part7cont/Table1/Row2	Cell_4			12	
+5	Part7cont/Table1/Row3	Cell_2			12	
+5	Part7cont/Table1/Row3	Cell_3			12	
+5	Part7cont/Table1/Row3	Cell_4			12	
+5	Part7cont/Table1/Row4	Cell_2			12	
+5	Part7cont/Table1/Row4	Cell_3			12	
+5	Part7cont/Table1/Row4	Cell_4			12	
+5	Part7cont/Table1/Row5	Cell_2			12	
+5	Part7cont/Table1/Row5	Cell_3			12	
+5	Part7cont/Table1/Row5	Cell_4			12	
+5	Part7cont/Table2/Row1	Cell_2			12	
+5	Part7cont/Table2/Row1	Cell_3			12	
+5	Part7cont/Table2/Row1	Cell_4			12	
+5	Part7cont/Table2/Row2	Cell_2			12	
+5	Part7cont/Table2/Row2	Cell_3			12	
+5	Part7cont/Table2/Row2	Cell_4			12	
+5	Part7cont/Table2/Row3	Cell_2			12	
+5	Part7cont/Table2/Row3	Cell_3			12	
+5	Part7cont/Table2/Row3	Cell_4			12	
+5	Part7cont/Table2/Row4	Cell_2			12	
+5	Part7cont/Table2/Row4	Cell_3			12	
+5	Part7cont/Table2/Row4	Cell_4			12	
+5	Part7cont/Table2/Row5	Cell_2			12	
+5	Part7cont/Table2/Row5	Cell_3			12	
+5	Part7cont/Table2/Row5	Cell_4			12	
+5	Part7cont/Amount_II_sf	Field		numeric	12	Amount UU. Total of column TT. Enter at amount XX in Part 8.
+5	Part7cont/Amount_VV	Field	760	numeric	12	Line 760. Amount VV. Corporate partner's share of the excess of Ontario research and development tax credit. Enter at amount ZZ in Part 8.
+5	Part9_sf/Amount_WW_sf	Field		numeric	12	Amount WW. Recaptured federal investment tax credit for Calculation 1. Amount from amount NN from Part 7.
+5	Part9_sf/Amount_XX_sf	Field		numeric	12	Amount XX. Recaptured federal investment tax credit for Calculation 2 Amount from amount UU from Part 7.
+5	Part9_sf/Amount_YY_sf	Field1		numeric	12	Amount WW plus amount XX.
+5	Part9_sf/Amount_YY_sf	Field		numeric	12	Amount YY. Amount WW plus amount XX multiplied by 23.56%.
+5	Part9_sf/Amount_ZZ_sf	Field		numeric	12	Amount ZZ. Corporate partner's share of the excess of Ontario research and development tax credit for Calculation 3. Amount VV from Part 7.
+5	Part9_sf/Amount_AAA_sf	Field		numeric	12	Amount AAA. Recapture of Ontario research and development tax credit. Amount YY plus amount ZZ. Enter amount AAA on line 277 on page 5 of Schedule 5.

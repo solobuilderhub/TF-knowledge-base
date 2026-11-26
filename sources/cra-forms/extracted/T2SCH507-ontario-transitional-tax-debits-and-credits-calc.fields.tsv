@@ -1,0 +1,36 @@
+page	part	field	line	kind	digits	speak
+1		Pg1_Corporation_Name		text		
+1		Pg1_BusinessNumber		text		Business Number. 9 digits, 2 letters, and 4 digits.
+1	TaxYearEndDate	Pg1_TaxYearEndDate_Comb		text		Tax year end date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Pg1_Part1_Sub	Pg1_Part1_Lead1_Amount		numeric	12	Amount A. Total federal balance of the predecessor corporation immediately before the eligible amalgamation.
+1	Pg1_Part1_Sub	Pg1_Part1_Amount1		numeric	3	Part 1. Days in the reference period of the predecessor corporation before the eligible amalgamation.
+1	Pg1_Part1_Sub	Pg1_Part1_Amount2		numeric	3	Part 1. Total number of days in the reference period of the predecessor corporation.
+1	Pg1_Part1_Sub	Pg1_Part1_Amount3		numeric		Part 1. Amount B. Days in the reference period of the predecessor corporation before the eligible amalgamation divided by total number of days in the reference period of the predecessor corporation.
+1	Pg1_Part1_Sub	Pg1_Part1_C_Amount		numeric		Amount C. 1 minus amount B.
+1	Pg1_Part1_Sub	Pg1_Part1_Lead2_Amount		numeric	12	Amount D. Eligible amalgamation. Federal. Amount A multiplied by amount C. Enter amount D on line 310 of Schedule 506.
+1	Pg1_Part2_Sub	Pg1_Part1_Lead2_Amount		numeric	12	Amount E. Total Ontario balance of the predecessor corporation immediately before the eligible amalgamation.
+1	Pg1_Part2_Sub	Pg1_Part2_Amount1		numeric	3	Part 2. Days in the reference period of the predecessor corporation before the eligible amalgamation.
+1	Pg1_Part2_Sub	Pg1_Part2_Amount2		numeric	3	Part 2. Total number of days in the reference period of the predecessor corporation.
+1	Pg1_Part2_Sub	Pg1_Part2_Amount3		numeric		Part 2. Amount F. Days in the reference period of the predecessor corporation before the eligible amalgamation divided by total number of days in the reference period of the predecessor corporation.
+1	Pg1_Part2_Sub	Pg1_Part2_G_Amount		numeric		Amount G. 1 minus amount F.
+1	Pg1_Part2_Sub	Pg1_Part2_Lead2_Amount		numeric	12	Amount H. Eligible amalgamation. Ontario. Amount E multiplied by amount G. Enter amount H on line 350 of Schedule 506.
+1	Pg1_Part3_Sub	Pg1_Part3_Lead1_Amount		numeric	12	Amount I. Total federal balance of the subsidiary corporation at the completion time of the windup.
+1	Pg1_Part3_Sub	Pg1_Part3_Amount1		numeric	3	Part 3. Number of days in the subsidiary's reference period that are after the end of the subsidiary's tax year ending at the completion time.
+1	Pg1_Part3_Sub	Pg1_Part3_Amount2		numeric	3	Part 3. Total number of days in the subsidiary's reference period.
+1	Pg1_Part3_Sub	Pg1_Part3_Amount3		numeric		Amount J. Number of days in the subsidiary's reference period that are after the end of the subsidiary's tax year ending at the completion time divided by total number of days in the subsidiary's reference period.
+1	Pg1_Part3_Sub	Pg1_Part3_Amount4		numeric	3	Part 3. Total number of days in the parent's reference period.
+1	Pg1_Part3_Sub	Pg1_Part3_Amount5		numeric	3	Part 3. Number of days in the parent's reference period after the beginning of the parent's tax year that includes the time immediately after the completion time.
+1	Pg1_Part3_Sub	Pg1_Part3_Amount6		numeric		Amount K. Total number of days in the parent's reference period divided by the number of days in the parent's reference period after the beginning of the parent's tax year that includes the time immediately after the completion time.
+1	Pg1_Part3_Sub	Pg1_Part3_Lead2_Amount		numeric	12	Amount L. Eligible post 2008 windup. Federal. Amount I multiplied by amount J multiplied by amount K. Enter amount L on line 315 of Schedule 506.
+2	Pg1_Part4_Sub	Pg2_Part4_Lead1_Amount		numeric	12	Amount M. Total Ontario balance of the subsidiary corporation at the completion time of the windup.
+2	Pg1_Part4_Sub	Pg2_Part4_Amount1		numeric	3	Part 4. Number of days in the subsidiary's reference period that are after the end of the subsidiary's tax year ending at the completion time.
+2	Pg1_Part4_Sub	Pg2_Part4_Amount2		numeric	3	Part 4. Total number of days in the subsidiary's reference period.
+2	Pg1_Part4_Sub	Pg2_Part4_Amount3		numeric		Amount N. Number of days in the subsidiary's reference period that are after the end of the subsidiary's tax year ending at the completion time divided by the total number of days in the subsidiary's reference period.
+2	Pg1_Part4_Sub	Pg2_Part4_Amount4		numeric	3	Part 4. Total number of days in the parent's reference period.
+2	Pg1_Part4_Sub	Pg2_Part4_Amount5		numeric	3	Part 4. Number of days in the parent's reference period after the beginning of the parent's tax year that includes the time immediately after the completion time.
+2	Pg1_Part4_Sub	Pg2_Part4_Amount6		numeric		Amount O. Total number of days in the parent's reference period divided by the number of days in the parent's reference period after the beginning of the parent's tax year that includes the time immediately after the completion time.
+2	Pg1_Part4_Sub	Pg1_Part3_Lead2_Amount		numeric	12	Amount P. Eligible post-2008 windup. Ontario. Amount M multiplied by amount N multiplied by amount O. Enter amount P on line 355 of Schedule 506.
+2	Pg1_Part5_Sub	Pg2_Part5_Lead1_Amount		numeric	12	Part 5. Amount Q. Total federal balance of the subsidiary corporation immediately after the completion time. Enter amount Q on line 320 of Schedule 506.
+2	Pg1_Part6_Sub	Pg2_Part6_Lead1_Amount		numeric	12	Part 6. Amount R. Total Ontario balance of the subsidiary corporation immediately after the completion time. Enter amount R on line 360 of Schedule 506.
+2	Pg1_Part7_Sub	Pg2_Part7_Lead1_Amount		numeric	12	Amount S. Specified pre 2009 transfers federal. Enter amount S, if applicable, on line 325 of Schedule 506.
+2	Pg1_Part8_Sub	Pg2_Part8_Lead1_Amount		numeric	12	Amount T. Specified pre-2009 transfers Ontario. Enter amount T if applicable, on line 365 of Schedule 506.

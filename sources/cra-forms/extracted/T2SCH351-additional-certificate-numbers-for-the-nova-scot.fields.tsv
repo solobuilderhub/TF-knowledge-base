@@ -1,0 +1,43 @@
+page	part	field	line	kind	digits	speak
+1	Ident	Corp_name		text		Corporation's name.
+1	Ident	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident/Tax_y-e	DateYYYYMMDD_Comb		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Table/Row1	Cell1	100	text		Line 100. Certificate number. Row 1.
+1	Table/Row1	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 1.
+1	Table/Row2	Cell1	100	text		Line 100. Certificate number. Row 2.
+1	Table/Row2	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 2.
+1	Table/Row3	Cell1	100	text		Line 100. Certificate number. Row 3.
+1	Table/Row3	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 3.
+1	Table/Row4	Cell1	100	text		Line 100. Certificate number. Row 4.
+1	Table/Row4	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 4.
+1	Table/Row5	Cell1	100	text		Line 100. Certificate number. Row 5.
+1	Table/Row5	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 5.
+1	Table/Row6	Cell1	100	text		Line 100. Certificate number. Row 6.
+1	Table/Row6	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 6.
+1	Table/Row7	Cell1	100	text		Line 100. Certificate number. Row 7.
+1	Table/Row7	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 7.
+1	Table/Row8	Cell1	100	text		Line 100. Certificate number. Row 8.
+1	Table/Row8	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 8.
+1	Table/Row9	Cell1	100	text		Line 100. Certificate number. Row 9.
+1	Table/Row9	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 9.
+1	Table/Row10	Cell1	100	text		Line 100. Certificate number. Row 10.
+1	Table/Row10	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 10.
+1	Table/Row11	Cell1	100	text		Line 100. Certificate number. Row 11.
+1	Table/Row11	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 11.
+1	Table/Row12	Cell1	100	text		Line 100. Certificate number. Row 12.
+1	Table/Row12	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 12.
+1	Table/Row13	Cell1	100	text		Line 100. Certificate number. Row 13.
+1	Table/Row13	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 13.
+1	Table/Row14	Cell1	100	text		Line 100. Certificate number. Row 14.
+1	Table/Row14	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 14.
+1	Table/Row15	Cell1	100	text		Line 100. Certificate number. Row 15.
+1	Table/Row15	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 15.
+1	Table/Row16	Cell1	100	text		Line 100. Certificate number. Row 16.
+1	Table/Row16	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 16.
+1	Table/Row17	Cell1	100	text		Line 100. Certificate number. Row 17.
+1	Table/Row17	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 17.
+1	Table/Row18	Cell1	100	text		Line 100. Certificate number. Row 18.
+1	Table/Row18	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 18.
+1	Table/Row19	Cell1	100	text		Line 100. Certificate number. Row 19.
+1	Table/Row19	Cell2	200	numeric	12	Line 200. Amount of Nova Scotia capital investment tax credit. Row 19.
+1	Line_300	Input_300	300	numeric	12	Line 300. Total Nova Scotia capital investment tax credit. Enter this amount on line 568 in Part 2 of Schedule 5.

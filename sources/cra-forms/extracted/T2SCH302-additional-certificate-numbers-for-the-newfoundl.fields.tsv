@@ -1,0 +1,43 @@
+page	part	field	line	kind	digits	speak
+1	ApplicantInformation	BusinessName		text		
+1	ApplicantInformation	BusinessNumber		text		Business Number. 9 digits 2 letters and 4 digits.
+1	ApplicantInformation/TaxYear_End	DateField		text		Taxation year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Table/Row1	Cell1		text		
+1	Table/Row1	Cell2		numeric	12	
+1	Table/Row2	Cell1		text		
+1	Table/Row2	Cell2		numeric	12	
+1	Table/Row3	Cell1		text		
+1	Table/Row3	Cell2		numeric	12	
+1	Table/Row4	Cell1		text		
+1	Table/Row4	Cell2		numeric	12	
+1	Table/Row5	Cell1		text		
+1	Table/Row5	Cell2		numeric	12	
+1	Table/Row6	Cell1		text		
+1	Table/Row6	Cell2		numeric	12	
+1	Table/Row7	Cell1		text		
+1	Table/Row7	Cell2		numeric	12	
+1	Table/Row8	Cell1		text		
+1	Table/Row8	Cell2		numeric	12	
+1	Table/Row9	Cell1		text		
+1	Table/Row9	Cell2		numeric	12	
+1	Table/Row10	Cell1		text		
+1	Table/Row10	Cell2		numeric	12	
+1	Table/Row11	Cell1		text		
+1	Table/Row11	Cell2		numeric	12	
+1	Table/Row12	Cell1		text		
+1	Table/Row12	Cell2		numeric	12	
+1	Table/Row13	Cell1		text		
+1	Table/Row13	Cell2		numeric	12	
+1	Table/Row14	Cell1		text		
+1	Table/Row14	Cell2		numeric	12	
+1	Table/Row15	Cell1		text		
+1	Table/Row15	Cell2		numeric	12	
+1	Table/Row16	Cell1		text		
+1	Table/Row16	Cell2		numeric	12	
+1	Table/Row17	Cell1		text		
+1	Table/Row17	Cell2		numeric	12	
+1	Table/Row18	Cell1		text		
+1	Table/Row18	Cell2		numeric	12	
+1	Table/Row19	Cell1		text		
+1	Table/Row19	Cell2		numeric	12	
+1		TotalAmount	300	numeric	12	Line 300: Total amount of the Newfoundland and Labrador film and video industry tax credit. Enter this amount on line 521 in Part 2 of Schedule 5.

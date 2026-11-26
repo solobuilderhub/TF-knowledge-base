@@ -1,0 +1,17 @@
+line	caption
+050	Were you associated in the tax year with one or more other qualifying corporations?
+120	Expenditure limit allocated to the corporation
+121	became available for use before May 15, 2025
+126	became available for use after May 14, 2025
+106	Total (line 125 plus line 130)
+330	Amount 3C × Number of days in the current tax year × 15% =
+415	Credit expired after 10 tax years
+425	Unused credit at the beginning of the current tax year (amount 4A minus line 415)
+430	Credit transferred on an amalgamation or the wind-up of a subsidiary
+440	Total current-year credit (enter amount from line 330)
+460	Non-refundable credit claimed in the current tax year (enter on line 421 of Schedule 5)
+490	Closing balance available for carryforward (amount 4C minus line 460)
+600	Total Ontario made manufacturing investment tax credit previously received related to the property
+605	Proceeds of disposition of the property (if sold in an arm's length transaction) or fair market value (in any other case) of the property
+610	Capital cost of the property to the qualifying corporation at the end of the tax year in which the property became available for use
+615	Line 600 × Line 605 =

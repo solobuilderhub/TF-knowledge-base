@@ -1,0 +1,85 @@
+                    Nova Scotia Corporate Tax Reduction for New Small Businesses                                                                                            Schedule 341
+                                                (2025 and later tax years)
+                                                                                                                                                                                Protected B
+                                                                                                                                                                             when completed
+
+Corporation's name                                           Business number                                                                                                Tax year-end
+
+                                                                                                                                                                      Year  Month Day
+
+· The Nova Scotia corporate tax reduction for new small businesses applies to the first three tax years of a qualifying Canadian-controlled private corporation
+  (CCPC) incorporated in Nova Scotia. A CCPC not incorporated in Nova Scotia may also be eligible for the reduction, provided the head office of the
+  corporation is located in Nova Scotia and at least 25% of the wages and salaries paid by the corporation in the tax year are paid to employees who are
+  resident in Nova Scotia.
+
+· This reduction is only available to a corporation that qualifies for the federal small business deduction for the year and maintained a permanent establishment in
+  Nova Scotia at any time during the year. The corporation must have at least two employees, one or more of whom must:
+
+  ­ not be related to a specified shareholder of the corporation, and
+
+  ­ have been paid for at least 1300 hours of employment in a 12-month period (or an equivalent amount pro-rated for a short tax year).
+
+· The tax reduction is based on the portion of an eligible corporation's taxable income earned in the year in Nova Scotia.
+
+· The Nova Scotia Department of Finance and Treasury Board administers the eligibility requirements. Corporations claiming the reduction have to apply
+  annually to the Nova Scotia Minister of Finance and Treasury Board for a certificate of eligibility and must do so within three years of the tax year-end for which
+  they are claiming the reduction.
+
+· The reduction is not available to a corporation:
+
+  ­ if it, or any predecessor corporation, was associated with another corporation at any time since the date of incorporation. However, associated corporations
+     may have their ineligibility waived by the Nova Scotia Minister of Finance and Treasury Board
+
+  ­ that carries on the professional practice of an accountant, dentist, lawyer, medical doctor, veterinarian, or chiropractor
+  ­ if it, or any predecessor corporation, was the beneficiary of a trust with an ineligible beneficiary at any time since the date of incorporation
+
+  ­ if it, or any predecessor corporation, was a member of a partnership or a co-venturer in a joint venture with an ineligible partner or co-venturer at any time
+     since the date of incorporation
+
+  ­ if, before incorporation, the same or substantially the same business was carried on as a sole proprietorship, partnership, or corporation, whether registered
+     or not. However, if the sole proprietorship or partnership carried on the same or substantially the same business for 90 days or less before incorporation, the
+     corporation can apply to the Minister for a certificate of eligibility
+
+· This schedule is a worksheet only and is not required to be filed with your T2 Corporation Income Tax Return. Enter amount 1H from this schedule and the
+  certificate number issued by the province on line 556 and line 834 respectively of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+Part 1 ­ Nova Scotia corporate tax reduction for new small businesses
+
+Line 400 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               1A
+
+Line 405 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               1B
+
+Line 428 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               1C
+
+Amount 1A, 1B, or 1C, whichever is the least . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                            1D
+
+Amount 1D           ×  Taxable income for Nova Scotia 1                                                                                                               =                   1E
+
+                       Taxable income for all provinces 2
+
+Nova Scotia corporate tax reduction for new small business:
+
+                       Number of days in the tax year
+
+Amount 1E           ×  before April 1, 2025                  × 2.5% =                                                                                                 1F
+Amount 1E
+                       Number of days in the tax year
+
+                       Number of days in the tax year
+
+                    ×  after March 31, 2025                  × 1.5% =                                                                                                 1G
+
+                       Number of days in the tax year
+
+                                                             Subtotal (amount 1F plus amount 1G)                                                                                          1H
+
+                       Enter amount 1H on line 556 of Schedule 5.
+
+1 If the corporation has a permanent establishment only in Nova Scotia or in the offshore area of Nova Scotia, enter the taxable income from line 360 of the
+  T2 return. Otherwise, enter the total of the taxable incomes allocated to both jurisdictions in Nova Scotia (the province itself and the offshore area) from
+  column F in Part 1 of Schedule 5.
+
+2 Includes the territories and the offshore jurisdictions for Nova Scotia and Newfoundland and Labrador.
+
+T2 SCH 341 E (25)      (Ce formulaire est disponible en français.)                                                                                       Page 1 of 1
+

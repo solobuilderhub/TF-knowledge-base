@@ -1,0 +1,121 @@
+Corporation's name       Nova Scotia Innovation Equity Tax Credit                                                                                                 Schedule 349
+                                    (2024 and later tax years)                                                                                                            Code 2401
+
+                                                                                                Business number                                                     Protected B
+                                                                                                                                                                   when completed
+
+                                                                                                                                                          Tax year-end
+                                                                                                                                                     Year Month Day
+
+· You can claim a 15% non-refundable Nova Scotia innovation equity tax credit under section 37A of the Nova Scotia Income Tax Act and the Innovation Equity
+
+  Tax Credit Regulations, if:
+
+   ­ you are an eligible investor that is a corporation
+   ­ you have received a tax credit certificate from the Minister of Finance and Treasury Board of Nova Scotia
+
+· The credit applies to eligible investments made before March 2, 2029. The credit you earned in the year is used to reduce your Nova Scotia income tax
+
+  payable for that year. Any unused credit can be carried forward for seven years or carried back to the three previous tax years.
+
+· The maximum amount you can claim for a particular tax year is the lesser of:
+   ­ the aggregate of the innovation equity tax credit for the year and any eligible amount that has been carried forward or carried back
+   ­ $75,000
+
+· Attach this schedule and a copy of your tax credit certificate(s) to your T2 Corporation Income Tax Return.
+
+   Part 1 ­ Credit earned in the current year
+
+Enter the tax credit certificate numbers that were issued to your corporation by the Minister of Finance and Treasury Board for the current tax year and the
+corresponding amounts.
+
+                    Tax credit certificate number                     Amount of Nova Scotia innovation equity tax credit
+
+                    101                                                                                                                 102
+
+Current-year credit earned (total of column 102). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  A
+
+Part 2 ­ Credit available for the year and credit available for carryforward
+
+Current-year credit earned (amount A from Part 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+
+Unused credit at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          B
+
+Credit expired after seven tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+
+Unused credit at the beginning of this tax year (amount B minus line 104) . . . . . . . . . . . . . . . . . 105                              
+
+Total credit available for the current tax year (line 100 plus line 105) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               C
+
+Credit claimed in the current year (Note 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+(enter on line 562 of Schedule 5, Tax Calculation Supplementary ­ Corporations)
+
+Credit carried back to previous tax year (amount F from Part 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  D
+
+                                                   Subtotal (line 160 plus amount D)                                                                                                     E
+
+Closing balance ­ Credit available for carryforward (amount C minus amount E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+
+Note 1. This amount is equal to the least of:
+
+         · amount C
+         · the Nova Scotia income tax otherwise payable for the year
+         · $75,000
+
+T2 SCH 349 E (24)                                  (Ce formulaire est disponible en français.)                                          Page 1 of 2
+                                                                                           Protected B when completed
+
+Part 3 ­ Request for carryback of credit
+
+Complete this part to request a carryback. The total amount of credit available to carry back to the three previous tax years is amount C minus line 160
+in Part 2.
+
+The maximum amount of credit that can be applied to a previous tax year is the lesser of:
+
+ ­ the Nova Scotia income tax payable in the previous tax year
+ ­ $75,000
+
+                   Tax year in which to apply the credit
+
+                                 Year  Month Day
+
+1st previous tax year ending on                   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 901
+
+2nd previous tax year ending on                   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 902
+
+3rd previous tax year ending on                   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 903
+
+                                                                                           Total (add lines 901, 902, and 903)                                  F
+
+                                                                                           (enter the result at amount D in Part 2)
+
+Part 4 ­ Analysis of credit available for carryforward by year of origin
+
+You can complete this part to show all the credits from previous tax years available for carryforward, by year of origin. This will help you determine the amount
+of credit that could expire in future years. The amount available from the 7th previous tax year will expire after this tax year. When you file your return for the
+next year, you will enter the expired amount on line 104 of Schedule 349 for that year.
+
+                                 Year of origin                                                                                           Credit available for
+                                                                                                                                              carryforward
+                                 Year  Month Day
+
+7th previous tax year ending on                   ....................................................
+
+6th previous tax year ending on                   ....................................................
+
+5th previous tax year ending on                   ....................................................
+
+4th previous tax year ending on                   ....................................................
+
+3rd previous tax year ending on                   ....................................................
+
+2nd previous tax year ending on                   ....................................................
+
+1st previous tax year ending on                   ....................................................
+
+Current tax year ending on                        ....................................................
+
+                                                                                           Total (equals line 200 in Part 2)                                    G
+
+T2 SCH 349 E (24)                                                                                                                         Page 2 of 2
+

@@ -1,0 +1,24 @@
+line	caption
+110	Long-term debt
+114	Retained earnings
+116	Contributed surplus
+118	Any other surplus
+130	Deferred tax debit balance or future tax assets
+132	Any deficit deducted in computing shareholders' equity (subsection 63(4) of the Taxation Act, 2007 (Ontario))
+150	Capital for the year (amount A minus amount B) (if negative, enter "0")
+160	Capital of foreign insurance subsidiaries (amount BBB from page 4)
+164	Total reserve liabilities
+166	Total reserve liabilities of foreign subsidiaries (amount CCC from page 4)
+168	Canadian reserve liabilities (Regulation 2400(1))
+170	Amount E × Amount C =
+180	Amount determined under subparagraph 190.11(b)(ii)
+190	Taxable capital employed in Canada (resident life insurance corporation)
+214	b) Attributed surplus for the year (Regulation 2400(1))
+218	Any other surpluses related to insurance businesses carried on in Canada
+222	Long-term debt that may reasonably be regarded as related to insurance businesses carried on in Canada
+226	Amount determined under subparagraph 190.11(b)(ii)
+315	Name of corporation
+320	Business Number 325 Tax year end
+330	Capital allowance (amount 3 or the amount from line 400 on Schedule 513, whichever applies)
+350	Taxable paid-up capital (amount J multiplied by amount K)
+460	Amount L × 1.25% × Number of days in the tax year ( ) * =

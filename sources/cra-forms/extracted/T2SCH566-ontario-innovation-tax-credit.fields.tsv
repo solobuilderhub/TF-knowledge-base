@@ -1,0 +1,152 @@
+page	part	field	line	kind	digits	speak
+1	CorpInfo_sf	NameOfCorp_TextField		text		Corporation's name.
+1	CorpInfo_sf	BusinessNumber		text		Business Number. 9 digits, 2 letters, and 4 digits.
+1	CorpInfo_sf/TaxYearEnd_Date	DateYYYYMMDD_Comb		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_sf/Part1_Line100_sf/RadioButtonGroup	Option1	100	check		Line 100. Did the corporation have a permanent establishment in Ontario at any time during the tax year? Yes.
+1	Part1_sf/Part1_Line100_sf/RadioButtonGroup	Option2	100	check		Line 100. Did the corporation have a permanent establishment in Ontario at any time during the tax year? No.
+1	Part1_sf/Part1_Line105_sf/RadioButtonGroup	Option1	105	check		Line 105. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007, Ontario? Yes.
+1	Part1_sf/Part1_Line105_sf/RadioButtonGroup	Option2	105	check		Line 105. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007, Ontario? No.
+1	Part1_sf/Part1_Line110_sf/RadioButtonGroup	Option1	110	check		Line 110. Did the corporation carry on SR&ED in Ontario during the tax year? Yes.
+1	Part1_sf/Part1_Line110_sf/RadioButtonGroup	Option2	110	check		Line 110. Did the corporation carry on SR&ED in Ontario during the tax year? No.
+1	Part1_sf/Part1_Line115_sf/RadioButtonGroup	Option1	115	check		Line 115. Is the corporation eligible to claim an investment tax credit under section 127 of the federal Income Tax Act on qualified expenditures made in the tax year? Yes.
+1	Part1_sf/Part1_Line115_sf/RadioButtonGroup	Option2	115	check		Line 115. Is the corporation eligible to claim an investment tax credit under section 127 of the federal Income Tax Act on qualified expenditures made in the tax year? No.
+1	Part1_sf/Part1_Line120_sf/RadioButtonGroup	Option1	120	check		Line 120. Did the corporation file Form T661 for the tax year? Yes.
+1	Part1_sf/Part1_Line120_sf/RadioButtonGroup	Option2	120	check		Line 120. Did the corporation file Form T661 for the tax year? No.
+1	Part2_sf/Part2_Line215_sf	Part2_Line215_Box	215	numeric	12	Line 215. Amount uppercase A. Scientific Research and Experimental Development qualified expenditure pool.
+2	Part3_sf/Part3_Line300_sf	Part3_Line300_Box	300	numeric	12	Line 300. Amount uppercase B. Designated repayments made in the year of government or non-government ;assistance or contract payments relating to Ontario qualified expenditures of a current nature.
+2	Part3_sf/Part3_Line305_sf	Part3_Line305_Box	305	numeric	12	Line 305. Amount lowercase a. Designated repayments made in the year of government or non-government assistance or contract payments relating to Ontario qualified expenditures of a capital nature incurred before 2014.
+2	Part3_sf/Part3_Line315_sf	Part3_Line310_Box	310	numeric	12	Line 310. Designated repayments made in the year of government or non-government assistance or contract payments relating to Ontario qualified expenditures for first term or second term shared-use equipment acquired before 2014.
+2	Part3_sf/Part3_Line315_sf	Part3_Line315_Box	315	numeric	12	Line 315. Amount lowercase b. Line 310 multiplied by 25 percent.
+2	Part3_sf/Part3_Line320_sf	Part3_Line320_Box1		numeric	12	Subtotal. Amount lowercase a plus amount lowercase b.
+2	Part3_sf/Part3_Line320_sf	Part3_Line320_Box2	320	numeric	12	Line 320. Amount uppercase C. Subtotal multiplied by 0.4 .
+2	Part3_sf/Part3_Line325_sf	Part3_Line325_Box	325	numeric	12	Line 325. Amount uppercase D. Eligible repayments. Amount uppercase B plus amount uppercase C.
+2	Part4_sf/Part4_StandAlone_sf	Part4_StandAlone_Box		numeric	12	Part 4. For a stand-alone corporation.
+2	Part4_sf/Part4_Line400_sf	Part4_Line400_Box	400	numeric	12	Line 400. Amount lowercase c. Taxable income for the previous tax year, before any loss carrybacks being applied.
+2	Part4_sf/Part4_LineE_sf	Part4_LineH_Box1		numeric	12	Amount lowecase c or $500,000, whichever is greater.
+2	Part4_sf/Part4_LineE_sf	Part4_LineH_Box2		numeric	12	Amount uppercase E. Amount lowecase c or $500,000, whichever is greater multiplied by 10.
+2	Part4_sf/Part4_LineI_sf	Part4_LineI_Box		numeric	12	Amount uppercase F. Excess. $8,000,000 minus amount uppercase E.
+2	Part4_sf/Part4_Line405_sf	Part4_Line405_Box1		numeric	12	Specified capital amount for the corporation for the previous tax year. Line 500 in Part 5.
+2	Part4_sf/Part4_Line405_sf	Part4_Line405_Box2	405	numeric	12	Line 405. Amount lowercase d. Specified capital amount for the corporation for the previous tax year. Line 500 in Part 5 minus $25,000,000.
+2	Part4_sf/Part4_Line410_sf	Part4_Line410_Box	410	numeric	12	Line 410. Amount lowercase e. $25,000,000 minus amount lowercase d.
+2	Part4_sf/Part4_Line415_sf	Part4_Line415_Box	415	numeric	12	Line 415. Amount uppercase G. Expenditure limit for the stand-alone corporation. Amount uppercase F multiplied by amount lowercase e. Divided by 25,000,000.
+3	Part4_2_sf/Part4_Associated_sf	Part4_Associated_Box		numeric	12	Part 4. For associated corporations. For a stand-alone corporation: $8,000,000.
+3	Part4_2_sf/Part4_Line420_sf	Part4_Line420_Box	420	numeric	12	Line 420. Amount lowercase f. Total of all taxable incomes of the corporation and of its associated corporations, before any loss carrybacks being applied, for their last tax year ending in the previous calendar year.
+3	Part4_2_sf/Line_H	Part4_LineN_Box1		numeric	12	Amount lowercase f or $500,000, whichever is greater.
+3	Part4_2_sf/Line_H	Part4_LineN_Box2		numeric	12	Amount uppercase H. Amount lowercase f or $500,000, whichever is greater multiplied by 10.
+3	Part4_2_sf/Line_I	Part4_LineO_Box		numeric	12	Amount uppercase I. Excess. $8,000,000 minus amount uppercase H.
+3	Part4_2_sf/Part4_Line425_sf	Part4_Line425_Box1		numeric	12	Specified capital amount of the corporation and of its associated corporations for their last tax year ending in the previous calendar year. Line 505 in Part 5.
+3	Part4_2_sf/Part4_Line425_sf	Part4_Line425_Box2	425	numeric	12	Line 425. Amount lowercase g. Specified capital amount of the corporation and of its associated corporations for their last tax year ending in the previous calendar year. Line 505 in Part 5 minus $25,000,000.
+3	Part4_2_sf/Part4_Line430_sf	Part4_Line430_Box	430	numeric	12	Line 430. Amount lowercase h. $25,000,000 minus amount lowercase g
+3	Part4_2_sf/Part4_Line435_sf	Part4_Line435_Box	435	numeric	12	Line 435. Amount uppercase J. Expenditure limit for associated corporations. Amount uppercase I multiplied by amount lowercase h divided by 25,000,000. Enter at amount P in Part 6.
+3	Part4_2_sf/Part4_Line440_sf	Part4_Line440_Box	440	numeric	12	Line 440. Amount uppercase K. Expenditure limit for the corporation. Amount allocated from column 3 in Part 6.
+3	Part4_2_sf/Part4_Line445_sf	Part4_Line445_Box1		numeric	12	Amount uppercase G or amount uppercase K, whichever applies.
+3	Part4_2_sf/Part4_Line445_sf	Part4_Line445_Box	445	numeric	12	Line 445. Amount L. Amount G or amount K, whichever applies, multiplied by number of days in the tax year. Divided by 365.
+4	Part5_sf/Part5_Line500_sf	Part5_Line500_Box	500	numeric	12	Line 500. Amount uppercase M. Specified capital amount for the previous tax year.
+4	Part5_sf/Part5_Line505_sf	Part5_Line505_Box	505	numeric	12	Line 505. Amount uppercase N. Specified capital amount for the corporation and each of its associated corporations for their last tax year ending in the previous calendar year. Complete the table below.
+4	Part5_sf/Table/Row1	Cellule_2		text		
+4	Part5_sf/Table/Row1	Cellule_3		text		
+4	Part5_sf/Table/Row1	Cellule_4		numeric	12	
+4	Part5_sf/Table/Row2	Cellule_2		text		
+4	Part5_sf/Table/Row2	Cellule_3		text		
+4	Part5_sf/Table/Row2	Cellule_4		numeric	12	
+4	Part5_sf/Table/Row3	Cellule_2		text		
+4	Part5_sf/Table/Row3	Cellule_3		text		
+4	Part5_sf/Table/Row3	Cellule_4		numeric	12	
+4	Part5_sf/Table/Row4	Cellule_2		text		
+4	Part5_sf/Table/Row4	Cellule_3		text		
+4	Part5_sf/Table/Row4	Cellule_4		numeric	12	
+4	Part5_sf/Table/Row5	Cellule_2		text		
+4	Part5_sf/Table/Row5	Cellule_3		text		
+4	Part5_sf/Table/Row5	Cellule_4		numeric	12	
+4	Part5_sf/Line_O	Part5_LineW_Box		numeric	12	Amount uppercase O. Total specified capital amount. Enter on line 505 the total specified capital amount in column 3, amount O.
+5	Part6_sf/Table/Row1	Cell_2		text	12	
+5	Part6_sf/Table/Row1	Cell_3		text	12	
+5	Part6_sf/Table/Row1	Cell_4		numeric	12	
+5	Part6_sf/Table/Row2	Cell_2		text	12	
+5	Part6_sf/Table/Row2	Cell_3		text	12	
+5	Part6_sf/Table/Row2	Cell_4		numeric	12	
+5	Part6_sf/Table/Row3	Cell_2		text	12	
+5	Part6_sf/Table/Row3	Cell_3		text	12	
+5	Part6_sf/Table/Row3	Cell_4		numeric	12	
+5	Part6_sf/Table/Row4	Cell_2		text	12	
+5	Part6_sf/Table/Row4	Cell_3		text	12	
+5	Part6_sf/Table/Row4	Cell_4		numeric	12	
+5	Part6_sf/Table/Row5	Cell_2		text	12	
+5	Part6_sf/Table/Row5	Cell_3		text	12	
+5	Part6_sf/Table/Row5	Cell_4		numeric	12	
+5	Part6_sf/Part6_LineX_sf	Part6_LineX_Box		numeric	12	Amount uppercase P. Total expenditure limit. Enter on line 440 in Part 4 the total expenditure limit allocated to the corporation in column 3.
+5	Part7_sf/Part7_Line_i	Part7_LineAA_Box		numeric	12	Amount lowercase i. Scientific Research and Experimental Development qualified expenditure pool. Line 215 in Part 2.
+5	Part7_sf/Part7_Line_j_sf	Part7_LineBB_Box		numeric	12	Amount lowercase j. Eligible repayments. See note in Part 3.
+5	Part7_sf/Line_k	Part7_LineEE_Box	700	numeric	12	Line 700. Amount lowercase k. Subtotal, amount lowercase i plus amount lowercase j.
+5	Part7_sf/Part7_Line_l	Part7_LineDD_Box		numeric	12	Amount lowercase l. Expenditure limit. line 415, 440, or 445, whichever applies.
+5	Part7_sf/line_m	Part7_LineEE_Box	705	numeric	12	Line 705. Amount lowercase m. Amount lowercase k or amount lowercase l, whichever is less
+5	Part7_sf/Line_710	Part7_LineFF_Box	710	numeric	12	Line 710. Amount uppercase Q. Ontario innovation tax credit for tax years ending before June 1, 2016. Amount lowercase m multiplied 10 percent.
+5	Part7_sf/Line_R	Part7_LineAA_Box		numeric	12	Amount uppercase R. Scientific Research and Experimental Development qualified expenditure pool. Line 215 in Part 2.
+5	Part7_sf/Line_703	Part7_LineBB_Box	703	numeric	12	Line 703. Amount lowercase n. Eligible repayments made in the year for tax years ending before June 1, 2016. See note in Part 3. Instance 1.
+5	Part7_sf/Line_1	Field1		numeric	4	Number of days in the transition year before June 1, 2016.
+5	Part7_sf/Line_1	Field2		numeric	3	Number of days in the transition year
+5	Part7_sf/Line_1	Part3_Amount_1_Field		numeric		Percentage 1. Number of days in the transition year before June 1, 2016. Divided by Number of days in the transition year. Multiplied by 10 percent.
+5	Part7_sf/Line_2	Field1		numeric	4	Number of days in transition year after May 31, 2016.
+5	Part7_sf/Line_2	Field2		numeric	3	Number of days in the transition year
+5	Part7_sf/Line_2	Part3_Amount_1_Field		numeric		Percentage 2. Number of days in the transition year after May 31, 2016. Divided by Number of days in the transition year. Multiplied by 8 percent.
+5	Part7_sf/Line_3	Part3_Amount_1_Field		numeric		Percentage 3. Subtotal. Percentage 1 plus percentage 2. Instance 1.
+5	Part7_sf/Line_S	Line_n_Field		numeric	12	Amount lowercase n. Instance 2.
+5	Part7_sf/Line_S	Part3_Amount_1_Field		numeric		Percentage 3. Instance 2.
+5	Part7_sf/Line_S	Field_S		numeric	12	Amount uppercase S. amount lowercase n multiplied by 10% divided by percentage 3.
+5	Part7_sf/Line_701	Part7_LineEE_Box	701	numeric	12	Line 701. Amount uppercase T. Subtotal, amount R plus amount S.
+6	Line_o	Part7_LineDD_Box		numeric	12	Amount lowercase o. Expenditure limit. Line 415, 440, or 445, whichever applies.
+6	Line706	Part7_LineDD_Box	706	numeric	12	Line 706. Amount lowercase p. Lesser of amount T and lowercase o.
+6	Line711	Part7_LineDD_Box	711	numeric	12	Line 711. Amount uppercase U. Ontario innovation tax credit for a tax year that ends on or after June 1, 2016 and ;includes May 31, 2016. Amount lowercase p multiplied percentage 3.
+6	Part7_sf/Line_V	Part7_LineAA_Box		numeric	12	Amount uppercase V. Scientific Research and Experimental Development qualified expenditure pool. Line 215 in Part 2.
+6	Part7_sf/Line_704	Part7_LineBB_Box	704	numeric	12	Line 704. Amount uppercase W. Eligible repayments made in the tax year for tax years starting after May 31, 2016. See note in Part 3.
+6	Part7_sf/Line_708	Part7_LineAA_Box	708	numeric	12	Line 708. Amount lowercase q. Eligible repayments made in the year for a tax year, the transition year, that ends ;on or after June 1, 2016, and includes May 31, 2016. See note in Part 3. Instance 1.
+6	Part7_sf/Line_4	Field1	716	numeric	3	Line 716. Number of days in the transition ;year before June 1, 2016
+6	Part7_sf/Line_4	Field2	718	numeric	3	Line 718. Number of days in the transition year
+6	Part7_sf/Line_4	Part3_Amount_1_Field		numeric		Percentage 4. Number of days in the transition year before June 1, 2016 divided by Number of days in the ;transition year, multiplied by 10%.
+6	Part7_sf/Line_5	Field1	717	numeric	3	Line 717. Number of days in the transition year after May 31, 2016
+6	Part7_sf/Line_5	Field2		numeric	3	Number of days in the transition year
+6	Part7_sf/Line_5	Part3_Amount_1_Field		numeric		Percentage 5. Number of days in the transition year after May 31, 2016 divided by Number of days in the ;transition year, multiplied by 8%.
+6	Part7_sf/Line_6	Part3_Amount_1_Field		numeric		Percentage 6. Subtotal, percentage 4 plus percentage 5. Instance 1.
+6	Part7_sf/Line_X	Line_q_Field		numeric	12	Amount lowercase q. Instance 2.
+6	Part7_sf/Line_X	Part3_Amount_1_Field		numeric		Percentage 6. Instance 2.
+6	Part7_sf/Line_X	Part7_LineAA_Box		numeric	12	Amount uppercase X. Amount lowercase q multiplied by percentage 6 divided by 8 percent.
+6	Part7_sf/Line_Y	Line_709_Field	709	numeric	12	Line 709. Eligible repayments made in the year for tax years ending before June 1, 2016 (see note in Part 3)
+6	Part7_sf/Line_Y	Part7_LineAA_Box		numeric	12	Amount uppercase Y. Line 709 multiplied by 1.25
+6	Part7_sf/Line_702	Part7_LineEE_Box	702	numeric	12	Line 702. Amount uppercase Z. Subtotal. Total of amounts V, W, X, and Y.
+6	Part7_sf/Line_r	Part7_LineDD_Box		numeric	12	Amount lowercase r. Expenditure limit. From Part 4, line 415, 440, or 445, whichever applies.
+6	Part7_sf/Line_r/Line_707	Part7_LineEE_Box	707	numeric	12	Line 707. Amount lowercase s. Lesser of uppercase Z and lowercase r.
+6	Part7_sf/Line_712	Part7_LineAA_Box	712	numeric	12	Line 712. Amount AA. Ontario innovation tax credit for tax years starting after May 31, 2016. Amount lowercase s multiplied by 8 percent)
+6	Part7_sf/Part7_Line715_sf/RadioButtonGroup	Option1	715	check		Line 715. Are you waiving all or part of the OITC? Yes. If you answered yes at line 715, enter the amount of the tax credit waived on line 720.
+6	Part7_sf/Part7_Line715_sf/RadioButtonGroup	Option2	715	check		"Line 715. Are you waiving all or part of the OITC? No. If you answered no at line 715, enter ""0"" on line 720."
+6	Part7_sf/Part7_LineGG_sf	Part7_LineGG_Box	720	numeric	12	Line 720. Amount BB. Waiver of the tax credit.
+6	Part7_sf/Part7_LineHH_sf	Part7_LineHH_Box		numeric	12	Amount CC. Ontario innovation tax credit claimed. Amount from line 710, 711, and 712, whichever applies, minus amount BB. Enter amount CC on line 468 on page 5 of Schedule 5, Tax Calculation Supplementary – Corporations.
+7	Part8_sf/Table1/Row1	Cell_2		text		
+7	Part8_sf/Table1/Row1	Cell_3		text	12	
+7	Part8_sf/Table1/Row2	Cell_2		text		
+7	Part8_sf/Table1/Row2	Cell_3		text	12	
+7	Part8_sf/Table1/Row3	Cell_2		text		
+7	Part8_sf/Table1/Row3	Cell_3		text	12	
+7	Part8_sf/Table1/Row4	Cell_2		text		
+7	Part8_sf/Table1/Row4	Cell_3		text	12	
+7	Part8_sf/Table1/Row5	Cell_2		text		
+7	Part8_sf/Table1/Row5	Cell_3		text	12	
+7	Part8_sf/Table2/Row1/Cell_2/RadioButtonGroup	Option1		check		Is this an arm's length transaction? Yes. Row 1.
+7	Part8_sf/Table2/Row1/Cell_2/RadioButtonGroup	Option2		check		Is this an arm's length transaction? No. Row 1.
+7	Part8_sf/Table2/Row1	Cell_3		numeric	12	
+7	Part8_sf/Table2/Row1	Cell_4		numeric	12	
+7	Part8_sf/Table2/Row2/Cell_2/RadioButtonGroup	Option1		check		Is this an arm's length transaction? Yes. Row 2.
+7	Part8_sf/Table2/Row2/Cell_2/RadioButtonGroup	Option2		check		Is this an arm's length transaction? No. Row 2.
+7	Part8_sf/Table2/Row2	Cell_3		numeric	12	
+7	Part8_sf/Table2/Row2	Cell_4		numeric	12	
+7	Part8_sf/Table2/Row3/Cell_2/RadioButtonGroup	Option1		check		Is this an arm's length transaction? Yes. Row 3.
+7	Part8_sf/Table2/Row3/Cell_2/RadioButtonGroup	Option2		check		Is this an arm's length transaction? No. Row 3.
+7	Part8_sf/Table2/Row3	Cell_3		numeric	12	
+7	Part8_sf/Table2/Row3	Cell_4		numeric	12	
+7	Part8_sf/Table2/Row4/Cell_2/RadioButtonGroup	Option1		check		Is this an arm's length transaction? Yes. Row 4.
+7	Part8_sf/Table2/Row4/Cell_2/RadioButtonGroup	Option2		check		Is this an arm's length transaction? No. Row 4.
+7	Part8_sf/Table2/Row4	Cell_3		numeric	12	
+7	Part8_sf/Table2/Row4	Cell_4		numeric	12	
+7	Part8_sf/Table2/Row5/Cell_2/RadioButtonGroup	Option1		check		Is this an arm's length transaction? Yes. Row 5.
+7	Part8_sf/Table2/Row5/Cell_2/RadioButtonGroup	Option2		check		Is this an arm's length transaction? No. Row 5.
+7	Part8_sf/Table2/Row5	Cell_3		numeric	12	
+7	Part8_sf/Table2/Row5	Cell_4		numeric	12	

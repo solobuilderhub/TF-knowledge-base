@@ -1,0 +1,111 @@
+Corporation's name  Newfoundland and Labrador Resort Property Investment Tax Credit                                                                                                             Schedule 304
+                                                  (2019 and later tax years)
+                                                                                                                                                                                                           Code 1901
+                                                                                                                                Business number
+                                                                                                                                                                                                     Protected B
+                                                                                                                                                                                                    when completed
+
+                                                                                                                                                                                             Tax year-end
+                                                                                                                                                                                           Year Month Day
+
+· You can claim a Newfoundland and Labrador resort property investment tax credit if you are a qualifying investor that made an eligible investment in a
+
+   qualifying resort development property unit in Newfoundland and Labrador after June 13, 2007, but not more than five years after the unit was first made
+   available for sale. (The terms in bold are defined in Section 2 of the Resort Property Investment Tax Credit Regulations.)
+
+· Use this schedule to:
+   ­ claim the credit to reduce Newfoundland and Labrador income tax payable Note 1 in the current tax year
+   ­ calculate the credit you have available to carry forward to any of the next seven years
+   ­ request a carryback to any of the three previous years
+
+· The credit is equal to the least of the following amounts:
+   ­ Newfoundland and Labrador income tax payable
+   ­ the amount indicated on the tax credit receipts issued during the current year, less amounts used in previous years plus amounts carried forward or back
+
+        from another year
+
+   ­ $50,000 including any amounts carried forward or back
+
+Note 1: Newfoundland and Labrador income tax payable is defined as the amount payable before the deduction for the small business tax holiday and the
+            refundable credits, (see paragraph 2(l) of the Regulations).
+
+   Part 1 ­ Total credit earned in the current tax year
+
+                    Tax credit receipt number                     Newfoundland and Labrador resort
+                                  100                            property investment tax credit amount
+
+                                                                                        103
+
+                    Total credit earned in the current tax year                                                                            1A
+
+If you need more space, attach additional schedules.
+
+Part 2 ­ Calculation of credit available for carryforward
+
+Unused credit at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            2A
+
+Credit expired after seven tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+
+Unused credit at the beginning of the current tax year (amount 2A minus line 104) . . . . . . . . . . 105                                          
+                                                                                                                                                   
+Credit earned in the current tax year (amount 1A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+
+Total credit available (line 105 plus line 120) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2B
+
+Credit claimed in current year Note 2 (enter on line 507 in Part 2 of Schedule 5, Tax Calculation                                              2C
+Supplementary ­ Corporations) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Credit carried back to previous tax years (complete Part 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  2D
+
+                                                      Subtotal (Amount 2C plus amount 2D)                                                                                                  2E
+
+Closing balance (amount 2B minus amount 2E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+Note 2: The credit claimed in the current year is equal to the Newfoundland and Labrador income tax payable, amount 2B, or $50,000, whichever is least.
+
+T2 SCH 304 E (19)                                     (Ce formulaire est disponible en français.)                                          Page 1 of 2
+                                                                                          Protected B when completed
+
+   Part 3 ­ Request for carryback of credit
+
+Complete this part to request the carryback of a credit earned in the current tax year. The maximum amount of credit that you can apply to a previous tax
+year is the least of:
+
+· the portion of your current-year credit earned that exceeds your Newfoundland and Labrador income tax payable
+· the Newfoundland and Labrador income tax payable in the previous tax year
+· $50,000 minus any amounts previously applied in the previous tax year
+
+                        Tax year in which to apply
+                                   the credit
+
+                        Year  Month Day
+
+1st previous tax year                               ....................................  Credit to be applied 901
+2nd previous tax year                               ....................................  Credit to be applied 902
+3rd previous tax year                               ....................................  Credit to be applied 903
+
+                                                    Total (enter at amount 2D in Part 2)                                                                   3A
+
+  Part 4 ­ Credit available for carryforward by year of origin
+
+You can complete this part to show by year of origin all the credits from previous tax years available for carryforward. This will help you determine the
+amount of credit that could expire in future years. The amount available from the 7th previous tax year expires at the end of the current tax year. When
+you file this schedule for the next year, enter the expired amount on line 104.
+
+                        Year of origin                                                                              Credit available for
+                                                                                                                        carryforward
+                        Year  Month Day
+
+7th previous tax year                               .........................................................
+6th previous tax year                               .........................................................
+5th previous tax year                               .........................................................
+4th previous tax year                               .........................................................
+3rd previous tax year                               .........................................................
+2nd previous tax year                               .........................................................
+1st previous tax year                               .........................................................
+                                                    .........................................................
+      Current tax year
+
+                                                    Total (equals line 200 in Part 2)                                                                      4A
+
+                                                                                                                    Page 2 of 2
+

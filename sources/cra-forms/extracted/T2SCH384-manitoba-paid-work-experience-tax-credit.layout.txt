@@ -1,0 +1,222 @@
+Corporation's name                           Manitoba Paid Work Experience Tax Credit                                                                          Schedule 384
+                                                         (2018 and later tax years)                                                                                Code 1801
+
+                                                                                                                         Business number                         Protected B
+                                                                                                                                                            when completed
+
+                                                                                                                                                             Tax year end
+                                                                                                                                                       Year Month Day
+
+· You can claim a Manitoba paid work experience tax credit under section 10.1 of the Manitoba Income Tax Act if, at any time in the tax year, you paid salary
+
+  and wages to any of the following:
+
+   ­ a qualifying youth who has completed an approved youth work experience training program
+   ­ a co-op student under a qualifying work placement
+   ­ a qualifying graduate, a qualifying apprentice, or a qualifying journeyperson, for a qualifying period of employment
+
+· The terms identified above in bold are defined in subsection 10.1(1) of the Manitoba Income Tax Act.
+· Eligible employers include: private companies, co-operatives, non-profit employers, and unincorporated employers. Crown corporations, other
+
+  corporations owned by the provincial government, and all other corporations described in paragraphs 149(1)(c) to (d.5) of the federal Income Tax
+  Act are not eligible for the credit for tax years ending after 2016.
+
+· This tax credit is refundable and includes the following incentives:
+   ­ youth work experience hiring
+   ­ co-op student hiring
+   ­ co-op graduate hiring
+   ­ apprentice hiring
+   ­ journeyperson hiring
+
+· Use this schedule to:
+   ­ claim a refund of the current-year credit
+   ­ claim the credit to reduce Manitoba income tax otherwise payable in the current tax year
+   ­ transfer a credit after an amalgamation or the wind-up of a subsidiary, as described in subsections 87(1) and 88(1) of the federal Income Tax Act
+
+        respectively
+
+· To claim this credit, file a completed copy of this schedule with your T2 Corporation Income Tax Return.
+· The salary and wages of an employee are net of any other government assistance you received or are entitled to receive.
+· If you are an employer that is exempt under section 149 of the federal Income Tax Act, you can use this schedule; however, to claim the credit, you will also
+
+  have to complete Schedule 5, Tax Calculation Supplementary ­ Corporations, and file a T2 Corporation Income Tax Return.
+
+· If you need more space, attach additional schedules.
+
+Part 1 ­ Youth work experience hiring incentive
+
+                                 A1                        B1                                 C1                                                          D1
+                   Name of qualifying youth  Salary and wages paid *                      B1 x 25%
+                                                                                                                                          Lesser of C1 and maximum
+                                150                       155                                                                                        amount **
+
+                                                                                                                                                         170
+
+Credit allocated for qualifying youths whose salaries and wages were paid by a partnership . . . . . . . . . . . . . . . . . . . . . 175
+
+Youth work experience hiring incentive (total of column D1 plus line 175) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 180
+* Less the amount of any other government assistance received or receivable.
+** The lifetime maximum amount is $5,000 per qualifying youth for all qualifying periods of employment. The maximum amount you can claim for a tax year is
+
+   $5,000 less the amount of the incentive claimed for a previous period of employment of that youth. If the qualifying youth has more than one employer,
+   column D1 is equal to the lesser of C1 and the maximum amount, multiplied by A/B, where:
+
+         A = total salary and wages you paid to the qualifying youth for the qualifying period of employment.
+
+         B = total salary and wages paid by all employers to the qualifying youth for the qualifying period of employment.
+
+T2 SCH 384 E (21)                            (Ce formulaire est disponible en français.)                                                  Page 1 of 4
+Part 2 ­ Co-op student hiring incentive                        B2             C2    Protected B when completed
+                                                 Salary and wages paid *  B2 x 15%
+                                  A2                                                                D2
+                     Name of co-op student                    260                          Lesser of C2 and
+       (maximum 5 placements per co-op student)                                          maximum amount **
+
+                                 250                                                               270
+
+Credit allocated for co-op students whose salaries and wages were paid by a partnership . . . . . . . . . . . . . . . . . . . . . . 275
+
+Co-op student hiring incentive (total of column D2 plus line 275) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 280
+* Less the amount of any other government assistance received or receivable.
+
+** The lifetime maximum amount is $5,000 per co-op student for all qualifying work placements. The maximum amount you can claim for a tax year is $5,000
+   less the amount of the incentive you claimed in a previous tax year in respect of salary and wages paid to the co-op student and the amount of the incentive
+   claimed by any eligible employer for a previous work placement of that co-op student. If the student has more than one employer, column D2 is equal to the
+   lesser of C2 and the maximum amount, multiplied by A/B, where:
+
+         A = total salary and wages you paid to the co-op student during the year under the qualifying work placement.
+
+         B = total salary and wages paid by all employers to the co-op student during the year under the qualifying work placement.
+
+Part 3 ­ Co-op graduate hiring incentive                       B3             C3               D3
+                                                 Salary and wages paid *  B3 x 15%    Lesser of C3 and
+                                  A3                                                maximum amount **
+                                                              360
+                 Name of qualifying graduate                                                  370
+             (qualifying periods of employment
+
+                   totalling up to 24 months)
+                                 350
+
+Credit allocated for qualifying graduates whose salaries and wages were paid by a partnership . . . . . . . . . . . . . . . . . . 375
+
+Co-op graduate hiring incentive (total of column D3 plus line 375) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 380
+* Less the amount of any other government assistance received or receivable.
+** The maximum amount is $2,500 multiplied by the number of days in the qualifying period of employment divided by 365. If the graduate has more than one
+
+   employer, column D3 is equal to the lesser of C3 and the maximum amount, multiplied by A/B, where:
+         A = total salary and wages you paid to the qualifying graduate for the qualifying period of employment.
+
+         B = total salary and wages paid by all employers to the qualifying graduate for the qualifying period of employment.
+
+                                                                                    Page 2 of 4
+                                                                                                                                                       Protected B when completed
+
+   Part 4 ­ Apprentice hiring incentive
+
+If the apprenticeship placement qualifies as rural or northern early level, claim the credit in Part 5. For a high school student at an early level of apprenticeship,
+claim the credit in Part 6.
+
+                  A4                         B4             C4                                D4
+Name of qualifying apprentice  Salary and wages paid *  B4 x 15%
+                                                                                     Lesser of C4 and
+                450                         460                                    maximum amount **
+
+                                                                                             470
+
+Credit allocated for qualifying apprentices whose salaries and wages were paid by a partnership . . . . . . . . . . . . . . . . . 475
+Amount received or receivable from the Federal apprenticeship job creation tax credit . . . . . . . . . . . . . . . . . . . . . . . . . 477
+
+Apprentice hiring incentive (total of column D4 plus line 475 minus line 477) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 480
+* Less the amount of any other government assistance received or receivable.
+** The maximum amount is $5,000 multiplied by the number of days in the qualifying period of employment divided by 365. If the apprentice is shared by more
+
+   than one employer, column D4 is equal to the lesser of C4 and the maximum amount, multiplied by A/B, where:
+
+         A = total salary and wages you paid to the qualifying apprentice for the qualifying period of employment less the amount of any government assistance
+         received or receivable by you in relation to that employment.
+         B = total salary and wages paid by all employers to the qualifying apprentice for the qualifying period of employment less the total of all government
+         assistance received or receivable by them in relation to that employment.
+
+Part 5 ­ Apprentice hiring incentive for rural or northern early level apprentice
+
+                  A5                         B5             C5                                D5
+Name of qualifying apprentice  Salary and wages paid *  B5 x 20%
+                                                                                     Lesser of C5 and
+550                            560                                                 maximum amount **
+
+                                                                                             570
+
+Credit allocated for rural or northern early level apprentices whose salaries and wages were paid by a partnership . . . 575
+
+Amount received or receivable from the Federal apprenticeship job creation tax credit . . . . . . . . . . . . . . . . . . . . . . . . . 577
+Apprentice hiring incentive for rural or northern early level apprentice (total of column D5 plus
+line 575 minus line 577) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 580
+* Less the amount of any other government assistance received or receivable.
+** The maximum amount is $5,000 multiplied by the number of days in the qualifying period of employment divided by 365. If the apprentice is shared by more
+
+   than one employer, column D5 is equal to the lesser of C5 and the maximum amount, multiplied by A/B, where:
+         A = total salary and wages you paid to the qualifying apprentice for the qualifying period of employment less the amount of any government assistance
+         received or receivable by you in relation to that employment.
+
+         B = total salary and wages paid by all employers to the qualifying apprentice for the qualifying period of employment less the total of all government
+         assistance received or receivable by them in relation to that employment.
+
+                                                                                   Page 3 of 4
+Part 6 ­ Apprentice hiring incentive for high school apprentice                                  Protected B when completed
+
+                  A6                                                        B6             C6                    D6
+Name of qualifying apprentice                                 Salary and wages paid *  B6 x 25%         Lesser of C6 and
+                                                                                                      maximum amount **
+750                                                           760
+                                                                                                                770
+
+Credit allocated for high school apprentices whose salaries and wages were paid by a partnership . . . . . . . . . . . . . . . 775
+
+Amount received or receivable from the Federal apprenticeship job creation tax credit . . . . . . . . . . . . . . . . . . . . . . . . . 777
+Apprentice hiring incentive for high school apprentice (total of column D6 plus line 775 minus
+line 777) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 780
+* Less the amount of any other government assistance received or receivable.
+** The maximum amount is $5,000 multiplied by the number of days in the qualifying period of employment divided by 365. If the apprentice is shared by more
+
+   than one employer, column D6 is equal to the lesser of C6 and the maximum amount, multiplied by A/B, where:
+         A = total salary and wages you paid to the qualifying apprentice for the qualifying period of employment less the amount of any government assistance
+         received or receivable by you in relation to that employment.
+         B = total salary and wages paid by all employers to the qualifying apprentice for the qualifying period of employment less the total of all government
+         assistance received or receivable by them in relation to that employment.
+
+   Part 7 ­ Journeyperson hiring incentive
+
+                                      A7                                    B7             C7                                                                                              D7
+                                                              Salary and wages paid *  B7 X 15%
+                 Name of qualifying journeyperson                                                                                                                                 Lesser of C7 and
+(qualifying periods of employment totalling up to 24 months)                                                                                                                    maximum amount **
+
+650                                                           660                                                                                                               670
+
+Credit allocated for qualifying journeypersons whose salaries and wages were paid by a partnership . . . . . . . . . . . . . . 675
+
+Journeyperson hiring incentive (total of column D7 plus line 675) *** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 680
+* Less the amount of any other government assistance received or receivable.
+** The maximum amount is $5,000 multiplied by the number of days in the qualifying period of employment divided by 365. If the journeyperson has more than
+
+   one employer, column D7 is equal to the lesser of C7 and the maximum amount, multiplied by A/B, where:
+         A = total salary and wages you paid to the qualifying journeyperson for the qualifying period of employment.
+         B = total salary and wages paid by all employers to the qualifying journeyperson for the qualifying period of employment.
+
+***To the extent the employer is or has been participating in an apprenticeship program administered by the Manitoba government according to the conditions
+   set out under subsection 10.1(17) of the Manitoba Income Tax Act. Otherwise, line 680 is nil.
+
+   Part 8 ­ Manitoba paid work experience tax credit
+
+Youth work experience hiring incentive (amount from line 180) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           A
+Co-op student hiring incentive (amount from line 280) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     B
+Co-op graduate hiring incentive (amount from line 380) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      C
+Apprentice hiring incentive (amount from line 480) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  D
+Apprentice hiring incentive for rural or northern early level apprentice (amount from line 580) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                       E
+Apprentice hiring incentive for high school apprentice (amount from line 780) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                 F
+Journeyperson hiring incentive (amount from line 680) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     G
+Manitoba paid work experience tax credit (total of amounts A to G) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                  H
+Enter amount H on line 622 of Schedule 5.
+                                                                                                                                                                                     Page 4 of 4
+

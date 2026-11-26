@@ -1,0 +1,14 @@
+line	caption
+050	Were you associated in the tax year with one or more other corporations within the meaning of section 256 of No the federal Income Tax Act?
+120	Tax credit limit allocated to the corporation (see note 2)
+200	See note 4 210
+220	Total capital cost of eligible property the corporation acquired in the current tax year
+305	Credit expired after 20 tax years
+310	Unused credit at the beginning of this tax year (amount A minus line 305)
+330	Non-refundable credit claimed in the current tax year (amount not exceeding the lesser of Newfoundland and Labrador tax otherwise payable and amount D)
+335	Amount C × 40% =
+340	Refundable credit claimed in the current tax year (amount E or line 335, whichever is less)
+350	Closing balance for carryforward (amount D minus amount G) (see note 8)
+901	1st previous tax year ending on
+902	2nd previous tax year ending on
+903	3rd previous tax year ending on

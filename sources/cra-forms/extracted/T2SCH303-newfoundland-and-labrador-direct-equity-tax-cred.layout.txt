@@ -1,0 +1,115 @@
+Corporation's name  Newfoundland and Labrador Direct Equity Tax Credit                                                                                        Schedule 303
+                                        (2017 and later tax years)
+                                                                                                                                                                         Code 1701
+                                                                                                                                   Business number                 Protected B
+                                                                                                                                                                 when completed
+
+                                                                                                                                                               Tax year-end
+                                                                                                                                                           Year Month Day
+
+· You can claim a Newfoundland and Labrador direct equity tax credit if you are an eligible investor that purchased eligible shares from a corporation
+
+  carrying on an eligible business in Newfoundland and Labrador. (The terms in bold are defined in Section 2 of the Direct Equity Tax Credit Regulations.)
+· Use this schedule to:
+
+     ­ claim the credit to reduce Newfoundland and Labrador income tax payable in the current tax year (before deducting the amount for the small business
+          tax holiday and the refundable credits);
+
+     ­ calculate the credit you have available to carry forward;
+     ­ request a carryback of the credit; or
+     ­ transfer an unused credit after an amalgamation or the wind-up of a subsidiary, under sections 87 and 88 of the federal Income Tax Act. In this
+
+          situation, you are considered to have acquired the unused credit in the tax year in which the credit was originally issued to the corporate investor.
+
+· An unused credit earned in the current tax year is not refundable. Unused credits can be carried forward seven years and carried back three years.
+
+· You may claim a credit equal to the lowest of the following amounts:
+     ­ Newfoundland and Labrador income tax payable (before deducting the amount for the small business tax holiday and the refundable credits);
+     ­ the amount indicated on the tax credit receipts issued in the current year plus unused credits from previous years; or
+     ­ $50,000 (this is the maximum credit you may claim in a year).
+
+· File this schedule, Schedule 5 Tax Calculation Supplementary ­ Corporations, and each tax credit receipt issued by the Newfoundland and Labrador
+  Department of Finance with your T2 Corporation Income Tax Return.
+
+     Part 1 ­ Total tax credit earned in the current tax year
+
+                    Tax credit receipt number                                                                                                              Newfoundland and
+                                  100                                                                                                                        Labrador direct
+                                                                                                                                                                 equity tax
+                                                                                                                                                                   credit
+
+                                                                                                                                                                     103
+
+                                                                                              Total credit earned in the current tax year                                     A
+
+Part 2 ­ Calculation of credit available for carryforward
+
+Unused credit at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . .   B
+
+Credit expired after seven tax years . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+
+Credit at the beginning of the tax year (amount B minus line 104) . . . 105                                                                             
+
+Credit transferred on an amalgamation or wind-up of a subsidiary . . . 110                                                                              
+Current-year credit earned (amount A) . . . . . . . . . . . . . . . . . . . . . . . . 120                                 
+                                                                                                                          
+                    Subtotal (line 110 plus line 120)                                                                                                   C
+
+Total credit available (line 105 plus amount C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                     D
+
+Credit claimed in the current year (cannot exceed $50,000) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+Enter on line 505 of Schedule 5.
+
+Credit carried back to previous tax years (complete Part 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     E
+
+                                                           Subtotal (line 160 plus amount E)                                                                                  F
+
+Closing balance ­ total credit available for carryforward (amount D minus amount F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+
+T2 SCH 303 E (17)   (Ce formulaire est disponible en français.)                                                                            Page 1 of 2
+                                                                                                                           Protected B when completed
+
+Part 3 ­ Request for carryback of credit
+
+The maximum amount you can apply is the portion of your current-year credit earned that exceeds one of the following amounts, whichever is less:
+
+· Newfoundland and Labrador income tax payable (before deducting the amount for the small business tax holiday and the refundable credits); or
+· $50,000.
+
+                                                         Year  Month Day
+
+1st previous tax year . . . . . . . . . . . . . . . . .                       . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 901
+2nd previous tax year . . . . . . . . . . . . . . . . .                       . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 902
+3rd previous tax year . . . . . . . . . . . . . . . . .                       . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 903
+
+                                                                              Total credit to be applied (enter at amount E)                                              G
+
+   Part 4 ­ Credit available for carryforward by tax year of origin
+
+The carryforward period is 7 years. The amount available from the 7th previous tax year will expire after this tax year.
+When you file your return for the next year, you will enter the expired amount on line 104 of Schedule 303 for that year.
+
+                                                         Year of origin                                                                             Credit available for
+
+                                                         Year  Month     Day                                                                        carryforward
+
+7th previous tax year ending on . . . . . . . . .                             ..........................................
+6th previous tax year ending on . . . . . . . . .
+5th previous tax year ending on . . . . . . . . .                             ..........................................
+4th previous tax year ending on . . . . . . . . .
+3rd previous tax year ending on . . . . . . . . .                             ..........................................
+2nd previous tax year ending on . . . . . . . .
+1st previous tax year ending on . . . . . . . . .                             ..........................................
+Current tax year ending on . . . . . . . . . . . . .
+                                                                              ..........................................
+
+                                                                              ..........................................
+
+                                                                              ..........................................
+
+                                                                              ..........................................
+
+                                                                         Total credit available for carryforward (equals line 200)                                        H
+
+                                                                                                                                                                  Page 2
+

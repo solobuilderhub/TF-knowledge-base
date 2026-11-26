@@ -1,0 +1,160 @@
+                       Prince Edward Island Corporation Tax Calculation                                                                                                             Schedule 322
+                                        (2025 and later tax years)                                                                                                                    Protected B
+
+                                                                                                             Business number                                                        when completed
+
+Corporation's name                                                                                                                                                                  Tax year-end
+
+                                                                                                                                                                        Year        Month Day
+
+· Use this schedule if your corporation had a permanent establishment (as defined in section 400 of the federal Income Tax Regulations)
+
+  in Prince Edward Island, and had taxable income earned in the year in Prince Edward Island.
+
+· This schedule is a worksheet only and does not have to be filed with your T2 Corporation Income Tax Return.
+
+Part 1 ­ Income subject to Prince Edward Island lower and higher tax rates
+
+                                                                            Period before July 1, 2025
+
+Taxable income for Prince Edward Island (Note 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1A
+
+Income eligible for the Prince Edward Island lower tax rate:
+
+Line 400 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               1B
+
+Line 405 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 1C
+
+Line 428 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 1D
+
+Amount 1B, 1C or 1D, whichever is the least . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                         1E
+
+Amount 1E           ×  Taxable income for Prince Edward Island (Note 1)                                                                                                 =                         1F
+
+                       Taxable income for all provinces (Note 2)
+
+Income subject to Prince Edward Island higher tax rate (amount 1A minus amount 1F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                              1G
+
+                                                                         Period after June 30, 2025
+
+Taxable income for Prince Edward Island (Note 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1H
+
+Income eligible for the Prince Edward Island lower tax rate:
+
+Line 400 of the T2 return (Note 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      1I
+
+Line 405 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 1J
+
+Line 428 of the T2 return . . . . . . . . . . . . . . . . . . . . . . .  ×                           600,000          =                                                 1K
+
+                                                                                                     500,000
+
+Amount 1I, 1J or 1K, whichever is the least . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       1L
+
+Amount 1L           ×  Taxable income for Prince Edward Island (Note 1)                                                                                                 =                         1M
+
+                       Taxable income for all provinces (Note 2)
+
+Income subject to Prince Edward Island higher tax rate (amount 1H minus amount 1M) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                              1N
+
+Note 1: If your corporation had a permanent establishment only in Prince Edward Island, enter the taxable income from line 360 of the T2 return. Otherwise,
+           enter the taxable income allocated to Prince Edward Island from column F in Part 1 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+Note 2: Includes the territories and the offshore jurisdictions for Nova Scotia and Newfoundland and Labrador.
+
+Note 3: If your corporation is a member or a designated member of a partnership, fill out Part 2 to calculate income from active business with partnership
+           income. If your corporation had a business limit assigned to it by another CCPC under subsection 125(3.2) as reported on Schedule 7, amount 1I is
+           equal to line 400 of the T2 return minus line 625 of Schedule 7, plus the result of line 625 of Schedule 7 multiplied by 600,000/500,000.
+
+T2 SCH 322 E (25)                                                        (Ce formulaire est disponible en français.)                                       Page 1 of 3
+     Part 2 ­ Income from active business when there is partnership income                                                                                                    Protected B when completed
+                                                                                                                                                  
+Fill out this part if your corporation is a member or designated member of a partnership.                                                                                    2A
+                                                                                  Period after June 30, 2025                                                                 2B
+                                                                                                                                                                             2C
+Amount Y from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                             2D
+Line 530 from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           2E
+Line 540 from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Amount AA from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                   2F
+Amount CC from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                2G
+
+                                              Subtotal (amount 2A minus amounts 2B, 2C, and 2D, plus amount 2E)
+
+Amount Q from Part 5 of Schedule 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+       Column 1                   Column 2                               Column 3                      Column 4
+     Amounts from       Amounts from column K1
+column F1 in Part 4 of                                               Column 1 minus              Lesser of columns 1
+                         in Part 4 of Schedule 7                          column 2               and 2 (if column 1 is
+       Schedule 7              multiplied by                                                     negative, enter "0")
+                                                                  (if negative, enter "0")
+                                   600,000
+
+                                   500,000
+
+                                         Totals                   2H                                                                              2I
+
+Line 370 from Part 4 of Schedule 7 . . . . . . . . . . . . . . .  2J
+
+Line 380 from Part 4 of Schedule 7 . . . . . . . . . . . . . . .  2K
+
+                   Subtotal (amount 2J plus amount 2K)            2L
+
+Enter amount 2H or amount 2L, whichever is less . . . . . . . . . . . . . . . . . . . . . . . .  2M
+
+Specified partnership income (amount 2I plus amount 2M) . . . . . . . . . . . . . . . . .                                                                                    2N
+
+Partnership income not eligible for the small business deduction (amount 2G minus amount 2N) . . . . . . .                                                                       2O
+
+Income from active business (amount 2F minus amount 2O) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                2P
+
+Enter amount 2P at amount 1I in Part 1.
+
+                                                                                                 23.00000000
+
+T2 SCH 322 E (25)                                                                                                                                                                Page 2 of 3
+                                                                                           Protected B when completed
+
+    Part 3 ­ Prince Edward Island tax before credits
+
+Prince Edward Island tax at the lower rate:
+
+                      Number of days in the tax year
+
+Amount 1F          ×                          before July 1, 2025  × 1% =                  3A
+
+                      Number of days in the tax year
+
+                      Number of days in the tax year
+
+Amount 1M          ×                          after June 30, 2025  × 1% =                  3B
+
+                      Number of days in the tax year
+
+                   Prince Edward Island tax at the lower rate (amount 3A plus amount 3B)                                                                       3C
+
+Prince Edward Island tax at the higher rate:
+
+                      Number of days in the tax year
+
+Amount 1G          ×                          before July 1, 2025  × 16% =                 3D
+
+                      Number of days in the tax year
+
+                      Number of days in the tax year
+
+Amount 1N          ×                          after June 30, 2025  × 15% =                 3E
+
+                      Number of days in the tax year
+
+                   Prince Edward Island tax at the higher rate (amount 3D plus amount 3E)                                                                      3F
+
+Prince Edward Island tax before credits (amount 3C plus amount 3F) (Note 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3G
+
+Note 4: If your corporation had a permanent establishment in more than one jurisdiction, or is claiming a Prince Edward Island tax credit,
+           enter amount 3G on line 210 of Schedule 5. Otherwise, enter it on line 760 of the T2 return.
+
+                                                                   3.00000000
+
+T2 SCH 322 E (25)                                                                                                                                              Page 3 of 3
+

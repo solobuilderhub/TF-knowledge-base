@@ -1,0 +1,125 @@
+                    Manitoba Small Business Venture Capital Tax Credit                                                                                                              Schedule 387
+                                       (2026 and later tax years)
+                                                                                                                                                                                             Code 2601
+                                                                                                 Business number
+                                                                                                                                                                                        Protected B
+                                                                                                                                                                                      when completed
+
+Corporation's name                                                                                                                                                                  Tax year-end
+
+                                                                                                                                                                              Year  Month Day
+
+· You can claim a Manitoba small business venture capital tax credit under section 11.13 of the Income Tax Act (Manitoba) if the corporation:
+  ­ is an eligible investor and has a small business venture capital (SBVC) tax credit receipt for the current tax year, or
+  ­ has unused tax credits from a prior tax year that have not expired
+
+· An eligible investor, in relation to an investment, means a corporation that is not a prescribed venture capital corporation or prescribed labour-sponsored
+
+  venture capital corporation under Part LXVII of the federal Income Tax Regulations or acting in its capacity as a dealer under The Securities Act.
+   Note : For tax years ending after April 14, 2026 eligible investment includes a qualifying security issued to an eligible partnership.
+
+· The credit applies to an eligible investment acquired on or after January 1, 2008. The credit you earned in the year is used to reduce your Manitoba tax
+
+   payable for that year. Any unused credit can be carried forward for 10 tax years or carried back to 3 previous tax years.
+
+· The maximum credit you can earn is the lesser of $225,000 and 45% of the cost of the investment, for an eligible investment made in the tax year
+
+   after April 6, 2021
+
+· The maximum credit you can claim is the lesser of:
+  ­ $120,000 for a tax year ending after April 6, 2021
+  ­ the total of current tax year credit earned and any amounts carried back or carried forward
+  ­ Manitoba income tax otherwise payable
+
+· Attach a copy of the SBVC tax credit receipt to this schedule, and include it with your T2 Corporation Income Tax Return. If you are filing electronically, keep
+
+   a copy of the receipt for your records in case we need to see it.
+
+Part 1 ­ Credit earned in the current tax year
+
+Corporation's credit amount from SBVC tax credit receipts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+
+Corporation's share of the credit amount from SBVC tax credit receipts allocated from a partnership . . . . . . . . . . . . . . . . . . . . . 103
+
+Total credit earned in the current tax year (line 102 plus line 103) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                          1A
+
+Note: If the eligible investor irrevocably subscribed and paid for an eligible investment before acquiring it, the acquisition of it is deemed to have occurred
+        when it was irrevocably subscribed and paid for.
+
+Part 2 ­ Credit available for the year and credit available for carryforward
+
+Unused credit at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                 2A
+
+Credit expired after 10 tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+
+                                                                                                                                         105                                  
+Unused credit at the beginning of this tax year (amount 2A minus line 104) . . . . . . . . . . . . . . . . . . . .                                                            
+Credit earned in the current tax year (amount 1A) 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+
+Total credit available for the current tax year (line 105 plus line 120) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                            2B
+
+Credit claimed in the current year 2 (enter on line 608 of Schedule 5, Tax Calculation Supplementary                                                                        2C
+­ Corporations) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Credit carried back to previous tax years (complete Part 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                       2D
+
+                                                Subtotal (amount 2C plus amount 2D)                                                                                                               2E
+
+Closing balance ­ credit available for carryforward (amount 2B minus amount 2E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+
+1 The maximum is $225,000 for a tax year ending after April 6, 2021.
+
+2 The credit claimed in the current year is equal to the Manitoba income tax otherwise payable, amount 2B, or $120,000, for a tax year ending after
+  April 6, 2021, whichever is the least.
+
+T2 SCH 387 E (26)   (Ce formulaire est disponible en français.)                                                                                                Page 1 of 2
+                                                                          Protected B when completed
+
+Part 3 ­ Request for carryback of credit
+
+Complete this part to request a carryback of a credit earned in the current tax year to the three previous tax years. The credit that can be carried back is
+the current year credit earned, less the amount by which the Manitoba tax otherwise payable in the current tax year exceeds any unused credits applied
+in the current tax year.
+
+The maximum amount of credit that can be applied to a prior tax year is the lesser of:
+
+· the Manitoba income tax payable in the prior tax year, and
+· $120,000 less the amount of any credit previously deducted in that prior tax year, for a tax year ending after April 6, 2021, or
+· $67,500 less the amount of any credit previously deducted in that prior tax year, for a tax year ending after June 11, 2014 and before April 7, 2021
+
+                          Year  Month Day
+
+ 1st previous tax year                     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 901
+2nd previous tax year                      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 902
+3rd previous tax year                      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 903
+
+                                                                          Total (enter at amount 2D in Part 2)                                                     3A
+
+Part 4 ­ Analysis of credit available for carryforward by year of origin
+
+You can complete this part to show all the credits from previous tax years available for carryforward, by year of origin. This will help you determine the
+amount of credit that could expire in following years.
+
+                          Year of origin                                                                                                     Credit available for
+                                                                                                                                                 carryforward
+                          Year  Month Day
+                                           .........................................................
+10th previous tax year                     .........................................................
+ 9th previous tax year                     .........................................................
+ 8th previous tax year                     .........................................................
+ 7th previous tax year                     .........................................................
+ 6th previous tax year                     .........................................................
+ 5th previous tax year                     .........................................................
+ 4th previous tax year                     .........................................................
+ 3rd previous tax year                     .........................................................
+2nd previous tax year                      .........................................................
+ 1st previous tax year                     .........................................................
+        Current tax year
+
+                                                                          Total (equals line 200 in Part 2)                                                        4A
+
+Note: The amount available from the 10th previous tax year will expire after this tax year. When you file your return for the next tax year, you will enter
+        the expired amount on line 104 of Schedule 387.
+
+T2 SCH 387 E (26)                                                                                                                              Page 2 of 2
+

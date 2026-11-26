@@ -1,0 +1,65 @@
+page	part	field	line	kind	digits	speak
+1	sfInfo	CoperationName		text		
+1	sfInfo	BusinessNumber		text		Business Number. 9 numbers, 2 letters, and 4 numbers.
+1	sfInfo/TaxYeadEndDate	DateYYYYMMDD_Comb		text		Tax year end. Year 4 digits. Month, 2 digits. Day, 2 digits.
+1	sfPart1/sfBox/sfLineA	amount	103	numeric		Line 103. Amount A. Total eligible expenditures for R and D in the taxation year.
+1	sfPart1/sfBox/sfLineB	amount	120	numeric		Line 120. Amount B. Current-year credit earned.
+1	sfPart1/sfBox/sfLine130	amount	130	numeric		Line 130. Credit allocated to a corporation that is a member of a partnership.
+1	sfPart1/sfBox/sfLine140	amount	140	numeric		Line 140. Credit allocated to a corporation that is a beneficiary under a trust.
+1	sfPart1/sfBox/sfLineC	amount1		numeric		Part 1 Subtotal. Line 130 plus line 140.
+1	sfPart1/sfBox/sfLineC	amount2		numeric		Amount C. Amount from Part 1 subtotal.
+1	sfPart1/sfBox/sfLineD	amount		numeric		Amount D. Subtotal. Amount B plus amount C.
+1	sfPart1/sfBox/sfLineE	amount	150	numeric		Line 150. Amount E. Credit renounced.
+1	sfPart1/sfBox/sfLineF	amount	190	numeric		Line 190. Amount F. Total refundable Nova Scotia R and D tax credit. Amount D minus amount E.
+2	sfBox/sfCalculation1/tblCalulation1/Row1	Cell1		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row1	Cell2		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row1	Cell3		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row2	Cell1		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row2	Cell2		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row2	Cell3		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row3	Cell1		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row3	Cell2		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row3	Cell3		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row4	Cell1		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row4	Cell2		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row4	Cell3		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row5	Cell1		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row5	Cell2		numeric		
+2	sfBox/sfCalculation1/tblCalulation1/Row5	Cell3		numeric		
+2	sfBox/sfCalculation1/sfLineG	amount		numeric		Amount G. Subtotal of amount from column 700 or 710, whichever is less.
+2	sfBox/sfCalculation2/tblCalulation1/Row1	Cell1		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row1	Cell2		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row1	Cell3		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row2	Cell1		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row2	Cell2		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row2	Cell3		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row3	Cell1		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row3	Cell2		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row3	Cell3		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row4	Cell1		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row4	Cell2		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row4	Cell3		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row5	Cell1		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row5	Cell2		numeric		
+2	sfBox/sfCalculation2/tblCalulation1/Row5	Cell3		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row1	Cell1		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row1	Cell2		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row1	Cell3		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row2	Cell1		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row2	Cell2		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row2	Cell3		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row3	Cell1		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row3	Cell2		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row3	Cell3		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row4	Cell1		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row4	Cell2		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row4	Cell3		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row5	Cell1		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row5	Cell2		numeric		
+3	sfPart2/sfCalculation2/tblCalulation1/Row5	Cell3		numeric		
+3	sfPart2/sfCalculation2/sfLineN	amount		numeric		Amount N. Subtotal of Column M.
+3	sfPart2/sfCalculation3/sfLineO	amount	760	numeric		Line 760. Amount O. Corporation's share of the recapture of Nova Scotia R&D tax credit.
+3	sfPart3/sfBox/sfLineP	amount		numeric		Part 3. Amount P. Recaptured Nova Scotia R and D tax credit for calculation 1 from line G on page 2.
+3	sfPart3/sfBox/sfLineQ	amount		numeric		Amount Q. Recaptured Nova Scotia R and D tax credit for calculation 2 from line N above.
+3	sfPart3/sfBox/sfLineR	amount		numeric		Amount R. Recaptured Nova Scotia R and D tax credit for calculation 3 from line O above.
+3	sfPart3/sfBox/sfLineS	amount		numeric		Amount S. Total recapture of Nova Scotia R and D tax credit. Total of lines P, Q, and R.

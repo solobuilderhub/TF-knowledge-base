@@ -1,0 +1,6 @@
+line	caption
+100	property investment tax credit amount
+104	Credit expired after seven tax years
+105	Unused credit at the beginning of the current tax year (amount 2A minus line 104)
+120	Credit earned in the current tax year (amount 1A)
+200	Closing balance (amount 2B minus amount 2E)

@@ -1,0 +1,12 @@
+line	caption
+110	Name of person to contact for more information
+150	Is the claim filed for an ATTC earned through a partnership?
+160	If you answered yes to the question at line 150, what is the name of the partnership?
+170	Enter the percentage of the partnership's ATTC allocated to the corporation
+200	Did the corporation have a permanent establishment in Ontario in the tax year?
+210	Was the corporation exempt from tax under Part III of the Taxation Act, 2007 (Ontario)?
+300	Corporation's salaries and wages paid in the previous tax year
+312	Specified percentage
+314	Specified percentage
+420	training agreement (see note 2) (see note 3)
+500	Ontario apprenticeship training tax credit (total of amounts in column N)

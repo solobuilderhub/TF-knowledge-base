@@ -1,0 +1,59 @@
+                   Nova Scotia Financial Institutions Capital Tax                                        Schedule 353
+                      Agreement Among Related Corporations                                                      Code 2101
+                                 (2021 and later tax years)
+                                                                                                           Protected B
+                                                                                                         when completed
+
+· Use this schedule if you are related financial institutions that are liable to pay the Nova Scotia financial institutions capital tax to allocate the basic capital
+
+  deduction among the members of the related group.
+
+  ­ $5 million, if the total amount of the capital of the financial institution and its related financial institutions is $10 million or less
+
+  ­ $30 million, for a financial institution that is a trust company or a loan company with its registered office in Nova Scotia
+
+  ­ the deduction is NIL in all other circumstances
+
+· A related financial institution that has more than one tax year ending in a calendar year has to file an agreement for each tax year ending in that calendar
+
+  year.
+
+· A financial institution that is related to one or more other financial institutions at the end of a taxation year may file this agreement for the allocation of the
+
+  basic capital deduction on behalf of the related group of which the financial institution is a member, for the taxation year. The amount allocated cannot
+  be more than the basic capital deduction.
+
+· Subsections 190.15(5), and (6) apply to this allocation if the references of capital deduction and corporation are read as basic capital deduction and
+
+  financial institution respectively.
+
+· According to subsection 190.15(5), when a corporation (the first corporation) has more than one tax year ending in the same calendar year and is
+
+  related in two or more of those tax years to another corporation that has a tax year ending in that calendar year, the basic capital deduction of the first
+  corporation for each such tax year at the end of which it is related to the other corporation is an amount equal to its basic capital deduction for the first
+  such tax year.
+
+· Section 190.15(6) provides for the limited circumstances when two corporations who would otherwise be related to one another are deemed
+
+  not to be related.
+
+· Unless otherwise stated, all legislative references are to the federal Income Tax Act.
+
+· If you do not have enough space to list all the information, use an additional Schedule 353.
+
+· File a completed copy of this schedule with your T2 Corporation Income Tax Return.
+
+                                         Allocation of basic capital deduction for related corporations
+
+Name of each corporation that is a member of the related group  Business Number                       Allocation of basic capital deduction
+                                        200
+                                                                (If a corporation is not registered,  for the year
+
+                                                                enter NR)                             $
+
+                                                                300                                   400
+
+                                                                     Total 410
+
+T2 SCH 353 E (24)  (Ce formulaire est disponible en français.)
+

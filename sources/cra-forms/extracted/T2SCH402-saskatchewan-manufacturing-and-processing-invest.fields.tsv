@@ -1,0 +1,38 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Nm		text		Corporation's name.
+1		BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Prt1_Tbl_sf/Table1/Row1	Cell1	101	text		Line 101. Capital Cost Allowance class number. Row 1.
+1	Prt1_Tbl_sf/Table1/Row1	Cell2		text		Description of qualified property. Row 1.
+1	Prt1_Tbl_sf/Table1/Row1/Cell3	DateYYYYMMDD_Comb	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+1	Prt1_Tbl_sf/Table1/Row1	Cell4	103	numeric	12	Line 103. Capital cost. Row 1.
+1	Prt1_Tbl_sf/Table1/Row2	Cell1	101	text		Line 101. Capital Cost Allowance class number. Row 2.
+1	Prt1_Tbl_sf/Table1/Row2	Cell2		text		Description of qualified property. Row 2.
+1	Prt1_Tbl_sf/Table1/Row2/Cell3	DateYYYYMMDD_Comb	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+1	Prt1_Tbl_sf/Table1/Row2	Cell4	103	numeric	12	Line 103. Capital cost. Row 2.
+1	Prt1_Tbl_sf/Table1/Row3	Cell1	101	text		Line 101. Capital Cost Allowance class number. Row 3.
+1	Prt1_Tbl_sf/Table1/Row3	Cell2		text		Description of qualified property. Row 3.
+1	Prt1_Tbl_sf/Table1/Row3/Cell3	DateYYYYMMDD_Comb	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+1	Prt1_Tbl_sf/Table1/Row3	Cell4	103	numeric	12	Line 103. Capital cost. Row 3.
+1	Prt1_Tbl_sf/Table1/Row4	Cell1	101	text		Line 101. Capital Cost Allowance class number. Row 4.
+1	Prt1_Tbl_sf/Table1/Row4	Cell2		text		Description of qualified property. Row 4.
+1	Prt1_Tbl_sf/Table1/Row4/Cell3	DateYYYYMMDD_Comb	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+1	Prt1_Tbl_sf/Table1/Row4	Cell4	103	numeric	12	Line 103. Capital cost. Row 4.
+1	Prt1_Tbl_sf/Table1/Row5	Cell1	101	text		Line 101. Capital Cost Allowance class number. Row 5.
+1	Prt1_Tbl_sf/Table1/Row5	Cell2		text		Description of qualified property. Row 5.
+1	Prt1_Tbl_sf/Table1/Row5/Cell3	DateYYYYMMDD_Comb	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+1	Prt1_Tbl_sf/Table1/Row5	Cell4	103	numeric	12	Line 103. Capital cost. Row 5.
+1	Prt1_Tbl_sf/Table1/Row6	Cell1	101	text		Line 101. Capital Cost Allowance class number. Row 6.
+1	Prt1_Tbl_sf/Table1/Row6	Cell2		text		Description of qualified property. Row 6.
+1	Prt1_Tbl_sf/Table1/Row6/Cell3	DateYYYYMMDD_Comb	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 6.
+1	Prt1_Tbl_sf/Table1/Row6	Cell4	103	numeric	12	Line 103. Capital cost. Row 6.
+1	Amt_1A1B1C_sf	Amt_1A		numeric	12	Amount 1A. Total capital cost. Total of line 103.
+1	Amt_1A1B1C_sf	Amt_1B		numeric	12	Amount 1B. Total capital cost of property acquired before March 23, 2017. Instance 1.
+1	Amt_1A1B1C_sf	Amt_1C		numeric	12	Amount 1C. Total capital cost of property acquired after March 22, 2017. Instance 1.
+1	Prt2_Calc_sf	Amt_1B_Inst2		numeric	12	Amount 1B. Instance 2.
+1	Prt2_Calc_sf	Amt_Ln_225	225	numeric	12	Line 225. Before March 23, 2017. Amount 1B from Part 1 multiplied by 5%.
+1	Prt2_Calc_sf	Amt_1C_Inst2		numeric	12	Amount 1C. Instance 2.
+1	Prt2_Calc_sf	Amt_Ln_226	226	numeric	12	Line 226. After March 22, 2017. Amount 1C from Part 1 multiplied by 6%.
+1	Prt2_Calc_sf	Amt_Ln_230	230	numeric	12	Line 230. Credit allocated from a partnership.
+1	Prt2_Calc_sf	Amt_Ln_240	240	numeric	12	Line 240. Credit allocated from a trust.
+1	Total_2A_sf	Amt_2A		numeric	12	Amount 2A. Saskatchewan manufacturing and processing investment tax credit. Total of lines 225, 226, 230, and 240. Enter amount 2A on line 644 of Schedule 5, Tax Calculation Supplementary – Corporations.

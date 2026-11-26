@@ -1,0 +1,149 @@
+                                                                                                                                         SCHEDULE 426
+
+                                                                                                                                                                                   Code 0101
+                                                                                                                                         Protected B when completed
+
+                    BRITISH COLUMBIA MANUFACTURING AND PROCESSING TAX CREDIT
+
+                                                  (2000 and later taxation years)
+
+Corporation's name  Business Number                                                                                              Taxation year-end
+                                                                                                                                 Year  Month Day
+
+· Use this schedule if you are a qualifying corporation that has acquired BC qualified property after March 31, 2000 and before
+
+   July 31, 2001, for use in British Columbia, and you want to do any of the following:
+       ­ calculate the credit;
+
+       ­ claim the credit to reduce British Columbia income tax otherwise payable in the current taxation year;
+       ­ request a carryback to reduce British Columbia income tax payable in any of the three preceding taxation years;
+       ­ renounce the current-year credit in whole or in part. The renouncement must be made in the year the credit was
+
+          earned or acquired, and filed on or before the filing due date of the federal T2 Corporation Income Tax Return .
+
+· A corporation is not a qualifying corporation and is therefore not eligible to claim the credit if any of the following apply:
+     · the corporation did not maintain a permanent establishment (as defined in Regulation 400 of the federal Income Tax
+
+          Regulations) in British Columbia at any time in the taxation year.
+
+     · the corporation is:
+
+              ­ a non-resident-owned investment corporation, or at any time of the year was controlled directly or indirectly in any
+                  manner whatever by a non-resident-owned investment corporation;
+
+              ­ exempt from tax under subsection 149(1) of the federal Income Tax Act, or at any time of the year, was controlled directly
+                  or indirectly in any manner whatever by one or more persons, all or part of whose income is exempt from tax; or
+
+              ­ of a type or class of corporation prescribed by regulation.
+
+     · the corporation was at any time in the year:
+
+              ­ a small business venture capital corporation registered under section 3 of the Small Business Venture Capital Act; or
+              ­ an employee venture capital corporation registered under section 8 of the Employee Investment Act .
+
+· If the corporation has claimed the two-year income tax holiday for new small businesses under section 17 of the Income Tax Act
+
+   (British Columbia) in the taxation year, it will not be allowed to calculate the credit for the same taxation year.
+
+· BC qualified property consists of buildings, machinery, and equipment that is prescribed for the purposes of the definition of qualified
+
+   property in subsection 127(9) of the federal Act, that was not acquired for use or lease, for any purpose before it was acquired by the
+   corporation and that is to be used by the corporation in British Columbia primarily for the purpose of manufacturing or processing of
+   goods for sale or lease. Property leased by the corporation to a related qualifying corporation may also qualify for the credit.
+   Manufacturing or processing is defined in subsection 125.1(3) of the federal Act. BC qualified property has to be available for use (as
+   defined in subsections 13(27) and 13(28) of the federal Act) before it is eligible for the credit.
+
+· BC qualified property cannot include excluded property. Excluded property is property acquired by a qualifying corporation in a
+
+   taxation year in the course of earning income in the taxation year if any of the income is exempt income (as defined in subsection
+   248(1) of the federal Act), or is exempt from tax under Part I of the federal Act.
+
+· Capital cost of BC qualified property must be identified on this schedule and filed with the Canada Customs and Revenue
+
+   Agency no later than 18 months after the end of the taxation year in which the property was acquired.
+
+· Capital cost of BC qualified property must be calculated without any amount for cost of borrowing, (section 21 of the federal Act)
+
+   without applying capital cost of certain property, (subsections 13(7.1) and 13(7.4) of the federal Act) and by subtracting amounts of
+   government assistance and non-government assistance (as defined in subsection 104(1) of the Income Tax Act (British Columbia)).
+
+· The credit may be carried forward ten years and carried back three years. You can carry the tax credit back to a taxation year
+
+   ending before April 1, 2000.
+
+· Use this schedule to show the credit allocated from a partnership. You can also use this schedule to show a credit transfer
+
+   following an amalgamation or windup of a subsidiary as described under subsections 87(1) and 88(1) of the federal Act.
+
+· File one completed copy of this schedule with your T2 Corporation Income Tax Return
+
+Freedom of Information and Protection of Privacy Act :
+
+The personal information requested on this form is collected under the authority of and used for the purpose of
+administering the Income Tax Act (British Columbia) . Questions about the collection or use of this information can be
+directed to the Income Taxation Branch at 250 387-3332, PO Box 9434, Stn Prov Gov't, Victoria BC V8W 9V3.
+
+T2 SCH 426 E (02)   (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca/formulaires ou en composant 1-800-959-7775.)
+                                                                                                                                                                                        Protected B when completed
+
+                             Part 1 ­ Qualified property (acquired in current taxation year) eligible for the credit
+
+     101                                                                                                                                  102                                               103
+CCA class no.                                                                                                                                                                           Capital cost
+                                               Description of BC qualified property                                                       Acquisition date
+
+                                                                                                                                    Year  Month Day
+
+                                               Subtotal of capital cost (attach another schedule if you need more space)                                                                                  A
+
+                                                                                     Add: amount of assistance repaid 100                                                                                 B
+
+                                                                                     Total capital cost (amount A plus amount B)                                                                          C
+
+                                              Part 2 ­ Calculation of total credit available and credit available for carryforward                          
+                                                                                                                                                            
+Credit at end of preceding taxation year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                
+Deduct: Credit expired after ten taxation years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+Credit at beginning of taxation year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+
+Add:
+Credit transferred on amalgamation or windup of subsidiary. . . . . . . . . . . . . . . . . . . . . . . 110
+
+Current year credit earned: . . .amount C from above                                 × 3% = 120
+
+Credit allocated from a partnership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+
+                                                                                     Subtotal
+
+Total credit available . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    D
+
+Deduct:
+
+Credit renounced . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+
+Credit claimed in the current year (enter on line 660 in Part 2 of Schedule 5) . . . . . . . . . 160
+
+Credit carried back to preceding taxation year(s) (complete Part 3) . . . . . . . . . . . . . . . . . . . . .                                               E
+
+                                                                                     Subtotal
+
+Closing balance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+
+                                                      Part 3 ­ Request for carryback of credit
+
+                             Year              Month Day
+
+1st preceding taxation year                               . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 901
+2nd preceding taxation year                               . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 902
+3rd preceding taxation year                               . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 903
+
+                                                                                                                                    Total (enter on line E in Part 2)
+
+                                   Part 4 ­ Analysis of credit available for carryforward by year of origin
+
+         Year of origin (earliest year first)  Credit available                                                                     Year of origin (earliest year first)                Credit available
+
+         Year  Month Day                                                                                                            Year  Month Day
+
+                                                                                                                                    Total (equals line 200 in Part 2)
+

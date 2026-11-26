@@ -1,0 +1,198 @@
+page	part	field	line	kind	digits	speak
+1		NameofCorporation		text		
+1		BusinessNumber_		text		Business number. 9 digits. 2 letters. 4 digits.
+1	TaxYearEnd_Date	DateYYYYMMDD_Comb		text		Taxation year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part_Capital_resident_Sub	amount110	110	numeric	12	Line 110. Long-term debt.
+1	Part_Capital_resident_Sub	amount112	112	numeric	12	Line 112. Capital stock. For a corporation incorporated without share capital, its members' contributions.
+1	Part_Capital_resident_Sub	amount114	114	numeric	12	Line 114. Retained earnings.
+1	Part_Capital_resident_Sub	amount116	116	numeric	12	Line 116. Contributed surplus.
+1	Part_Capital_resident_Sub	amount118	118	numeric	12	Line 118. Any other surplus.
+1	Part_Capital_resident_Sub	SubtotalAmount_A		numeric	12	Part 1 Subtotal A. Add lines 110, 112, 114, 116 and 118.
+1	Part_Capital_resident_Sub	Amount_A		numeric	12	Amount A. Amount from Part 1 Subtotal A.
+1	Part_Capital_resident_Sub	amount130	130	numeric	12	Line 130. Deferred tax debit balance or future tax assets
+1	Part_Capital_resident_Sub	amount132	132	numeric	12	Line 132. Any deficit deducted in computing shareholders' equity. Subsection 63(4) of the Taxation Act, 2007. Ontario.
+1	Part_Capital_resident_Sub	SubtotalAmount_B		numeric	12	Part 1 Subtotal B. Line 130 plus line 132.
+1	Part_Capital_resident_Sub	Amount_B		numeric	12	Amount B. Amount from Part 1 Subtotal B.
+1		amount150_part1	150	numeric	12	Line 150. Capital for the year. Amount A minus amount B. If negative, enter 0.
+1	Part2_sf	amount150_part2		numeric	12	Capital for the year. Amount from line 150 in Part 1.
+1	Part2_sf	amount160	160	numeric	12	Line 160. Capital of foreign insurance subsidiaries. Amount BBB from page 4.
+1	Part2_sf	SubtotalAmount_C		numeric	12	Amount C. Capital for the year plus line 160.
+1	Part2_sf	amount164	164	numeric	12	Line 164. Total reserve liabilities.
+1	Part2_sf	amount166	166	numeric	12	Line 166. Total reserve liabilities of foreign subsidiaries. Amount CCC from page 4.
+1	Part2_sf	SubtotalAmount_D		numeric	12	Amount D. Subtotal. Add line 164 and line 166.
+1	Part2_sf	Amount_E	168	numeric	12	Line 168. Amount E. Canadian reserve liabilities Regulation 2400(1).
+1	Part2_sf	AmountE_prportion		numeric		Amount E.
+1	Part2_sf	AmountD_prportion		numeric		Amount D.
+1	Part2_sf	Amount_F	170	numeric	12	Line 170. Amount F. Amount E divided by Amount D multiplied by Amount C.
+1	Part2_sf	amount180	180	numeric	12	Line 180. Amount determined under subparagraph 190.11(b)(ii).
+1	Part2_sf	amount_190	190	numeric	12	Line 190. Taxable capital employed in Canada. Resident life insurance corporation. Amount on line 170 plus the amount on line 180.
+2	Part3_Capital_Taxable_Sub	amount210	210	numeric	12	Line 210. The amount, if any, by which the corporation's surplus funds derived from operations as of the end of the year, exceeds the total of all amounts, each of which is an amount on which it was required or would have been required, but for subsection 219(5.2), to have paid tax under Part XIV for a previous tax year, less the part, if any, of the amount on which tax was payable, or would have been payable, described in subparagraph 219(4)(a)(i.1), or an amount on which it was required or would have been required, but for subsection 219(5.2), to have paid tax under subsection 219(5.1) for the year because of the transfer of an insurance business to which subsection 138(11.5) or (11.92) applied.
+2	Part3_Capital_Taxable_Sub	amount214	214	numeric	12	Line 214. Attributed surplus for the year. Regulation 2400(1).
+2	Part3_Capital_Taxable_Sub	GreaterofAmount210and214_G		numeric	12	Amount G. Greater of the amounts on line 210 and line 214. Instance 1.
+2	Part3_Capital_Taxable_Sub	AmountG		numeric	12	Amount G. Greater of the amounts on line 210 and line 214. Instance 2.
+2	Part3_Capital_Taxable_Sub	amount218	218	numeric	12	Line 218. Any other surpluses related to insurance businesses carried on in Canada.
+2	Part3_Capital_Taxable_Sub	amount222	222	numeric	12	Line 222. Long term debt that may reasonably be regarded as related to insurance businesses carried on in Canada.
+2	Part3_Capital_Taxable_Sub	amount226	226	numeric	12	Line 226. Amount determined under subparagraph 190.11(b)(ii).
+2	Part3_Capital_Taxable_Sub	SubtotalAmount_H		numeric	12	Part 3 Subtotal. Add lines 218, 222 and 226.
+2	Part3_Capital_Taxable_Sub	AmountH		numeric	12	Amount H. Amount from Part 3 Subtotal.
+2	Part3_Capital_Taxable_Sub	Amount_I	290	numeric	12	Line 290. Capital and taxable capital employed in Canada (non-resident life insurance corporation). Amount G plus amount H.
+2	Part4_Capital_allowance_Sub	CheckBox	310	check		Line 310. Is the corporation related at the end of the year to another life insurance corporation that carries on business in Canada? Yes.
+2	Part4_Capital_allowance_Sub	CheckBox	310	check		Line 310. Is the corporation related at the end of the year to another life insurance corporation that carries on business in Canada? No.
+2	Part4_Capital_allowance_Sub	NameofCorporation	315	text		Line 315. Name of corporation.
+2	Part4_Capital_allowance_Sub/BusinessNumber_Part4	BusinessNumber_RT1	320	text		Line 320. First part of the business number. 9 digits.
+2	Part4_Capital_allowance_Sub/BusinessNumber_Part4	BusinessNumber_RT		text		
+2	Part4_Capital_allowance_Sub/BusinessNumber_Part4	BusinessNumber_RT2	320	text		Line 320. Second part of the business number. 4 digits.
+2	Part4_Capital_allowance_Sub/TaxYearEnd_Date	DateYYYYMMDD_Comb	325	text		Line 325. Tax Year End. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_Capital_allowance_Sub	Amount_1		numeric		Amount 1. Basic amount.
+2	Part4_Capital_allowance_Sub	Amount_lesserof50		numeric	12	0.50 multiplied by [(lesser of $50 million and line 190 or line 290) minus $10 million]. If negative, enter 0.
+2	Part4_Capital_allowance_Sub	Amount_lesserof100		numeric	12	0.25 multiplied by [(lesser of $100 million and line 190 or line 290) minus $50 million]. If negative, enter 0.
+2	Part4_Capital_allowance_Sub	Amount_lesserof300		numeric	12	0.50 multiplied by [(lesser of $300 million and line 190 or line 290) minus $200 million]. If negative, enter 0.
+2	Part4_Capital_allowance_Sub	Amount_line190or290		numeric	12	0.75 multiplied by [(line 190 or line 290) minus $300 million]. If negative, enter 0.
+2	Part4_Capital_allowance_Sub	Subtoatal_lesser		numeric	12	Part 4 Subtotal. Add the 0.50 x [(lesser of $50 million and line 190 or line 290) minus $10 million] plus the result of 0.25 x [(lesser of $100 million and line 190 or line 290) minus $50 million] plus the result of 0.50 x [(lesser of $300 million and line 190 or line 290) minus $200 million] plus the result of 0.75 x [(line 190 or line 290) minus $300 million].
+2	Part4_Capital_allowance_Sub	Amount_2		numeric	12	Amount 2. Amount from Part 4 Subtotal.
+2	Part4_Capital_allowance_Sub	Amount_3		numeric	12	Amount 3. Total. Amount 1 plus amount 2.
+2	Part4_Capital_allowance_Sub	Amount_330	330	numeric	12	Line 330. Capital allowance. Amount 3 or the amount from line 400 on Schedule 513, whichever applies.
+3	Part5_Taxable_paidup_Sub	amount_line190or290		numeric	12	Taxable capital employed in Canada. Amount from line 190 in Part 2 or line 290 in Part 3.
+3	Part5_Taxable_paidup_Sub	amount_fromline330Part4		numeric	12	Capital allowance. Amount from line 330 in Part 4.
+3	Part5_Taxable_paidup_Sub	Subtotal_Deduct_Part5		numeric	12	Part 5 Subtotal. Taxable capital employed in Canada minus Capital allowance.
+3	Part5_Taxable_paidup_Sub	Amount_J		numeric	12	Amount J. Amount from Part 5 Subtotal.
+3	Part5_Taxable_paidup_Sub	Amount_K		numeric		Amount K. Ontario domestic factor. Ontario taxable income divided by taxable income earned in all provinces and territories.
+3	Part5_Taxable_paidup_Sub	Amount_Line350	350	numeric	12	Line 350. Taxable paid-up capital Amount J multiplied by amount K.
+3	Part6_SAT	Amount_L		numeric	12	Amount L. Taxable paid-up capital. Amount from line 350 in Part 5.
+3	Part6_SAT	Num_of_Days		numeric	3	Number of days in the tax year.
+3	Part6_SAT	AmountM	460	numeric	12	Line 460. Amount M. Amount L multiplied by 1.25% multiplied by the result of the number of days in the tax year divided by 365.
+3	Part6_SAT	amount_ontario_corp_incom		numeric	12	Ontario corporate income tax payable. Amount from line G6 of Schedule 5.
+3	Part6_SAT	amount_ontario_min_tax_pay		numeric	12	Ontario corporate minimum tax payable. Amount from line 278 of Schedule 5.
+3	Part6_SAT	SubtotalAmount_N		numeric	12	Part 6 Subtotal. Ontario corporate income tax payable plus Ontario corporate minimum tax payable.
+3	Part6_SAT	Amount_N		numeric	12	Amount N. Amount from Part 6 Subtotal.
+3	Part6_SAT	Amount_O		numeric	12	Amount O. Special additional tax payable. Amount M minus amount N. If negative, enter 0. Enter this amount on line 280 of Schedule 5.
+4	Table_1/Row1	Cell1		text		Table 1. Column 1. Name of foreign insurance subsidiary. Row 1.
+4	Table_1/Row1	Cell2		numeric	11	Table 1. Column 2. Long - term debt. Row 1.
+4	Table_1/Row1	Cell3		numeric	11	Table 1. Column 3. Capital stock or members' contributions. Row 1.
+4	Table_1/Row1	Cell4		numeric	11	Table 1. Column 4. Retained earnings. Row 1.
+4	Table_1/Row1	Cell5		numeric	11	Table 1. Column 5. Surpluses. Row 1.
+4	Table_1/Row1	Cell6		numeric	11	Table 1. Column 6. Subtotal. Amount in column 2 plus the amount in column 3 plus the amount in column 4 plus the amount column 5. Row 1.
+4	Table_1/Row1	Cell7		numeric	11	Table 1. Column 7. Deferred tax debit balance or future tax assets. Row 1.
+4	Table_1/Row1	Cell8		numeric	11	Table 1. Column 8. Deficit deducted in computing shareholders' equity. Row 1.
+4	Table_1/Row1	Cell9		numeric	11	Table 1. Column 9. Capital. Amount in column 6 minus the result of the amount in column 7 plus the amount in column 8. Enter in column 2 in Table 2 below. Row 1.
+4	Table_1/Row2	Cell1		text		Table 1. Column 1. Name of foreign insurance subsidiary. Row 2.
+4	Table_1/Row2	Cell2		numeric	11	Table 1. Column 2. Long - term debt. Row 2.
+4	Table_1/Row2	Cell3		numeric	11	Table 1. Column 3. Capital stock or members' contributions. Row 2.
+4	Table_1/Row2	Cell4		numeric	11	Table 1. Column 4. Retained earnings. Row 2.
+4	Table_1/Row2	Cell5		numeric	11	Table 1. Column 5. Surpluses. Row 2.
+4	Table_1/Row2	Cell6		numeric	11	Table 1. Column 6. Subtotal. Amount in column 2 plus the amount in column 3 plus the amount in column 4 plus the amount column 5. Row 2.
+4	Table_1/Row2	Cell7		numeric	11	Table 1. Column 7. Deferred tax debit balance or future tax assets. Row 2.
+4	Table_1/Row2	Cell8		numeric	11	Table 1. Column 8. Deficit deducted in computing shareholders' equity. Row 2.
+4	Table_1/Row2	Cell9		numeric	11	Table 1. Column 9. Capital. Amount in column 6 minus the result of the amount in column 7 plus the amount in column 8. Enter in column 2 in Table 2 below. Row 2.
+4	Table_1/Row3	Cell1		text		Table 1. Column 1. Name of foreign insurance subsidiary. Row 3.
+4	Table_1/Row3	Cell2		numeric	11	Table 1. Column 2. Long - term debt. Row 3.
+4	Table_1/Row3	Cell3		numeric	11	Table 1. Column 3. Capital stock or members' contributions. Row 3.
+4	Table_1/Row3	Cell4		numeric	11	Table 1. Column 4. Retained earnings. Row 3.
+4	Table_1/Row3	Cell5		numeric	11	Table 1. Column 5. Surpluses. Row 3.
+4	Table_1/Row3	Cell6		numeric	11	Table 1. Column 6. Subtotal. Amount in column 2 plus the amount in column 3 plus the amount in column 4 plus the amount column 5. Row 3.
+4	Table_1/Row3	Cell7		numeric	11	Table 1. Column 7. Deferred tax debit balance or future tax assets. Row 3.
+4	Table_1/Row3	Cell8		numeric	11	Table 1. Column 8. Deficit deducted in computing shareholders' equity. Row 3.
+4	Table_1/Row3	Cell9		numeric	11	Table 1. Column 9. Capital. Amount in column 6 minus the result of the amount in column 7 plus the amount in column 8. Enter in column 2 in Table 2 below. Row 3.
+4	Table_1/Row4	Cell1		text		Table 1. Column 1. Name of foreign insurance subsidiary. Row 4.
+4	Table_1/Row4	Cell2		numeric	11	Table 1. Column 2. Long - term debt. Row 4.
+4	Table_1/Row4	Cell3		numeric	11	Table 1. Column 3. Capital stock or members' contributions. Row 4.
+4	Table_1/Row4	Cell4		numeric	11	Table 1. Column 4. Retained earnings. Row 4.
+4	Table_1/Row4	Cell5		numeric	11	Table 1. Column 5. Surpluses. Row 4.
+4	Table_1/Row4	Cell6		numeric	11	Table 1. Column 6. Subtotal. Amount in column 2 plus the amount in column 3 plus the amount in column 4 plus the amount column 5. Row 4.
+4	Table_1/Row4	Cell7		numeric	11	Table 1. Column 7. Deferred tax debit balance or future tax assets. Row 4.
+4	Table_1/Row4	Cell8		numeric	11	Table 1. Column 8. Deficit deducted in computing shareholders' equity. Row 4.
+4	Table_1/Row4	Cell9		numeric	11	Table 1. Column 9. Capital. Amount in column 6 minus the result of the amount in column 7 plus the amount in column 8. Enter in column 2 in Table 2 below. Row 4.
+4	Table_1/Row5	Cell1		text		Table 1. Column 1. Name of foreign insurance subsidiary. Row 5.
+4	Table_1/Row5	Cell2		numeric	11	Table 1. Column 2. Long - term debt. Row 5.
+4	Table_1/Row5	Cell3		numeric	11	Table 1. Column 3. Capital stock or members' contributions. Row 5.
+4	Table_1/Row5	Cell4		numeric	11	Table 1. Column 4. Retained earnings. Row 5.
+4	Table_1/Row5	Cell5		numeric	11	Table 1. Column 5. Surpluses. Row 5.
+4	Table_1/Row5	Cell6		numeric	11	Table 1. Column 6. Subtotal. Amount in column 2 plus the amount in column 3 plus the amount in column 4 plus the amount column 5. Row 5.
+4	Table_1/Row5	Cell7		numeric	11	Table 1. Column 7. Deferred tax debit balance or future tax assets. Row 5.
+4	Table_1/Row5	Cell8		numeric	11	Table 1. Column 8. Deficit deducted in computing shareholders' equity. Row 5.
+4	Table_1/Row5	Cell9		numeric	11	Table 1. Column 9. Capital. Amount in column 6 minus the result of the amount in column 7 plus the amount in column 8. Enter in column 2 in Table 2 below. Row 5.
+4	Table_1/Row6	Cell1		text		Table 1. Column 1. Name of foreign insurance subsidiary. Row 6.
+4	Table_1/Row6	Cell2		numeric	11	Table 1. Column 2. Long - term debt. Row 6.
+4	Table_1/Row6	Cell3		numeric	11	Table 1. Column 3. Capital stock or members' contributions. Row 6.
+4	Table_1/Row6	Cell4		numeric	11	Table 1. Column 4. Retained earnings. Row 6.
+4	Table_1/Row6	Cell5		numeric	11	Table 1. Column 5. Surpluses. Row 6.
+4	Table_1/Row6	Cell6		numeric	11	Table 1. Column 6. Subtotal. Amount in column 2 plus the amount in column 3 plus the amount in column 4 plus the amount column 5. Row 6.
+4	Table_1/Row6	Cell7		numeric	11	Table 1. Column 7. Deferred tax debit balance or future tax assets. Row 6.
+4	Table_1/Row6	Cell8		numeric	11	Table 1. Column 8. Deficit deducted in computing shareholders' equity. Row 6.
+4	Table_1/Row6	Cell9		numeric	11	Table 1. Column 9. Capital. Amount in column 6 minus the result of the amount in column 7 plus the amount in column 8. Enter in column 2 in Table 2 below. Row 6.
+4	Table_1/Row7	Cell1		text		Table 1. Column 1. Name of foreign insurance subsidiary. Row 7.
+4	Table_1/Row7	Cell2		numeric	11	Table 1. Column 2. Long - term debt. Row 7.
+4	Table_1/Row7	Cell3		numeric	11	Table 1. Column 3. Capital stock or members' contributions. Row 7.
+4	Table_1/Row7	Cell4		numeric	11	Table 1. Column 4. Retained earnings. Row 7.
+4	Table_1/Row7	Cell5		numeric	11	Table 1. Column 5. Surpluses. Row 7.
+4	Table_1/Row7	Cell6		numeric	11	Table 1. Column 6. Subtotal. Amount in column 2 plus the amount in column 3 plus the amount in column 4 plus the amount column 5. Row 7.
+4	Table_1/Row7	Cell7		numeric	11	Table 1. Column 7. Deferred tax debit balance or future tax assets. Row 7.
+4	Table_1/Row7	Cell8		numeric	11	Table 1. Column 8. Deficit deducted in computing shareholders' equity. Row 7.
+4	Table_1/Row7	Cell9		numeric	11	Table 1. Column 9. Capital. Amount in column 6 minus the result of the amount in column 7 plus the amount in column 8. Enter in column 2 in Table 2 below. Row 7.
+4	Table_1/Row8	Cell1		text		Table 1. Column 1. Name of foreign insurance subsidiary. Row 8.
+4	Table_1/Row8	Cell2		numeric	11	Table 1. Column 2. Long - term debt. Row 8.
+4	Table_1/Row8	Cell3		numeric	11	Table 1. Column 3. Capital stock or members' contributions. Row 8.
+4	Table_1/Row8	Cell4		numeric	11	Table 1. Column 4. Retained earnings. Row 8.
+4	Table_1/Row8	Cell5		numeric	11	Table 1. Column 5. Surpluses. Row 8.
+4	Table_1/Row8	Cell6		numeric	11	Table 1. Column 6. Subtotal. Amount in column 2 plus the amount in column 3 plus the amount in column 4 plus the amount column 5. Row 8.
+4	Table_1/Row8	Cell7		numeric	11	Table 1. Column 7. Deferred tax debit balance or future tax assets. Row 8.
+4	Table_1/Row8	Cell8		numeric	11	Table 1. Column 8. Deficit deducted in computing shareholders' equity. Row 8.
+4	Table_1/Row8	Cell9		numeric	11	Table 1. Column 9. Capital. Amount in column 6 minus the result of the amount in column 7 plus the amount in column 8. Enter in column 2 in Table 2 below. Row 8.
+4	Table_2/Row1	Cell1		text		Table 2. Column 1. Name of foreign insurance subsidiary. Row 1.
+4	Table_2/Row1	Cell2		numeric	11	Table 2. Column 2. Capital of foreign insurance subsidiary per subsection 63(6) of the Taxation Act, 2007, Ontario. From column 9 in Table 1. Row 1.
+4	Table_2/Row1	Cell3		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Capital Stock. Row 1.
+4	Table_2/Row1	Cell4		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Long term debt. Row 1.
+4	Table_2/Row1	Cell5		numeric	12	Table 2. Column 4. Any other surplus contributed into the subsidiary per clause 63(6)(b) of the Taxation Act, 2007, Ontario. Row 1.
+4	Table_2/Row1	Cell6		numeric	12	Table 2. Column 5. Amount determined under subsection 63(6) of the Taxation Act, 2007, Ontario. Capital of foreign insurance subsidiaries. Amount in column 2 minus the result of the amount in column 3 plus the amount in column 4. Row 1.
+4	Table_2/Row1	Cell7		numeric	12	Table 2. Column 6. Total reserve liabilities under subsection 63(7) of the Taxation Act, 2007, Ontario. Row 1.
+4	Table_2/Row2	Cell1		text		Table 2. Column 1. Name of foreign insurance subsidiary. Row 2.
+4	Table_2/Row2	Cell2		numeric	11	Table 2. Column 2. Capital of foreign insurance subsidiary per subsection 63(6) of the Taxation Act, 2007, Ontario. From column 9 in Table 1. Row 2.
+4	Table_2/Row2	Cell3		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Capital Stock. Row 2.
+4	Table_2/Row2	Cell4		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Long term debt. Row 2.
+4	Table_2/Row2	Cell5		numeric	12	Table 2. Column 4. Any other surplus contributed into the subsidiary per clause 63(6)(b) of the Taxation Act, 2007, Ontario. Row 2.
+4	Table_2/Row2	Cell6		numeric	12	Table 2. Column 5. Amount determined under subsection 63(6) of the Taxation Act, 2007, Ontario. Capital of foreign insurance subsidiaries. Amount in column 2 minus the result of the amount in column 3 plus the amount in column 4. Row 2.
+4	Table_2/Row2	Cell7		numeric	12	Table 2. Column 6. Total reserve liabilities under subsection 63(7) of the Taxation Act, 2007, Ontario. Row 2.
+4	Table_2/Row3	Cell1		text		Table 2. Column 1. Name of foreign insurance subsidiary. Row 3.
+4	Table_2/Row3	Cell2		numeric	11	Table 2. Column 2. Capital of foreign insurance subsidiary per subsection 63(6) of the Taxation Act, 2007, Ontario. From column 9 in Table 1. Row 3.
+4	Table_2/Row3	Cell3		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Capital Stock. Row 3.
+4	Table_2/Row3	Cell4		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Long term debt. Row 3.
+4	Table_2/Row3	Cell5		numeric	12	Table 2. Column 4. Any other surplus contributed into the subsidiary per clause 63(6)(b) of the Taxation Act, 2007, Ontario. Row 3.
+4	Table_2/Row3	Cell6		numeric	12	Table 2. Column 5. Amount determined under subsection 63(6) of the Taxation Act, 2007, Ontario. Capital of foreign insurance subsidiaries. Amount in column 2 minus the result of the amount in column 3 plus the amount in column 4. Row 3.
+4	Table_2/Row3	Cell7		numeric	12	Table 2. Column 6. Total reserve liabilities under subsection 63(7) of the Taxation Act, 2007, Ontario. Row 3.
+4	Table_2/Row4	Cell1		text		Table 2. Column 1. Name of foreign insurance subsidiary. Row 4.
+4	Table_2/Row4	Cell2		numeric	11	Table 2. Column 2. Capital of foreign insurance subsidiary per subsection 63(6) of the Taxation Act, 2007, Ontario. From column 9 in Table 1. Row 4.
+4	Table_2/Row4	Cell3		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Capital Stock. Row 4.
+4	Table_2/Row4	Cell4		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Long term debt. Row 4.
+4	Table_2/Row4	Cell5		numeric	12	Table 2. Column 4. Any other surplus contributed into the subsidiary per clause 63(6)(b) of the Taxation Act, 2007, Ontario. Row 4.
+4	Table_2/Row4	Cell6		numeric	12	Table 2. Column 5. Amount determined under subsection 63(6) of the Taxation Act, 2007, Ontario. Capital of foreign insurance subsidiaries. Amount in column 2 minus the result of the amount in column 3 plus the amount in column 4. Row 4.
+4	Table_2/Row4	Cell7		numeric	12	Table 2. Column 6. Total reserve liabilities under subsection 63(7) of the Taxation Act, 2007, Ontario. Row 4.
+4	Table_2/Row5	Cell1		text		Table 2. Column 1. Name of foreign insurance subsidiary. Row 5.
+4	Table_2/Row5	Cell2		numeric	11	Table 2. Column 2. Capital of foreign insurance subsidiary per subsection 63(6) of the Taxation Act, 2007, Ontario. From column 9 in Table 1. Row 5.
+4	Table_2/Row5	Cell3		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Capital Stock. Row 5.
+4	Table_2/Row5	Cell4		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Long term debt. Row 5.
+4	Table_2/Row5	Cell5		numeric	12	Table 2. Column 4. Any other surplus contributed into the subsidiary per clause 63(6)(b) of the Taxation Act, 2007, Ontario. Row 5.
+4	Table_2/Row5	Cell6		numeric	12	Table 2. Column 5. Amount determined under subsection 63(6) of the Taxation Act, 2007, Ontario. Capital of foreign insurance subsidiaries. Amount in column 2 minus the result of the amount in column 3 plus the amount in column 4. Row 5.
+4	Table_2/Row5	Cell7		numeric	12	Table 2. Column 6. Total reserve liabilities under subsection 63(7) of the Taxation Act, 2007, Ontario. Row 5.
+4	Table_2/Row6	Cell1		text		Table 2. Column 1. Name of foreign insurance subsidiary. Row 6.
+4	Table_2/Row6	Cell2		numeric	11	Table 2. Column 2. Capital of foreign insurance subsidiary per subsection 63(6) of the Taxation Act, 2007, Ontario. From column 9 in Table 1. Row 6.
+4	Table_2/Row6	Cell3		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Capital Stock. Row 6.
+4	Table_2/Row6	Cell4		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Long term debt. Row 6.
+4	Table_2/Row6	Cell5		numeric	12	Table 2. Column 4. Any other surplus contributed into the subsidiary per clause 63(6)(b) of the Taxation Act, 2007, Ontario. Row 6.
+4	Table_2/Row6	Cell6		numeric	12	Table 2. Column 5. Amount determined under subsection 63(6) of the Taxation Act, 2007, Ontario. Capital of foreign insurance subsidiaries. Amount in column 2 minus the result of the amount in column 3 plus the amount in column 4. Row 6.
+4	Table_2/Row6	Cell7		numeric	12	Table 2. Column 6. Total reserve liabilities under subsection 63(7) of the Taxation Act, 2007, Ontario. Row 6.
+4	Table_2/Row7	Cell1		text		Table 2. Column 1. Name of foreign insurance subsidiary. Row 7.
+4	Table_2/Row7	Cell2		numeric	11	Table 2. Column 2. Capital of foreign insurance subsidiary per subsection 63(6) of the Taxation Act, 2007, Ontario. From column 9 in Table 1. Row 7.
+4	Table_2/Row7	Cell3		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Capital Stock. Row 7.
+4	Table_2/Row7	Cell4		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Long term debt. Row 7.
+4	Table_2/Row7	Cell5		numeric	12	Table 2. Column 4. Any other surplus contributed into the subsidiary per clause 63(6)(b) of the Taxation Act, 2007, Ontario. Row 7.
+4	Table_2/Row7	Cell6		numeric	12	Table 2. Column 5. Amount determined under subsection 63(6) of the Taxation Act, 2007, Ontario. Capital of foreign insurance subsidiaries. Amount in column 2 minus the result of the amount in column 3 plus the amount in column 4. Row 7.
+4	Table_2/Row7	Cell7		numeric	12	Table 2. Column 6. Total reserve liabilities under subsection 63(7) of the Taxation Act, 2007, Ontario. Row 7.
+4	Table_2/Row8	Cell1		text		Table 2. Column 1. Name of foreign insurance subsidiary. Row 8.
+4	Table_2/Row8	Cell2		numeric	11	Table 2. Column 2. Capital of foreign insurance subsidiary per subsection 63(6) of the Taxation Act, 2007, Ontario. From column 9 in Table 1. Row 8.
+4	Table_2/Row8	Cell3		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Capital Stock. Row 8.
+4	Table_2/Row8	Cell4		numeric	9	Table 2. Column 3. Capital stock and long-term debt invested in the subsidiary per clause 63(6)(a) of the Taxation Act, 2007, Ontario. Long term debt. Row 8.
+4	Table_2/Row8	Cell5		numeric	12	Table 2. Column 4. Any other surplus contributed into the subsidiary per clause 63(6)(b) of the Taxation Act, 2007, Ontario. Row 8.
+4	Table_2/Row8	Cell6		numeric	12	Table 2. Column 5. Amount determined under subsection 63(6) of the Taxation Act, 2007, Ontario. Capital of foreign insurance subsidiaries. Amount in column 2 minus the result of the amount in column 3 plus the amount in column 4. Row 8.
+4	Table_2/Row8	Cell7		numeric	12	Table 2. Column 6. Total reserve liabilities under subsection 63(7) of the Taxation Act, 2007, Ontario. Row 8.
+4		Totals_BBB		numeric	12	Amount BBB. Total column 5. Enter on line 160 in Part 2.
+4		Totals_CCC		numeric	12	Amount CCC. Total column 6. Enter on line 166 in Part 2.

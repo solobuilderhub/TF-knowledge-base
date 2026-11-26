@@ -1,0 +1,154 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Name		text		Corporation's name
+1		Business_Number		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Tax_Date	Tax_Year_End		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Prt1_SF/Table1_sf/Table1/Row1	Cell1	101	choice		Line 101. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 1.
+1	Prt1_SF/Table1_sf/Table1/Row1	Cell2	108	text		Line 108. Description of eligible property. Include the address for CCA class 1 property. Row 1.
+1	Prt1_SF/Table1_sf/Table1/Row1	Cell3	102	choice		Line 102. Designated region. Choose your selection from the drop down menu. Row 1.
+1	Prt1_SF/Table1_sf/Table1/Row1/Cell4/Acq_Date	Date	103	text		Line 103. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+1	Prt1_SF/Table1_sf/Table1/Row1	Cell5	104	numeric	12	Line 104. Capital cost. Row 1.
+1	Prt1_SF/Table1_sf/Table1/Row2	Cell1	101	choice		Line 101. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 2.
+1	Prt1_SF/Table1_sf/Table1/Row2	Cell2	108	text		Line 108. Description of eligible property. Include the address for CCA class 1 property. Row 2.
+1	Prt1_SF/Table1_sf/Table1/Row2	Cell3	102	choice		Line 102. Designated region. Choose your selection from the drop down menu. Row 2.
+1	Prt1_SF/Table1_sf/Table1/Row2/Cell4/Acq_Date	Date	103	text		Line 103. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+1	Prt1_SF/Table1_sf/Table1/Row2	Cell5	104	numeric	12	Line 104. Capital cost. Row 2.
+1	Prt1_SF/Table1_sf/Table1/Row3	Cell1	101	choice		Line 101. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 3.
+1	Prt1_SF/Table1_sf/Table1/Row3	Cell2	108	text		Line 108. Description of eligible property. Include the address for CCA class 1 property. Row 3.
+1	Prt1_SF/Table1_sf/Table1/Row3	Cell3	102	choice		Line 102. Designated region. Choose your selection from the drop down menu. Row 3.
+1	Prt1_SF/Table1_sf/Table1/Row3/Cell4/Acq_Date	Date	103	text		Line 103. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+1	Prt1_SF/Table1_sf/Table1/Row3	Cell5	104	numeric	12	Line 104. Capital cost. Row 3.
+1	Prt1_SF/Table1_sf/Table1/Row4	Cell1	101	choice		Line 101. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 4.
+1	Prt1_SF/Table1_sf/Table1/Row4	Cell2	108	text		Line 108. Description of eligible property. Include the address for CCA class 1 property. Row 4.
+1	Prt1_SF/Table1_sf/Table1/Row4	Cell3	102	choice		Line 102. Designated region. Choose your selection from the drop down menu. Row 4.
+1	Prt1_SF/Table1_sf/Table1/Row4/Cell4/Acq_Date	Date	103	text		Line 103. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+1	Prt1_SF/Table1_sf/Table1/Row4	Cell5	104	numeric	12	Line 104. Capital cost. Row 4.
+1	Prt1_SF/Table1_sf/Table1/Row5	Cell1	101	choice		Line 101. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 5.
+1	Prt1_SF/Table1_sf/Table1/Row5	Cell2	108	text		Line 108. Description of eligible property. Include the address for CCA class 1 property. Row 5.
+1	Prt1_SF/Table1_sf/Table1/Row5	Cell3	102	choice		Line 102. Designated region. Choose your selection from the drop down menu. Row 5.
+1	Prt1_SF/Table1_sf/Table1/Row5/Cell4/Acq_Date	Date	103	text		Line 103. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+1	Prt1_SF/Table1_sf/Table1/Row5	Cell5	104	numeric	12	Line 104. Capital cost. Row 5.
+1	Prt1_SF/Table1_sf/Table1/Row6	Cell1	101	choice		Line 101. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 6.
+1	Prt1_SF/Table1_sf/Table1/Row6	Cell2	108	text		Line 108. Description of eligible property. Include the address for CCA class 1 property. Row 6.
+1	Prt1_SF/Table1_sf/Table1/Row6	Cell3	102	choice		Line 102. Designated region. Choose your selection from the drop down menu. Row 6.
+1	Prt1_SF/Table1_sf/Table1/Row6/Cell4/Acq_Date	Date	103	text		Line 103. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 6.
+1	Prt1_SF/Table1_sf/Table1/Row6	Cell5	104	numeric	12	Line 104. Capital cost. Row 6.
+1	Prt1_SF/Table1_sf/Table1/Row7	Cell1	101	choice		Line 101. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 7.
+1	Prt1_SF/Table1_sf/Table1/Row7	Cell2	108	text		Line 108. Description of eligible property. Include the address for CCA class 1 property. Row 7.
+1	Prt1_SF/Table1_sf/Table1/Row7	Cell3	102	choice		Line 102. Designated region. Choose your selection from the drop down menu. Row 7.
+1	Prt1_SF/Table1_sf/Table1/Row7/Cell4/Acq_Date	Date	103	text		Line 103. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 7.
+1	Prt1_SF/Table1_sf/Table1/Row7	Cell5	104	numeric	12	Line 104. Capital cost. Row 7.
+1	Prt1_SF/Table1_sf/Table1/Row8	Cell1	101	choice		Line 101. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 8.
+1	Prt1_SF/Table1_sf/Table1/Row8	Cell2	108	text		Line 108. Description of eligible property. Include the address for CCA class 1 property. Row 8.
+1	Prt1_SF/Table1_sf/Table1/Row8	Cell3	102	choice		Line 102. Designated region. Choose your selection from the drop down menu. Row 8.
+1	Prt1_SF/Table1_sf/Table1/Row8/Cell4/Acq_Date	Date	103	text		Line 103. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 8.
+1	Prt1_SF/Table1_sf/Table1/Row8	Cell5	104	numeric	12	Line 104. Capital cost. Row 8.
+1	Prt1_SF/Table1_sf/Table1/Row9	Cell1	101	choice		Line 101. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 9.
+1	Prt1_SF/Table1_sf/Table1/Row9	Cell2	108	text		Line 108. Description of eligible property. Include the address for CCA class 1 property. Row 9.
+1	Prt1_SF/Table1_sf/Table1/Row9	Cell3	102	choice		Line 102. Designated region. Choose your selection from the drop down menu. Row 9.
+1	Prt1_SF/Table1_sf/Table1/Row9/Cell4/Acq_Date	Date	103	text		Line 103. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 9.
+1	Prt1_SF/Table1_sf/Table1/Row9	Cell5	104	numeric	12	Line 104. Capital cost. Row 9.
+1	Prt1_SF/Table1_sf/Table1/Row10	Cell1	101	choice		Line 101. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 10.
+1	Prt1_SF/Table1_sf/Table1/Row10	Cell2	108	text		Line 108. Description of eligible property. Include the address for CCA class 1 property. Row 10.
+1	Prt1_SF/Table1_sf/Table1/Row10	Cell3	102	choice		Line 102. Designated region. Choose your selection from the drop down menu. Row 10.
+1	Prt1_SF/Table1_sf/Table1/Row10/Cell4/Acq_Date	Date	103	text		Line 103. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 10.
+1	Prt1_SF/Table1_sf/Table1/Row10	Cell5	104	numeric	12	Line 104. Capital cost. Row 10.
+1	Prt1_SF/Table1_sf/Table1/Row11	Cell1	101	choice		Line 101. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 11.
+1	Prt1_SF/Table1_sf/Table1/Row11	Cell2	108	text		Line 108. Description of eligible property. Include the address for CCA class 1 property. Row 11.
+1	Prt1_SF/Table1_sf/Table1/Row11	Cell3	102	choice		Line 102. Designated region. Choose your selection from the drop down menu. Row 11.
+1	Prt1_SF/Table1_sf/Table1/Row11/Cell4/Acq_Date	Date	103	text		Line 103. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 11.
+1	Prt1_SF/Table1_sf/Table1/Row11	Cell5	104	numeric	12	Line 104. Capital cost. Row 11.
+1	Prt1_SF/Table1_sf/Table1/Row12	Cell1	101	choice		Line 101. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 12.
+1	Prt1_SF/Table1_sf/Table1/Row12	Cell2	108	text		Line 108. Description of eligible property. Include the address for CCA class 1 property. Row 12.
+1	Prt1_SF/Table1_sf/Table1/Row12	Cell3	102	choice		Line 102. Designated region. Choose your selection from the drop down menu. Row 12.
+1	Prt1_SF/Table1_sf/Table1/Row12/Cell4/Acq_Date	Date	103	text		Line 103. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 12.
+1	Prt1_SF/Table1_sf/Table1/Row12	Cell5	104	numeric	12	Line 104. Capital cost. Row 12.
+1	Prt1_SF/Prt1_Amt_sf	Amt_A		numeric	12	Amount A. Total capital cost of eligible property.
+1	Prt1_SF/Prt1_Amt_sf	Amt_B		numeric	12	Amount B. Amount A minus $50,000. If negative enter 0.
+1	Prt1_SF/Prt1_Amt_sf	Amt_C_Inst1		numeric	12	Amount C. $450,000 or amount B, whichever is less. Instance 1.
+1	Prt1_SF/Prt1_Amt_sf	Amt_C_Inst2		numeric	12	Amount C. Instance 2.
+1	Prt1_SF/Prt1_Amt_sf	Days_in_Tx_Yr		numeric	3	Number of days in the current tax year. Instance 1.
+1	Prt1_SF/Prt1_Amt_sf	Amt_105	105	numeric	12	Line 105. Amount C multiplied by the number of days in the current tax year, divided by 365.
+2	Prt2_SF/FromToDates_Comb_Adv_EN	FromDate	230	text		Line 230. Short year start. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Prt2_SF/FromToDates_Comb_Adv_EN	ToDate	240	text		Line 240. Short year end. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Prt2_SF/Table2_sf/Table1/Row1	Cell1	201	choice		Line 201. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 1.
+2	Prt2_SF/Table2_sf/Table1/Row1	Cell2	208	text		Line 208. Description of eligible property. Include the address for CCA class 1 property. Row 1.
+2	Prt2_SF/Table2_sf/Table1/Row1	Cell3	202	choice		Line 202. Designated region. Choose your selection from the drop down menu. Row 1.
+2	Prt2_SF/Table2_sf/Table1/Row1/Cell4/Acq_Date	Date	203	text		Line 203. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+2	Prt2_SF/Table2_sf/Table1/Row1	Cell5	204	numeric	12	Line 204. Capital cost. Row 1.
+2	Prt2_SF/Table2_sf/Table1/Row2	Cell1	201	choice		Line 201. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 2.
+2	Prt2_SF/Table2_sf/Table1/Row2	Cell2	208	text		Line 208. Description of eligible property. Include the address for CCA class 1 property. Row 2.
+2	Prt2_SF/Table2_sf/Table1/Row2	Cell3	202	choice		Line 202. Designated region. Choose your selection from the drop down menu. Row 2.
+2	Prt2_SF/Table2_sf/Table1/Row2/Cell4/Acq_Date	Date	203	text		Line 203. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+2	Prt2_SF/Table2_sf/Table1/Row2	Cell5	204	numeric	12	Line 204. Capital cost. Row 2.
+2	Prt2_SF/Table2_sf/Table1/Row3	Cell1	201	choice		Line 201. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 3.
+2	Prt2_SF/Table2_sf/Table1/Row3	Cell2	208	text		Line 208. Description of eligible property. Include the address for CCA class 1 property. Row 3.
+2	Prt2_SF/Table2_sf/Table1/Row3	Cell3	202	choice		Line 202. Designated region. Choose your selection from the drop down menu. Row 3.
+2	Prt2_SF/Table2_sf/Table1/Row3/Cell4/Acq_Date	Date	203	text		Line 203. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+2	Prt2_SF/Table2_sf/Table1/Row3	Cell5	204	numeric	12	Line 204. Capital cost. Row 3.
+2	Prt2_SF/Table2_sf/Table1/Row4	Cell1	201	choice		Line 201. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 4.
+2	Prt2_SF/Table2_sf/Table1/Row4	Cell2	208	text		Line 208. Description of eligible property. Include the address for CCA class 1 property. Row 4.
+2	Prt2_SF/Table2_sf/Table1/Row4	Cell3	202	choice		Line 202. Designated region. Choose your selection from the drop down menu. Row 4.
+2	Prt2_SF/Table2_sf/Table1/Row4/Cell4/Acq_Date	Date	203	text		Line 203. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+2	Prt2_SF/Table2_sf/Table1/Row4	Cell5	204	numeric	12	Line 204. Capital cost. Row 4.
+2	Prt2_SF/Table2_sf/Table1/Row5	Cell1	201	choice		Line 201. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 5.
+2	Prt2_SF/Table2_sf/Table1/Row5	Cell2	208	text		Line 208. Description of eligible property. Include the address for CCA class 1 property. Row 5.
+2	Prt2_SF/Table2_sf/Table1/Row5	Cell3	202	choice		Line 202. Designated region. Choose your selection from the drop down menu. Row 5.
+2	Prt2_SF/Table2_sf/Table1/Row5/Cell4/Acq_Date	Date	203	text		Line 203. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+2	Prt2_SF/Table2_sf/Table1/Row5	Cell5	204	numeric	12	Line 204. Capital cost. Row 5.
+2	Prt2_SF/Table2_sf/Table1/Row6	Cell1	201	choice		Line 201. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 6.
+2	Prt2_SF/Table2_sf/Table1/Row6	Cell2	208	text		Line 208. Description of eligible property. Include the address for CCA class 1 property. Row 6.
+2	Prt2_SF/Table2_sf/Table1/Row6	Cell3	202	choice		Line 202. Designated region. Choose your selection from the drop down menu. Row 6.
+2	Prt2_SF/Table2_sf/Table1/Row6/Cell4/Acq_Date	Date	203	text		Line 203. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 6.
+2	Prt2_SF/Table2_sf/Table1/Row6	Cell5	204	numeric	12	Line 204. Capital cost. Row 6.
+2	Prt2_SF/Table2_sf/Table1/Row7	Cell1	201	choice		Line 201. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 7.
+2	Prt2_SF/Table2_sf/Table1/Row7	Cell2	208	text		Line 208. Description of eligible property. Include the address for CCA class 1 property. Row 7.
+2	Prt2_SF/Table2_sf/Table1/Row7	Cell3	202	choice		Line 202. Designated region. Choose your selection from the drop down menu. Row 7.
+2	Prt2_SF/Table2_sf/Table1/Row7/Cell4/Acq_Date	Date	203	text		Line 203. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 7.
+2	Prt2_SF/Table2_sf/Table1/Row7	Cell5	204	numeric	12	Line 204. Capital cost. Row 7.
+2	Prt2_SF/Table2_sf/Table1/Row8	Cell1	201	choice		Line 201. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 8.
+2	Prt2_SF/Table2_sf/Table1/Row8	Cell2	208	text		Line 208. Description of eligible property. Include the address for CCA class 1 property. Row 8.
+2	Prt2_SF/Table2_sf/Table1/Row8	Cell3	202	choice		Line 202. Designated region. Choose your selection from the drop down menu. Row 8.
+2	Prt2_SF/Table2_sf/Table1/Row8/Cell4/Acq_Date	Date	203	text		Line 203. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 8.
+2	Prt2_SF/Table2_sf/Table1/Row8	Cell5	204	numeric	12	Line 204. Capital cost. Row 8.
+2	Prt2_SF/Table2_sf/Table1/Row9	Cell1	201	choice		Line 201. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 9.
+2	Prt2_SF/Table2_sf/Table1/Row9	Cell2	208	text		Line 208. Description of eligible property. Include the address for CCA class 1 property. Row 9.
+2	Prt2_SF/Table2_sf/Table1/Row9	Cell3	202	choice		Line 202. Designated region. Choose your selection from the drop down menu. Row 9.
+2	Prt2_SF/Table2_sf/Table1/Row9/Cell4/Acq_Date	Date	203	text		Line 203. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 9.
+2	Prt2_SF/Table2_sf/Table1/Row9	Cell5	204	numeric	12	Line 204. Capital cost. Row 9.
+2	Prt2_SF/Table2_sf/Table1/Row10	Cell1	201	choice		Line 201. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 10.
+2	Prt2_SF/Table2_sf/Table1/Row10	Cell2	208	text		Line 208. Description of eligible property. Include the address for CCA class 1 property. Row 10.
+2	Prt2_SF/Table2_sf/Table1/Row10	Cell3	202	choice		Line 202. Designated region. Choose your selection from the drop down menu. Row 10.
+2	Prt2_SF/Table2_sf/Table1/Row10/Cell4/Acq_Date	Date	203	text		Line 203. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 10.
+2	Prt2_SF/Table2_sf/Table1/Row10	Cell5	204	numeric	12	Line 204. Capital cost. Row 10.
+2	Prt2_SF/Table2_sf/Table1/Row11	Cell1	201	choice		Line 201. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 11.
+2	Prt2_SF/Table2_sf/Table1/Row11	Cell2	208	text		Line 208. Description of eligible property. Include the address for CCA class 1 property. Row 11.
+2	Prt2_SF/Table2_sf/Table1/Row11	Cell3	202	choice		Line 202. Designated region. Choose your selection from the drop down menu. Row 11.
+2	Prt2_SF/Table2_sf/Table1/Row11/Cell4/Acq_Date	Date	203	text		Line 203. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 11.
+2	Prt2_SF/Table2_sf/Table1/Row11	Cell5	204	numeric	12	Line 204. Capital cost. Row 11.
+2	Prt2_SF/Table2_sf/Table1/Row12	Cell1	201	choice		Line 201. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 12.
+2	Prt2_SF/Table2_sf/Table1/Row12	Cell2	208	text		Line 208. Description of eligible property. Include the address for CCA class 1 property. Row 12.
+2	Prt2_SF/Table2_sf/Table1/Row12	Cell3	202	choice		Line 202. Designated region. Choose your selection from the drop down menu. Row 12.
+2	Prt2_SF/Table2_sf/Table1/Row12/Cell4/Acq_Date	Date	203	text		Line 203. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 12.
+2	Prt2_SF/Table2_sf/Table1/Row12	Cell5	204	numeric	12	Line 204. Capital cost. Row 12.
+2	Prt2_SF/Table2_sf/Table1/Row13	Cell1	201	choice		Line 201. CCA class number 1 or 6. Choose your selection from the drop down menu. Row 13.
+2	Prt2_SF/Table2_sf/Table1/Row13	Cell2	208	text		Line 208. Description of eligible property. Include the address for CCA class 1 property. Row 13.
+2	Prt2_SF/Table2_sf/Table1/Row13	Cell3	202	choice		Line 202. Designated region. Choose your selection from the drop down menu. Row 13.
+2	Prt2_SF/Table2_sf/Table1/Row13/Cell4/Acq_Date	Date	203	text		Line 203. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 13.
+2	Prt2_SF/Table2_sf/Table1/Row13	Cell5	204	numeric	12	Line 204. Capital cost. Row 13.
+2	Prt2_SF/Prt2_Amts_sf	Amt_D		numeric	12	Amount D. Total capital cost in the short year.
+2	Prt2_SF/Prt2_Amts_sf	Amt_E		numeric	12	Amount E. Amount D minus $50,000. If negative enter 0.
+2	Prt2_SF/Prt2_Amts_sf	Amt_F		numeric	12	Amount F. $450,000 or amount E, whichever is less. Instance 1.
+2	Prt2_SF/Prt2_Amts_sf	Amt_210	210	numeric	3	Line 210. Number of days in the period that starts on the first day of the short year and ends on the day before the start of the current tax year.
+2	Prt2_SF/Prt2_Amts_sf	_365_min_210		numeric	3	365 minus line 210.
+2	Prt2_SF/Prt2_Amts_sf	G		numeric		Ratio G. 365 minus line 210. The result is divided by 365.
+2	Prt2_SF/Prt2_Amts_sf	Days_in_Tx_Yr		numeric	3	Number of days in the current tax year. Instance 2.
+2	Prt2_SF/Prt2_Amts_sf	Amt_H		numeric		Ratio H. Number of days in the current tax year divided by 365.
+2	Prt2_SF/Prt2_Amts_sf	Amt_I		numeric		Ratio I. Ratio G or H, whichever is less.
+2	Prt2_SF/Prt2_Amts_sf	Amt_F_Inst2		numeric	12	Amount F. Instance 2.
+2	Prt2_SF/Prt2_Amts_sf	Amt_220	220	numeric	12	Line 220. Amount F multiplied by ratio I.
+2	Prt3_SF/Prt3_Amts_sf	Amt_J		numeric	12	Amount J. Line 105 multiplied by 10%.
+2	Prt3_SF/Prt3_Amts_sf	Amt_320	320	numeric	12	Line 320. Total of line 220 for all applicable short years multiplied by 10%.
+2	Prt3_SF/Prt3_Amts_sf	Amt_K		numeric	12	Amount K. Amount J plus line 320.
+2	Prt3_SF/Prt3_Amts_sf	Days_in_Tx_Yr		numeric	3	Number of days in the current tax year. Instance 4.
+2	Prt3_SF/Prt3_Amts_sf	Amt_L		numeric	12	Amount L. $450,000 multiplied by the number of days in the current tax year, divided by 365. The result is multiplied by 10%.
+2	Prt3_SF/Prt3_Amts_sf	Amt_340	340	numeric	12	Line 340. Ontario regional opportunities investment tax credit. Amount K or L, whichever is less.

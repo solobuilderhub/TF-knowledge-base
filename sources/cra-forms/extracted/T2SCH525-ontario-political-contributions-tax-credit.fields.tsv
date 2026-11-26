@@ -1,0 +1,22 @@
+page	part	field	line	kind	digits	speak
+1	Personal_Info_sf	Corp_Name		text		Corporation's name.
+1	Personal_Info_sf	BusinessNumber		text		Business Number. 9 digits, 2 letters, and 4 digits.
+1	Personal_Info_sf/Date	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part_1_sf/AmountA_sf	AmountA		numeric	12	Amount A. Eligible contribution balance at the end of the previous tax year. Enter the amount from line 190 of Schedule 525 from the previous tax year, if applicable.
+1	Part_1_sf/AmountB_sf	AmountB	100	numeric	12	Line 100. Amount B. Unused eligible contributions expired after 20 tax years.
+1	Part_1_sf/AmountC_sf	AmountC	110	numeric	12	Line 110. Amount C. Eligible contribution balance at the beginning of the tax year. Amount A minus amount B.
+1	Part_1_sf/AmountD_sf	AmountD	120	numeric	12	Line 120. Amount D. Eligible contributions for the current tax year. Made before January 1, 2017.
+1	Part_1_sf/AmountE_sf/E_numericfield	AmountE_Instance1		numeric	12	Amount E. Eligible contribution balance available. Amount C plus amount D. Instance 1.
+1	Part_1_sf/AmountE_sf	AmountE_instance2		numeric	12	Amount E. Instance 2.
+1	Part_1_sf/AmountF_sf	AmountF		numeric	12	Amount F. Eligible contributions used in the current tax year. Amount M from Part 2.
+1	Part_1_sf/AmountG_sf/G_numericfield	AmountG	190	numeric	12	Line 190. Amount G. Eligible contribution balance at the end of the tax year. Amount E minus amount F.
+1	Part_2_sf/AmountH_sf	AmountH		numeric	12	Amount H. Eligible contribution balance available. Amount E from Part 1.
+1	Part_2_sf/AmountI_sf	Lesser_of_19950		numeric	12	Lesser of $19,950 and amount H.
+1	Part_2_sf/AmountI_sf	Numeric_Percent_BordersAll		numeric		Ontario basic rate of tax. Instance 1.
+1	Part_2_sf/AmountI_sf	AmountI		numeric	12	Amount I. Lesser of $19,950 and amount H multiplied by Ontario basic rate of tax.
+1	Part_2_sf/AmountJ_sf	AmountJ		numeric	12	Amount J. Ontario corporate income tax payable before OPCTC, Ontario research and development tax credit, Ontario corporate minimum tax credit, and any Ontario refundable tax credit.
+1	Part_2_sf/AmountK_sf/K_numericfield	AmountK		numeric	12	Amount K. Maximum allowable current year OPCTC. Lesser of amounts I and J.
+1	Part_2_sf/AmountL_sf/L_numeric_field	AmountL_instance1		numeric	12	Amount L. OPCTC claimed, cannot exceed amount K. Enter amount L on line 415 of Schedule 5, Tax Calculation Supplementary – Corporations. Instance 1.
+1	Part_2_sf/AmountM_sf	AmountL_instance2		numeric	12	Amount L. Instance 2.
+1	Part_2_sf/AmountM_sf	Numeric_Percent_BordersAll		numeric		Ontario basic rate of tax. Instance 2.
+1	Part_2_sf/AmountM_sf/M_numericfield	AmountM		numeric	12	Amount M. Eligible contributions used. Ontario Political Contributions Tax Credit claimed, amount L, divided by Ontario basic rate of tax. Enter at amount F in Part 1.

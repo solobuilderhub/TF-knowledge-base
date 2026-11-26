@@ -1,0 +1,44 @@
+page	part	field	line	kind	digits	speak
+1	Info_sf	Corp_Nm		text		Corporation's name.
+1	Info_sf	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Info_sf/DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Prt1_SF/NFL_Inc_sf	Amt_1A		numeric	12	Amount 1A. Taxable income for Newfoundland and Labrador.
+1	Prt1_SF/Lower_Txt_rate_sf	Amt_1B		numeric	12	Amount 1B. Line 400 of the T2 return.
+1	Prt1_SF/Lower_Txt_rate_sf	Amt_1C		numeric	12	Amount 1C. Line 405 of the T2 return.
+1	Prt1_SF/Lower_Txt_rate_sf	Amt_1D		numeric	12	Amount 1D. Line 428 of the T2 return.
+1	Prt1_SF/Lower_Txt_rate_sf	Amt_1E_inst1		numeric	12	Amount 1E. Amount 1B, 1C, or 1D, whichever is the least. Instance 1.
+1	Prt1_SF/NFL_All_Prov_sf	Amt_1E_Inst_2		numeric	12	Amount 1E. Instance 2.
+1	Prt1_SF/NFL_All_Prov_sf	Inc_for_NFL		numeric	12	Taxable income for Newfoundland and Labrador.
+1	Prt1_SF/NFL_All_Prov_sf	Inc_for_all_Prov		numeric	12	Taxable income for all provinces.
+1	Prt1_SF/NFL_All_Prov_sf	Amt_1F		numeric	12	Amount 1F. Income eligible for the lower tax rate for Newfoundland and Labrador and its offshore area. Amount 1E multiplied by the result of taxable income for Newfoundland and Labrador divided by taxable income for all provinces. Instance 1.
+1	Prt1_SF/Higher_rate_sf	Amt_1G		numeric	12	Amount 1G. Income subject to the higher tax rate for Newfoundland and Labrador and its offshore area. Amount 1A minus amount 1F. Instance 1.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/Old_Rate_sf	Amt_1F_Inst_1		numeric	12	Amount 1F. Instance 2.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/Old_Rate_sf/Calc_Fraction_sf	Days_Before_inpt		numeric		Number of days in the tax year before January 1, 2026.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/Old_Rate_sf/Calc_Fraction_sf	Days_Total_inpt		numeric		Number of days in the tax year. Instance 1.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/Old_Rate_sf	Amt_2A_inpt		numeric	12	Amount 2A. Amount 1F multiplied by the number of days in the tax year before January 1, 2026 divided by the number of days in the tax year multiplied by 2.5 percent.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/New_Rate_1_sf	Amt_1F_Inst_1		numeric	12	Amount 1F. Instance 3.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/New_Rate_1_sf/Calc_Fraction_sf	Days_Before_inpt		numeric		Number of days in the tax year after December 31, 2025 and before January 1, 2027.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/New_Rate_1_sf/Calc_Fraction_sf	Days_Total_inpt		numeric		Number of days in the tax year. Instance 2.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/New_Rate_1_sf	Amt_2A_inpt		numeric	12	Amount 2B. Amount 1F multiplied by the number of days in the tax year after December 31, 2025 and before January 1, 2027, divided by the number of days in the tax year multiplied by 2 percent.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/New_Rate_2_sf	Amt_1F_Inst_1		numeric	12	Amount 1F. Instance 4.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/New_Rate_2_sf/Calc_Fraction_sf	Days_Before_inpt		numeric		Number of days in the tax year after December 31, 2026 and before January 1, 2028.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/New_Rate_2_sf/Calc_Fraction_sf	Days_Total_inpt		numeric		Number of days in the tax year. Instance 3.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/New_Rate_2_sf	Amt_2A_inpt		numeric	12	Amount 2C. Amount 1F multiplied by the number of days in the tax year after December 31, 2026 and before January 1, 2028, divided by the number of days in the tax year multiplied by 1.5 percent.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/New_Rate_3_sf	Amt_1F_Inst_1		numeric	12	Amount 1F. Instance 5.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/New_Rate_3_sf/Calc_Fraction_sf	Days_Before_inpt		numeric		Number of days in the tax year after December 31, 2027.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/New_Rate_3_sf/Calc_Fraction_sf	Days_Total_inpt		numeric		Number of days in the tax year. Instance 4.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/New_Rate_3_sf	Amt_2A_inpt		numeric	12	Amount 2D. Amount 1F multiplied by the number of days in the tax year after December 31, 2027 divided by the number of days in the tax year multiplied by 1 percent.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/Amnt_2A_sf	Amt_2C_Inst_1		numeric	12	Amount 2E. Tax at the lower rate for Newfoundland and Labrador and its offshore area. Amount 2A plus amount 2B plus amount 2C plus amount 2D. Instance 1.
+1	Prt2_SF/Calc_2C_sf/Lower_Rate_sf/Amnt_2A_sf	Amt_2C_Inst_2		numeric	12	Amount 2E. Instance 2.
+1	Prt2_SF/Calc_2C_sf/Higher_Rate_sf	Amt_1G_inst2		numeric	12	Amount 1G. Instance 2.
+1	Prt2_SF/Calc_2C_sf/Higher_Rate_sf	Amt_2B		numeric	12	Amount 2F. Tax at the higher rate for Newfoundland and Labrador and its offshore area. Amount 1G multiplied by 15 percent.
+1	Prt2_SF/Calc_2C_sf/Amnt_2C_sf	Amt_2C_Inst_2		numeric	12	Amount 2G. Tax for Newfoundland and Labrador and its offshore area. Amount 2E plus amount 2F. Instance 1.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Prt2_SF/OffShr_sf	Amt2C_Inst3		numeric	12	Amount 2G. Instance 2.
+2	Prt2_SF/OffShr_sf	NFL_Tax_Inc_Amt		numeric	12	Taxable income for Newfoundland and Labrador offshore area.
+2	Prt2_SF/OffShr_sf	NFL_Tx_Inc_both_Amt		numeric	12	Taxable income for Newfoundland and Labrador plus taxable income for Newfoundland and Labrador offshore area.
+2	Prt2_SF/OffShr_sf	Amt_2D		numeric	12	Amount 2H. Newfoundland and Labrador offshore tax. Amount 2G multiplied by the result of taxable income for Newfoundland and Labrador offshore area divided by taxable income for Newfoundland and Labrador plus taxable income for Newfoundland and Labrador offshore area.
+2	Prt2_SF/TxBfr_Crdt_sf	Amt_2E		numeric	12	Amount 2I. Newfoundland and Labrador tax before credits. Amount 2G minus amount 2H. Enter amount 2I on line 200 of Schedule 5.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		

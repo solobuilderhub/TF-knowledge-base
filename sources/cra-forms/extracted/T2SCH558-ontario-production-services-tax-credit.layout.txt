@@ -1,0 +1,218 @@
+Corporation's name                    Ontario Production Services Tax Credit                                                                                                               Schedule 558
+                                                (2020 and later tax years)                                                                                                                         Code 2001
+
+                                                                                                          Business number                                                                    Protected B
+                                                                                                                                                                                            when completed
+
+                                                                                                                                                                                  Tax year-end
+                                                                                                                                                                             Year Month Day
+
+· Use this schedule to claim an Ontario production services tax credit (OPSTC) under section 92 of the Taxation Act, 2007 (Ontario). Complete a separate
+
+  Schedule 558 for each eligible production.
+
+· The OPSTC is a refundable tax credit that is equal to 21.5% of the qualifying production expenditure (QPE) incurred after April 23, 2015, by a qualifying
+
+  corporation in a tax year for eligible productions. Only expenditures incurred after the final script stage to the end of the post production stage are eligible for
+  the credit.
+
+· To claim the OPSTC, you must meet the eligibility requirements in Part 3.
+
+· If you claim, or have claimed the Ontario film and television tax credit for that same production for any tax year, the OPSTC you are entitled to is nil for that
+
+  same eligible Ontario production.
+
+· Before claiming an OPSTC, a qualifying corporation must obtain a Certificate of Eligibility from Ontario Creates for each eligible production. Enter the
+
+  certificate information for the production in Part 2.
+
+· The OPSTC is considered government assistance under paragraph 12(1)(x) of the federal Income Tax Act and must either be included in income in
+
+  the tax year the credit is received or deducted from the capital cost of the property. The OPSTC is not considered assistance under subsection 33(4)
+  of Ontario Regulation 37/09 to the Taxation Act, 2007 (Ontario) for the purposes of calculating the credit itself.
+
+· To claim the OPSTC, include this schedule and a copy of the certificate of eligibility issued by Ontario Creates with your T2 Corporation Income Tax Return for
+
+  the tax year.
+
+     Part 1 ­ Contact information                                                                         120 Telephone number
+
+110 Name of contact person
+
+     Part 2 ­ Identifying the eligible production
+
+200 Certificate of eligibility number
+
+210 Production title
+
+220 Date principal photography began  Year Month Day
+
+230 Estimated QPE                                     240 Estimated OPSTC for the production
+
+Part 3 ­ Eligibility
+
+1. Did the primary activities of the corporation in the tax year consist of carrying on a film or video production                                                           Yes  No
+business or a film or video production services business, through a permanent establishment in Ontario? . . . . . . . 300
+
+2. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario) or
+Part I of the federal Income Tax Act? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310            Yes  No
+
+3. Was the corporation, at any time in the tax year, controlled directly or indirectly, in any way, by one or more
+
+persons, all or part of whose taxable income was exempt from tax under Part I of the federal
+Income Tax Act? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 320  Yes  No
+
+4. Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation? . . . . . 330                                                Yes  No
+
+5. Have you claimed, at any time, an Ontario film and television tax credit for the production identified in Part 2? . . . . 400                                             Yes  No
+
+If you answered no to question 1; or yes to questions 2, 3, 4, or 5, you are not eligible for the OPSTC.
+
+T2 SCH 558 E (20)                                  (Ce formulaire est disponible en français.)                      Page 1 of 3
+                                                                                                                                                       Protected B when completed
+
+   Part 4 ­ Ontario production expenditure
+
+Eligible wage expenditure paid to Ontario-based individuals, for services rendered in Ontario, that is directly attributable
+to the eligible production . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 730
+
+Eligible service contract expenditure, for services rendered in Ontario, that is directly attributable
+to the eligible production and paid to:
+
+    Ontario-based individuals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 732
+
+other taxable Canadian corporations (for their Ontario-based employees) . . . . . . . . . . . . 734
+
+other taxable Canadian corporations (solely owned by an Ontario-based individual) . . . . 736
+
+partnerships (for their Ontario-based members or employees) . . . . . . . . . . . . . . . . . . . . . 738
+
+                                                              Subtotal (total of lines 732 to 738)                                740
+
+Eligible wage and service contract expenditures incurred by a parent corporation (a taxable Canadian corporation) and
+transferred to its wholly-owned subsidiary (the corporation) under a reimbursement agreement . . . . . . . . . . . . . . . . . . . . . . . . 745
+
+Complete lines 746 and 747 if there is an entry on line 745:
+
+Name of parent corporation 746
+
+Business number of parent corporation . . . . . . . . . . . . . . . 747
+
+Eligible tangible property expenditure directly attributable to the eligible production . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 750
+
+Ontario production expenditure for the tax year (total of lines 730, 740, 745 and 750) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 751
+
+Ontario production expenditure for all previous tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 752
+
+Ontario production expenditure (line 751 plus line 752) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 755
+
+Part 5 ­ Assistance
+
+Assistance received for the Ontario production expenditure included on line 755 (include                                          760
+amounts received, entitled to be received, or reasonably expected to be received by the
+corporation or any other person or partnership). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 757
+Amounts repaid under a legal obligation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 758
+
+                                                        Subtotal (line 757 minus line 758) (if negative, enter "0")
+
+Amounts deemed to have been paid/received, as applicable, for the eligible production and included on line 755:
+
+Federal tax credits and assistance* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 762
+
+Ontario refundable tax credits and assistance** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 764
+
+                                                                         Subtotal (line 762 plus line 764)                        765
+
+Net assistance (line 760 minus line 765) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 770
+
+* Include only the following federal tax credits and assistance:
+
+    ­ Canadian film or video production tax credit
+    ­ Investment tax credit
+    ­ Investment tax credit of cooperative corporation
+    ­ Assistance provided by the Canada Media Fund under the License Fee Program referred to in subsection 1106(11) of the Federal regulations
+
+** Include only the following Ontario refundable tax credits and assistance:
+
+    ­ Ontario Production Services Tax Credit
+    ­ Ontario Book Publishing Tax Credit
+    ­ Ontario Computer Animation and Special Effects Tax Credit
+
+                                                                                                                                                                           Page 2 of 3
+                                                                                                                                          Protected B when completed
+
+Part 6 ­ Qualifying production expenditure for the tax year
+
+Ontario production expenditure (line 755 in Part 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  A
+
+Net assistance (line 770 in Part 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  B
+
+QPE from all previous tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 775
+
+Eligible wage and service contract expenditures incurred by the parent corporation
+(a taxable Canadian corporation) and transferred to its wholly-owned subsidiary
+corporation under a reimbursement agreement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 780
+
+Subtotal (total of amount B, line 775 and line 780)                                                                                     785
+
+Qualifying production expenditure (amount A minus line 785) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 786
+
+Calculation of the qualifying production expenditure limit:
+
+Eligible wage expenditure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         1
+
+Remuneration directly attributable to the production and paid to:
+
+Ontario-based individuals (and their Ontario-based employees)*                                2
+
+Taxable Canadian corporations (solely-owned by an
+
+Ontario-based individual) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       3
+
+Other taxable Canadian corporations* . . . . . . . . . . . . . . . . . . . . .                4
+
+Partnerships (for their Ontario-based members or employees)*                                  5
+
+If you are a wholly-owned subsidiary, the eligible wage and
+
+service contract expenditures* incurred by your parent
+
+corporation (a taxable Canadian corporation) and that you have
+
+reimbursed under a reimbursement agreement . . . . . . . . . . . . . .                        6
+
+Subtotal (total of amounts 1 to 6)                                                            7
+
+Amount 7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  ×4=                                      C
+
+Net assistance (line 770 in Part 5) . . . . . . . . . . . . . . . . . . . . . . .             8
+
+If you are a parent corporation (a taxable Canadian corporation),
+
+the eligible wage and service contract expenditures incurred by
+
+you and reimbursed by your wholly-owned subsidiary corporation                                9
+under a reimbursement agreement . . . . . . . . . . . . . . . . . . . . . . .
+
+Subtotal (amount 8 plus amount 9)                                                                                                      D
+
+Qualifying production expenditure limit (amount C minus amount D)                                                                       787
+
+Qualifying production expenditure for the tax year (line 786 or line 787, whichever is less) . . . . . . . . . . . . . . . . . . . . . . . . . 795
+
+* Amounts 2, 4, 5, and 6 are restricted to salary and wages paid to Ontario-based employees for services provided under contract.
+** Ontario labour expenditures must amount to at least 25% of the qualifying production expenditures.
+
+Part 7 ­ Ontario production services tax credit
+
+QPE for the tax year (line 795 in Part 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 716        × 21.5% =                                   E
+
+Ontario production services tax credit (amount E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 720
+
+Enter the amount from line 720 on line 460 of Schedule 5, Tax Calculation Supplementary ­ Corporations. If you are filing more than one Schedule 558,
+add the amounts on line 720 from all of the schedules and enter the total on line 460 of Schedule 5.
+
+                                                                                                                                       See the privacy statement on your return.
+
+                                                                                                                                                                                   Page 3 of 3
+

@@ -1,0 +1,39 @@
+page	part	field	line	kind	digits	speak
+1	Ident_Subform	NameofCorp		text		Corporation's name.
+1	Ident_Subform	BusinessNumber		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident_Subform/TaxYear_group	TaxYearDate		text		Tax year-end. Year 4 digits, Month 2 digits, Day 2 digits.
+1	Part1_Contents	AmountA	100	numeric	12	Line 100. Amount A. Total credit earned in the current tax year, total of all credit amounts from NB–SBITC–1 certificates received for the tax year, cannot exceed $75, 000.
+1	Part1_Contents	Amount_a		numeric	12	Amount lowercase a. Unused credit at the end of the previous tax year.
+1	Part1_Contents	Amount_b	130	numeric	12	Line 130. Amount lowercase b. Credit expired after 7 tax years.
+1	Part1_Contents	AmountB_1	135	numeric	12	Line 135. Amount B. Unused credit at the beginning of this tax year, amount lowercase a minus amount lowercase b. Instance 1.
+1	Part1_Contents	AmountB_2	135	numeric	12	Line 135. Amount B. Unused credit at the beginning of this tax year. Instance 2.
+1	Part1_Contents	AmountC		numeric	12	Amount C. Total credit available for the current tax year, amount A plus amount B.
+1	Part1_Contents	Amount_c	150	numeric	12	Line 150. Amount lowercase c. Credit claimed in the current tax year. The least of amount C, $75,000 and New Brunswick income tax otherwise payable. Enter amount lower case c on line 578 of Schedule 5, Tax Calculation Supplementary – Corporations.
+1	Part1_Contents	Amount_d		numeric	12	Amount lowercase d. Credit carried back to the previous tax years. Complete Part 2.
+1	Part1_Contents	AmountD_1		numeric	12	Amount D. Subtotal. Amount lowercase c plus amount lowercase d. Instance 1.
+1	Part1_Contents	AmountD_2		numeric	12	Amount D. Subtotal. Instance 2.
+1	Part1_Contents	AmountE	190	numeric	12	Line 190. Amount E. Closing balance, credit available for carryforward. Amount C minus amount D.
+1	Part2_Contents/First_previoussf/Line901_date	Line901_field		text		Tax year in which to apply the credit. First previous tax year ending on: Year 4 digits, Month 2 digits, Day 2 digits.
+1	Part2_Contents/First_previoussf	Line_901_Amount	901	numeric	12	Line 901. First previous tax year. Amount to be applied.
+1	Part2_Contents/Second_previoussf/Line902_date	Line902_field		text		Tax year in which to apply the credit. Second previous tax year ending on: Year 4 digits, Month 2 digits, Day 2 digits.
+1	Part2_Contents/Second_previoussf	Line_902_Amount	902	numeric	12	Line 902. Second previous tax year. Amount to be applied.
+1	Part2_Contents/Third_previoussf/Line903_date	Line903_field		text		Tax year in which to apply the credit. Third previous tax year ending on: Year 4 digits, Month 2 digits, Day 2 digits.
+1	Part2_Contents/Third_previoussf	Line_903_Amount	903	numeric	12	Line 903. Third previous tax year. Amount to be applied.
+1	Part2_Contents	Total_Amount		numeric	12	Total amount to be applied. Enter on line lowercase d in Part 1.
+2	Part3_Contents/SeventhYear_date	SeventhYear_field		text		Year of origin. 7th previous tax year ending on, Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3_Contents	SeventhYear_amount		numeric	12	Credit available for carryforward. 7th previous tax year.
+2	Part3_Contents/SixthYear_date	SixthYear_field		text		Year of origin. 6th previous tax year ending on, Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3_Contents	SixthYear_amount		numeric	12	Credit available for carryforward. 6th previous tax year.
+2	Part3_Contents/FifthYear_date	FifthYear_field		text		Year of origin. 5th previous tax year ending on, Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3_Contents	FifthYear_amount		numeric	12	Credit available for carryforward. 5th previous tax year.
+2	Part3_Contents/FourthYear_date	FourthYear_field		text		Year of origin. 4th previous tax year ending on, Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3_Contents	FourthYear_amount		numeric	12	Credit available for carryforward. 4th previous tax year.
+2	Part3_Contents/ThirdYear_date	ThirdYear_field		text		Year of origin. 3rd previous tax year ending on, Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3_Contents	ThirdYear_amount		numeric	12	Credit available for carryforward. 3rd previous tax year.
+2	Part3_Contents/SecondYear_date	SecondYear_field		text		Year of origin. 2nd previous tax year ending on, Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3_Contents	SecondYear_amount		numeric	12	Credit available for carryforward. 2nd previous tax year.
+2	Part3_Contents/FirstYear_date	FirstYear_field		text		Year of origin. 1st previous tax year ending on, Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3_Contents	FirstYear_amount		numeric	12	Credit available for carryforward. 1st previous tax year.
+2	Part3_Contents/CurrentYear_date	CurrentYear_field		text		Year of origin. Current tax year ending on, Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3_Contents	CurrentYear_amount		numeric	12	Credit available for carryforward. Current tax year.
+2	Part3_Contents	Amount		numeric	12	Total credit available for carryforward.

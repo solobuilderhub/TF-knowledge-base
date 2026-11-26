@@ -1,0 +1,307 @@
+                   Manitoba Data Processing Investment Tax Credits           Schedule 392
+                                    (2013 and later tax years)
+                                                                                      Code 1304
+
+                                                                                    Protected B
+                                                                               when completed
+
+   Data processing centre investment tax credit for operator
+
+· You can use this schedule to claim a Manitoba data processing centre investment tax credit for operator under subsection 7.19(1) of the Income Tax
+  Act (Manitoba). This refundable credit for eligible data processing centre corporations is equal to 4% of the cost of data processing buildings acquired by
+  purchase or lease, or constructed and 7% of the cost of data processing centre property acquired (by purchase or lease) in the current tax year and before
+  July 1, 2013. The rates increase to 4.5% and 8%, respectively, for property acquired in the current tax year after June 30, 2013 and before April 12, 2017.
+  To claim the data processing centre investment tax credit for operator, complete Parts 1 to 3 of this schedule.
+
+· You are an eligible data processing centre corporation if:
+  ­ you are a taxable Canadian corporation with a permanent establishment in Manitoba;
+  ­ your principal activity in Manitoba is data processing; and
+  ­ when you are affiliated (according to section 251.1 of the federal Income Tax Act) with one or more corporations with a permanent establishment in
+     Manitoba, your principal activity in Manitoba and that of your affiliated corporations, on a combined basis, is data processing.
+
+· A building is a data processing building if it is a prescribed building as defined in subsection 4600(1) of the federal Income Tax Regulations and:
+  ­ you acquired it (by purchase or lease) or constructed it after April 17, 2012;
+  ­ it was not used, or acquired for use or lease, for any purpose before you acquired it; and
+  ­ it is situated in Manitoba and is used, or will be used, for the purpose of data processing.
+
+· Property is data processing centre property if it is (or would be, if you owned it) defined as prescribed machinery and equipment in subsection 4600(2)
+  of the federal Income Tax Regulations for the purpose of the definition of qualified property in subsection 127(9) of the federal Income Tax Act or a
+  property included in paragraph (o) of Class 12, in paragraph (c) of Class 17, or in Class 42 or 50 in Schedule II of the federal Regulations and:
+  ­ you acquired it (by purchase or lease) or constructed it after April 17, 2012;
+  ­ it was never used for any purpose before you acquired it, unless you refurbished it when you acquired it;
+  ­ it has not been included in calculating any corporation's data processing property investment tax credit for any tax year; and
+  ­ it is situated in Manitoba and is used, or will be used, in connection with operating or maintaining a data processing building.
+
+· For data processing centre property, refurbished means that at least 50% of the capital cost of the property is attributable to unused components
+  installed since the property was last used or acquired for use or lease.
+
+· You may claim a credit on a data processing building acquired or constructed, as well as on data processing centre property, acquired after April 11, 2017,
+  if it was acquired as a replacement for qualified property for which you were entitled to claim the credit before April 12, 2017.
+
+· When calculating the data processing centre investment tax credit for operator, an eligible data processing centre corporation cannot include amounts
+  for a building or a property acquired by lease if an amount for that same building or property is included in the calculation of another corporation's data
+  processing centre investment tax credit for building lessor.
+
+   Data processing property investment tax credit
+
+· You can also use this schedule to claim a Manitoba data processing property investment tax credit under subsection 7.19(1.1) of the Income Tax Act
+  (Manitoba). This refundable credit for eligible corporations equal to 8% of the cost of data processing property acquired by purchase or lease in the current
+  tax year. To claim the data processing property investment tax credit complete Parts 4 and 5 of this schedule.
+
+· You are an eligible corporation if you are a taxable Canadian corporation with a permanent establishment in Manitoba.
+
+· Property is data processing property if it is (or would be, if you owned it) a property included in Class 46 or 50 in Schedule II of the federal
+  Income Tax Regulations and:
+  ­ you acquired it (by purchase or lease) after April 16, 2013, and before April 12, 2017;
+  ­ it was never used for any purpose before you acquired it;
+  ­ it is not replacement property, as defined in subsection 7.19(2.1) of the Income Tax Act (Manitoba);
+  ­ it has not been included in calculating any corporation's data processing centre investment tax credit for any tax year; and
+  ­ it is situated in Manitoba and is used, or will be used by you exclusively, or nearly exclusively, for the purpose of data processing.
+
+· To be eligible for this credit, the amount an eligible corporation invests in purchasing or leasing data processing property for that tax year has to be at least
+  $10 million.
+
+   Data processing centre investment tax credit for building lessor
+
+· You can also use this schedule to claim a Manitoba data processing centre investment tax credit for building lessor under subsection 7.19(1.0.1)
+  of the Income Tax Act (Manitoba). The credit is a refundable credit for an eligible corporation that purchases or constructs a building and leases it to
+  another eligible corporation for use by that other corporation as a data processing building throughout the term of the lease. The data processing
+  centre investment tax credit for building lessor is calculated in Part 6 of this schedule.
+
+· To be eligible for this credit, the lessor must:
+  ­ lease the building to another eligible corporation that it deals with at arm's length;
+  ­ never have used the building for any purpose before having purchased or built it; and
+  ­ have purchased or built the building after December 31, 2013 and before April 12, 2017.
+
+T2 SCH 392 E (22)  (Ce formulaire est disponible en français.)  Page 1 of 5
+                                                                                                                 Protected B when completed
+
+General information
+
+· For these credits, data processing means the use of networked computers to centralize the storage, management, dissemination, or hosting of data or
+  information and may include the use of one or more of the systems or equipment, listed under the definition in subsection 7.19(2) of the Income Tax Act
+  (Manitoba), to support the networked computers.
+
+· To claim these credits, the property has to be available for use by you in the tax year, according to subsections 13(27) and 13(28) of the federal Income
+  Tax Act, not including the time just before you dispose of it under paragraphs 13(27)(c) and 13(28)(d).
+
+· File this schedule no later than one year after the filing due date of your T2 Corporation Income Tax Return for the tax year in which you acquired the
+  property. File this schedule with your T2 return.
+
+· These credits are considered government assistance under paragraph 12(1)(x) of the federal Income Tax Act and must be included in income in the tax
+  year the credits are received. These credits are not considered government assistance under section 7.19 of the Income Tax Act (Manitoba) for
+  calculating the credits themselves.
+
+· When calculating your Manitoba data processing investment tax credits for a tax year, do not include any amount you used in claiming a tax credit under
+  any other section of the Income Tax Act (Manitoba).
+
+· A corporation that is a member of a partnership may claim its reasonable share of the credit. The corporation's portion is the amount that may reasonably
+  be considered to be the corporation's share of the credit. However, a corporation may file, with its T2 return for the tax year, an irrevocable election under
+  subsection 7.19(6.4) of the Act, made by the corporation with written consent of the partnership, to allocate the entire amount of the credit for that tax year
+  to the corporation.
+
+Corporation's name                                                                       Business number                                                             Tax year-end
+                                                                                                                                                                 Year Month Day
+
+Part 1 ­ Data processing building amount for the calculation of the data processing centre
+           investment tax credit for operator
+
+       1                                            2                            3                       4                                                              5
+CCA class                                                             Acquisition date*          Capital cost**                                                  Leasing cost**
+                    Description of data processing building acquired
+    101                (by purchase or lease) or constructed in the     YYYYMMDD                      103                                                              104
+                                         current tax year
+                                                                              102
+
+                     Totals for buildings acquired or constructed before July 1, 2013 A                                                                       B
+
+Totals for buildings acquired or constructed after June 30, 2013 and before April 12, 2017*** C                                                               D
+
+Total capital and leasing cost of data processing buildings acquired or constructed
+in the current tax year before July 1, 2013 (amount A plus amount B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110                     E
+
+Total capital and leasing cost of data processing buildings acquired or constructed
+in the current tax year after June 30, 2013 and before April 12, 2017 (amount C plus amount D) . . . . . . . . . . . . . . . . . . . . 111                                       F
+
+  * The acquisition date is the date the property became available for use.
+
+** When you calculate the capital cost or the leasing cost, deduct the amount of any government assistance received or receivable if it was not already
+    considered in the calculation of the capital cost or the leasing cost. See paragraph 7.19(4)(c) of the Income Tax Act (Manitoba).
+
+*** Include any data processing building acquired or constructed after April 11, 2017, if it was acquired or constructed as a replacement property for property
+    that previously qualified for the credit.
+
+If you need more space, attach additional schedules.
+
+T2 SCH 392 E (22)                                                                                                                                                Page 2 of 5
+                                                                                                                                                  Protected B when completed
+
+Part 2 ­ Data processing centre property amounts for the calculation of the data processing centre
+           investment tax credit for operator
+
+       1                                                 2                             3                                         4                                                                  5
+CCA class                                                                                                               Capital cost**                                                    Leasing cost**
+                        Description of data processing centre property      Acquisition date*
+    201            acquired (by purchase or lease) in the current tax year    YYYYMMDD                                       203                                                                 204
+                                                                                    202
+
+                                                      Totals for property acquired before July 1, 2013 G                                H
+
+                   Totals for property acquired after June 30, 2013 and before April 12, 2017*** I                                                                                     J
+
+Total capital and leasing cost of data processing centre property acquired
+in the current tax year before July 1, 2013 (amount G plus amount H) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210                                                K
+
+Total capital and leasing cost of data processing centre property acquired
+in the current tax year after June 30, 2013 and before April 12, 2017 (amount I plus amount J) . . . . . . . . . . . . . . . . . . . . . 211                                                              L
+
+  * The acquisition date is the date the property became available for use.
+
+ ** When you calculate the capital cost or the leasing cost, deduct the amount of any government assistance received or receivable if it was not already
+    considered in the calculation of the capital cost or the leasing cost. See paragraph 7.19(4)(c) of the Income Tax Act (Manitoba).
+
+*** Include any data processing centre property acquired after April 11, 2017, if it was acquired as a replacement property for property that previously
+    qualified for the credit.
+
+If you need more space, attach additional schedules.
+
+Part 3 ­ Data processing centre investment tax credit for operator
+
+Credit earned for data processing buildings                                                                             × 4% = 300
+
+Credit earned in the current tax year before July 1, 2013 . . . . . . . . . . . . . . . . Amount E                                                                                                        M
+
+Credit earned in the current tax year after June 30, 2013 and                                                           × 4.5% = 301                                                                      N
+before April 12, 2017 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Amount F
+
+Credit earned for data processing centre property
+
+Credit earned in the current tax year before July 1, 2013 . . . . . . . . . . . . . . . . Amount K                      × 7% = 305                                                                        O
+
+Credit earned in the current tax year after June 30, 2013 and                                                           × 8% = 306                                                                        P
+before April 12, 2017 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Amount L
+
+Credit allocated from a partnership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 309                     Q
+
+Data processing centre investment tax credit for operator (Add amounts M to Q) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310                                                        R
+
+T2 SCH 392 E (22)                                                                                                                                                                         Page 3 of 5
+                                                                                                                                                        Protected B when completed
+
+Part 4 ­ Data processing property amounts for the calculation of the data processing
+           property investment tax credit
+
+       1                                             2                               3                                                           4                                                               5
+CCA class                                                                                                                               Capital cost**                                                 Leasing cost**
+                   Description of data processing property acquired       Acquisition date*
+    401              (by purchase or lease) in the current tax year         YYYYMMDD                                                         403                                                             404
+                                                                                  402
+
+If you need more space, attach additional schedules.                                                                    Totals
+
+Total capital cost of data processing property acquired in the current tax year after April 16, 2013 and before April 12, 2017                                                                                         S
+
+(total of column 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Total leasing cost of data processing property acquired in the current tax year after April 16, 2013 and before April 12, 2017                                                                                         T
+
+(total of column 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Total capital and leasing cost of data processing property acquired in the current tax year after April 16, 2013 and
+before April 12, 2017 (must be at least $10 million) (amount S plus amount T) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 410                                                              U
+
+ * The acquisition date is the date the property became available for use.
+
+** When you calculate the capital cost or the leasing cost, deduct the amount of any government assistance received or receivable if it was not already
+   considered in the calculation of the capital cost or the leasing cost. See paragraph 7.19(4.1)(c) of the Income Tax Act (Manitoba).
+
+Part 5 ­ Data processing property investment tax credit
+
+Credit earned in the current tax year after April 16, 2013 and                                                                          × 8% = 498                                                                     V
+before April 12, 2017 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Amount U
+
+Credit allocated from a partnership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 499                                W
+
+Data processing property investment tax credit (amount V plus amount W) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 500                                                                  X
+
+Part 6 ­ Data processing centre investment tax credit for building lessor
+
+Data processing property
+
+1                                                     2                                                                              3                                                                          4
+                                                                                                                                                                                                       Capital cost**
+CCA class          Description of data processing centre property leased to an eligible                                 Acquisition date*
+    601                                  corporation in the current tax year                                              YYYYMMDD                                                                           603
+
+                                                                                                                                602
+
+                  5       6                                          7                                                          8                                         9
+Column 4 multiplied by                                                                                                                                  Lesser of column 5 and
+                          Column 5 multiplied by 3       Total of the tax credit claimed Column 6 minus column 7
+           2.67%                                             for the property in each                                                                            column 8
+                                                                   previous year
+              608                                                                                                                                                   612
+                          609                                        610                                                        611
+
+If you need more space, attach additional schedules.                                                                                    Total                                                                          Y
+
+ * The acquisition date is the date the property became available for use.
+
+** When you calculate the capital cost, deduct the amount of any government assistance received or receivable if it was not already considered in the
+   calculation of the capital cost. See paragraph 7.19(4.0.1)(b) of the Income Tax Act (Manitoba).
+
+T2 SCH 392 E (22)                                                                                                                                                                                                      Page 4 of 5
+Part 6 ­ Data processing centre investment tax credit for building lessor (continued)                                Protected B when completed
+
+Data processing building                                                                                                                 4
+                                                                                                                               Capital cost**
+1                                                     2                                                   3
+                                                                                                                                     606
+CCA class          Description of data processing centre building leased to an eligible        Acquisition date*
+    604                                 corporation in the current tax year                      YYYYMMDD
+
+                                                                                                        605
+
+               5          6                              7                               8                 9                                 10
+Term of the lease in
+                          4.5% multiplied by   Column 4 multiplied by Total of the tax credit  Column 7 minus               Lesser of column 6 and
+         years            column 4 divided by                                                       column 8                         column 9
+                                                         4.5%  claimed for the building
+          614                    column 5
+                                                               in each previous year
+
+                          615                            617                             618                    619                                                                    620
+
+If you need more space, attach additional schedules.                                                                 Total                                                                  Z
+
+Lessor's data processing centre investment tax credit amount from data processing centre property acquired                                                                                  AA
+
+after December 31, 2013 and before April 12, 2017 (amount Y) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Lessor's data processing centre investment tax credit amount from data processing buildings purchased or built                                                                              BB
+
+after December 31, 2013 and before April 12, 2017 (amount Z) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Credit allocated from a partnership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 621       CC
+
+Data processing centre investment tax credit for building lessor (add amounts AA to CC) . . . . . . . . . . . . . . . . . . . . . . . . 622                                                 DD
+
+ * The acquisition date is the date the property became available for use.
+
+** When you calculate the capital cost, deduct the amount of any government assistance received or receivable if it was not already considered in the
+   calculation of the capital cost. See paragraph 7.19(4.0.1)(b) of the Income Tax Act (Manitoba).
+
+Part 7 ­ Manitoba data processing investment tax credits
+
+Data processing centre investment tax credit for operator (amount R from Part 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                EE
+
+Data processing property investment tax credit (amount X from Part 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           FF
+
+Data processing centre investment tax credit for building lessor (amount DD from Part 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                    GG
+
+Manitoba data processing investment tax credits (add amounts EE to GG) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                      HH
+
+(Enter amount HH on line 324 of Schedule 5, Tax Calculation Supplementary ­ Corporations.)
+
+T2 SCH 392 E (22)                                                                                                                                                                           Page 5 of 5
+

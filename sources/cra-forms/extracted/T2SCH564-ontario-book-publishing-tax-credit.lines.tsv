@@ -1,0 +1,31 @@
+line	caption
+100	Name of corporation (from certificate of eligibility, if different from above)
+110	Name of person to contact for more information 120 Telephone number including area code
+150	Is the claim filed for an OBPTC earned through a partnership?
+160	If you answered yes to the question at line 150, what is the name of the partnership?
+170	Enter the percentage of the partnership's OBPTC allocated to the corporation
+200	Certificate of eligibility number
+210	Title of literary work
+220	Name(s) of author(s) / illustrator(s)
+230	Date of publication Year Month 240 Date of certificate Year Month Day
+250	Genre
+300	Was the corporation a Canadian-controlled corporation throughout the tax year, as determined No under sections 26 to 28 of the Investment Canada Act?
+310	Did the corporation, for the tax year, carry on a book publishing business primarily through a permanent establishment in Ontario?
+320	Was the corporation exempt from tax under Part III of the Taxation Act, 2007 (Ontario)?
+330	Is the corporation controlled by the author of the literary work, or by a person not dealing at arm's length No with the author?
+400	Pre-production costs: Advances to author Amount of non-refundable monetary advances made to the eligible Canadian author(s)
+410	Salaries and wages for editing, design, and project management
+420	Freelance fees relating to editing, design, and research
+430	Amounts for artwork, developing prototypes, set-up and typesetting
+435	Salaries, wages, fees, and other amounts for scanning, editing, formatting, indexing, encryption, and establishing digital rights management or other technological protection measures (incurred after March 26, 2009)
+440	Expenditures
+460	Expenditures for book promotional tours of eligible Canadian authors (excluding costs for meals and entertainment)
+465	Canadian authors on promotional tours
+480	Salaries and wages of employees for the marketing of the book
+490	Other amounts (not included above) incurred for promoting and marketing the book
+500	Total qualifying expenditures (total of line 400, amount 4A, line 450 and amount 4B)
+510	Government assistance attributed to qualifying expenditures on line 500 (includes amounts received, entitled to be received, or reasonably expected to be received)
+520	Qualifying expenditures included in the amount on line 500 that were included in determining the available credit in a previous tax year
+530	Total qualifying expenditures eligible for the OBPTC (line 500 minus amount 4C)
+540	Total credit claimed in a previous tax year
+550	Ontario book publishing tax credit (lesser of amount 5A or amount 5B)

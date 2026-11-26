@@ -1,0 +1,101 @@
+page	part	field	line	kind	digits	speak
+1	Ident	sc_rsn		text		Corporation's name.
+1	Ident	BusinessNumber		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident	DateYYYYMMDD_Comb		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_content/ln_107	Line_107	107	numeric	12	Line 107. Total eligible expenditures incurred in the current tax year.
+1	Part1_content/ln_109	Line109	109	numeric	12	Line 109. Eligible expenditures under a R&D contract incurred in the current tax year.
+1	Part1_content/ln_117	Line117	117	numeric	12	Line 117. Eligible expenditures not under a R&D contract incurred in the current tax year.
+1	Part1_content/ln_A	LineA_1		numeric	12	Amount A. Summary of total eligible expenditures incurred in the current tax year. Line 109 plus line 117. Amount A cannot exceed the amount on line 107. Instance 1.
+1	Part1_content/ln_A	Line_A		numeric	12	Amount A. Instance 2.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Part2_subform/Part2_content/Amt_B	Line_b		numeric	12	Amount B. Credit at the end of the previous tax year.
+2	Part2_subform/Part2_content/Ln_104	Line104f	104	numeric	12	Line 104. Credit expired.
+2	Part2_subform/Part2_content/Ln_105	Line105_1	105	numeric	12	Line 105. Credit at the beginning of the tax year. Amount B minus line 104. Instance 1.
+2	Part2_subform/Part2_content/Ln_105	Line_105_C	105	numeric	12	Line 105. Instance 2.
+2	Part2_subform/Part2_content/Ln_110	Line110D	110	numeric	12	Line 110. Credit transferred on an amalgamation or the windup of a subsidiary.
+2	Part2_subform/Part2_content/Ln_123	Line_123_Repayments		numeric	12	Repayments for assistance related to an expenditure made before April 12, 2017.
+2	Part2_subform/Part2_content/Ln_123	Line123	123	numeric	12	Line 123. Repayments for assistance related to an expenditure made before April 12, 2017 multiplied by 20%.
+2	Part2_subform/Part2_content/Ln_124	Line_124_Repayments		numeric	12	Repayments for assistance related to an expenditure made after April 11, 2017.
+2	Part2_subform/Part2_content/Ln_124	Line124	124	numeric	12	Line 124. Repayments for assistance related to an expenditure made after April 11, 2017 multiplied by 15%.
+2	Part2_subform/Part2_content/Ln_126	Line_e_Line126_Part1	107	numeric	12	Line 107 in Part 1.
+2	Part2_subform/Part2_content/Ln_126	Line126g	126	numeric	12	Line 126. Line 107 in Part 1 multiplied by 15%.
+2	Part2_subform/Part2_content/Ln_130	Line130	130	numeric	12	Line 130. Your share of the credit from a partnership of which you are a member.
+2	Part2_subform/Part2_content/Ln_140	Line140i	140	numeric	12	Line 140. Your share of the credit from a trust of which you are a beneficiary.
+2	Part2_subform/Part2_content/Ln_C	LineC		numeric	12	Amount C. Subtotal. Add lines 126, 130, and 140.
+2	Part2_subform/Part2_content/Ln_150	Line150_k	150	numeric	12	Line 150. Credit renounced.
+2	Part2_subform/Part2_content/Amt_D	LineD_1		numeric	12	Amount D. Total credit earned in the current year. Amount C minus line 150. Instance 1.
+2	Part2_subform/Part2_content/Amt_D	LineD_2		numeric	12	Amount D. Instance 2.
+2	Part2_subform/Part2_content/Amt_E	Line_E		numeric	12	Amount E. Total credit available for the current year. Add lines 105, 110, 123, 124, and amount D.
+2	Part2_subform/Part2_content/Ln_160	Line160_l	160	numeric	12	Line 160. Non-refundable credit claimed in the current tax year. Cannot exceed the lesser of amount E and Manitoba tax otherwise payable. Enter this amount on line 606 of Schedule 5, Tax Calculation Supplementary – Corporations.
+2	Part2_subform/Part2_content/Ln_180	Line180m	180	numeric	12	Line 180. Refundable credit claimed in the current year. Amount M from Part 5. Enter this amount on line 613 of Schedule 5.
+2	Part2_subform/Part2_content/Amt_F	Line_F		numeric	12	Amount F. Credit carried back to the previous tax years. Complete Part 3.
+2	Part2_subform/Part2_content/Amt_G	LineG_1		numeric	12	Amount G. Subtotal. Add lines 160, 180, and amount F. Instance 1.
+2	Part2_subform/Part2_content/Amt_G	LineG_2		numeric	12	Amount G. Subtotal. Instance 2.
+2	Part2_subform/Part2_content/Ln_200	Line_200I	200	numeric	12	Line 200. Closing balance. Total credit available for carryforward. Amount E minus amount G.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	Part3_subform/Part3_content/Part3_Line_901/Part3_Line_901_date	Part3_Line_901_Date_Field		text		First previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+3	Part3_subform/Part3_content/Part3_Line_901	Part3_Line_901_Field	901	numeric	12	Line 901. Credit to be applied, first previous tax year.
+3	Part3_subform/Part3_content/Part3_Line_902/Part3_Line_902_date	Part3_Line_902_Date_Field		text		Second previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+3	Part3_subform/Part3_content/Part3_Line_902	Part3_Line_902_Field	902	numeric	12	Line 902. Credit to be applied, second previous tax year.
+3	Part3_subform/Part3_content/Part3_Line_903/Part3_Line_903_date	Part3_Line_903_Date_Field		text		Third previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+3	Part3_subform/Part3_content/Part3_Line_903	Part3_Line_903_Field	903	numeric	12	Line 903. Credit to be applied, third previous tax year.
+3	Part3_subform/Part3_content	Part3_Total_Field		numeric	12	Total credit to be applied. Enter the total at amount F in Part 2.
+3	Part4_subform/Part4_content/Part4_Date1	Part4_Date_Field1		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 1.
+3	Part4_subform/Part4_content	Part4_Credit1		numeric	12	Credit available. Row 1.
+3	Part4_subform/Part4_content/Part4_Date2	Part4_Date_Field2		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 2.
+3	Part4_subform/Part4_content	Part4_Credit2		numeric	12	Credit available. Row 2.
+3	Part4_subform/Part4_content/Part4_Date3	Part4_Date_Field3		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 3.
+3	Part4_subform/Part4_content	Part4_Credit3		numeric	12	Credit available. Row 3.
+3	Part4_subform/Part4_content/Part4_Date4	Part4_Date_Field4		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 4.
+3	Part4_subform/Part4_content	Part4_Credit4		numeric	12	Credit available. Row 4.
+3	Part4_subform/Part4_content/Part4_Date5	Part4_Date_Field5		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 5.
+3	Part4_subform/Part4_content	Part4_Credit5		numeric	12	Credit available. Row 5.
+3	Part4_subform/Part4_content/Part4_Date6	Part4_Date_Field2		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 6.
+3	Part4_subform/Part4_content	Part4_Credit6		numeric	12	Credit available. Row 6.
+3	Part4_subform/Part4_content/Part4_Date7	Part4_Date_Field7		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 7.
+3	Part4_subform/Part4_content	Part4_Credit7		numeric	12	Credit available. Row 7.
+3	Part4_subform/Part4_content/Part4_Date8	Part4_Date_Field8		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 8.
+3	Part4_subform/Part4_content	Part4_Credit8		numeric	12	Credit available. Row 8.
+3	Part4_subform/Part4_content/Part4_Date9	Part4_Date_Field9		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 9.
+3	Part4_subform/Part4_content	Part4_Credit9		numeric	12	Credit available. Row 9.
+3	Part4_subform/Part4_content/Part4_Date10	Part4_Date_Field10		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 10.
+3	Part4_subform/Part4_content	Part4_Credit10		numeric	12	Credit available. Row 10.
+3	Part4_subform/Part4_content/Part4_Date11	Part4_Date_Field11		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 11.
+3	Part4_subform/Part4_content	Part4_Credit11		numeric	12	Credit available. Row 11.
+3	Part4_subform/Part4_content/Part4_Date12	Part4_Date_Field7		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 12.
+3	Part4_subform/Part4_content	Part4_Credit12		numeric	12	Credit available. Row 12.
+3	Part4_subform/Part4_content/Part4_Date13	Part4_Date_Field8		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 13.
+3	Part4_subform/Part4_content	Part4_Credit13		numeric	12	Credit available. Row 13.
+3	Part4_subform/Part4_content/Part4_Date14	Part4_Date_Field9		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 14.
+3	Part4_subform/Part4_content	Part4_Credit14		numeric	12	Credit available. Row 14.
+3	Part4_subform/Part4_content/Part4_Date15	Part4_Date_Field10		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 15.
+3	Part4_subform/Part4_content	Part4_Credit15		numeric	12	Credit available. Row 15.
+3	Part4_subform/Part4_content/Part4_Date16	Part4_Date_Field16		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 16.
+3	Part4_subform/Part4_content	Part4_Credit16		numeric	12	Credit available. Row 16.
+3	Part4_subform/Part4_content/Part4_Date17	Part4_Date_Field3		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 17.
+3	Part4_subform/Part4_content	Part4_Credit17		numeric	12	Credit available. Row 17.
+3	Part4_subform/Part4_content/Part4_Date18	Part4_Date_Field4		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 18.
+3	Part4_subform/Part4_content	Part4_Credit18		numeric	12	Credit available. Row 18.
+3	Part4_subform/Part4_content/Part4_Date19	Part4_Date_Field5		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 19.
+3	Part4_subform/Part4_content	Part4_Credit19		numeric	12	Credit available. Row 19.
+3	Part4_subform/Part4_content/Part4_Date20	Part4_Date_Field20		text		Year of origin. Earliest year first. Year 4 digits, Month 2 digits, Day 2 digits. Row 20.
+3	Part4_subform/Part4_content	Part4_Credit20		numeric	12	Credit available. Row 20.
+3	Part4_subform/Part4_content	Part4_Total_Field		numeric	12	Total credit available for carryforward. Equals line 200 in Part 2.
+3	Part5_content/Ln_206	Line206_Part1		numeric	12	
+3	Part5_content/Ln_206	Line206	206	numeric	12	Line 206. Line 109 in Part 1 multiplied by 15%.
+3	Part5_content/Ln_216	Line_n_Line116_Part1		numeric	12	
+3	Part5_content/Ln_216	Line216	216	numeric	12	Line 216. Line 117 in Part 1 multiplied by 7.5%.
+3	Part5_content/Ln_230	Line230r	230	numeric	12	Line 230. Your share of the refundable credit from a partnership of which you are a member.
+3	Part5_content/Ln_240	Line240s	240	numeric	12	Line 240. Your share of the refundable credit from a trust of which you are a beneficiary.
+3	Part5_content/Amt_H	LineH_1		numeric	12	Amount H. Current-year refundable credit earned. Add lines 206, 216, 230, and 240. Instance 1.
+3	Part5_content/Amt_H	Line_H_2		numeric	12	Amount H. Instance 2.
+3	Part5_content/Amt_I	Line_I		numeric	12	Amount I. Total credit available for the current year. Amount E from Part 2.
+3	Part5_content/Amt_J	Line_J		numeric	12	Amount J. Manitoba tax otherwise payable before refundable tax credits, excluding the non-refundable R&D tax credit.
+3	Part5_content/Amt_K	Line_K_1		numeric	12	Amount K. Subtotal. Amount I minus amount J. Instance 1.
+3	Part5_content/Amt_K	Line_K_2		numeric	12	Amount K. Instance 2.
+3	Part5_content/Amt_L	Line_L		numeric	12	Amount L. Total credit earned in the current year, amount D from part 2.
+3	Part5_content/Amt_M	Line_M		numeric	12	Amount M. Refundable Manitoba R&D tax credit. Amount H, K, or L, whichever is the least. Enter on line 180 in Part 2.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		

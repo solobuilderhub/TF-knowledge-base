@@ -1,0 +1,45 @@
+page	part	field	line	kind	digits	speak
+1	T2_Info	Corp_Name		text		Corporation's name.
+1	T2_Info	Business_Number		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	T2_Info/TaxYearEnd	Info_grp_Field		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part2/Line010	Content	010	text		Line 010. British Columbia free miner certificate number.
+1	Part2/Line020	MineralName	020	text		Line 020. List minerals for which exploration has taken place.
+1	Part2/Line030	MineralName	030	text		Line 030. List minerals for which exploration has taken place.
+1	Part2/Line040	MineralName	040	text		Line 040. List minerals for which exploration has taken place.
+1	Part2/Line050	MineralName	050	text		Line 050. List minerals for which exploration has taken place.
+1	Part2/Table/Row1	Cell1		text		
+1	Part2/Table/Row1	Cell2		text		
+1	Part2/Table/Row1	Cell3		text		
+1	Part2/Table/Row2	Cell1		text		
+1	Part2/Table/Row2	Cell2		text		
+1	Part2/Table/Row2	Cell3		text		
+1	Part2/Table/Row3	Cell1		text		
+1	Part2/Table/Row3	Cell2		text		
+1	Part2/Table/Row3	Cell3		text		
+1	Part2/Table/Row4	Cell1		text		
+1	Part2/Table/Row4	Cell2		text		
+1	Part2/Table/Row4	Cell3		text		
+2	Part2/Line100	Amount	100	numeric	12	Line 100. Prospecting.
+2	Part2/Line110	Amount	110	numeric	12	Line 110. Geological, geophysical, or geochemical surveys.
+2	Part2/Line120	Amount	120	numeric	12	Line 120. Drilling by rotary, diamond, percussion, or other methods.
+2	Part2/Line130	Amount	130	numeric	12	Line 130. Trenching, digging test pits, and preliminary sampling.
+2	Part2/Table3/Row1	Cell1		text		
+2	Part2/Table3/Row1	Cell2		numeric	12	
+2	Part2/Table3/Row2	Cell1		text		
+2	Part2/Table3/Row2	Cell2		numeric	12	
+2	Part2/Table3/Row3	Cell1		text		
+2	Part2/Table3/Row3	Cell2		numeric	12	
+2	Part2/AmountA	input1		numeric	12	Amount A. Total other qualified mining exploration expenses. Instance 1
+2	Part2/AmountA	input2		numeric	12	Amount A. Instance 2.
+2	Part2/Line180	Amount	180	numeric	12	Line 180. Total qualified mining exploration expenses. Add lines 100 to 130, and amount A.
+2	Part3/Line190	Amount	190	numeric	12	Line 190. All assistance received in respect of qualified mining exploration expenses for the tax year.
+2	Part3/Line200	Amount	200	numeric	12	Line 200. Assistance that have been repaid in respect of qualified mining exploration expenses for the tax year.
+2	Part3/Line210	Amount	210	numeric	12	Line 210. Net assistance. Line 190 minus line 200.
+2	Part4/AmountB	Amount		numeric	12	Amount B. Total qualified mining exploration expenses. Line 180 in Part 2.
+2	Part4/AmountC	Amount		numeric	12	Amount C. Net assistance. Line 210 in Part 3.
+2	Part4/AmountD	Amount		numeric	12	Amount D. Net qualified mining exploration expenses. Amount B minus amount C.
+2	Part4/AmountE	Amount		numeric	12	Amount E. Amount D multiplied by the applicable rate, 20%.
+2	Part4/Line215	Amount	215	numeric	12	Line 215. Qualified mining exploration expenses incurred in prescribed areas affected by the mountain pine beetle, included on line 180, minus net assistance for these expenses, included on line 210.
+2	Part4/AmountF	Amount		numeric	12	Amount F. Line 215 multiplied by the applicable rate, 10%.
+2	Part4/Line220	Amount	220	numeric	12	Line 220. METC allocated from a partnership. Enter your proportionate share from Form T1249, from line 22 of Part 5.
+2	Part4/AmountG	Amount		numeric	12	Amount G. Mining exploration tax credit. Add amounts E, F, and line 220. Enter this amount on line 673 in Part 2 of Schedule 5 Tax Calculation Supplementary – Corporations.

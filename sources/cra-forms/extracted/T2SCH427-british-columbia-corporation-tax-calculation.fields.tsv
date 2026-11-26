@@ -1,0 +1,25 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Nm		text		Corporation's name.
+1		BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Prt1_sf/ID_1A_sf	Amt_1A		numeric	12	Amount 1A. Taxable income for British Columbia.
+1	Prt1_sf/Inc_BC_sf	Amt_1B		numeric	12	Amount 1B. Line 400 of the T2 return.
+1	Prt1_sf/Inc_BC_sf	Amt_1C		numeric	12	Amount 1C. Line 405 of the T2 return.
+1	Prt1_sf/Inc_BC_sf	Amt_1D		numeric	12	Amount 1D. Line 428 of the T2 return.
+1	Prt1_sf/Inc_BC_sf	Amt_1E_Inst_1		numeric	12	Amount 1E. Amount 1B, 1C, or 1D, whichever is the least. Instance 1.
+1	Prt1_sf/Inc_BC_sf	Amt_1E_Inst_2		numeric	12	Amount 1E. Instance 2.
+1	Prt1_sf/Crdt_Un_sf	Amt_1F		numeric	12	Amount 1F. Amount 2C from Schedule 17, Credit Union Deductions.
+1	Prt1_sf/Crdt_Un_sf	Amt_1G		numeric	12	Amount 1G. Enter amount 1E.
+1	Prt1_sf/Crdt_Un_sf	Amt1H_Inst_1		numeric	12	Amount 1H. For credit unions only. Subtotal. Amount 1F minus amount 1G. If negative, enter 0. Instance 1.
+1	Prt1_sf/Crdt_Un_sf	Amt1H_Inst_2		numeric	12	Amount 1H. Instance 2.
+1	Prt1_sf/Crdt_Un_sf	Amount_1I_inst1		numeric	12	Amount 1I. Total. Amount 1E plus amount 1H. instance 1.
+1	Prt1_sf/BC_rate_SF	Amt_1I_inst2		numeric	12	Amount 1I. Instance 2.
+1	Prt1_sf/BC_rate_SF	Tx_inc_BC_Amt		numeric	12	Taxable income for British Columbia.
+1	Prt1_sf/BC_rate_SF	Tx_inc_all_prov_Amt		numeric	12	Taxable income for all provinces.
+1	Prt1_sf/BC_rate_SF	Amt_1J		numeric	12	Amount 1J. Income eligible for British Columbia lower tax rate. Amount 1I multiplied by the result of taxable income for British Columbia divided by taxable income for all provinces. Instance 1.
+1	Prt1_sf/BC_rate_SF	Amt_1K		numeric	12	Amount 1K. Income subject to British Columbia higher tax rate. Amount 1A minus amount 1J. Instance 1.
+1	Prt2_sf/BC_lwr_rate_sf	Amt_1J_inst2		numeric	12	Amount 1J. Instance 2.
+1	Prt2_sf/BC_lwr_rate_sf	Amt_2A		numeric	12	Amount 2A. British Columbia tax at the lower rate. Amount 1J multiplied by 2%.
+1	Prt2_sf/BC_hgh_rate_sf	Amt1K_inst_2		numeric	12	Amount 1K. Instance 2.
+1	Prt2_sf/BC_hgh_rate_sf	Amt_2B		numeric	12	Amount 2B. British Columbia tax at the higher rate. Amount 1K multiplied by 12%.
+1	Prt2_sf/Amt_2C_sf	Amt_2C		numeric	12	Amount 2C. British Columbia tax before credits. Amount 2A plus amount 2B.

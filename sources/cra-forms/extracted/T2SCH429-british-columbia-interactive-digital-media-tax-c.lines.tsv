@@ -1,0 +1,18 @@
+line	caption
+151	Name of person to contact for more information
+210	Has the corporation applied to the British Columbia Ministry of Finance for a registered number so it can No claim a British Columbia interactive digital media tax credit?
+215	If you answered yes to the question at line 210, please give the registration number
+310	Has the corporation claimed a British Columbia scientific research and experimental development tax credit for the tax year?
+315	exempt from tax under section 27 of the Income Tax Act (British Columbia)?
+320	exempt from tax under Part I of the Income Tax Act (federal act)?
+325	a prescribed labour-sponsored venture capital corporation for the purpose of section 127.4 of the federal act?
+335	registered as an employee venture capital corporation under section 8 of the Employee Investment Act?
+340	a small business venture capital corporation registered under section 3 of the Small Business Venture Capital Act?
+350	controlled directly or indirectly in any way by one or more corporations described in questions 2 to 7?
+355	a personal services business as defined in subsection 125(7) of the federal act?
+400	Eligible salary and wages incurred before September 1, 20252
+450	Designated assistance for salary and wages incurred before September 1, 20253
+490	Net eligible salary and wages incurred before September 1, 2025 (line 400 minus line 450) (if negative, enter "0")
+405	Eligible salary and wages incurred after August 31, 20252
+455	Designated assistance for salary and wages incurred after August 31, 20253
+495	Net eligible salary and wages incurred after August 31, 2025 (line 405 minus line 455) (if negative, enter "0")

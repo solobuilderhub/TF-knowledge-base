@@ -1,0 +1,490 @@
+                    Ontario Corporate Minimum Tax                                                                                               Schedule 510
+                         (2009 and later tax years)
+                                                                                                                                                         Code 0904
+                                                                                                        Business number
+                                                                                                                                                    Protected B
+                                                                                                                                                  when completed
+
+Corporation's name                                                                                                                              Tax year-end
+
+                                                                                                                         Year                   Month Day
+
+· File this schedule if the corporation is subject to Ontario corporate minimum tax (CMT). CMT is levied under section 55 of the Taxation Act, 2007 (Ontario),
+
+   referred to as the "Ontario Act".
+
+· Complete Part 1 to determine if the corporation is subject to CMT for the tax year.
+· A corporation not subject to CMT in the tax year is still required to file this schedule if it is deducting a CMT credit, has a CMT credit carryforward,
+
+   or has a CMT loss carryforward or a current year CMT loss.
+
+· A corporation that has Ontario special additional tax on life insurance corporations (SAT) payable in the tax year must complete Part 4 of this
+
+   schedule even if it is not subject to CMT for the tax year.
+
+· A corporation is exempt from CMT if, throughout the tax year, it was one of the following:
+
+   1) a corporation exempt from income tax under section 149 of the federal Income Tax Act;
+   2) a mortgage investment corporation under subsection 130.1(6) of the federal Act;
+   3) a deposit insurance corporation under subsection 137.1(5) of the federal Act;
+   4) a congregation or business agency to which section 143 of the federal Act applies;
+   5) an investment corporation as referred to in subsection 130(3) of the federal Act; or
+   6) a mutual fund corporation under subsection 131(8) of the federal Act.
+
+· File this schedule with the T2 Corporation Income Tax Return.
+      Part 1 ­ Determination of CMT applicability
+
+   Total assets of the corporation at the end of the tax year * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+   Share of total assets from partnership(s) and joint venture(s) * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 114
+   Total assets of associated corporations (amount from line 450 on Schedule 511) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+
+   Total assets (total of lines 112 to 116) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+   Total revenue of the corporation for the tax year ** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
+   Share of total revenue from partnership(s) and joint venture(s) ** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 144
+   Total revenue of associated corporations (amount from line 550 on Schedule 511) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146
+
+   Total revenue (total of lines 142 to 146) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+   The corporation is subject to CMT if:
+   ­ for tax years ending before July 1, 2010, the total assets at the end of the year of the corporation or the associated group of corporations are more than
+
+       $5,000,000, or the total revenue for the year of the corporation or the associated group of corporations is more than $10,000,000.
+   ­ for tax years ending after June 30, 2010, the total assets at the end of the year of the corporation or the associated group of corporations
+
+       are equal to or more than $50,000,000, and the total revenue for the year of the corporation or the associated group of corporations is
+       equal to or more than $100,000,000.
+
+   If the corporation is not subject to CMT, do not complete the remaining parts unless the corporation is deducting a CMT credit, or has a CMT credit
+   carryforward, a CMT loss carryforward, a current year CMT loss, or SAT payable in the year.
+
+    * Rules for total assets
+
+       ­ Report total assets according to generally accepted accounting principles, adjusted so that consolidation and equity methods are not used.
+       ­ Do not include unrealized gains and losses on assets and foreign currency gains and losses on assets that are included in net income for
+
+         accounting purposes but not in income for corporate income tax purposes.
+       ­ The amount on line 114 is determined at the end of the last fiscal period of the partnership or joint venture that ends in the tax year of the
+
+         corporation. Add the proportionate share of the assets of the partnership(s) and joint venture(s), and deduct the recorded asset(s) for the
+         investment in partnerships and joint ventures.
+       ­ A corporation's share in a partnership or joint venture is determined under paragraph 54(5)(b) of the Ontario Act and, if the partnership or joint venture
+         had no income or loss, is calculated as if the partnership's or joint venture's income were $1 million. For a corporation with an indirect interest in a
+         partnership or joint venture, determine the corporation's share according to paragraph 54(5)(c) of the Ontario Act.
+
+   ** Rules for total revenue
+
+       ­ Report total revenue in accordance with generally accepted accounting principles, adjusted so that consolidation and equity methods are not used.
+       ­ If the tax year is less than 51 weeks, multiply the total revenue of the corporation or the partnership, whichever applies, by 365 and divide by the
+
+         number of days in the tax year.
+       ­ The amount on line 144 is determined for the partnership or joint venture fiscal period that ends in the tax year of the corporation. If the
+
+         partnership or joint venture has 2 or more fiscal periods ending in the filing corporation's tax year, multiply the sum of the total revenue for each
+         of the fiscal periods by 365 and divide by the total number of days in all the fiscal periods.
+       ­ A corporation's share in a partnership or joint venture is determined under paragraph 54(5)(b) of the Ontario Act and, if the partnership or
+         joint venture had no income or loss, is calculated as if the partnership's or joint venture's income were $1 million. For a corporation with an
+         indirect interest in a partnership or joint venture, determine the corporation's share according to paragraph 54(5)(c) of the Ontario Act.
+
+T2 SCH 510 E (14)   (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca/formulaires ou en composant le 1 800 959-7775.) Page 1 of 6
+                                                                                                                           Protected B when completed
+
+Part 2 ­ Adjusted net income/loss for CMT purposes
+
+Net income/loss per financial statements * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+
+Add (to the extent reflected in income/loss):
+
+Provision for current income taxes/cost of current income taxes . . . . . . . . . . . . . . . . . . . . 220
+Provision for deferred income taxes (debits)/cost of future income taxes . . . . . . . . . . . . . . 222
+Equity losses from corporations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 224
+Financial statement loss from partnerships and joint ventures . . . . . . . . . . . . . . . . . . . . . . 226
+
+Dividends deducted on financial statements (subsection 57(2) of the Ontario Act), excluding
+dividends paid by credit unions under subsection 137(4.1) of the federal Act . . . . . . . . . . . 230
+
+Other additions (see note below):
+Share of adjusted net income of partnerships and joint ventures ** . . . . . . . . . . . . . . . . . . 228
+Total patronage dividends received, not already included in net income/loss . . . . . . . . . . . 232
+
+281                                                 . . . . . . 282
+
+283                                                 . . . . . . 284
+
+                                                    Subtotal                                                                                                    A
+                                                                                                                           
+Deduct (to the extent reflected in income/loss):
+
+Provision for recovery of current income taxes/benefit of current income taxes . . . . . . . . . . 320
+Provision for deferred income taxes (credits)/benefit of future income taxes . . . . . . . . . . . . 322
+Equity income from corporations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 324
+Financial statement income from partnerships and joint ventures . . . . . . . . . . . . . . . . . . . 326
+Dividends deductible under section 112, section 113, or subsection 138(6) of the federal Act 330
+Dividends not taxable under section 83 of the federal Act (from Schedule 3) . . . . . . . . . . . . 332
+Gain on donation of listed security or ecological gift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 340
+Accounting gain on transfer of property to a corporation under section 85 or 85.1 of the federal Act *** . . . . . . 342
+Accounting gain on transfer of property to/from a partnership under section 85 or 97 of the federal Act **** . . . . 344
+
+Accounting gain on disposition of property under subsection 13(4),
+subsection 14(6), or section 44 of the federal Act ***** . . . . . . . . . . . . . . . . . . . . . . . . . . . 346
+
+Accounting gain on a windup under subsection 88(1) of the federal Act or
+an amalgamation under section 87 of the federal Act . . . . . . . . . . . . . . . . . . . . . . . . . . . . 348
+
+Other deductions (see note below):
+Share of adjusted net loss of partnerships and joint ventures ** . . . . . . . . . . . . . . . . . . . . . 328
+Tax payable on dividends under subsection 191.1(1) of the federal Act multiplied by 3 . . . 334
+
+Interest deducted/deductible under paragraph 20(1)(c) or (d) of the federal Act,
+not already included in net income/loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 336
+Patronage dividends paid (from Schedule 16) not already included in net income/loss . . . . 338
+
+381                                                 . . . . . . 382
+
+383                                                 . . . . . . 384
+
+385                                                 . . . . . . 386
+
+387                                                 . . . . . . 388
+
+389                                                 . . . . . . 390
+
+                                                    Subtotal                                                                                                    B
+
+Adjusted net income/loss for CMT purposes (line 210 plus amount A minus amount B) . . . . . . . . . . . . . . . . . . . . . . . . 490
+
+If the amount on line 490 is positive and the corporation is subject to CMT as determined in Part 1, enter the amount on line 515 in Part 3.
+If the amount on line 490 is negative, enter the amount on line 760 in Part 7 (enter as a positive amount).
+
+Note
+In accordance with Ontario Regulation 37/09, when calculating net income for CMT purposes, accounting income should be adjusted to:
+
+­ exclude unrealized gains and losses due to mark-to-market changes or foreign currency changes on specified mark-to-market property (assets only);
+­ include realized gains and losses on the disposition of specified mark-to-market property not already included in the accounting income, if the
+
+   property is not a capital property or is a capital property disposed in the year or in a previous tax year ended after March 22, 2007.
+
+"Specified mark-to-market property" is defined in subsection 54(1) of the Ontario Act.
+These rules also apply to partnerships. A corporate partner's share of a partnership's adjusted income flows through on a proportionate basis
+to the corporate partner.
+
+* Rules for net income/loss
+
+  ­ Banks must report net income/loss as per the report accepted by the Superintendent of Financial Institutions under the federal Bank Act, adjusted so
+      consolidation and equity methods are not used.
+
+                                                                                                                                                                Page 2
+                                                                                                                   Protected B when completed
+
+Part 2 ­ Calculation of adjusted net income/loss for CMT purposes (continued)
+
+­ Life insurance corporations must report net income/loss as per the report accepted by the federal Superintendent of Financial Institutions or equivalent
+   provincial insurance regulator, before SAT and adjusted so consolidation and equity methods are not used. If the life insurance corporation is resident
+   in Canada and carries on business in and outside of Canada, multiply the net income/loss by the ratio of the Canadian reserve liabilities divided by
+   the total reserve liability. The reserve liabilities are calculated in accordance with Regulation 2405(3) of the federal Act.
+
+­ Other corporations must report net income/loss in accordance with generally accepted accounting principles, except that consolidation and equity
+   methods must not be used. When the equity method has been used for accounting purposes, equity losses and equity income are removed from
+   book income/loss on lines 224 and 324 respectively.
+
+­ Corporations, other than insurance corporations, should report net income from line 9999 of the GIFI (Schedule 125) on line 210.
+
+   ** The share of the adjusted net income of a partnership or joint venture is calculated as if the partnership or joint venture were a corporation and the
+       tax year of the partnership or joint venture were its fiscal period. For a corporation with an indirect interest in a partnership through one or more
+       partnerships, determine the corporation's share according to clause 54(5)(c) of the Ontario Act.
+
+  *** A joint election will be considered made under subsection 60(1) of the Ontario Act if there is an entry on line 342, and an election has been made
+       for transfer of property to a corporation under subsection 85(1) of the federal Act.
+
+ **** A joint election will be considered made under subsection 60(2) of the Ontario Act if there is an entry on line 344, and an election has been made
+      under subsection 85(2) or 97(2) of the federal Act.
+
+***** A joint election will be considered made under subsection 61(1) of the Ontario Act if there is an entry on line 346, and an election has been made
+       under subsection 13(4) or 14(6) and/or section 44 of the federal Act.
+
+ For more information on how to complete this part, see the T2 Corporation ­ Income Tax Guide.
+
+Part 3 ­ CMT payable
+
+Adjusted net income for CMT purposes (line 490 in Part 2, if positive) . . . . . . . . . . . . . . . . 515
+Deduct:
+CMT loss available (amount R from Part 7) . . . . . . . . . . . . . . . .
+
+Minus: Adjustment for an acquisition of control * . . . . . . . . 518            
+
+Adjusted CMT loss available . . . . . . . . . . . . . . . . . . . . . . . . . .                                 C
+
+Net income subject to CMT calculation (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . 520
+
+Amount from                     Number of days in the tax
+
+line 520                     ×  year before July 1, 2010                         × 4% =                         1
+
+                                Number of days in the tax year
+
+Amount from                     Number of days in the tax
+
+line 520                     ×  year after June 30, 2010                         × 2.7% =                       2
+
+                                Number of days in the tax year
+
+                                Subtotal (amount 1 plus amount 2) . . . . . . . . . . . . . .                   3
+
+Gross CMT: amount on line 3 above  OAF ** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 540
+
+Deduct:
+Foreign tax credit for CMT purposes *** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 550
+
+CMT after foreign tax credit deduction (line 540 minus line 550) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        D
+
+Deduct:
+
+Ontario corporate income tax payable before CMT credit (amount F6 from Schedule 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Net CMT payable (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       E
+
+Enter amount E on line 278 of Schedule 5, Tax Calculation Supplementary ­ Corporations, and complete Part 4.
+
+* Enter the portion of CMT loss available that exceeds the adjusted net income for the tax year from carrying on a business before the
+  acquisition of control. See subsection 58(3) of the Ontario Act.
+
+*** Enter "0" on line 550 for life insurance corporations as they are not eligible for this deduction. For all other corporations, enter the cumulative total
+    of amount J for the province of Ontario from Part 9 of Schedule 21 on line 550.
+
+** Calculation of the Ontario allocation factor (OAF):
+
+If the provincial or territorial jurisdiction entered on line 750 of the T2 return is "Ontario," enter "1" on line F.
+If the provincial or territorial jurisdiction entered on line 750 of the T2 return is "multiple," complete the following calculation, and enter the result on line F:
+
+Ontario taxable income ****                             =
+
+Taxable income *****
+
+Ontario allocation factor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  F
+
+ **** Enter the amount allocated to Ontario from column F in Part 1 of Schedule 5. If the taxable income is nil, calculate the amount in column F as if the
+      taxable income were $1,000.
+
+***** Enter the taxable income amount from line 360 or amount Z of the T2 return, whichever applies. If the taxable income is nil, enter "1,000".
+
+                                                                                                                                                                                                                                       Page 3
+  Part 4 ­ Calculation of CMT credit carryforward                                                                                                     Protected B
+CMT credit carryforward at the end of the previous tax year * . . . . . . . . . . . . . . . . . . . . . . .                                            when completed
+
+                                                                                                                           G
+
+Deduct:
+CMT credit expired * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 600
+
+CMT credit carryforward at the beginning of the current tax year * (see note below) . . . . . . . .                            620
+                                                                                                                               
+Add:
+CMT credit carryforward balances transferred on an amalgamation or the windup of a subsidiary (see note below) . . . . . . 650
+                                                                                                                           
+CMT credit available for the tax year (amount on line 620 plus amount on line 650) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  H
+
+Deduct:
+
+CMT credit deducted in the current tax year (amount P from Part 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            I
+
+Add:                                                                                      Subtotal (amount H minus amount I)                                      J
+
+Net CMT payable (amount E from Part 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+SAT payable (amount O from Part 6 of Schedule 512) . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                     Subtotal                                                                     K
+
+CMT credit carryforward at the end of the tax year (amount J plus amount K) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 670                     L
+
+* For the first harmonized T2 return filed with a tax year that includes days in 2009:
+     ­ do not enter an amount on line G or line 600;
+     ­ for line 620, enter the amount from line 2336 of Ontario CT23 Schedule 101, Corporate Minimum Tax (CMT) , for the last tax year that ended in 2008.
+
+For other tax years, enter on line G the amount from line 670 of Schedule 510 from the previous tax year.
+Note: If you entered an amount on line 620 or line 650, complete Part 6.
+
+Part 5 ­ Calculation of CMT credit deducted from Ontario corporate income tax payable
+
+CMT credit available for the tax year (amount H from Part 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        M
+
+Ontario corporate income tax payable before CMT credit (amount F6 from Schedule 5) . . . . . . . .                             1
+
+For a corporation that is not a life insurance corporation:
+
+CMT after foreign tax credit deduction (amount D from Part 3) . . . . .                                                 2
+
+For a life insurance corporation:
+
+Gross CMT (line 540 from Part 3). . . . . . . . . . . . . . . . . . . . . . . . . .                                     3
+
+Gross SAT (line 460 from Part 6 of Schedule 512) . . . . . . . . . . . . . .                                            4
+
+The greater of amounts 3 and 4 . . . . . . . . . . . . . . . . . . . . . . . . . .                                      5
+
+                                   Deduct: line 2 or line 5, whichever applies:                                                6
+
+                                                             Subtotal (if negative, enter "0")                                                                    N
+
+Ontario corporate income tax payable before CMT credit (amount F6 from Schedule 5) . . . . . . . .
+
+Deduct:
+
+Total refundable tax credits excluding Ontario qualifying environmental trust tax credit
+
+(amount J6 minus line 450 from Schedule 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                             Subtotal (if negative, enter "0")                                                                    O
+
+CMT credit deducted in the current tax year (least of amounts M, N, and O) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            P
+
+Enter amount P on line 418 of Schedule 5 and on line I in Part 4 of this schedule.
+
+Is the corporation claiming a CMT credit earned before an acquisition of control? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 675 1 Yes       2 No
+
+If you answered yes to the question at line 675, the CMT credit deducted in the current tax year may be restricted. For information on how the
+deduction may be restricted, see subsections 53(6) and (7) of the Ontario Act.
+
+                                                                                                                                                                  Page 4
+                                                                                                                                                                     Protected B
+                                                                                                                                                                   when completed
+
+  Part 6 ­ Analysis of CMT credit available for carryforward by year of origin
+
+Complete this part if:
+ ­ the tax year includes January 1, 2009; or
+ ­ the previous tax year-end is deemed to be December 31, 2008, under subsection 249(3) of the federal Act.
+
+         Year of origin                        CMT credit balance *
+
+         10th previous 680
+            tax year
+
+         9th previous 681
+            tax year
+
+         8th previous 682
+            tax year
+
+         7th previous 683
+            tax year
+
+         6th previous 684
+            tax year
+
+         5th previous 685
+            tax year
+
+         4th previous 686
+            tax year
+
+         3rd previous 687
+            tax year
+
+         2nd previous 688
+            tax year
+
+         1st previous 689
+            tax year
+
+             Total **
+
+ * CMT credit that was earned (by the corporation, predecessors of the corporation, and subsidiaries wound up into the corporation) in each of the
+     previous 10 tax years and has not been deducted.
+
+** Must equal the total of the amounts entered on lines 620 and 650 in Part 4.
+
+Part 7 ­ Calculation of CMT loss carryforward
+
+CMT loss carryforward at the end of the previous tax year *. . . . . . . . . . . . . . . . . . . . . . . . .            Q
+
+Deduct:
+
+CMT loss expired * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 700  
+
+CMT loss carryforward at the beginning of the tax year * (see note below) . . . . . . . . . . . . . .                      720
+
+Add:
+
+CMT loss transferred on an amalgamation under section 87 of the federal Act ** (see note below) . . . . . . . . . . . . . . . . . 750
+
+CMT loss available (line 720 plus line 750) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  R
+
+Deduct:
+
+CMT loss deducted against adjusted net income for the tax year (lesser of line 490 (if positive) and line C in Part 3) . . . . . . . . .
+
+                                                                                                                        Subtotal (if negative, enter "0")          S
+
+Add:
+
+Adjusted net loss for CMT purposes (amount from line 490 in Part 2, if negative) (enter as a positive amount) . . . . . . . . . 760
+
+CMT loss carryforward balance at the end of the tax year (amount S plus line 760) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 770                      T
+
+ * For the first harmonized T2 return filed with a tax year that includes days in 2009:
+    ­ do not enter an amount on line Q or line 700;
+    ­ for line 720, enter the amount from line 2214 of Ontario CT23 Schedule 101, Corporate Minimum Tax (CMT) , for the last tax year that ended in 2008.
+
+   For other tax years, enter on line Q the amount from line 770 of Schedule 510 from the previous tax year.
+
+** Do not include an amount from a predecessor corporation if it was controlled at any time before the amalgamation by any
+   of the other predecessor corporations.
+
+   Note: If you entered an amount on line 720 or line 750, complete Part 8.
+
+                                                                                                                                                                   Page 5
+                                                                                                               Protected B
+                                                                                                             when completed
+
+  Part 8 ­ Analysis of CMT loss available for carryforward by year of origin
+
+Complete this part if:
+ ­ the tax year includes January 1, 2009; or
+ ­ the previous tax year-end is deemed to be December 31, 2008, under subsection 249(3) of the federal Act.
+
+Year of origin  Balance earned in a tax year ending Balance earned in a tax year ending
+
+10th previous        before March 23, 2007 *       after March 22, 2007 **
+   tax year
+                810                           820
+9th previous
+   tax year     811                           821
+
+8th previous    812                           822
+   tax year
+                813                           823
+7th previous
+   tax year     814                           824
+
+6th previous    815                           825
+   tax year
+                816                           826
+5th previous
+   tax year     817                           827
+
+4th previous    818                           828
+   tax year
+                                              829
+3rd previous
+   tax year
+
+2nd previous
+   tax year
+
+1st previous
+   tax year
+
+Total ***
+
+  * Adjusted net loss for CMT purposes that was earned (by the corporation, by subsidiaries wound up into or amalgamated with the corporation before
+     March 22, 2007, and by other predecessors of the corporation) in each of the previous 10 tax years that ended before March 23, 2007, and has not
+     been deducted.
+
+ ** Adjusted net loss for CMT purposes that was earned (by the corporation and its predecessors, but not by a subsidiary predecessor) in each of
+     the previous 20 tax years that ended after March 22, 2007, and has not been deducted.
+
+*** The total of these two columns must equal the total of the amounts entered on lines 720 and 750.
+
+                                                                                                             Page 6
+

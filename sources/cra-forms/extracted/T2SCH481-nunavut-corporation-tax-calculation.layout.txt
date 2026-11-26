@@ -1,0 +1,60 @@
+                                                                                                                                                                                               Schedule 481
+
+                                                                                                                                                                                                 Protected B
+                                                                                                                                                                                               when completed
+
+Corporation's name                  Nunavut Corporation Tax Calculation                                                                                                                        Tax year-end
+                                            (2021 and later tax years)
+
+                                                                                                           Business number
+
+                                                                                                                                                             Year                              Month Day
+
+· Use this schedule if your corporation had a permanent establishment (as defined in section 400 of the federal Income Tax Regulations)
+
+  in Nunavut, and had taxable income earned in the year in Nunavut.
+
+· This schedule is a worksheet only and is not required to be filed with your T2 Corporation Income Tax Return.
+
+Part 1 ­ Income subject to Nunavut lower and higher tax rates
+
+Taxable income for Nunavut Note 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1A
+
+Income eligible for the Nunavut lower tax rate:
+
+Line 400 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1B
+
+Line 405 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1C
+
+Line 428 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1D
+
+Amount 1B, 1C or 1D, whichever is the least . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1E
+
+Amount 1E                        ×               Taxable income for Nunavut Note 1                                                                           =                                               1F
+
+                                                 Taxable income for all provinces Note 2
+
+Income subject to Nunavut higher tax rate (amount 1A minus amount 1F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                1G
+
+Note 1: If your corporation had a permanent establishment only in Nunavut, enter the taxable income from line 360 of the T2 return. Otherwise,
+            enter the taxable income allocated to Nunavut from column F in Part 1 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+Note 2: Includes the territories and the offshore jurisdictions for Nova Scotia and Newfoundland and Labrador.
+
+Part 2 ­ Nunavut tax before credits
+
+Nunavut tax at the lower rate:
+
+Amount 1F                        × 3% = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                      2A
+
+Nunavut tax at the higher rate:
+
+Amount 1G                        × 12% = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                     2B
+
+Nunavut tax before credits (amount 2A plus amount 2B) Note 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                     2C
+
+Note 3: If your corporation had a permanent establishment in more than one jurisdiction, or is claiming a Nunavut tax credit,
+            enter amount 2C on line 260 of Schedule 5. Otherwise, enter it on line 760 of the T2 return.
+
+T2 SCH 481 E (21)                                (Ce formulaire est disponible en français.)
+

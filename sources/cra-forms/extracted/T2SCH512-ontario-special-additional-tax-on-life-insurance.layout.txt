@@ -1,0 +1,258 @@
+                                                                                                                                                SCHEDULE 512
+
+                                                                                                                                                                                             Code 0901
+                                                                                                                                                 Protected B when completed
+
+                     ONTARIO SPECIAL ADDITIONAL TAX ON LIFE INSURANCE CORPORATIONS (SAT)
+                                                               (2009 and later tax years)
+
+Name of corporation                                                                                                                Business Number            Tax year end
+
+                                                                                                                                                        Year  Month Day
+
+· Complete this schedule for a life insurance corporation carrying on business in Ontario at any time in the tax year. The Ontario special additional tax
+  on life insurance corporations (SAT) is levied under section 63 of the Taxation Act, 2007 (Ontario).
+
+· Subsection 181(3) provides the basis to determine the carrying value of a life insurance corporation's assets or any other amount under
+  section 63 of the Taxation Act, 2007 (Ontario) for its capital, taxable paid-up capital, and taxable capital employed in Canada.
+
+· Unless otherwise noted, all amounts are determined as of the end of the year.
+
+· Unless otherwise noted, references to parts, subsections, subparagraphs, clauses, and regulations are from the federal Income Tax Act
+  and the Income Tax Regulations.
+
+· File this schedule with the T2 Corporation Income Tax Return.
+     Part 1 ­ Capital (resident life insurance corporation)
+
+Add:
+Long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+
+Capital stock (for a corporation incorporated without share capital, its                                                 112
+members' contributions) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Retained earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 114
+
+Contributed surplus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+Any other surplus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
+
+                                                                 Subtotal                                                                                                   A
+                                                                                                                                                    
+Deduct:
+
+Deferred tax debit balance or future tax assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+
+Any deficit deducted in computing shareholders' equity
+(subsection 63(4) of the Taxation Act, 2007 (Ontario)) . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+
+                                                                 Subtotal                                                                                                   B
+
+Capital for the year (amount A minus amount B) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+
+Part 2 ­ Taxable capital employed in Canada (resident life insurance corporation)
+
+Capital for the year (amount from line 150 in Part 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Add:
+Capital of foreign insurance subsidiaries (amount BBB from page 4) . . . . . . . . . . . . . . . . . 160
+
+                                                                 Subtotal                                                                           C
+
+Total reserve liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 164
+Add:
+Total reserve liabilities of foreign subsidiaries (amount CCC from page 4) . . . . . . . . . . . . . . 166
+
+                                                                 Subtotal                                                                           D
+
+Canadian reserve liabilities (Regulation 2400(1)) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 168                                 E
+
+Proportion of capital over reserve liabilities:
+
+              Amount E                           × Amount C = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170                                               F
+              Amount D
+
+Add:
+Amount determined under subparagraph 190.11(b)(ii) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 180
+
+Taxable capital employed in Canada (resident life insurance corporation) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 190
+(amount on line 170 plus the amount on line 180)
+
+T2 SCH 512 E            (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca ou en composant le 1-800-959-7775.) Page 1 of 4
+                                                                                                                                                                                Protected B when completed
+
+Part 3 ­ Capital and taxable capital employed in Canada (non-resident life insurance corporation)
+
+The amount that is the greater of:
+
+a) The amount, if any, by which the corporation's surplus funds derived from operations as of the end of the year, exceeds the total of all
+    amounts, each of which is:
+
+i) an amount on which it was required or would have been required, but for subsection 219(5.2), to
+    have paid tax under Part XIV for a previous tax year, less the part, if any, of the amount on which
+    tax was payable, or would have been payable, described in subparagraph 219(4)(a)(i.1), or
+
+ii) an amount on which it was required or would have been required, but
+
+for subsection 219(5.2), to have paid tax under subsection 219(5.1) for
+
+the year because of the transfer of an insurance business to which                                          210
+subsection 138(11.5) or (11.92) applied. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+b) Attributed surplus for the year (Regulation 2400(1)) . . . . . . . . . . . . . . . . . . . . . . . . . . . 214
+
+Greater of the amounts on line 210 and line 214 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                      G
+
+Add:                                                                                                                                                                            
+Any other surpluses related to insurance businesses carried on in Canada . . . . . . . . . . . . . 218                                                                          
+
+Long-term debt that may reasonably be regarded as related to insurance
+businesses carried on in Canada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 222
+
+Amount determined under subparagraph 190.11(b)(ii) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+
+                                                                                    Subtotal                                                                                               H
+
+Capital and taxable capital employed in Canada (non-resident life insurance corporation) (amount G plus amount H) 290                                                                      I
+
+    Part 4 ­ Capital allowance                                                                                                                                                  310 1 Yes  2 No
+Is the corporation related at the end of the year to another life insurance corporation that carries on business in Canada?
+                                                                                                                                                                                                        1
+If you answered yes to the question at line 310, use Schedule 513, Agreement Among Related Life Insurance Corporations (Ontario), to                                                                    2
+calculate the capital allowance to be entered on line 330.                                                                                                                                              3
+                                                                                                                                                                                                     Page 2
+          If you have not filed Schedule 513 with your return because another life insurance corporation
+          in the related group has filed it, complete the following information for that corporation:
+
+315 Name of corporation
+
+320 Business Number                                                      325        Tax year end
+
+                                    RC                                        Year                          Month Day
+
+If you answered no to the question at line 310, complete the following calculation:
+
+Basic amount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Add the following
+
+0.50 x [(lesser of $50 million and line 190 or line 290) minus $10 million] (if negative, enter "0"). . .
+0.25 x [(lesser of $100 million and line 190 or line 290) minus $50 million] (if negative, enter "0"). .
+0.50 x [(lesser of $300 million and line 190 or line 290) minus $200 million] (if negative, enter "0")
+0.75 x [(line 190 or line 290) minus $300 million] (if negative, enter "0") . . . . . . . . . . . . . . . . . .
+
+                                                                                                                         Subtotal
+
+Total (amount 1 plus amount 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Capital allowance (amount 3 or the amount from line 400 on Schedule 513, whichever applies) . . . . . . . . . . . . . . . . . . . . 330
+                                                                                                                         Protected B when completed
+
+Part 5 ­ Taxable paid-up capital
+
+Taxable capital employed in Canada (amount from line 190 in Part 2 or line 290 in Part 3). . . . . . .
+
+Deduct:
+Capital allowance (amount from line 330 in Part 4 ) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                        Subtotal                                                          J
+                                                                                                                         
+Ontario domestic factor *:        Ontario taxable income **                             = ..............................                                  K
+
+                            taxable income earned in all provinces and territories ***
+
+Taxable paid-up capital (amount J multiplied by amount K) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 350
+
+* If the taxable income (amount from line 360 of the T2 return) is 0, calculate Ontario taxable income and taxable income earned in all
+    provinces and territories as if taxable income were $1,000.
+
+** If the corporation has a permanent establishment only in Ontario, enter the amount from line 360 from page 3 of the T2 return.
+    Otherwise, enter the taxable income allocated to Ontario from column F in Part 1 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+*** Includes the offshore jurisdictions for Nova Scotia, and Newfoundland and Labrador.
+
+Part 6 ­ SAT
+
+Taxable paid-up capital (amount from line 350 in Part 5) . . . . . . . . . .            L
+
+Gross SAT:
+
+Amount L × 1.25% × Number of days in the tax year (  ) * = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 460                  M
+
+                                  365
+
+Deduct:
+
+Ontario corporate income tax payable (amount from line G6 of Schedule 5) . . . . . . . . . . . . . . . . .
+
+Ontario corporate minimum tax payable (amount from line 278 of Schedule 5) . . . . . . . . . . . . . . .
+
+                                                                                        Subtotal                                                          N
+
+SAT payable ** (amount M minus amount N) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   O
+
+Enter this amount on line 280 of Schedule 5.
+
+* Cannot be more than 365.
+
+** The SAT payable for the tax year is added to the corporation's corporate minimum tax (CMT) credit carryforward. The CMT credit can be deducted to
+    reduce Ontario corporate income tax payable. Complete Part 4 of Schedule 510, Ontario Corporate Minimum Tax, to report SAT payable for the tax year.
+
+                                                                                                                                                         Page 3
+                                                                                                                                                                                               Protected B when completed
+
+    Complete the following tables to determine the amounts to use in Part 2, on page 1, in calculating the taxable capital employed in Canada of a Canadian resident corporation that carried on a life
+    insurance business in Ontario.
+
+    Table 1                                     2                                         3           4                  5                                6    7                               8                 9
+                                             1
+
+                Name of foreign                 Long - term                         Capital stock or  Retained earnings  Surpluses             Subtotal          Deferred tax                  Deficit deducted          Capital
+             insurance subsidiary                   debt                               members'                                             2+3+4+5            debit balance or                  in computing
+                                                                                                                                                               future tax assets                shareholders'         6 - (7+8)
+                                                                                     contributions                                                                                                   equity
+                                                                                                                                                                                                                 Enter in column (2)
+                                                                                                                                                                                                                  in Table 2 below
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+    Table 2
+
+                        1                                          2                                3                                   4                                      5                                 6
+
+                Name of foreign                     Capital of foreign insurance     Capital stock and long-term     Any other surplus contributed into          Amount determined under         Total reserve liabilities under
+             insurance subsidiary               subsidiary per subsection 63(6) of  debt invested in the subsidiary  the subsidiary per clause 63(6)(b)      subsection 63(6) of the Taxation  subsection 63(7) of the Taxation
+                                                 the Taxation Act, 2007 (Ontario)                                    of the Taxation Act, 2007 (Ontario)
+                                                                                       per clause 63(6)(a) of the                                             Act, 2007 (Ontario) (capital of          Act, 2007 (Ontario)
+                                                     (from column 9 in Table 1)      Taxation Act, 2007 (Ontario)                                             foreign insurance subsidiaries)               (see Note 2)
+
+                                                                                                                                                                     columns 2 - (3 + 4)
+                                                                                                                                                                          (see Note 1)
+
+                                                                                    Capital Stock Long term debt
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+                                                                                                                                    Totals                BBB                                  CCC
+
+                                                                                                                                                             (enter on line 160 in Part 2)     (enter on line 166 in Part 2)
+
+    Notes
+
+    1) The amount in column 5 of Table 2, for each subsidiary, cannot be less than zero.
+
+    2) The amounts in column 6 of Table 2 are those that would be reported by the foreign insurance subsidiary for that year if it had to report to the Office of the Superintendent of Financial Institutions.
+
+                                                                                                                                                                                                                 Page 4
+

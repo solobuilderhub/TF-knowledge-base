@@ -1,0 +1,31 @@
+page	part	field	line	kind	digits	speak
+1	Form_Info_sf	Corp_Nm		text		Corporation's name.
+1	Form_Info_sf	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Form_Info_sf/DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Prt1_sf/ID_1A_sf	Input_110	110	numeric	12	Line 110. Capital for the year. Amount from line 190 or 290 of Schedule 38, whichever applies.
+1	Prt1_sf/ID_1A_sf	Input_120	120	numeric	12	Line 120. Capital deduction claimed for the year.
+1	Prt1_sf/ID_1A_sf	Input_1A		numeric	12	Amount 1A. Excess amount. Line 110 minus line 120, if negative, enter 0. Instance 1.
+1	Prt1_sf/ID_1B_1C_sf	Input_1B_1	147	numeric	12	Line 147 plus line 148 of Schedule 5.
+1	Prt1_sf/ID_1B_1C_sf	Input_1B_2	169	numeric	12	Line 169 of Schedule 5.
+1	Prt1_sf/ID_1B_1C_sf	Input_1B_3		numeric	12	Amount 1B. The result of line 147 plus line 148 of Schedule 5, divided by line 169 of Schedule 5. Instance 1.
+1	Prt1_sf/ID_1B_1C_sf	Input_1A		numeric	12	Amount 1A. Instance 2.
+1	Prt1_sf/ID_1B_1C_sf	Input_1B_4		numeric	12	Amount 1B. Instance 2.
+1	Prt1_sf/ID_1B_1C_sf	Input_1C		numeric	12	Amount 1C. Amount 1A multiplied by amount 1B. Enter amount 1C on line 130.
+1	Prt1_sf/ID_1D_1E_1F_sf	Input_1D_1	107	numeric	12	Line 107 plus line 108 of Schedule 5.
+1	Prt1_sf/ID_1D_1E_1F_sf	Input_1D_2	129	numeric	12	Line 129 of Schedule 5.
+1	Prt1_sf/ID_1D_1E_1F_sf	Input_1D_3		numeric	12	Amount 1D. The result of line 107 plus line 108 of Schedule 5, divided by line 129 of Schedule 5.
+1	Prt1_sf/ID_1D_1E_1F_sf	Input_1E_1		numeric	12	2 multiplied by the result of line 147 plus line 148 of Schedule 5.
+1	Prt1_sf/ID_1D_1E_1F_sf	Input_1E_2	169	numeric	12	Line 169 of Schedule 5.
+1	Prt1_sf/ID_1D_1E_1F_sf	Input_1E_3		numeric	12	Amount 1E. The result of 2 multiplied by the result of line 147 plus line 148 of Schedule 5, divided by line 169 of Schedule 5.
+1	Prt1_sf/ID_1D_1E_1F_sf	Input_1F_1		numeric	12	Subtotal. Amount 1D plus 1E.
+1	Prt1_sf/ID_1D_1E_1F_sf	Input_1F_2		numeric	12	Amount 1F. The result of subtotal, amount 1D plus 1E, multiplied by one third. Instance 1.
+1	Prt1_sf/ID_1G_sf	Input_1A		numeric	12	Amount 1A. Instance 3.
+1	Prt1_sf/ID_1G_sf	Input_1G_1		numeric	12	Amount 1F. Instance 2.
+1	Prt1_sf/ID_1G_sf	Input_1G_2		numeric	12	Amount 1G. Amount 1A multiplied by amount 1F. Enter amount 1G on line 130.
+1	Prt1_sf/Line_130_sf	Input_130	130	numeric	12	Line 130. Nova Scotia taxable capital in excess of capital deduction for the year. Amount 1A, 1C, or 1G, whichever applies. Instance 1.
+1	Prt2_sf/ID_2A_2B_150_sf	Input_130_1	130	numeric	12	Line 130. Instance 2.
+1	Prt2_sf/ID_2A_2B_150_sf	Input_2A		numeric	12	Amount 2A. Line 130 multiplied by 4%.
+1	Prt2_sf/ID_2A_2B_150_sf	Input_130_2	130	numeric	12	Line 130. Instance 3.
+1	Prt2_sf/ID_2A_2B_150_sf	Input_Nmb_days		numeric	3	Number of days in the tax year.
+1	Prt2_sf/ID_2A_2B_150_sf	Input_2B		numeric	12	Amount 2B. Line 130 multiplied by the number of days in the tax year, divided by three hundred and sixty-five, multiplied by 4%.
+1	Prt2_sf/ID_2A_2B_150_sf	Input_050	150	numeric	12	Line 150. Nova Scotia financial institutions capital tax. Amount 2A or amount 2B, whichever applies.

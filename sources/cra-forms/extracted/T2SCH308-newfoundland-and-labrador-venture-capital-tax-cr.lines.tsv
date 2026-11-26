@@ -1,0 +1,6 @@
+line	caption
+100	Corporation's credit earned in the current year (total of all credit amounts from venture capital tax credit certificates received for the tax year)
+130	Credit expired after seven tax years
+135	Unused credit at the beginning of this tax year (amount A minus line 130)
+150	Credit claimed in the current year
+190	Closing balance – credit available for carryforward (amount B minus amount D)

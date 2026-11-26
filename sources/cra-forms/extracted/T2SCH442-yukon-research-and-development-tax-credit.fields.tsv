@@ -1,0 +1,18 @@
+page	part	field	line	kind	digits	speak
+1	CorpInfo_Bus_Date_Subform	Corporation_name		text		Corporation's name.
+1	CorpInfo_Bus_Date_Subform	BusinessNumber_Contiguous_EN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	CorpInfo_Bus_Date_Subform	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Ln103_sf	Amt_Ln_103_Inst1	103	numeric	12	Line 103. Total eligible expenditures for research and development incurred in the current tax year.
+1	Prt2_sf/Amt_2A_sf	Amt_Ln103_Inst2		numeric	12	Expenditures from line 103.
+1	Prt2_sf/Amt_2A_sf	Amt_Ln_120	120	numeric	12	Line 120. Expenditures from line 103 multiplied by 15%.
+1	Prt2_sf/Amt_2A_sf	Amt_Ln103_Inst3		numeric	12	Expenditures of line 103 paid or payable to Yukon University.
+1	Prt2_sf/Amt_2A_sf	Amt_Ln_121	121	numeric	12	Line 121. Expenditures of line 103 paid or payable to Yukon University multiplied by 5%.
+1	Prt2_sf/Amt_2A_sf	Amt_2A_Inst1		numeric	12	Amount 2A. Subtotal. Line 120 plus line 121. Instance 1.
+1	Prt2_sf/Amt_2A_sf	Amt_2A_Inst2		numeric	12	Amount 2A. Instance 2.
+1	Prt2_sf/Amt_2B_sf	Amt_Ln_130	130	numeric	12	Line 130. Credit allocated from a partnership.
+1	Prt2_sf/Amt_2B_sf	Amt_Ln_140	140	numeric	12	Line 140. Credit allocated from a trust.
+1	Prt2_sf/Amt_2B_sf	Repayment_Amt		numeric	12	Repayments.
+1	Prt2_sf/Amt_2B_sf	Amt_Ln_145	145	numeric	12	Line 145. Repayments, multiplied by applicable rate.
+1	Prt2_sf/Amt_2B_sf	Amt_2B_Inst1		numeric	12	Amount 2B. Subtotal. Total of lines 130, 140 and 145. Instance 1.
+1	Prt2_sf/Amt_2B_sf	Amt_2B_Inst2		numeric	12	Amount 2B. Instance 2.
+1	Prt2_sf/Amt_160_sf	Amt_Ln_160	160	numeric	12	Line 160. Total current year refundable credit. Amount 2A plus amount 2B. Enter line 160 on line 698 of Schedule 5, Tax Calculation Supplementary – Corporations.

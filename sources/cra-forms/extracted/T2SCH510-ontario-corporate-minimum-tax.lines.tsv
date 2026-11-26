@@ -1,0 +1,44 @@
+line	caption
+112	Total assets of the corporation at the end of the tax year
+114	Share of total assets from partnership(s) and joint venture(s)
+116	Total assets of associated corporations (amount from line 450 on Schedule 511)
+142	Total revenue of the corporation for the tax year
+144	Share of total revenue from partnership(s) and joint venture(s)
+146	Total revenue of associated corporations (amount from line 550 on Schedule 511)
+210	Net income/loss per financial statements
+220	Provision for current income taxes/cost of current income taxes
+222	Provision for deferred income taxes (debits)/cost of future income taxes
+224	Equity losses from corporations
+226	Financial statement loss from partnerships and joint ventures
+230	Dividends deducted on financial statements (subsection 57(2) of the Ontario Act), excluding dividends paid by credit unions under subsection 137(4.1) of the federal Act
+228	Share of adjusted net income of partnerships and joint ventures
+232	Total patronage dividends received, not already included in net income/loss
+320	Provision for recovery of current income taxes/benefit of current income taxes
+322	Provision for deferred income taxes (credits)/benefit of future income taxes
+324	Equity income from corporations
+326	Financial statement income from partnerships and joint ventures
+332	Dividends not taxable under section 83 of the federal Act (from Schedule 3)
+340	Gain on donation of listed security or ecological gift
+342	Accounting gain on transfer of property to a corporation under section 85 or 85.1 of the federal Act
+344	Accounting gain on transfer of property to/from a partnership under section 85 or 97 of the federal Act
+346	Accounting gain on disposition of property under subsection 13(4), subsection 14(6), or section 44 of the federal Act
+348	Accounting gain on a windup under subsection 88(1) of the federal Act or an amalgamation under section 87 of the federal Act
+328	Share of adjusted net loss of partnerships and joint ventures
+336	Interest deducted/deductible under paragraph 20(1)(c) or (d) of the federal Act, not already included in net income/loss
+338	Patronage dividends paid (from Schedule 16) not already included in net income/loss
+490	Adjusted net income/loss for CMT purposes (line 210 plus amount A minus amount B)
+515	Adjusted net income for CMT purposes (line 490 in Part 2, if positive)
+518	Minus: Adjustment for an acquisition of control
+520	Net income subject to CMT calculation (if negative, enter "0")
+540	Gross CMT: amount on line 3 above OAF
+550	Foreign tax credit for CMT purposes
+600	CMT credit expired
+620	CMT credit carryforward at the beginning of the current tax year * (see note below)
+650	CMT credit carryforward balances transferred on an amalgamation or the windup of a subsidiary (see note below)
+670	CMT credit carryforward at the end of the tax year (amount J plus amount K)
+675	Is the corporation claiming a CMT credit earned before an acquisition of control?
+700	CMT loss expired
+720	CMT loss carryforward at the beginning of the tax year * (see note below)
+750	CMT loss transferred on an amalgamation under section 87 of the federal Act ** (see note below)
+760	Adjusted net loss for CMT purposes (amount from line 490 in Part 2, if negative) (enter as a positive amount)
+770	CMT loss carryforward balance at the end of the tax year (amount S plus line 760)

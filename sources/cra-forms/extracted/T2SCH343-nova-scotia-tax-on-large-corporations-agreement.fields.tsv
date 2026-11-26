@@ -1,0 +1,29 @@
+page	part	field	line	kind	digits	speak
+1	Deduction_Sub/Line020_Sub/Line020_CheckBox_Group	CheckBox_EN	020	check		Line 020. Is this an amended agreement? Yes.
+1	Deduction_Sub/Line020_Sub/Line020_CheckBox_Group	CheckBox_EN	020	check		Line 020. Is this an amended agreement? No.
+1	Deduction_Sub/Line030_Sub/Line030_DateYYYY	DateYYYY_Comb	030	text	4	Line 030. Calendar year to which the agreement applies. Year 4 digits.
+1	Deduction_Sub/Table/Row1	Cell1		text		
+1	Deduction_Sub/Table/Row1	Cell2		text		
+1	Deduction_Sub/Table/Row1	Cell3		numeric	12	
+1	Deduction_Sub/Table/Row2	Cell1		text		
+1	Deduction_Sub/Table/Row2	Cell2		text		
+1	Deduction_Sub/Table/Row2	Cell3		numeric	12	
+1	Deduction_Sub/Table/Row3	Cell1		text		
+1	Deduction_Sub/Table/Row3	Cell2		text		
+1	Deduction_Sub/Table/Row3	Cell3		numeric	12	
+1	Deduction_Sub/Table/Row4	Cell1		text		
+1	Deduction_Sub/Table/Row4	Cell2		text		
+1	Deduction_Sub/Table/Row4	Cell3		numeric	12	
+1	Deduction_Sub/Table/Row4	Cell1		text		
+1	Deduction_Sub/Table/Row4	Cell2		text		
+1	Deduction_Sub/Table/Row4	Cell3		numeric	12	
+1	Deduction_Sub/Table/Row4	Cell1		text		
+1	Deduction_Sub/Table/Row4	Cell2		text		
+1	Deduction_Sub/Table/Row4	Cell3		numeric	12	
+1	Deduction_Sub/Table/Row4	Cell1		text		
+1	Deduction_Sub/Table/Row4	Cell2		text		
+1	Deduction_Sub/Table/Row4	Cell3		numeric	12	
+1	Deduction_Sub/Table/Row4	Cell1		text		
+1	Deduction_Sub/Table/Row4	Cell2		text		
+1	Deduction_Sub/Table/Row4	Cell3		numeric	12	
+1		Total_Box		numeric	12	Total. Not to exceed $5,000,000.

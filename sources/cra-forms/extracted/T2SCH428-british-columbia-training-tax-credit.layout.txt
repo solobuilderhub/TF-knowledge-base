@@ -1,0 +1,209 @@
+                                       British Columbia Training Tax Credit                                                           Schedule 428
+                                               (2020 and later tax years)                                                                    Code 2003
+
+                                                                                                 Business number                        Protected B
+                                                                                                                                      when completed
+
+Corporation's name                                                                                                                    Tax year-end
+
+                                                                                                                               Year   Month Day
+
+· Complete this schedule if at any time in the tax year before January 1, 2028:
+  ­ you paid salary and wages to an employee enrolled in an eligible apprenticeship program administered through SkilledTradesBC
+  ­ your employee performed services related to the apprenticeship program at a permanent establishment in British Columbia
+
+· You cannot claim the training tax credit if your principal business is the construction, repair or conversion of ships.
+
+· To claim this credit, you must file a completed copy of this schedule with your T2 Corporation Income Tax Return within 36 months after the end of the tax
+
+  year in which you paid the eligible salary and wages.
+
+· There are three elements to the training tax credit program:
+
+   1. Basic credit for an eligible recognized program (see Part 1).
+   2. Completion credit for an eligible training program (see Part 2).
+   3. Enhanced credit for eligible First Nations individuals and for persons with disabilities (see Part 3).
+
+· Enter the identification number provided by SkilledTradesBC. If there is no identification number, enter the social insurance number (SIN) or the name of the
+
+  employee. Also enter the name of the eligible Red Seal or non-Red Seal apprenticeship program and the salary and wages payable in the period. If you need
+  more space, attach additional schedules.
+
+· Do not complete Part 1 or Part 2 for an employee enrolled in an eligible apprenticeship program if you are claiming the enhanced tax credit for that
+
+  employee in Part 3.
+
+· Eligible apprenticeship programs and completion requirements are described in the Income Tax Act (British Columbia) and the Training Tax Credits
+
+  Regulation.
+
+Part 1 ­ Basic tax credit
+
+The basic tax credit is available during an employee's first 24 months of an eligible non-Red Seal apprenticeship program. To claim this credit, enter on
+line 110 the salary and wages* payable during the tax year when the employee was still within the first 24 months of an eligible non-Red Seal
+apprenticeship program. Do not include employees for whom you are claiming the enhanced tax credit in Part 3.
+
+If your employee is in a Red Seal program, you cannot claim this basic tax credit.
+
+                       A1                       B1           C1                                                        D1                         E1
+SkilledTradesBC identification number  Name of program  Salary and                                                Column C1                  Lesser of
+                                                                                                                                      column D1 or $4,000
+      (or employee's SIN or name)                105      wages*                                                    × 20%
+                                                                                                                                                120
+                        100                                 110                                                        115
+
+                                                                                                                               Total                            A
+
+* Net of any other government and non-government assistance received, to be received, or that you are entitled to receive, other than the training tax credit,
+  the shipbuilding and ship repair industry tax credit, and the federal investment tax credit on apprenticeship job creation.
+
+T2 SCH 428 E (24)                      (Ce formulaire est disponible en français.)                                Page 1 of 3
+                                                                                                        Protected B when completed
+
+Part 2 ­ Completion tax credit
+
+Calculation for an employee who has completed level three of either an eligible Red Seal or non-Red Seal apprenticeship program. Do not
+include employees for whom you are claiming the enhanced tax credit in Part 3.
+
+To claim this credit, enter on line 210 the salary and wages* payable in the 12 months just before the completion of the level.
+
+                       A2                       B2                                       C2             D2                 E2
+SkilledTradesBC identification number  Name of program                              Salary and     Column C2          Lesser of
+                                                                                                               column D2 or $2,500
+      (or employee's SIN or name)                                                     wages*        × 15%
+
+                   200                 205                                                    210  215                           220
+
+                                                                                                        Total                                                   B
+
+Calculation for an employee who has completed level four of either an eligible Red Seal or non-Red Seal apprenticeship program
+To claim this credit, enter on line 310 the salary and wages* payable in the 12 months just before the completion of the level.
+
+                       A3                       B3                                       C3             D3                 E3
+SkilledTradesBC identification number  Name of program                              Salary and     Column C3          Lesser of
+                                                                                                               column D3 or $3,000
+      (or employee's SIN or name)                                                     wages*         × 15%
+
+                   300                 305                                                    310  315                           320
+
+                                                                                                        Total                                                   C
+
+* Net of any other government and non-government assistance received, to be received, or that you are entitled to receive, other than the training tax credit,
+  the shipbuilding and ship repair industry tax credit, and the federal investment tax credit on apprenticeship job creation.
+
+   Part 3 ­ Enhanced tax credit
+
+The enhanced tax credit is available if you have employees who are:
+
+   · eligible First Nations individuals (defined as persons registered as an Indian under the Indian Act), or
+   · persons with disabilities (defined as persons eligible, for themselves, for the federal disability amount on their income tax and benefit return)
+
+Calculation for an employee's first 24 months of an eligible Red Seal apprenticeship program
+
+To claim this credit, you must be eligible for the federal apprenticeship job creation tax credit (Red Seal programs only). Enter on line 411 the salary and
+wages* payable that are eligible for the federal apprenticeship job creation tax credit (included on line 603 of
+Schedule 31, Investment Tax Credit - Corporations).
+
+                       A4                       B4                                       C4             D4                 E4
+SkilledTradesBC identification number  Name of program                              Salary and     Column C4          Lesser of
+                                                                                                               column D4 or $1,000
+      (or employee's SIN or name)                                                     wages*         × 5.5%
+
+                   400                 405                                                    411  416                           420
+
+                                                                                                        Total                                                   D
+
+Calculation for an employee's first 24 months of an eligible non-Red Seal apprenticeship program
+
+This credit includes the basic and enhanced tax credit. To claim this credit, enter on line 510 the salary and wages* payable during the tax year when the
+
+employee was still within the first 24 months of an eligible non-Red Seal program.
+
+                       A5                       B5                                       C5             D5                 E5
+SkilledTradesBC identification number  Name of program                              Salary and     Column C5          Lesser of
+                                                                                                               column D5 or $6,000
+      (or employee's SIN or name)                                                     wages*         × 30%
+
+                   500                 505                                                    510  515                           520
+
+                                                                                                        Total                                                   E
+
+* Net of any other government and non-government assistance received, to be received, or that you are entitled to receive, other than the training tax credit,
+  the shipbuilding and ship repair industry tax credit, and the federal investment tax credit on apprenticeship job creation.
+
+T2 SCH 428 E (24)                                                                                                                                       Page 2 of 3
+                                                                                                                                                             Protected B when completed
+
+Part 3 ­ Enhanced tax credit (continued)
+
+Calculation for an employee who has completed level three of either an eligible Red Seal or non-Red Seal apprenticeship program
+
+This credit includes the completion and enhanced tax credit. To claim this credit, enter on line 610 the salary and wages* payable in the 12 months just before
+
+the completion of the level.
+
+                       A6                          B6                                C6                                                                      D6                                  E6
+SkilledTradesBC identification number     Name of program                       Salary and                                                              Column C6                           Lesser of
+                                                                                                                                                                                     column D6 or $3,750
+      (or employee's SIN or name)                                                 wages*                                                                 × 22.5%
+
+                     600                       605                              610                                                                     615                          620
+
+                                                                                                                                                             Total                                        F
+
+Calculation for an employee who has completed level four of either an eligible Red Seal or non-Red Seal apprenticeship program
+
+This credit includes the completion and enhanced tax credit. To claim this credit, enter on line 710 the salary and wages* payable in the 12 months just before
+
+the completion of the level.
+
+                       A7                          B7                                C7                                                                      D7                                  E7
+SkilledTradesBC identification number     Name of program                       Salary and                                                              Column C7                           Lesser of
+                                                                                                                                                                                     column D7 or $4,500
+      (or employee's SIN or name)                                                 wages*                                                                 × 22.5%
+
+                     700                       705                              710                                                                     715                          720
+
+                                                                                                                                                             Total                                        G
+
+* Net of any other government and non-government assistance received, to be received, or that you are entitled to receive, other than the training tax credit,
+  the shipbuilding and ship repair industry tax credit, and the federal investment tax credit on apprenticeship job creation.
+
+Part 4 ­ British Columbia training tax credit
+
+Basic tax credit (amount A from Part 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 800
+
+Completion tax credit
+
+Amount B from Part 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       H
+
+Amount C from Part 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             I
+
+Completion tax credit (amount H plus amount I) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 805                                       
+
+Enhanced tax credit
+
+Amount D from Part 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       J
+
+Amount E from Part 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       K
+
+Amount F from Part 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       L
+
+Amount G from Part 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       M
+
+Enhanced tax credit (add amounts J, K, L, and M) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 810                                         
+
+Credit allocated from a partnership** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 815
+
+British Columbia training tax credit (add lines 800, 805, 810, and 815) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                     N
+
+Enter at line 679 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+** A corporation that is a member of a partnership, other than a specified member as defined in subsection 248(1) of the Federal Income Tax Act, can claim its
+  appropriate portion of the British Columbia training tax credit on salary and wages payable for employment. The appropriate portion is that portion that may
+  reasonably be considered to be in the same proportion in which the partners have agreed to share any income or loss.
+
+                                                                                                                                                                   See the privacy notice on your return.
+
+T2 SCH 428 E (24)                                                                                                                                                                         Page 3 of 3
+

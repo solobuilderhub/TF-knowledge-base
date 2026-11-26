@@ -1,0 +1,43 @@
+page	part	field	line	kind	digits	speak
+1		Name_Corp		text		
+1		BusinessNumber_		text		Business Number. 9 digits, 2 letters, and 4 digits.
+1	Taxation_Date	Taxation_Year_End		text		Taxation year end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Table/Row1	Certificate1		text		
+1	Table/Row1	Amount_Credit1		numeric		
+1	Table/Row2	Certificate2		text		
+1	Table/Row2	Amount_Credit2		numeric		
+1	Table/Row3	Certificate3		text		
+1	Table/Row3	Amount_Credit3		numeric		
+1	Table/Row4	Certificate4		text		
+1	Table/Row4	Amount_Credit4		numeric		
+1	Table/Row5	Certificate5		text		
+1	Table/Row5	Amount_Credit5		numeric		
+1	Table/Row6	Certificate6		text		
+1	Table/Row6	Amount_Credit6		numeric		
+1	Table/Row7	Certificate7		text		
+1	Table/Row7	Amount_Credit7		numeric		
+1	Table/Row8	Certificate8		text		
+1	Table/Row8	Amount_Credit8		numeric		
+1	Table/Row9	Certificate9		text		
+1	Table/Row9	Amount_Credit9		numeric		
+1	Table/Row10	Certificate10		text		
+1	Table/Row10	Amount_Credit10		numeric		
+1	Table/Row11	Certificate11		text		
+1	Table/Row11	Amount_Credit11		numeric		
+1	Table/Row12	Certificate12		text		
+1	Table/Row12	Amount_Credit12		numeric		
+1	Table/Row13	Certificate13		text		
+1	Table/Row13	Amount_Credit13		numeric		
+1	Table/Row14	Certificate14		text		
+1	Table/Row14	Amount_Credit14		numeric		
+1	Table/Row15	Certificate15		text		
+1	Table/Row15	Amount_Credit15		numeric		
+1	Table/Row16	Certificate16		text		
+1	Table/Row16	Amount_Credit16		numeric		
+1	Table/Row17	Certificate17		text		
+1	Table/Row17	Amount_Credit17		numeric		
+1	Table/Row18	Certificate18		text		
+1	Table/Row18	Amount_Credit18		numeric		
+1	Table/Row19	Certificate19		text		
+1	Table/Row19	Amount_Credit19		numeric		
+1		Line300_Total_amount	300	numeric	12	Line 300. Total amount of the Nova Scotia film industry tax credit. Enter this amount on line 565 in Part 2 of Schedule 5.

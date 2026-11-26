@@ -1,0 +1,65 @@
+                                  Ontario Political Contributions Tax Credit                                                                                          Schedule 525
+                                             (2017 and later tax years)
+                                                                                                                                                                               Code 1701
+                                                                                                                       Business number
+                                                                                                                                                                          Protected B
+                                                                                                                                                                        when completed
+
+Corporation's name                                                                                                                                                    Tax year-end
+
+                                                                                                                                        Year                          Month Day
+
+· Use this schedule if you are a corporation and you want to:
+  ­ calculate an Ontario political contributions tax credit (OPCTC) under section 53.2 of the Taxation Act, 2007 (Ontario).
+  ­ claim an OPCTC for eligible contributions made in the tax year and before January 1, 2017, or for unused eligible contributions carried forward from any of
+     the previous 20 tax years to reduce Ontario corporate income tax payable.
+
+· The OPCTC is a non-refundable tax credit that is calculated by multiplying the corporation's Ontario basic rate of tax (calculated in Part 1 of Schedule 500,
+  Ontario Corporation Tax Calculation) by the eligible contributions made to a registered candidate, a registered constituency association, or a registered
+  party. These terms are defined in the Election Finances Act (Ontario).
+
+· File this schedule with your T2 Corporation Income Tax Return.
+        Part 1 ­ Eligible contribution balance at the end of the tax year
+
+Eligible contribution balance at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       A
+
+(enter the amount from line 190 of Schedule 525 from the previous tax year, if applicable)
+
+Unused eligible contributions expired after 20 tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100            B
+
+Eligible contribution balance at the beginning of the tax year (amount A minus amount B) . . . . . . . . 110                            C
+
+Eligible contributions for the current tax year (made before January 1, 2017) . . . . . . . . . . . . . . . . . . 120                   D
+
+Eligible contribution balance available (amount C plus amount D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                        E
+
+Eligible contributions used in the current tax year (amount M from Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      F
+
+Eligible contribution balance at the end of the tax year (amount E minus amount F) . . . . . . . . . . . . . . . . . . . . . . . . . . . 190                                        G
+
+Part 2 ­ Calculation of current year OPCTC
+
+Eligible contribution balance available (amount E from Part 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        H
+
+(Lesser of $19,950 and amount H)                        × Ontario basic rate of tax *       %...... =                                   I
+
+Ontario corporate income tax payable before OPCTC, Ontario research and development tax credit,                                         J
+
+Ontario corporate minimum tax credit, and any Ontario refundable tax credit ** . . . . . . . . . . . . . . . . . . . . .
+
+Maximum allowable current year OPCTC (lesser of amounts I and J) . . . . . . . . . . . . . . . . . . . . . . . . . . . .                K
+
+OPCTC claimed (cannot exceed amount K) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                L
+
+Enter amount L on line 415 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+Eligible contributions used: OPCTC claimed (amount L)   ÷ Ontario basic rate of tax *                                              %........ =                                      M
+
+Enter at amount F in Part 1.
+
+* Enter the rate calculated in Part 1 of Schedule 500.
+
+**Enter the result of amount C6 minus the total of amounts from lines 404 to 410 from Schedule 5.
+
+T2 SCH 525 E (17)                                       (Ce formulaire est disponible en français.)
+

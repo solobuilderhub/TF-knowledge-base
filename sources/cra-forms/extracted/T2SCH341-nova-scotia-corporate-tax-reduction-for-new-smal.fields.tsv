@@ -1,0 +1,24 @@
+page	part	field	line	kind	digits	speak
+1	Ident_bar	Corp_name		text		Corporation's name.
+1	Ident_bar	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident_bar/Tax_y-e	DateYYYYMMDD_Comb		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1	Amt_1A		numeric	12	Amount 1A. Line 400 of the T2 return.
+1	P1	Amt_1B		numeric	12	Amount 1B. Line 405 of the T2 return.
+1	P1	Amt_1C		numeric	12	Amount 1C. Line 428 of the T2 return.
+1	P1	Amt_1D_inst1		numeric	12	Amount 1D. Amount 1A, 1B, or 1C, whichever is the least. Instance 1.
+1	P1	inpt1_1E		numeric	12	Amount 1D. Instance 2.
+1	P1	inpt2_1E		numeric	12	Taxable income for Nova Scotia.
+1	P1	inpt3_1E		numeric	12	Taxable income for all provinces.
+1	P1	inpt4_1E		numeric	12	Amount 1E. Amount 1D multiplied by the result of taxable income for Nova Scotia divided by taxable income for all provinces. Instance 1.
+1	P1	Amt_1F_Inst3		numeric	12	Amount 1E. Instance 2.
+1	P1	Amt_Dys_befApr12025		numeric	3	Number of days in the tax year before April1, 2025
+1	P1	Amt_Dys_inTxYr_2		numeric	3	Number of days in the tax year. Instance 1.
+1	P1	Amt_1F		numeric	12	Amount 1F. Amount 1E multiplied by the result of number of days in the tax year before April 1, 2025, divided by number of days in the tax year, multiplied by 2.5%.
+1	P1	Amt_1G_Inst4		numeric	12	Amount 1E. Instance 3.
+1	P1	Amt_Dys_aftMar2025		numeric	3	Number of days in the tax year after March 31, 2025
+1	P1	Amt_Dys_inTxYr_3		numeric	3	Number of days in the tax year. Instance 2.
+1	P1	Amt_2G		numeric	12	Amount 1G. Amount 1E multiplied by the result of number of days in the tax year after March 31, 2025, divided by number of days in the tax year, multiplied by 1.5%.
+1	P1	inpt1_1H		numeric	12	Amount 1H. Subtotal amount 1F plus amount 1G. Enter amount 1H on line 556 of Schedule 5. Instance 1.
+1	P1	inpt2_1H		numeric	12	Amount 1H. Subtotal amount 1F plus amount 1G. Enter amount 1H on line 556 of Schedule 5. Instance 2.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		

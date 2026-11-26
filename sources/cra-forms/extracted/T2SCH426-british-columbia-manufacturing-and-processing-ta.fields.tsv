@@ -1,0 +1,72 @@
+page	part	field	line	kind	digits	speak
+1		Corporations_Name		text		
+1		Business_Number		text		Business Number. 9 digits, 2 letters, and 4 digits.
+1	Tax_Year_End_Date	Tax_Year_End_Date_Field		text		Taxation year end. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part1_sf/Table/Row1_sf	Cell1		numeric		
+2	Part1_sf/Table/Row1_sf	Cell2		text		
+2	Part1_sf/Table/Row1_sf	Cell3		text		
+2	Part1_sf/Table/Row1_sf	Cell4		numeric	12	
+2	Part1_sf/Table/Row2_sf	Cell1		numeric		
+2	Part1_sf/Table/Row2_sf	Cell2		text		
+2	Part1_sf/Table/Row2_sf	Cell3		text		
+2	Part1_sf/Table/Row2_sf	Cell4		numeric	12	
+2	Part1_sf/Table/Row3_sf	Cell1		numeric		
+2	Part1_sf/Table/Row3_sf	Cell2		text		
+2	Part1_sf/Table/Row3_sf	Cell3		text		
+2	Part1_sf/Table/Row3_sf	Cell4		numeric	12	
+2	Part1_sf/Table/Row4_sf	Cell1		numeric		
+2	Part1_sf/Table/Row4_sf	Cell2		text		
+2	Part1_sf/Table/Row4_sf	Cell3		text		
+2	Part1_sf/Table/Row4_sf	Cell4		numeric	12	
+2	Part1_sf/Table/Row5_sf	Cell1		numeric		
+2	Part1_sf/Table/Row5_sf	Cell2		text		
+2	Part1_sf/Table/Row5_sf	Cell3		text		
+2	Part1_sf/Table/Row5_sf	Cell4		numeric	12	
+2	Part1_sf/Amount_A	Field		numeric	12	Amount A. Subtotal of capital cost. Attach another schedule if you need more space.
+2	Part1_sf/Amount_B	Field	100	numeric	12	Line 100. Amount B. Amount of assistance repaid.
+2	Part1_sf/Amount_C	Field		numeric	12	Amount C. Total capital cost. Amount A plus amount B.
+2	Part2_sf/Credit_at_end_sf	Field		numeric	12	Credit at end of preceding taxation year.
+2	Part2_sf/Line104_sf	Field	104	numeric	12	Line 104. Credit expired after ten taxation years.
+2	Part2_sf/Line105_sf	Field1	105	numeric	12	Line 105. Credit at beginning of taxation year. Credit at end of preceding taxation year minus Credit expired after ten taxation years. Instance 1.
+2	Part2_sf/Line105_sf	Field2	105	numeric	12	Line 105. Credit at beginning of taxation year. Credit at end of preceding taxation year minus Credit expired after ten taxation years. Instance 2.
+2	Part2_sf/Line110_sf	Field	110	numeric	12	Line 110. Credit transferred on amalgamation or windup of subsidiary.
+2	Part2_sf/Line120_sf	Field1		numeric	12	Current year credit earned. Amount C from above.
+2	Part2_sf/Line120_sf	Field2	120	numeric	12	Line 120. Current year credit earned. Amount C from above multiplied by 3%.
+2	Part2_sf/Line130_sf	Field	130	numeric	12	Line 130. Credit allocated from a partnership.
+2	Part2_sf/Subtotal_Add_sf	Field1		numeric	12	Subtotal add. Line 110 plus Line 120 plus Line 130. Instance 1.
+2	Part2_sf/Subtotal_Add_sf	Field2		numeric	12	Amount from subtotal add. Line 110 plus Line 120 plus Line 130. Instance 2.
+2	Part2_sf/Total_credit_available_sf	Field		numeric	12	Amount D. Total credit available. Line 105 plus Amount from subtotal add.
+2	Part2_sf/Line150_sf	Field	150	numeric	12	Line 150. Credit renounced.
+2	Part2_sf/Line160_sf	Field	160	numeric	12	Line 160. Credit claimed in the current year. Enter on line 660 in Part 2 of Schedule 5.
+2	Part2_sf/LineE_sf	Field		numeric	12	Amount E. Credit carried back to preceding taxation year(s). Complete Part 3.
+2	Part2_sf/Subtotal_deduct_sf	Field1		numeric	12	Subtotal deduct. Line 150 plus Line 160 plus Amount E. Instance 1.
+2	Part2_sf/Subtotal_deduct_sf	Field2		numeric	12	Amount from subtotal deduct. Line 150 plus Line 160 plus Amount E. Instance 2.
+2	Part2_sf/Line200_sf	Field	200	numeric	12	Line 200. Closing balance. Amount D minus Amount from subtotal deduct.
+2	Part3_sf/Line901_sf	Date	901	text		Line 901. First preceding taxation year. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part3_sf/Line901_sf	Field	901	numeric	12	Line 901. First preceding taxation year credit to be applied.
+2	Part3_sf/Line902_sf	Date	902	text		Line 902. Second preceding taxation year. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part3_sf/Line902_sf	Field	902	numeric	12	Line 902. Second preceding taxation year credit to be applied.
+2	Part3_sf/Line903_sf	Date	903	text		Line 903. Thrid preceding taxation year. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part3_sf/Line903_sf	Field	903	numeric	12	Line 903. Third preceding taxation year credit to be applied.
+2	Part3_sf/Total_sf	Field		numeric	12	Total. Add lines 901, 902 and 903. Enter on line E in Part 2.
+2	Part4_sf/Year_of_Origin_1_sf	Date		text		Year of origin 1. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf/Year_of_Origin_1_sf	Field		numeric	12	Year of origin 1. Credit available.
+2	Part4_sf/Year_of_Origin_2_sf	Date		text		Year of origin 2. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf/Year_of_Origin_2_sf	Field		numeric	12	Year of origin 2. Credit available.
+2	Part4_sf/Year_of_Origin_3_sf	Date		text		Year of origin 3. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf/Year_of_Origin_3_sf	Field		numeric	12	Year of origin 3. Credit available.
+2	Part4_sf/Year_of_Origin_4_sf	Date		text		Year of origin 4. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf/Year_of_Origin_4_sf	Field		numeric	12	Year of origin 4. Credit available.
+2	Part4_sf/Year_of_Origin_5_sf	Date		text		Year of origin 5. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf/Year_of_Origin_5_sf	Field		numeric	12	Year of origin 5. Credit available.
+2	Part4_sf/Year_of_Origin_6_sf	Date		text		Year of origin 6. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf/Year_of_Origin_6_sf	Field		numeric	12	Year of origin 6. Credit available.
+2	Part4_sf/Year_of_Origin_7_sf	Date		text		Year of origin 7. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf/Year_of_Origin_7_sf	Field		numeric	12	Year of origin 7. Credit available.
+2	Part4_sf/Year_of_Origin_8_sf	Date		text		Year of origin 8. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf/Year_of_Origin_8_sf	Field		numeric	12	Year of origin 8. Credit available.
+2	Part4_sf/Year_of_Origin_9_sf	Date		text		Year of origin 9. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf/Year_of_Origin_9_sf	Field		numeric	12	Year of origin 9. Credit available.
+2	Part4_sf/Year_of_Origin_10_sf	Date		text		Year of origin 10. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf/Year_of_Origin_10_sf	Field		numeric	12	Year of origin 10. Credit available.
+2	Part4_sf/Total_sf	Field		numeric	12	Total credit available. Enter on line 200 in Part 2.

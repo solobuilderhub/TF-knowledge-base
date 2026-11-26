@@ -1,0 +1,76 @@
+page	part	field	line	kind	digits	speak
+1	Info_sf	P1_Nm_Inpt		text		Corporation's name.
+1	Info_sf	P1_Bn_Inpt		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Info_sf/P1_TaxYear	TaxYear		text		Tax year-end date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_Frm_sf	P1_Frm_Ln_inpt1	110	text		Line 110. Name of contact person.
+1	P1_sf/P1_Frm_sf	P1_Frm_Ln_inpt2	120	text		Line 120. Telephone number. 10 digits.
+1	P2_sf/P2_Frm_sf	P2_Frm_Ln200_inpt	200	text		Line 200. Certificate of eligibility number.
+1	P2_sf/P2_Frm_sf	P2_Frm_Ln210_inpt	210	text		Line 210. Production title.
+1	P2_sf/P2_Frm_sf/P2_Frm_Ln220_grp	P2_Frm_Ln220_grp_inpt	220	text		Line 220. Date principal photography began. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P2_sf/P2_Frm_sf	P2_Frm_Ln_inpt1	230	numeric	12	Line 230. Estimated QPE.
+1	P2_sf/P2_Frm_sf	P2_Frm_Ln_inpt2	240	numeric	12	Line 240. Estimated OPSTC for the production.
+1	P3_sf/P3_Frm_sf/RadioButtonGroup-300	Option1-300	300	check		Line 300. Question 1. Did the primary activities of the corporation in the tax year consist of carrying on a film or video production business or a film or video production services business, through a permanent establishment in Ontario? Yes.
+1	P3_sf/P3_Frm_sf/RadioButtonGroup-300	Option2-300	300	check		Line 300. Question 1. Did the primary activities of the corporation in the tax year consist of carrying on a film or video production business or a film or video production services business, through a permanent establishment in Ontario? No.
+1	P3_sf/P3_Frm_sf/RadioButtonGroup-310	Option1-310	310	check		Line 310. Question 2. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 Ontario or Part I of the federal Income Tax Act? Yes.
+1	P3_sf/P3_Frm_sf/RadioButtonGroup-310	Option2-310	310	check		Line 310. Question 2. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 Ontario or Part I of the federal Income Tax Act? No.
+1	P3_sf/P3_Frm_sf/RadioButtonGroup-320	Option1-320	320	check		Line 320. Question 3. Was the corporation, at any time in the tax year, controlled directly or indirectly, in any way, by one or more persons, all or part of whose taxable income was exempt from tax under Part I of the federal Income Tax Act? Yes.
+1	P3_sf/P3_Frm_sf/RadioButtonGroup-320	Option2-320	320	check		Line 320. Question 3. Was the corporation, at any time in the tax year, controlled directly or indirectly, in any way, by one or more persons, all or part of whose taxable income was exempt from tax under Part I of the federal Income Tax Act? No.
+1	P3_sf/P3_Frm_sf/RadioButtonGroup-330	Option1-330	330	check		Line 330. Question 4. Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation? Yes.
+1	P3_sf/P3_Frm_sf/RadioButtonGroup-330	Option2-330	330	check		Line 330. Question 4. Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation? No.
+1	P3_sf/P3_Frm_sf/RadioButtonGroup-400	Option1-400	400	check		Line 400. Question 5. Have you claimed, at any time, an Ontario film and television tax credit for the production identified in Part 2? Yes.
+1	P3_sf/P3_Frm_sf/RadioButtonGroup-400	Option2-400	400	check		Line 400. Question 5. Have you claimed, at any time, an Ontario film and television tax credit for the production identified in Part 2? No.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln730_inpt	730	numeric	12	Line 730. Eligible wage expenditure paid to Ontario-based individuals, for services rendered in Ontario, that is directly attributable to the eligible production.
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln732_inpt	732	numeric	12	Line 732. Eligible service contract expenditure, for services rendered in Ontario, that is directly attributable to the eligible production and paid to Ontario-based individuals.
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln734_inpt	734	numeric	12	Line 734. Eligible service contract expenditure, for services rendered in Ontario, that is directly attributable to the eligible production and paid to other taxable Canadian corporations, for their Ontario-based employees.
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln736_inpt	736	numeric	12	Line 736. Eligible service contract expenditure, for services rendered in Ontario, that is directly attributable to the eligible production and paid to other taxable Canadian corporations, solely owned by an Ontario-based individual.
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln738_inpt	738	numeric	12	Line 738. Eligible service contract expenditure, for services rendered in Ontario, that is directly attributable to the eligible production and paid to partnerships, for their Ontario-based members or employees.
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln740_inpt1	740	numeric	12	Line 740. Subtotal, total of lines 732 to 738. Instance 1.
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln740_inpt2	740	numeric	12	Line 740. Instance 2.
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln745_inpt	745	numeric	12	Line 745. Eligible wage and service contract expenditures incurred by a parent corporation, a taxable Canadian corporation, and transferred to its wholly-owned subsidiary, the corporation, under a reimbursement agreement.
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln746_inpt	746	text		Line 746. Name of parent corporation.
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln747_inpt	747	text		Line 747. Business number of parent corporation. 9 digits. 2 letters. 4 digits.
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln750_inpt	750	numeric	12	Line 750. Eligible tangible property expenditure directly attributable to the eligible production.
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln751_inpt	751	numeric	12	Line 751. Ontario production expenditure for the tax year. Total of lines 730, 740, 745 and 750.
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln752_inpt	752	numeric	12	Line 752. Ontario production expenditure for all previous tax years.
+2	P4_sf/P4_Frm_sf	P6_Frm_Ln755_inpt	755	numeric	12	Line 755. Ontario production expenditure. Line 751 plus line 752.
+2	P5_sf/P5_Frm_sf	P7_Frm_Ln757_inpt	757	numeric	12	Line 757. Assistance received for the Ontario production expenditure included on line 755, include amounts received, entitled to be received, or reasonably expected to be received by the corporation or any other person or partnership.
+2	P5_sf/P5_Frm_sf	P7_Frm_Ln758_inpt	758	numeric	12	Line 758. Amounts repaid under a legal obligation.
+2	P5_sf/P5_Frm_sf	P7_Frm_Ln760_inpt1	760	numeric	12	Line 760. Subtotal. Line 757 minus line 758. If negative, enter 0. Instance 1.
+2	P5_sf/P5_Frm_sf	P7_Frm_Ln760_inpt2	760	numeric	12	Line 760. Instance 2.
+2	P5_sf/P5_Frm_sf	P7_Frm_Ln762_inpt	762	numeric	12	Line 762. Federal tax credits and assistance.
+2	P5_sf/P5_Frm_sf	P7_Frm_Ln764_inpt	764	numeric	12	Line 764. Ontario refundable tax credits and assistance.
+2	P5_sf/P5_Frm_sf	P7_Frm_Ln765_inpt1	765	numeric	12	Line 765. Subtotal. Line 762 plus line 764. Instance 1.
+2	P5_sf/P5_Frm_sf	P7_Frm_Ln765_inpt2	765	numeric	12	Line 765. Instance 2.
+2	P5_sf/P5_Frm_sf	P7_Frm_Ln770_inpt2	770	numeric	12	Line 770. Net assistance. Line 760 minus line 765. If negative, enter 0.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	P9_sf/P9_Frm_sf	P9_Frm_LnC_inpt		numeric	12	Amount A. Ontario production expenditure. Amount 755 in Part 4.
+3	P9_sf/P9_Frm_sf	P9_Frm_LnD_inpt-p_Input_Field		numeric	12	Amount B. Net assistance. Line 770 in Part 5.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln775_inpt	775	numeric	12	Line 775. QPE from all previous tax years.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln780_inpt	780	numeric	12	Line 780. Eligible wage and service contract expenditures incurred by the parent corporation, a taxable Canadian corporation, and transferred to its wholly-owned subsidiary corporation under a reimbursement agreement.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln785_inpt1	785	numeric	12	Line 785. Subtotal. Total of amount B, line 775 and line 780. Instance 1.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln785_inpt2	785	numeric	12	Line 785. Instance 2.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln786_inpt	786	numeric	12	Line 786. Qualifying production expenditure. Amount A minus line 785. If negative, enter 0.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln1_inpt		numeric	12	Amount 1. Eligible wage expenditure.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln2_inpt		numeric	12	Amount 2. Ontario-based individuals and their Ontario-based employees.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln3_inpt		numeric	12	Amount 3. Taxable Canadian corporations solely-owned by an Ontario-based individual.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln4_inpt		numeric	12	Amount 4. Other taxable Canadian corporations.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln5_inpt		numeric	12	Amount 5. Partnerships, for their Ontario-based members or employees.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln6_inpt		numeric	12	Amount 6. If you are a wholly-owned subsidiary, the eligible wage and service contract expenditures incurred by your parent corporation, a taxable Canadian corporation, and that you have reimbursed under a reimbursement agreement.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln7_inpt		numeric	12	Amount 7. Subtotal. Total of amounts 1 to 6. Instance 1.
+3	P9_sf/P9_Frm_sf	P9_Frm_LnC_inpt1		numeric	12	Amount 7. Instance 2.
+3	P9_sf/P9_Frm_sf	P9_Frm_LnC_inpt2		numeric	12	Amount C. Amount 7 multiplied by 4.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln8_inpt		numeric	12	Amount 8. Net assistance. Line 770 from Part 5.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln9_inpt		numeric	12	Amount 9. If you are a parent corporation, a taxable Canadian corporation, the eligible wage and service contract expenditures incurred by you and reimbursed by your wholly-owned subsidiary corporation under a reimbursement agreement.
+3	P9_sf/P9_Frm_sf	P9_Frm_LnF_inpt1		numeric	12	Amount D. Subtotal. Amount 8 plus amount 9. Instance 1.
+3	P9_sf/P9_Frm_sf	P9_Frm_LnF_inpt2		numeric	12	Amount D. Instance 2.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln787_inpt1	787	numeric	12	Line 787. Qualifying production expenditure limit. Amount C minus amount D. Instance 1.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln787_inpt2	787	numeric	12	Line 787. Instance 2.
+3	P9_sf/P9_Frm_sf	P9_Frm_Ln795_inpt	795	numeric	12	Line 795. Qualifying production expenditure for the tax year. Line 786 or line 787, whichever is less.
+3	P7_sf/P7_Frm_sf	P10_Frm_Ln716_inpt1	716	numeric	12	Line 716. QPE for the tax year, line 795 in Part 6.
+3	P7_sf/P7_Frm_sf	P10_Frm_Ln716_inpt2		numeric	12	Amount E. Line 716 multiplied by 21.5%.
+3	P7_sf/P7_Frm_sf	P10_Frm_Ln720_inpt	720	numeric	12	Line 720. Ontario production services tax credit, amount E.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		

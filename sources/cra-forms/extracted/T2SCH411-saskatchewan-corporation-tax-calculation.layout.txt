@@ -1,0 +1,110 @@
+                                                                                                                                                                                         Schedule 411
+
+                                                                                                                                                                                           Protected B
+                                                                                                                                                                                         when completed
+
+Corporation's name     Saskatchewan Corporation Tax Calculation                                                                                                                          Tax year-end
+                                    (2024 and later tax years)
+
+                                                                                                    Business number
+
+                                                                                                                                                                                  Year   Month Day
+
+· Use this schedule if your corporation had a permanent establishment (as defined in section 400 of the federal Income Tax Regulations)
+
+  in Saskatchewan and had taxable income earned in the year in Saskatchewan.
+
+· This schedule is a worksheet only; you do not have to file it with your T2 Corporation Income Tax Return.
+
+Part 1 ­ Income subject to Saskatchewan lower and higher tax rates
+
+Taxable income for Saskatchewan 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1A
+
+Income eligible for Saskatchewan lower tax rate:
+
+Line 400 of the T2 return 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       1B
+
+Line 405 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       1C
+
+Line 428 of the T2 return . . . . . . . . . . . . . . . . . . . . . . .  ×  600,000                                   =                                                       1D
+
+                                                                            500,000
+
+Amount 1B, 1C, or 1D, whichever is the least . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                             1E
+
+Amount 1E           ×                             Taxable income for Saskatchewan 1                                                                                           =                        1F
+
+                                                                         Taxable income for all provinces 3
+
+Income subject to Saskatchewan higher tax rate (amount 1A minus amount 1F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                 1G
+
+1 If your corporation had a permanent establishment only in Saskatchewan, enter the taxable income from line 360 of the T2 return. Otherwise,
+   enter the taxable income allocated to Saskatchewan from column F in Part 1 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+2 If your corporation is a member or a designated member of a partnership, fill out Part 2 to calculate income from active business with
+   partnership income. If your corporation had a business limit assigned to it by another CCPC under subsection 125(3.2) as reported on
+   Schedule 7, amount 1B is equal to line 400 of the T2 return minus line 625 of Schedule 7, plus the result of line 625 of Schedule 7 multiplied
+   by 600,000/500,000.
+
+3 Includes the territories and the offshore jurisdictions for Nova Scotia and Newfoundland and Labrador.
+
+T2 SCH 411 E (24)                                                        (Ce formulaire est disponible en français.)                                     21P.a0g0e0010o0f020
+   Part 2 ­ Income from active business with partnership income                                                                                                            Protected B when completed
+                                                                                                                                                
+Fill out this part if your corporation is a member or designated member of a partnership.                                                                                  2A
+Amount Y from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                             2B
+Line 530 from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           2C
+Line 540 from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           2D
+Amount AA from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                2E
+Amount CC from Part 6 of Schedule 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                                                                                                                                                                                                              2F
+                                              Subtotal (amount 2A minus amounts 2B, 2C, and 2D, plus amount 2E)                                                            2G
+
+Amount Q from Part 5 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+       Column 1                   Column 2                               Column 3                    Column 4
+     Amounts from       Amounts from column K1
+column F1 in Part 4 of                                               Column 1 minus            Lesser of columns 1
+                         in Part 4 of Schedule 7                          column 2             and 2 (if column 1 is
+       Schedule 7              multiplied by                                                   negative, enter "0")
+                                                                  (if negative, enter "0")
+                                   600,000
+
+                                   500,000
+
+                                         Totals                   2H                                                                            2I
+
+Line 370 from Part 4 of Schedule 7 . . . . . . . . . . . . . . .  2J
+
+Line 380 from Part 4 of Schedule 7 . . . . . . . . . . . . . . .  2K
+
+                   Subtotal (amount 2J plus amount 2K)            2L
+
+Enter amount 2H or amount 2L, whichever is less . . . . . . . . . . . . . . . . . . . . . . .     2M
+Specified partnership income (amount 2I plus amount 2M) . . . . . . . . . . . . . . . .                                             2N
+
+Partnership income not eligible for the small business deduction (amount 2G minus amount 2N) . . . . . .                                                                     2O
+
+Income from active business (amount 2F minus amount 2O) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            2P
+
+Enter amount 2P at amount 1B in Part 1.
+
+   Part 3 ­ Saskatchewan tax before credits
+
+Saskatchewan tax at the lower rate:
+
+Amount 1F               ×                Number of days in the tax year after June 30, 2023                                                         × 1% =                   3A
+
+                                                                  Number of days in the tax year
+
+Saskatchewan tax at the higher rate:
+
+Amount 1G               . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . × 12% =                3B
+
+Saskatchewan tax before credits (amount 3A plus amount 3B) 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             3C
+
+4 If your corporation had a permanent establishment in more than one jurisdiction or is claiming a Saskatchewan tax credit, enter amount 3C on
+   line 235 of Schedule 5. Otherwise, enter it on line 760 of the T2 return.
+
+T2 SCH 411 E (24)                                                                                                                                                            Page 2 of 2
+

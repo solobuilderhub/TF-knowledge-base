@@ -1,0 +1,30 @@
+page	part	field	line	kind	digits	speak
+1	Ident	Corp_name		text		Corporation's name.
+1	Ident	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident/TY-end	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_content/Amount_1A	Input_1A		numeric	12	Amount 1A. Taxable income for New Brunswick.
+1	Part1_content/Amount_1B	Input_1B		numeric	12	Amount 1B. Line 400 of the T2 return.
+1	Part1_content/Amount_1C	Input_1C		numeric	12	Amount 1C. Line 405 of the T2 return.
+1	Part1_content/Amount_1D	Input_1D		numeric	12	Amount 1D. Line 410 of the T2 return. Instance 1.
+1	Part1_content/Amount_1E	Input_1E		numeric	12	Amount 1E. Line 415 of the T2 return. Instance 1.
+1	Part1_content/Amount_1F	Input1_1F		numeric	12	Amount 1D. Instance 2.
+1	Part1_content/Amount_1F	Input2_1F		numeric	12	Amount 1E. Instance 2
+1	Part1_content/Amount_1F	Input4_1F		numeric	12	Amount 1F. Amount 1D multiplied by the result of amount 1E divided by 11,250.
+1	Part1_content/Amount_1G	Input1_1G		numeric	12	Amount 1D. Instance 3.
+1	Part1_content/Amount_1G	Input2_1G		numeric	12	Amount 1E. Instance 3
+1	Part1_content/Amount_1G	Input4_1G		numeric	12	Amount 1G. Amount 1D multiplied by the result of amount 1E divided by 90,000.
+1	Part1_content/Amount_1H	Input_1H		numeric	12	Amount 1H. Amount 1F or amount 1G, whichever applies.
+1	Part1_content/Amount_1I	Input_1I		numeric	12	Amount 1I. Line 515 of the T2 return.
+1	Part1_content/Amount_1J	Input1_1J		numeric	12	Amount 1J. Subtotal. Amount 1D minus amount 1H minus amount 1I. Instance 1.
+1	Part1_content/Amount_1J	Input2_1J		numeric	12	Amount 1J. Instance 2.
+1	Part1_content/Amount_1K	Input_1K		numeric	12	Amount 1K. Amount 1B, 1C, or 1J, whichever is the least. Instance 1.
+1	Part1_content/Amount_1L	Input1_1L		numeric	12	Amount 1K. Instance 2.
+1	Part1_content/Amount_1L	Input2_1L		numeric	12	Taxable income for New Brunswick.
+1	Part1_content/Amount_1L	Input3_1L		numeric	12	Taxable income for all provinces.
+1	Part1_content/Amount_1L	Input4_1L		numeric	12	Amount 1L. Income eligible for the New Brunswick lower tax rate. Amount 1K multiplied by the result of taxable income for New Brunswick divided by taxable income for all provinces. Instance 1.
+1	Part1_content/Amount_1M	Input_1M		numeric	12	Amount 1M. Income subject to New Brunswick higher tax rate. Amount 1A minus amount 1L. Instance 1.
+1	part2_content/Amount_2A	Input1_2A		numeric	12	Amount 1L. Instance 2.
+1	part2_content/Amount_2A	Input_2A		numeric	12	Amount 2A. New Brunswick tax at lower rate. Amount 1L multiplied by 2.5%.
+1	part2_content/Amount_2B	Input1_2B		numeric	12	Amount 1M. Instance 2.
+1	part2_content/Amount_2B	Input_2B		numeric	12	Amount 2B. New Brunswick tax at the higher rate. Amount 1M multiplied by 14%.
+1	part2_content/Amount_2C	Input_2C		numeric	12	Amount 2C. New Brunswick tax before credits. Amount 2A plus amount 2B.

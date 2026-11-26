@@ -1,0 +1,60 @@
+line	caption
+110	Name of contact person 120 Telephone number
+200	Certificate of eligibility number
+210	Product title
+220	Estimated OIDMTC for the eligible product or eligible digital game
+310	Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario)?
+330	Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation?
+400	Is the product a specified product, under subsection 93(15) of the Taxation Act, 2007 (Ontario)?
+403	Is the corporation a QSC under subsection 93(14) of the Taxation Act, 2007 (Ontario)?
+405	Qualifying wage amount paid to employees for the eligible product in the tax year
+411	individuals
+416	taxable Canadian corporations
+421	eligible partnerships
+430	by the qualifying corporation in a previous tax year
+435	by a qualifying predecessor corporation before disposition, merger, or windup
+440	by the qualifying corporation
+445	by a qualifying predecessor corporation
+450	Total Ontario labour expenditures before government assistance (amount 4A plus amount 4D)
+455	Amounts the corporation or any other person or partnership has received, is entitled to receive, or may reasonably expect to receive
+460	Repayment of government assistance
+473	Total eligible labour expenditures for the eligible product (line 450 minus amount 4E)(if negative, enter 0)
+500	by the qualifying corporation
+505	by a qualifying predecessor corporation before disposition, merger, or windup
+515	eligible product was completed, plus those incurred in the 24 months before, or 12 months 5B after, the month in which development of the eligible product was completed: 5C by the qualifying corporation in the tax year or in a previous tax year
+520	by a qualifying predecessor corporation before disposition, merger, or windup
+530	Amounts the corporation or any other person or partnership has received, is entitled to receive, or may reasonably expect to receive
+535	Repayment of government assistance
+540	by the qualifying corporation
+545	by a qualifying predecessor corporation
+550	by the qualifying corporation
+555	by a qualifying predecessor corporation
+560	Subtotal (total of amounts 5B, 5C, and 5D)
+565	Subtotal (line 525 minus line 560) (if negative, enter 0)
+578	Eligible marketing and distribution expenditures for the tax year (lesser of line 510 and line 565)
+705	Qualifying wage amount paid to employees for the eligible digital game in the tax year
+710	individuals
+715	taxable Canadian corporations
+720	eligible partnerships
+730	by the QDGC in a previous tax year
+735	by a qualifying predecessor corporation before merger or windup
+750	Ontario labour expenditures for the eligible digital game (total of line 705, amounts 6A, and 6B)
+740	in the current year
+745	in the previous year
+755	Amounts the corporation or any other person or partnership has received, is entitled to receive, or may reasonably expect to receive
+760	Repayment of government assistance
+775	(line 750 minus amount 6C minus amount 6D) (if negative, enter 0)
+805	Qualifying wage amount paid to employees for the eligible digital game in the tax year
+810	individuals
+815	taxable Canadian corporations
+820	eligible partnerships
+830	Ontario labour expenditures for the eligible digital game before government assistance (Line 805 plus amount 7A)
+835	Amounts the corporation or any other person or partnership has received, is entitled to receive, or may reasonably expect to receive
+840	Repayment of government assistance
+875	Total qualifying labour expenditures for the eligible digital game for a SDGC (line 830 minus amount 7B)
+608	Line 473 in Part 4 ×
+610	For a qualifying small corporation (QSC): ×
+613	For a qualifying corporation other than a QSC: ×
+616	Line 775 in Part 6 ×
+617	Line 875 in Part 7 ×
+620	Ontario interactive digital media tax credit (line 608, amount 8A, line 616, or line 617 whichever applies)

@@ -1,0 +1,170 @@
+page	part	field	line	kind	digits	speak
+1	Ident_bar	Corp_name		text		Corporation's name.
+1	Ident_bar	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident_bar/Tax_y-e	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_content/TableA/Row1	Cell1		text		Column A1. Line 100. SkilledTradesBC identification number, or employee's SIN or name. Row 1.
+1	Part1_content/TableA/Row1	Cell2		text		Column B1. Line 105. Name of program. Row 1.
+1	Part1_content/TableA/Row1	Cell3		numeric	12	Column C1. Line 110. Salary and wages. Row 1.
+1	Part1_content/TableA/Row1	Cell4		numeric	12	Column D1. Line 115. Column C1 multiplied by 20%. Row 1.
+1	Part1_content/TableA/Row1	Cell5		numeric	12	Column E1. Line 120. Lesser of column D1 or $4,000. Row 1.
+1	Part1_content/TableA/Row2	Cell1		text		Column A1. Line 100. SkilledTradesBC identification number, or employee's SIN or name. Row 2.
+1	Part1_content/TableA/Row2	Cell2		text		Column B1. Line 105. Name of program. Row 2.
+1	Part1_content/TableA/Row2	Cell3		numeric	12	Column C1. Line 110. Salary and wages. Row 2.
+1	Part1_content/TableA/Row2	Cell4		numeric	12	Column D1. Line 115. Column C1 multiplied by 20%. Row 2.
+1	Part1_content/TableA/Row2	Cell5		numeric	12	Column E1. Line 120. Lesser of column D1 or $4,000. Row 2.
+1	Part1_content/TableA/Row3	Cell1		text		Column A1. Line 100. SkilledTradesBC identification number, or employee's SIN or name. Row 3.
+1	Part1_content/TableA/Row3	Cell2		text		Column B1. Line 105. Name of program. Row 3.
+1	Part1_content/TableA/Row3	Cell3		numeric	12	Column C1. Line 110. Salary and wages. Row 3.
+1	Part1_content/TableA/Row3	Cell4		numeric	12	Column D1. Line 115. Column C1 multiplied by 20%. Row 3.
+1	Part1_content/TableA/Row3	Cell5		numeric	12	Column E1. Line 120. Lesser of column D1 or $4,000. Row 3.
+1	Part1_content/TableA/Row4	Cell1		text		Column A1. Line 100. SkilledTradesBC identification number, or employee's SIN or name. Row 4.
+1	Part1_content/TableA/Row4	Cell2		text		Column B1. Line 105. Name of program. Row 4.
+1	Part1_content/TableA/Row4	Cell3		numeric	12	Column C1. Line 110. Salary and wages. Row 4.
+1	Part1_content/TableA/Row4	Cell4		numeric	12	Column D1. Line 115. Column C1 multiplied by 20%. Row 4.
+1	Part1_content/TableA/Row4	Cell5		numeric	12	Column E1. Line 120. Lesser of column D1 or $4,000. Row 4.
+1	Part1_content/Amount_A	Input_A		numeric	12	Amount A. Total of column E1.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Part2_sub/TableB/Row1	Cell1		text		Column A2. Line 200. SkilledTradesBC identification number, or employee's SIN or name. Row 1.
+2	Part2_sub/TableB/Row1	Cell2		text		Column B2. Line 205. Name of program. Row 1.
+2	Part2_sub/TableB/Row1	Cell3		numeric	12	Column C2. Line 210. Salary and wages. Row 1.
+2	Part2_sub/TableB/Row1	Cell4		numeric	12	Column D2. Line 215. Column C2 multiplied by 15%. Row 1.
+2	Part2_sub/TableB/Row1	Cell5		numeric	12	Column E2. Line 220. Lesser of column D2 or $2,500. Row 1.
+2	Part2_sub/TableB/Row2	Cell1		text		Column A2. Line 200. SkilledTradesBC identification number, or employee's SIN or name. Row 2.
+2	Part2_sub/TableB/Row2	Cell2		text		Column B2. Line 205. Name of program. Row 2.
+2	Part2_sub/TableB/Row2	Cell3		numeric	12	Column C2. Line 210. Salary and wages. Row 2.
+2	Part2_sub/TableB/Row2	Cell4		numeric	12	Column D2. Line 215. Column C2 multiplied by 15%. Row 2.
+2	Part2_sub/TableB/Row2	Cell5		numeric	12	Column E2. Line 220. Lesser of column D2 or $2,500. Row 2.
+2	Part2_sub/TableB/Row3	Cell1		text		Column A2. Line 200. SkilledTradesBC identification number, or employee's SIN or name. Row 3.
+2	Part2_sub/TableB/Row3	Cell2		text		Column B2. Line 205. Name of program. Row 3.
+2	Part2_sub/TableB/Row3	Cell3		numeric	12	Column C2. Line 210. Salary and wages. Row 3.
+2	Part2_sub/TableB/Row3	Cell4		numeric	12	Column D2. Line 215. Column C2 multiplied by 15%. Row 3.
+2	Part2_sub/TableB/Row3	Cell5		numeric	12	Column E2. Line 220. Lesser of column D2 or $2,500. Row 3.
+2	Part2_sub/TableB/Row4	Cell1		text		Column A2. Line 200. SkilledTradesBC identification number, or employee's SIN or name. Row 4.
+2	Part2_sub/TableB/Row4	Cell2		text		Column B2. Line 205. Name of program. Row 4.
+2	Part2_sub/TableB/Row4	Cell3		numeric	12	Column C2. Line 210. Salary and wages. Row 4.
+2	Part2_sub/TableB/Row4	Cell4		numeric	12	Column D2. Line 215. Column C2 multiplied by 15%. Row 4.
+2	Part2_sub/TableB/Row4	Cell5		numeric	12	Column E2. Line 220. Lesser of column D2 or $2,500. Row 4.
+2	Part2_sub/Amount_B	Input_B		numeric	12	Amount B. Total of column E2.
+2	Part2_sub/TableC/Row1	Cell1		text		Column A3. Line 300. SkilledTradesBC identification number, or employee's SIN or name. Row 1.
+2	Part2_sub/TableC/Row1	Cell2		text		Column B3. Line 305. Name of program. Row 1.
+2	Part2_sub/TableC/Row1	Cell3		numeric	12	Column C3. Line 310. Salary and wages. Row 1.
+2	Part2_sub/TableC/Row1	Cell4		numeric	12	Column D3. Line 315. Column C3 multiplied by 15%. Row 1.
+2	Part2_sub/TableC/Row1	Cell5		numeric	12	Column E3. Line 320. Lesser of column D3 or $3,000. Row 1.
+2	Part2_sub/TableC/Row2	Cell1		text		Column A3. Line 300. SkilledTradesBC identification number, or employee's SIN or name. Row 2.
+2	Part2_sub/TableC/Row2	Cell2		text		Column B3. Line 305. Name of program. Row 2.
+2	Part2_sub/TableC/Row2	Cell3		numeric	12	Column C3. Line 310. Salary and wages. Row 2.
+2	Part2_sub/TableC/Row2	Cell4		numeric	12	Column D3. Line 315. Column C3 multiplied by 15%. Row 2.
+2	Part2_sub/TableC/Row2	Cell5		numeric	12	Column E3. Line 320. Lesser of column D3 or $3,000. Row 2.
+2	Part2_sub/TableC/Row3	Cell1		text		Column A3. Line 300. SkilledTradesBC identification number, or employee's SIN or name. Row 3.
+2	Part2_sub/TableC/Row3	Cell2		text		Column B3. Line 305. Name of program. Row 3.
+2	Part2_sub/TableC/Row3	Cell3		numeric	12	Column C3. Line 310. Salary and wages. Row 3.
+2	Part2_sub/TableC/Row3	Cell4		numeric	12	Column D3. Line 315. Column C3 multiplied by 15%. Row 3.
+2	Part2_sub/TableC/Row3	Cell5		numeric	12	Column E3. Line 320. Lesser of column D3 or $3,000. Row 3.
+2	Part2_sub/TableC/Row4	Cell1		text		Column A3. Line 300. SkilledTradesBC identification number, or employee's SIN or name. Row 4.
+2	Part2_sub/TableC/Row4	Cell2		text		Column B3. Line 305. Name of program. Row 4.
+2	Part2_sub/TableC/Row4	Cell3		numeric	12	Column C3. Line 310. Salary and wages. Row 4.
+2	Part2_sub/TableC/Row4	Cell4		numeric	12	Column D3. Line 315. Column C3 multiplied by 15%. Row 4.
+2	Part2_sub/TableC/Row4	Cell5		numeric	12	Column E3. Line 320. Lesser of column D3 or $3,000. Row 4.
+2	Part2_sub/Amount_C	Input_C		numeric	12	Amount C. Total of column E3.
+2	Part3_sub/TableD/Row1	Cell1		text		Column A4. Line 400. SkilledTradesBC identification number, or employee's SIN or name. Row 1.
+2	Part3_sub/TableD/Row1	Cell2		text		Column B4. Line 405. Name of program. Row 1.
+2	Part3_sub/TableD/Row1	Cell3		numeric	12	Column C4. Line 411. Salary and wages. Row 1.
+2	Part3_sub/TableD/Row1	Cell4		numeric	12	Column D4. Line 416. Column C4 multiplied by 5.5%. Row 1.
+2	Part3_sub/TableD/Row1	Cell5		numeric	12	Column E4. Line 420. Lesser of column D4 or $1,000. Row 1.
+2	Part3_sub/TableD/Row2	Cell1		text		Column A4. Line 400. SkilledTradesBC identification number, or employee's SIN or name. Row 2.
+2	Part3_sub/TableD/Row2	Cell2		text		Column B4. Line 405. Name of program. Row 2.
+2	Part3_sub/TableD/Row2	Cell3		numeric	12	Column C4. Line 411. Salary and wages. Row 2.
+2	Part3_sub/TableD/Row2	Cell4		numeric	12	Column D4. Line 416. Column C4 multiplied by 5.5%. Row 2.
+2	Part3_sub/TableD/Row2	Cell5		numeric	12	Column E4. Line 420. Lesser of column D4 or $1,000. Row 2.
+2	Part3_sub/TableD/Row3	Cell1		text		Column A4. Line 400. SkilledTradesBC identification number, or employee's SIN or name. Row 3.
+2	Part3_sub/TableD/Row3	Cell2		text		Column B4. Line 405. Name of program. Row 3.
+2	Part3_sub/TableD/Row3	Cell3		numeric	12	Column C4. Line 411. Salary and wages. Row 3.
+2	Part3_sub/TableD/Row3	Cell4		numeric	12	Column D4. Line 416. Column C4 multiplied by 5.5%. Row 3.
+2	Part3_sub/TableD/Row3	Cell5		numeric	12	Column E4. Line 420. Lesser of column D4 or $1,000. Row 3.
+2	Part3_sub/TableD/Row4	Cell1		text		Column A4. Line 400. SkilledTradesBC identification number, or employee's SIN or name. Row 4.
+2	Part3_sub/TableD/Row4	Cell2		text		Column B4. Line 405. Name of program. Row 4.
+2	Part3_sub/TableD/Row4	Cell3		numeric	12	Column C4. Line 411. Salary and wages. Row 4.
+2	Part3_sub/TableD/Row4	Cell4		numeric	12	Column D4. Line 416. Column C4 multiplied by 5.5%. Row 4.
+2	Part3_sub/TableD/Row4	Cell5		numeric	12	Column E4. Line 420. Lesser of column D4 or $1,000. Row 4.
+2	Part3_sub/Amount_D	Input_D		numeric	12	Amount D. Total of column E4.
+2	Part3_sub/TableE/Row1	Cell1		text		Column A5. Line 500. SkilledTradesBC identification number, or employee's SIN or name. Row 1.
+2	Part3_sub/TableE/Row1	Cell2		text		Column B5. Line 505. Name of program. Row 1.
+2	Part3_sub/TableE/Row1	Cell3		numeric	12	Column C5. Line 510. Salary and wages. Row 1.
+2	Part3_sub/TableE/Row1	Cell4		numeric	12	Column D5. Line 515. Column C5 multiplied by 30%. Row 1.
+2	Part3_sub/TableE/Row1	Cell5		numeric	12	Column E5. Line 520. Lesser of column D5 or $6,000. Row 1.
+2	Part3_sub/TableE/Row2	Cell1		text		Column A5. Line 500. SkilledTradesBC identification number, or employee's SIN or name. Row 2.
+2	Part3_sub/TableE/Row2	Cell2		text		Column B5. Line 505. Name of program. Row 2.
+2	Part3_sub/TableE/Row2	Cell3		numeric	12	Column C5. Line 510. Salary and wages. Row 2.
+2	Part3_sub/TableE/Row2	Cell4		numeric	12	Column D5. Line 515. Column C5 multiplied by 30%. Row 2.
+2	Part3_sub/TableE/Row2	Cell5		numeric	12	Column E5. Line 520. Lesser of column D5 or $6,000. Row 2.
+2	Part3_sub/TableE/Row3	Cell1		text		Column A5. Line 500. SkilledTradesBC identification number, or employee's SIN or name. Row 3.
+2	Part3_sub/TableE/Row3	Cell2		text		Column B5. Line 505. Name of program. Row 3.
+2	Part3_sub/TableE/Row3	Cell3		numeric	12	Column C5. Line 510. Salary and wages. Row 3.
+2	Part3_sub/TableE/Row3	Cell4		numeric	12	Column D5. Line 515. Column C5 multiplied by 30%. Row 3.
+2	Part3_sub/TableE/Row3	Cell5		numeric	12	Column E5. Line 520. Lesser of column D5 or $6,000. Row 3.
+2	Part3_sub/TableE/Row4	Cell1		text		Column A5. Line 500. SkilledTradesBC identification number, or employee's SIN or name. Row 4.
+2	Part3_sub/TableE/Row4	Cell2		text		Column B5. Line 505. Name of program. Row 4.
+2	Part3_sub/TableE/Row4	Cell3		numeric	12	Column C5. Line 510. Salary and wages. Row 4.
+2	Part3_sub/TableE/Row4	Cell4		numeric	12	Column D5. Line 515. Column C5 multiplied by 30%. Row 4.
+2	Part3_sub/TableE/Row4	Cell5		numeric	12	Column E5. Line 520. Lesser of column D5 or $6,000. Row 4.
+2	Part3_sub/Amount_E	Input_E		numeric	12	Amount E. Total of column E5.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	Part3_ctd_content/TableF/Row1	Cell1		text		Column A6. Line 600. SkilledTradesBC identification number, or employee's SIN or name. Row 1.
+3	Part3_ctd_content/TableF/Row1	Cell2		text		Column B6. Line 605. Name of program. Row 1.
+3	Part3_ctd_content/TableF/Row1	Cell3		numeric	12	Column C6. Line 610. Salary and wages. Row 1.
+3	Part3_ctd_content/TableF/Row1	Cell4		numeric	12	Column D6. Line 615. Column C6 multiplied by 22.5%. Row 1.
+3	Part3_ctd_content/TableF/Row1	Cell5		numeric	12	Column E6. Line 620. Lesser of column D6 or $3.750. Row 1.
+3	Part3_ctd_content/TableF/Row2	Cell1		text		Column A6. Line 600. SkilledTradesBC identification number, or employee's SIN or name. Row 2.
+3	Part3_ctd_content/TableF/Row2	Cell2		text		Column B6. Line 605. Name of program. Row 2.
+3	Part3_ctd_content/TableF/Row2	Cell3		numeric	12	Column C6. Line 610. Salary and wages. Row 2.
+3	Part3_ctd_content/TableF/Row2	Cell4		numeric	12	Column D6. Line 615. Column C6 multiplied by 22.5%. Row 2.
+3	Part3_ctd_content/TableF/Row2	Cell5		numeric	12	Column E6. Line 620. Lesser of column D6 or $3.750. Row 2.
+3	Part3_ctd_content/TableF/Row3	Cell1		text		Column A6. Line 600. SkilledTradesBC identification number, or employee's SIN or name. Row 3.
+3	Part3_ctd_content/TableF/Row3	Cell2		text		Column B6. Line 605. Name of program. Row 3.
+3	Part3_ctd_content/TableF/Row3	Cell3		numeric	12	Column C6. Line 610. Salary and wages. Row 3.
+3	Part3_ctd_content/TableF/Row3	Cell4		numeric	12	Column D6. Line 615. Column C6 multiplied by 22.5%. Row 3.
+3	Part3_ctd_content/TableF/Row3	Cell5		numeric	12	Column E6. Line 620. Lesser of column D6 or $3.750. Row 3.
+3	Part3_ctd_content/TableF/Row4	Cell1		text		Column A6. Line 600. SkilledTradesBC identification number, or employee's SIN or name. Row 4.
+3	Part3_ctd_content/TableF/Row4	Cell2		text		Column B6. Line 605. Name of program. Row 4.
+3	Part3_ctd_content/TableF/Row4	Cell3		numeric	12	Column C6. Line 610. Salary and wages. Row 4.
+3	Part3_ctd_content/TableF/Row4	Cell4		numeric	12	Column D6. Line 615. Column C6 multiplied by 22.5%. Row 4.
+3	Part3_ctd_content/TableF/Row4	Cell5		numeric	12	Column E6. Line 620. Lesser of column D6 or $3.750. Row 4.
+3	Part3_ctd_content/Amount_F	Input_F		numeric	12	Amount F. Total of column E6.
+3	Part3_ctd_content/TableG/Row1	Cell1		text		Column A7. Line 700. SkilledTradesBC identification number, or employee's SIN or name. Row 1.
+3	Part3_ctd_content/TableG/Row1	Cell2		text		Column B7. Line 705. Name of program. Row 1.
+3	Part3_ctd_content/TableG/Row1	Cell3		numeric	12	Column C7. Line 710. Salary and wages. Row 1.
+3	Part3_ctd_content/TableG/Row1	Cell4		numeric	12	Column D7. Line 715. Column C7 multiplied by 22.5%. Row 1.
+3	Part3_ctd_content/TableG/Row1	Cell5		numeric	12	Column E7. Line 720. Lesser of column D7 or $4.500. Row 1.
+3	Part3_ctd_content/TableG/Row2	Cell1		text		Column A7. Line 700. SkilledTradesBC identification number, or employee's SIN or name. Row 2.
+3	Part3_ctd_content/TableG/Row2	Cell2		text		Column B7. Line 705. Name of program. Row 2.
+3	Part3_ctd_content/TableG/Row2	Cell3		numeric	12	Column C7. Line 710. Salary and wages. Row 2.
+3	Part3_ctd_content/TableG/Row2	Cell4		numeric	12	Column D7. Line 715. Column C7 multiplied by 22.5%. Row 2.
+3	Part3_ctd_content/TableG/Row2	Cell5		numeric	12	Column E7. Line 720. Lesser of column D7 or $4.500. Row 2.
+3	Part3_ctd_content/TableG/Row3	Cell1		text		Column A7. Line 700. SkilledTradesBC identification number, or employee's SIN or name. Row 3.
+3	Part3_ctd_content/TableG/Row3	Cell2		text		Column B7. Line 705. Name of program. Row 3.
+3	Part3_ctd_content/TableG/Row3	Cell3		numeric	12	Column C7. Line 710. Salary and wages. Row 3.
+3	Part3_ctd_content/TableG/Row3	Cell4		numeric	12	Column D7. Line 715. Column C7 multiplied by 22.5%. Row 3.
+3	Part3_ctd_content/TableG/Row3	Cell5		numeric	12	Column E7. Line 720. Lesser of column D7 or $4.500. Row 3.
+3	Part3_ctd_content/TableG/Row4	Cell1		text		Column A7. Line 700. SkilledTradesBC identification number, or employee's SIN or name. Row 4.
+3	Part3_ctd_content/TableG/Row4	Cell2		text		Column B7. Line 705. Name of program. Row 4.
+3	Part3_ctd_content/TableG/Row4	Cell3		numeric	12	Column C7. Line 710. Salary and wages. Row 4.
+3	Part3_ctd_content/TableG/Row4	Cell4		numeric	12	Column D7. Line 715. Column C7 multiplied by 22.5%. Row 4.
+3	Part3_ctd_content/TableG/Row4	Cell5		numeric	12	Column E7. Line 720. Lesser of column D7 or $4.500. Row 4.
+3	Part3_ctd_content/Amount_G	Input_G		numeric	12	Amount G. Total of column E7.
+3	Part4_sub/Line_800	Input_800	800	numeric	12	Line 800. Basic tax credit. Amount A from Part 1.
+3	Part4_sub/Amount_H	Input_H		numeric	12	Amount H. Amount B from Part 2.
+3	Part4_sub/Amount_I	Input_I		numeric	12	Amount I. Amount C from Part 2.
+3	Part4_sub/Line_805	Input1_805	805	numeric	12	Line 805. Completion tax credit. Amount H plus amount I. Instance 1.
+3	Part4_sub/Line_805	Input2_805	805	numeric	12	Line 805. Instance 2.
+3	Part4_sub/Amount_J	Input_J		numeric	12	Amount J. Amount D from Part 3.
+3	Part4_sub/Amount_K	Input_K		numeric	12	Amount K. Amount E from Part 3.
+3	Part4_sub/Amount_L	Input_L		numeric	12	Amount L. Amount F from Part 3.
+3	Part4_sub/Amount_M	Input_M		numeric	12	Amount M. Amount G from Part 3.
+3	Part4_sub/Line_810	Input1_810	810	numeric	12	Line 810. Enhanced tax credit. Add amounts J, K, L, and M. Instance 1.
+3	Part4_sub/Line_810	Input2_810	810	numeric	12	Line 810. Instance 2.
+3	Part4_sub/Line_815	Input_815	815	numeric	12	Line 815. Credit allocated from a partnership.
+3	Part4_sub/Amount_N	Input_N		numeric	12	Amount N. British Columbia training tax credit. Add lines 800, 805, 810, and 815. Enter at line 679 of Schedule 5, Tax Calculation Supplementary – Corporations.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		

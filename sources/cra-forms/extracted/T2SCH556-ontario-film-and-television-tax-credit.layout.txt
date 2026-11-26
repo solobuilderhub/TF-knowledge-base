@@ -1,0 +1,255 @@
+                                                                                                                                                                                                   Schedule 556
+                                                                                                                                                                                                          Code 1702
+
+                                                                                                                                                                                                     Protected B
+                                                                                                                                                                                                   when completed
+
+                    Ontario Film and Television Tax Credit (2017 and later tax years)
+
+Corporation's name                                   Business number                                                                                                                         Tax year-end
+
+                                                                                                                                                                                             Year  Month Day
+
+· Use this schedule to claim an Ontario film and television tax credit (OFTTC) under section 91 of the Taxation Act, 2007 (Ontario). Complete a separate
+
+  Schedule 556 for each eligible Ontario production.
+
+· The OFTTC is a refundable tax credit based upon qualifying labour expenditures incurred by a qualifying production company in a tax year for eligible
+
+  Ontario productions.
+
+· Before claiming an OFTTC, a qualifying production company must apply online to Ontario Creates for a certificate of eligibility. If the production is eligible,
+
+  Ontario Creates will issue a certificate certifying that the production is an eligible Ontario production and certifying the estimated amount of the corporation's
+  OFTTC for the production. Enter the certificate information and identification for this production in Part 2 of this schedule.
+
+· If you claim, or have claimed, the Ontario production services tax credit for a production for any tax year, the OFTTC you are entitled to is nil for that same
+
+  eligible Ontario production.
+
+· To claim the OFTTC, you must meet the eligibility requirements in Part 3 of this schedule.
+
+· To claim the OFTTC, include a completed copy of this schedule for each production with your T2 Corporation Income Tax Return for the tax year as well as a
+
+  copy of the certificate of eligibility issued by Ontario Creates.
+
+     Part 1 ­ Contact information                                                  120 Telephone number
+
+110 Name of contact person
+
+     Part 2 ­ Information on the Ontario production                                                                                                                                          Year  Month Day
+
+200 Certificate of eligibility number                                                                                                                                                        Year  Month Day
+205 Production title
+210 Date principal photography commenced
+215 Production commencement time
+
+Is this a first-time production ? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220  Yes           No
+
+Did the production receive a regional bonus ? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 225              Yes           No
+
+Was the production a treaty co-production ? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 230              Yes           No
+
+Was the production an interprovincial co-production ? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235                  Yes           No
+
+240 Total estimated production costs  245 Estimated qualifying Ontario labour expenditure 250 Estimated OFTTC
+
+T2 SCH 556 E (23)                     (Ce formulaire est disponible en français.)  Page 1 of 4
+                                                                                                                                    Protected B when completed
+
+Part 3 ­ Eligibility
+
+1. Was the corporation a Canadian-controlled corporation throughout the tax year as determined under sections 26 to 28 of
+the Investment Canada Act? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300     Yes  No
+
+2. Were the activities of the corporation in the tax year primarily the carrying on of a Canadian film or video production
+business through a permanent establishment in Canada? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310                      Yes  No
+
+3. Did the corporation have a permanent establishment in Ontario throughout the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . 320                                    Yes  No
+
+4. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario) or Part I of the
+federal Income Tax Act? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 330  Yes  No
+
+5. Was the corporation, at any time in the tax year, controlled directly or indirectly, in any manner, by one or more persons, all
+
+or part of whose taxable income was exempt from tax under Part I of the federal Income Tax Act, Part II of the Corporations
+Tax Act (Ontario), or Part III of the Taxation Act, 2007 (Ontario)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 340                    Yes  No
+
+6. Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation under 6701 of
+the Federal Income Tax Regulations? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 350          Yes  No
+
+If you answered no to question 1, 2, or 3, or yes to question 4, 5, or 6, you are not eligible for the OFTTC.
+
+Part 4 ­ Ontario labour expenditures for the eligible Ontario production for the tax year
+
+Have you claimed an Ontario production services tax credit for the same production identified in Part 2? . . . . . . . . . . . . . . . . . 400                                         Yes  No
+
+If you answered yes to this question, the OFTTC for this production is nil.
+Salaries and wages paid to Ontario-based individuals that are directly attributable to the eligible Ontario production . . . . . . . . . 405
+
+Remuneration that is directly attributable to the eligible Ontario production paid to:
+
+­ Ontario-based individuals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 410
+­ Other taxable Canadian corporations (for their Ontario-based employees) . . . . . . . . . . 420
+­ Other taxable Canadian corporations (solely owned by an Ontario-based individual) . . . 430
+­ Partnerships carrying on business in Canada
+
+   (for their Ontario-based members or employees) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 440
+
+Amounts paid to a parent corporation for Ontario labour expenditures incurred by it                450
+for the subsidiary wholly-owned corporation under a reimbursement agreement . . . . . . . . . . .
+
+                                                              Subtotal (total of lines 410 to 450)                                460
+
+Complete lines 470 and 480 if there is an entry on line 450:
+
+Name of parent corporation . . . . . . . . . . . . . . . . . . . . . . . . . 470
+Business number of parent corporation . . . . . . . . . . . . . . . . 480
+
+Ontario labour expenditures for the eligible Ontario production for the tax year (line 405 plus line 460) . . . . . . . . . . . . . . 490
+
+T2 SCH 556 E (23)                                                                                                                                                                           Page 2 of 4
+                                                                                                                                                                                            Protected B when completed
+
+Part 5 ­ Assistance
+
+Assistance for the cost of the eligible Ontario production that the qualifying production company, or other person, or partnership has received, is entitled to
+receive, or may reasonably expect to receive:
+
+Amount of assistance directly attributable to and that has not caused a reduction in the Ontario labour expenditures
+for the eligible Ontario production . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 500
+
+Amount of assistance not directly attributable to and that has not caused a reduction in the                     510
+Ontario labour expenditures for the eligible Ontario production . . . . . . . . . . . . . . . . . . . . . . . .
+
+Cost of the eligible Ontario production . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 520
+
+Line 510                       ×  Line 640 of part 6 minus line 660 of part 6                                                                = 530
+
+                                  Amount from line 520
+
+                                                                                                                 Subtotal (line 500 plus line 530) 540
+
+Amounts repaid under a legal obligation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 545
+
+Certain amounts of assistance deemed to have been paid/received, as applicable, for the eligible production and included on line 540:
+
+Ontario refundable tax credits and assistance 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 550
+
+Federal tax credits 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 555                                                         A
+                                                                             Subtotal (total of lines 545, 550 and 555)
+
+Net assistance (line 540 minus amount A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 560
+
+1 Include only the following Ontario refundable tax credits and assistance:
+
+          ­ Ontario Book Publishing Tax Credit
+          ­ Ontario Computer Animation and Special Effects Tax Credit
+          ­ Ontario Sound Recording Tax Credit
+          ­ Ontario Film and Television Tax Credit
+          ­ Payments from the 2015 Ontario Production Services and Computer Animation and Special Effects Transitional Fund administered by Ontario
+
+                 Creates
+
+2 Include only the following Federal tax credits: Film or Video Production Services Tax Credit, Investment tax credit, and Investment tax credit of
+          cooperative corporation.
+
+Part 6 ­ Qualifying labour expenditures (QLE) for the tax year
+
+These amounts should be determined without reference to any equity investment held by a person prescribed under subsection 1106(10) of the Federal
+Income Tax Regulations.
+
+Ontario labour expenditures for the eligible Ontario production for the tax year                                                                                                                    B
+
+(line 490 from Part 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ontario labour expenditures for the eligible Ontario production for all previous tax years
+(total of lines 490 from previous years) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 610
+
+QLE for the eligible Ontario production for all previous tax years                                                                            630
+(total of lines 675 from previous years) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 620
+
+                                                                                      Subtotal (line 610 minus line 620)
+
+                                                                                                     Subtotal (amount B plus line 630) 640
+
+Net assistance (line 560 from Part 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        C
+
+Ontario labour expenditures    transferred under a reimbursement       agreement  from  the  parent  .  .        660
+corporation to its subsidiary  wholly-owned corporation . . . . . . .  .........  ....  ...  .....
+
+                                                                       Subtotal (amount C plus line 660)                                      670
+
+QLE for the tax year (line 640 minus line 670)                                                                                                                                              675
+(if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+T2 SCH 556 E (23)                                                                                                                                                                                   Page 3 of 4
+                                                                                                                                                         Protected B when completed
+
+    Part 7 ­ Tax credit calculation for a first-time production
+
+Complete this part if the production is a first-time production and the QLE is more than $50,000 at the time the production is completed or the QLE is $50,000
+or less and no OFTTC is being claimed or has been claimed under Part 6. Otherwise, complete Part 8 or 9, as applicable.
+
+Basic amount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  D
+
+QLE for the eligible Ontario production for all previous
+tax years (line 620 from Part 6) . . . . . . . . . . . . . . . . . 700
+
+Subtotal (amount D minus line 700)
+
+(if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  E
+
+QLE for the tax year                                                                                                              × 35% = 723
+(line 675 from Part 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 721  × 40% = 724
+The lesser of line 721 and amount E . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 722
+QLE at the 35% rate (line 721 minus line 722) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               × 10% = 750
+QLE at the 40% rate (line 722) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+If the first-time production is a regional Ontario production, you can claim the additional credit below:
+QLE for the tax year (line 675 from Part 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ontario film and television tax credit for a first-time production (total of lines 723, 724 and 750) . . . . . . . . . . . . . . . . . . . 755
+
+Enter the amount on line 755 on line 458 of Schedule 5, Tax Calculation Supplementary ­ Corporations. If you are filing more than one Schedule 556, add the
+total of all amounts on line 755, all of the amounts on line 815 from Part 8, and all of the amounts on line 915 from Part 9 on all of the schedules and enter
+the result on line 458 of Schedule 5.
+
+    Part 8 ­ Tax credit calculation for a small first-time production
+
+Complete this part if the production is a first-time production, the QLE is $50,000 or less at the time the production is completed, and no OFTTC for this
+production has been claimed or is being claimed in Part 7. If this is not a first-time production, complete Part 9 instead.
+
+QLE for the tax year (line 675 from Part 6) (cannot be more than $50,000) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 800
+
+Maximum eligible credit for the small first-time production 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . 805
+
+Ontario film and television tax credit claimed and allowed in previous                                                       810
+tax years for the eligible Ontario production . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                    Subtotal (line 805 minus line 810) (if negative, enter "0")                                                                  F
+
+Ontario film and television tax credit for a small first-time production (enter line 800 or amount F, whichever is less) . . . . 815
+
+Enter the amount on line 815 on line 458 of Schedule 5, Tax Calculation Supplementary ­ Corporations. If you are filing more than one Schedule 556, add
+the total of all amounts on line 815, all of the amounts on line 755 from Part 7, and all of the amounts on line 915 from Part 9 on all of the schedules and enter
+the result on line 458 of Schedule 5.
+
+3 If the small first-time production is a regional Ontario production, enter $20,000 on line 805; otherwise, enter $15,000.
+
+Part 9 ­ Tax credit calculation for an eligible Ontario production other than a first-time production
+
+Complete this part if the production is not a first-time production.                                                              × 35% = 903
+QLE for the tax year (line 675 from Part 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+If the production is a regional Ontario production, you can claim the additional credit below:                                    × 10% = 910
+QLE for the tax year (line 675 from Part 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ontario film and television tax credit for an eligible
+Ontario production other than a first-time production (total of lines 903 and 910) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 915
+
+Enter the amount on line 915 on line 458 of Schedule 5, Tax Calculation Supplementary ­ Corporations. If you are filing more than one Schedule 556, add the
+total of all amounts on line 915, all of the amounts on line 755 from Part 7, and all of the amounts on line 815 from Part 8 on all of the schedules and enter the
+result on line 458 of Schedule 5.
+
+T2 SCH 556 E (23)                                                                                                                                       Page 4 of 4
+

@@ -1,0 +1,9 @@
+line	caption
+100	(cannot exceed $75,000)
+130	Deduct: Credit expired after 7 tax years
+135	Unused credit at the beginning of this tax year (amount a minus amount b)
+150	Credit claimed in the current tax year (the least of amount C, $75,000 and New Brunswick income tax otherwise payable)
+190	Closing balance – credit available for carryforward (amount C minus amount D)
+901	1st previous tax year ending on
+902	2nd previous tax year ending on
+903	3rd previous tax year ending on

@@ -1,0 +1,57 @@
+                                              Manitoba Corporation Tax Calculation                                                                                                            Schedule 383
+                                                       (2020 and later tax years)
+                                                                                                                                                                                                Protected B
+                                                                                                                     Business number                                                          when completed
+
+Corporation's name                                                                                                                                                                            Tax year-end
+
+                                                                                                                                                            Year                              Month Day
+
+· Use this schedule if your corporation had a permanent establishment (as defined in section 400 of the federal Income Tax Regulations)
+
+  in Manitoba and had taxable income earned in the year in Manitoba.
+
+· This schedule is a worksheet only. You do not need to file it with your T2 Corporation Income Tax Return.
+
+   Part 1 ­ Income subject to Manitoba lower and higher tax rates
+
+Taxable income for Manitoba Note 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1A
+
+Income eligible for Manitoba lower tax rate:
+
+Line 400 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1B
+
+Line 405 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1C
+
+Line 428 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1D
+
+Amount 1B, 1C or 1D, whichever is the least . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              1E
+
+Amount 1E           ×                         Taxable income for Manitoba Note 1                                                                         =                                                  1F
+
+                                              Taxable income for all provinces Note 2
+
+Income subject to Manitoba higher tax rate (amount 1A minus amount 1F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                              1G
+
+Note 1: If your corporation had a permanent establishment only in Manitoba, enter the taxable income from line 360 of the T2 return. Otherwise,
+            enter the taxable income allocated to Manitoba from column F in Part 1 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+Note 2: Includes the territories and the offshore jurisdictions for Nova Scotia and Newfoundland and Labrador.
+
+    Part 2 ­ Manitoba tax before credits
+
+Manitoba tax at the lower rate is zero. Calculate the Manitoba tax at the higher rate only.
+
+Manitoba tax at the higher rate before deductions for credit union and credits:
+
+Amount 1G              × 12% = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                              2A
+
+Manitoba deduction for credit union (line 652 of Schedule 17, Credit Union Deductions) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                2B
+
+Manitoba tax before credits (amount 2A minus amount 2B) Note 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                      2C
+
+Note 3: If your corporation had a permanent establishment in more than one jurisdiction or is claiming a Manitoba tax credit,
+            enter amount 2C on line 230 of Schedule 5. Otherwise, enter it on line 760 of the T2 return.
+
+T2 SCH 383 E (20)                             (Ce formulaire est disponible en français.)
+

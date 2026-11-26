@@ -1,0 +1,196 @@
+                     ONTARIO CO-OPERATIVE EDUCATION TAX CREDIT                                                                                               SCHEDULE 550
+                                        (2009 and later tax years)
+                                                                                                                                                                          Code 0902
+                                                                                                                             Business Number
+                                                                                                                                                               Protected B
+                                                                                                                                                             when completed
+
+Name of corporation                                                                                                                                          Tax year end
+
+                                                                                                                                              Year           Month Day
+
+· Use this schedule to claim an Ontario co-operative education tax credit (CETC) under section 88 of the Taxation Act, 2007 (Ontario).
+
+· The CETC is a refundable tax credit that is equal to an eligible percentage (10% to 30%) of the eligible expenditures incurred by a corporation for
+
+  a qualifying work placement. The maximum credit amount is $1,000 for each qualifying work placement ending before March 27, 2009, and $3,000
+  for each qualifying work placement beginning after March 26, 2009. For a qualifying work placement that straddles March 26, 2009, the maximum
+  credit amount is prorated.
+
+· Eligible expenditures are salaries and wages (including taxable benefits) paid or payable to a student in a qualifying work placement, or fees paid or
+
+  payable to an employment agency for services performed by the student in a qualifying work placement. These expenditures must be paid on account
+  of employment or services, as applicable, at a permanent establishment of the corporation in Ontario. Expenditures for a work placement (WP) are not
+  eligible expenditures if they are greater than the amounts that would be paid to an arm's length employee.
+
+· A WP must meet all of the following conditions to be a qualifying work placement:
+    ­ the student performs employment duties for a corporation under a qualifying co-operative education program (QCEP);
+    ­ the WP has been developed or approved by an eligible educational institution as a suitable learning situation;
+    ­ the terms of the WP require the student to engage in productive work;
+    ­ the WP is for a period of at least 10 consecutive weeks or, in the case of an internship program, not less than 8 consecutive months and not more
+
+        than 16 consecutive months;
+
+    ­ the student is paid for the work performed in the WP;
+    ­ the corporation is required to supervise and evaluate the job performance of the student in the WP;
+    ­ the institution monitors the student's performance in the WP; and
+    ­ the institution has certified the WP as a qualifying work placement.
+· Make sure you keep a copy of the letter of certification from the Ontario eligible educational institution containing the name of the student, the employer,
+
+  the institution, the term of the WP, and the name/discipline of the QCEP to support the claim. Do not submit the letter of certification with the
+  T2 Corporation Income Tax Return.
+
+· File this schedule with the T2 Corporation Income Tax Return.
+
+       Part 1 ­ Corporate information (please print)                                120 Telephone number including area code
+110 Name of person to contact for more information
+
+Is the claim filed for a CETC earned through a partnership? * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150 1 Yes  2 No
+
+If you answered yes to the question at line 150,
+what is the name of the partnership? . . . . . . . . 160
+Enter the percentage of the partnership's CETC allocated to the corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170
+
+*  When a corporate member of a partnership is claiming an     amount for eligible  expenditures incurred by a partnership, complete          a Schedule 550 for the
+   partnership as if the partnership were a corporation. Each  corporate partner,   other than a limited partner, should file a separate      Schedule 550 to claim
+
+   the partner's share of the partnership's CETC. The allocated amounts can not exceed the amount of the partnership's CETC.
+
+        Part 2 ­ Eligibility                                                                                                                                 2 No
+1. Did the corporation have a permanent establishment in Ontario in the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200 1 Yes          2 No
+2. Was the corporation exempt from tax under Part III of the Taxation Act, 2007 (Ontario)? . . . . . . . . . . . . . . . . . . . . . 210 1 Yes
+
+   If you answered no to question 1 or yes to question 2, then the corporation is not eligible for the CETC.
+
+T2 SCH 550 E (09) (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca/formulaires ou en composant le 1-800-959-7775.) Page 1 of 3
+Part 3 ­ Eligible percentage for determining the eligible amount                                      Protected B when completed
+
+Corporation's salaries and wages paid in the previous tax year * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300
+
+  For eligible expenditures incurred before March 27, 2009:
+
+  ­ If line 300 is $400,000 or less, enter 15% on line 310.
+  ­ If line 300 is $600,000 or more, enter 10% on line 310.
+  ­ If line 300 is more than $400,000 and less than $600,000, enter the percentage on line 310 using the following formula:
+
+      [ ] Eligible percentage = 15% _ 5% × (amount on line 300 minus $400,000)
+                                                                                       $200,000
+Eligible percentage for determining the eligible amount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310
+
+  For eligible expenditures incurred after March 26, 2009:
+
+  ­ If line 300 is $400,000 or less, enter 30% on line 312.
+  ­ If line 300 is $600,000 or more, enter 25% on line 312.
+  ­ If line 300 is more than $400,000 and less than $600,000, enter the percentage on line 312 using the following formula:
+
+      [ ] Eligible percentage = 30% _ 5% × (amount on line 300 minus $400,000)
+                                                                                       $200,000
+Eligible percentage for determining the eligible amount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 312
+
+* If this is the first tax year of an amalgamated corporation and subsection 88(9) of the Taxation Act, 2007 (Ontario) applies, enter the salaries and
+  wages paid in the previous tax year by the predecessor corporations.
+
+       Part 4 ­ Calculation of the Ontario co-operative education tax credit
+
+Complete a separate entry for each student for each qualifying work placement that ended in the corporation's tax year. If a qualifying work placement would
+otherwise exceed four consecutive months, divide the WP into periods of four consecutive months and enter each full period of four consecutive months as
+a separate WP. If the WP does not divide equally into four-month periods and if the period that is less than 4 months is 10 or more consecutive weeks, then
+enter that period as a separate WP. If that period is less than 10 consecutive weeks, then include it with the WP for the last period of 4 consecutive months.
+Consecutive WPs with two or more associated corporations are deemed to be with only one corporation, as designated by the corporations.
+
+                                                              A                                             B
+
+                                              Name of university, college,                      Name of qualifying
+                                       or other eligible educational institution        co-operative education program
+
+                                                             400                                          405
+
+1.
+2.
+3.
+4.
+5.
+
+          C                                                                                  D                                                                   E
+Name of student
+                                                                                   Start date of WP                                                    End date of WP
+                                                                                  (see note 1 below)                                                  (see note 2 below)
+
+                                                             410                        430                                                                 435
+
+1.                                                                                Year  Month Day                                                     Year  Month Day
+2.
+3.
+4.
+5.
+
+Note 1: When the WP has been divided into separate periods because it exceeds four consecutive months, enter the start date for the separate WP.
+Note 2: When the WP has been divided into separate periods because it exceeds four consecutive months, enter the end date for the separate WP.
+
+                                                                                                                                                                          Page 2
+Part 4 ­ Calculation of the Ontario co-operative education tax credit (continued)                                                    Protected B when completed
+
+                                    F1                          F2                                       G                                      H
+                                                 Eligible expenditures after                                                          Maximum CETC
+                   Eligible expenditures before                                                 Eligible amount
+                           March 27, 2009              March 26, 2009                (eligible expenditures multiplied                      per WP
+                                                     (see note 1 below)                                                              (see note 3 below)
+                         (see note 1 below)                                                by eligible percentage)
+                                                                452                           (see note 2 below)                               462
+                                    450
+                                                                                                        460
+          1.
+          2.
+          3.
+          4.
+          5.
+
+                                                                       I                           J                                              K
+                                                    CETC on eligible expenditures                                                      CETC for each WP
+                                                 (column G or H, whichever is less)  CETC on repayment of                            (column I or column J)
+                                                                                     government assistance
+                                                                                                                                                 490
+                                                                                        (see note 4 below)
+                                                                                                                                                                       L
+                                                 470                                                   480
+
+                                                                1.
+                                                                2.
+                                                                3.
+                                                                4.
+                                                                5.
+
+If you need more space, attach additional schedule(s).
+                                                       Ontario co-operative education tax credit (total of amounts in column K) 500
+
+or, if the corporation answered yes at line 150 in Part 1, determine the partner's share of amount L:
+
+Amount L  × percentage on line 170 in Part 1                                         = ...............                                                   M
+
+Enter amount L or M, whichever applies, on line 452 of Schedule 5, Tax Calculation Supplementary ­ Corporations. If you are filing more than one
+Schedule 550, add the amounts from line L or M, whichever applies, on all the schedules and enter the total amount on line 452 of Schedule 5.
+
+Note 1: Reduce eligible expenditures by all government assistance, as defined under subsection 88(21) of the Taxation Act, 2007 (Ontario),
+          that the corporation has received, is entitled to receive, or may reasonably expect to receive, for the eligible expenditures, on or
+          before the filing due date of the T2 Corporation Income Tax Return for the tax year.
+
+Note 2: Calculate the eligible amount (Column G) using the following formula:
+
+        Column G = (column F1 × percentage on line 310) + (column F2 × percentage on line 312)
+
+Note 3: If the WP ends before March 27, 2009, the maximum credit amount for the WP is $1,000.
+          If the WP begins after March 26, 2009, the maximum credit amount for the WP is $3,000.
+          If the WP begins before March 27, 2009, and ends after March 26, 2009, calculate the maximum credit amount using the following formula:
+
+        ($1,000 × X/Y) + [$3,000 × (Y ­ X)/Y]
+
+          where "X" is the number of consecutive weeks of the WP completed by the student before March 27, 2009,
+          and "Y" is the total number of consecutive weeks of the student's WP.
+
+Note 4: When claiming a CETC for repayment of government assistance, complete a separate entry for each repayment and complete
+          columns A to E and J and K with the details for the previous year WP in which the government assistance was received.
+          Include the amount of government assistance repaid in the tax year multiplied by the eligible percentage for the tax year in which
+          the government assistance was received, to the extent that the government assistance reduced the CETC in that tax year.
+
+                                                                                                                                                         Page 3
+

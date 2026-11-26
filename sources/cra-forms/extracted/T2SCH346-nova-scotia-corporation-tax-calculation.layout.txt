@@ -1,0 +1,177 @@
+Corporation's name  Nova Scotia Corporation Tax Calculation                                                                                                                                          Schedule 346
+                               (2025 and later tax years)                                                                                                                                              Protected B
+
+                                                                                                    Business number                                                                                   when completed
+
+                                                                                                                                                                                               Tax year-end
+                                                                                                                                                                                           Year Month Day
+
+· Use this schedule if your corporation had a permanent establishment (as defined in section 400 of the federal Income Tax Regulations) in Nova Scotia,
+
+  and had taxable income earned in the year in Nova Scotia and its offshore area.
+
+· This schedule is a worksheet only and does not have to be filed with your T2 Corporation Income Tax Return.
+
+    Part 1 ­ Income subject to the lower and higher tax rate for Nova Scotia and its offshore area
+
+                                                                                       Period before April 1, 2025
+
+Taxable income for Nova Scotia Note 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1A
+
+Income eligible for the lower tax rate for Nova Scotia and its offshore area:
+
+Line 400 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1B
+
+Line 405 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1C
+
+Line 428 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1D
+
+Amount 1B, 1C, or 1D, whichever is the least . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                             1E
+
+Amount 1E           × Taxable income for Nova Scotia Note 1                                                    ................... =                                                       1F
+
+                        Taxable income for all provinces Note 2
+
+Income subject to the higher tax rate for Nova Scotia and its offshore area (amount 1A minus amount 1F) . . . . . . . . . . . . . . . . .                                                  1G
+
+                                                                 Period after March 31, 2025
+
+Taxable income for Nova Scotia Note 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1H
+
+Income eligible for the lower tax rate for Nova Scotia and its offshore area:
+
+Line 400 of the T2 return Note 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   1I
+
+Line 405 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1J
+
+Line 428 of the T2 return . . . . . . . . . . . . . . . . . . .  ×             700,000                         =                                                 1K
+
+                                                                               500,000
+
+Amount 1I, 1J, or 1K, whichever is the least . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           1L
+
+Amount 1L           × Taxable income for Nova Scotia Note 1                                                    ................... =                                                       1M
+
+                        Taxable income for all provinces Note 2
+
+Income subject to the higher tax rate for Nova Scotia and its offshore area (amount 1H minus amount 1M) . . . . . . . . . . . . . . . . .                                                  1N
+
+Note 1: If your corporation had a permanent establishment only in Nova Scotia or in the offshore area of Nova Scotia, enter the taxable income from line 360 of
+           the T2 return. Otherwise, enter the total of the taxable incomes allocated to both jurisdictions in Nova Scotia (the province itself and the offshore area)
+           from column F in Part 1 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+Note 2: Includes the territories and the offshore jurisdictions for Nova Scotia and Newfoundland and Labrador.
+
+Note 3: If your corporation is a member or a designated member of a partnership, fill out Part 2 to calculate income from active business with partnership
+          income. If your corporation had a business limit assigned to it by another CCPC under subsection 125(3.2) as reported on Schedule 7, amount 1I is
+          equal to line 400 of the T2 return minus line 625 of Schedule 7, plus the result of line 625 of Schedule 7 multiplied by 700,000/500,000.
+
+Part 2 ­ Income from active business when there is partnership income
+
+                                                                                  Period after March 31, 2025
+
+Amount Y from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    2A
+
+Line 530 from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2B
+
+Line 540 from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2C
+
+Amount AA from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       2D
+
+Amount CC from Part 6 of Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       2E
+
+                    Subtotal (amount 2A minus amounts 2B, 2C, and 2D, plus amount 2E)                                                                                                      2F
+
+Amount Q from Part 5 of Schedule 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     2G
+
+T2 SCH 346 E (25)                                                (Ce formulaire est disponible en français.)                                        Page 1 of 2
+                                                                                                                        Protected B when completed
+
+Part 2 ­ Income from active business when there is partnership income (continued)
+
+       Column 1                   Column 2                               Column 3                      Column 4
+     Amounts from       Amounts from column K1
+column F1 in Part 4 of                                               Column 1 minus              Lesser of columns 1
+                         in Part 4 of Schedule 7                          column 2               and 2 (if column 1 is
+       Schedule 7              multiplied by                                                     negative, enter "0")
+                                                                  (if negative, enter "0")
+                                   700,000
+
+                                   500,000
+
+                                         Totals                             2H                   2I
+
+Line 370 from Part 4 of Schedule 7 . . . . . . . . . . . . . . .            2J
+
+Line 380 from Part 4 of Schedule 7 . . . . . . . . . . . . . . .            2K
+
+                   Subtotal (amount 2J plus amount 2K)                      2L
+
+Enter amount 2H or amount 2L, whichever is less . . . . . . . . . . . . . . . . . . . . . . . .  2M
+
+Specified partnership income (amount 2I plus amount 2M) . . . . . . . . . . . . . . . . .                                   2N
+                                                                                                 
+Partnership income not eligible for the small business deduction (amount 2G minus amount 2N) . . . . . . .                                                         2O
+
+Income from active business (amount 2F minus amount 2O) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2P
+
+Enter amount 2P at amount 1I in Part 1.
+
+Part 3 ­ Nova Scotia tax before credits and Nova Scotia offshore tax
+
+Tax at the lower rate for Nova Scotia and its offshore area:
+
+                                         Number of days in the tax year
+
+Amount 1F               ×                before April 1, 2025                                    × 2.5% =               3A
+
+                                         Number of days in the tax year
+
+                                         Number of days in the tax year
+
+Amount 1M               ×                after March 31, 2025                                    × 1.5% =               3B
+
+                                         Number of days in the tax year
+
+                   Tax at the lower rate for Nova Scotia and its offshore area (amount 3A plus amount 3B)                                                          3C
+
+Tax at the higher rate for Nova Scotia and its offshore area:
+
+                                         Number of days in the tax year
+
+Amount 1G               ×                before April 1, 2025                                    × 14% =                3D
+
+                                         Number of days in the tax year
+
+                                         Number of days in the tax year
+
+Amount 1N               ×                after March 31, 2025                                    × 14% =                3E
+
+                                         Number of days in the tax year
+
+                   Tax at the higher rate for Nova Scotia and its offshore area (amount 3D plus amount 3E)                                                         3F
+
+                                         Total Tax for Nova Scotia and its offshore area (amount 3C plus amount 3F)                                                3G
+
+Only one jurisdiction
+
+If your taxable income is allocated only to Nova Scotia or to Nova Scotia offshore, and your corporation is not claiming a Nova Scotia tax credit, enter
+amount 3G on line 760 of the T2 return. If your corporation is claiming a credit, enter amount 3G on line 215 or 220 of Schedule 5, whichever applies.
+
+Jurisdictions in both Nova Scotia and Nova Scotia offshore
+
+If your corporation has taxable income allocated to both Nova Scotia and its offshore area, calculate the following:
+
+                                         Taxable income for Nova Scotia
+
+Amount 3G               ×                                         offshore                                              .................... =                     3H
+
+                                         Taxable income for Nova Scotia plus
+
+                                                    taxable income for Nova Scotia offshore      2.00000000
+Nova Scotia offshore tax before credits ­ Enter amount 3H on line 220 of Schedule 5.
+
+Nova Scotia tax before credits (amount 3G minus amount 3H) ­ Enter amount 3I on line 215 of Schedule 5 . . . . . . . . . . . . . . . . . . .                       3I
+
+T2 SCH 346 E (25)                                                                                                                                                  Page 2 of 2
+

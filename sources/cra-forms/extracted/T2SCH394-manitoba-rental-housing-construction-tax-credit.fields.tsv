@@ -1,0 +1,72 @@
+page	part	field	line	kind	digits	speak
+1	Ident	Corp_name		text		Corporation's name.
+1	Ident	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident/Tax_y-e	DateYYYYMMDD_Comb		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P1/Table1/Row1	Cell1	200	numeric	15	Line 200. Column 1. Row 1. Certificate number of eligible rental housing project.
+1	Subform_P1/Table1/Row1	Cell2	210	numeric	13	Line 210. Column 2. Row 1. Capital cost of eligible rental housing project.
+1	Subform_P1/Table1/Row1	Cell3	220	numeric	5	Line 220. Column 3. Row 1. Number of residential units in eligible rental housing project.
+1	Subform_P1/Table1/Row1	Cell4	225	numeric	2	Line 225. Column 4. Row 1. Number of months in the tax year that the project is an eligible rental housing project.
+1	Subform_P1/Table1/Row2	Cell1	200	numeric	15	Line 200. Column 1. Row 2. Certificate number of eligible rental housing project.
+1	Subform_P1/Table1/Row2	Cell2	210	numeric	13	Line 210. Column 2. Row 2. Capital cost of eligible rental housing project.
+1	Subform_P1/Table1/Row2	Cell3	220	numeric	5	Line 220. Column 3. Row 2. Number of residential units in eligible rental housing project.
+1	Subform_P1/Table1/Row2	Cell4	225	numeric	2	Line 225. Column 4. Row 2. Number of months in the tax year that the project is an eligible rental housing project.
+1	Subform_P1/Table1/Row3	Cell1	200	numeric	15	Line 200. Column 1. Row 3. Certificate number of eligible rental housing project.
+1	Subform_P1/Table1/Row3	Cell2	210	numeric	13	Line 210. Column 2. Row 3. Capital cost of eligible rental housing project.
+1	Subform_P1/Table1/Row3	Cell3	220	numeric	5	Line 220. Column 3. Row 3. Number of residential units in eligible rental housing project.
+1	Subform_P1/Table1/Row3	Cell4	225	numeric	2	Line 225. Column 4. Row 3. Number of months in the tax year that the project is an eligible rental housing project.
+1	Subform_P1/Table1/Row4	Cell1	200	numeric	15	Line 200. Column 1. Row 4. Certificate number of eligible rental housing project.
+1	Subform_P1/Table1/Row4	Cell2	210	numeric	13	Line 210. Column 2. Row 4. Capital cost of eligible rental housing project.
+1	Subform_P1/Table1/Row4	Cell3	220	numeric	5	Line 220. Column 3. Row 4. Number of residential units in eligible rental housing project.
+1	Subform_P1/Table1/Row4	Cell4	225	numeric	2	Line 225. Column 4. Row 4. Number of months in the tax year that the project is an eligible rental housing project.
+1	Subform_P1/Table2/Row1	Cell5	230	numeric	13	Line 230. Column 5. Row 1. Column 2 multiplied by 8%.
+1	Subform_P1/Table2/Row1	Cell6	240	numeric	13	Line 240. Column 6. Row 1. Column 3 multiplied by $12,000.
+1	Subform_P1/Table2/Row1	Cell7		numeric	13	Column 7. Row 1. Lesser of column 5 and column 6 divided by 60.
+1	Subform_P1/Table2/Row1	Cell8		numeric	13	Column 2G. Line 230. Amount recaptured, amount from column 2C or 2F, whichever is less. Row 1.
+1	Subform_P1/Table2/Row2	Cell5	230	numeric	13	Line 230. Column 5. Row 2. Column 2 multiplied by 8%.
+1	Subform_P1/Table2/Row2	Cell6	240	numeric	13	Line 240. Column 6. Row 2. Column 3 multiplied by $12,000.
+1	Subform_P1/Table2/Row2	Cell7		numeric	13	Column 7. Row 2. Lesser of column 5 and column 6 divided by 60.
+1	Subform_P1/Table2/Row2	Cell8		numeric	13	Column 2G. Line 230. Amount recaptured, amount from column 2C or 2F, whichever is less. Row 2.
+1	Subform_P1/Table2/Row3	Cell5	230	numeric	13	Line 230. Column 5. Row 3. Column 2 multiplied by 8%.
+1	Subform_P1/Table2/Row3	Cell6	240	numeric	13	Line 240. Column 6. Row 3. Column 3 multiplied by $12,000.
+1	Subform_P1/Table2/Row3	Cell7		numeric	13	Column 7. Row 3. Lesser of column 5 and column 6 divided by 60.
+1	Subform_P1/Table2/Row3	Cell8		numeric	13	Column 2G. Line 230. Amount recaptured, amount from column 2C or 2F, whichever is less. Row 3.
+1	Subform_P1/Table2/Row4	Cell5	230	numeric	13	Line 230. Column 5. Row 4. Column 2 multiplied by 8%.
+1	Subform_P1/Table2/Row4	Cell6	240	numeric	13	Line 240. Column 6. Row 4. Column 3 multiplied by $12,000.
+1	Subform_P1/Table2/Row4	Cell7		numeric	13	Column 7. Row 4. Lesser of column 5 and column 6 divided by 60.
+1	Subform_P1/Table2/Row4	Cell8		numeric	13	Column 2G. Line 230. Amount recaptured, amount from column 2C or 2F, whichever is less. Row 4.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Subform_P1.2/Group260	Input_260	260	numeric	12	Line 260. Total credit earned in the current tax year, total of column 8.
+2	Subform_P1.2/GroupA	Input_A		numeric	12	Amount A. Unused credit at the end of the previous tax year.
+2	Subform_P1.2/Group270	Input_270	270	numeric	12	Line 270. Credit expired after 10 tax years.
+2	Subform_P1.2/Group275	Input1_275	275	numeric	12	Line 275. Unused credit at the beginning of this tax year. Amount A minus line 270. Instance 1.
+2	Subform_P1.2/Group275	Input2_275	275	numeric	12	Line 275. Instance 2.
+2	Subform_P1.2/Group280	Input_280	280	numeric	12	Line 280. Credit transferred on an amalgamation or the windup of a subsidiary.
+2	Subform_P1.2/GroupB	Input_B		numeric	12	Amount B. Total credit available for the current tax year, total of lines 260, 275 and 280.
+2	Subform_P1.2/Group290	Input_290	290	numeric	12	Line 290. Manitoba rental housing construction tax credit claimed in the current year, see note 1.
+2	Subform_P1.2/Group295	Input_295	295	numeric	12	Line 295. Closing balance for carryforward, amount B minus line 290.
+2	Subform_p2/Analysis_table/Year10/Date_yr10	P4_Date10_Comb		text		Year of origin. Tenth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Subform_p2/Analysis_table/Year10	Input_yr10		numeric	12	Credit available for carryforward. Tenth previous tax year.
+2	Subform_p2/Analysis_table/Year9/Date_yr9	P4_Date9_Comb		text		Year of origin. Ninth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Subform_p2/Analysis_table/Year9	Input_yr9		numeric	12	Credit available for carryforward. Ninth previous tax year.
+2	Subform_p2/Analysis_table/Year8/Date_yr8	P4_Date8_Comb		text		Year of origin. Eighth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Subform_p2/Analysis_table/Year8	Input_yr8		numeric	12	Credit available for carryforward. Eighth previous tax year.
+2	Subform_p2/Analysis_table/Year7/Date_yr7	P4_Date7_Comb		text		Year of origin. Seventh previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Subform_p2/Analysis_table/Year7	Input_yr7		numeric	12	Credit available for carryforward. Seventh previous tax year.
+2	Subform_p2/Analysis_table/Year6/Date_yr6	P4_Date6_Comb		text		Year of origin. Sixth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Subform_p2/Analysis_table/Year6	Input_yr6		numeric	12	Credit available for carryforward. Sixth previous tax year.
+2	Subform_p2/Analysis_table/Year5/Date_yr5	P4_Date5_Comb		text		Year of origin. Fifth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Subform_p2/Analysis_table/Year5	Input_yr5		numeric	12	Credit available for carryforward. Fifth previous tax year.
+2	Subform_p2/Analysis_table/Year4/Date_yr4	P4_Date4_Comb		text		Year of origin. Fourth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Subform_p2/Analysis_table/Year4	Input_yr4		numeric	12	Credit available for carryforward. Fourth previous tax year.
+2	Subform_p2/Analysis_table/Year3/Date_yr3	P4_Date3_Comb		text		Year of origin. Third previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Subform_p2/Analysis_table/Year3	Input_yr3		numeric	12	Credit available for carryforward. Third previous tax year.
+2	Subform_p2/Analysis_table/Year2/Date_yr2	P4_Date2_Comb		text		Year of origin. Second previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Subform_p2/Analysis_table/Year2	Input_yr2		numeric	12	Credit available for carryforward. Second previous tax year.
+2	Subform_p2/Analysis_table/Year1/Date_yr1	P4_Date1_Comb		text		Year of origin. First previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Subform_p2/Analysis_table/Year1	Input_yr1		numeric	12	Credit available for carryforward. First previous tax year.
+2	Subform_p2/Analysis_table/YearCurr/Date_curr	P4_DateCur_Comb		text		Year of origin. Current tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Subform_p2/Analysis_table/YearCurr	Input_curr		numeric	12	Credit available for carryforward. Current tax year.
+2	Subform_p2/Analysis_table/Part3_total	Input_total		numeric	12	Credit available for carryfoward. Total. Equals line 295 in Part 1.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		

@@ -1,0 +1,13 @@
+line	caption
+100	Description of eligible property 105 110
+120	Total capital cost (attach an additional schedule if space is insufficient)
+205	Credit expired after 20 tax years
+210	Unused credit at the beginning of this tax year (amount A minus line 205)
+215	Line 120 from Part 1 × 10% =
+230	Non-refundable credit claimed in the current tax year (amount not exceeding the lesser of Newfoundland and Labrador tax otherwise payable and amount B)
+235	Line 215 × 40% =
+240	Refundable credit claimed in the current tax year (amount C or line 235, whichever is less)
+250	Closing balance for carryforward (amount B minus amount E) (see note 4)
+901	Year Month Day
+902	2nd previous tax year ending on
+903	3rd previous tax year ending on

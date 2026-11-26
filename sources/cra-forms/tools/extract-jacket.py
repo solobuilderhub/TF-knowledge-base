@@ -38,6 +38,7 @@ prevent.
 from __future__ import annotations
 
 import re
+import subprocess
 import sys
 
 import fitz
@@ -100,6 +101,14 @@ def main() -> int:
     if not pdf.exists():
         print(f"not found: {pdf}", file=sys.stderr)
         return 1
+
+    # Keep the plain layout text current too. Nothing here reads it, but the
+    # coverage check in ca-tax looks in it for every line number a definition
+    # carries, and a layout left over from an earlier revision fails that check
+    # for every line the reprint added.
+    subprocess.run(
+        ["pdftotext", "-layout", str(pdf), str(EXTRACT_DIR / "T2-jacket.layout.txt")], check=True
+    )
 
     rows, dropped = extract(pdf)
     out = EXTRACT_DIR / "T2-jacket.lines.tsv"

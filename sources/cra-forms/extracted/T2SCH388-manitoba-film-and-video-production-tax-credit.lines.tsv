@@ -1,0 +1,42 @@
+line	caption
+151	Name of person to contact for more information 153 Telephone number
+201	Title of production 202 Date the production was completed Year Month Day
+203	Certificate number 204 Date the principal photography began
+311	Is the corporation incorporated in Canada?
+312	Is the corporation a taxable Canadian corporation?
+313	Does the corporation primarily carry on the business of film or video production?
+314	Does the corporation have a permanent establishment in Manitoba?
+320	on this film
+330	All salaries and wages the corporation has paid to employees in the tax year. (Do not include amounts paid to individual contractors or corporations)
+340	Portion of the total salaries and wages that are paid to eligible employees and employees who are eligible non-resident individuals (line 331 divided by line 330)
+420	Enter the production commencement date, the earlier of a or b:
+421	a) the date principal photography began
+426	ii) the date the corporation or its parent first acquired a right for the story that is the basis of the final script
+427	iii) the date that is two years before the date on which principal photography began
+505	Eligible salaries Note 3 for services rendered by eligible individuals Salary or wages (paid to eligible individuals)
+510	eligible individuals
+511	corporations (solely owned by an eligible individual)
+512	other corporations (for their eligible employees)
+513	partnerships carrying on business in Canada (for their members who are eligible individuals or eligible employees)
+520	Labour expenditures incurred by a parent corporation and transferred to its wholly-owned subsidiary (the corporation) under a reimbursement agreement
+550	Eligible salaries for services rendered by eligible individuals (line 505 plus amount 5A plus line 520)
+571	Eligible salaries the corporation would have paid if the services provided by eligible non-resident individuals were provided by eligible individuals (include salary or wages and remuneration, but do not include amounts for taxable benefits received by eligible non-resident individuals)
+575	Eligible salaries for services rendered by eligible individuals (total of line 550 for all years of production)
+580	Enter the rate of the deemed labour cap that is specified on the Certificate of Completion
+590	Eligible salaries for services rendered by eligible non-resident individuals (the lesser of line 571 and amount 5B)
+610	Eligible salaries included in amount 6C that may be claimed by another corporation
+615	Amount of eligible salaries allocated to the corporation through a joint allocation agreement that was filed with the Minister of National Revenue
+620	Total amount of government assistance Note 4 received or receivable by the corporation
+650	Total eligible salaries (amount 6E minus line 620)
+710	Percentage of labour eligible for frequent filming bonus
+730	Frequent filming bonus tax credit (amount 7A multiplied by line 710)
+857	eligible individuals
+858	taxable Canadian corporations (solely owned by an eligible individual)
+859	other taxable Canadian corporations (for their eligible employees)
+860	partnerships (for their members who are eligible individuals or eligible employees)
+862	Eligible service contract expenditures incurred by the parent corporation and transferred to its wholly-owned subsidiary corporation under a reimbursement agreement
+864	Eligible tangible property expenditures directly attributable to the eligible film
+865	Eligible accommodation expenditures Note 12 directly attributable to the eligible film
+866	Government assistance included in amount 10B that the corporation has not repaid
+870	Cost of production for the tax year (amount 10B minus line 866) (if negative, enter 0)
+900	Manitoba film and video production tax credit (amount 11E or amount 11F, whichever applies) 5 0.0.0.0.0.00. 0

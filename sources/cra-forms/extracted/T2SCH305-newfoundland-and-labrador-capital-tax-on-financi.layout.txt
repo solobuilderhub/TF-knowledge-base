@@ -1,0 +1,109 @@
+                    Newfoundland and Labrador Capital Tax on Financial Institutions                                                                                                       Schedule 305
+                                                (2016 and later tax years)                                                                                                                      Code 1602
+
+                                                                                                                                                                                            Protected B
+                                                                                                                                                                                          when completed
+
+Corporation's name                                                                                          Business number                                                                   Tax year-end
+                                                                                                                                                                                          Year Month Day
+
+· For use by corporations that are financial institutions with a permanent establishment (as defined in the federal Income Tax Regulations) at any time in the
+
+  tax year in the province of Newfoundland and Labrador, including off-shore areas, and that are liable to pay tax on their capital for tax years starting after
+  October 31, 2008.
+
+· Subsection 66.1(1) of the Newfoundland and Labrador Income Tax Act defines the term financial institution.
+
+· You have to complete Schedule 38, Part VI Tax on Capital of Financial Institutions, in order to complete this schedule. File these two completed schedules
+
+  with the T2 Corporation Income Tax Return within six months of the end of the tax year.
+
+Part 1 ­ Newfoundland and Labrador taxable capital in excess of capital deduction for the year
+
+Capital for the year (amount from line 190 or 290 of Schedule 38) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+
+Capital deduction claimed for the year Note 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+
+Excess amount (line 110 minus line 120) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            1A
+
+If the corporation has a permanent establishment only in Newfoundland and Labrador, including off-shore areas, enter amount 1A on amount 1H.
+Otherwise, complete one of the following calculations (whichever applies):
+
+If the corporation is a loan corporation, a trust corporation, or a trust and loan corporation:
+
+                    Line 143 plus line 144 of Schedule 5       =                                            % 1B
+                             Line 169 of Schedule 5
+
+Amount 1A                      × Percentage on amount 1B          % = ...............................                                                                                     1C
+
+Enter amount 1C on amount 1H.
+
+If the corporation is a bank:
+
+                    Line 103 plus line 104 of Schedule 5       =                                            % 1D
+
+                    Line 129 of Schedule 5
+
+                   2 × (line 143 plus line 144 of Schedule 5)  =                                            % 1E
+
+                    Line 169 of Schedule 5
+
+                                                          Add percentages 1D and 1E                         % × 1/3 Note 2     =                                                          % 1F
+
+Amount 1A                      × Percentage on amount 1F          % = ...............................                                                                                     1G
+
+Enter amount 1G on amount 1H.
+
+Newfoundland and Labrador taxable capital employed in the year (amount 1A, 1C, or 1G, whichever applies) . . . . . . . . . . . . . . . . . . . .                                          1H
+
+Investments in related financial institutions as determined under section 66.4 of the
+Newfoundland and Labrador Income Tax Act . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 125
+
+Newfoundland and Labrador taxable capital in excess of capital deduction for the year
+(amount 1H minus line 125) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+
+Note 1 Enter $5,000,000 or, for related corporations, the amount allocated on Schedule 306, Newfoundland and Labrador Capital Tax on Financial
+           Institutions ­ Agreement Among Related Corporations, if the capital of the corporation (line 110) or the combined capital of the corporation and its
+           related financial institutions is $10,000,000 or less. Otherwise, enter zero.
+
+Note 2 If line 129 of Schedule 5, Tax Calculation Supplementary ­ Corporations, is blank or zero, multiply by 1/2 instead of 1/3. If line 169 of Schedule 5 is
+           blank or zero, multiply by 1 instead of 1/3.
+
+T2 SCH 305 E (21)                                              (Ce formulaire est disponible en français.)        Page 1 of 2
+                                                                          Protected B when completed
+
+Part 2 ­ Newfoundland and Labrador capital tax on financial institutions
+
+           ×                        Number of days in the                 × 4% = . . . . . . . . . . .
+
+Line 130                            tax year before April 1, 2015                                                                                       2A
+
+                                    Number of days in the tax year
+
+                                    Number of days in the tax year after
+           × March 31, 2015 and before January 1, 2016                    × 5% = . . . . . . . . . . .
+Line 130                                                                                                                                                2B
+
+                                    Number of days in the tax year
+
+           ×                        Number of days in the                 × 6% = . . . . . . . . . . .
+
+Line 130                            tax year after December 31, 2015                                                                                    2C
+
+                                    Number of days in the tax year
+
+                                                                          Subtotal (total of amounts 2A, 2B and 2C)                                     2D
+
+For a tax year less than 51 weeks:
+
+Amount 2D     ×                     Number of days in the tax year        = .............................                                               2E
+
+                                    365
+
+Newfoundland and Labrador capital tax on financial institutions (amount 2D or amount 2E, whichever applies) . . . . . . . . . 150
+
+Enter line 150 on line 518 of Schedule 5, Tax Calculation Supplementary ­ Corporations. Line 150 may be deducted in calculating net income for federal
+income tax purposes.
+
+                                                                                                                     Page 2 of 2
+

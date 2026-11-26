@@ -1,0 +1,10 @@
+line	caption
+110	Name of person to contact for more information
+150	Is the claim filed for a CETC earned through a partnership?
+160	If you answered yes to the question at line 150, what is the name of the partnership?
+170	Enter the percentage of the partnership's CETC allocated to the corporation
+200	Did the corporation have a permanent establishment in Ontario in the tax year?
+210	Was the corporation exempt from tax under Part III of the Taxation Act, 2007 (Ontario)?
+300	Corporation's salaries and wages paid in the previous tax year
+310	Eligible percentage for determining the eligible amount
+312	Eligible percentage for determining the eligible amount

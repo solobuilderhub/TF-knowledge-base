@@ -1,0 +1,28 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Nm		text		Corporation's name.
+1		BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_sf/ID_A_B_C_D_sf	Amt_A		numeric	12	Amount A. Canadian manufacturing and processing profits for the year from line 200 in Part 9 of Schedule 27 Calculation of Canadian Manufacturing and Processing Profits Deduction.
+1	Part1_sf/ID_A_B_C_D_sf	Amt_B		numeric	12	Amount B. Amount 1E from Schedule 443 Yukon Corporation Tax Calculation.
+1	Part1_sf/ID_A_B_C_D_sf	Amt_C		numeric	12	Amount C. Subtotal. Amount A minus amount B.
+1	Part1_sf/ID_A_B_C_D_sf	Amt_D		numeric	12	Amount D. Taxable income from line 360 of the T2 return.
+1	Part1_sf/Deduct_sf	Amt_1		numeric	12	Line 1. Amount B.
+1	Part1_sf/Deduct_sf/ID_2_sf	Amt_2		numeric	12	Line 2. Aggregate investment income from line 440 of the T2 Return.
+1	Part1_sf/Deduct_sf	Amt_FB		numeric	12	Foreign business income tax credit deductible at line 636 of the T2 return.
+1	Part1_sf/Deduct_sf	Amt_3		numeric	12	Line 3. Foreign business income tax credit deductible at line 636 of the T2 return multiplied by 4.
+1	Part1_sf/Deduct_sf	Amt_E_1		numeric	12	Amount E. Subtotal. Add lines 1, 2, and 3. Instance 1.
+1	Part1_sf/Deduct_sf	Amt_E_2		numeric	12	Amount E. Instance 2.
+1	Part1_sf/Deduct_sf	Amt_F		numeric	12	Amount F. Subtotal. Amount D minus amount E.
+1	Part1_sf/ID_G_sf	Amt_Lesser_A_B		numeric	12	The lesser of amounts A and B.
+1	Part1_sf/ID_G_sf	Amt_Inc_for_YK		numeric	12	Taxable income for Yukon. Instance 1.
+1	Part1_sf/ID_G_sf	Amt_Inc_all_Prov		numeric	12	Taxable income for all provinces. Instance 1.
+1	Part1_sf/ID_G_sf	Amt_G		numeric	12	Amount G. The lesser of amounts A and B multiplied by the result of the taxable income for Yukon, divided by the taxable income for all provinces. Instance 1.
+1	Part1_sf/ID_G_sf	AmountG_Inst2		numeric	12	Amount G. Instance 2.
+1	Part1_sf/ID_G_sf	Nbr_Day_bfr2021		numeric	3	Number of days in the tax year before January 1, 2021.
+1	Part1_sf/ID_G_sf	Nbr_Day_inTxYr_1		numeric	3	Number of days in the tax year.
+1	Part1_sf/ID_G_sf	Amount_H		numeric	12	Amount H. Amount G multiplied by the result of number of days in the tax year before January 1, 2021 divided by the number of days in the tax year, multiplied by 0.5%.
+1	Part1_sf/ID_I_sf	Amt_C_F		numeric	12	The lesser of amounts C and F.
+1	Part1_sf/ID_I_sf	Amt_Inc_for_YK		numeric	12	Taxable income for Yukon. Instance 2.
+1	Part1_sf/ID_I_sf	Amt_Inc_all_Prov		numeric	12	Taxable income for all provinces. Instance 2.
+1	Part1_sf/ID_I_sf	Amt_I		numeric	12	Amount I. The lesser of amounts C and F multiplied by the result of the taxable income for Yukon, divided by the taxable income for all provinces, multiply by 9.5%.
+1	Part1_sf/ID_J_sf	Amt_J		numeric	12	Amount J. Yukon manufacturing and processing profits tax credit. Amount H plus amount I. Enter amount J on line 677 of Schedule 5.

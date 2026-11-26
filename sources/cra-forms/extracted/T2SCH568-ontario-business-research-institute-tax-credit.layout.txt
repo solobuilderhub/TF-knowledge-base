@@ -1,0 +1,99 @@
+                                                                                                                                                                       Schedule 568
+                                                                                                                                                                              Code 0903
+
+                                                                                                                                                                         Protected B
+                                                                                                                                                                       when completed
+
+Name of corporation   Ontario Business-Research Institute Tax Credit                                                                                             Tax year-end
+                                     (2009 and later tax years)
+
+                                                                                                   Business number
+
+                                                                                                                                                                 Year  Month Day
+
+· Use this schedule to claim the Ontario business-research institute tax credit (OBRITC) under section 97 of the Taxation Act, 2007 (Ontario).
+· The OBRITC is a 20% refundable tax credit based on qualified expenditures incurred in Ontario under an eligible contract with an eligible research
+
+   institute (ERI).
+
+· A list of eligible research institutes and the applicable ERI codes for eligible contracts can be found on our web site. Go to canada.ca/opct and
+
+   select "business-research institute tax credit" under "Claiming the credits".
+
+· The criteria for a corporation to be eligible for the OBRITC include the eligibility requirements in Part 1 of this schedule.
+· The annual qualified expenditure limit is $20 million. If a corporation is associated with other corporations at any time in the calendar year, the
+
+   $20 million limit must be allocated among the associated corporations.
+
+· Qualifying corporations are defined in subsection 97(3) of the Taxation Act, 2007 (Ontario).
+· For each eligible contract, you must complete a separate Schedule 569, Ontario Business-Research Institute Tax Credit Contract Information.
+· Keep the eligible contract to support your claim. Do not submit the contract with the T2 Corporation Income Tax Return.
+· To claim the OBRITC, include the following with the T2 Corporation Income Tax Return:
+
+     ­ a completed copy of this schedule
+     ­ a completed copy of Schedule 569 for each eligible contract
+
+Part 1 ­ Eligibility
+
+1. Did the corporation, for the tax year, carry on business in Ontario through a permanent establishment in Ontario?. . . . . . . 100 Yes                              No
+
+2. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario)? . . . . . . . . . . . . . . 105 Yes                        No
+
+If you answered no to question 1 or yes to question 2, the corporation is not eligible for the OBRITC.
+
+Part 2 ­ Qualified expenditure limit for the tax year
+
+Was the corporation associated at any time in the tax year with another corporation? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200 Yes           No
+
+If the corporation answered no at line 200, enter $20,000,000 on line 205. If the corporation answered yes at
+line 200, complete Part 3 and enter on line 205 the expenditure limit allocated to the corporation in column
+310 in Part 3.
+
+Qualified expenditure limit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 205
+
+If the tax year is 51 weeks or more, enter amount from line 205 on line 210.
+
+If the tax year of the filing corporation is less than 51 weeks, complete the following proration calculation:
+
+Line 205              × days in the tax year = . . . . . . . . . . . . . . . . . . . . . .                                                                    A
+
+                      365
+
+Qualified expenditure limit for the tax year (amount from line 205 or amount A, whichever applies) . . . . . . . . . . . . . . . . . . . 210
+
+T2 SCH 568 E (21)     (Ce formulaire est disponible en français.)                                                                                Page 1 of 2
+                                                                                                                               Protected B when completed
+
+   Part 3 ­ Allocation of the $20 million expenditure limit between associated corporations
+
+Use this part to allocate the $20 million expenditure limit to the filing corporation and all its associated corporations for each of their tax years ending in the
+calendar year. See subsection 38(4) of Ontario Regulation 37/09 for expenditure limit allocation rules for associated corporations. Attach additional schedules
+if you need more space.
+
+                   Name of all associated corporations, including the filing corporation          Business Number                                                Expenditure limit
+                         (include the associated corporations that have a tax year        (enter "NR" if corporation is not                                           allocated
+                                           that ends in the calendar year)
+                                                                                                       registered)                                                       310
+                                                             300
+                                                                                                            305
+
+                                                                                                     Total expenditure limit (cannot exceed $20 million) 315
+  Enter the expenditure limit allocated to the corporation on line 205 in Part 2.
+
+   Part 4 ­ Calculation of the Ontario business-research institute tax credit
+
+Total number of eligible contracts used to determine the OBRITC for this tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+
+Total qualified expenditures for all eligible contracts identified on line 400 for this tax year
+(total of amounts on line 310 in Part 3 of each Schedule 569) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 405
+
+Qualified expenditure limit for the tax year (amount from line 210 in Part 2) . . . . . . . . . . . . . . . . . . . . . . . .  B
+
+Qualified expenditures for the OBRITC for the tax year (amount from line 405 or amount B, whichever is less) . . . . . . . . . . . . . 410
+
+Ontario business-research institute tax credit (line 410 multiplied by 20%) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     C
+
+Enter amount C on line 470 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+T2 SCH 568 E (21)                                                                                                                                                Page 2 of 2
+

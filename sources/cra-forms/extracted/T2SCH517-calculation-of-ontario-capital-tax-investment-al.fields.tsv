@@ -1,0 +1,47 @@
+page	part	field	line	kind	digits	speak
+1	DeductionSection_Sub/DeductionTable/Row1	Cell1		text		
+1	DeductionSection_Sub/DeductionTable/Row1	Cell2		numeric		
+1	DeductionSection_Sub/DeductionTable/Row1	Cell3		numeric		
+1	DeductionSection_Sub/DeductionTable/Row1	Cell4		numeric		
+1	DeductionSection_Sub/DeductionTable/Row1	Cell5		numeric		Investment allowance. Column B multiplied by Column C divided by Column D.
+1	DeductionSection_Sub/DeductionTable/Row2	Cell1		text		
+1	DeductionSection_Sub/DeductionTable/Row2	Cell2		numeric		
+1	DeductionSection_Sub/DeductionTable/Row2	Cell3		numeric		
+1	DeductionSection_Sub/DeductionTable/Row2	Cell4		numeric		
+1	DeductionSection_Sub/DeductionTable/Row2	Cell5		numeric		Investment allowance. Column B multiplied by Column C divided by Column D.
+1	DeductionSection_Sub/DeductionTable/Row3	Cell1		text		
+1	DeductionSection_Sub/DeductionTable/Row3	Cell2		numeric		
+1	DeductionSection_Sub/DeductionTable/Row3	Cell3		numeric		
+1	DeductionSection_Sub/DeductionTable/Row3	Cell4		numeric		
+1	DeductionSection_Sub/DeductionTable/Row3	Cell5		numeric		Investment allowance. Column B multiplied by Column C divided by Column D.
+1	DeductionSection_Sub/DeductionTable/Row4	Cell1		text		
+1	DeductionSection_Sub/DeductionTable/Row4	Cell2		numeric		
+1	DeductionSection_Sub/DeductionTable/Row4	Cell3		numeric		
+1	DeductionSection_Sub/DeductionTable/Row4	Cell4		numeric		
+1	DeductionSection_Sub/DeductionTable/Row4	Cell5		numeric		Investment allowance. Column B multiplied by Column C divided by Column D.
+1	DeductionSection_Sub/DeductionTable/Row5	Cell1		text		
+1	DeductionSection_Sub/DeductionTable/Row5	Cell2		numeric		
+1	DeductionSection_Sub/DeductionTable/Row5	Cell3		numeric		
+1	DeductionSection_Sub/DeductionTable/Row5	Cell4		numeric		
+1	DeductionSection_Sub/DeductionTable/Row5	Cell5		numeric		Investment allowance. Column B multiplied by Column C divided by Column D.
+1	DeductionSection_Sub/DeductionTable/Row6	Cell1		text		
+1	DeductionSection_Sub/DeductionTable/Row6	Cell2		numeric		
+1	DeductionSection_Sub/DeductionTable/Row6	Cell3		numeric		
+1	DeductionSection_Sub/DeductionTable/Row6	Cell4		numeric		
+1	DeductionSection_Sub/DeductionTable/Row6	Cell5		numeric		Investment allowance. Column B multiplied by Column C divided by Column D.
+1	DeductionSection_Sub/DeductionTable/Row7	Cell1		text		
+1	DeductionSection_Sub/DeductionTable/Row7	Cell2		numeric		
+1	DeductionSection_Sub/DeductionTable/Row7	Cell3		numeric		
+1	DeductionSection_Sub/DeductionTable/Row7	Cell4		numeric		
+1	DeductionSection_Sub/DeductionTable/Row7	Cell5		numeric		Investment allowance. Column B multiplied by Column C divided by Column D.
+1	DeductionSection_Sub/DeductionTable/Row8	Cell1		text		
+1	DeductionSection_Sub/DeductionTable/Row8	Cell2		numeric		
+1	DeductionSection_Sub/DeductionTable/Row8	Cell3		numeric		
+1	DeductionSection_Sub/DeductionTable/Row8	Cell4		numeric		
+1	DeductionSection_Sub/DeductionTable/Row8	Cell5		numeric		Investment allowance. Column B multiplied by Column C divided by Column D.
+1	DeductionSection_Sub	TotalColB_Amount		numeric		Total. Column B. Share of capital stock or long-term debt.
+1	DeductionSection_Sub	TotalColE_Amount		numeric		Total. Column E. Investment allowance. Column B multiplied by Column C divided by Column D.
+1	DeductionSection_Sub/Footnote1_Sub	OnTaxable_Amount1		numeric		Ontario taxable income. If the provincial or territorial jurisdiction entered on line 750 of the T2 return is multiple, enter the amount allocated to Ontario taxable income.
+1	DeductionSection_Sub/Footnote1_Sub	Taxable_Amount2		numeric		Taxable income. If the provincial or territorial jurisdiction entered on line 750 of the T2 return is multiple, enter the taxable income amount.
+1	DeductionSection_Sub/Footnote1_Sub	Total_Amount		numeric		Ontario taxable income divided by taxable income.
+1	DeductionSection_Sub/OnAllocationFactor_Sub	Total_AmountF		numeric		Amount F. Ontario allocation factor. If the provincial or territorial jurisdiction on line 750 of the T2 return is Ontario, enter 1. If the provincial or territorial jurisdiction on line 750 of the T2 return is multiple, enter the result of Ontario taxable income divided by taxable income.

@@ -1,0 +1,7 @@
+line	caption
+105	Amount C × Number of days in the current tax year =
+230	Short year
+210	Number of days in the period that starts on the first day of the short year and ends on the day before the start of the current tax year
+365	minus line 210 = G
+320	Total of line 220 for all applicable short years multiplied by 10%
+340	Ontario regional opportunities investment tax credit (amount K or L, whichever is less)

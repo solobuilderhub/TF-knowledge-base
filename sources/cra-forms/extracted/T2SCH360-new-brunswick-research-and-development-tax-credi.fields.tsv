@@ -1,0 +1,63 @@
+page	part	field	line	kind	digits	speak
+1		CorporationName		text		
+1	TaxYearEnd	DateField		text		Taxation year end. 4 digits for year. 2 digits for month and 2 digits for day.
+1	Line106	LineA_Number	106	numeric	12	Line 106. Amount uppercase A. Total eligible expenditures for R&D made in the current year.
+1	Line121	LineB_Number	121	numeric	12	Line 121. Amount uppercase B. Refundable current-year credit earned. Amount uppercase A multiplied by 15%.
+1	Line131	Amount_a_Number	131	numeric	12	Line 131. Amount lowercase a. Refundable credit allocated to a corporation that is a member of a partnership.
+1	Line141	Amount_b_Number	141	numeric	12	Line 141. Amount lowercase b. Refundable credit allocated to a corporation that is a beneficiary under a trust.
+1	LineC	LineC_Number		numeric	12	Amount C. Subtotal. Amount lowercase a plus amount lowercase b. Instance 1.
+1	LineC	LineC_Number2		numeric	12	Amount C. Subtotal. Amount lowercase a plus amount lowercase b. Instance 2.
+1	Line190	LineD_Number	190	numeric	12	Line 190. Amount D. Total New Brunswick refundable R&D tax credit. Amount uppercase B plus amount C. Enter amount D on line 597 of Schedule 5, Tax Calculation Supplementary, Corporations.
+1		BusinessNumber_		text		Business Number. 9 digits, 2 letters, and 4 digits.
+2	Calculation1_Table/Table1/Row1	Cell2	700	numeric	12	Line 700. Amount of New Brunswick R&D tax credit you originally calculated for the property you acquired, or the original user's tax credit where you acquired the property from a non-arm's-length party. Row 1.
+2	Calculation1_Table/Table1/Row1	Cell3	710	numeric	12	Line 710. Amount calculated using the New Brunswick R&D tax credit rate on the date of acquisition, or the original user's date of acquisition, on either the proceeds of disposition, if sold in an arm's-length transaction, or the fair market value of the property, in any other case. Row 1.
+2	Calculation1_Table/Table1/Row1	Cell4		numeric	12	Amount from column 700 or 710, whichever is less. Row 1.
+2	Calculation1_Table/Table1/Row2	Cell2	700	numeric	12	Line 700. Amount of New Brunswick R&D tax credit you originally calculated for the property you acquired, or the original user's tax credit where you acquired the property from a non-arm's-length party. Row 2.
+2	Calculation1_Table/Table1/Row2	Cell3	710	numeric	12	Line 710. Amount calculated using the New Brunswick R&D tax credit rate on the date of acquisition, or the original user's date of acquisition, on either the proceeds of disposition, if sold in an arm's-length transaction, or the fair market value of the property, in any other case. Row 2.
+2	Calculation1_Table/Table1/Row2	Cell4		numeric	12	Amount from column 700 or 710, whichever is less. Row 2.
+2	Calculation1_Table/Table1/Row3	Cell2	700	numeric	12	Line 700. Amount of New Brunswick R&D tax credit you originally calculated for the property you acquired, or the original user's tax credit where you acquired the property from a non-arm's-length party. Row 3.
+2	Calculation1_Table/Table1/Row3	Cell3	710	numeric	12	Line 710. Amount calculated using the New Brunswick R&D tax credit rate on the date of acquisition, or the original user's date of acquisition, on either the proceeds of disposition, if sold in an arm's-length transaction, or the fair market value of the property, in any other case. Row 3.
+2	Calculation1_Table/Table1/Row3	Cell4		numeric	12	Amount from column 700 or 710, whichever is less. Row 3.
+2	Calculation1_Table/Table1/Row4	Cell2	700	numeric	12	Line 700. Amount of New Brunswick R&D tax credit you originally calculated for the property you acquired, or the original user's tax credit where you acquired the property from a non-arm's-length party. Row 4.
+2	Calculation1_Table/Table1/Row4	Cell3	710	numeric	12	Line 710. Amount calculated using the New Brunswick R&D tax credit rate on the date of acquisition, or the original user's date of acquisition, on either the proceeds of disposition, if sold in an arm's-length transaction, or the fair market value of the property, in any other case. Row 4.
+2	Calculation1_Table/Table1/Row4	Cell4		numeric	12	Amount from column 700 or 710, whichever is less. Row 4.
+2	Calculation1_Table/Table1/Row5	Cell2	700	numeric	12	Line 700. Amount of New Brunswick R&D tax credit you originally calculated for the property you acquired, or the original user's tax credit where you acquired the property from a non-arm's-length party. Row 5.
+2	Calculation1_Table/Table1/Row5	Cell3	710	numeric	12	Line 710. Amount calculated using the New Brunswick R&D tax credit rate on the date of acquisition, or the original user's date of acquisition, on either the proceeds of disposition, if sold in an arm's-length transaction, or the fair market value of the property, in any other case. Row 5.
+2	Calculation1_Table/Table1/Row5	Cell4		numeric	12	Amount from column 700 or 710, whichever is less. Row 5.
+2	Calculation1_Table	LineE_Number		numeric	12	Amount E. Subtotal. Total of column amount from column 700 or 710, whichever is less. Enter amount E on line N on page 3.
+3	Calculation2_Table/Table2/Row1	Cell2		numeric		Column F. Line 720. The rate the transferee used to determine its New Brunswick R&D tax credit for eligible expenditures under a subsection 127(13) agreement. Row 1.
+3	Calculation2_Table/Table2/Row1	Cell3		numeric	12	Column G. Line 730. The proceeds of disposition of the property if you dispose of it to a person at arm's length; or, in any other case, the fair market value of the property at conversion or disposition. Row 1.
+3	Calculation2_Table/Table2/Row1	Cell4		numeric	12	Column H. Line 740. The amount, if any, already provided for in calculation 1 (where only part of the cost of a property is transferred under a subsection 127(13) agreement). Row 1.
+3	Calculation2_Table/Table2/Row2	Cell2		numeric		Column F. Line 720. The rate the transferee used to determine its New Brunswick R&D tax credit for eligible expenditures under a subsection 127(13) agreement. Row 2.
+3	Calculation2_Table/Table2/Row2	Cell3		numeric	12	Column G. Line 730. The proceeds of disposition of the property if you dispose of it to a person at arm's length; or, in any other case, the fair market value of the property at conversion or disposition. Row 2.
+3	Calculation2_Table/Table2/Row2	Cell4		numeric	12	Column H. Line 740. The amount, if any, already provided for in calculation 1 (where only part of the cost of a property is transferred under a subsection 127(13) agreement). Row 2.
+3	Calculation2_Table/Table2/Row3	Cell2		numeric		Column F. Line 720. The rate the transferee used to determine its New Brunswick R&D tax credit for eligible expenditures under a subsection 127(13) agreement. Row 3.
+3	Calculation2_Table/Table2/Row3	Cell3		numeric	12	Column G. Line 730. The proceeds of disposition of the property if you dispose of it to a person at arm's length; or, in any other case, the fair market value of the property at conversion or disposition. Row 3.
+3	Calculation2_Table/Table2/Row3	Cell4		numeric	12	Column H. Line 740. The amount, if any, already provided for in calculation 1 (where only part of the cost of a property is transferred under a subsection 127(13) agreement). Row 3.
+3	Calculation2_Table/Table2/Row4	Cell2		numeric		Column F. Line 720. The rate the transferee used to determine its New Brunswick R&D tax credit for eligible expenditures under a subsection 127(13) agreement. Row 4.
+3	Calculation2_Table/Table2/Row4	Cell3		numeric	12	Column G. Line 730. The proceeds of disposition of the property if you dispose of it to a person at arm's length; or, in any other case, the fair market value of the property at conversion or disposition. Row 4.
+3	Calculation2_Table/Table2/Row4	Cell4		numeric	12	Column H. Line 740. The amount, if any, already provided for in calculation 1 (where only part of the cost of a property is transferred under a subsection 127(13) agreement). Row 4.
+3	Calculation2_Table/Table2/Row5	Cell2		numeric		Column F. Line 720. The rate the transferee used to determine its New Brunswick R&D tax credit for eligible expenditures under a subsection 127(13) agreement. Row 5.
+3	Calculation2_Table/Table2/Row5	Cell3		numeric	12	Column G. Line 730. The proceeds of disposition of the property if you dispose of it to a person at arm's length; or, in any other case, the fair market value of the property at conversion or disposition. Row 5.
+3	Calculation2_Table/Table2/Row5	Cell4		numeric	12	Column H. Line 740. The amount, if any, already provided for in calculation 1 (where only part of the cost of a property is transferred under a subsection 127(13) agreement). Row 5.
+3	Calculation2_Table2/Table3/Row1	Cell2		numeric	12	Column I. Amount determined by the formula (Column F multiplied by Column G) minus Column H. Row 1.
+3	Calculation2_Table2/Table3/Row1	Cell3		numeric	12	Column J. Line 750. New Brunswick R&D tax credit earned by the transferee for the eligible expenditures that were transferred. Row 1.
+3	Calculation2_Table2/Table3/Row1	Cell4		numeric	12	Column K. Amount from column I or J, whichever is less. Row 1.
+3	Calculation2_Table2/Table3/Row2	Cell2		numeric	12	Column I. Amount determined by the formula (Column F multiplied by Column G) minus Column H. Row 2.
+3	Calculation2_Table2/Table3/Row2	Cell3		numeric	12	Column J. Line 750. New Brunswick R&D tax credit earned by the transferee for the eligible expenditures that were transferred. Row 2.
+3	Calculation2_Table2/Table3/Row2	Cell4		numeric	12	Column K. Amount from column I or J, whichever is less. Row 2.
+3	Calculation2_Table2/Table3/Row3	Cell2		numeric	12	Column I. Amount determined by the formula (Column F multiplied by Column G) minus Column H. Row 3.
+3	Calculation2_Table2/Table3/Row3	Cell3		numeric	12	Column J. Line 750. New Brunswick R&D tax credit earned by the transferee for the eligible expenditures that were transferred. Row 3.
+3	Calculation2_Table2/Table3/Row3	Cell4		numeric	12	Column K. Amount from column I or J, whichever is less. Row 3.
+3	Calculation2_Table2/Table3/Row4	Cell2		numeric	12	Column I. Amount determined by the formula (Column F multiplied by Column G) minus Column H. Row 4.
+3	Calculation2_Table2/Table3/Row4	Cell3		numeric	12	Column J. Line 750. New Brunswick R&D tax credit earned by the transferee for the eligible expenditures that were transferred. Row 4.
+3	Calculation2_Table2/Table3/Row4	Cell4		numeric	12	Column K. Amount from column I or J, whichever is less. Row 4.
+3	Calculation2_Table2/Table3/Row5	Cell2		numeric	12	Column I. Amount determined by the formula (Column F multiplied by Column G) minus Column H. Row 5.
+3	Calculation2_Table2/Table3/Row5	Cell3		numeric	12	Column J. Line 750. New Brunswick R&D tax credit earned by the transferee for the eligible expenditures that were transferred. Row 5.
+3	Calculation2_Table2/Table3/Row5	Cell4		numeric	12	Column K. Amount from column I or J, whichever is less. Row 5.
+3	Calculation2_Table2	LineL_Number		numeric	12	Amount L. Subtotal of Column K. Enter Amount L on line O below.
+3	Calculation3/LineM	LineM_Number	760	numeric	12	Line 760. Amount M. Corporation's share of the recapture of New Brunswick R&D tax credit. Enter amount M on line P below.
+3	Part3/LineN	LineN_Number		numeric	12	Amount N. Recaptured New Brunswick R&D tax credit for calculation 1 from Amount E on page 2.
+3	Part3/LineO	LineO_Number		numeric	12	Amount O. Recaptured New Brunswick R&D tax credit for calculation 2 from Amount L above.
+3	Part3/LineP	LineP_Number		numeric	12	Amount P. Recaptured New Brunswick R&D tax credit for calculation 3 from Amount M above.
+3	Part3/LineQ	LineQ_Number		numeric	12	Amount Q. Total recapture of New Brunswick R&D tax credit (total of Amounts N, O, and P). Enter amount Q on line 573 of Schedule 5.

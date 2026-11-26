@@ -1,0 +1,54 @@
+page	part	field	line	kind	digits	speak
+1	Ident_bar_sf	Corp_name		text		Name of corporation
+1	Ident_bar_sf	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident_bar_sf/Tax_y_e	Tax_year_end		text		Tax year end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_Header_sf/P1_Ln_100_rdo	Yes	100	check		Line 100. Did the corporation, for the tax year, carry on business in Ontario through a permanent establishment in Ontario? Yes.
+1	Part1_Header_sf/P1_Ln_100_rdo	No	100	check		Line 100. Did the corporation, for the tax year, carry on business in Ontario through a permanent establishment in Ontario? No.
+1	Part1_Header_sf/P1_Ln105_rdo	Yes	105	check		Line 105. Was the corporation exempt from tax for the tax year under Part 3 of the Taxation Act, 2007, Ontario? Yes.
+1	Part1_Header_sf/P1_Ln105_rdo	No	105	check		Line 105. Was the corporation exempt from tax for the tax year under Part 3 of the Taxation Act, 2007, Ontario? No.
+1	P2_Header_sf/P2_Ln200_rdo	Option1	200	check		Line 200. Was the corporation associated at any time in the tax year with another corporation? Yes.
+1	P2_Header_sf/P2_Ln200_rdo	Option2	200	check		Line 200. Was the corporation associated at any time in the tax year with another corporation? No.
+1	P2_Header_sf	P2_Ln205_inpt	205	numeric	12	Line 205. Qualified expenditure limit. Instance 1.
+1	P2_Header_sf	P2_Ln205_inpt	205	numeric	12	Line 205. Instance 2.
+1	P2_Header_sf	P2_amountA_inpt		numeric	12	Amount A. Amount from line 205 multiplied by the number of days in the tax year divided by 365.
+1	P2_Header_sf	P2_Ln210_inpt	210	numeric	12	Line 210. Qualified expenditure limit for the tax year. Amount from line 205 or amount A, whichever applies.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	P3_Header_sf/Table1/Row1	Cell1	300	text		Line 300. Name of all associated corporations, including the filing corporation. Include the associated corporations that have a tax year that ends in the calendar year. Row 1.
+2	P3_Header_sf/Table1/Row1	Cell2	305	text		Line 305. Business Number. Enter, NR, if corporation is not registered. Row 1.
+2	P3_Header_sf/Table1/Row1	Cell3	310	numeric	12	Line 310. Expenditure limit allocated. Row 1.
+2	P3_Header_sf/Table1/Row2	Cell1	300	text		Line 300. Name of all associated corporations, including the filing corporation. Include the associated corporations that have a tax year that ends in the calendar year. Row 2.
+2	P3_Header_sf/Table1/Row2	Cell2	305	text		Line 305. Business Number. Enter, NR, if corporation is not registered. Row 2.
+2	P3_Header_sf/Table1/Row2	Cell3	310	numeric	12	Line 310. Expenditure limit allocated. Row 2.
+2	P3_Header_sf/Table1/Row3	Cell1	300	text		Line 300. Name of all associated corporations, including the filing corporation. Include the associated corporations that have a tax year that ends in the calendar year. Row 3.
+2	P3_Header_sf/Table1/Row3	Cell2	305	text		Line 305. Business Number. Enter, NR, if corporation is not registered. Row 3.
+2	P3_Header_sf/Table1/Row3	Cell3	310	numeric	12	Line 310. Expenditure limit allocated. Row 3.
+2	P3_Header_sf/Table1/Row4	Cell1	300	text		Line 300. Name of all associated corporations, including the filing corporation. Include the associated corporations that have a tax year that ends in the calendar year. Row 4.
+2	P3_Header_sf/Table1/Row4	Cell2	305	text		Line 305. Business Number. Enter, NR, if corporation is not registered. Row 4.
+2	P3_Header_sf/Table1/Row4	Cell3	310	numeric	12	Line 310. Expenditure limit allocated. Row 4.
+2	P3_Header_sf/Table1/Row5	Cell1	300	text		Line 300. Name of all associated corporations, including the filing corporation. Include the associated corporations that have a tax year that ends in the calendar year. Row 5.
+2	P3_Header_sf/Table1/Row5	Cell2	305	text		Line 305. Business Number. Enter, NR, if corporation is not registered. Row 5.
+2	P3_Header_sf/Table1/Row5	Cell3	310	numeric	12	Line 310. Expenditure limit allocated. Row 5.
+2	P3_Header_sf/Table1/Row6	Cell1	300	text		Line 300. Name of all associated corporations, including the filing corporation. Include the associated corporations that have a tax year that ends in the calendar year. Row 6.
+2	P3_Header_sf/Table1/Row6	Cell2	305	text		Line 305. Business Number. Enter, NR, if corporation is not registered. Row 6.
+2	P3_Header_sf/Table1/Row6	Cell3	310	numeric	12	Line 310. Expenditure limit allocated. Row 6.
+2	P3_Header_sf/Table1/Row7	Cell1	300	text		Line 300. Name of all associated corporations, including the filing corporation. Include the associated corporations that have a tax year that ends in the calendar year. Row 7.
+2	P3_Header_sf/Table1/Row7	Cell2	305	text		Line 305. Business Number. Enter, NR, if corporation is not registered. Row 7.
+2	P3_Header_sf/Table1/Row7	Cell3	310	numeric	12	Line 310. Expenditure limit allocated. Row 7.
+2	P3_Header_sf/Table1/Row8	Cell1	300	text		Line 300. Name of all associated corporations, including the filing corporation. Include the associated corporations that have a tax year that ends in the calendar year. Row 8.
+2	P3_Header_sf/Table1/Row8	Cell2	305	text		Line 305. Business Number. Enter, NR, if corporation is not registered. Row 8.
+2	P3_Header_sf/Table1/Row8	Cell3	310	numeric	12	Line 310. Expenditure limit allocated. Row 8.
+2	P3_Header_sf/Table1/Row9	Cell1	300	text		Line 300. Name of all associated corporations, including the filing corporation. Include the associated corporations that have a tax year that ends in the calendar year. Row 9.
+2	P3_Header_sf/Table1/Row9	Cell2	305	text		Line 305. Business Number. Enter, NR, if corporation is not registered. Row 9.
+2	P3_Header_sf/Table1/Row9	Cell3	310	numeric	12	Line 310. Expenditure limit allocated. Row 9.
+2	P3_Header_sf/Table1/Row10	Cell1	300	text		Line 300. Name of all associated corporations, including the filing corporation. Include the associated corporations that have a tax year that ends in the calendar year. Row 10.
+2	P3_Header_sf/Table1/Row10	Cell2	305	text		Line 305. Business Number. Enter, NR, if corporation is not registered. Row 10.
+2	P3_Header_sf/Table1/Row10	Cell3	310	numeric	12	Line 310. Expenditure limit allocated. Row 10.
+2	P3_Header_sf	P3_Ln315_inpt	315	numeric	12	Line 315. Total expenditure limit. Cannot exceed $20 million.
+2	P4_Heater_sf	P4_Ln400_inpt	400	numeric	12	Line 400. Total number of eligible contracts used to determine the Ontario business-research institute tax credit for this tax year.
+2	P4_Heater_sf	P4_Ln405_inpt	405	numeric	12	Line 405. Total qualified expenditures for all eligible contracts identified on line 400 for this tax year. Total of amounts on line 310 in Part 3 of each Schedule 569.
+2	P4_Heater_sf	P4_amountB_inpt		numeric	12	Amount B. Qualified expenditure limit for the tax year. Amount from line 210 in Part 2.
+2	P4_Heater_sf	P4_Ln410_inpt	410	numeric	12	Line 410. Qualified expenditures for the Ontario business-research institute tax credit for the tax year. Amount from line 405 or B, whichever is less.
+2	P4_Heater_sf	P4_AmountC_inpt		numeric	12	Amount C. Ontario business-research institute tax credit. Line 410 multiplied by 20%.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		

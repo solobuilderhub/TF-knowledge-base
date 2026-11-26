@@ -1,0 +1,108 @@
+Corporation name        Prince Edward Island Corporate Investment Tax Credit                                                                                                               Schedule 321
+                                         (2018 and later taxation years)                                                                                                                          Code 2001
+
+                                                                                                                Business number                                                                 Protected B
+                                                                                                                                                                                           when completed
+
+                                                                                                                                                                                       Tax year end
+                                                                                                                                                                                    Year Month Day
+
+· For use by corporations who have acquired qualified property and wish to reduce Prince Edward Island tax payable. Qualified property is machinery and
+
+  equipment prescribed for the purposes of paragraph (b) of the definition "qualified property" in subsection 127(9) of the federal Income Tax Act. The capital
+  cost of qualified property is determined without reference to subsection 13(7.1) of the federal Income Tax Act.
+
+· The qualified property has to be used by the corporation in Prince Edward Island primarily for the purpose of manufacturing or processing of goods for sale or
+
+  lease. Property leased by the corporation to a lessee for this purpose (other than a person exempt from tax under section 149 of the federal Income Tax Act)
+  may also qualify for the credit. Manufacturing or processing is defined in subsection 125.1(3) of the federal Income Tax Act and includes qualified activities as
+  defined by Regulation 5202 of the federal Income Tax Regulations.
+
+· The credit may be renounced but must include all current year credits; partial renouncements are not permitted. The renouncement must be filed on or before
+
+  the filing date of the federal T2 Corporation Income Tax Return.
+
+· The credit is eligible for a seven year carry-forward and a three year carry-back
+
+· Use this schedule to show a credit transfer following an amalgamation or wind-up of a subsidiary as described under subsections 87(1) and 88(1) of the
+
+  federal Income Tax Act. This schedule can also be used to show the credit allocated from a trust or a partnership.
+
+· File one completed copy of this schedule with your T2 Corporation Income Tax Return.
+
+     Part 1 ­ Qualified property (acquired in current taxation year) eligible for the credit
+
+            101         Description of qualified property                                                                                                      102                      103
+                                                                                                                                                       Acquisition date             Capital cost
+Capital cost allowance                                                                                                                                Year Month Day
+      class number
+
+                        Total capital cost (attach an additional schedule if space is insufficient)                                                                                               A
+
+Part 2 ­ Calculation of total credit available and credit available for carry-forward
+
+Credit at end of preceding taxation year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   B
+
+Credit expired after seven taxation years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+
+Credit at beginning of taxation year (amount B minus line 104). . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105                                        
+
+Credit transferred on amalgamation or wind-up of subsidiary. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+
+Current year credit earned:. . . . . . . . . . . . . . . . . . . . Amount A  × 10% = 120
+
+Credit allocated from a partnership. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+Credit allocated from a trust . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+
+                        Subtotal (add lines 110, 120, 130 and 140)                                                                                                                                C
+
+Total credit available (add line 105 and amount C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                D
+
+Credit renounced . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+
+Credit claimed in the current year (enter on line 530 in Part 2 of Schedule 5) . . . . . . . . . . . . . . . . . . 160
+
+Credit carried back to preceding taxation year(s) (complete Part 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                  E
+
+                        Subtotal (add line 150, line 160 and amount E)                                                                                                                            F
+
+Closing balance (amount D minus amount F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+
+T2 SCH 321 E (21)       (Ce formulaire est disponible en français.)                                                                                   Page 1 of 2
+                                                                                        Protected B when completed
+
+Part 3 ­ Request for carryback of credit
+
+                                 Year  Month Day
+
+ 1st preceding taxation year                      ....................................  Credit to be applied 901
+2nd preceding taxation year                       ....................................  Credit to be applied 902
+3rd preceding taxation year                       ....................................  Credit to be applied 903
+
+                                                                    Total (add lines 901, 902 and 903) (Enter on line E in Part 2)                    G
+
+Part 4 ­ Analysis of credit available for carryforward by year of origin
+
+                              Year of origin (earliest year first)                                                                  Credit available
+                                       Year Month Day
+
+7th previous tax year ending on                   ........................................................
+
+6th previous tax year ending on                   ........................................................
+
+5th previous tax year ending on                   ........................................................
+
+4th previous tax year ending on                   ........................................................
+
+3rd previous tax year ending on                   ........................................................
+
+2nd previous tax year ending on                   ........................................................
+
+1st previous tax year ending on                   ........................................................
+
+Current tax year ending on                        ........................................................
+
+                                                                    Total of credit available (equals line 200 in Part 2)                             H
+
+                                                                                                                                    Page 2 of 2
+

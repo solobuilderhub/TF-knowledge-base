@@ -1,0 +1,118 @@
+page	part	field	line	kind	digits	speak
+1	Ident_bar	Corp_name		text		Corporation's name.
+1	Ident_bar	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident_bar/Tax_y-e	DateYYYYMMDD_Comb		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_content/Part1_table/Row3	Cell1	101	text		Line 101. Capital cost allowance class number. Row 1.
+1	Part1_content/Part1_table/Row3	Cell2	113	text		Line 113. Description of qualified property. Row 1.
+1	Part1_content/Part1_table/Row3	Cell3	114	choice		Line 114. RST-exempt property. Row 1.
+1	Part1_content/Part1_table/Row3/Cell4	Cell3	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+1	Part1_content/Part1_table/Row3	Cell5	103	numeric	12	Line 103. Capital cost. Row 1.
+1	Part1_content/Part1_table/Row4	Cell1	101	text		Line 101. Capital cost allowance class number. Row 2.
+1	Part1_content/Part1_table/Row4	Cell2	113	text		Line 113. Description of qualified property. Row 2.
+1	Part1_content/Part1_table/Row4	Cell3	114	choice		Line 114. RST-exempt property. Row 2.
+1	Part1_content/Part1_table/Row4/Cell4	Cell3	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+1	Part1_content/Part1_table/Row4	Cell5	103	numeric	12	Line 103. Capital cost. Row 2.
+1	Part1_content/Part1_table/Row5	Cell1	101	text		Line 101. Capital cost allowance class number. Row 3.
+1	Part1_content/Part1_table/Row5	Cell2	113	text		Line 113. Description of qualified property. Row 3.
+1	Part1_content/Part1_table/Row5	Cell3	114	choice		Line 114. RST-exempt property. Row 3.
+1	Part1_content/Part1_table/Row5/Cell4	Cell3	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+1	Part1_content/Part1_table/Row5	Cell5	103	numeric	12	Line 103. Capital cost. Row 3.
+1	Part1_content/Part1_table/Row6	Cell1	101	text		Line 101. Capital cost allowance class number. Row 4.
+1	Part1_content/Part1_table/Row6	Cell2	113	text		Line 113. Description of qualified property. Row 4.
+1	Part1_content/Part1_table/Row6	Cell3	114	choice		Line 114. RST-exempt property. Row 4.
+1	Part1_content/Part1_table/Row6/Cell4	Cell3	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+1	Part1_content/Part1_table/Row6	Cell5	103	numeric	12	Line 103. Capital cost. Row 4.
+1	Part1_content/Part1_table/Row7	Cell1	101	text		Line 101. Capital cost allowance class number. Row 5.
+1	Part1_content/Part1_table/Row7	Cell2	113	text		Line 113. Description of qualified property. Row 5.
+1	Part1_content/Part1_table/Row7	Cell3	114	choice		Line 114. RST-exempt property. Row 5.
+1	Part1_content/Part1_table/Row7/Cell4	Cell3	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+1	Part1_content/Part1_table/Row7	Cell5	103	numeric	12	Line 103. Capital cost. Row 5.
+1	Part1_content/Part1_table/Row8	Cell1	101	text		Line 101. Capital cost allowance class number. Row 6.
+1	Part1_content/Part1_table/Row8	Cell2	113	text		Line 113. Description of qualified property. Row 6.
+1	Part1_content/Part1_table/Row8	Cell3	114	choice		Line 114. RST-exempt property. Row 6.
+1	Part1_content/Part1_table/Row8/Cell4	Cell4	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 6.
+1	Part1_content/Part1_table/Row8	Cell5	103	numeric	12	Line 103. Capital cost. Row 6.
+1	Part1_content/Part1_table/Row10	Cell1	101	text		Line 101. Capital cost allowance class number. Row 7.
+1	Part1_content/Part1_table/Row10	Cell2	113	text		Line 113. Description of qualified property. Row 7.
+1	Part1_content/Part1_table/Row10	Cell3	114	choice		Line 114. RST-exempt property. Row 7.
+1	Part1_content/Part1_table/Row10/Cell4	Cell3	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 7.
+1	Part1_content/Part1_table/Row10	Cell5	103	numeric	12	Line 103. Capital cost. Row 7.
+1	Part1_content/Part1_table/Row12	Cell1	101	text		Line 101. Capital cost allowance class number. Row 8.
+1	Part1_content/Part1_table/Row12	Cell2	113	text		Line 113. Description of qualified property. Row 8.
+1	Part1_content/Part1_table/Row12	Cell3	114	choice		Line 114. RST-exempt property. Row 8.
+1	Part1_content/Part1_table/Row12/Cell4	Cell3	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 8.
+1	Part1_content/Part1_table/Row12	Cell5	103	numeric	12	Line 103. Capital cost. Row 8.
+1	Part1_content/Part1_table/Row13	Cell1	101	text		Line 101. Capital cost allowance class number. Row 9.
+1	Part1_content/Part1_table/Row13	Cell2	113	text		Line 113. Description of qualified property. Row 9.
+1	Part1_content/Part1_table/Row13	Cell3	114	choice		Line 114. RST-exempt property. Row 9.
+1	Part1_content/Part1_table/Row13/Cell4	Cell3	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 9.
+1	Part1_content/Part1_table/Row13	Cell5	103	numeric	12	Line 103. Capital cost. Row 9.
+1	Part1_content/Amount_A	Total_inpt		numeric	12	Capital cost. Total
+1	Part1_content/Line_109	Input_109	115	numeric	12	Line 115. Portion of total capital cost related to Real Sales Tax-exempt property acquired in the current tax year.
+1	Part1_content/Line_112	Input_112	112	numeric	12	Line 112. Portion of total capital cost related to qualified property, other than Real Sales Tax-exempt property, acquired in the current tax year.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Part2_content/Amount_A	Input_A		numeric	12	Amount A. Unused credit at the end of the previous tax year.
+2	Part2_content/Line_104	Input_104	104	numeric	12	Line 104. Credit expired after 10 tax years.
+2	Part2_content/Line_105	Input1_105	105	numeric	12	Line 105. Unused credit at the beginning of this tax year. Amount A minus line 104. Instance 1.
+2	Part2_content/Line_105	Input2_105	105	numeric	12	Line 105. Instance 2.
+2	Part2_content/Line_110	Input_110	110	numeric	12	Line 110. Credit transferred on an amalgamation or the wind-up of a subsidiary.
+2	Part2_content/Line_121	Input1_121	115	numeric	12	Line 115 from Part 1.
+2	Part2_content/Line_121	Input2_121	118	numeric	12	Line 118. Line 115 from part 1 multiplied by 1 percent.
+2	Part2_content/Line_123	Input1_123	112	numeric	12	Line 112 from Part 1.
+2	Part2_content/Line_123	Input2_123	123	numeric	12	Line 123. Line 112 from part 1 multiplied by 8 percent.
+2	Part2_content/Line_130	Input_130	130	numeric	12	Line 130. Credit allocated from a partnership, other than Real Sales Tax-exempt property.
+2	Part2_content/Line_131	Input_131	131	numeric	12	Line 131. Credit allocated from a partnership. Real Sales Tax-exempt property.
+2	Part2_content/Line_140	Input_140	140	numeric	12	Line 140. Credit allocated from a trust, other than Real Sales Tax-exempt property.
+2	Part2_content/Line_141	Input_141	141	numeric	12	Line 141. Credit allocated from a trust. Real Sales Tax-exempt property
+2	Part2_content/Amount_B	Input_B		numeric	12	Amount B. Subtotal. Add lines 118, 123, 130, 131, 140, and 141.
+2	Part2_content/Amount_150	Input_150	150	numeric	12	Line 150. Credit renounced.
+2	Part2_content/Amount_C	Input1_C		numeric	12	Amount C. Total credit earned in the current tax year. Amount B minus line 150. Instance 1.
+2	Part2_content/Amount_C	Input2_C		numeric	12	Amount C. Instance 2.
+2	Part2_content/Line_D	Input_D		numeric	12	Amount D. Total credit available for the current tax year. Add lines 105, 110, and amount C. Instance 1.
+2	Part2_content/Line_160	Input_160	160	numeric	12	Line 160. Non-refundable credit claimed in the current tax year. Manitoba tax otherwise payable or amount D, whichever is less. Enter this amount on line 605 of Schedule 5.
+2	Part2_content/Amount_E	Input1_E		numeric	12	Amount D. Instance 2.
+2	Part2_content/Amount_E	Input2_E		numeric	12	Manitoba tax otherwise payable.
+2	Part2_content/Amount_E	Input3_E		numeric	12	Amount E. Amount D minus Manitoba tax otherwise payable.
+2	Part2_content/Line165	Input_165	165	numeric	12	Line 165. Portion of amount B related to qualified property, other than Real Sales Tax-exempt property.
+2	Part2_content/Amount_F	Input3_F		numeric	12	Amount F. Line 165 minus line 150.
+2	Part2_content/Line_149	Input_G		numeric	12	Amount G. Line 165 multiplied by ⅞.
+2	Part2_content/Line_125	Input_125	125	numeric	12	Line 125. Refundable credit claimed in the current tax year. Amount E, F, or G, whichever is least. Enter this amount on line 621 of Schedule 5.
+2	Part2_content/Amount_I	Input_I		numeric	12	Amount H. Credit carried back to previous tax years. Complete Part 3.
+2	Part2_content/Amount_J	Input1_J		numeric	12	Amount I. Subtotal. Add lines 160, 125, and amount H. Instance 1.
+2	Part2_content/Amount_J	Input2_J		numeric	12	Amount I. Instance 2.
+2	Part2_content/Line_200	Input_200	200	numeric	12	Line 200. Closing balance for carryforward. Amount D minus amount I.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	Part3_content/Line_901/Date_1ty	P3_Date1_Comb		text		Tax year in which to apply the credit. First previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part3_content/Line_901	Input_901	901	numeric	12	Line 901. Credit to be applied. First previous tax year.
+3	Part3_content/Line_902/Date_2ty	P3_Date2_Comb		text		Tax year in which to apply the credit. Second previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part3_content/Line_902	Input_902	902	numeric	12	Line 902. Credit to be applied. Second previous tax year.
+3	Part3_content/Line_903/Date_3ty	P3_Date3_Comb		text		Tax year in which to apply the credit. Third previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part3_content/Line_903	Input_903	903	numeric	12	Line 903. Credit to be applied. Third previous tax year.
+3	Part3_content/Amount_K	Input_K		numeric	12	Amount J. Credit to be applied. Total. Enter at amount H in Part 2.
+3	Part4_content/Year10/Date_yr10	P4_Date10_Comb		text		Year of origin. Tenth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part4_content/Year10	Input_yr10		numeric	12	Credit available for carryforward. Tenth previous tax year.
+3	Part4_content/Year9/Date_yr9	P4_Date9_Comb		text		Year of origin. Ninth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part4_content/Year9	Input_yr9		numeric	12	Credit available for carryforward. Ninth previous tax year.
+3	Part4_content/Year8/Date_yr8	P4_Date8_Comb		text		Year of origin. Eighth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part4_content/Year8	Input_yr8		numeric	12	Credit available for carryforward. Eighth previous tax year.
+3	Part4_content/Year7/Date__yr7	P4_Date7_Comb		text		Year of origin. Seventh previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part4_content/Year7	Input_yr7		numeric	12	Credit available for carryforward. Seventh previous tax year.
+3	Part4_content/Year6/Date_yr6	P4_Date6_Comb		text		Year of origin. Sixth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part4_content/Year6	Input_yr6		numeric	12	Credit available for carryforward. Sixth previous tax year.
+3	Part4_content/Year5/Date_yr5	P4_Date5_Comb		text		Year of origin. Fifth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part4_content/Year5	Input_yr5		numeric	12	Credit available for carryforward. Fifth previous tax year.
+3	Part4_content/Year4/Date_yr4	P4_Date4_Comb		text		Year of origin. Fourth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part4_content/Year4	Input_yr4		numeric	12	Credit available for carryforward. Fourth previous tax year.
+3	Part4_content/Year3/Date_yr3	P4_Date3_Comb		text		Year of origin. Third previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part4_content/Year3	Input_yr3		numeric	12	Credit available for carryforward. Third previous tax year.
+3	Part4_content/Year2/Date_yr2	P4_Date2_Comb		text		Year of origin. Second previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part4_content/Year2	Input_yr2		numeric	12	Credit available for carryforward. Second previous tax year.
+3	Part4_content/Year1/Date_yr1	P4_Date1_Comb		text		Year of origin. First previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part4_content/Year1	Input_yr1		numeric	12	Credit available for carryforward. First previous tax year.
+3	Part4_content/YearCurr/Date_curr	P4_DateCur_Comb		text		Year of origin. Current tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part4_content/YearCurr	Input_curr		numeric	12	Credit available for carryforward. Current tax year.
+3	Part4_content/Amount_L	Input_L		numeric	12	Amount K. Credit available for carryforward. Total. Equals line 200 in Part 2.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		

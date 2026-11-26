@@ -1,0 +1,40 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Name		text		
+1		BusinessNumber_		text		Business Number. 9 digits, 2 letters, and 4 digits.
+1	Date_Tax_Year_End	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part_1_Box/Line_130_Comb_1st_Part	Line_130_Comb_1st_Part_Fill	130	text		Line 130. For all contracts entered into before August 10, 2007, enter the Ontario Ministry of Revenue ruling reference number. First part of the Ontario Ministry of Revenue ruling reference number.
+1		Line_100_Contact_Person	100	text		Line 100. Name of person to contact for more information.
+1		Line_105_Telephone_Number	105	text		Line 105. Telephone number including area code. 10 digits.
+1		Line_110_Name_ERI	110	text		Line 110. Name of the Eligible Research Institute on the contract.
+1	Line_115_ERI_Code_Fill	Line_115_Comb3	115	text	3	Line 115. Eligible Research Institute code.
+1	Line_120_Date_Contract_Fill	Line_120_Comb	120	text		Line 120. Date of contract. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Line_125_CheckBox_Group	Line_125_CheckBox_EN	125	check		Line 125. If the date on line 120 is before August 10, 2007, was the contract subject to an advanced ruling? Yes.
+1	Line_125_CheckBox_Group	Line_125_CheckBox_EN	125	check		Line 125. If the date on line 120 is before August 10, 2007, was the contract subject to an advanced ruling? No.
+1	Line_130_Comb_2nd_Part	Line_130_Comb_2nd_Part_Fill	130	text		Line 130. For all contracts entered into before August 10, 2007, enter the Ontario Ministry of Revenue ruling reference number. Second part of the Ontario Ministry of Revenue ruling reference number.
+1	Line_135_CheckBox_Group	Line_135_CheckBox_EN	135	check		Line 135. Is the claim filed for an Ontario Business-Research Institute Tax Credit earned through a partnership? Yes.
+1	Line_135_CheckBox_Group	Line_135_CheckBox_EN	135	check		Line 135. Is the claim filed for an Ontario Business-Research Institute Tax Credit earned through a partnership? No.
+1	Line_140_CheckBox_Group	Line_140_CheckBox_EN	140	check		Line 140. If the answer on line 135 is yes, are you a specified member? Yes.
+1	Line_140_CheckBox_Group	Line_140_CheckBox_EN	140	check		Line 140. If the answer on line 135 is yes, are you a specified member? No.
+1		Line_145_Name_Partnership_Fill_Pt_1	145	text		Line 145. If the answer on line 135 is yes, what is the name of the partnership? Part 1.
+1		Line_145_Name_Partnership_Fill_Pt_2	145	text		Line 145. If the answer on line 135 is yes, what is the name of the partnership? Part 2.
+1		Line_150_Fill	150	numeric		Line 150. Enter the corporation's percentage share of the income or loss of the partnership's fiscal period ending in the corporation's tax year.
+2	Line_200_CheckBox_Group	Line_200_CheckBox_EN	200	check		Line 200. Question 1. Did the corporation enter into a contract with an Eligible Research Institute? Yes.
+2	Line_200_CheckBox_Group	Line_200_CheckBox_EN	200	check		Line 200. Question 1. Did the corporation enter into a contract with an Eligible Research Institute? No.
+2	Line_205_CheckBox_Group	Line_205_CheckBox_EN	205	check		Line 205. Question 2. Do the terms of the contract state that the Eligible Research Institute agrees to perform, in Ontario, scientific research and experimental development related to the business carried on in Canada by the corporation? Yes.
+2	Line_205_CheckBox_Group	Line_205_CheckBox_EN	205	check		Line 205. Question 2. Do the terms of the contract state that the Eligible Research Institute agrees to perform, in Ontario, scientific research and experimental development related to the business carried on in Canada by the corporation? No.
+2	Line_210_CheckBox_Group	Line_210_CheckBox_EN	210	check		Line 210. Question 3. Was the corporation entitled to exploit the results of the scientific research and experimental development carried out under the contract? Yes.
+2	Line_210_CheckBox_Group	Line_210_CheckBox_EN	210	check		Line 210. Question 3. Was the corporation entitled to exploit the results of the scientific research and experimental development carried out under the contract? No.
+2	Line_215_CheckBox_Group	Line_215_CheckBox_EN	215	check		Line 215. Question 4. Were the expenditures made by a payment of money by the corporation to the Eligible Research Institute or by a prescribed payment? Yes.
+2	Line_215_CheckBox_Group	Line_215_CheckBox_EN	215	check		Line 215. Question 4. Were the expenditures made by a payment of money by the corporation to the Eligible Research Institute or by a prescribed payment? No.
+2	Line_220_CheckBox_Group	Line_220_CheckBox_EN	220	check		Line 220. Question 5. Were the expenditures incurred in respect of scientific research and experimental development carried on in Ontario by the Eligible Research Institute? Yes.
+2	Line_220_CheckBox_Group	Line_220_CheckBox_EN	220	check		Line 220. Question 5. Were the expenditures incurred in respect of scientific research and experimental development carried on in Ontario by the Eligible Research Institute? No.
+2	Line_225_CheckBox_Group	Line_225_CheckBox_EN	225	check		Line 225. Question 6. Are the expenditures identified in subparagraph 37(1)(a)(i), (i.1) or (ii) of the federal Income Tax Act and would they also qualify as qualified expenditures, as defined in subsection 127(9) of the federal Act, other than prescribed types of expenditures and certain salaries or wages? Yes.
+2	Line_225_CheckBox_Group	Line_225_CheckBox_EN	225	check		Line 225. Question 6. Are the expenditures identified in subparagraph 37(1)(a)(i), (i.1) or (ii) of the federal Income Tax Act and would they also qualify as qualified expenditures, as defined in subsection 127(9) of the federal Act, other than prescribed types of expenditures and certain salaries or wages? No.
+2	Line_230_CheckBox_Group	Line_230_CheckBox_EN	230	check		Line 230. Question 7. Were the expenditures incurred by the corporation for purposes of scientific research and experimental development related to the business carried on in Canada by the corporation? Yes.
+2	Line_230_CheckBox_Group	Line_230_CheckBox_EN	230	check		Line 230. Question 7. Were the expenditures incurred by the corporation for purposes of scientific research and experimental development related to the business carried on in Canada by the corporation? No.
+2		Line_300_Fill	300	numeric	12	Line 300. Qualified expenditures incurred in the tax year. Instance 1.
+2		Line_A_Line_300_Fill	300	numeric	12	Line 300. Qualified expenditures incurred in the tax year. Instance 2.
+2		Line_A_Percent_Line_150_Fill		numeric		Percentage on line 150 in Part 1.
+2		Line_A_Total_Fill		numeric	12	Amount A. Line 300 multiplied by percentage on line 150 in Part 1.
+2		Line_305_Fill	305	numeric	12	Line 305. Number of days in this tax year that the corporation was not connected to the Eligible Research Institute identified on line 110 in Part 1.
+2		Line_310_Fill	310	numeric	12	Line 310. Amount B. Qualified expenditures for this contract for the tax year. Line 300 or amount A, whichever applies, multiplied by line 305, and then the result divided by the number of days in the tax year. Enter this amount on line 405 of Schedule 568, Ontario Business-Research Institute Tax Credit.

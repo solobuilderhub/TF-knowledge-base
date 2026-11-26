@@ -6,6 +6,10 @@ Two authorities drive the build. **Do not invent field IDs — lift them from th
 
 ---
 
+> **The federal inventory below is the v1 scoping note from the start of the
+> project, kept for its reasoning.** The current inventory of every T2 form, its
+> bucket, and what is built is `forms/registry.tsv` and `forms/STATUS.md`.
+
 ## A. Federal T2 — v1 schedule set
 
 ### Always present

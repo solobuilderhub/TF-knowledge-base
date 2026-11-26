@@ -1,0 +1,18 @@
+line	caption
+100	Name of person to contact for more information
+110	Name of the ERI on the contract 120 Date of contract Year Month Day
+115	ERI code
+130	For all contracts entered into before August 10, 2007, enter the Ontario Ministry of Revenue – ruling reference number
+135	Is the claim filed for an OBRITC earned through a partnership?
+140	If the answer on line 135 is yes, are you a specified member?
+145	If the answer on line 135 is yes, what is the name of the partnership?
+150	Enter the corporation's percentage share of the income or loss of the partnership's fiscal period ending in the corporation's tax year
+200	Contract: 2 No 1. Did the corporation enter into a contract with an ERI?
+205	Do the terms of the contract state that the ERI agrees to perform, in Ontario, scientific research and experimental 2 No 2 No development (SR&ED) related to the business carried on in Canada by the corporation?
+210	Was the corporation entitled to exploit the results of the SR&ED carried out under the contract?
+215	or by a prescribed payment?
+220	Were the expenditures incurred in respect of SR&ED carried on in Ontario by the ERI?
+230	Were the expenditures incurred by the corporation for purposes of SR&ED related to the business carried on in Canada by the corporation?
+300	Qualified expenditures incurred in the tax year
+305	Number of days in this tax year that the corporation was not connected to the ERI identified on line 110 in Part 1
+310	(Line 300 or amount A, whichever applies) × line 305 =

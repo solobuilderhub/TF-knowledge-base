@@ -1,0 +1,38 @@
+page	part	field	line	kind	digits	speak
+1	IncomeTable/Row1	Cell2		text		
+1	IncomeTable/Row1	Cell3		text		
+1	IncomeTable/Row1	Cell4		numeric	12	
+1	IncomeTable/Row2	Cell2		text		
+1	IncomeTable/Row2	Cell3		text		
+1	IncomeTable/Row2	Cell4		numeric	12	
+1	IncomeTable/Row3	Cell2		text		
+1	IncomeTable/Row3	Cell3		text		
+1	IncomeTable/Row3	Cell4		numeric	12	
+1	IncomeTable/Row4	Cell2		text		
+1	IncomeTable/Row4	Cell3		text		
+1	IncomeTable/Row4	Cell4		numeric	12	
+1	IncomeTable/Row5	Cell2		text		
+1	IncomeTable/Row5	Cell3		text		
+1	IncomeTable/Row5	Cell4		numeric	12	
+1	IncomeTable/Row6	Cell2		text		
+1	IncomeTable/Row6	Cell3		text		
+1	IncomeTable/Row6	Cell4		numeric	12	
+1	IncomeTable/Row7	Cell2		text		
+1	IncomeTable/Row7	Cell3		text		
+1	IncomeTable/Row7	Cell4		numeric	12	
+1	IncomeTable/Row8	Cell2		text		
+1	IncomeTable/Row8	Cell3		text		
+1	IncomeTable/Row8	Cell4		numeric	12	
+1	IncomeTable/Row9	Cell2		text		
+1	IncomeTable/Row9	Cell3		text		
+1	IncomeTable/Row9	Cell4		numeric	12	
+1	IncomeTable/Row10	Cell2		text		
+1	IncomeTable/Row10	Cell3		text		
+1	IncomeTable/Row10	Cell4		numeric	12	
+1	IncomeTable/Row11	Cell2		text		
+1	IncomeTable/Row11	Cell3		text		
+1	IncomeTable/Row11	Cell4		numeric	12	
+1	IncomeTable/Row12	Cell2		text		
+1	IncomeTable/Row12	Cell3		text		
+1	IncomeTable/Row12	Cell4		numeric	12	
+1	Line410_Sub	Total_Box	410	numeric	12	Line 410. Capital allowance (total of amounts in column 400).

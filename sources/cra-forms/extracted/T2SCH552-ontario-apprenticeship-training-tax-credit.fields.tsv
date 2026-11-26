@@ -1,0 +1,101 @@
+page	part	field	line	kind	digits	speak
+1	CorpInfo_sf	NameOfCorp_TextField		text		
+1	CorpInfo_sf	BusinessNumber		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	CorpInfo_sf	DateYYYYMMDD_BordersAll		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_sf	NameOfContact	110	text		Line 110. Name of person to contact for more information.
+1	Part1_sf	PhoneNumber	120	text		Line 120. Telephone number. 10 digits.
+1	Part1_sf/Part1_Line150_sf/RadioButtonGroup	Option1	150	check		Line 150. Is the claim filed for an apprenticeship training tax credit earned through a partnership? Yes.
+1	Part1_sf/Part1_Line150_sf/RadioButtonGroup	Option2	150	check		Line 150. Is the claim filed for an apprenticeship training tax credit earned through a partnership? No.
+1	Part1_sf/Part1_Line160_sf	Part1_Line160_Box	160	text		Line 160. If you answered yes to the question at line 150, enter the name of the partnership.
+1	Part1_sf/Part1_Line170_sf	Numeric_Percent_Underlined	170	numeric		Line 170. Enter the percentage of the partnership's Apprenticeship Training Tax Credit allocated to the corporation.
+1	Part2_sf/Part2_Line200_sf/RadioButtonGroup	Option1	200	check		Line 200. Did the corporation have a permanent establishment in Ontario in the tax year? Yes.
+1	Part2_sf/Part2_Line200_sf/RadioButtonGroup	Option2	200	check		Line 200. Did the corporation have a permanent establishment in Ontario in the tax year? No.
+1	Part2_sf/Part2_Line210_sf/RadioButtonGroup	Option1	210	check		Line 210. Was the corporation exempt from tax under Part 3 of the Taxation Act, 2007 (Ontario)? Yes.
+1	Part2_sf/Part2_Line210_sf/RadioButtonGroup	Option2	210	check		Line 210. Was the corporation exempt from tax under Part 3 of the Taxation Act, 2007 (Ontario)? No.
+2	Part3_sf/Part3_Line300_sf	Part3_Line300_Box	300	numeric	12	Line 300. Corporation's salaries and wages paid in the previous tax year.
+2	Part3_sf/Part3_Line312_sf	Numeric_Percent_Underlined_312	312	numeric		Line 312. For eligible expenditures incurred after March 26, 2009 for an apprenticeship program that began before April 24, 2015. Specified percentage: If line 300 is $400,000 or less, enter 45%. If line 300 is $600,000 or more, enter 35%. If line 300 is more than $400,000 and less than $600,000, enter the percentage using the following formula: 45% minus the result of 10% multiplied by result of (amount on line 300 minus 400,000) divided by 200,000.
+2	Part3_sf/Part3_Line314_sf	Numeric_Percent_Underlined_314	314	numeric		Line 314. For eligible expenditures incurred for an apprenticeship program that began after April 23, 2015. Specified percentage: If line 300 is $400,000 or less, enter 30%. If line 300 is $600,000 or more, enter 25%. If line 300 is more than $400,000 and less than $600,000, enter the percentage using the following formula: 30% minus the result of 5% multiplied by result of (amount on line 300 minus 400,000) divided by 200,000.
+2	Part4_sf/Table1/Row1	Cell1		text		
+2	Part4_sf/Table1/Row1	Cell2		text		
+2	Part4_sf/Table1/Row1	Cell3		text		
+2	Part4_sf/Table1/Row2	Cell1		text		
+2	Part4_sf/Table1/Row2	Cell2		text		
+2	Part4_sf/Table1/Row2	Cell3		text		
+2	Part4_sf/Table1/Row3	Cell1		text		
+2	Part4_sf/Table1/Row3	Cell2		text		
+2	Part4_sf/Table1/Row3	Cell3		text		
+2	Part4_sf/Table1/Row4	Cell1		text		
+2	Part4_sf/Table1/Row4	Cell2		text		
+2	Part4_sf/Table1/Row4	Cell3		text		
+2	Part4_sf/Table1/Row5	Cell1		text		
+2	Part4_sf/Table1/Row5	Cell2		text		
+2	Part4_sf/Table1/Row5	Cell3		text		
+2	Part4_sf/Table2/Row1	Cell1		text		
+2	Part4_sf/Table2/Row1	Cell2		text		
+2	Part4_sf/Table2/Row1	Cell3		text		
+2	Part4_sf/Table2/Row1	Cell4		text		
+2	Part4_sf/Table2/Row2	Cell1		text		
+2	Part4_sf/Table2/Row2	Cell2		text		
+2	Part4_sf/Table2/Row2	Cell3		text		
+2	Part4_sf/Table2/Row2	Cell4		text		
+2	Part4_sf/Table2/Row3	Cell1		text		
+2	Part4_sf/Table2/Row3	Cell2		text		
+2	Part4_sf/Table2/Row3	Cell3		text		
+2	Part4_sf/Table2/Row3	Cell4		text		
+2	Part4_sf/Table2/Row4	Cell1		text		
+2	Part4_sf/Table2/Row4	Cell2		text		
+2	Part4_sf/Table2/Row4	Cell3		text		
+2	Part4_sf/Table2/Row4	Cell4		text		
+2	Part4_sf/Table2/Row5	Cell1		text		
+2	Part4_sf/Table2/Row5	Cell2		text		
+2	Part4_sf/Table2/Row5	Cell3		text		
+2	Part4_sf/Table2/Row5	Cell4		text		
+3	Part4_sf/Table3/Row1	Cell1		numeric		
+3	Part4_sf/Table3/Row1	Cell2		numeric		
+3	Part4_sf/Table3/Row1	Cell3		numeric	12	
+3	Part4_sf/Table3/Row2	Cell1		numeric		
+3	Part4_sf/Table3/Row2	Cell2		numeric		
+3	Part4_sf/Table3/Row2	Cell3		numeric	12	
+3	Part4_sf/Table3/Row3	Cell1		numeric		
+3	Part4_sf/Table3/Row3	Cell2		numeric		
+3	Part4_sf/Table3/Row3	Cell3		numeric	12	
+3	Part4_sf/Table3/Row4	Cell1		numeric		
+3	Part4_sf/Table3/Row4	Cell2		numeric		
+3	Part4_sf/Table3/Row4	Cell3		numeric	12	
+3	Part4_sf/Table3/Row5	Cell1		numeric		
+3	Part4_sf/Table3/Row5	Cell2		numeric		
+3	Part4_sf/Table3/Row5	Cell3		numeric	12	
+3	Part4_sf/Table4/Row1	Cell1		numeric	12	
+3	Part4_sf/Table4/Row1	Cell2		numeric	12	
+3	Part4_sf/Table4/Row1	Cell3		numeric	12	
+3	Part4_sf/Table4/Row2	Cell1		numeric	12	
+3	Part4_sf/Table4/Row2	Cell2		numeric	12	
+3	Part4_sf/Table4/Row2	Cell3		numeric	12	
+3	Part4_sf/Table4/Row3	Cell1		numeric	12	
+3	Part4_sf/Table4/Row3	Cell2		numeric	12	
+3	Part4_sf/Table4/Row3	Cell3		numeric	12	
+3	Part4_sf/Table4/Row4	Cell1		numeric	12	
+3	Part4_sf/Table4/Row4	Cell2		numeric	12	
+3	Part4_sf/Table4/Row4	Cell3		numeric	12	
+3	Part4_sf/Table4/Row5	Cell1		numeric	12	
+3	Part4_sf/Table4/Row5	Cell2		numeric	12	
+3	Part4_sf/Table4/Row5	Cell3		numeric	12	
+3	Part4_sf/Table5/Row1	Cell1		numeric	12	
+3	Part4_sf/Table5/Row1	Cell2		numeric	12	
+3	Part4_sf/Table5/Row1	Cell3		numeric	12	
+3	Part4_sf/Table5/Row2	Cell1		numeric	12	
+3	Part4_sf/Table5/Row2	Cell2		numeric	12	
+3	Part4_sf/Table5/Row2	Cell3		numeric	12	
+3	Part4_sf/Table5/Row3	Cell1		numeric	12	
+3	Part4_sf/Table5/Row3	Cell2		numeric	12	
+3	Part4_sf/Table5/Row3	Cell3		numeric	12	
+3	Part4_sf/Table5/Row4	Cell1		numeric	12	
+3	Part4_sf/Table5/Row4	Cell2		numeric	12	
+3	Part4_sf/Table5/Row4	Cell3		numeric	12	
+3	Part4_sf/Table5/Row5	Cell1		numeric	12	
+3	Part4_sf/Table5/Row5	Cell2		numeric	12	
+3	Part4_sf/Table5/Row5	Cell3		numeric	12	
+3	Part4_sf/Part4_LineO_sf	Part4_2_Line500_Box	500	numeric	12	Line 500. Amount O. Ontario apprenticeship training tax credit. Total of amounts in column N.
+3	Part4_sf/Part4_LineP_sf	AmountO		numeric		
+3	Part4_sf/Part4_LineP_sf	Numeric_Percent_Underlined_amount_P		numeric		
+3	Part4_sf/Part4_LineP_sf	Part4_2_LineP_Box		numeric	12	Amount P. Partner's share of the Ontario apprenticeship training tax credit. Amount O multiplied by percentage on line 170 in Part 1.

@@ -1,0 +1,19 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Nm		text		Corporation's name.
+1		BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Prt1_sf/ID_1A_sf	Amt_1A		numeric	12	Amount 1A. Taxable income for Nunavut.
+1	Prt1_sf/NV_Lwr_Tx_Rt_sf	Amt_1B		numeric	12	Amount 1B. Line 400 of the T2 return.
+1	Prt1_sf/NV_Lwr_Tx_Rt_sf	Amt_1C		numeric	12	Amount 1C. Line 405 of the T2 return.
+1	Prt1_sf/NV_Lwr_Tx_Rt_sf	Amt_1D		numeric	12	Amount 1D. Line 428 of the T2 return.
+1	Prt1_sf/NV_Lwr_Tx_Rt_sf	Amt_1E_Inst1		numeric	12	Amount 1E. Amount 1B, 1C or 1D, whichever is the least. Instance 1.
+1	Prt1_sf/ID_1F_1G_sf	Amt_1E_Inst2		numeric	12	Amount 1E. Instance 2.
+1	Prt1_sf/ID_1F_1G_sf	Inc_for_NV		numeric	12	Taxable income for Nunavut.
+1	Prt1_sf/ID_1F_1G_sf	Inc_for_All_prov		numeric	12	Taxable income for all provinces.
+1	Prt1_sf/ID_1F_1G_sf	Amt_1F_Inst1		numeric	12	Amount 1F. Income eligible for the Nunavut lower tax rate. Amount 1E multiplied by the result of taxable income for Nunavut divided by taxable income for all provinces. Instance 1.
+1	Prt1_sf/ID_1F_1G_sf	Amt_1G_inst1		numeric	12	Amount 1G. Income subject to Nunavut higher tax rate. Amount 1A minus amount 1F. Instance 1.
+1	Prt2_sf/ID_2A_sf	Amt_1F_inst3		numeric	12	Amount 1F. Instance 2.
+1	Prt2_sf/ID_2A_sf	Amt_2A		numeric	12	Amount 2A. Nunavut tax at the lower rate. Amount 1F multiplied by 3%.
+1	Prt2_sf/ID_2B_2C_sf	Amt_1G_inst2		numeric	12	Amount 1G. Instance 2.
+1	Prt2_sf/ID_2B_2C_sf	Amt_2B		numeric	12	Amount 2B. Nunavut tax at the higher rate. Amount 1G multiplied by 12%.
+1	Prt2_sf/ID_2B_2C_sf	Amt_2C		numeric	12	Amount 2C. Nunavut tax before credits. Amount 2A plus amount 2B.

@@ -1,0 +1,24 @@
+page	part	field	line	kind	digits	speak
+	form1/Pg1	Corp_Nm		text		Corporation's name.
+	form1/Pg1	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+	form1/Pg1/DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+	form1/Pg1/Prt1_sf/ID_1A_1B_1C_1D_sf	Input_1A		numeric	12	Amount 1A. Canadian manufacturing and processing profits. Line 200 of Schedule 27.
+	form1/Pg1/Prt1_sf/ID_1A_1B_1C_1D_sf	Input_1B		numeric	12	Amount 1B. Amount 1E from Schedule 411.
+	form1/Pg1/Prt1_sf/ID_1A_1B_1C_1D_sf	Input_1C		numeric	12	Amount 1C. Excess. Amount 1A minus amount 1B, if negative enter 0.
+	form1/Pg1/Prt1_sf/ID_1A_1B_1C_1D_sf	Input_1D		numeric	12	Amount 1D. Taxable income. Line 360 of the T2 return.
+	form1/Pg1/Prt1_sf/ID_1E_sf	Input_1E		numeric	12	Amount 1E. Amount 1E from Schedule 411.
+	form1/Pg1/Prt1_sf/ID_1F_1G_sf	Input_1F		numeric	12	Amount 1F. Aggregate investment income. Line 440 of the T2 return.
+	form1/Pg1/Prt1_sf/ID_1F_1G_sf	Input_1G_1		numeric	12	Federal foreign business income tax credit, line 636 of the T2 return.
+	form1/Pg1/Prt1_sf/ID_1F_1G_sf	Amt_1G		numeric	12	Amount 1G. Federal foreign business income tax credit, line 636 of the T2 return multiplied by 4.
+	form1/Pg1/Prt1_sf/ID_1H_1I_1J_sf	Input_1H_1		numeric	12	Amount 1H. Subtotal. Add amounts 1E to 1G. Instance 1.
+	form1/Pg1/Prt1_sf/ID_1H_1I_1J_sf	Input_1H_2		numeric	12	Amount 1H. Instance 2.
+	form1/Pg1/Prt1_sf/ID_1H_1I_1J_sf	Input_1I		numeric	12	Amount 1I. Excess. Amount 1D minus amount 1H, if negative, enter 0.
+	form1/Pg1/Prt1_sf/ID_1H_1I_1J_sf	Input_1J		numeric	12	Amount 1J. Amount 1C or 1I, whichever is less. Instance 1.
+	form1/Pg1/Prt2_sf/ID_2A_sf	Input_1J		numeric	12	Amount 1J. Instance 2.
+	form1/Pg1/Prt2_sf/ID_2A_sf	Input_in_SK		numeric	12	Taxable income earned in Saskatchewan. Instance 1.
+	form1/Pg1/Prt2_sf/ID_2A_sf	Input_all_prov		numeric	12	Taxable income earned in all provinces. Instance 1.
+	form1/Pg1/Prt2_sf/ID_2A_sf	Input_2A		numeric	12	Amount 2A. Amount 1J multiplied by the result of taxable income earned in Saskatchewan divided by taxable income earned in all provinces.
+	form1/Pg1/Prt2_sf/ID_2B_2C_sf	Input_Tx_inc_SK2		numeric	12	Taxable income earned in Saskatchewan. Instance 2.
+	form1/Pg1/Prt2_sf/ID_2B_2C_sf	Input_Tx_inc_allProv2		numeric	12	Taxable income earned in all provinces. Instance 2.
+	form1/Pg1/Prt2_sf/ID_2B_2C_sf	Input_2B		numeric	12	Amount 2B. The result of taxable income earned in Saskatchewan divided by taxable income earned in all provinces multiplied by 2%.
+	form1/Pg1/Prt2_sf/ID_2B_2C_sf	Input_2C		numeric	12	Amount 2C. Saskatchewan manufacturing and processing profits tax reduction. Amount 2A multiplied by amount 2B. Enter amount 2C on line 626 of Schedule 5, Tax Calculation Supplementary – Corporations.

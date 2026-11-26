@@ -1,0 +1,30 @@
+page	part	field	line	kind	digits	speak
+1	GeneralInfo_Sub	Corporation_Name		text		
+1	GeneralInfo_Sub	Business_Number		text		Business Number. 9 digits, 2 letters, and 4 digits.
+1	GeneralInfo_Sub/TaxYear_End_Comb	TaxYear_End		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Table/Row1	Cell1		text		
+1	Table/Row1	Cell2		text		
+1	Table/Row1	Cell3		numeric	12	
+1	Table/Row1	Cell4		numeric	12	
+1	Table/Row2	Cell1		text		
+1	Table/Row2	Cell2		text		
+1	Table/Row2	Cell3		numeric	12	
+1	Table/Row2	Cell4		numeric	12	
+1	Table/Row3	Cell1		text		
+1	Table/Row3	Cell2		text		
+1	Table/Row3	Cell3		numeric	12	
+1	Table/Row3	Cell4		numeric	12	
+1	Table/Row4	Cell1		text		
+1	Table/Row4	Cell2		text		
+1	Table/Row4	Cell3		numeric	12	
+1	Table/Row4	Cell4		numeric	12	
+1	Table/Row5	Cell1		text		
+1	Table/Row5	Cell2		text		
+1	Table/Row5	Cell3		numeric	12	
+1	Table/Row5	Cell4		numeric	12	
+1	Table/Row6	Cell1		text		
+1	Table/Row6	Cell2		text		
+1	Table/Row6	Cell3		numeric	12	
+1	Table/Row6	Cell4		numeric	12	
+1		Total_Amount_Line_450	450	numeric	12	Line 450. Total. Total assets column.
+1		Total_Amount_Line_550	550	numeric	12	Line 550. Total. Total revenue column.

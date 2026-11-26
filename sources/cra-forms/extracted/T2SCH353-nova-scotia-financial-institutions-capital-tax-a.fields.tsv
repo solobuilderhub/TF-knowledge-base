@@ -1,0 +1,38 @@
+page	part	field	line	kind	digits	speak
+1	Table1/Row1	Cell1	200	text		Line 200. Name of each corporation that is a member of the related group. Row 1.
+1	Table1/Row1	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 1.
+1	Table1/Row1	Cell3	400	numeric	12	Line 400. Allocation of basic capital deduction for the year. Row 1.
+1	Table1/Row2	Cell1	200	text		Line 200. Name of each corporation that is a member of the related group. Row 2.
+1	Table1/Row2	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 2.
+1	Table1/Row2	Cell3	400	numeric	12	Line 400. Allocation of basic capital deduction for the year. Row 2.
+1	Table1/Row3	Cell1	200	text		Line 200. Name of each corporation that is a member of the related group. Row 3.
+1	Table1/Row3	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 3.
+1	Table1/Row3	Cell3	400	numeric	12	Line 400. Allocation of basic capital deduction for the year. Row 3.
+1	Table1/Row4	Cell1	200	text		Line 200. Name of each corporation that is a member of the related group. Row 4.
+1	Table1/Row4	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 4.
+1	Table1/Row4	Cell3	400	numeric	12	Line 400. Allocation of basic capital deduction for the year. Row 4.
+1	Table1/Row5	Cell1	200	text		Line 200. Name of each corporation that is a member of the related group. Row 5.
+1	Table1/Row5	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 5.
+1	Table1/Row5	Cell3	400	numeric	12	Line 400. Allocation of basic capital deduction for the year. Row 5.
+1	Table1/Row6	Cell1	200	text		Line 200. Name of each corporation that is a member of the related group. Row 6.
+1	Table1/Row6	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 6.
+1	Table1/Row6	Cell3	400	numeric	12	Line 400. Allocation of basic capital deduction for the year. Row 6.
+1	Table1/Row7	Cell1	200	text		Line 200. Name of each corporation that is a member of the related group. Row 7.
+1	Table1/Row7	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 7.
+1	Table1/Row7	Cell3	400	numeric	12	Line 400. Allocation of basic capital deduction for the year. Row 7.
+1	Table1/Row8	Cell1	200	text		Line 200. Name of each corporation that is a member of the related group. Row 8.
+1	Table1/Row8	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 8.
+1	Table1/Row8	Cell3	400	numeric	12	Line 400. Allocation of basic capital deduction for the year. Row 8.
+1	Table1/Row9	Cell1	200	text		Line 200. Name of each corporation that is a member of the related group. Row 9.
+1	Table1/Row9	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 9.
+1	Table1/Row9	Cell3	400	numeric	12	Line 400. Allocation of basic capital deduction for the year. Row 9.
+1	Table1/Row10	Cell1	200	text		Line 200. Name of each corporation that is a member of the related group. Row 10.
+1	Table1/Row10	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 10.
+1	Table1/Row10	Cell3	400	numeric	12	Line 400. Allocation of basic capital deduction for the year. Row 10.
+1	Table1/Row11	Cell1	200	text		Line 200. Name of each corporation that is a member of the related group. Row 11.
+1	Table1/Row11	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 11.
+1	Table1/Row11	Cell3	400	numeric	12	Line 400. Allocation of basic capital deduction for the year. Row 11.
+1	Table1/Row12	Cell1	200	text		Line 200. Name of each corporation that is a member of the related group. Row 12.
+1	Table1/Row12	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 12.
+1	Table1/Row12	Cell3	400	numeric	12	Line 400. Allocation of basic capital deduction for the year. Row 12.
+1	Line_410_sf	Line410_ipt	410	numeric	12	Line 410. Total.

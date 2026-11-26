@@ -1,0 +1,61 @@
+                                                                                                                                                    SCHEDULE 320
+                                                                                                                                                                           Protected B
+
+                                                                                                                                                                                           when completed
+
+                     PRINCE EDWARD ISLAND MANUFACTURING AND PROCESSING PROFITS TAX CREDIT
+                                                              (2005 and later taxation years)
+
+Name of corporation                                                                                                         Business Number                  Taxation year end
+
+                                                                                                                                                             Year  Month Day
+
+· For use by corporations that maintained a permanent establishment (as defined in Regulation 400 of the federal Income Tax Regulations) in
+  Prince Edward Island at any time in the taxation year and had:
+
+       ­ taxable income earned in the taxation year in Prince Edward Island; and
+       ­ Canadian manufacturing and processing profits, as defined in subsection 125.1(3) of the federal Income Tax Act, earned in the taxation year in
+
+          Prince Edward Island.
+
+· This schedule is a worksheet only and is not required to be filed with the T2 Corporation Income Tax Return.
+
+                     Calculation of Prince Edward Island manufacturing and processing profits tax credit
+
+Canadian manufacturing and processing profits for the year                                                                                   A
+
+from line 200 in Part 9 of Schedule 27 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Deduct:
+
+The least of amounts on lines 400, 405, 410, and 425 of the small                                                                            B
+
+business deduction calculation on page 3 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                                                                                                                C
+
+Amount from line Y in Part 9 of Schedule 27 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     D
+
+Lesser of
+
+C and D              × Taxable income earned in Prince Edward Island                                                                         =                                  E
+
+                        Taxable income earned in all provinces*
+
+                        Number of days in the taxation year
+
+Amount E             ×  before April 1, 2005                                                                                × 8.5% =                                            F
+
+                        Number of days in the taxation year
+
+Note: The Prince Edward Island manufacturing and processing profits tax credit is reduced to 0% for
+          the days in the taxation year that are after March 31, 2005.
+
+Prince Edward Island manufacturing and processing profits tax credit ­ Amount F . . . . . . . . . . . . . . . . . . . . . . . . . .                                             G
+
+                        Enter amount G on line 529 of Schedule 5.
+
+* Includes the territories and the offshore jurisdictions for Nova Scotia and Newfoundland and Labrador.
+
+T2 SCH 320 E (05)    (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca ou au 1-800-959-7775.)
+

@@ -1,0 +1,149 @@
+page	part	field	line	kind	digits	speak
+1	Name_subform	NameofCorp		text		
+1	Name_subform	BusinessNumber		text		Business Number. 9 digits, 2 letters, and 4 digits.
+1	Name_subform/TaxYear_group	TaxYearDate		text		Tax year end. Year. 4 digits. Month. 2 digits. Day. 2 digits.
+1	Part1_subform/Line112_sf	Amount_fld	112	numeric	12	Line 112. Total assets of the corporation at the end of the tax year.
+1	Part1_subform/Line114_sf	Amount_fld	114	numeric	12	Line 114. Share of total assets from partnerships and joint ventures.
+1	Part1_subform/Line116_sf	Amount_fld	116	numeric	12	Line 116. Total assets of associated corporations. Amount from line 450 on Schedule 511.
+1	Part1_subform/TotalAssets_sf	Amount_fld		numeric	12	Total assets. Total of lines 112 to 116.
+1	Part1_subform/Line142_sf	Amount_fld	142	numeric	12	Line 142. Total revenue of the corporation for the tax year.
+1	Part1_subform/Line144_sf	Amount_fld	144	numeric	12	Line 144. Share of total revenue from partnerships and joint ventures.
+1	Part1_subform/Line146_sf	Amount_fld	146	numeric	12	Line 146. Total revenue of associated corporations. Amount from line 550 on Schedule 511.
+1	Part1_subform/TotalRevenue_sf	Amount_fld		numeric	12	Total revenue. Total of lines 142 to 146.
+2	Part2_subform/Line210_sf	Amount_fld	210	numeric	12	Line 210. Net income or loss per financial statements.
+2	Part2_subform/Line220_sf	Amount_fld	220	numeric	12	Line 220. Provision for current income taxes or cost of current income taxes.
+2	Part2_subform/Line222_sf	Amount_fld	222	numeric	12	Line 222. Provision for deferred income taxes, debits, or cost of future income taxes.
+2	Part2_subform/Line224_sf	Amount_fld	224	numeric	12	Line 224. Equity losses from corporations
+2	Part2_subform/Line226_sf	Amount_fld	226	numeric	12	Line 226. Financial statement loss from partnerships and joint ventures.
+2	Part2_subform/Line230_sf	Amount_fld	230	numeric	12	Line 230. Dividends deducted on financial statements, subsection 57(2) of the Ontario Act, excluding dividends paid by credit unions under subsection 137(4.1) of the federal Act.
+2	Part2_subform/Line228_sf	Amount_fld	228	numeric	12	Line 228. Share of adjusted net income of partnerships and joint ventures.
+2	Part2_subform/Line232_sf	Amount_fld	232	numeric	12	Line 232. Total patronage dividends received, not already included in net income or net loss.
+2	Part2_subform/Line282_sf	Amount_fld	282	numeric	12	Line 282. Amount for other addition.
+2	Part2_subform/Line282_sf	text_fld	281	text		Line 281. Specify other addition.
+2	Part2_subform/Line284_sf	text_fld	283	text		Line 283. Specify other addition.
+2	Part2_subform/Line284_sf	Amount_fld	284	numeric	12	Line 284. Amount for other addition.
+2	Part2_subform/SubtotalA_sf	Amount_fld		numeric	12	Subtotal. Line A. Add lines 220 through 284.
+2	Part2_subform/SubtotalA_sf	Amount2_fld		numeric	12	Amount A. Amount from subtotal.
+2	Part2_subform/Line320_sf	Amount_fld	320	numeric	12	Line 320. Provision for recovery of current income taxes or benefit of current income taxes.
+2	Part2_subform/Line322_sf	Amount_fld	322	numeric	12	Line 322. Provision for deferred income taxes, credits, or benefit of future income taxes.
+2	Part2_subform/Line324_sf	Amount_fld	324	numeric	12	Line 324. Equity income from corporations.
+2	Part2_subform/Line326_sf	Amount_fld	326	numeric	12	Line 326. Financial statement income from partnerships and joint ventures.
+2	Part2_subform/Line330_sf	Amount_fld	330	numeric	12	Line 330. Dividends deductible under section 112, section 113, or subsection 138(6) of the federal Act.
+2	Part2_subform/Line332_sf	Amount_fld	332	numeric	12	Line 332. Dividends not taxable under section 83 of the federal Act, from Schedule 3.
+2	Part2_subform/Line340_sf	Amount_fld	340	numeric	12	Line 340. Gain on donation of listed security or ecological gift.
+2	Part2_subform/Line342_sf	Amount_fld	342	numeric	12	Line 342. Accounting gain on transfer of property to a corporation under section 85 or 85.1 of the federal Act.
+2	Part2_subform/Line344_sf	Amount_fld	344	numeric	12	Line 344. Accounting gain on transfer of property to or from a partnership under section 85 or 97 of the federal Act.
+2	Part2_subform/Line346_sf	Amount_fld	346	numeric	12	Line 346. Accounting gain on disposition of property under subsection 13(4), subsection 14(6), or section 44 of the federal Act.
+2	Part2_subform/Line348_sf	Amount_fld	348	numeric	12	Line 348. Accounting gain on a windup under subsection 88(1) of the federal Act or an amalgamation under section 87 of the federal Act.
+2	Part2_subform/Line328_sf	Amount_fld	328	numeric	12	Line 328. Share of adjusted net loss of partnerships and joint ventures.
+2	Part2_subform/Line334_sf	Amount_fld	334	numeric	12	Line 334. Tax payable on dividends under subsection 191.1(1) of the federal Act multiplied by 3.
+2	Part2_subform/Line336_sf	Amount_fld	336	numeric	12	Line 336. Interest deducted or deductible under paragraph 20(1)(c) or (d) of the federal Act, not already included in net income or loss.
+2	Part2_subform/Line338_sf	Amount_fld	338	numeric	12	Line 338. Patronage dividends paid, from Schedule 16, not already included in net income or loss.
+2	Part2_subform/Line382_sf	Amount_fld	382	numeric	12	Line 382. Amount for other deduction.
+2	Part2_subform/Line382_sf	TextField_Underlined_Left	381	text		Line 381. Specify other deduction.
+2	Part2_subform/Line384_sf	TextField_Underlined_Left	383	text		Line 383. Specify other deduction.
+2	Part2_subform/Line384_sf	Amount_fld	384	numeric	12	Line 384. Amount for other deduction.
+2	Part2_subform/Line386_sf	Amount_fld	386	numeric	12	Line 386. Amount for other deduction.
+2	Part2_subform/Line386_sf	TextField_Underlined_Left	385	text		Line 385. Specify other deduction.
+2	Part2_subform/Line388_sf	TextField_Underlined_Left	387	text		Line 387. Specify other deduction.
+2	Part2_subform/Line388_sf	Amount_fld	388	numeric	12	Line 388. Amount for other deduction.
+2	Part2_subform/Line390_sf	Amount_fld	390	numeric	12	Line 390. Amount for other deduction.
+2	Part2_subform/Line390_sf	TextField_Underlined_Left	389	text		Line 389. Specify other deduction.
+2	Part2_subform/SubtotalB_sf	amountG2		numeric	12	Amount B. Amount from subtotal.
+2	Part2_subform/SubtotalB_sf	Amount_fld		numeric	12	Subtotal. Line B. Add lines 320 through 390.
+2	Part2_subform/Line490_sf	Amunt_fld	490	numeric	12	Line 490. Adjusted net income/loss for CMT purposes. Line 210 plus amount A minus amount B.
+3	Part3_subform/Line515_sf	Amount_fld	515	numeric	12	Line 515. Adjusted net income for C M T purposes. Line 490 in Part 2, if positive.
+3	Part3_subform/CMTLoss_sf	Amount_fld		numeric	12	C M T loss available. Amount R from Part 7.
+3	Part3_subform/Line518_sf	Amount_fld	518	numeric	12	Line 518. Adjustment for an acquisition of control.
+3	Part3_subform/LineC_sf	Amount1_fld		numeric	12	Adjusted C M T loss available. C M T loss available minus line 518.
+3	Part3_subform/LineC_sf	Amount2_fld		numeric	12	Amount C. Amount from adjusted C M T loss available.
+3	Part3_subform/Line520_sf	Amount_fld	520	numeric	12	Line 520. Net income subject to C M T calculation. Line 515 minus amount C. If negative, enter 0.
+3	Part3_subform/Line1_sf	Amount1_fld		numeric	12	Amount from line 520. Instance 1.
+3	Part3_subform/Line1_sf	DaysBefore_fld		numeric	3	Number of days in the tax year before July 1, 2010.
+3	Part3_subform/Line1_sf	Days_fld		numeric	3	Number of days in the tax year. Instance 1.
+3	Part3_subform/Line1_sf	Amount2_fld		numeric	12	Amount 1. Amount from line 520 multiplied by number of days in the tax year before July 1, 2010 divided by number of days in the tax year multiplied by 4%.
+3	Part3_subform/Line2_sf	Amount1_fld		numeric	12	Amount from line 520. Instance 2.
+3	Part3_subform/Line2_sf	DaysAfter_fld		numeric	3	Number of days in the tax year after June 30, 2010.
+3	Part3_subform/Line2_sf	Days_fld		numeric	3	Number of days in the tax year. Instance 2.
+3	Part3_subform/Line2_sf	Amount2_fld		numeric	12	Amount 2. Amount from line 520 multiplied by number of days in the tax year after June 30, 2010 divided by number of days in the tax year multiplied by 2.7%.
+3	Part3_subform/Subtotal3_sf	Amount_fld		numeric	12	Amount 3. Subtotal. Amount 1 plus amount 2.
+3	Part3_subform/Line540_sf	Amount_fld	540	numeric	12	Line 540. Gross C M T: amount on line 3 above multiplied by Ontario allocation factor.
+3	Part3_subform/Line550_sf	Amount_fld	550	numeric	12	Line 550. Foreign tax credit for C M T purposes.
+3	Part3_subform/LineD_sf	Amount_fld		numeric	12	Amount D. C M T after foreign tax credit deduction. Line 540 minus line 550. If negative, enter 0.
+3	Part3_subform/OntCorpTax_sf	Amount_fld		numeric	12	Ontario corporate income tax payable before C M T credit. Amount F6 from Schedule 5.
+3	Part3_subform/LineE_sf	Amount_fld		numeric	12	Amount E. Net C M T payable. Amount D minus Ontario corporate income tax payable before C M T credit. If negative, enter 0. Enter amount E on line 278 of Schedule 5, Tax Calculation Supplementary - Corporations, and complete Part 4.
+3	OAF_subform/LineF_sf	Amount_fld		numeric		Amount F. Ontario allocation factor.
+3	OAF_subform/Calc_sf	OntTaxIncome_fld		numeric	12	Ontario taxable income.
+3	OAF_subform/Calc_sf	TaxIncome_fld		numeric		Taxable income.
+3	OAF_subform/Calc_sf	Amount_fld		numeric		Ontario taxable income divided by taxable income.
+4	Part4_subform/LineG_sf	Amount_fld		numeric	12	Amount G. C M T credit carryforward at the end of the previous tax year.
+4	Part4_subform/Line600_sf	Amount_fld	600	numeric	12	Line 600. C M T credit expired.
+4	Part4_subform/Line620_sf	Amount1_fld		numeric	12	C M T credit carryforward at the beginning of the current tax year. Amount G minus Line 600. See note below.
+4	Part4_subform/Line620_sf	Amount2_fld	620	numeric	12	Line 620. Amount from C M T credit carryforward at the beginning of the current tax year.
+4	Part4_subform/Line650_sf	Amount_fld	650	numeric	12	Line 650. C M T credit carryforward balances transferred on an amalgamation or the windup of a subsidiary. See note below.
+4	Part4_subform/LineH_sf	Amount_fld		numeric	12	Amount H. C M T credit available for the tax year. Amount on line 620 plus amount on line 650.
+4	Part4_subform/LineI_sf	Amount_fld		numeric	12	Amount I. C M T credit deducted in the current tax year. Amount P from Part 5.
+4	Part4_subform/LineJ_sf	Amount_fld		numeric	12	Amount J. Subtotal. Amount H minus amount I.
+4	Part4_subform/NetPayable_sf	Amount_fld		numeric	12	Net C M T payable. Amount E from Part 3.
+4	Part4_subform/SATPayable_sf	Amount_fld		numeric	12	Special additional tax payable. Amount O from Part 6 of Schedule 512.
+4	Part4_subform/LineK_sf	Amount1_fld		numeric	12	Subtotal. Line K. Add Net C M T payable and Special additional tax payable.
+4	Part4_subform/LineK_sf	Amount2_fld		numeric	12	Amount K. Amount from subtotal.
+4	Part4_subform/Line670_sf	Amount_fld	670	numeric	12	Line 670. Amount L. C M T credit carryforward at the end of the tax year. Amount J plus amount K.
+4	Part5_subform/LineM_sf	Amount_fld		numeric	12	Amount M. C M T credit available for the tax year. Amount H from Part 4.
+4	Part5_subform/Line1_sf	Amount_fld		numeric	12	Amount 1. Ontario corporate income tax payable before C M T credit. Amount F6 from Schedule 5.
+4	Part5_subform/Line2_sf	Amount_fld		numeric	12	Amount 2. C M T after foreign tax credit deduction. Amount D from Part 3.
+4	Part5_subform/Line3_sf	Amount_fld		numeric	12	Amount 3. Gross C M T. Line 540 from Part 3.
+4	Part5_subform/Line4_sf	Amount_fld		numeric	12	Amount 4. Gross special additional tax. Line 460 from Part 6 of Schedule 512.
+4	Part5_subform/Line5_sf	Amount_fld		numeric	12	Amount 5. The greater of amounts 3 and 4.
+4	Part5_subform/Line6_sf	Amount_fld		numeric	12	Amount 6. Line 2 or line 5, whichever applies.
+4	Part5_subform/LineN_sf	Amount1_fld		numeric	12	Subtotal. Line N. Amount 1 minus Amount 6. If negative, enter 0.
+4	Part5_subform/LineN_sf	Amount2_fld		numeric		Amount N. Amount from subtotal.
+4	Part5_subform/OntarioCorpIncome_sf	Amount_fld		numeric	12	Ontario corporate income tax payable before C M T credit. Amount F6 from Schedule 5.
+4	Part5_subform/TotalRefundable_sf	Amount_fld		numeric	12	Total refundable tax credits excluding Ontario qualifying environmental trust tax credit. Amount J6 minus line 450 from Schedule 5.
+4	Part5_subform/LineO_sf	Amount1_fld		numeric	12	Subtotal. Line O. Ontario corporate income tax payable before C M T credit minus total refundable tax credits excluding Ontario qualifying environmental trust tax credit. If negative, enter 0.
+4	Part5_subform/LineO_sf	Amount2_fld		numeric	12	Amount O. Amount from subtotal.
+4	Part5_subform/LineP_txt	Amount_fld		numeric	12	Amount P. C M T credit deducted in the current tax year. Least of amounts M, N, and O.
+4	Part5_subform/Line675_sf/CMTCredit_grp	CMTCredit_chk	675	check		Line 675. Is the corporation claiming a C M T credit earned before an acquisition of control? Yes. The C M T credit deducted in the current tax year may be restricted. For information on how the deduction may be restricted, see subsections 53(6) and (7) of the Ontario Act.
+4	Part5_subform/Line675_sf/CMTCredit_grp	CMTCredit_chk	675	check		Line 675. Is the corporation claiming a C M T credit earned before an acquisition of control? No.
+5	Part6_subform/Table/Row1	Cell2	680	numeric	12	Line 680. C M T credit balance. Tenth previous tax year.
+5	Part6_subform/Table/Row2	Cell2	681	numeric	12	Line 681. C M T credit balance. Ninth previous tax year.
+5	Part6_subform/Table/Row3	Cell2	682	numeric	12	Line 682. C M T credit balance. Eighth previous tax year.
+5	Part6_subform/Table/Row4	Cell2	683	numeric	12	Line 683. C M T credit balance. Seventh previous tax year.
+5	Part6_subform/Table/Row5	Cell2	684	numeric	12	Line 684. C M T credit balance. Sixth previous tax year.
+5	Part6_subform/Table/Row6	Cell2	685	numeric	12	Line 685. C M T credit balance. Fifth previous tax year.
+5	Part6_subform/Table/Row7	Cell2	686	numeric	12	Line 686. C M T credit balance. Fourth previous tax year.
+5	Part6_subform/Table/Row8	Cell2	687	numeric	12	Line 687. C M T credit balance. Third previous tax year.
+5	Part6_subform/Table/Row9	Cell2	688	numeric	12	Line 688. CMT credit balance. Second previous tax year.
+5	Part6_subform/Table/Row10	Cell2	689	numeric	12	Line 689. C M T credit balance. First previous tax year.
+5	Part6_subform/Table/Row11	Cell2		numeric	12	C M T credit balance. Total. Add lines 680 to 689.
+5	Part7_subform/LineQ_sf	Amount_fld		numeric	12	Amount Q. C M T loss carryforward at the end of the previous tax year.
+5	Part7_subform/Line700_sf	Amount_fld	700	numeric		Line 700. C M T loss expired.
+5	Part7_subform/Line720_sf	Amount_fld		numeric	12	C M T loss carryforward at the beginning of the tax year. See note below. Amount Q minus line 700.
+5	Part7_subform/Line720_sf	Amount2_fld	720	numeric	12	Line 720. Amount from C M T loss carryforward at the beginning of the tax year.
+5	Part7_subform/Line750_sf	Amount_fld	750	numeric	12	Line 750. C M T loss transferred on an amalgamation under section 87 of the federal Act. See note below.
+5	Part7_subform/LineR_sf	Amount_fld		numeric	12	Amount R. C M T loss available. Line 720 plus line 750.
+5	Part7_subform/CMTLoss_sf	Amount_fld		numeric	12	C M T loss deducted against adjusted net income for the tax year. Lesser of line 490, if positive, and line C in Part 3.
+5	Part7_subform/SubtotalS_sf	Amount_fld		numeric	12	Amount S. Subtotal. If negative, enter 0. Amount R minus C M T loss deducted against adjusted net income for the tax year.
+5	Part7_subform/Line760_sf	Amount_fld	760	numeric	12	Line 760. Adjusted net loss for C M T purposes. Amount from line 490 in Part 2, if negative. Enter as a positive amount.
+5	Part7_subform/Line770_sf	Amount_fld	770	numeric	12	Line 770. Amount T. C M T loss carryforward balance at the end of the tax year. Amount S plus line 760.
+6	Part8_subform/Table/Row1	Cell2	810	numeric	12	Line 810. Balance earned in a tax year ending before March 23, 2007. 10th previous tax year.
+6	Part8_subform/Table/Row1	Cell3	820	numeric	12	Line 820. Balance earned in a tax year ending after March 22, 2007. 10th previous tax year.
+6	Part8_subform/Table/Row2	Cell2	811	numeric	12	Line 811. Balance earned in a tax year ending before March 23, 2007. 9th previous tax year.
+6	Part8_subform/Table/Row2	Cell3	821	numeric	12	Line 821. Balance earned in a tax year ending after March 22, 2007. 9th previous tax year.
+6	Part8_subform/Table/Row3	Cell2	812	numeric	12	Line 812. Balance earned in a tax year ending before March 23, 2007. 8th previous tax year.
+6	Part8_subform/Table/Row3	Cell3	822	numeric	12	Line 822. Balance earned in a tax year ending after March 22, 2007. 8th previous tax year.
+6	Part8_subform/Table/Row4	Cell2	813	numeric	12	Line 813. Balance earned in a tax year ending before March 23, 2007. 7th previous tax year.
+6	Part8_subform/Table/Row4	Cell3	823	numeric	12	Line 823. Balance earned in a tax year ending after March 22, 2007. 7th previous tax year.
+6	Part8_subform/Table/Row5	Cell2	814	numeric	12	Line 814. Balance earned in a tax year ending before March 23, 2007. 6th previous tax year.
+6	Part8_subform/Table/Row5	Cell3	824	numeric	12	Line 824. Balance earned in a tax year ending after March 22, 2007. 6th previous tax year.
+6	Part8_subform/Table/Row6	Cell2	815	numeric	12	Line 815. Balance earned in a tax year ending before March 23, 2007. 5th previous tax year.
+6	Part8_subform/Table/Row6	Cell3	825	numeric	12	Line 825. Balance earned in a tax year ending after March 22, 2007. 5th previous tax year.
+6	Part8_subform/Table/Row7	Cell2	816	numeric	12	Line 816. Balance earned in a tax year ending before March 23, 2007. 4th previous tax year.
+6	Part8_subform/Table/Row7	Cell3	826	numeric	12	Line 826. Balance earned in a tax year ending after March 22, 2007. 4th previous tax year.
+6	Part8_subform/Table/Row8	Cell2	817	numeric	12	Line 817. Balance earned in a tax year ending before March 23, 2007. 3rd previous tax year.
+6	Part8_subform/Table/Row8	Cell3	827	numeric	12	Line 827. Balance earned in a tax year ending after March 22, 2007. 3rd previous tax year.
+6	Part8_subform/Table/Row9	Cell2	818	numeric	12	Line 818. Balance earned in a tax year ending before March 23, 2007. 2nd previous tax year.
+6	Part8_subform/Table/Row9	Cell3	828	numeric	12	Line 828. Balance earned in a tax year ending after March 22, 2007. 2nd previous tax year.
+6	Part8_subform/Table/Row11	Cell3	829	numeric	12	Line 829. Balance earned in a tax year ending after March 22, 2007. 1st previous tax year.
+6	Part8_subform/Table/Row12	Cell2		numeric	12	Total. Balance earned in a tax year ending before March 23, 2007. Add lines 810 to 818.
+6	Part8_subform/Table/Row12	Cell3		numeric	12	Total. Balance earned in a tax year ending after March 22, 2007. Add lines 820 to 829.

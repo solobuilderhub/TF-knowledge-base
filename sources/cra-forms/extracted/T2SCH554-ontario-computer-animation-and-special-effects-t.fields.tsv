@@ -1,0 +1,75 @@
+page	part	field	line	kind	digits	speak
+1	info	inpt1		text		Corporation's name.
+1	info	inpt2		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	info	inpt3		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1	inpt110	110	text		Line 110. Name of contact person.
+1	P1	inp120	120	text		Line 120. Telephone number. 10 digits.
+1	P2	inpt200	200	text		Line 200. Certificate of eligibility number.
+1	P2	inpt210	210	text		Line 210. Production title.
+1	P2	inpt220	220	numeric	12	Line 220. Estimated Ontario computer animation and special effects tax credit for this production.
+1	P3/line_300	Option1	300	check		Line 300. Is the corporation a Canadian corporation that performed eligible computer animation and special effects activities for the eligible production during the tax year at a permanent establishment in Ontario? Yes.
+1	P3/line_300	Option2	300	check		Line 300. Is the corporation a Canadian corporation that performed eligible computer animation and special effects activities for the eligible production during the tax year at a permanent establishment in Ontario? No.
+1	P3/line_310	Option1	310	check		Line 310. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007, Ontario? Yes.
+1	P3/line_310	Option2	310	check		Line 310. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007, Ontario? No.
+1	P3/Line_320	Option1	320	check		Line 320. Was the corporation, at any time in the tax year, controlled directly or indirectly, in any manner, by one or more corporations, all or part of whose taxable income is exempt from tax under section 57 of the Corporations Tax Act, Ontario or Part III of the Taxation Act, 2007, Ontario? Yes.
+1	P3/Line_320	Option2	320	check		Line 320. Was the corporation, at any time in the tax year, controlled directly or indirectly, in any manner, by one or more corporations, all or part of whose taxable income is exempt from tax under section 57 of the Corporations Tax Act, Ontario or Part III of the Taxation Act, 2007, Ontario? No.
+1	P3/line_330	Option1	330	check		Line 330. Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation? Yes.
+1	P3/line_330	Option2	330	check		Line 330. Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation? No.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	P4	inpt615	615	numeric	12	Line 615. Qualifying wage amount for salaries and wages the corporation paid to its employees that are directly attributable to eligible computer animation and special effects activities performed in Ontario.
+2	P4/UL/li1	inpt616	616	numeric	12	Line 616. Qualifying remuneration directly related to eligible computer animation and special effects activities performed in Ontario paid to: taxable Canadian corporations, solely owned by an arm's length individual.
+2	P4/UL/li2	inpt618	618	numeric	12	Line 618. Arm's length individuals.
+2	P4/UL/li3	inpt622	622	numeric	12	Line 622. Eligible partnerships.
+2	P4	inpt640	640	numeric	12	Line 640. Amounts paid to a parent corporation for Ontario labour expenditures incurred by it in respect of the wholly-owned subsidiary corporation's eligible computer animation and special effects activities under a reimbursement agreement, effective for a production, if principal photography commenced after March 22, 2007.
+2	P4	inptA		numeric	12	Amount A. Subtotal. Add lines 615, 616, 618, 622 and 640. Instance 1.
+2	P4	inpt2_A		numeric	12	Amount A. Instance 2.
+2	P4	data_650	650	text		Line 650. Name of parent corporation.
+2	P4	inpt660	660	text		Line 660. Business number of parent corporation. 9 digits, 2 letters, and 4 digits.
+2	P4	data_ln670	670	numeric	12	Line 670. Ontario labour expenditures that the, parent, corporation transferred under a reimbursement agreement to a wholly-owned subsidiary corporation.
+2	P4	Data_ln680	680	numeric	12	Line 680. Total Ontario labour expenditures. Amount A minus line 670. If negative, enter 0. Instance 1.
+2	P5	Data_ln700	700	numeric	12	Line 700. Amount of assistance directly attributable to line 680 in Part 4.
+2	P5/Group710	Data_ln710	710	numeric	12	Line 710. Amount of assistance not directly attributable to line 680 in Part 4. Instance 1.
+2	P5	Data_ln720	720	numeric	12	Line 720. Prescribed cost, as defined in subsection 24 (1) of Regulation 37/09 of the Taxation Act, 2007, Ontario. Instance 1.
+2	P5	Data_ln730_1	710	numeric	12	Line 710. Instance 2.
+2	P5	ln_680_data	680	numeric	12	Line 680 in Part 4. Instance 2.
+2	P5	ln_720_data	720	numeric	12	Line 720. Instance 2.
+2	P5	Data_ln730	730	numeric	12	Line 730. Line 710 multiplied by line 680 in Part 4, divided by line 720.
+2	P5	Data_ln540	740	numeric	12	Line 740. Total assistance. Line 700 plus line 730.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	P6	inpt405	405	numeric	12	Line 405. Qualifying wage amount for salaries and wages the corporation paid to its employees that are directly attributable to eligible computer animation and special effects activities performed in Ontario.
+3	P6/UL2/blt1	inpt415	415	numeric	12	Line 415. Qualifying remuneration directly related to eligible computer animation and special effects activities performed in Ontario paid to: taxable Canadian corporations, solely owned by an arm's length individual.
+3	P6/UL2/blt2	inpt425	425	numeric	12	Line 425. Arm's length individuals.
+3	P6/UL2/blt3	inpt435	435	numeric	12	Line 435. Eligible partnerships.
+3	P6	inp445	445	numeric	12	Line 445. Amounts paid to a parent corporation for Ontario labour expenditures incurred by it in respect of the wholly-owned subsidiary corporation's eligible computer animation and special effects activities under a reimbursement agreement, effective for a production, if principal photography commenced after March 22, 2007.
+3	P6	inpt1_B		numeric	12	Amount B. Subtotal. Add lines 405, 415, 425, 435 and 445. Instance 1.
+3	P6	inpt2_B		numeric	12	Amount B. Instance 2.
+3	P6	data_455	455	text		Line 455. Name of parent corporation.
+3	P6	inpt465	465	text		Line 465. Business number of parent corporation. 9 digits, 2 letters, and 4 digits.
+3	P6	inpt475	475	numeric	12	Line 475. Ontario labour expenditures that the, parent, corporation transferred under a reimbursement agreement to a subsidiary wholly-owned corporation.
+3	P6	data_ln670	485	numeric	12	Line 485. Ontario labour expenditures incurred for the previous tax year.
+3	P6	inptC		numeric	12	Amount C. Ontario labour expenditures for the tax year. Amount B minus line 475 plus line 485. Instance 1.
+3	P6	inpt2_C		numeric	12	Amount C. Instance 2.
+3	P6	inp488	488	numeric	12	Line 488. Ontario labour expenditures incurred and claimed for the previous tax year.
+3	P6	inp490	490	numeric	12	Line 490. Total Ontario labour expenditures. Amount C minus line 488. If negative, enter 0.
+3	P7	inpt505	505	numeric	12	Line 505. Amount of directly attributable assistance in respect of amount C in Part 6.
+3	P7	inp510	512	numeric	12	Line 512. Directly attributable assistance in respect of line 488.
+3	P7	inp1_D		numeric	12	Amount D. Directly attributable assistance for the tax year. Line 505 minus line 512. Instance 1.
+3	P7	inp2_D		numeric	12	Amount D. Instance 2.
+3	P7	inp515	515	numeric	12	Line 515. Amount of not directly attributable assistance in respect of amount C in Part 6.
+3	P7	inp522	522	numeric	12	Line 522. Not directly attributable assistance in respect of line 488.
+3	P7	inpE		numeric	12	Amount E. Assistance not directly attributable for the tax year, line 515 minus line 522. Instance 1.
+3	P7	inp525	525	numeric	12	Line 525. Prescribed cost, as defined in subsection 24(1) of Regulation 37/09 of the Taxation Act, 2007 (Ontario). Instance 1.
+3	P7	inp1_535		numeric	12	Amount E. Instance 2.
+3	P7	inp2_535		numeric	12	Amount C in Part 6. Instance 3.
+3	P7	inpt3_535	525	numeric	12	Line 525. Instance 2.
+3	P7	inpt535	535	numeric	12	Line 535. Amount E multiplied by Amount C in Part 6, divided by line 525.
+3	P7	inp545	545	numeric	12	Line 545. Total assistance. Amount D plus line 535.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	P8	inpt601	601	numeric	12	Line 601. Qualifying labour expenditures after April 23, 2015, and before March 26, 2024. Line 680 in Part 4 minus line 740 in Part 5.
+4	P8	inpt602	602	numeric	12	Line 602. Qualifying labour expenditures on or after March 26, 2024. Line 490 from Part 6 minus line 545 from Part 7.
+4	P8	inp611	611	numeric	12	Line 611. Ontario computer animation and special effects tax credit (line 601 or 602 multiplied by 18%.
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		

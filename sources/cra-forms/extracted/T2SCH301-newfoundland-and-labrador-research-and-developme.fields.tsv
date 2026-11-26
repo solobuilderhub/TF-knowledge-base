@@ -1,0 +1,11 @@
+page	part	field	line	kind	digits	speak
+1	CorpInfo_Sub	NameOfCorp_TextField		text		
+1	CorpInfo_Sub	BusinessNumber		text		Business Number. 9 digits, 2 letters, and 4 digits.
+1	CorpInfo_Sub/TaxYearEnd_Date	TaxYearEnd_DateYYYYMMDD_Comb		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Calculation_Sub/Line103_Sub	AmountA_Box	103	numeric	12	Line 103. Amount upper case A. Total eligible expenditures for research and development in the current tax year.
+1	Calculation_Sub/Line120_Sub	AmountB_Box	120	numeric	12	Line 120. Amount upper case B. Current year credit earned (Amount upper case A multiplied by 15%).
+1	Calculation_Sub/Line130_Sub	Amount_a_Box	130	numeric	12	Line 130. Amount lower case a. Credit allocated to the corporation that is a member of a partnership.
+1	Calculation_Sub/Line140_Sub	Amount_b_Box	140	numeric	12	Line 140. Amount lower case b. Credit allocated to the corporation that is a beneficiary under a trust.
+1	Calculation_Sub/AmountC_Sub	Subtotal_Box		numeric	12	Subtotal. Line 130, amount lower case a plus Line 140, amount lower case b.
+1	Calculation_Sub/AmountC_Sub	AmountC_Box		numeric	12	Amount upper case C. Amount from Subtotal.
+1	Calculation_Sub/Line160_Sub	AmountD_Box	160	numeric	12	Line 160. Amount upper case D. Total current year refundable credit (Amount upper case B plus amount upper case C).

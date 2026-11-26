@@ -1,0 +1,175 @@
+                                             Newfoundland and Labrador Manufacturing                                                                                             Schedule 310
+                                                and Processing Investment Tax Credit                                                                                                    Code 2201
+                                                          (2022 and later tax years)
+                                                                                                                                                                                   Protected B
+                                                                                                                   Business number                                               when completed
+
+Corporation's name                                                                                                                                                               Tax year-end
+
+                                                                                                                                                                           Year  Month Day
+
+· If you are an eligible corporation that has acquired eligible property, or you are an eligible corporation that has an unused Newfoundland and Labrador
+
+   manufacturing and processing investment tax credit at the end of the previous year, use this schedule to claim a tax credit against your Newfoundland and
+   Labrador corporation income tax payable. The applicable rate is 10%.
+
+· Credits earned in the year are applied to reduce Newfoundland and Labrador income tax otherwise payable for the year. If you are a Canadian-controlled
+
+   private corporation (CCPC), you may be eligible for a refund of up to 40% of your manufacturing and processing investment tax credit for a tax year. The
+   amount eligible to be refunded may be reduced by any tax, interest, or penalty owing for that or any prior tax year under the federal and provincial income tax
+   acts, and any amounts owing under the Canada Pension Plan and the Employment Insurance Act. Any remaining balance will be refunded.
+
+· You can carry forward any unused tax credit up to 20 years or carry it back to any of the 3 previous years. However, you cannot apply it to a tax year that
+
+   ended before April 7, 2022.
+
+· The terms capital cost, eligible corporation, eligible property, and manufacturing and processing investment tax credit, are defined in
+
+   subsection 41.1(1) of the Newfoundland and Labrador Income Tax Act, 2000.
+
+· Unless otherwise stated, all legislative references are to the federal Income Tax Act.
+· To claim the Newfoundland and Labrador manufacturing and processing investment tax credit, file a completed copy of this schedule with your T2
+
+   Corporation Income Tax Return.
+
+     Part 1 ­ Eligible property acquired in the current tax year eligible for the credit
+
+                 100                         Description of eligible property                                                                                  105                    110
+          CCA Class No.
+                                                                                                                                                         Eligibility date        Capital cost
+                                                                                                                                                          See note 1             See note 2
+
+                                                                                                                                                         Year Month Day
+
+                                                           Total capital cost (attach an additional schedule if space is insufficient)                                                         120
+
+Note 1: The eligibility date is the date that the property was acquired for and used in a business operating in Newfoundland and Labrador. If the acquisition date
+           and the date when the property was first used in the business are not the same, indicate the most recent date.
+
+Note 2: The cost of acquiring eligible property is the capital cost of the property (excluding amounts added by an election under section 21), determined without
+           reference to subsections 13(7.1) and 13(7.4), minus the amount of any government or non-government assistance that the corporation has received, is
+           entitled to receive, or can reasonably be expected to receive for that property.
+
+Part 2 ­ Total credit available for the year and credit available for carryforward
+
+Unused credit at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                            A
+
+Credit expired after 20 tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 205
+Unused credit at the beginning of this tax year (amount A minus line 205) . . . . . . . . . . . . . . . . . . . . . . . 210
+
+Total credit earned in the current tax year
+
+Line 120 from Part 1                       × 10% = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+
+Total credit available for the current tax year (line 210 plus line 215) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                             B
+
+Non-refundable credit claimed in the current tax year (amount not exceeding the lesser of
+Newfoundland and Labrador tax otherwise payable and amount B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 230
+
+Enter the amount from line 230 on line 508 of Schedule 5.
+Refundable Credit:
+
+Is the corporation a CCPC? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     Yes          No
+
+If the answer is no, enter 0 at line 240.
+
+Line 215                         ­ Newfoundland and Labrador tax otherwise payable . . . . .                                                          =                    C (see note 3)
+
+Line 215                         × 40% = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235
+
+Refundable credit claimed in the current tax year (amount C or line 235, whichever is less) . . . . . . . 240
+
+Enter the amount from line 240 on line 523 of Schedule 5.
+
+Note 3: If negative, enter "0".
+
+T2 SCH 310 E                                               (Ce formulaire est disponible en français.)                                                   Page 1 of 2
+                                                                                                                                     Protected B when completed
+
+Part 2 ­ Total credit available for the year and credit available for carryforward (continued)
+
+Credit carried back to previous tax years (complete Part 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  D
+
+                                                    Subtotal (add lines 230, 240, and amount D)                                                                                          E
+
+Closing balance for carryforward (amount B minus amount E) (see note 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250
+
+Note 4: Amount E cannot exceed amount B. If it does, reduce one of the amounts entered at lines 230, 240, and amount D in order to reduce amount E to a
+          value equal to or less than amount B.
+
+  Part 3 ­ Request for carryback of credit
+
+Complete this part to ask for a carryback of a current-year credit earned. You cannot apply any credit available for a carryback to a tax year that ended before
+April 7, 2022.
+
+                                 Tax year in which to apply the credit                                                                                             Credit to be applied
+
+                                    Year  Month Day
+                                                                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 901
+1st previous tax year ending on
+
+2nd previous tax year ending on                      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 902
+
+3rd previous tax year ending on                      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 903
+
+                                                                          Total (enter at amount D in Part 2)                                                                            F
+
+Part 4 ­ Analysis of credit available for carryforward by year of origin
+
+You can complete this part to show all the credits from previous tax years available for carryforward, by year of origin. This will help you determine the amount
+of credit that could expire in future years.
+
+The carry-forward period is 20 years.
+
+                                    Year of origin                                                                                                           Credit available for
+                                                                                                                                                                 carryforward
+                                    Year  Month Day
+                                                                        .................................................
+20th previous tax year ending on
+19th previous tax year ending on                                        .................................................
+18th previous tax year ending on
+17th previous tax year ending on                                        .................................................
+16th previous tax year ending on
+15th previous tax year ending on                                        .................................................
+14th previous tax year ending on
+13th previous tax year ending on                                        .................................................
+12th previous tax year ending on
+11th previous tax year ending on                                        .................................................
+10th previous tax year ending on
+                                                                        .................................................
+ 9th previous tax year ending on
+ 8th previous tax year ending on                                        .................................................
+ 7th previous tax year ending on
+ 6th previous tax year ending on                                        .................................................
+ 5th previous tax year ending on
+ 4th previous tax year ending on                                        .................................................
+ 3rd previous tax year ending on
+2nd previous tax year ending on                                         .................................................
+ 1st previous tax year ending on
+                                                                        .................................................
+        Current tax year ending on
+                                                                        .................................................
+
+                                                                        .................................................
+
+                                                                        .................................................
+
+                                                                        .................................................
+
+                                                                        .................................................
+
+                                                                        .................................................
+
+                                                                        .................................................
+
+                                                                        .................................................
+
+                                                                        .................................................
+
+                                                                          Total (equals line 250 in Part 2)                                                                              G
+
+The amount available from the 20th previous tax year will expire after this tax year. When you file your return for the next year, you will enter the expired
+amount on line 205 of Schedule 310 for that year.
+
+T2 SCH 310 E                                                                                                                                                       Page 2 of 2
+

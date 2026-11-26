@@ -1,0 +1,67 @@
+page	part	field	line	kind	digits	speak
+1		Corp_name		text		Corporation name.
+1		BusinessNumber_EN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Tax_y_e	DateYYYYMMDD_Comb		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_sf/Part1_table/Row1	Cell1	101	text		Line 101. Capital cost allowance class number. Row 1.
+1	Part1_sf/Part1_table/Row1	Cell2		text		Description of qualified property. Row 1.
+1	Part1_sf/Part1_table/Row1/Cell3	DateYYYYMMDD_Comb	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+1	Part1_sf/Part1_table/Row1	Cell4	103	numeric	12	Line 103. Capital cost. Row 1.
+1	Part1_sf/Part1_table/Row2	Cell1	101	text		Line 101. Capital cost allowance class number. Row 2.
+1	Part1_sf/Part1_table/Row2	Cell2		text		Description of qualified property. Row 2.
+1	Part1_sf/Part1_table/Row2/Cell3	DateYYYYMMDD_Comb	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+1	Part1_sf/Part1_table/Row2	Cell4	103	numeric	12	Line 103. Capital cost. Row 2.
+1	Part1_sf/Part1_table/Row3	Cell1	101	text		Line 101. Capital cost allowance class number. Row 3.
+1	Part1_sf/Part1_table/Row3	Cell2		text		Description of qualified property. Row 3.
+1	Part1_sf/Part1_table/Row3/Cell3	DateYYYYMMDD_Comb	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+1	Part1_sf/Part1_table/Row3	Cell4	103	numeric	12	Line 103. Capital cost. Row 3.
+1	Part1_sf/Part1_table/Row4	Cell1	101	text		Line 101. Capital cost allowance class number. Row 4.
+1	Part1_sf/Part1_table/Row4	Cell2		text		Description of qualified property. Row 4.
+1	Part1_sf/Part1_table/Row4/Cell3	DateYYYYMMDD_Comb	102	text		Line 102. Acquisition date. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+1	Part1_sf/Part1_table/Row4	Cell4	103	numeric	12	Line 103. Capital cost. Row 4.
+1	Part1_sf	P1_AmntA_inpt		numeric	12	Amount A. Total capital cost. Attach an additional schedule if space is insufficient. Instance 1.
+1	Part2_sf	P2_AmntB_inpt		numeric	12	Amount B. Credit at end of preceding taxation year.
+1	Part2_sf	P2_Ln104_inpt	104	numeric	12	Line 104. Credit expired after seven taxation years.
+1	Part2_sf	P2_Ln105_inpt1	105	numeric	12	Line 105. Credit at beginning of taxation year. Amount B minus Line 104. Instance 1.
+1	Part2_sf	P2_Ln105_inpt2	105	numeric	12	Line 105. Instance 2.
+1	Part2_sf	P2_Ln110_inpt	110	numeric	12	Line 110. Credit transferred on amalgamation or wind-up of subsidiary.
+1	Part2_sf	P2_Ln120_inpt1		numeric	12	Amount A. Instance 2.
+1	Part2_sf	P2_Ln120_inpt2	120	numeric	12	Line 120. Current year credit earned. Amount A multiplied by 10%.
+1	Part2_sf	P2_Ln130_inpt	130	numeric	12	Line 130. Credit allocated from a partnership.
+1	Part2_sf	P2_Ln140_inpt	140	numeric	12	Line 140. Credit allocated from a trust.
+1	Part2_sf	P2_AmntC_inpt1		numeric	12	Amount C. Subtotal. Add lines 110, 120, 130 and 140. Instance 1.
+1	Part2_sf	P2_AmntC_inpt2		numeric	12	Amount C. Instance 2.
+1	Part2_sf	P2_AmntD_inpt		numeric	12	Amount D. Total credit available. Add line 105 and amount C.
+1	Part2_sf	P2_Ln150_inpt	150	numeric	12	Line 150. Credit renounced.
+1	Part2_sf	P2_Ln160_inpt	160	numeric	12	Line 160. Credit claimed in the current year. Enter on line 530 in part 2 of schedule 5.
+1	Part2_sf	P2_AmntE_inpt		numeric	12	Amount E. Credit carried back to preceding taxation years. Complete part 3.
+1	Part2_sf	P2_AmntF_inpt1		numeric	12	Amount F. Subtotal. Add line 150, line 160 and amount E. Instance 1.
+1	Part2_sf	P2_AmntF_inpt2		numeric	12	Amount F. Instance 2.
+1	Part2_sf	P2_Ln200_inpt	200	numeric	12	Line 200. Closing balance. Amount D minus amount F.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Part3_sub/P3_Lin901_date	DateYYYYMMDD_Comb		text		First preceding taxation year. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part3_sub	P3_Ln901_inpt	901	numeric	12	Line 901. Credit to be applied. First preceding taxation year.
+2	Part3_sub/P3_Lin902_date	DateYYYYMMDD_Comb		text		Second preceding taxation year. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part3_sub	P3_Lin902_inpt	902	numeric	12	Line 902. Credit to be applied. Second preceding taxation year.
+2	Part3_sub/P3_Lin903_date	DateYYYYMMDD_Comb		text		Third preceding taxation year. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part3_sub	P3_Ln903_inpt	903	numeric	12	Line 903. Credit be applied. Third preceding taxation year.
+2	Part3_sub	P3_AmntG_inpt		numeric	12	Amount G. Credit to be applied. Total. Add lines 901, 902 and 903. Enter on line E in part 2.
+2	Part4_sf/P4_7thPTY_date	DateYYYYMMDD_Comb		text		Year of origin. Earliest year first. Seventh previous tax year for. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf	P4_7thPTY_inpt		numeric	12	Credit available. Seventh previous tax year.
+2	Part4_sf/P4_6thPTY_date	DateYYYYMMDD_Comb		text		Year of origin. Earliest year first. Sixth previous tax year for. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf	P4_6thPTY_inpt		numeric	12	Credit available. Sixth previous tax year.
+2	Part4_sf/P4_5thPTY_date	DateYYYYMMDD_Comb		text		Year of origin. Earliest year first. Fifth previous tax year for. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf	P4_5thPTY_inpt		numeric	12	Credit available. Fifth previous tax year.
+2	Part4_sf/P4_4thPTY_date	DateYYYYMMDD_Comb		text		Year of origin. Earliest year first. Fourth previous tax year for. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf	P4_4thPTY_inpt		numeric	12	Credit available. Fourth previous tax year.
+2	Part4_sf/P4_3rdPTY_date_sf	DateYYYYMMDD_Comb		text		Year of origin. Earliest year first. Third previous tax year for. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf	P4_3rdPTY_inpt		numeric	12	Credit available. Third previous tax year.
+2	Part4_sf/P4_2ndPTY_date_sf	DateYYYYMMDD_Comb		text		Year of origin. Earliest year first. Second previous tax year for. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf	P4_2ndPTY_inpt		numeric	12	Credit available. Second previous tax year.
+2	Part4_sf/P4_1stPTY_date_sf	DateYYYYMMDD_Comb		text		Year of origin. Earliest year first. First previous tax year for. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf	P4_1stPTY_inpt		numeric	12	Credit available. First previous tax year.
+2	Part4_sf/P4_CurPTY_date_sf	DateYYYYMMDD_Comb		text		Year of origin. Earliest year first. Current tax year. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_sf	P4_CurPTY_inpt		numeric	12	Credit available. Current tax year.
+2		P4_AmntH_inpt		numeric	12	Amount H. Total of credit available. Equals line 200 in part 2.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		

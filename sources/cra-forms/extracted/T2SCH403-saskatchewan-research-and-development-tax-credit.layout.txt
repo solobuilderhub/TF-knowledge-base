@@ -1,0 +1,249 @@
+                    Saskatchewan Research and Development Tax Credit                                                                                                Schedule 403
+                                        (2017 and later tax years)
+                                                                                                                                                                             Code 1701
+                                                                                                           Business number
+                                                                                                                                                                      Protected B
+                                                                                                                                                                    when completed
+
+Corporation's name                                                                                                                                                  Tax year-end
+
+                                                                                                                                                              Year  Month Day
+
+· A corporation may calculate a Saskatchewan non-refundable research and development (R&D) tax credit under section 63.3 and 63.4 of The Income
+ Tax Act, 2000 (Saskatchewan), if the corporation has a permanent establishment in Saskatchewan and meets any of the following criteria:
+
+   ­ it incurred eligible expenditures for SR&ED carried out in Saskatchewan;
+
+­ it has a non-refundable R&D tax credit transfer after an amalgamation or the wind-up of a subsidiary, as described in subsections
+   87(1) and 88(1) of the federal Act;
+
+­ it has a non-refundable R&D tax credit allocated to it as a member of a partnership or as a beneficiary under a trust;
+
+­ it has a non-refundable R&D tax credit to reduce Saskatchewan income tax otherwise payable in the current tax year;
+
+   ­ it has a non-refundable R&D tax credit to carry back to reduce Saskatchewan income tax otherwise payable in any of the three preceding tax years;
+
+   ­ it has a non-refundable R&D tax credit to carry forward to reduce Saskatchewan income tax otherwise payable in any of the 10 subsequent
+      tax years; or
+
+   ­ it has a non-refundable R&D tax credit to renounce in whole or in part. The renouncement must be made in the tax year the credit was earned and
+      filed on or before the filing due date of theT2 Corporation Income Tax Return.
+
+· An eligible expenditure is an expenditure that is incurred for R&D carried out in Saskatchewan and that is a qualified expenditure within the meaning
+ of subsections 127(9), (11.1), (11.5), (18), (19), and (20) of the federal Income Tax Act.
+
+· Use Parts 1 to 3 of this schedule to calculate a Saskatchewan non-refundable R&D tax credit for eligible expenditures incurred before April 1, 2017,
+ under section 63.3 of The Income Tax Act, 2000 (Saskatchewan).
+
+· Use Part 4 of this schedule to calculate a Saskatchewan refundable R&D tax credit if the corporation is not exempt from tax under section 149 of the
+ federal Income Tax Act, has a permanent establishment in Saskatchewan, and is a Canadian-controlled private corporation (CCPC) that incurred eligible
+ expenditures for scientific research and experimental development (SR&ED) carried out in Saskatchewan.
+
+· Use Parts 5 to 7 of this schedule to calculate a Saskatchewan non-refundable R&D tax credit for eligible expenditures incurred after March 31, 2017
+ under section 63.4 of The Income Tax Act, 2000 (Saskatchewan).
+
+· Use Part 8 of this schedule to calculate the total Saskatchewan non-refundable R&D tax credit claimed in the current tax year.
+· Include a completed copy of this schedule with your T2 Corporation Income Tax Return.
+
+Part 1 ­ Non-refundable credit available and available for carryforward for expenditures incurred before April 1, 2017
+
+In this part, only include amounts related to the non-refundable credit for eligible expenditures under section 63.3.
+
+Total eligible expenditures* incurred in the current tax year before April 1, 2017 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     106                      A
+
+Non-refundable credit at end of previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                             B
+
+Non-refundable credit expired after 10 tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104                              C
+
+Non-refundable credit at beginning of tax year (amount B minus amount C) . . . . . . . . . . . . . . 105                                                                          D
+                                                                                                                                                         
+Non-refundable credit transferred on an amalgamation or the windup of a subsidiary . . . . . . . . . 110                                              E
+
+Non-refundable current-year credit earned                 × 10% = . . . . . . 121                                                                     F
+(amount from line 106) . . . . . . . . . . . . . . . . .
+
+Non-refundable credit allocated to the corporation that is a member of a partnership . . . . . . . . . 130                  G
+
+Non-refundable credit allocated to the corporation that is a beneficiary under a trust . . . . . . . . . 140                                          H
+
+                                                          Subtotal (total of amounts E to H)                                                                                      I
+
+Non-refundable credit available (amount D plus amount I) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    J
+
+* Total eligible expenditures include repayments made in the current year before April 1, 2017. Each amount must relate to a repayment the
+  corporation made in the tax year and not in any other tax year. Repayments are the sum of the following:
+
+  ­ a repayment made in the tax year of government or non-government assistance or a contract payment that reduced an eligible expenditure other than
+     for first-term or second-term shared-use equipment; and
+
+  ­ a repayment made in the tax year of government or non-government assistance, or a contract payment that reduced an eligible expenditure for first-term
+     or second-term shared-use equipment, multiplied by 1/4.
+
+T2 SCH 403 E (17)                                         (Ce formulaire est disponible en français.)                       Page 1 of 4
+Part 1 ­ Non-refundable credit available and available for carryforward for expenditures incurred before                                                                         Protected B
+            April 1, 2017 (continued)                                                                                                                                           when completed
+
+Non-refundable credit renounced:                                                                                                                                                                 N
+                                                                                                                                                                                                 O
+(the renounced credit cannot be more than the total of amounts F, G and H.
+
+Exclude credit earned on repayments of assistance or contract payment) . . . . . . . . . . . . . . . . . 150           K
+
+Non-refundable credit claimed in the current tax year:
+
+(the credit claimed in the current year cannot be more than the lesser of amount J minus
+
+amount K, and the Saskatchewan tax otherwise payable) (enter amount L on amount II in Part 8) 160                      L
+
+Non-refundable credit carried back to previous tax year(s) (complete Part 2). . . . . . . . . . . . . . . . . .        M
+
+                                                        Subtotal (total of amounts K to M)                                        
+
+                                                                                                                                                                           200
+Non-refundable credit available for carryforward (amount J minus amount N) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Part 2 ­ Request for carryback of credit for expenditures incurred before April 1, 2017
+
+                       Year       Month Day
+
+1st previous tax year                                   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 901
+2nd previous tax year                                   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 902
+3rd previous tax year                                   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 903
+
+                                                                                          Total (enter on amount M in Part 1)
+
+Part 3 ­ Analysis of credit available for carryforward by year of origin for expenditures incurred before April 1, 2017
+
+Year of origin (earliest year first)  Credit available                                    Year of origin (earliest year first)                                                  Credit available
+
+Year                   Month Day                                                                                 Year  Month Day
+
+                                                                                          Total (equals line 200 in Part 1)
+
+                                                                                                                                                                                Page 2 of 4
+     Part 4 ­ Refundable R&D tax credit for expenditures incurred after March 31, 2017 (CCPCs only)                                                                               Protected B
+In this part, only include eligible expenditures under section 63.4.                                                                                                             when completed
+
+                                                                                                                                                                            216                    P
+Total eligible expenditures* incurred in the current tax year after March 31, 2017 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Expenditure limit (enter amount from line 410 of Schedule 31)                       1
+Amount 1 multiplied by 1/3 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                                                                                                                           . . . . . . . . . . . . . . . . . . . 217
+                                                                                    2                                                                                            Q
+                                                                                                                                    
+Eligible expenditures for refundable tax credit (amount P or Q, whichever is less) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 219                           R
+                                                                                               
+                                                                                                                                              221                                S
+
+Saskatchewan refundable R&D tax credit (amount R multiplied by 10%) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(enter amount S on line 645 of Schedule 5, Tax Calculation Supplementary - Corporations)
+
+* Total eligible expenditures include repayments made in the current year after March 31, 2017. Each amount must relate to a repayment made by the
+  corporation in the tax year and not in any other tax year. Repayments are the sum of the following:
+
+  ­ a repayment made in the tax year of government or non-government assistance or a contract payment that reduced an eligible expenditure other
+     than for first-term or second-term shared-use equipment; and
+
+  ­ a repayment made in the tax year of government or non-government assistance, or a contract payment that reduced an eligible expenditure for
+     first-term or second-term shared-use equipment, multiplied by 1/4.
+
+Part 5 ­ Non-refundable credit available and available for carryforward for expenditures incurred after March 31, 2017
+
+In this part, only include amounts related to the non-refundable credit for eligible expenditures under section 63.4.
+
+Total eligible expenditures* incurred in the current tax year after March 31, 2017 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107                   T
+
+(if there is an amount at line 221, line 107 is equal to amount P minus amount R from Part 4)
+
+Non-refundable credit at end of previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  U
+
+Non-refundable credit expired after 10 tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 114                   V
+
+Non-refundable credit at beginning of tax year (amount U minus amount V) . . . . . . . . . . . . . . . 115                                                                       W
+
+Non-refundable credit transferred on an amalgamation or the windup of a subsidiary . . . . . . . . 161                                     X
+
+Non-refundable current-year credit earned                                           × 10% = . . . . . . . 122                              Y
+(amount from line 107) . . . . . . . . . . . . . . . . . .
+
+Non-refundable credit allocated to the corporation that is a member of a partnership . . . . . . . . . 163                                 Z
+
+Non-refundable credit allocated to the corporation that is a beneficiary under a trust . . . . . . . . . 164               AA
+
+                                                                                    Subtotal (total of amounts X to AA)                                                          BB
+
+Non-refundable credit available (amount W plus amount BB) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      CC
+
+* Total eligible expenditures include repayments made in the current year after March 31, 2017. Each amount must relate to a repayment made by the
+  corporation in the tax year and not in any other tax year. Repayments are the sum of the following:
+
+  ­ a repayment made in the tax year of government or non-government assistance or a contract payment that reduced an eligible expenditure other
+     than for first-term or second-term shared-use equipment; and
+
+  ­ a repayment made in the tax year of government or non-government assistance, or a contract payment that reduced an eligible expenditure for
+     first-term or second-term shared-use equipment, multiplied by 1/4.
+
+                                                                                                                                                                                 Page 3 of 4
+Part 5 ­ Non-refundable credit available and available for carryforward for expenditures incurred after                                                                                              Protected B
+            March 31, 2017 (continued)                                                                                                                                                              when completed
+
+Non-refundable credit renounced:                                                                                                                                                                                     GG
+                                                                                                                                                                                                                     HH
+(the renounced credit cannot be more than the total of amounts Y, Z and AA. Exclude credit
+earned on repayments of assistance or contract payment) . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+                                                                                                                                    DD
+
+Amount CC minus amount DD . . . . . . . . . . . . . . . . . . . . . . . . . . . .        1
+
+Maximum available for non-refundable credit
+
+($1,000,000 minus amount S from Part 4) . . . . . . . . . . . . . . . . . . .            2
+
+Non-refundable credit claimed in the current tax year:
+
+(the credit claimed in the current tax year cannot be more than the lesser of amount 1,
+
+amount 2, or the Saskatchewan tax otherwise payable)
+(enter amount EE on amount JJ in Part 8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170
+                                                                                                                                    EE
+
+Non-refundable credit carried back to previous tax year(s) (complete Part 6). . . . . . . . . . . . . . . . . .                     FF
+
+                                                                                   Subtotal (total of amounts DD to FF)                        
+
+Non-refundable credit available for carryforward (amount CC minus amount GG) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 201
+
+Part 6 ­ Request for carryback of credit for expenditures incurred after March 31, 2017
+
+                            Year  Month Day
+
+1st previous tax year                                   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 911
+2nd previous tax year                                   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 912
+3rd previous tax year                                   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 913
+
+                                                                                            Total (enter on amount FF in Part 5)
+
+Part 7 ­ Analysis of credit available for carryforward by year of origin for expenditures incurred after March 31, 2017
+
+Year of origin (earliest year first)         Credit available                               Year of origin (earliest year first)                                                                    Credit available
+
+Year                        Month Day                                                                            Year               Month Day
+
+                                                                                            Total (equals line 201 in Part 5)
+
+Part 8 ­ Total non-refundable R&D tax credit
+
+Line 160 from Part 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    II
+
+Line 170 from Part 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    JJ
+
+Saskatchewan non-refundable R&D tax credit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                        KK
+
+(amount II plus amount JJ)
+
+(enter amount KK on line 631 in Part 2 of Schedule 5 Tax Calculation Supplementary - Corporation)
+
+                                                                                                                                                                                                    Page 4 of 4
+

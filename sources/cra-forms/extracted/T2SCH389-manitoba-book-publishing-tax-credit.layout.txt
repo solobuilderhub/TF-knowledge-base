@@ -1,0 +1,135 @@
+                                             Manitoba Book Publishing Tax Credit                                                                       Schedule 389
+                                                      (2021 and later tax years)                                                                                Code 2101
+
+                                                                                                       Business number               Protected B when completed
+
+Corporation's name                                                                                                                                                                          Tax year-end
+
+                                                                                                                                     Year                                                   Month Day
+
+· Use this schedule to claim the Manitoba book publishing tax credit under section 10.4 of the Manitoba Income Tax Act. You must apply no later
+
+   than 18 months after the end of the tax year for which you are claiming the credit.
+
+· You are eligible to claim this tax credit if you are a book publisher with a permanent establishment in Manitoba, you paid at least 25% of the wages
+
+   and salaries to Manitoba residents, and you answered yes to all the questions in Part 1 of this schedule.
+
+· The Manitoba book publishing tax credit is a refundable credit that is equal to 40% of eligible book publishing labour costs and non-refundable monetary
+
+   advances made to authors, to a maximum of $100,000. An additional 15% credit is available for eligible printing costs.
+
+· Book publishing labour costs include reasonable salaries and wages paid in the tax year to employees resident in Manitoba on December 31 of that tax
+
+   year, and 65% of contracted Manitoba labour costs paid in the tax year. These costs are related to publishing hardcover, paperback or electronic books,
+   but not to the marketing or promotion of books.
+
+· Eligible printing costs are the costs paid in the tax year for printing, assembling and binding eligible books that are printed on at least 30% post-
+
+   consumer recycled paper and published in the tax year or in the immediately following year.
+
+· An eligible book is a first edition, non-periodical publication that meets all the criteria outlined in subsection 10.4(3) of the Manitoba Income Tax Act.
+
+· Include a completed copy of this schedule with your T2 Corporation Income Tax Return.
+
+     Part 1 ­ Eligible publisher
+
+1. Does the corporation primarily carry on the business of book publishing?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110 Yes                              No
+2. Does the corporation have a permanent establishment in Manitoba in the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115 Yes                                       No
+3. Has the corporation published at least two eligible books within the two-year period ending at the end of the tax year? . . 120 Yes                                                      No
+
+Proportion of Manitoba labour costs to total labour costs:                                                                                                                                          %A
+Salaries and wages paid to Manitoba resident employees in the tax year (keep a list of names, addresses, and
+social insurance numbers, as you may have to provide this information at a future date) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+
+Total salaries and wages the corporation paid to employees in the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+
+Proportion of the total salaries and wages paid to Manitoba resident employees in the tax year
+(line 140 divided by line 130) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+If you answered No to any of questions 1 to 3, or if amount A is less than 25%, you are not eligible for the Manitoba book
+publishing tax credit.
+
+    Part 2 ­ Eligible books (if you need more space, attach additional schedules)                                            B
+                                                                                                                        Author(s)
+                                                      A
+                                         Title of eligible book                                                            210
+
+                                                    200
+
+1.
+2.
+3.
+4.
+5.
+
+                                C                        D                   E                        F                                  G                                                          H
+         International standard book number  Date of publication  Number of pages         Number of books in                         Format*                                                Classification **
+
+                              ISBN               yyyy/mm/dd                 240                  print run                             260                                                         270
+
+                               220                     230                                          250
+
+1.
+2.
+3.
+4.
+5.
+
+                                             Total
+
+ *Enter the number corresponding to the format of the eligible book: 1. Hardcover 2. Paperback 3. Electronic
+**Enter the number corresponding to the classification of the eligible book: 1. Fiction 2. Non-fiction 3. Poetry 4. Drama 5. Biography 6. Children
+
+T2 SCH 389 E (21)                            (Ce formulaire est disponible en français.)                                Page 1 of 2
+                                                                                                                                                        Protected B when completed
+
+Part 3 ­ Manitoba book publishing tax credit
+
+Book publishing labour costs* (exclude marketing, promotion, legal and accounting costs):
+
+Salaries and wages paid to Manitoba resident employees (from line 140, Part 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  B
+
+Contracted Manitoba labour costs paid in the tax year **. . . . . . . . . . . . . . . . . . . . 400                                  × 65% = 405
+
+                                                                                                                                     Subtotal (amount B plus line 405)  C
+
+Total number of pages attributable to eligible books published in the tax year ***                                                   D
+
+(total of column E in Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Total number of pages attributable to books published in the tax year *** . . . . . . . . . . . 410
+
+Proportion of labour related to the production of eligible books                                                                     %E
+(amount D divided by line 410) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Total book publishing labour costs (amount C multiplied by amount E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 415
+
+Total non-refundable monetary advances made to authors of eligible books in the tax year . . . . . . . . . . . . . . . . . . . . . . . . . 420
+
+                                                                                                                    Total costs (line 415 plus line 420) 430
+
+Manitoba book publishing tax credit (line 430 multiplied by 40%). This amount cannot exceed $100,000 . . . . . . . . . . . . 440
+
+Eligible printing costs bonus:
+Eligible printing costs paid in the tax year for eligible books printed on paper with at least 30% recycled content
+made from post-consumer waste paper.
+
+Eligible printing costs incurred . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 455
+
+Eligible printing costs bonus (line 455 multiplied by 15%) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 460
+
+Total Manitoba book publishing tax credit (line 440 plus line 460) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        F
+
+Enter amount F on line 615 of Schedule 5.
+
+  * Any part of a salary, wage or fee that comes from profits or revenues is considered not to be related to the publication of books.
+
+ ** Contracted Manitoba labour costs are amounts the publisher paid in the tax year to an individual resident in Manitoba, who is not an employee of the
+    publisher, or to a corporation with a permanent establishment in Manitoba. These labour costs are related to publishing hardcover, paperback or
+    electronic books, but are not related to the marketing or promotion of books.
+
+*** An electronic book is considered to have the same number of pages as its most recent printed edition.
+
+                                                                                                                                                                        Page 2 of 2
+

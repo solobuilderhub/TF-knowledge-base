@@ -1,0 +1,86 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Nm		text		Corporation's name.
+1		BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Prt1_SF/NS_Inc_sf	Amt_1A		numeric	12	Amount 1A. Taxable income for Nova Scotia.
+1	Prt1_SF/Lower_Txt_rate_sf	Amt_1B		numeric	12	Amount 1B. Line 400 of the T2 return.
+1	Prt1_SF/Lower_Txt_rate_sf	Amt_1C		numeric	12	Amount 1C. Line 405 of the T2 return.
+1	Prt1_SF/Lower_Txt_rate_sf	Amt_1D		numeric	12	Amount 1D. Line 428 of the T2 return.
+1	Prt1_SF/Lower_Txt_rate_sf	Amt_1E_inst1		numeric	12	Amount 1E. Amount 1B, 1C, or 1D, whichever is the least. Instance 1.
+1	Prt1_SF/NS_All_Prov_sf	Amt_1E_Inst_2		numeric	12	Amount 1E. Instance 2.
+1	Prt1_SF/NS_All_Prov_sf	Inc_for_NS		numeric	12	Taxable income for Nova Scotia. Instance 1.
+1	Prt1_SF/NS_All_Prov_sf	Inc_for_all_Prov		numeric	12	Taxable income for all provinces. Instance 1.
+1	Prt1_SF/NS_All_Prov_sf	Amt_1F		numeric	12	Amount 1F. Income eligible for the lower tax rate for Nova Scotia and its offshore area. Amount 1E multiplied by the result of taxable income for Nova Scotia divided by taxable income for all provinces. Instance 1.
+1	Prt1_SF/Higher_rate_sf	Amt_1G		numeric	12	Amount 1G. Income subject to the higher tax rate for Nova Scotia and its offshore area. Amount 1A minus amount 1F. Instance 1.
+1	Prt1_SF	Amt_1H		numeric	12	Amount 1H. Taxable income for Nova Scotia.
+1	Prt1_SF/Lower_Txt_rate_sf	Amt_1I		numeric	12	Amount 1I. Line 400 of the T2 return.
+1	Prt1_SF/Lower_Txt_rate_sf	Amt_1J		numeric	12	Amount 1J. Line 405 of the T2 return.
+1	Prt1_SF/Lower_Txt_rate_sf	Ln_428_décl_T2	428	numeric	12	Line 428 of the T2 return
+1	Prt1_SF/Lower_Txt_rate_sf	Amt_1K		numeric	12	Amount 1K. Line 428 of the T2 return multiplied by the result of 700,000 divided by 500,000.
+1	Prt1_SF/Lower_Txt_rate_sf	Amt_1L		numeric	12	Amount 1L. Amount 1I, 1J, or 1K, whichever is the least. Instance 1.
+1	Prt1_SF/NS_All_Prov_sf	Amt_1M_Inst_2		numeric	12	Amount 1L. Instance 2.
+1	Prt1_SF/NS_All_Prov_sf	Inc_for_NS		numeric	12	Taxable income for Nova Scotia. Instance 2.
+1	Prt1_SF/NS_All_Prov_sf	Inc_for_all_Prov		numeric	12	Taxable income for all provinces. Instance 2.
+1	Prt1_SF/NS_All_Prov_sf	Amt_1M		numeric	12	Amount 1M. Income eligible for the lower tax rate for Nova Scotia and its offshore area. Amount 1L multiplied by the result of taxable income for Nova Scotia divided by taxable income for all provinces. Instance 1.
+1	Prt1_SF/Higher_rate_sf	Amt_1N		numeric	12	Amount 1N. Income subject to the higher tax rate for Nova Scotia and its offshore area. Amount 1H minus amount 1M. Instance 1.
+1	P2/Prt2_sf	inpt_2A		numeric	12	Amount 2A. Amount Y from part 6 of Schedule 7.
+1	P2/Prt2_sf	inpt_2B		numeric	12	Amount 2B. Line 530 from Part 6 of Schedule 7.
+1	P2/Prt2_sf	inpt_2C		numeric	12	Amount 2C. Line 540 from part 6 of Schedule 7.
+1	P2/Prt2_sf	inpt_2D		numeric	12	Amount 2D. Amount AA from Part 6 of Schedule 7.
+1	P2/Prt2_sf	inpt_2E		numeric	12	Amount 2E. Amount CC from Part 6 of Schedule 7.
+1	P2/Prt2_sf	inpt1_2F		numeric	12	Amount2F. Subtotal. Amount 2A minus amounts 2B, 2C, and 2D, plus amount 2E. Instance 1.
+1	P2/Prt2_sf	inpt2_2F		numeric	12	Amount 2F. Instance 2.
+1	P2/Prt2_sf	inpt_2G		numeric	12	Amount 2G. Amount Q from part 5 of Schedule 7.
+1		CurrentPage		numeric		
+1		PageCount		numeric		
+2	P2_2/Table_sf/Table1/Row1	Cell1		numeric	12	Column 1. Amounts from column F1 in Part 4 of Schedule 7. Row 1.
+2	P2_2/Table_sf/Table1/Row1	Cell2		numeric	12	Column 2. Amounts from column K1 in Part 4 of Schedule 7 multiplied by 700,000 divided by 500,000. Row 1.
+2	P2_2/Table_sf/Table1/Row1	Cell3		numeric	12	Column 3. Column 1 minus column 2, if negative, enter 0. Row 1.
+2	P2_2/Table_sf/Table1/Row1	Cell4		numeric	12	Column 4. Lesser of columns 1 and 2, if column 1 is negative, enter 0. Row 1.
+2	P2_2/Table_sf/Table1/Row2	Cell1		numeric	12	Column 1. Amounts from column F1 in Part 4 of Schedule 7. Row 2.
+2	P2_2/Table_sf/Table1/Row2	Cell2		numeric	12	Column 2. Amounts from column K1 in Part 4 of Schedule 7 multiplied by 700,000 divided by 500,000. Row 2.
+2	P2_2/Table_sf/Table1/Row2	Cell3		numeric	12	Column 3. Column 1 minus column 2, if negative, enter 0. Row 2.
+2	P2_2/Table_sf/Table1/Row2	Cell4		numeric	12	Column 4. Lesser of columns 1 and 2, if column 1 is negative, enter 0. Row 2.
+2	P2_2/Table_sf/Table1/Row3	Cell1		numeric	12	Column 1. Amounts from column F1 in Part 4 of Schedule 7. Row 3.
+2	P2_2/Table_sf/Table1/Row3	Cell2		numeric	12	Column 2. Amounts from column K1 in Part 4 of Schedule 7 multiplied by 700,000 divided by 500,000. Row 3.
+2	P2_2/Table_sf/Table1/Row3	Cell3		numeric	12	Column 3. Column 1 minus column 2, if negative, enter 0. Row 3.
+2	P2_2/Table_sf/Table1/Row3	Cell4		numeric	12	Column 4. Lesser of columns 1 and 2, if column 1 is negative, enter 0. Row 3.
+2	P2_2/Table_sf/Table1/Row4/Total_Col_3	Cell1		numeric	12	Amount 2H. Column 1 minus column 2. If negative, enter 0. Totals.
+2	P2_2/Table_sf/Table1/Row4/Total_Col_4	Cell1		numeric	12	Amount 2I. Lesser of columns 1 and 2. If column 1 is negative, enter 0. Totals.
+2	P2_2	Amount_2J		numeric	12	Amount 2J. Line 370 from Part 4 of Schedule 7.
+2	P2_2	Amount_2K		numeric	12	Amount 2K. Line 380 from Part 4 of Schedule 7.
+2	P2_2	Amount_2L		numeric	12	Amount 2L. Subtotal. Amount 2J plus amount 2K.
+2	P2_2	Amount_2M		numeric	12	Amount 2M. Enter amount 2H or amount 2L, whichever is less.
+2	P2_2	Amt2N_instance1		numeric	12	Amount 2N. Specified partnership income. Amount 2I plus amount 2M. Instance 1.
+2	P2_2	Amt_2N_inst2		numeric	12	Amount 2N. Instance 2.
+2	P2_2	Amt2O_inst1		numeric	12	Amount 2O. Partnership income not eligible for the small business deduction. Amount 2G minus amount 2N. Instance 1.
+2	P2_2	Amt2O_inst2		numeric	12	Amount 2O. Instance 2.
+2	P2_2/ID_2O_2P_sf	Amount_2P		numeric	12	Amount 2P. Income from active business. Amount 2F minus amount 2O. Enter amount 2P at amount 1I in Part 1.
+2	P3/ID_3A_sf	Amt_1F_Inst3		numeric	12	Amount 1F. Instance 2.
+2	P3/ID_3A_sf	Amt_Dys_aftAP2025		numeric	3	Number of days in the tax year before April 1, 2025. Instance 1.
+2	P3/ID_3A_sf	Amt_Dys_inTxYr_2		numeric	3	Number of days in the tax year. Instance 1.
+2	P3/ID_3A_sf	Amt_3A		numeric	12	Amount 3A. Amount 1F multiplied by the result of number of days in the tax year before April 1, 2025, divided by number of days in the tax year, multiplied by 2.5%.
+2	P3/ID_3B_sf	Amt_3B_Inst4		numeric	12	Amount 1M. Instance 2.
+2	P3/ID_3B_sf	Amt_Dys_aftMar2025		numeric	3	Number of days in the tax year after March 31, 2025. Instance 1.
+2	P3/ID_3B_sf	Amt_Dys_inTxYr_3		numeric	3	Number of days in the tax year. Instance 2.
+2	P3/ID_3B_sf	Amt_3B		numeric	12	Amount 3B. Amount 1M multiplied by the result of number of days in the tax year after March 31, 2025, divided by number of days in the tax year, multiplied by 1.5%.
+2	P3	Amt_3C_Inst_1		numeric	12	Amount 3C. Tax at the lower rate for Nova Scotia and its offshore area. Amount 3A plus amount 3B. Instance 1.
+2	P3	Amt_3C_Inst_2		numeric	12	Amount 3C. Instance 2.
+2	P3	Amt_1G_inst2		numeric	12	Amount 1G. Instance 2.
+2	P3	Amt_Dys_b4ap2025		numeric	3	Number of days in the tax year before April1, 2025. Instance 2.
+2	P3	Amt_Dys_inTxYr_2		numeric	3	Number of days in the tax year. Instance 1. Instance 3.
+2	P3	Amt_3D		numeric	12	Amount 3D. Amount 1G multiplied by the result of number of days in the tax year before April 1, 2025, divided by number of days in the tax year, multiplied by 14%.
+2	P3	Amt_1N_inst2		numeric	12	Amount 1N. Instance 2.
+2	P3	Amt_Dys_aftMar2025		numeric	3	Number of days in the tax year after March 31, 2025. Instance 2.
+2	P3	Amt_Dys_inTxYr_2		numeric	3	Number of days in the tax year. Instance 1. Instance 4.
+2	P3	Amt_3E		numeric	12	Amount 3E. Amount 1N multiplied by Number of days in the tax year after March 31, 2025 divided by the number of days in the tax year multiplied by 14%.
+2	P3	Amt_3F_Inst_1		numeric	12	Amount 3F. Tax at the higher rate for Nova Scotia and its offshore area. Amount 3D plus amount 3E. Instance 1.
+2	P3	Amt_3F_Inst1		numeric	12	Amount 3F. Instance 2.
+2	P3	Amt_3G_Inst1		numeric	12	Amount 3G. Total Tax for Nova Scotia and its offshore area. Amount 3C plus amount 3F. Instance 1.
+2	P3/OffShr_sf	Amt2C_Inst2		numeric	12	Amount 3G. Instance 2.
+2	P3/OffShr_sf	NS_Tax_Inc_Amt		numeric	12	Taxable income for Nova Scotia offshore.
+2	P3/OffShr_sf	NS_Tx_Inc_both_Amt		numeric	12	Taxable income for Nova Scotia plus taxable income for Nova Scotia offshore.
+2	P3/OffShr_sf	Amt_2D		numeric	12	Amount 3H. Amount 3G multiplied by the result of taxable income for Nova Scotia offshore divided by taxable income for Nova Scotia plus taxable income for Nova Scotia offshore.
+2	P3/TxBfr_Crdt_sf	Amt_2E		numeric	12	Amount 3I. Nova Scotia tax before credits. Amount 3G minus amount 3H. Enter amount 3I on line 215 of Schedule 5.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		

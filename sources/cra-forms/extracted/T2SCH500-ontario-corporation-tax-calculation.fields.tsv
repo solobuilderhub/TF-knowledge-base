@@ -1,0 +1,57 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Name		text		Corporation's name
+1		Business_Number		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Tax_Date	Tax_Year_End		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Prt1_SF/Prt1_Amts_sf	Amt_1A		numeric	12	Amount 1A. Ontario taxable income.
+1	Prt1_SF/Prt1_Amts_sf	Amt_1B_11-5Prct		numeric		Amount 1B. Ontario basic rate of tax for the year.
+1	Prt1_SF/Prt1_Amts_sf	Amt_1C		numeric	12	Amount 1C. Ontario basic income tax. Amount 1A multiplied by amount 1B.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	Amt_2A		numeric	12	Amount 2A. Line 400 of the T2 return.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	Amt_2B		numeric	12	Amount 2B. Line 405 of the T2 return.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	Amt_2C		numeric	12	Amount 2C. Line 410 of the T2 return. Instance 1.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	Amt_2D		numeric	12	Amount 2D. Line 415 of the T2 return. Instance 1
+1	Prt2_SF/Claimed_Fed_Dedct_sf	Amt_2C_inst2		numeric	12	Amount 2C. Instance 2.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	Amt_2D_inst2		numeric	12	Amount 2D. Instance 2.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	Amt_2F		numeric	12	Amount 2E. Amount 2C multiplied by the result of amount 2D divided by 90,000.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	Amt_2H		numeric	12	Amount 2F. Line 515 of the T2 return.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	Amt_2I_inst1		numeric	12	Amount 2G. Subtotal. Amount 2C minus amount 2E minus amount 2F. Instance 1.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	Amt_2I_inst2		numeric	12	Amount 2G. Instance 2.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	Amt_2J_inst1		numeric	12	Amount 2H. Amount 2A, 2B or 2G whichever is the least. Instance 1.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	Amt_2J_inst2		numeric	12	Amount 2H. Instance 2.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	ON-Inc_amt		numeric	12	Taxable income for Ontario.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	All_prov_inc_amt		numeric	12	Taxable income for all provinces.
+1	Prt2_SF/Claimed_Fed_Dedct_sf	Amt_2K		numeric		Amount 2I. Ontario domestic factor. Taxable income for Ontario divided by taxable income for all provinces.
+1	Prt2_SF/Amt_2L_sf	Amt_2L		numeric	12	Amount 2J. Amount 2H multiplied by amount 2I.
+1	Prt2_SF/Amt_2L_sf	Amt_2M		numeric	12	Amount 2K. Ontario taxable income. Amount 1A.
+1	Prt2_SF/Amt_2L_sf	Amt_2N_inst1		numeric	12	Amount 2L. Ontario small business income, amount 2J or 2K, whichever is less. Instance 1.
+1	Prt2_SF/Amt_2L_sf	Amt_2N_inst2		numeric	12	Amount 2L. Instance 2.
+1	Prt2_SF/OSBD_sf	Amt_2L_inst3		numeric	12	Amount 2L. Instance 3
+1	Prt2_SF/OSBD_sf	Days_bfr_2020		numeric	3	Number of days in the tax year before July 1, 2026. Instance 1.
+1	Prt2_SF/OSBD_sf	Days_in_TxYr_1		numeric	3	Number of days in the tax year. Instance 1.
+1	Prt2_SF/OSBD_sf	Amt_2M		numeric	12	Amount 2M. Amount 2L multiplied by the result of number of days in the tax year before July 1, 2026 divided by number of days in the tax year, multiplied by 8.3%.
+1	Prt2_SF/OSBD_sf	Amt_2I_inst4		numeric	12	Amount 2L. Instance 4
+1	Prt2_SF/OSBD_sf	Days_aftr_2019		numeric	3	Number of days in the tax year after June 30, 2026. Instance 1.
+1	Prt2_SF/OSBD_sf	Days_in_TxYr_2		numeric	3	Number of days in the tax year. Instance 2.
+1	Prt2_SF/OSBD_sf	Amt_2N		numeric	12	Amount 2N. Amount 2L multiplied by the result of number of days in the tax year after June 30, 2026 divided by number of days in the tax year, multiplied by 9.3%.
+1	Prt2_SF/OSBD_sf	Amt_2O_inst1		numeric	12	Amount 2O. Ontario small business deduction for the year. Amount 2M plus amount 2N. Enter Ontario small business deduction for the year, amount 2O, on line 402 of schedule 5. Instance 1.
+1	Prt2_SF/OSBD_sf	Amt_2O_inst2		numeric	12	Amount 2O. Instance 2.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Prt3_SF/OASBI_sf	Amt_3A		numeric	12	Amount 3A. Ontario adjusted small business income. amount 1A or 2H, whichever is the least. Enter amount 3A at amount 4B in Part 4 of this schedule or at amount 2E in Part 2 of Schedule 502, Ontario Tax Credit for Manufacturing and Processing, whichever applies.
+2	Prt4_SF/Amt_4C_sf	Amt_4A		numeric	12	Amount 4A. Amount 2C of Schedule 17.
+2	Prt4_SF/Amt_4C_sf	Amt_4B		numeric	12	Amount 4B. Ontario adjusted small business income. Amount 3A.
+2	Prt4_SF/Amt_4C_sf	Amt_4C_Inst1		numeric	12	Amount 4C. Subtotal. Amount 4A minus amount 4B. If negative, enter 0. Instance 1.
+2	Prt4_SF/Amt_4C_sf	Amt_4C_Inst2		numeric	12	Amount 4C. Instance 2.
+2	Prt4_SF/Amt_4H_sf	Amt_4C_inst3		numeric	12	Amount 4C. Instance 3
+2	Prt4_SF/Amt_4H_sf	Days_bfr_2020		numeric	3	Number of days in the tax year before July 1, 2026. Instance 2.
+2	Prt4_SF/Amt_4H_sf	Days_in_TxYr_1		numeric	3	Number of days in the tax year. Instance 3.
+2	Prt4_SF/Amt_4H_sf	Amt_4D		numeric	12	Amount 4D. Amount 4C multiplied by the result of number of days in the tax year before July 1, 2026 divided by number of days in the tax year, multiplied by 8.3%.
+2	Prt4_SF/Amt_4H_sf	Amt_4C_inst4		numeric	12	Amount 4C. Instance 4
+2	Prt4_SF/Amt_4H_sf	Days_aftr_2019		numeric	3	Number of days in the tax year after June 30, 2026. Instance 2.
+2	Prt4_SF/Amt_4H_sf	Days_in_TxYr_2		numeric	3	Number of days in the tax year. Instance 4.
+2	Prt4_SF/Amt_4H_sf	Amt_4E		numeric	12	Amount 4E. Amount 4C multiplied by the result of number of days in the tax year after June 30, 2026 divided by number of days in the tax year, multiplied by 9.3%.
+2	Prt4_SF/Amt_4H_sf	Amt_4F_inst1		numeric	12	Amount 4F. Total. Amount 4D plus amount 4E. Instance 1.
+2	Prt4_SF/Amt_4H_sf	Amt_4F_inst2		numeric	12	Amount 4F. Instance 2.
+2	Prt4_SF/Amt_4H_sf	Amt_4G		numeric		Amount 4G. Ontario domestic factor. Amount 2I.
+2	Prt4_SF/Amt_4H_sf	Amt_4F		numeric	12	Amount 4H. Ontario credit union tax reduction. Amount 4F multiplied by amount 4G. Enter amount 4H on line 410 of Schedule 5.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		

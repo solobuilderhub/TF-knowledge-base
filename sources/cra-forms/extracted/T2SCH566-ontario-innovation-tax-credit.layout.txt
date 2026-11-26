@@ -1,0 +1,389 @@
+                    Ontario Innovation Tax Credit                                                                                                                               Schedule 566
+                       (2016 and later tax years)
+                                                                                                                                                                                         Code 1601
+                                                                                            Business number                                                                        Protected B
+                                                                                                                                                                                  when completed
+
+Corporation's name                                                                                                                                                              Tax year-end
+
+                                                                                                                                                                          Year  Month Day
+
+· Use this schedule to claim an Ontario innovation tax credit (OITC). A qualifying corporation must:
+  ­ have had a permanent establishment in Ontario during the tax year;
+  ­ have carried on scientific research and experimental development (SR&ED) in Ontario during the tax year;
+  ­ be eligible to claim a federal investment tax credit under section 127 of the federal Income Tax Act for its qualified expenditures; and
+  ­ have filed Form T661, Scientific Research and Experimental Development (SR&ED) Expenditures Claim, and
+    Schedule 31, Investment Tax Credit ­ Corporations, within 18 months of the tax year-end.
+
+· The OITC is a refundable tax credit based on the sum of the corporation's qualified expenditures incurred in Ontario and any eligible repayments. The
+   refundable tax credit is:
+
+  ­ 10% for tax years that end before June 1, 2016;
+  ­ 8% for tax years that start after May 31, 2016;
+  ­ prorated for a tax year that ends on or after June 1, 2016, and includes May 31, 2016.
+
+· If you made a repayment of any government or non-government assistance, or contract payments that reduced your SR&ED qualified expenditure
+  pool for OITC purposes, the amount of the repayment is eligible for a credit to the extent that your SR&ED qualified expenditure pool for OITC
+  purposes was reduced because of the government or non-government assistance, or contract payments.
+
+· The OITC is available to a maximum annual expenditure limit of $3 million. Associated corporations must share the annual expenditure limit.
+
+· Qualifying corporations are eligible to claim the full OITC with a qualified expenditure limit of $3 million where their specified capital amount or
+  their federal taxable income for the previous tax year is not more than $25 million and $500,000, respectively. If one of these amounts is more
+  than the respective threshold, the $3 million limit is progressively reduced.
+
+· A corporation can waive its eligibility for all or part of the OITC by completing Part 7 of this schedule.
+
+· Expenditure limit, qualified expenditure, and eligible repayments are defined in subsections 96(3), 96(3.1), as well as 96(8) and 96(12)
+  of the Taxation Act, 2007 (Ontario), respectively.
+
+· File this schedule with your T2 Corporation Income Tax Return.
+
+    Part 1 ­ Eligibility                                                                                                                                                        2 No
+1. Did the corporation have a permanent establishment in Ontario at any time during the tax year? . . . . . . . . . . . . . . . . . . . 100 1 Yes                               2 No
+2. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario)? . . . . . . . . . . . . . 105 1 Yes                                 2 No
+3. Did the corporation carry on SR&ED in Ontario during the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110 1 Yes
+4. Is the corporation eligible to claim an investment tax credit under section 127 of the federal Income Tax Act                                                                2 No
+                                                                                                                                                                                2 No
+   on qualified expenditures made in the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115 1 Yes
+5. Did the corporation file Form T661 for the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120 1 Yes
+If you answered yes to question 2 or no to question 1, 3, 4, or 5, you are not eligible for the Ontario innovation tax credit.
+
+Part 2 ­ SR&ED qualified expenditure pool
+
+SR&ED qualified expenditure pool * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215                      A
+
+* The SR&ED expenditure pool is not reduced for amounts considered to be specified contract payments. See Part 8 of this schedule.
+  Include only Ontario qualified expenditures of a current nature and shared-use equipment acquired before 2014. Capital expenditures
+
+  incurred after 2013 no longer qualify.
+
+T2 SCH 566 E (17)   (Ce formulaire est disponible en français)                                               Page 1 of 7
+Part 3 ­ Eligible repayments                                                                                                                                                                 Protected B
+                                                                                                                                                                                            when completed
+Designated repayments made in the year of government or non-government
+assistance or contract payments relating to Ontario qualified expenditures of                                                                                                                              B
+a current nature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300
+                                                                                                                                                                                                           C
+Designated repayments made in the year of government or non-government                                                                                                                                     D
+
+assistance or contract payments relating to Ontario qualified expenditures of                                                   a
+a capital nature incurred before 2014 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 305
+
+Designated repayments made in the             × 25% = 315                                                                       b
+year of government or non-government
+assistance or contract payments relating
+to Ontario qualified expenditures for
+first term or second term shared-use
+equipment acquired before 2014 . . . . . 310
+
+                                              Subtotal (amount a plus amount b)                                                 × 0.4 = 320
+
+Eligible repayments (amount B plus amount C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 325
+
+Note:
+Eligible repayments are reported in Part 7 as follows:
+­ at amount j, line 703, or line 709 (as applicable) for qualified expenditures incurred in tax years ending before June 1, 2016;
+­ at line 704 for qualified expenditures incurred in tax years starting after May 31, 2016; and
+­ at line 708 for qualifying expenditures incurred in a tax year that ends on or after June 1, 2016, and includes May 31, 2016.
+
+Part 4 ­ Expenditure limit
+
+For a stand-alone corporation:
+
+Taxable income for the previous tax year (before any loss carrybacks being
+applied) * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400  c
+
+Amount c or $500,000, whichever is greater . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     × 10 =                                                   E
+
+Excess ($8,000,000 minus amount E) ** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               F
+
+Specified capital amount for the
+
+corporation, for the previous tax             minus $25,000,000 = 405
+
+year (line 500 in Part 5) . . . . . . .                                                                                         d**
+
+$25,000,000 minus amount d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 410                  e**
+
+Expenditure limit for the stand-alone corporation: (amount F × amount e) = . . . . . . . . . . . . . . . . . . . . . . . . . . . 415                                                        G***
+
+                                              25,000,000
+
+  * If any of the tax years referred to at line 400 is less than 51 weeks, multiply the taxable income by 365 and divide by the number of days in the tax year.
+ ** If the result is negative, enter "0".
+*** Amount G cannot be more than $3,000,000.
+
+                                                                                                                                                                                            Page 2
+Part 4 ­ Expenditure limit (continued)                                                                                                                                        Protected B
+                                                                                                                                                                             when completed
+For associated corporations:
+                                                                                                                                                                                            H
+Total of all taxable incomes of the corporation and of its associated corporations                                          f                                                                I
+(before any loss carrybacks being applied) for their last tax year ending in the
+previous calendar year* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 420        × 10 =
+
+Amount f or $500,000, whichever is greater . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Excess ($8,000,000 minus amount H) ** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Specified capital amount of the
+
+corporation and of its associated
+
+corporations for their last tax year
+
+ending in the previous calendar                            minus $25,000,000 = 425                                          g**
+year (line 505 in Part 5) . . . . . . .
+
+$25,000,000 minus amount g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 430              h**
+
+Expenditure limit for associated corporations: (amount I × amount h ) = . . . . . . . . . . . . . . . . . . . . . . . . . . . . 435                                          J
+
+                                                           25,000,000
+
+Enter at amount P in Part 6.
+
+Expenditure limit for the corporation (amount allocated from column 3 in Part 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 440                       K***
+
+Expenditure limit where the tax year of the stand-alone or associated corporation is less than 51 weeks:
+
+Calculate the amount of the expenditure limit as follows:
+
+Amount G or amount K, whichever applies                                × number of days in the tax year = 445                                                                L
+
+                                                                                                                       365
+
+  * If any of the tax years referred to at line 420 is less than 51 weeks, multiply the taxable income by 365 and divide by the number of days in the tax year.
+ ** If the result is negative, enter "0".
+*** Amount K cannot be more than $3,000,000.
+
+                                                                                                                                                                             Page 3
+    Part 5 ­ Calculation of the specified capital amount                                                                                                               Protected B
+For stand-alone corporations (see notes below):                                                                                                                       when completed
+Specified capital amount for the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 500
+                                                                                                                                                                                     M
+For associated corporations (see notes below and subsection 96(4.1) of Taxation Act, 2007 (Ontario)):
+Specified capital amount for the corporation and each of its associated corporations for their last tax year                                                                         N
+ending in the previous calendar year (complete the table below) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 505
+
+                     1                                        2                                                                3
+Name of associated corporations                                                                               Specified capital amount
+                                 Business Number of associated corporations
+                                 (enter "NR" if a corporation is not registered))                                            520
+
+510                                                                           515                                                                   O
+
+   1.                                                                         Total specified capital amount
+   2.
+   3.
+   4.
+   5.
+
+Enter on line 505 the total specified capital amount in column 3 (amount O).
+
+Notes for stand-alone corporations and associated corporations
+
+1. If the corporation is an insurance corporation or a credit union for a tax year, enter the amount of the corporation's taxable capital employed in
+     Canada for the applicable tax year, from line 590, 690, or 790 of Schedule 35, Taxable Capital Employed in Canada ­ Large Insurance Corporations,
+     or line 690 of Schedule 34, Taxable Capital Employed in Canada ­ Financial Institutions.
+
+2. If the corporation is a financial institution, as defined in subsection 96(18) of the Taxation Act, 2007 (Ontario), for a tax year, enter the amount of the
+     corporation's adjusted taxable paid-up capital for the applicable tax year. You can use Schedule 514, Ontario Capital Tax on Financial Institutions to
+     calculate this amount.
+
+3. For all other corporations, enter the amount of the corporation's taxable capital for the applicable tax year. You can use Schedule 515, Ontario
+     Capital Tax on Other Than Financial Institutions to calculate this amount.
+
+                                                                                                                                                                      Page 4
+    Part 6 ­ Agreement among associated corporations to allocate the expenditure limit                                                                                               Protected B
+                                                                                                                                                                                        when completed
+          1                                                                                                             2
+                                                                                                                                                                              3
+          Name of associated corporations                             Business Number
+                                                                 of associated corporations                                                        Expenditure limit allocated * (allocate the
+                                                     (enter "NR" if a corporation is not registered)                                             amount of the expenditure limit from line 435
+
+          600                                                                                                           605                        in Part 4 to each associated corporation)
+
+                                                                                                                                                                            610
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+                                                                                                                        Total expenditure limit                              P
+
+Enter on line 440 in Part 4 the expenditure limit allocated to the corporation in column 3.
+
+* Special rules apply if the corporation has more than one tax year ending in a calendar year and is associated in more than one of those years with
+  another corporation that has a tax year ending in the same calendar year. In this case, the expenditure limit of the corporation for the second (and later)
+  tax year(s) will be equal to the expenditure limit allocated for the first tax year ending in the calendar year.
+
+    Part 7 ­ Calculation of the Ontario innovation tax credit
+
+For tax years ending before June 1, 2016:
+
+SR&ED qualified expenditure pool (line 215 in Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . .                                        i
+
+Eligible repayments (see note in Part 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                             j
+
+                                           Subtotal (amount i plus amount j) 700                                                                 k
+
+Expenditure limit (line 415, 440, or 445, whichever applies) . . . . . . . . . . . . . . . . . . . . .                                           l
+
+Amount k or amount l, whichever is less . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 705                                      m
+
+Ontario innovation tax credit for tax years ending before June 1, 2016 (amount m x 10%) . . . . . . . . . . . . . . . . . . . . . . 710                                      Q
+
+For a tax year that ends on or after June 1, 2016, and includes May 31, 2016:
+
+SR&ED qualified expenditure pool (line 215 in Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  R
+
+Eligible repayments made in the year for tax years ending before June 1, 2016                                           703                      n
+(see note in Part 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Repayment for a tax year (transition year) that ends on or after June 1, 2016, and includes May 31, 2016. Complete the proration calculation below.
+
+Number of days in the transition           × 10% =           %1
+    year before June 1, 2016               × 8% =            %2
+                                                             %3
+      Number of days in the
+            transition year
+
+Number of days in the transition
+     year after May 31, 2016
+
+      Number of days in the
+            transition year
+
+          Subtotal (percentage 1 plus percentage 2)
+
+Amount n                          ×                  10 %    = ............................................                                                                  S
+                                      percentage 3        %
+
+                                                                                                                           Subtotal (amount R plus amount S) 701             T
+
+                                                                                                                                                                             Page 5
+Part 7 ­ Calculation of the Ontario innovation tax credit (continued)                                                                                                                    Protected B
+                                                                                                                                                                                        when completed
+Expenditure limit (line 415, 440, or 445, whichever applies) . . . . . . . . . . . . . . . . . . . . . .                   o
+                                                                                                                                                                                                      U
+Lesser of amount T and o . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 706         p                                                                          V
+                                                                                                                                                                                                      W
+Ontario innovation tax credit for a tax year that ends on or after June 1, 2016 and
+includes May 31, 2016 (amount p multiplied by percentage 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 711                                           X
+                                                                                                                                                                                                      Y
+For tax years starting after May 31, 2016:                                                                                                                                                            Z
+SR&ED qualified expenditure pool (line 215 in Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                                                                                                                                                                                                      AA
+Eligible repayments made in the year for tax years starting after May 31, 2016 (see note in Part 3) . . . . . . . . . . . . . . . . . . . . 704
+                                                                                                                                                                                                      BB
+Eligible repayments made for a tax year (the transition year) that ends                 708                                q                                                                          CC
+on or after June 1, 2016, and includes May 31, 2016 (see note in Part 3) . . . . . . .
+
+Repayment made in the year for a tax year (transition year) that ends on or after June 1, 2016, and includes May 31, 2016.
+Complete the proration calculation below.
+
+Number of days in the transition  716  × 10% =
+                                       × 8% =
+year before June 1, 2016                                                 %4
+                                                                         %5
+Number of days in the             718                                    %6
+
+          transition year
+
+Number of days in the transition
+
+year after May 31, 2016           717
+
+Number of days in the
+     transition year
+
+          Subtotal (percentage 4 plus percentage 5)
+
+Amount q                          × percentage 6                         % =.....................................
+                                                                     8%        × 1.25 = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Eligible repayments made in the year for tax years       709
+ending before June 1, 2016 (see note in Part 3) . . . .
+
+                                                                               Subtotal (total of amounts V, W, X, and Y) 702
+
+Expenditure limit (from line 415, 440, or 445, whichever applies) . . . . . . . . . . . . . . . . . .                      r
+
+Lesser of Z and r . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 707  s
+
+Ontario innovation tax credit for tax years starting after May 31, 2016 (amount s x 8%). . . . . . . . . . . . . . . . . . . . . . . . . 712
+
+Are you waiving all or part of the OITC? . . . . . 715 1 Yes             2 No
+
+If you answered yes at line 715, enter the amount of the tax credit waived on line 720.
+If you answered no at line 715, enter "0" on line 720.
+
+Waiver of the tax credit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 720
+
+Ontario innovation tax credit claimed (amount from line 710, 711, or 712, whichever applies, minus amount BB) . . . . . . . . . .
+Enter amount CC on line 468 on page 5 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+                                                                                                                                                                                        Page 6
+                                                                                                                                             Protected B
+                                                                                                                                            when completed
+
+    Part 8 ­ Specified contract payments
+
+· Specified contract payments, as defined in subsection 96(11) of the Taxation Act, 2007 (Ontario), are contract payments received for the performance
+
+  of SR&ED carried on in Ontario by a payor corporation that does not have a permanent establishment in Ontario and is not entitled to claim the OITC.
+
+· According to subsection 96(9) of the Taxation Act, 2007 (Ontario), the recipient does not have to deduct the specified contract payment from its
+
+  SR&ED qualified expenditure pool.
+
+· Specified contract payments include all amounts that are received, receivable, or reasonably expected to be received by the corporation.
+
+Note
+A corporation cannot claim SR&ED credits for contract payments received from another corporation that are not specified contract payments.
+These payments, if eligible, would be claimed by the corporation making the payments.
+
+Provide details of specified contract payments received for which the OITC is being claimed:
+
+                              1                                           2
+    Name of corporation making the payment  Address of the corporation making the payment
+
+                 800                                                                          805
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+                          3                                        4                                                 5
+    Is this an arm's length transaction?                Gross amount of                            Actual SR&ED expenditure
+                                            specified contract payment received               relating to contract included in claim
+           810
+                                                                  815                                              820
+
+1.  1 Yes  2 No
+
+2.  1 Yes  2 No
+
+3.  1 Yes  2 No
+
+4.  1 Yes  2 No
+
+5.  1 Yes  2 No
+
+                                                                                                                                                        Page 7
+

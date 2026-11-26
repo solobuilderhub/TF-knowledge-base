@@ -1,0 +1,63 @@
+page	part	field	line	kind	digits	speak
+1	Ident_bar	Corp_Name		text		Name of corporation.
+1	Ident_bar	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident_bar/Tax_y-e	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_sf/P1_Ln100_sf	P1_Ln100_inpt	100	text		Line 100. Name of corporation. From certificate of eligibility, if different from above.
+1	Part1_sf/P1_Ln110_sf	P1_Ln110_inpt	110	text		Line 110. Name of person to contact for more information.
+1	Part1_sf/P1_Ln120_sf	P1_Ln120_inpt	120	text		Line 120. Telephone number including area code. 10 digits.
+1	Part1_sf/P1_Ln150_rdo	Option1	150	check		Line 150. Is the claim filed for an Ontario book publishing tax credit earned through a partnership? Yes.
+1	Part1_sf/P1_Ln150_rdo	Option2	150	check		Line 150. Is the claim filed for an Ontario book publishing tax credit earned through a partnership? No.
+1	Part1_sf	P1_Ln160_inpt	160	text		Line 160. If you answered yes to the question at line 150, what is the name of the partnership?
+1	Part1_sf/P1_Ln170_inpt	Amount	170	numeric		Line 170. Enter the percentage of the partnership's Ontario book publishing tax credit allocated to the corporation.
+1	Part2_sf/P2_Ln200_sf	P2_Ln200_inpt	200	text		Line 200. Certificate of eligibility number.
+1	Part2_sf/P2_Ln210_sf	P2_Ln210_inpt	210	text		Line 210. Title of literary work.
+1	Part2_sf/P2_Ln220_sf	P2_Ln220_inpt	220	text		Line 220. Names of authors and illustrators.
+1	Part2_sf/P2_Ln230_sf/P2_Ln230_inpt	DateYYYYMM_Comb	230	text		Line 230. Date of publication. Year 4 digits. Month 2 digits.
+1	Part2_sf/P2_Ln240_sf/P2_Ln240_inpt	DateYYYYMMDD_Comb	240	text		Line 240. Date of certificate. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part2_sf/P2_Ln250_sf	P2_Ln250_inpt	250	text		Line 250. Genre.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Part3_sf/P3_Ln300_rdo	Option1	300	check		Line 300. Question 1. Was the corporation a Canadian-controlled corporation throughout the tax year, as determined under sections 26 to 28 of the Investment Canada Act? Yes.
+2	Part3_sf/P3_Ln300_rdo	Option2	300	check		Line 300. Question 1. Was the corporation a Canadian-controlled corporation throughout the tax year, as determined under sections 26 to 28 of the Investment Canada Act? No.
+2	Part3_sf/P3_Ln310_rdo	Option1	310	check		Line 310. Question 2. Did the corporation, for the tax year, carry on a book publishing business primarily through a permanent establishment in Ontario? Yes.
+2	Part3_sf/P3_Ln310_rdo	Option2	310	check		Line 310. Question 2. Did the corporation, for the tax year, carry on a book publishing business primarily through a permanent establishment in Ontario? No.
+2	Part3_sf/P3_Ln320_rdo	Option1	320	check		Line 320. Question 3. Was the corporation exempt from tax under Part 3 of the Taxation Act, 2007, Ontario? Yes.
+2	Part3_sf/P3_Ln320_rdo	Option2	320	check		Line 320. Question 3. Was the corporation exempt from tax under Part 3 of the Taxation Act, 2007, Ontario? No.
+2	Part3_sf/P3_Ln330_rdo	Option1	330	check		Line 330. Question 4. Is the corporation controlled by the author of the literary work, or by a person not dealing at arm's length with the author? Yes.
+2	Part3_sf/P3_Ln330_rdo	Option2	330	check		Line 330. Question 4. Is the corporation controlled by the author of the literary work, or by a person not dealing at arm's length with the author? No.
+2	Part4_sf	P4_Ln400_inpt	400	numeric	12	Line 400. Amount of non-refundable monetary advances made to the eligible Canadian authors.
+2	Part4_sf	P4_Ln410_inpt	410	numeric	12	Line 410. Salaries and wages for editing, design, and project management.
+2	Part4_sf	P4_Ln420_inpt	420	numeric	12	Line 420. Freelance fees relating to editing, design, and research.
+2	Part4_sf	P4_Ln430_inpt	430	numeric	12	Line 430. Amounts for artwork, developing prototypes, set-up and typesetting.
+2	Part4_sf	P4_Ln435_inpt	435	numeric	12	Line 435. Salaries, wages, fees, and other amounts for scanning, editing, formatting, indexing, encryption, and establishing digital rights management or other technological protection measures, incurred after March 26, 2009.
+2	Part4_sf	P4_Ln4A_inpt1		numeric	12	Amount 4A. Subtotal. Total of lines 410 to 435. Instance 1.
+2	Part4_sf	P4_Ln4A_inpt2		numeric	12	Amount 4A. Instance 2.
+2	Part4_sf	P4_Ln440_inpt	440	numeric	12	Line 440. Expenditures.
+2	Part4_sf	P4_Ln450_inpt	450	numeric	12	Line 450. Line 440 multiplied by 50%.
+2	Part4_sf	P4_Ln460_inpt	460	numeric	12	Line 460. Expenditures for book promotional tours of eligible Canadian authors, excluding costs for meals and entertainment.
+2	Part4_sf	P4_Ln465_inpt	465	numeric	12	Line 465. Expenditures for meals and entertainment of eligible Canadian authors on promotional tours.
+2	Part4_sf	P4_Ln470_inpt	470	numeric	12	Line 470. Line 465 multiplied by 50%.
+2	Part4_sf	P4_Ln480_inpt	480	numeric	12	Line 480. Salaries and wages of employees for the marketing of the book.
+2	Part4_sf	P4_Ln490_inpt	490	numeric	12	Line 490. Other amounts, not included above, incurred for promoting and marketing the book.
+2	Part4_sf	P4_Ln4B_inpt1		numeric	12	Amount 4B. Subtotal. Total of lines 460 to 490. Instance 1.
+2	Part4_sf	P4_Ln4B_inpt2		numeric	12	Amount 4B. Instance 2.
+2	Part4_sf	P4_Ln500_inpt	500	numeric	12	Line 500. Total qualifying expenditures. Total of line 400, amount 4A, line 450 and amount 4B.
+2	Part4_sf	P4_Ln510_inpt	510	numeric	12	Line 510. Government assistance attributed to qualifying expenditures on line 500. Includes amounts received, entitled to be received, or reasonably expected to be received.
+2	Part4_sf	P4_Ln520_inpt	520	numeric	12	Line 520. Qualifying expenditures included in the amount on line 500 that were included in determining the available credit in a previous tax year.
+2	Part4_sf	P4_Ln4C_inpt1		numeric	12	Amount 4C. Subtotal. Line 510 plus line 520. Instance 1.
+2	Part4_sf	P4_Ln4C_inpt2		numeric	12	Amount 4C. Instance 2.
+2	Part4_sf	P4_Ln530_inpt	530	numeric	12	Line 530. Total qualifying expenditures eligible for the Ontario book publishing tax credit. Line 500 minus amount 4C.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	Part5_sf	P5_Ln5A_inpt1		numeric	12	Total qualifying expenditures eligible for credit. Line 530 in Part 4.
+3	Part5_sf	P5_Ln5A_inpt2		numeric	12	Amount 5A. Line 530 in Part 4 multiplied by 30%.
+3	Part5_sf	Amount		numeric		Maximum credit available.
+3	Part5_sf	P5_Ln540_inpt	540	numeric	12	Line 540. Total credit claimed in a previous tax year.
+3	Part5_sf	P5_Ln5B_inpt1		numeric	12	Amount 5B. Unused credit available. 30,000 minus line 540. Instance 1.
+3	Part5_sf	P5_Ln5B_inpt2		numeric	12	Amount 5B. Instance 2.
+3	Part5_sf	P5_Ln550_inpt	550	numeric	12	Line 550. Ontario book publishing tax credit. Lesser of amount 5A or amount 5B. Instance 1.
+3	Part5_sf	P3_Ln5C_inpt1	550	numeric	12	Line 550. Instance 2.
+3	Part5_sf	P5_Ln5C_inpt2		numeric		Percentage on line 170.
+3	Part5_sf	P5_Ln5C_inpt3		numeric	12	Amount 5C. Line 550 multiplied by the percentage on line 170.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		

@@ -1,0 +1,149 @@
+                       British Columbia Interactive Digital Media Tax Credit                                                                                                     Schedule 429
+                                          (2025 and later tax years)
+                                                                                                                                                                                          Code 2501
+                                                                                                              Business number
+                                                                                                                                                                                     Protected B
+                                                                                                                                                                                   when completed
+
+Corporation's name                                                                                                                                            Tax year-end
+                                                                                                                               Year                                              Month Day
+
+· Use this schedule to claim a British Columbia interactive digital media tax credit (BCIDMTC) under Part 10 of the Income Tax Act (British Columbia).
+
+· The BCIDMTC program provides a refundable tax credit on net eligible salary and wages incurred by eligible corporations that develop
+
+  interactive digital media products in British Columbia. For net eligible salary and wages incurred before September 1, 2025, the credit rate
+  is 17.5%. For net eligible salary and wages incurred after August 31, 2025, the credit rate is 25%.
+
+· A corporation cannot claim the BCIDMTC if it has claimed a British Columbia scientific research and experimental development tax credit for the tax year.
+
+· A corporation is eligible for the BCIDMTC if it meets all of the following criteria:
+ ­ it is registered with the British Columbia Ministry of Finance for the tax year
+ ­ it has a permanent establishment in British Columbia at any time during the tax year
+ ­ it is a taxable Canadian corporation throughout the tax year
+ ­ either of the following applies:
+
+      (i) the corporation has eligible salary and wages for the tax year of $2,000,0001 or more
+      (ii) the corporation has eligible salary and wages for the tax year of more than $100,0001 and less than $2,000,0001, and either of the following
+
+             applies:
+
+            (A) the corporation's principal business in the tax year is the development of interactive digital media products
+            (B) all or substantially all of the corporation's business in the tax year consists of one or both of the following: the development of interactive
+
+                  digital media products, or the provision of eligible activities to a corporation that has a permanent establishment in British Columbia and either
+                  has as its principal business the development of interactive digital media products, or has eligible salary and wages of equal to or greater than
+                  $2,000,0001 in the tax year
+
+· An eligible business corporation registered under Part 2 of the British Columbia Small Business Venture Capital Act can claim the BCIDMTC if all the
+
+  eligibility criteria listed above are met.
+
+· To claim the BCIDMTC, file a completed copy of this schedule within 18 months of the end of the tax year in which the eligible salary and wages were
+
+  incurred. Late-filed tax credit forms will not be processed.
+
+· Include a completed copy of this schedule with the T2 Corporation Income Tax Return for the tax year.
+
+   Note 1
+   If the tax year is less than 365 days, the $100,000 and $2,000,000 thresholds are prorated based on the number of days in the tax year divided by 365.
+
+      Part 1 ­ Contact information                                                                         153 Telephone number including area code
+
+151 Name of person to contact for more information
+
+Part 2 ­ Registration
+
+Has the corporation applied to the British Columbia Ministry of Finance for a registered number so it can                                                                        No
+claim a British Columbia interactive digital media tax credit?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210 Yes
+
+If you answered yes to the question at line 210, please give the registration number . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+
+If you do not register the corporation, you are not eligible for the BCIDMTC.
+
+T2 SCH 429 E (25)                                   (Ce formulaire est disponible en français.)                                Page 1 of 3
+                                                                                                                   Protected B when completed
+
+Part 3 ­ Eligibility
+
+1. Has the corporation claimed a British Columbia scientific research and experimental development tax credit for
+the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310 Yes  No
+
+Was the corporation at any time in the tax year:
+
+2. exempt from tax under section 27 of the Income Tax Act (British Columbia)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 315 Yes                                      No
+
+3. exempt from tax under Part I of the Income Tax Act (federal act)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 320 Yes                             No
+
+4. a prescribed labour-sponsored venture capital corporation for the purpose of section 127.4 of the federal act? . . . . . . . . . . 325 Yes                                                      No
+
+5. a corporation that has an employee share ownership plan registered under section 2 of the Employee Investment Act? . . . 330 Yes                                                                No
+
+6. registered as an employee venture capital corporation under section 8 of the Employee Investment Act? . . . . . . . . . . . . . . 335 Yes                                                       No
+
+7. a small business venture capital corporation registered under section 3 of the Small Business Venture Capital Act? . . . . . . 340 Yes                                                          No
+
+8. controlled directly or indirectly in any way by one or more corporations described in questions 2 to 7? . . . . . . . . . . . . . . . . . 350 Yes                                               No
+
+9. a personal services business as defined in subsection 125(7) of the federal act? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 355 Yes                                      No
+
+If you answered yes to any of the above questions, you are not eligible for the BCIDMTC.
+
+Part 4 ­ Net eligible salary and wages
+
+Eligible salary and wages incurred before September 1, 20252 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+Designated assistance for salary and wages incurred before September 1, 20253 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 450
+Net eligible salary and wages incurred before September 1, 2025 (line 400 minus line 450) (if negative, enter "0") . . . . . . . . . 490
+
+Eligible salary and wages incurred after August 31, 20252 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 405
+Designated assistance for salary and wages incurred after August 31, 20253 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 455
+Net eligible salary and wages incurred after August 31, 2025 (line 405 minus line 455) (if negative, enter "0") . . . . . . . . . . . . 495
+
+Note 2
+Salary and wages has the same meaning as "salary or wages" in subsection 248(1) of the federal act. Eligible salary and wages includes amounts that:
+
+a) are directly attributable to eligible activities
+
+b) are incurred by the corporation in the tax year
+
+c) are paid to an individual who was resident in British Columbia at the end of December 31 of the year before the end of the tax
+    year for which a tax credit is claimed
+
+d) are either of the following:
+
+   ­ included in the cost of a property to the corporation in the tax year or, in the case of depreciable property, the capital cost to
+
+         the corporation in the tax year
+
+   ­ deductible as an outlay or expense in calculating the income of the corporation for the tax year
+
+Eligible salary and wages do not include amounts listed under subsection 134(1) of the Income Tax Act (British Columbia).
+
+Note 3
+Designated assistance is the total of all amounts that would be included under paragraph 12(1)(x) of the federal act in calculating
+the income of the corporation for the tax year, if that paragraph were read without reference to subparagraphs (v) to (vii) of that
+paragraph, and that can reasonably be considered to be for eligible salary and wages. Designated assistance does not include:
+
+a) a prescribed amount, no amount has been designated as prescribed
+b) an amount considered to have been paid under section 135 of the Income Tax Act (British Columbia)
+c) an amount deducted under subsection 127(5) or 127(6) of the federal act
+
+T2 SCH 429 E (25)                                                                                                                                                                                  Page 2 of 3
+                                                                                             Protected B when completed
+
+Part 5 ­ British Columbia interactive digital media tax credit
+
+British Columbia interactive digital media tax credit for net eligible salary and            × 17.5% = . . . . . . . . . . .                                A
+wages incurred before September 1, 2025 (line 490 from Part 4) . . . . . . . . . . . . .
+
+British Columbia interactive digital media tax credit for net eligible salary and            × 25% = . . . . . . . . . . .                                  B
+wages incurred after August 31, 2025 (line 495 from Part 4) . . . . . . . . . . . . . . . .
+
+British Columbia interactive digital media tax credit (amount A plus amount B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  C
+
+Enter amount C on line 680 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+                                                                                             See the privacy notice on your return.
+
+T2 SCH 429 E (25)                                                                                                                                           Page 3 of 3
+

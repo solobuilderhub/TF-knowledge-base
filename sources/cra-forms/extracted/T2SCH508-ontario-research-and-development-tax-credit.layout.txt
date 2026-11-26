@@ -1,0 +1,333 @@
+                                Ontario Research and Development Tax Credit                                                                                     Schedule 508
+                                               (2016 and later tax years)
+                                                                                                                                                                             Code 1601
+                                                                                                                Business number                   Protected B when completed
+
+Corporation's name                                                                                                                                              Year  Tax year-end
+                                                                                                                                                                      Month Day
+
+· Use this schedule to:
+
+     ­ calculate an Ontario research and development tax credit (ORDTC);
+     ­ claim an ORDTC earned in the tax year or carried forward from any of the 20 previous tax years that are a tax year ending after
+
+        December 31, 2008, to reduce Ontario corporate income tax payable in the current tax year;
+     ­ carry back an ORDTC earned in the tax year to reduce Ontario corporate income tax payable in any of the three previous tax years;
+     ­ add an ORDTC that was allocated to the corporation by a partnership of which it was a member;
+
+     ­ add an ORDTC transferred after an amalgamation or windup; or
+     ­ calculate a recapture of the ORDTC.
+
+· The ORDTC is a non-refundable tax credit on eligible expenditures incurred by a corporation in a tax year. The ORDTC rate is:
+
+     ­ 4.5% for tax years that end before June 1, 2016;
+     ­ 3.5% for tax years that start after May 31, 2016; and
+
+     ­ prorated for a tax year that ends on or after June 1, 2016, and includes May 31, 2016.
+
+· An eligible expenditure is an expenditure for a permanent establishment in Ontario of a corporation, that is a qualified expenditure for the purposes
+
+  of section 127 of the federal Income Tax Act for scientific research and experimental development (SR&ED) carried on in Ontario.
+
+· Only corporations that are not exempt from Ontario corporate income tax and none of whose income is exempt income can claim the ORDTC.
+
+· Complete and attach this schedule to the T2 Corporation Income Tax Return for the tax year.
+· To claim this credit, you must also send in completed copies of the Form T661, Scientific Research and Experimental Development (SR&ED)
+
+  Expenditures Claim, and the Schedule 31, Investment Tax Credit - Corporations, within 18 months of the tax year end.
+
+Part 1 ­ Ontario SR&ED expenditure pool
+
+Total eligible expenditures incurred by the corporation in Ontario in the tax year . . . . . . . . . . 100                                     A
+
+Government assistance, non-government assistance, or a contract payment for eligible
+expenditures. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+                                                                                                                                               B
+
+Net eligible expenditures for the tax year (amount A minus amount B) (if negative, enter "0") . . . . .                                        C
+
+Eligible expenditures transferred to the corporation by another corporation . . . . . . . . . . . . . . 110                                    D
+
+                                                                     Subtotal (amount C plus amount D)                                                                              E
+
+Eligible expenditures the corporation transferred to another corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115                      F
+
+Ontario SR&ED expenditure pool (amount E minus amount F) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120                                     G
+
+Part 2 ­ Eligible repayments
+
+The repayment of the ORDTC is calculated using the ORDTC rate that you used to determine your tax credit at the time your eligible expenditures were
+reduced because of the government or non-government assistance, or contract payments. Enter the amount of the repayment on the line that corresponds
+to the appropriate rate.
+
+Repayments for tax years that end before June 1, 2016 . . . . . . . . . . . . . . . . . . 210                                                  × 4.5% = 215                         H
+
+Repayment for a tax year that ends on or after June 1, 2016 and includes May 31, 2016. Complete the proration calculation below.
+
+Number of days in the tax year
+
+before June 1, 2016             240      × 4.5% =                         %1
+
+Number of days in the tax year 241
+
+Number of days in the tax year
+
+after May 31, 2016              242      × 3.5% =                         %2
+                                                                          %3
+Number of days in the tax year 243
+
+                    Subtotal (percentage 1 plus percentage 2)
+
+Repayments for a tax year that ends on or after June 1,              211                       × percentage 3                                  % = 216                              I
+2016, and includes May 31, 2016 . . . . . . . . . . . . . . . . . .
+
+T2 SCH 508 E (17)                    (Ce formulaire est disponible en français)                                                                Page 1 of 5
+                                                                                                                                                                     Protected B when completed
+
+Part 2 ­ Eligible repayments (continued)
+
+Repayments for tax years that start after May 31, 2016 . . . . . . . . . . . . . . . . . . . . 212                      × 3.5% = 217                                                   J
+
+Repayments made in the tax year of government or
+
+non-government assistance or contract payments
+
+that reduced eligible expenditures for first term or
+
+second term shared-use equipment acquired                            220      × 1/4 =                                   × 4.5% = 225                                                   K
+before 2014 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Eligible repayments (total of amounts H to K) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229                L
+
+Part 3 ­ Calculation of the current part of the ORDTC
+
+For tax years that end before June 1, 2016
+
+Ontario SR&ED expenditure pool (amount G in Part 1) . . . . . . . . . . . . . . . . . . . . . . . . .                   × 4.5% = 200                                                   M
+
+ORDTC allocated to the corporation by a partnership of which it is a member (other than a specified member)                                                          205               N
+for a fiscal period that ends in the corporation's tax year * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Eligible repayments (amount L in Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     O
+
+The ORDTC for tax years that end before June 1, 2016 (total of amounts M to O) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 230                                         P
+
+For a tax year that ends on or after June 1, 2016, and includes May 31, 2016
+
+Number of days in the tax year              × 4.5% =                      %4
+       before June 1, 2016
+
+Number of days in the tax year
+
+Number of days in the tax year              × 3.5% =                      %5
+        after May 31, 2016                                                %6
+
+Number of days in the tax year
+
+Subtotal (percentage 4 plus percentage 5)
+
+Ontario SR&ED expenditure pool (amount G in Part 1) . . . . . . .                                       × percentage 6  % = 201                                                        Q
+
+ORDTC allocated to the corporation by a partnership of which it is a member (other than a specified member)                                                          206               R
+for a fiscal period that ends in the corporation's tax year * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Eligible repayments (amount L in Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     S
+
+Part of the ORDTC for a tax year that ends on or after June 1, 2016, and includes May 31, 2016
+(total of amounts Q to S) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 231
+                                                                                                                                                                                       T
+
+For tax years that start after May 31, 2016                                                                             × 3.5% = 202                                                   U
+   Ontario SR&ED expenditure pool (amount G in Part 1) . . . . . . . . . . . . . . . . . . . . . . . .
+
+ORDTC allocated to the corporation by a partnership of which it is a member (other than a specified member)                                                          207               V
+for a fiscal period that ends in the corporation's tax year * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Eligible repayments (amount L in Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     W
+
+The ORDTC for tax years that start after May 31, 2016 (total of amounts U to W) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 232                                        X
+
+* If there is a disposal or change of use of eligible property, see Part 7 on page 4.
+
+                                                                                                                                                                                       Page 2
+     Part 4 ­ Calculation of ORDTC available for deduction and ORDTC balance                                                                        Protected B when completed
+ORDTC balance at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      Y
+ORDTC expired after 20 tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300                   Z
+ORDTC at the beginning of the tax year (amount Y minus amount Z) . . . . . . . . . . . . . . . . . . 305                                        AA
+ORDTC transferred to the corporation on amalgamation or windup . . . . . . . . . . . . . . . . . . . . 310                                      BB
+
+Current part of ORDTC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  CC                                                       EE
+                                                                                                                                                                                         FF
+(amount P, T or X in Part 3 whichever applies)
+
+Are you waiving all or part of the  315   Yes 1         No 2
+current part of the ORDTC?
+
+If you answered yes at line 315, enter the amount of
+the tax credit waived on line 320.
+
+If you answered no at line 315, enter "0" on line 320.
+
+Waiver of the current part of the ORDTC . . . . . . . . . . . . . . . . 320            DD
+
+                       Subtotal (amount CC minus amount DD)                                                                  
+
+ORDTC available for deduction (total of amounts AA, BB and EE) . . . . . . . . . . . . . . . . . . . . . . . .               
+                                                                                       
+ORDTC claimed ** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  GG
+
+(Enter amount GG on line 416 on page 5 of Schedule 5, Tax Calculation Supplementary ­
+
+Corporations)
+
+ORDTC carried back to previous tax years (from Part 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        HH
+
+                                                           Subtotal (amount GG plus amount HH)                                                           II
+
+ORDTC balance at the end of the tax year (amount FF minus amount II) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 325     JJ
+
+** This amount cannot be more than the lesser of the following amounts:
+  ­ ORDTC available for deduction (amount FF); or
+  ­ Ontario corporate income tax payable before the ORDTC and the Ontario corporate minimum tax credit (amount from line E6 on page 5 of Schedule 5).
+
+Part 5 ­ Request for carryback of tax credit
+
+                                    Year        Month Day
+
+1st previous tax year                                         . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 901
+2nd previous tax year
+3rd previous tax year                                         . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 902
+                                                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Credit to be applied 903
+
+                                                                                       Total (total of amount 901 to 903)(enter at amount HH in Part 4)
+
+                                                                                                                                                         Page 3
+                                                                                                                        Protected B when completed
+
+    Part 6 ­ Analysis of tax credit available for carryforward by tax year of origin
+
+    You can complete this part to show all the credits from previous tax years available for carryforward, by year of origin. This will help you determine
+    the amount of credit that could expire in following years.
+
+      Tax year of origin                                                                Tax year of origin
+    (earliest tax year first)                                                         (earliest tax year first)
+
+    Year  Month Day            Credit available                                       Year                   Month Day      Credit available
+
+                                                                                                         Current tax year
+
+                                                                                                                                     Total (equals line 325 in Part 4)
+
+    The amount available from the 20th previous tax year will expire after this year. When you file your return for the next year, you will enter the expired
+    amount on line 300 of Schedule 508 for that year.
+
+      Part 7 ­ Calculation of a recapture of ORDTC
+
+    You will have a recapture of ORDTC in a tax year when you meet all of the following conditions:
+
+      · you acquired a particular property in the current year or in any of the 20 previous tax years if the ORDTC was earned in a tax year ending after 2008;
+
+      · you claimed the cost of the property as an eligible expenditure for the ORDTC;
+
+      · the cost of the property was included in computing your ORDTC or was subject to an agreement made under subsection 127(13) of the federal Act
+
+         to transfer qualified expenditures and section 42 of the Taxation Act, 2007 (Ontario) applied; and
+
+      · you disposed of the property or converted it to commercial use in a tax year ending after December 31, 2008. You also meet this condition if you
+
+         disposed of or converted to commercial use a property which incorporates the particular property previously referred to.
+
+         Note: The recapture does not apply if you disposed of the property to a non-arm's length purchaser who intended to use it all or substantially all
+         for SR&ED in Ontario. When the non-arm's length purchaser later sells or converts the property to commercial use, the recapture rules will apply
+         to the purchaser based on the historical federal investment tax credit (ITC) rate *** of the original user in Calculation 1 below.
+
+    You have to report the recapture on Schedule 5 for the year in which you disposed of the property or converted it to commercial use. If the corporation
+    is a member of a partnership, report its share of the recapture.
+    Complete the columns for each disposition for which a recapture applies, using the calculation formats below.
+
+    *** Federal ITC in calculations 1 and 2 should be determined without reference to paragraph (e) of the definition investment tax credit in
+        subsection 127(9) of the federal Act.
+
+    Calculation 1 ­ Complete this part if you meet all of the above conditions
+
+          KK                                                                    LL                                      MM
+
+    Amount of federal ITC you originally calculated  Amount calculated using the federal ITC rate at the     Amount from column 700 or 710,
+     for the property you acquired, or the original    date of acquisition (or the original user's date of             whichever is less
+       user's federal ITC where you acquired the      acquisition) on either the proceeds of disposition
+       property from a non-arm's length party, as      (if sold in an arm's length transaction) or the fair
+                described in the note above            market value of the property (in any other case)
+
+          700                                                                   710
+
+1.
+2.
+3.
+4.
+5.
+
+                                                     Total of column MM (enter at amount WW in Part 8 )                                                                 NN
+
+                                                                                                                                                                        Page 4
+Part 7 ­ Calculation of a recapture of ORDTC (continued)                                                          Protected B when completed
+
+Calculation 2 ­ If the corporation is deemed by subsection 42(1) of the Taxation Act, 2007 (Ontario) to have transferred all or part of the
+eligible expenditure to another corporation as a consequence of an agreement described in subsection 127(13) of the federal Act complete
+Calculation 2. Otherwise, enter nil on line SS.
+
+                         OO                                            PP                                                                  QQ
+
+   Rate percentage that the transferee      Proceeds of disposition of the property if you                         Amount, if any, already provided for in
+   used to determine its federal ITC for       dispose of it to a person at arm's length;                         Calculation 1 (this allows for the situation
+qualified expenditure that was transferred   or, in any other case, the fair market value                         where only part of the cost of a property
+
+         under an agreement under            of the property at conversion or disposition                           is transferred for an agreement under
+   subsection 127(13) of the federal Act                                                                            subsection 127(13) of the federal Act)
+
+                                   720                    730                                                     740
+
+1.
+2.
+3.
+4.
+5.
+
+                     RR                                                SS                                                            TT
+                                            Federal ITC earned by the transferee for the
+Amount determined by the formula                                                                                  Amount from column RR or SS,
+            (OO x PP) - QQ                   qualified expenditure that was transferred                                     whichever is less
+
+     (using the columns above)
+
+                                                                                                         750
+
+1.
+2.
+3.
+4.
+5.
+
+                                            Total of column TT (enter at amount XX in Part 8)                                                                   UU
+
+Calculation 3
+
+As a member of a partnership, you will report your share of the ORDTC of the partnership after the ORDTC has been reduced by the amount of the
+recapture. If this is a positive amount, you will report it on line 205, 206, or 207 in Part 3, whichever applies. However, if the partnership does not have
+enough ORDTC otherwise available to offset the recapture, then the amount by which reductions to the ORDTC exceeds additions (the excess) will be
+determined and reported on line VV.
+
+Corporate partner's share of the excess of ORDTC (enter at amount ZZ in Part 8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 760               VV
+
+Part 8 ­ Total recapture of ORDTC
+
+Recaptured federal ITC for Calculation 1 (amount NN from Part 7) . . . . . . . . . . . . . . .                    WW                                            YY
+Recaptured federal ITC for Calculation 2 (amount UU from Part 7) . . . . . . . . . . . . . . .                    XX                                            ZZ
+Amount WW plus amount XX . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                AAA
+                                                                                                                     × 23.56% =
+
+Corporate partner's share of the excess of ORDTC for Calculation 3 (amount VV from Part 7) . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Recapture of ORDTC (amount YY plus amount ZZ) (enter amount AAA on line 277 on page 5 of Schedule 5) . . . . . . . . . . . .
+
+                                                                                                                                                                Page 5
+

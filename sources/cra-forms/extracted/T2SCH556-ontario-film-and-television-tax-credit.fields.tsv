@@ -1,0 +1,102 @@
+page	part	field	line	kind	digits	speak
+1	Info_sf	Info_inpt-Name		text		Corporation's name.
+1	Info_sf	Info_inpt-Number		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Info_sf/Info_grp-YrEnd	Info_grp_inpt-Field		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P1/Group110	P1_Frm_LnGrp_Ln110_inpt	110	text		Line 110. Name of contact person.
+1	Subform_P1/Group120	P1_Frm_LnGrp_Ln120_inpt	120	text		Line 120. Telephone number. 10 digits.
+1	Subform_P2/P2_Frm_Ln200_sf	P2_Frm_Ln200_inpt	200	text		Line 200. Certificate of eligibility number.
+1	Subform_P2/P2_Frm_Ln205_sf	P2_Frm_Ln205_inpt	205	text		Line 205. Production title.
+1	Subform_P2/line210/P2_Frm_LnGrp1_Ln210_grp	P2_Frm_LnGrp1_Ln210_grp_inpt	210	text		Line 210. Date principal photography commenced. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P2/Line215	P2_Frm_LnGrp1_Ln215_grp_inpt	215	text		Line 215. Production commencement time. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P2/Group220/RadioButtonGroup-220	Option1-220	220	check		Line 220. Is this a first-time production? Yes.
+1	Subform_P2/Group220/RadioButtonGroup-220	Option2-220	220	check		Line 220. Is this a first-time production? No.
+1	Subform_P2/Group225/RadioButtonGroup-225	Option1-225	225	check		Line 225. Did the production receive a regional bonus? Yes.
+1	Subform_P2/Group225/RadioButtonGroup-225	Option2-225	225	check		Line 225. Did the production receive a regional bonus? No.
+1	Subform_P2/Group230/RadioButtonGroup-230	Option1-230	230	check		Line 230. Was the production a treaty co-production? Yes.
+1	Subform_P2/Group230/RadioButtonGroup-230	Option2-230	230	check		Line 230. Was the production a treaty co-production? No.
+1	Subform_P2/Group235/RadioButtonGroup-235	Option1-235	235	check		Line 235. Was the production an interprovincial co-production? Yes.
+1	Subform_P2/Group235/RadioButtonGroup-235	Option2-235	235	check		Line 235. Was the production an interprovincial co-production? No.
+1	Subform_P2/Group240	Numeric_240	240	numeric		Line 240. Total estimated production costs.
+1	Subform_P2/Group245	Numeric_245	245	numeric		Line 245. Estimated qualifying Ontario labour expenditure.
+1	Subform_P2/Group250	Numeric_250	250	numeric		Line 250. Estimated Ontario film and television tax credit.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Subfomr_P3/Group300/RadioButtonGroup-300	Option1-300	300	check		Line 300. Question 1. Was the corporation a Canadian-controlled corporation throughout the tax year as determined under sections 26 to 28 of the Investment Canada Act? Yes.
+2	Subfomr_P3/Group300/RadioButtonGroup-300	Option2-300	300	check		Line 300. Question 1. Was the corporation a Canadian-controlled corporation throughout the tax year as determined under sections 26 to 28 of the Investment Canada Act? No.
+2	Subfomr_P3/Group310/RadioButtonGroup-310	Option1-310	310	check		Line 310. Question 2. Were the activities of the corporation in the tax year primarily the carrying on of a Canadian film or video production business through a permanent establishment in Canada? Yes.
+2	Subfomr_P3/Group310/RadioButtonGroup-310	Option2-310	310	check		Line 310. Question 2. Were the activities of the corporation in the tax year primarily the carrying on of a Canadian film or video production business through a permanent establishment in Canada? Yes.
+2	Subfomr_P3/Group320/RadioButtonGroup	Option1_320	320	check		Line 320. Question 3. Did the corporation have a permanent establishment in Ontario throughout the tax year? Yes.
+2	Subfomr_P3/Group320/RadioButtonGroup	Option2_320	320	check		Line 320. Question 3. Did the corporation have a permanent establishment in Ontario throughout the tax year? No.
+2	Subfomr_P3/Group330/RadioButtonGroup-330	Option1-330	330	check		Line 330. Question 4. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007, Ontario, or Part I of the federal Income Tax Act? Yes.
+2	Subfomr_P3/Group330/RadioButtonGroup-330	Option2-330	330	check		Line 330. Question 4. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007, Ontario, or Part I of the federal Income Tax Act? No.
+2	Subfomr_P3/Group340/RadioButtonGroup-340	Option1-340	340	check		Line 340. Question 5. Was the corporation, at any time in the tax year, controlled directly or indirectly, in any manner, by one or more persons, all or part of whose taxable income was exempt from tax under Part I of the federal Income Tax Act, Part II of the Corporations Tax Act, Ontario, or Part III of the Taxation Act, 2007, Ontario? Yes.
+2	Subfomr_P3/Group340/RadioButtonGroup-340	Option2-340	340	check		Line 340. Question 5. Was the corporation, at any time in the tax year, controlled directly or indirectly, in any manner, by one or more persons, all or part of whose taxable income was exempt from tax under Part I of the federal Income Tax Act, Part II of the Corporations Tax Act, Ontario, or Part III of the Taxation Act, 2007, Ontario? No.
+2	Subfomr_P3/Group350/RadioButtonGroup-350	Option1-350	350	check		Line 350. Question 6. Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation under 6701 of the Federal Income Tax Regulations? Yes.
+2	Subfomr_P3/Group350/RadioButtonGroup-350	Option2-350	350	check		Line 350. Question 6. Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation under 6701 of the Federal Income Tax Regulations? No.
+2	Subform_P4/Group400/RadioButtonGroup-400	Option1-400	400	check		Line 400. Have you claimed an Ontario production services tax credit for the same production identified in Part 2? Yes.
+2	Subform_P4/Group400/RadioButtonGroup-400	Option2-400	400	check		Line 400. Have you claimed an Ontario production services tax credit for the same production identified in Part 2? No.
+2	Subform_P4/Group405	P4_Frm_Ln405_inpt	405	numeric	12	Line 405. Salaries and wages paid to Ontario-based individuals that are directly attributable to the eligible Ontario production.
+2	Subform_P4/Dash_List/Dash1_410	P4_Frm_Ln410_inpt	410	numeric	12	Line 410. Ontario-based individuals.
+2	Subform_P4/Dash_List/Dash2_420	P4_Frm_Ln420_inpt	420	numeric	12	Line 420. Other taxable Canadian corporations, for their Ontario-based employees.
+2	Subform_P4/Dash_List/Dash3_430	P4_Frm_Ln430_inpt	430	numeric	12	Line 430. Other taxable Canadian corporations, solely owned by an Ontario-based individual.
+2	Subform_P4/Dash_List/Dash4_440	P4_Frm_Ln440_inpt	440	numeric	12	Line 440. Partnerships carrying on business in Canada, for their Ontario-based members or employees.
+2	Subform_P4/Group450	P4_Frm_Ln450_inpt	450	numeric	12	Line 450. Amounts paid to a parent corporation for Ontario labour expenditures incurred by it for the subsidiary wholly-owned corporation under a reimbursement agreement.
+2	Subform_P4/Group460	P4_Frm_Ln460_inpt1	460	numeric	12	Line 460. Subtotal, total of lines 410 to 450. Instance 1.
+2	Subform_P4/Group460	P4_Frm_Ln460_inpt2	460	numeric	12	Line 460. Instance 2.
+2	Subform_P4/Group470	P4_Frm_Ln470_inpt	470	text		Line 470. Name of parent corporation.
+2	Subform_P4/Group480	P4_Frm_Ln480_inpt	480	text		Line 480. Business number of parent corporation. 9 digits, 2 letters, and 4 digits.
+2	Subform_P4/Group490	P4_Frm_Ln490_inpt	490	numeric	12	Line 490. Ontario labour expenditures for the eligible Ontario production for the tax year, line 405 plus line 460.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	Subform_P5/Group500	P5_Frm_Ln500_inpt	500	numeric	12	Line 500. Amount of assistance directly attributable to and that has not caused a reduction in the Ontario labour expenditures for the eligible Ontario production.
+3	Subform_P5/Group510	P5_Frm_Ln510_inpt	510	numeric	12	Line 510. Amount of assistance not directly attributable to and that has not caused a reduction in the Ontario labour expenditures for the eligible Ontario production.
+3	Subform_P5/Group520	P5_Frm_Ln520_inpt	520	numeric	12	Line 520. Cost of the eligible Ontario production.
+3	Subform_P5/Group530	P5_Frm_Ln530_inpt1	510	numeric	12	Line 510.
+3	Subform_P5/Group530	P5_Frm_Ln530_inpt2	640	numeric	12	Line 640 of part 6 minus line 660 of part 6.
+3	Subform_P5/Group530	P5_Frm_Ln530_inpt3		numeric	12	Amount from line 520.
+3	Subform_P5/Group530	P5_Frm_Ln530_inpt4	530	numeric	12	Line 530. Line 510 multiplied by line 640 of part 6 minus line 660 of part 6 divided by amount from line 520.
+3	Subform_P5/Group540	P5_Frm_Ln540_inpt	540	numeric	12	Line 540. Subtotal, line 500 plus line 530.
+3	Subform_P5/Group545	P5_Frm_Ln545_inpt	545	numeric	12	Line 545. Amounts repaid under a legal obligation.
+3	Subform_P5/Group550	P5_Frm_Ln550_inpt	550	numeric	12	Line 550. Ontario refundable tax credits and assistance.
+3	Subform_P5/Group555	P5_Frm_Ln555_inpt	555	numeric	12	Line 555. Federal tax credits.
+3	Subform_P5/GroupA	P5_Frm_LnA_inpt1		numeric	12	Amount A. Subtotal, total of lines 545, 550 and 555. Instance 1.
+3	Subform_P5/GroupA	P5_Frm_LnA_inpt2		numeric	12	Amount A. Instance 2.
+3	Subform_P5/Group560	P5_Frm_Ln560_inpt	560	numeric	12	Line 560. Net assistance, line 540 minus amount A.
+3	Subform_P6/Amount_B	P6_Frm_LnB_inpt		numeric	12	Amount B. Ontario labour expenditures for the eligible Ontario production for the tax year, line 490 from Part 4.
+3	Subform_P6/Group610	P6_Frm_Ln610_inpt	610	numeric	12	Line 610. Ontario labour expenditures for the eligible Ontario production for all previous tax years, total of lines 490 from previous years.
+3	Subform_P6/Group620	P6_Frm_Ln620_inpt	620	numeric	12	Line 620. Qualifying labour expenditures for the eligible Ontario production for all previous tax years, total of lines 675 from previous years.
+3	Subform_P6/Group630	P6_Frm_Ln630_inpt1	630	numeric	12	Line 630. Subtotal, line 610 minus line 620. Instance 1.
+3	Subform_P6/Group630	P6_Frm_Ln630_inpt2	630	numeric	12	Line 630. Instance 2
+3	Subform_P6/Group640	P6_Frm_Ln640_inpt	640	numeric	12	Line 640. Subtotal, amount B plus line 630.
+3	Subform_P6/Amount_C	P6_Frm_LnC_inpt		numeric	12	Amount C. Net assistance, line 560 from part 5.
+3	Subform_P6/Group660	P6_Frm_Ln660_inpt	660	numeric	12	Line 660. Ontario labour expenditures transferred under a reimbursement agreement from the parent corporation to its subsidiary wholly-owned corporation.
+3	Subform_P6/Group670	P6_Frm_Ln670_inpt1	670	numeric	12	Line 670. Subtotal, amount C plus line 660. Instance 1.
+3	Subform_P6/Group670	P6_Frm_Ln670_inpt2	670	numeric	12	Line 670. Instance 2.
+3	Subform_P6/Group675	P6_Frm_Ln675_inpt	675	numeric	12	Line 675. Qualifying labour expenditures for the tax year, line 640 minus line 670, if negative, enter 0.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		
+4	Subform_P7/Amount_D	P7_Frm_LnD_inpt		numeric	12	Amount D. Basic amount.
+4	Subform_P7/Group700	P7_Frm_Ln700_inpt	700	numeric	12	Line 700. Qualifying labour expenditures for the eligible Ontario production for all previous tax years, line 620 from Part 6.
+4	Subform_P7/Amount_E	P7_Frm_LnBB_inpt		numeric	12	Amount E. Subtotal, amount D minus line 700, if negative, enter 0.
+4	Subform_P7/Group721	P7_Frm_Ln721_inpt	721	numeric	12	Line 721. Qualifying labour expenditures for the tax year, line 675 from Part 6.
+4	Subform_P7/Group722	P7_Frm_Ln722_inpt	722	numeric	12	Line 722. The lesser of line 721 and amount E.
+4	Subform_P7/Group723	P7_Frm_Ln723_inpt1		numeric	12	Qualifying labour expenditures at the 35% rate. Line 721 minus line 722.
+4	Subform_P7/Group723	P7_Frm_Ln723_inpt2	723	numeric	12	Line 723. Qualifying labour expenditures at the 35% rate. Line 721 minus line 722 multiplied by 35%.
+4	Subform_P7/Group724	P7_Frm_Ln724_inpt1		numeric	12	Qualifying labour expenditures at the 40% rate. Line 722.
+4	Subform_P7/Group724	P7_Frm_Ln724_inpt2	724	numeric	12	Line 724. Qualifying labour expenditures at the 40% rate. Line 722 multiplied by 40%.
+4	Subform_P7/Group750	P7_Frm_Ln750_inpt1		numeric	12	Qualifying labour expenditures for the tax year. Line 675 from Part 6.
+4	Subform_P7/Group750	P7_Frm_Ln750_inpt2	750	numeric	12	Line 750. Qualifying labour expenditures for the tax year. Line 675 from Part 6 multiplied by 10%.
+4	Subform_P7/Group755	P7_Frm_Ln755_inpt	755	numeric	12	Line 755. Ontario film and television tax credit for a first-time production, total of lines 723, 724 and 750.
+4	Subform_P8/Group800	P8_Frm_Ln800_inpt	800	numeric	12	Line 800. Qualifying labour expenditures for the tax year, line 675 in Part 6, cannot be more than $50,000.
+4	Subform_P8/Group805	P8_Frm_Ln805_inpt	805	numeric	12	Line 805. Maximum eligible credit for the small first-time production.
+4	Subform_P8/Group810	P8_Frm_Ln810_inpt	810	numeric	12	Line 810. Ontario film and television tax credit claimed and allowed in previous tax years for the eligible Ontario production.
+4	Subform_P8/Amount_I	P8_Frm_LnFF_inpt1		numeric	12	Amount F. Subtotal, line 805 minus line 810, if negative, enter 0. Instance 1.
+4	Subform_P8/Amount_I	P8_Frm_LnFF_inpt2		numeric	12	Amount F. Instance 2.
+4	Subform_P8/Group815	P10_Frm_Ln815_inpt	815	numeric	12	Line 815. Ontario film and television tax credit for a small first-time production, enter line 800 or amount F, whichever is less.
+4	Subform_P9/Group903	P9_Frm_Ln903_inpt1		numeric	12	Qualifying labour expenditures for the tax year. Line 675 from Part 6.
+4	Subform_P9/Group903	P9_Frm_Ln903_inpt2	903	numeric	12	Line 903. Qualifying labour expenditures for the year. Line 675 from Part 6 multiplied by 35%.
+4	Subform_P9/Group910	P9_Frm_Ln910_inpt1		numeric	12	Qualifying labour expenditures for the tax year. Line 675 from Part 6.
+4	Subform_P9/Group910	P9_Frm_Ln910_inpt2	910	numeric	12	Line 910. Qualifying labour expenditures for the year. Line 675 from Part 6 multiplied by 10%.
+4	Subform_P9/Group915	P9_Frm_Ln915_inpt	915	numeric	12	Line 915. Ontario film and television tax credit for an eligible Ontario production other than a first-time production, total of lines 903 and 910.

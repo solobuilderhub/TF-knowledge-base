@@ -1,0 +1,33 @@
+line	caption
+100	Did the corporation have a permanent establishment in Ontario at any time during the tax year?
+105	Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario)?
+110	Did the corporation carry on SR&ED in Ontario during the tax year?
+115	Is the corporation eligible to claim an investment tax credit under section 127 of the federal Income Tax Act 2 No 2 No on qualified expenditures made in the tax year?
+120	Did the corporation file Form T661 for the tax year?
+215	SR&ED qualified expenditure pool
+300	when completed Designated repayments made in the year of government or non-government assistance or contract payments relating to Ontario qualified expenditures of B a current nature
+305	assistance or contract payments relating to Ontario qualified expenditures of a a capital nature incurred before 2014
+310	assistance or contract payments relating to Ontario qualified expenditures for first term or second term shared-use equipment acquired before 2014
+320	Subtotal (amount a plus amount b) × 0.4 =
+325	Eligible repayments (amount B plus amount C)
+400	Taxable income for the previous tax year (before any loss carrybacks being applied)
+410	$25,000,000 minus amount d
+415	Expenditure limit for the stand-alone corporation: (amount F × amount e) =
+420	(before any loss carrybacks being applied) for their last tax year ending in the previous calendar year
+430	$25,000,000 minus amount g
+435	Expenditure limit for associated corporations: (amount I × amount h ) =
+440	Expenditure limit for the corporation (amount allocated from column 3 in Part 6)
+500	For stand-alone corporations (see notes below): when completed Specified capital amount for the previous tax year
+505	Specified capital amount for the corporation and each of its associated corporations for their last tax year N ending in the previous calendar year (complete the table below)
+700	Subtotal (amount i plus amount j)
+705	Amount k or amount l, whichever is less
+710	Ontario innovation tax credit for tax years ending before June 1, 2016 (amount m x 10%)
+701	Subtotal (amount R plus amount S)
+706	Lesser of amount T and o
+711	Ontario innovation tax credit for a tax year that ends on or after June 1, 2016 and includes May 31, 2016 (amount p multiplied by percentage 3)
+704	Eligible repayments made in the year for tax years starting after May 31, 2016 (see note in Part 3)
+702	Subtotal (total of amounts V, W, X, and Y)
+707	Lesser of Z and r
+712	Ontario innovation tax credit for tax years starting after May 31, 2016 (amount s x 8%)
+715	Are you waiving all or part of the OITC?
+720	Waiver of the tax credit

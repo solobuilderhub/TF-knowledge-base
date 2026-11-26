@@ -1,0 +1,31 @@
+line	caption
+110	Name of contact person 120 Telephone number
+200	Certificate of eligibility number
+210	Production title
+220	Estimated OCASE tax credit for this production
+300	Is the corporation a Canadian corporation that performed ECASEA for the eligible production during the tax year at a permanent Yes No establishment in Ontario?
+310	Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario)?
+320	or part of whose taxable income is exempt from tax under section 57 of the Corporations Tax Act (Ontario) or Part III of the Yes No Taxation Act, 2007 (Ontario)?
+330	Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation?
+616	· taxable Canadian corporations (solely owned by an arm's length individual) 1
+618	· arm's length individuals
+622	· eligible partnerships
+650	Name of parent corporation
+680	Total Ontario labour expenditures (amount A minus line 670) (if negative, enter "0")
+700	Amount of assistance directly attributable to line 680 in Part 4
+710	Amount of assistance not directly attributable to line 680 in Part 4
+730	Line 710 × Line 680 in Part 4 =
+740	Total assistance (line 700 plus line 730)
+415	· taxable Canadian corporations (solely owned by an arm's length individual) 2
+425	· arm's length individuals
+435	· eligible partnerships
+455	Name of parent corporation 465 Business number of parent corporation
+485	Ontario labour expenditures incurred for the previous tax year
+488	Ontario labour expenditures incurred and claimed for the previous tax year
+490	Total Ontario labour expenditures (amount C minus line 488) (if negative, enter "0")
+505	Amount of directly attributable assistance in respect of amount C in Part 6
+512	Directly attributable assistance in respect of line 488
+522	Not directly attributable assistance in respect of line 488
+535	Amount E × Amount C in Part 6 =
+545	Total assistance (amount D plus line 535)
+611	Ontario computer animation and special effects tax credit (line 601 or 602 multiplied by 18%)

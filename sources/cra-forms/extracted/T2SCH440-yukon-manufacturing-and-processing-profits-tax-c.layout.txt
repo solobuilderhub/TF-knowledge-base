@@ -1,0 +1,73 @@
+                    Yukon Manufacturing and Processing Profits Tax Credit                                                                                                                Schedule 440
+                                          (2020 and later tax years)
+                                                                                                                                                                                           Protected B
+                                                                                                                Business number                                                          when completed
+
+Corporation's name                                                                                                                                                                       Tax year-end
+
+                                                                                                                                                                       Year              Month Day
+
+· Use this schedule if you had a permanent establishment (under section 400 of the federal Income Tax Regulations) in Yukon at any time in the tax
+
+  year, and had:
+
+  ­ taxable income earned in the tax year in Yukon
+  ­ Canadian manufacturing and processing profits, under subsection 125.1(3) of the federal Income Tax Act, earned in the tax year in Yukon
+· This schedule is a worksheet only and is not required to be filed with your T2 Corporation Income Tax Return.
+
+   Yukon manufacturing and processing profits tax credit
+
+Canadian manufacturing and processing profits for the year from line 200 in Part 9 of Schedule 27 Calculation of Canadian                                                                              A
+
+Manufacturing and Processing Profits Deduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Amount 1E from Schedule 443 Yukon Corporation Tax Calculation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                  B
+
+                                                                                         Subtotal (amount A minus amount B)                                                                            C
+
+Taxable income from line 360 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                D
+
+Amount B Note 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1
+
+Aggregate investment income from line 440 of the T2 Return Note 1 . . . . . . . . . . . . . . . . . . . . . . . . .                                2
+
+Foreign business income tax credit deductible                                            ×4=
+
+at line 636 of the T2 return Note 2 . . . . . . . . . . . . . . . . . . . . . . . . . .                                                            3
+
+                                                                                         Subtotal (add lines 1, 2, and 3)                                                                              E
+
+                                                                                         Subtotal (amount D minus amount E)                                                                            F
+
+The lesser of                             ×    Taxable income for Yukon Note 3                                                                     ....... =                                           G
+amounts A and B
+                                               Taxable income for all provinces Note 4
+
+                                               Number of days in the tax year
+
+Amount G                                  ×    before January 1, 2021                                                                              × 0.5% . . . . . . . =                              H
+
+                                               Number of days in the tax year
+
+Note: The manufacturing and processing profits tax credit small business increment is 0% after December 31, 2020.
+
+The lesser of                             ×    Taxable income for Yukon Note 3                                                                     × 9.5% =                                            I
+amounts C and F
+                                               Taxable income for all provinces Note 4
+
+Yukon manufacturing and processing profits tax credit (amount H plus amount I) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                             J
+
+Enter amount J on line 677 of Schedule 5
+
+Note 1: Applies only to corporations that were Canadian-controlled private corporations throughout the tax year.
+
+Note 2: Calculate the amount of foreign business income tax credit without reference to the corporate tax reductions under section 123.4 of the
+           federal Income Tax Act.
+
+Note 3: If your corporation had a permanent establishment only in Yukon, enter the taxable income from line 360 of the T2 return. Otherwise,
+           enter the taxable income allocated to Yukon from column F in Part 1 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+Note 4: Includes the territories and the offshore jurisdictions for Nova Scotia and Newfoundland and Labrador.
+
+T2 SCH 440 E (20)                              (Ce formulaire est disponible en français.)
+

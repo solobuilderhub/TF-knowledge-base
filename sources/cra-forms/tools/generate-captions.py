@@ -93,6 +93,28 @@ def field_captions(stem: str) -> dict[str, tuple[str, int]]:
     return out
 
 
+def emitted_forms() -> set[str]:
+    """The forms ca-tax carries captions for, by PDF file key (`T2SCH03`, `T661`).
+
+    Decided by the registry: the core, CCPC and common buckets. A provincial or
+    specialized form is held and extracted so it can be read and validated, and
+    is not turned into a module nobody imports. Without a registry (a checkout
+    that has only this directory) every form is emitted, as before.
+    """
+    registry = FORMS_ROOT.parents[1] / "forms" / "registry.tsv"
+    if not registry.exists():
+        return {t.name.split("-")[0].upper() for t in (FORMS_ROOT / "extracted").glob("*.tsv")}
+    out: set[str] = set()
+    with registry.open(encoding="utf-8", newline="") as f:
+        for row in csv.DictReader(f, delimiter="	"):
+            if row["authority"] != "CRA" or row["category"] not in ("core", "ccpc", "common"):
+                continue
+            form = row["form"].upper()
+            m = re.fullmatch(r"T2SCH(\d+)", form)
+            out.add(f"T2SCH{int(m.group(1)):02d}" if m else ("T2" if form == "T2" else form))
+    return out
+
+
 def main() -> int:
     wanted = sys.argv[1:]
     from formlib import EXTRACT_DIR
@@ -107,9 +129,16 @@ def main() -> int:
         return 1
 
     DEST_DIR.mkdir(parents=True, exist_ok=True)
+    emit = emitted_forms()
     written = []
     for stem in stems:
         key = stem.split("-")[0]
+        dest_name = f"{camel(stem)}.captions.ts"
+        if key.upper() not in emit and not (DEST_DIR / dest_name).exists():
+            # Extracted for research, not built in ca-tax: a provincial or
+            # specialized form. Its captions are generated the day its
+            # registry row moves to a bucket ca-tax builds.
+            continue
         if key in GRID_FORMS:
             print(f"{stem:52s} SKIPPED — grid form, authored by hand")
             continue

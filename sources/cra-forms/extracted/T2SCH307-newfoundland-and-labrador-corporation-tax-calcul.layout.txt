@@ -1,0 +1,112 @@
+Corporation's name  Newfoundland and Labrador Corporation Tax Calculation                                                                                                                  Schedule 307
+                                           (2026 and later tax years)                                                                                                                        Protected B
+
+                                                                                                                      Business number                                                       when completed
+
+                                                                                                                                                                                     Tax year-end
+                                                                                                                                                                                 Year Month Day
+
+· Use this schedule if your corporation had a permanent establishment (as defined in section 400 of the federal Income Tax Regulations)
+
+  in Newfoundland and Labrador, and had taxable income earned in the year in Newfoundland and Labrador, and its offshore area.
+
+· This schedule is a worksheet only and is not required to be filed with your T2 Corporation Income Tax Return.
+
+Part 1 ­ Income subject to the lower and higher tax rate for Newfoundland and Labrador and its offshore area
+
+Taxable income for Newfoundland and Labrador Note 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1A
+
+Income eligible for the lower tax rate for Newfoundland and Labrador and its offshore area:
+
+Line 400 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               1B
+
+Line 405 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               1C
+
+Line 428 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               1D
+
+Amount 1B, 1C, or 1D, whichever is the least . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                            1E
+
+Amount 1E           × Taxable income for Newfoundland and Labrador Note 1                                                                          = ...........                 1F
+
+                                   Taxable income for all provinces Note 2
+
+Income subject to the higher tax rate for Newfoundland and Labrador and its offshore area (amount 1A minus amount 1F) . . .                                                      1G
+
+Note 1 If your corporation had a permanent establishment only in Newfoundland and Labrador or in its offshore area, enter the taxable income
+           from line 360 of the T2 return. Otherwise, enter the total of the taxable incomes allocated to both jurisdictions in Newfoundland and
+           Labrador (the province itself and its offshore area) from column F in Part 1 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+Note 2 Includes the territories and the offshore jurisdictions for Nova Scotia and Newfoundland and Labrador.
+
+Part 2 ­ Newfoundland and Labrador tax before credits and Newfoundland and Labrador offshore tax
+
+Tax at the lower rate for Newfoundland and Labrador and its offshore area:
+
+                    ×  Number of days in the tax year                        × 2.5% =
+
+Amount 1F              before January 1, 2026                                                                                                                   2A
+
+                       Number of days in the tax year
+
+                       Number of days in the tax year
+
+                    ×  after December 31, 2025 and                           × 2% =
+
+Amount 1F              before January 1, 2027                                                                                                                   2B
+
+                       Number of days in the tax year
+
+                       Number of days in the tax year
+
+                    ×  after December 31, 2026 and                           × 1.5% =
+
+Amount 1F              before January 1, 2028                                                                                                                   2C
+
+                       Number of days in the tax year
+
+                    ×  Number of days in the tax year                        × 1% =
+
+Amount 1F              after December 31, 2027                                                                                                                  2D
+
+                       Number of days in the tax year
+
+Tax at the lower rate for Newfoundland and Labrador and its offshore area
+
+(amount 2A plus amount 2B plus amount 2C plus amount 2D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                 2E
+
+Tax at the higher rate for Newfoundland and Labrador and its offshore area:
+
+Amount 1G           × 15% . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . =                    2F
+
+Tax for Newfoundland and Labrador and its offshore area (amount 2E plus amount 2F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                             2G
+
+T2 SCH 307 E (26)      (Ce formulaire est disponible en français.)                                                                                 Page 1 of 2
+                                                                                                                                   Protected B when completed
+
+    Part 2 ­ Newfoundland and Labrador tax before credits and Newfoundland and Labrador offshore tax (continued)
+
+Permanent establishment in only one jurisdiction
+
+If the taxable income is allocated only to Newfoundland and Labrador, or to the Newfoundland and Labrador offshore area, and your corporation is not
+claiming a Newfoundland and Labrador tax credit, enter amount 2G on line 760 of the T2 return. If your corporation is claiming a credit, enter amount 2G
+on line 200 or 205 of Schedule 5, whichever applies.
+
+Permanent establishment in more than one jurisdiction
+
+If the corporation has taxable income allocated to both Newfoundland and Labrador and its offshore area, calculate the following:
+
+                   ×                        Taxable income for Newfoundland and      = ....
+
+Amount 2G                                   Labrador offshore area                                                                                        2H
+
+                           Taxable income for Newfoundland and Labrador plus
+                      taxable income for Newfoundland and Labrador offshore area
+
+Newfoundland and Labrador offshore tax ­ enter amount 2H on line 205 of Schedule 5.
+
+Newfoundland and Labrador tax before credits (amount 2G minus amount 2H) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2I
+
+Enter amount 2I on line 200 of Schedule 5.
+
+T2 SCH 307 E (26)                                                                                                                                         Page 2 of 2
+

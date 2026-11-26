@@ -1,0 +1,214 @@
+Corporation's name          Ontario Computer Animation and Special Effects Tax Credit                                                                                                                    Schedule 554
+                                                    (2024 and later tax years)                                                                                                                                   Code 2401
+
+                                                                                                            Business number                                                                                 Protected B
+                                                                                                                                                                                                          when completed
+
+                                                                                                                                                                                                     Tax year-end
+                                                                                                                                                                                                  Year Month Day
+
+· Use this schedule to claim the Ontario computer animation and special effects (OCASE) tax credit under section 90 of the Taxation Act, 2007 (Ontario).
+
+  Complete a separate Schedule 554 for each eligible production.
+
+· The OCASE tax credit is a refundable tax credit that is equal to 18% of qualifying labour expenditures incurred after April 23, 2015, by a qualifying corporation
+
+  in a tax year. These expenditures must be directly attributable to eligible computer animation and special effects activities (ECASEA) for an eligible production.
+
+· For a film or television production for which the qualifying corporation commenced computer ECASEA after April 23, 2015, and before March 26, 2024, the
+
+  production only qualifies as an eligible production if the qualifying corporation obtained a certificate of eligibility under subsection 91(15) of the Taxation Act,
+  2007 (Ontario) for the Ontario Film and Television Tax Credit (OFTTC) or under subsection 92(8) for the Ontario Production Services Tax Credit (OPSTC).
+  Complete Parts 4 and 5.
+
+· For a film or television production for which a qualifying corporation incurred Ontario labour expenditures only on or after March 26, 2024, the production must
+
+  incur more than $25,000 in Ontario labour expenditures in respect of the production to qualify as an eligible production. The minimum Ontario labour
+  expenditure threshold must be incurred in the tax year of the claim, cumulatively between the tax year of the claim and the previous tax year, or in any
+  previous two-year tax period. Complete Parts 6 and 7.
+
+· To be eligible for the OCASE tax credit, the corporation must be a qualifying corporation and must meet the eligibility requirements in Part 3.
+· Before claiming the OCASE tax credit, a qualifying corporation must obtain a certificate of eligibility from Ontario Creates, as required under subsection 90(7)
+
+  of the Taxation Act, 2007 (Ontario). Only one certificate of eligibility is issued for all of the qualifying corporation's eligible productions for the tax year.
+  Complete Part 2.
+
+· To claim the OCASE tax credit, file this schedule and the certificate of eligibility with your corporation income tax return (T2 return) for the tax year.
+
+     Part 1 ­ Contact information
+
+110 Name of contact person                                                                                                    120 Telephone number
+
+     Part 2 ­ Identifying the eligible production
+
+200 Certificate of eligibility number
+210 Production title
+220 Estimated OCASE tax credit for this production
+
+Part 3 ­ Eligibility
+
+1. Is the corporation a Canadian corporation that performed ECASEA for the eligible production during the tax year at a permanent                                                                 Yes  No
+   establishment in Ontario? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300
+
+2. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario)? . . . . . . . . . . . . . . . . . . . 310                                             Yes  No
+
+3. Was the corporation, at any time in the tax year, controlled directly or indirectly, in any manner, by one or more corporations, all
+
+or part of whose taxable income is exempt from tax under section 57 of the Corporations Tax Act (Ontario) or Part III of the                                                                      Yes  No
+Taxation Act, 2007 (Ontario)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 320
+
+4. Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation? . . . . . . . . . . . . . . . 330                                                 Yes  No
+
+You are not eligible for the OCASE tax credit if you answered No to question 1, or Yes to questions 2, 3, or 4.
+
+T2 SCH 554 E (26)                                   (Ce formulaire est disponible en français.)                  Page 1 of 4
+                                                                                                                                                                                                Protected B when completed
+
+Part 4 ­ Ontario labour expenditures after April 23, 2015, and before March 26, 2024
+
+Complete Parts 4 and 5 if:
+
+· any Ontario labour expenditures were incurred after April 23, 2015, and before March 26, 2024
+· the production has been issued a certificate of eligibility for either the OPSTC or the OFTTC
+
+Qualifying wage amount for salaries and wages the corporation paid to its employees that are directly                                    615
+attributable to ECASEA performed in Ontario . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Qualifying remuneration directly related to ECASEA performed in Ontario paid to:
+
+· taxable Canadian corporations (solely owned by an arm's length individual) 1 . . . . . . . . . . . . . . . . . . . 616
+
+· arm's length individuals. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 618
+
+· eligible partnerships . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 622
+
+Amounts paid to a parent corporation for Ontario labour expenditures incurred by it in respect of the
+
+wholly-owned subsidiary corporation's ECASEA under a reimbursement agreement, effective for a                                            640
+production, if principal photography commenced after March 22, 2007 . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                Subtotal (add lines 615, 616, 618, 622 and 640)                                                                                                                      A
+
+Complete lines 650 and 660 if there is an entry on line 640:                      660 Business number of parent corporation
+650 Name of parent corporation
+
+Ontario labour expenditures that the (parent) corporation transferred under a reimbursement agreement to a wholly-owned                                                                         670
+subsidiary corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Total Ontario labour expenditures (amount A minus line 670) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 680
+
+1 These corporations must meet the requirements of paragraph 4 of subsection 25(4) of Regulation 37/09 of the Taxation Act, 2007 (Ontario) subject to the
+  restrictions stated in subsection 25(2.1).
+
+Part 5 ­ Assistance after April 23, 2015, and before March 26, 2024
+
+Assistance related to expenditures for the eligible production (other than excluded government assistance) that the qualifying corporation, or any other person
+or partnership has received, is entitled to receive, or may reasonably expect to receive:
+
+Amount of assistance directly attributable to line 680 in Part 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 700
+Amount of assistance not directly attributable to line 680 in Part 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 710
+
+Prescribed cost, as defined in subsection 24(1) of Regulation 37/09 of the Taxation Act, 2007 (Ontario) 720
+
+Line 710           ×  Line 680 in Part 4                                          = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 730
+
+                      Line 720
+
+Total assistance (line 700 plus line 730) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 740
+
+T2 SCH 554 E (26)                                                                                                                                                                                    Page 2 of 4
+                                                                                                                                                          Protected B when completed
+
+    Part 6 ­ Ontario labour expenditures on or after March 26, 2024
+
+Complete Parts 6 and 7 if:
+
+· the production incurred Ontario labour expenditures on or after March 26, 2024
+· more than $25,000 of Ontario labour expenditures were incurred by the qualifying corporation in respect of the production for the tax year of the claim,
+
+   cumulatively between the tax year of the claim and the previous tax year, or in any previous two-year tax period
+
+Qualifying wage amount for salaries and wages the corporation paid to its employees that are directly                                    405
+attributable to ECASEA performed in Ontario . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Qualifying remuneration directly related to ECASEA performed in Ontario paid to:
+
+· taxable Canadian corporations (solely owned by an arm's length individual) 2 . . . . . . . . . . . . . . . . . . . 415
+
+· arm's length individuals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 425
+
+· eligible partnerships . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 435
+
+Amounts paid to a parent corporation for Ontario labour expenditures incurred by it in respect of the
+
+wholly-owned subsidiary corporation's ECASEA under a reimbursement agreement, effective for a                                            445
+production, if principal photography commenced after March 22, 2007 . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                             Subtotal (add lines 405, 415, 425, 435, and 445)                                                                                             B
+                                                                                                                                                             
+Complete lines 455 and 465 if there is an entry on line 445:                                                                                                 
+
+455 Name of parent corporation                                                                                             465 Business number of parent corporation
+
+Ontario labour expenditures that the (parent) corporation transferred under a reimbursement                                              475
+agreement to a wholly-owned subsidiary corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ontario labour expenditures incurred for the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 485
+
+Ontario labour expenditures for the tax year (amount B minus line 475 plus line 485) . . . . . . . . . . . . . . . . . .                                                                  C
+
+Ontario labour expenditures incurred and claimed for the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 488
+
+Total Ontario labour expenditures (amount C minus line 488) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 490
+
+2 These corporations must meet the requirements of paragraph 4 of subsection 25(4) of Regulation 37/09 of the Taxation Act, 2007 (Ontario) subject to the
+  restrictions stated in subsection 25(2.1).
+
+Part 7 ­ Assistance on or after March 26, 2024
+
+Assistance related to expenditures for the eligible production (other than excluded government assistance) that the qualifying corporation, or any other person
+or partnership has received, is entitled to receive, or may reasonably expect to receive:
+
+Amount of directly attributable assistance in respect of amount C in Part 6 . . . . . . . . . . . . . . . . . . . . . . . 505
+
+Directly attributable assistance in respect of line 488 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 512
+
+Directly attributable assistance for the tax year (line 505 minus line 512) . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                       D
+
+Amount of not directly attributable assistance in respect of amount C in                                              515
+Part 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Not directly attributable assistance in respect of line 488 . . . . . . . . . . . . . . . . 522
+
+Assistance not directly attributable for the tax year (line 515 minus line 522) . . . .                                                  E
+
+Prescribed cost, as defined in subsection 24(1) of Regulation 37/09 of the Taxation Act, 2007 (Ontario) 525
+
+Amount E                        ×  Amount C in Part 6                                                                      = . . . . . . . . . . . . . . . . . . . . . . . . . . . . 535
+
+                                   Line 525
+
+Total assistance (amount D plus line 535) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 545
+
+T2 SCH 554 E (26)                                                                                                                                                                         Page 3 of 4
+                                                                                                                                            Protected B when completed
+
+Part 8 ­ Tax credit calculation
+
+Use either line 601 or 602, but not both.
+
+Qualifying labour expenditures after April 23, 2015, and before March 26, 2024                                                         601
+(line 680 from Part 4 minus line 740 from Part 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Qualifying labour expenditures on or after March 26, 2024                                                                              602
+(line 490 from Part 6 minus line 545 from Part 7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ontario computer animation and special effects tax credit (line 601 or 602 multiplied by 18%) . . . . . . . . . . . . . . . . . . . . . . . . . 611
+
+Enter the amount from line 611 on line 456 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+If you are filing more than one Schedule 554, add the amounts from each line 611 and enter the total amount on line 456 of Schedule 5.
+
+                                                                                                                                            See the privacy notice on your return.
+
+T2 SCH 554 E (26)                                                                                                                                    Page 4 of 4
+

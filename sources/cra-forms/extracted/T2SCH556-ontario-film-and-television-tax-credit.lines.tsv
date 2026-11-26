@@ -1,0 +1,45 @@
+line	caption
+110	Name of contact person
+200	Certificate of eligibility number Year Month Day
+205	Production title
+210	Date principal photography commenced
+215	Production commencement time
+220	Is this a first-time production ?
+225	Did the production receive a regional bonus ?
+230	Was the production a treaty co-production ?
+235	Was the production an interprovincial co-production ?
+240	Total estimated production costs 245 Estimated qualifying Ontario labour expenditure 250 Estimated OFTTC
+300	Was the corporation a Canadian-controlled corporation throughout the tax year as determined under sections 26 to 28 of the Investment Canada Act?
+310	Were the activities of the corporation in the tax year primarily the carrying on of a Canadian film or video production business through a permanent establishment in Canada?
+320	Did the corporation have a permanent establishment in Ontario throughout the tax year?
+330	Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario) or Part I of the federal Income Tax Act?
+340	or part of whose taxable income was exempt from tax under Part I of the federal Income Tax Act, Part II of the Corporations Tax Act (Ontario), or Part III of the Taxation Act, 2007 (Ontario)?
+350	Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation under 6701 of the Federal Income Tax Regulations?
+400	Have you claimed an Ontario production services tax credit for the same production identified in Part 2?
+405	Salaries and wages paid to Ontario-based individuals that are directly attributable to the eligible Ontario production
+410	Ontario-based individuals
+420	Other taxable Canadian corporations (for their Ontario-based employees)
+440	(for their Ontario-based members or employees)
+460	Subtotal (total of lines 410 to 450)
+470	Name of parent corporation
+480	Business number of parent corporation
+490	Ontario labour expenditures for the eligible Ontario production for the tax year (line 405 plus line 460)
+500	Amount of assistance directly attributable to and that has not caused a reduction in the Ontario labour expenditures for the eligible Ontario production
+520	Cost of the eligible Ontario production
+540	Subtotal (line 500 plus line 530)
+545	Amounts repaid under a legal obligation
+550	Ontario refundable tax credits and assistance 1
+555	Federal tax credits 2
+560	Net assistance (line 540 minus amount A)
+610	Ontario labour expenditures for the eligible Ontario production for all previous tax years (total of lines 490 from previous years)
+620	(total of lines 675 from previous years)
+640	Subtotal (amount B plus line 630)
+670	Subtotal (amount C plus line 660)
+700	QLE for the eligible Ontario production for all previous tax years (line 620 from Part 6)
+721	(line 675 from Part 6)
+722	The lesser of line 721 and amount E
+755	Ontario film and television tax credit for a first-time production (total of lines 723, 724 and 750)
+800	QLE for the tax year (line 675 from Part 6) (cannot be more than $50,000)
+805	Maximum eligible credit for the small first-time production 3
+815	Ontario film and television tax credit for a small first-time production (enter line 800 or amount F, whichever is less)
+915	Ontario film and television tax credit for an eligible Ontario production other than a first-time production (total of lines 903 and 910)

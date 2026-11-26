@@ -1,0 +1,109 @@
+                                                                                                                                                  SCHEDULE 569
+
+                                                                                                                                                                                               Code 0902
+                                                                                                                                                    Protected B when completed
+
+                     ONTARIO BUSINESS-RESEARCH INSTITUTE TAX CREDIT CONTRACT INFORMATION
+                                                                (2009 and later tax years)
+
+Name of corporation                                                                                Business Number                             Tax year-end
+
+                                                                                                                                         Year  Month Day
+
+· Use this schedule to support your claim for the Ontario business-research institute tax credit (OBRITC), which is made on Schedule 568, Ontario
+ Business-Research Institute Tax Credit. Complete a separate Schedule 569 for each eligible contract.
+
+· The OBRITC is a 20% refundable tax credit based on qualified expenditures incurred in Ontario under an eligible contract with an eligible research institute
+ (ERI). An ERI, for purposes of the OBRITC, is defined in subsection 97(27) of the Taxation Act, 2007 (Ontario).
+
+· A list of eligible research institutes and the applicable ERI codes for eligible contracts can be found on our web site. Go to www.cra.gc.ca/ctao and select
+ "business-research institute tax credit".
+
+· The eligibility requirements in Part 2 of this schedule must be met for the qualifying corporation to claim an OBRITC for this contract.
+
+· Eligible contracts entered into before August 10, 2007 were subject to advanced ruling legislation. OBRITC claims relating to one of these contracts must have
+ the corresponding Ontario Ministry of Revenue ruling reference number entered at line 130 in Part 1 of this schedule.
+
+· Corporations can only claim the OBRITC for the number of days in the tax year that the corporation was not connected to the ERI. Connected corporations,
+ for the purposes of the OBRITC, are defined in subsection 97(4) of the Taxation Act, 2007 (Ontario).
+
+· Eligible contracts and qualified expenditures are defined in subsections 97(6) and 97(8), respectively, of the Taxation Act, 2007 (Ontario).
+
+· According to subsections 97(16) and (19) of the Taxation Act, 2007 (Ontario), qualified expenditures must be reduced by contributions the corporation
+ received, is entitled to receive or may reasonably expect to receive. Qualified expenditures include repayment of government assistance made by the
+ corporation during the year. Contribution and government assistance are defined in subsection 97(27) of the Taxation Act, 2007 (Ontario).
+
+       Part 1 ­ Contract details                                                                   105 Telephone number including area code
+100 Name of person to contact for more information
+110 Name of the ERI on the contract                                                                120 Date of contract                  Year  Month Day
+115 ERI code
+
+If the date on line 120 is before August 10, 2007, was the contract subject to an advanced ruling? 125 1 Yes                       2 No
+
+For all contracts entered into before August 10, 2007, enter the Ontario Ministry of Revenue                                        ­
+ruling reference number . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130  2 No
+Is the claim filed for an OBRITC earned through a partnership?* . . . . . . . . . . . . . . . . . . . . . . . 135 1 Yes            2 No
+If the answer on line 135 is yes, are you a specified member? . . . . . . . . . . . . . . . . . . . . . . . . 140 1 Yes
+If the answer on line 135 is yes, what is the name of the partnership? . . . . . . . . . . . . . . . . . . . 145
+
+Enter the corporation's percentage share of the income or loss of the partnership's fiscal period
+ending in the corporation's tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150     %
+
+* When a corporate member of a partnership is claiming an amount for qualified expenditures incurred during the tax year under the eligible contract by
+  the partnership, complete Schedule 569 as if the partnership were a corporation. Each corporate member, other than a specified member, should file a
+
+  Schedule 569 as if it, instead of the partnership, had entered into the contract with the ERI and can claim the corporation's share of the partnership's
+
+  qualified expenditures. Specified members of a partnership cannot claim an OBRITC. A definition of "specified member" can be found in subsection
+
+  248(1) of the federal Income Tax Act.
+
+T2 SCH 569 E (10) (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca/formulaires ou en composant le 1-800-959-7775.) Page 1 of 2
+Part 2 ­ Eligibility                                                                                                                            Protected B when completed
+
+Contract:                                                                                                                                                               2 No
+1. Did the corporation enter into a contract with an ERI? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200 1 Yes
+2. Do the terms of the contract state that the ERI agrees to perform, in Ontario, scientific research and experimental                                                  2 No
+                                                                                                                                                                        2 No
+     development (SR&ED) related to the business carried on in Canada by the corporation? . . . . . . . . . . . . . . . . . . . . 205 1 Yes
+3. Was the corporation entitled to exploit the results of the SR&ED carried out under the contract? . . . . . . . . . . . . . . . 210 1 Yes
+
+If you answered no to question 1, 2, or 3, the contract is not an eligible contract for the purposes of an OBRITC.
+
+Expenditures:                                                                                                                                                           2 No
+4. Were the expenditures made by a payment of money by the corporation to the ERI                                                                                       2 No
+
+     or by a prescribed payment? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215 1 Yes  2 No
+5. Were the expenditures incurred in respect of SR&ED carried on in Ontario by the ERI? . . . . . . . . . . . . . . . . . . . . . 220 1 Yes                             2 No
+
+6. Are the expenditures identified in subparagraph 37(1)(a)(i), (i.1) or (ii) of the federal Income Tax Act and                                225 1 Yes
+     would they also qualify as qualified expenditures, as defined in subsection 127(9) of the federal Act, other
+     than prescribed types of expenditures and certain salaries or wages? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7. Were the expenditures incurred by the corporation for purposes of SR&ED related to the business carried on
+     in Canada by the corporation? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 230 1 Yes
+
+If you answered no to question 4, 5, 6, or 7, the expenditures are not eligible expenditures for the purposes of an OBRITC.
+
+     Part 3 ­ Qualified expenditures for this contract for the tax year
+Qualified expenditures incurred in the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300
+
+If the corporation answered yes at line 135 in Part 1, and no at line 140 in Part 1,
+determine the partnership's share of qualified expenditures available to claim in
+the tax year:
+
+Line 300              × percentage on line 150 in Part 1                              %=                                            A
+
+Number of days in this tax year that the corporation was not connected to the ERI
+identified on line 110 in Part 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 305
+
+Qualified expenditures for this contract for the tax year:
+
+(Line 300 or amount A, whichever applies) × line 305 = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310                                B
+
+          number of days in the tax year
+
+Enter amount B on line 405 of Schedule 568, Ontario Business-Research Institute Tax Credit.
+
+                                                                                                                                                                              Page 2
+

@@ -1,0 +1,13 @@
+line	caption
+110	Does the corporation primarily carry on the business of book publishing?
+115	Does the corporation have a permanent establishment in Manitoba in the tax year?
+140	Proportion of Manitoba labour costs to total labour costs: %A Salaries and wages paid to Manitoba resident employees in the tax year (keep a list of names, addresses, and social insurance numbers, as you may have to provide this information at a future date)
+130	Total salaries and wages the corporation paid to employees in the tax year
+400	Contracted Manitoba labour costs paid in the tax year
+410	Total number of pages attributable to books published in the tax year
+415	Total book publishing labour costs (amount C multiplied by amount E)
+420	Total non-refundable monetary advances made to authors of eligible books in the tax year
+430	Total costs (line 415 plus line 420)
+440	Manitoba book publishing tax credit (line 430 multiplied by 40%). This amount cannot exceed $100,000
+455	Eligible printing costs incurred
+460	Eligible printing costs bonus (line 455 multiplied by 15%)

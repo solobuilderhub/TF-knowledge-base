@@ -1,0 +1,61 @@
+                                           Yukon Corporation Tax Calculation                                                                                                                 Schedule 443
+                                                  (2020 and later tax years)
+                                                                                                                                                                                               Protected B
+                                                                                                                 Business number                                                             when completed
+
+Corporation's name                                                                                                                                                                           Tax year-end
+
+                                                                                                                                                                     Year                    Month Day
+
+· Use this schedule if your corporation had a permanent establishment (as defined in section 400 of the federal Income Tax Regulations) in Yukon
+
+  and had taxable income earned in the year in Yukon.
+
+· This schedule is a worksheet only and is not required to be filed with your T2 Corporation Income Tax Return.
+
+Part 1 ­ Income subject to Yukon lower and higher tax rates
+
+Taxable income for Yukon Note 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1A
+
+Income eligible for Yukon lower tax rate:
+
+Line 400 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1B
+
+Line 405 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1C
+
+Line 428 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1D
+
+Amount 1B, 1C or 1D, whichever is the least . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              1E
+
+Amount 1E                      ×           Taxable income for Yukon Note 1                                                                                   =                                             1F
+
+                                           Taxable income for all provinces Note 2
+
+Income subject to Yukon higher tax rate (amount 1A minus amount 1F) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                            1G
+
+Note 1: If your corporation had a permanent establishment only in Yukon, enter the taxable income from line 360 of the T2 return. Otherwise,
+           enter the taxable income allocated to Yukon from column F in Part 1 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+Note 2: Includes the territories and the offshore jurisdictions for Nova Scotia and Newfoundland and Labrador.
+
+Part 2 ­ Yukon tax before credits
+
+Yukon tax at the lower rate:
+
+Amount 1F                      ×           Number of days in the tax year before January 1, 2021                                                             × 2% =                                        2A
+
+                                           Number of days in the tax year
+
+The lower rate of Yukon tax is 0% for the portion of the tax year that is after December 31, 2020.
+
+Yukon tax at the higher rate:
+
+Amount 1G                      × 12% = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                 2B
+
+Yukon tax before credits (amount 2A plus amount 2B) Note 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                   2C
+
+Note 3: If your corporation had a permanent establishment in more than one jurisdiction or is claiming a Yukon tax credit,
+           enter amount 2C on line 245 of Schedule 5. Otherwise, enter it on line 760 of the T2 return.
+
+T2 SCH 443 E (22)                          (Ce formulaire est disponible en français.)
+

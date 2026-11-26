@@ -1,0 +1,107 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Nm		text		Corporation's name.
+1		BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_Info_Subform	Line151_txt	151	text		Line 151. Name of person to contact for more information.
+1	Part1_Info_Subform	Line153_PhoneNumber_Underlined	153	text		Line 153. Telephone number. 10 digits.
+1	Part2_Info_Subform	Line201_TextField_BordersAll	201	text		Line 201. Title of production.
+1	Part2_Info_Subform/DateYYYYMMDD_Comb_BordersAll	Line202_DateYYYYMMDD_Comb	202	text		Line 202. Date the production was completed. Delivery answer print. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part2_Info_Subform	Line203_TextField_BordersAll	203	text		Line 203. Certificate number.
+1	Part2_Info_Subform/DateYYYYMMDD_Comb_BordersAll	Line204_DateYYYYMMDD_Comb	204	text		Line 204. Date the principal photography began. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part3_InfoSubform/Question1_Subform/RadioButtonGroup_Line311	Option1	311	check		Line 311. Question 1. Is the corporation incorporated in Canada? Yes.
+1	Part3_InfoSubform/Question1_Subform/RadioButtonGroup_Line311	Option2	311	check		Line 311. Question 1. Is the corporation incorporated in Canada? No.
+1	Part3_InfoSubform/Question2_Subform/RadioButtonGroup_Line312	Option1	312	check		Line 312. Question 2. Is the corporation a taxable Canadian corporation? Yes.
+1	Part3_InfoSubform/Question2_Subform/RadioButtonGroup_Line312	Option2	312	check		Line 312. Question 2. Is the corporation a taxable Canadian corporation? No.
+1	Part3_InfoSubform/Question3_Subform/RadioButtonGroup_Line313	Option1	313	check		Line 313. Question 3. Does the corporation primarily carry on the business of film or video production? Yes.
+1	Part3_InfoSubform/Question3_Subform/RadioButtonGroup_Line313	Option2	313	check		Line 313. Question 3. Does the corporation primarily carry on the business of film or video production? No.
+1	Part3_InfoSubform/Question4_Subform/RadioButtonGroup_Line314	Option1	314	check		Line 314. Question 4. Does the corporation have a permanent establishment in Manitoba? Yes.
+1	Part3_InfoSubform/Question4_Subform/RadioButtonGroup_Line314	Option2	314	check		Line 314. Question 4. Does the corporation have a permanent establishment in Manitoba? No.
+1	Part3_InfoSubform/Line320_Subform	Amt_Ln320	320	numeric	12	Line 320. Total number of individuals who are employees of the production corporation in the tax year, whether or not they worked on this film.
+1	Part3_InfoSubform/Line330_Subform	Amt_Ln330	330	numeric	12	Line 330. All salaries and wages the corporation has paid to employees in the tax year. Do not include amounts paid to individual contractors or corporations.
+1	Part3_InfoSubform/Line331_Subform	Amt_Ln331	331	numeric	12	Line 331. Salaries and wages paid to eligible employees, including employees who are eligible non-resident individuals in the tax year for work performed on this film in Manitoba. Do not include amounts paid to individual contractors or corporations.
+1	Part3_InfoSubform/Line340_Subform	Amt_Ln340	340	numeric		Line 340. Portion of the total salaries and wages that are paid to eligible employees and employees who are eligible non-resident individuals. Line 331 divided by line 330.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Part4_Subform/Line420_Subform/DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb	420	text		Line 420. Enter the production commencement date, the earlier of a or b. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_Subform/Line421_Subform/DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb	421	text		Line 421. Item a. The date principal photography began. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_Subform/Line425_Subform/DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb	425	text		Line 425. Item b1. The date the corporation or its parent first incurred development labour costs for the development of script material on which the production is based. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_Subform/Line426_Subform/DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb	426	text		Line 426. Item b2. The date the corporation or its parent first acquired a right for the story that is the basis of the final script. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part4_Subform/Line427_Subform/DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb	427	text		Line 427. Item b3. The date that is two years before the date on which principal photography began. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Part5_Subform/Line505_Subform	Amt_Ln505	505	numeric	12	Line 505. Salary or wages paid to eligible individuals.
+2	Part5_Subform/RemunerationPaidTo_Subform/Line510_Subform	Amt_Ln510	510	numeric	12	Line 510. Remuneration paid to eligible individuals.
+2	Part5_Subform/RemunerationPaidTo_Subform/Line511_Subform	Amt_Ln511	511	numeric	12	Line 511. Remuneration paid to corporations, solely owned by an eligible individual.
+2	Part5_Subform/RemunerationPaidTo_Subform/Line512_Subform	Amt_Ln512	512	numeric	12	Line 512. Remuneration paid to other corporations, for their eligible employees.
+2	Part5_Subform/RemunerationPaidTo_Subform/Line513_Subform	Amt_Ln513	513	numeric	12	Line 513. Remuneration paid to partnerships carrying on business in Canada, for their members who are eligible individuals or eligible employees.
+2	Part5_Subform/LineIndicator5A_Subform	Amt_5A_Subtototal		numeric	12	Amount 5A. Subtotal. Total of lines 510 to 513. Instance 1.
+2	Part5_Subform/LineIndicator5A_Subform	Amt_5A_Total		numeric	12	Amount 5A. Instance 2.
+2	Part5_Subform/Line520_Subform	Amt_Ln520	520	numeric	12	Line 520. Labour expenditures incurred by a parent corporation and transferred to its wholly-owned subsidiary, the corporation, under a reimbursement agreement.
+2	Part5_Subform/Line550_subform	Amt_Ln550	550	numeric	12	Line 550. Eligible salaries for services rendered by eligible individuals. Line 505 plus amount 5A plus line 520.
+2	Part5_Subform/CertificateOfCompetion_Subform/Line571_Subform	Amt_Ln571	571	numeric	12	Line 571. Eligible salaries the corporation would have paid if the services provided by eligible non‑resident individuals were provided by eligible individuals. Include salary or wages and remuneration, but do not include amounts for taxable benefits received by eligible non-resident individuals.
+2	Part5_Subform/CertificateOfCompetion_Subform/LineIndicatorB_Subform	Amt_Ln_B	575	numeric	12	Line 575. Eligible salaries for services rendered by eligible individuals. Total of line 550 for all years of production.
+2	Part5_Subform/CertificateOfCompetion_Subform/Line580_Subform	Amt_Ln580	580	numeric		Line 580. Enter the rate of the deemed labour cap that is specified on the Certificate of Completion.
+2	Part5_Subform/CertificateOfCompetion_Subform/LineIndicator_Subform	Amt_Ln_B		numeric	12	Amount 5B. Maximum eligible salaries for eligible non-resident individuals. Line 575 multiplied by line 580.
+2	Part5_Subform/CertificateOfCompetion_Subform/Line590_Subform	Amt_Ln590	590	numeric	12	Line 590. Eligible salaries for services rendered by eligible non-resident individuals. Enter the lesser of line 571 and amount 5B.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	Part6_Subform/LineIndicator_D_Subform	Amt_Ln_D		numeric	12	Amount 6A. Eligible salaries for services rendered by eligible individuals. Line 550 in Part 5.
+3	Part6_Subform/LineIndicator_E_Subform	Amt_Ln_E		numeric	12	Amount 6B. Eligible salaries for services rendered by eligible non-resident individuals. Line 590 in Part 5.
+3	Part6_Subform/LineIndicator_F_Subform	Amt_Ln_F		numeric	12	Amount 6C. Subtotal. Amount 6A plus amount 6B.
+3	Part6_Subform/Line610_Subform	Amt_Ln_610	610	numeric	12	Line 610. Eligible salaries included in amount 6C that may be claimed by another corporation.
+3	Part6_Subform/LineIndicator_G_Subform	Amt_Ln_G		numeric	12	Amount 6D. Subtotal. Amount 6C minus line 610.
+3	Part6_Subform/Line615_Subform	Amt_Ln_615	615	numeric	12	Line 615. Amount of eligible salaries allocated to the corporation through a joint allocation agreement that was filed with the Minister of National Revenue.
+3	Part6_Subform/LineIndicator_H_Subform	Amt_Ln_H		numeric	12	Amount 6E. Subtotal. Amount 6D plus line 615.
+3	Part6_Subform/Line620_Subform	Amt_Ln_620	620	numeric	12	Line 620. Total amount of government assistance received or receivable by the corporation in connection with these eligible salaries.
+3	Part6_Subform/Line650_Subform	Amt_Ln_650	650	numeric	12	Line 650. Total eligible salaries. Amount 6E minus line 620. Instance 1.
+3	Part6_Subform/Line655_660_Subform	Amt_Ln650	650	numeric	12	Line 650. Instance 2.
+3	Part6_Subform/Line655_660_Subform	Numeric_Percent_Ln_655	655	numeric		Line 655. The rate of basic credit that is specified on the Advance Certificate of Eligibility or the Certificate of Completion. Percentage.
+3	Part6_Subform/Line655_660_Subform	Amt_Ln660	660	numeric	12	Line 660. Basic tax credit. Line 650 multiplied by line 655.
+3	Part7_Subform/Line705_7A_Subform	Amt_Ln650	650	numeric	12	Line 650 in Part 6. Instance 3.
+3	Part7_Subform/Line705_7A_Subform	Numeric_Percent_705	705	numeric		Line 705. The rate of frequent filming bonus that is specified on the Advance Certificate of Eligibility or the Certificate of Completion. Percentage.
+3	Part7_Subform/Line705_7A_Subform	Amt_7A		numeric	12	Amount 7A. Frequent filming bonus. Line 650 multiplied by line 705.
+3	Part7_Subform/Line710_Subform	Numeric_Percent_710	710	numeric		Line 710. Percentage of labour eligible for frequent filming bonus.
+3	Part7_Subform/Line730_Subform	Amt_Ln_730	730	numeric	12	Line 730. Frequent filming bonus tax credit. Amount 7A multiplied by line 710.
+3	Part8_Subform/Line805_820	Amt_Ln_650	650	numeric	12	Line 650 in Part 6. Instance 4.
+3	Part8_Subform/Line805_820	Numeric_Percent_805	805	numeric		Line 805. The rate of rural bonus that is specified on the Advance Certificate of Eligibility or the Certificate of Completion. Percentage.
+3	Part8_Subform/Line805_820	Amt_Ln_820	820	numeric	12	Line 820. Rural bonus tax credit. Line 650 multiplied by line 805.
+3	Part9_Subform/Line845_850_Subform	Amt_Ln_650	650	numeric	12	Line 650 in Part 6. Instance 5.
+3	Part9_Subform/Line845_850_Subform	Numeric_Percent_845	845	numeric		Line 845. The rate of producer bonus that is specified on the Advance Certificate of Eligibility or the Certificate of Completion. Percentage.
+3	Part9_Subform/Line845_850_Subform	Amt_Ln_850	850	numeric	12	Line 850. Producer bonus tax credit. Line 650 multiplied by line 845.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	Part10_Subform/Line855_Subform	Amt_Ln_855	855	numeric	12	Line 855. Salary and wages paid to eligible individuals and eligible non-resident individuals that are directly attributable to the eligible Manitoba film.
+4	Part10_Subform/ServiceContract_Subform/Line857_Subform	Amt_Ln_857	857	numeric	12	Line 857. Eligible service contract expenditures directly attributable to the eligible film paid to eligible individuals.
+4	Part10_Subform/ServiceContract_Subform/Line858_Subform	Amt_Ln_858	858	numeric	12	Line 858. Eligible service contract expenditures directly attributable to the eligible film paid to taxable Canadian corporations, solely owned by an eligible individual.
+4	Part10_Subform/ServiceContract_Subform/Line859_Subform	Amt_Ln_859	859	numeric	12	Line 859. Eligible service contract expenditures directly attributable to the eligible film paid to other taxable Canadian corporations, for their eligible employees.
+4	Part10_Subform/ServiceContract_Subform/Line860_Subform	Amt_Ln_860	860	numeric	12	Line 860. Eligible service contract expenditures directly attributable to the eligible film paid to partnerships, for their members who are eligible individuals or eligible employees.
+4	Part10_Subform/ServiceContract_Subform/LineIndicator_10A_Subform	Amt_Ln_10A_Subtotal		numeric	12	Amount 10A. Subtotal. Total of lines 857 to 860. Instance 1.
+4	Part10_Subform/ServiceContract_Subform/LineIndicator_10A_Subform	Amt_Ln_10A_Total		numeric	12	Amount 10A. Instance 2.
+4	Part10_Subform/ServiceContractContinued_Subform/Line862_Subform	Amt_Ln_862	862	numeric	12	Line 862. Eligible service contract expenditures incurred by the parent corporation and transferred to its wholly-owned subsidiary corporation under a reimbursement agreement.
+4	Part10_Subform/ServiceContractContinued_Subform/Line864_Subform	Amt_Ln_864	864	numeric	12	Line 864. Eligible tangible property expenditures directly attributable to the eligible film.
+4	Part10_Subform/ServiceContractContinued_Subform/Line865_Subform	Amt_Ln_865	865	numeric	12	Line 865. Eligible accommodation expenditures directly attributable to the eligible film.
+4	Part10_Subform/ServiceContractContinued_Subform/LineIndicator_10B_Subform	Amt_Ln_10B		numeric	12	Amount 10B. Eligible production costs. Total of line 855, amount 10A, lines 862, 864 and 865.
+4	Part10_Subform/GovernmentAss_Subform/Line866_Subform	Amt_Ln_866	866	numeric	12	Line 866. Government assistance included in amount 10B that the corporation has not repaid.
+4	Part10_Subform/GovernmentAss_Subform/Line870_Subform	Amt_Ln_870	870	numeric	12	Line 870. Cost of production for the tax year. Amount 10B minus line 866. If negative, enter 0. Instance 1.
+4	Part10_Subform/GovernmentAss_Subform/Line875_Subform	Amt_Ln1_875	870	numeric	12	Line 870. Instance 2.
+4	Part10_Subform/GovernmentAss_Subform/Line875_Subform	Amt_Ln2_875	875	numeric	12	Line 875. Cost of production base credit. Line 870 multiplied by 30 percent.
+4	Part10_Subform/GovernmentAss_Subform/Line876_Subform	Amt_Ln1_876	870	numeric	12	Line 870. Instance 3.
+4	Part10_Subform/GovernmentAss_Subform/Line876_Subform	Amt_Ln2_876	876	numeric	12	Line 876. Manitoba production corporation bonus. Line 870 multiplied by 8 percent.
+4	Part10_Subform/GovernmentAss_Subform/ID_10C	Amt_Ln_10C		numeric	12	Amount 10C. Cost of production tax credit. Add lines 875 and 876.
+4	Part11_Subform/Line_11A_Subform	Amt_Ln_11A		numeric	12	Amount 11A. Basic tax credit. Line 660 in Part 6.
+4	Part11_Subform/Line_11B_Subform	Amt_Ln_11B		numeric	12	Amount 11B. Frequent filming bonus tax credit. Line 730 in Part 7.
+4	Part11_Subform/Line_11C_Subform	Amt_Ln_11C		numeric	12	Amount 11C. Rural bonus tax credit. Line 820 in Part 8.
+4	Part11_Subform/Line_11D_Subform	Amt_Ln_11D		numeric	12	Amount 11D. Producer bonus tax credit. Line 850 in Part 9.
+4	Part11_Subform/Line_11E_Subform	Amt_Ln_11E		numeric	12	Amount 11E. Cost of salaries tax credit. Total of amounts 11A to 11D.
+4	Part11_Subform/Line_11F_Subform	Amt_Ln_11F		numeric	12	Amount 11F. Cost of production tax credit. Amount 10C.
+4	Part11_Subform/Line900_Subform	Amt_Ln_900	900	numeric	12	Line 900. Manitoba film and video production tax credit. Amount 11E or amount 11F, whichever applies. Enter line 900 on the line 620 of Schedule 5, Tax Calculation Supplementary - Corporations. If you are filing more than one of these schedules, add the amounts from line 900 of all the schedules, and enter the total on line 620 of Schedule 5.
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		
+5	Part12_Subform/Part12_ClaimChecklist_Subform/ListItem_1_Subform	CheckBox1		check		1. An Advance Certificate of Eligibility or a Certificate of Completion issued by Manitoba Film and Music.
+5	Part12_Subform/Part12_ClaimChecklist_Subform/ListItem_2_Subform	CheckBox2		check		2. A completed copy of this form. You can complete one form for episodes in a series that are certified eligible productions.
+5	Part12_Subform/Part12_ClaimChecklist_Subform/ListItem_3_Subform	CheckBox3		check		3. A report of eligible Manitoba Labour Expenditures conforming to the format presented in Form B (1).
+5	Part12_Subform/Part12_ClaimChecklist_Subform/ListItem_4_Subform	CheckBox4		check		4. The final detailed cost report upon which the Report of Eligible Manitoba Labour Expenditures is based. Indicating eligible Manitoba labour expenditures.
+5	Part12_Subform/Part12_ClaimChecklist_Subform/ListItem_5_Subform	CheckBox5		check		5. The financial structure for the film or video for the tax year.
+5	Part12_Subform/Part12_ClaimChecklist_Subform/ListItem_6_Subform	CheckBox6		check		6. If applicable, any documentation that indicates a change in control to the corporation or its corporate structure, which has occurred after the date on which the Part A application has been submitted.
+5	Part12_Subform/Part12_ClaimChecklist_Subform/ListItem_7_Subform	CheckBox7		check		7. If applicable, the actual list of deemed labour, Form D, Part B, signed by unions, guilds, Film Training Manitoba. It should also be on file with Manitoba Film and Music.
+5	Part12_Subform/Part12_ClaimChecklist_Subform/ListItem_8_Subform/CheckList8_Subform	CheckBox8		check		8. If you are claiming eligible salaries for services provided by eligible non-resident individuals in Part 5 of this form, include a document showing a separate breakdown of eligible salaries by tax years for eligible individuals and eligible non-resident individuals, in addition to the actual list of deemed labour.
+5	PageNumbers	CurrentPage		numeric		
+5	PageNumbers	PageCount		numeric		

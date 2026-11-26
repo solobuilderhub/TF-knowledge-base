@@ -1,0 +1,77 @@
+Corporation's name                             New Brunswick Corporation Tax Calculation                                                                                                           Schedule 366
+                                                            (2022 and later tax years)                                                                                                                  Protected B
+
+                                                                                                                                     Business number                                                   when completed
+
+                                                                                                                                                                                                 Tax year-end
+                                                                                                                                                                                               Year Month Day
+
+· Use this schedule if your corporation had a permanent establishment (as defined in section 400 of the federal Income Tax Regulations)
+  in New Brunswick, and had taxable income earned in the year in New Brunswick.
+
+· This schedule is a worksheet only and is not required to be filed with your T2 Corporation Income Tax Return.
+
+Part 1 ­ Income subject to New Brunswick lower and higher tax rates
+
+Taxable income for New Brunswick 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     1A
+
+Income eligible for the New Brunswick lower tax rate
+
+Line 400 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1B
+
+Line 405 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1C
+
+Line 410 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         1D
+
+Line 415 of the T2 return . . . . . . . . . . . . . . . . . . . . .          1E
+
+Business limit reduction
+
+Taxable capital business limit reduction for tax years starting before April 7, 2022
+
+Amount 1D                                      × Amount 1E                   =                                      1F
+
+                                                                     11,250
+
+Taxable capital business limit reduction for tax years starting after April 6, 2022
+
+Amount 1D                                      × Amount 1E                   =                                      1G
+
+                                                                     90,000
+
+Amount 1F or amount 1G, whichever applies . . . . . . . . . . . . . . . . . . . . . . . . .                         1H
+
+Line 515 of the T2 return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         1I
+
+                    Subtotal (amount 1D minus amount 1H minus amount 1I)                                                                               1J
+
+Amount 1B, 1C or 1J, whichever is the least . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              1K
+
+Amount 1K . . . . . . . . . . . . . . . . . .                        × Taxable income for New Brunswick 1                                              =                                       1L
+
+                                                                                Taxable income for all provinces 2
+
+Income subject to New Brunswick higher tax rate (amount 1A minus amount 1L) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                        1M
+
+1 If your corporation had a permanent establishment only in New Brunswick, enter the taxable income from line 360 of the T2 return. Otherwise,
+  enter the taxable income allocated to New Brunswick from column F in Part 1 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+2 Includes the territories and the offshore jurisdictions for Nova Scotia and Newfoundland and Labrador.
+
+Part 2 ­ New Brunswick tax before credits
+
+New Brunswick tax at the lower rate
+
+Amount 1L                                      × 2.5% . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . =  2A
+
+New Brunswick tax at the higher rate
+
+Amount 1M                                      × 14% . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . =   2B
+
+New Brunswick tax before credits (amount 2A plus amount 2B) 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                            2C
+
+3 If your corporation had a permanent establishment in more than one jurisdiction or is claiming a New Brunswick tax credit,
+  enter amount 2C on line 225 of Schedule 5. Otherwise, enter it on line 760 of the T2 return.
+
+T2 SCH 366 E (22)                                                    (Ce formulaire est disponible en français.)
+

@@ -1,0 +1,18 @@
+page	part	field	line	kind	digits	speak
+1	Corporation_info	Corporation_Name		text		
+1	Corporation_info	BusinessNumber		text		Business Number. 9 digits, 2 letters, and 4 digits.
+1	Corporation_info/TaxYearEndDate	TaxYearEndDate_Comb		text		Taxation year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Calculation_group	Amount_LineA		numeric		Amount A. Canadian manufacturing and processing profits for the year from line 200 in Part 9 of Schedule 27.
+1	Calculation_group	Amount_LineB		numeric		Amount B. The least of amounts on lines 400, 405, 410, and 425 of the small business deduction calculation on page 3 of the T2 return.
+1	Calculation_group	Amount_LineC_Instance1		numeric		Amount C. Amount A minus Amount B. Instance 1.
+1	Calculation_group	Amount_LineC_Instance2		numeric		Amount C. Amount A minus Amount B. Instance 2.
+1	Calculation_group	Amount_LineD		numeric		Amount D. Amount from line Y in Part 9 of Schedule 27.
+1	Calculation_group	LineE_BaseAmount		numeric		Lesser of C and D.
+1	Calculation_group	Tax_PEI		numeric		Taxable income earned in Prince Edward Island.
+1	Calculation_group	Tax_Province		numeric		Taxable income earned in all provinces.
+1	Calculation_group	Amount_LineE		numeric		Amount E. Lesser of C and D multiplied by Taxable income earned in Prince Edward Island divided by Taxable income earned in all provinces.
+1	Calculation_group	LineF_BaseAmount		numeric		Amount E.
+1	Calculation_group	LineF_NoOfDaysBeforApt1_2005		numeric	3	Number of days in the taxation year before April 1, 2005.
+1	Calculation_group	LineF_Days		numeric	3	Number of days in the taxation year.
+1	Calculation_group	Amount_LineF		numeric		Amount F. Amount E multiplied by Number of days in the taxation year before April 1, 2005 divided by Number of days in the taxation year multiplied by 8.5%.
+1	Calculation_group	Amount_LineG		numeric		Amount G. Prince Edward Island manufacturing and processing profits tax credit – Amount F. Enter amount G on line 529 of Schedule 5.

@@ -1,0 +1,54 @@
+page	part	field	line	kind	digits	speak
+1	CorporationInfo_Subform	Corporation_name		text		
+1	CorporationInfo_Subform	BusinessNumber_Contiguous_EN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	CorporationInfo_Subform/DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_Subform/Table/Row1	Cell1		text		
+1	Part1_Subform/Table/Row1	Cell2		numeric	12	
+1	Part1_Subform/Table/Row2	Cell1		text		
+1	Part1_Subform/Table/Row2	Cell2		numeric	12	
+1	Part1_Subform/Table/Row3	Cell1		text		
+1	Part1_Subform/Table/Row3	Cell2		numeric	12	
+1	Part1_Subform/Table/Row4	Cell1		text		
+1	Part1_Subform/Table/Row4	Cell2		numeric	12	
+1	Part1_Subform/Table/Row5	Cell1		text		
+1	Part1_Subform/Table/Row5	Cell2		numeric	12	
+1	Part1_Subform/ID_1A_Subform	Total		numeric	12	Amount 1A. Total credit earned in the current tax year.
+1	Part2__Subform/ID_2A_104_105_120_2B_Subform	ID_2A_Input		numeric	12	Amount 2A. Unused credit at the end of the previous tax year.
+1	Part2__Subform/ID_2A_104_105_120_2B_Subform	Line104_Input	104	numeric	12	Line 104. Credit expired after seven tax years.
+1	Part2__Subform/ID_2A_104_105_120_2B_Subform	Line105_Input_1	105	numeric	12	Line 105. Unused credit at the beginning of the current tax year. Amount 2A minus line 104. Instance 1
+1	Part2__Subform/ID_2A_104_105_120_2B_Subform	Line105_Input_2	105	numeric	12	Line 105. Instance 2.
+1	Part2__Subform/ID_2A_104_105_120_2B_Subform	Line120_Input	120	numeric	12	Line 120. Credit earned in the current tax year. Amount 1A.
+1	Part2__Subform/ID_2A_104_105_120_2B_Subform	ID_2B_Input		numeric	12	Amount 2B. Total credit available. Line 105 plus line 120.
+1	Part2__Subform/ID_2C_2D_2E_200_Subform	ID_2C_Input		numeric	12	Amount 2C. Credit claimed in current year. Enter on line 507 in Part 2 of Schedule 5, Tax Calculation Supplementary – Corporations.
+1	Part2__Subform/ID_2C_2D_2E_200_Subform	ID_2D_Input		numeric	12	Amount 2D. Credit carried back to previous tax years. Complete Part 3.
+1	Part2__Subform/ID_2C_2D_2E_200_Subform	ID_2E_Input1		numeric	12	Amount 2E. Subtotal. Amount 2C plus amount 2D. Instance 1.
+1	Part2__Subform/ID_2C_2D_2E_200_Subform	ID_2E_Input2		numeric	12	Amount 2E. Instance 2.
+1	Part2__Subform/ID_2C_2D_2E_200_Subform	Line_200_Input	200	numeric	12	Line 200. Closing balance. Amount 2B minus amount 2E.
+1	FooterSch304_Fr_PgNumber_CanadaLogo	CurrentPage		numeric		
+1	FooterSch304_Fr_PgNumber_CanadaLogo	PageCount		numeric		
+2	Part3_Subform/Line901_Subform/DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		First previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3_Subform/Line901_Subform	Line901_Input	901	numeric	12	Line 901. Credit to be applied, first previous tax year.
+2	Part3_Subform/Line902_Subform/DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Second previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3_Subform/Line902_Subform	Line902_Input	902	numeric	12	Line 902. Credit to be applied, second previous tax year.
+2	Part3_Subform/Line903_Subform/DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Third previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3_Subform/Line903_Subform	Line903_Input	903	numeric	12	Line 903. Credit to be applied, third previous tax year.
+2	Part3_Subform/ID_3A_Subform	Input		numeric	12	Amount 3A. Total credit to be applied. Enter at amount 2D in Part 2.
+2	Part4_Subform/CreditAvailable_Title_7thyear_Subform/DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Year of origin. Seventh previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4_Subform/CreditAvailable_Title_7thyear_Subform	Input		numeric	12	Credit available for carryforward. Seventh previous tax year.
+2	Part4_Subform/CreditAvailable6thyear_Subform/DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Year of origin. Sixth previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4_Subform/CreditAvailable6thyear_Subform	Input		numeric	12	Credit available for carryforward. Sixth previous tax year.
+2	Part4_Subform/CreditAvailable5thyear_Subform/DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Year of origin. Fifth previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4_Subform/CreditAvailable5thyear_Subform	Input		numeric	12	Credit available for carryforward. Fifth previous tax year.
+2	Part4_Subform/CreditAvailable4thyear_Subform/DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Year of origin. Fourth previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4_Subform/CreditAvailable4thyear_Subform	Input		numeric	12	Credit available for carryforward. Fourth previous tax year.
+2	Part4_Subform/CreditAvailable3rdyear_Subform/DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Year of origin. Third previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4_Subform/CreditAvailable3rdyear_Subform	Input		numeric	12	Credit available for carryforward. Third previous tax year.
+2	Part4_Subform/CreditAvailable2ndyear_Subform/DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Year of origin. Second previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4_Subform/CreditAvailable2ndyear_Subform	Input		numeric	12	Credit available for carryforward. Second previous tax year.
+2	Part4_Subform/CreditAvailable1styear_Subform/DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Year of origin. First previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4_Subform/CreditAvailable1styear_Subform	Input		numeric	12	Credit available for carryforward. First previous tax year.
+2	Part4_Subform/CreditAvailableCurrentyear_Subform/DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Year of origin. Current tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4_Subform/CreditAvailableCurrentyear_Subform	Input		numeric	12	Credit available for carryforward. Current tax year.
+2	Part4_Subform/ID_4A_Subform	Input		numeric	12	Amount 4A. Total credit available for carryforward. Equals line 200 in Part 2.
+2		CurrentPage		numeric		
+2		PageCount		numeric		

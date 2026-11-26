@@ -1,0 +1,180 @@
+                    Manitoba Manufacturing Investment Tax Credit                                                                                                                                           Schedule 381
+                                   (2026 and later tax years)                                                                                                                                                     Code 2601
+
+                                                                                              Business number                                                                                                Protected B
+                                                                                                                                                                                                           when completed
+
+Corporation's name                                                                                                                                                                                         Tax year-end
+
+                                                                                                                                                                                                    Year   Month Day
+
+· If you are a corporation that has acquired qualified property, or that has acquired equipment used to produce or conserve energy, mainly to manufacture or
+  process goods for sale or lease, or you are a corporation that has unused Manitoba manufacturing investment tax credit at the end of the previous year, use
+  this schedule to claim a tax credit against the Manitoba corporation income tax payable. The applicable rate is 1% for retail sales tax (RST)-exempt property
+  and 8% for any other qualified property.
+
+· The tax credit will be first applied to reduce the Manitoba corporation income tax payable and any remaining amount earned in this tax year may be refunded.
+  The maximum refundable part of this credit is 7/8 of earned credits for qualified property (other than RST-exempt property). Any unused investment tax credit
+  can be carried forward up to 10 years or carried back to any of the 3 previous years.
+
+· You may renounce all or part of your manufacturing investment tax credit earned in the current tax year. If the renunciation is filed by the filing due date for the
+  year, you are deemed to never have received, been entitled to receive or had a reasonable expectation of receiving the renounced amount. If the renunciation
+  is filed within a 365-day period immediately following the filing-due date, you are deemed to never have received, been entitled to receive or had a reasonable
+  expectation of receiving the amount, except for paragraph 37(1)(d) and subsections 127(18) to (20) of the federal Income Tax Act.
+
+· Manufacturing or processing is defined under subsection 125.1(3) of the federal Income Tax Act and includes qualified activities under section 5202 of the
+  federal Income Tax Regulations.
+
+· Qualified property is new and used prescribed buildings, machinery, and equipment used by the corporation in Manitoba mainly to manufacture or process
+  goods for sale or lease. Qualified property includes Class 43.1 or 43.2 property that the corporation acquired after April 22, 2003, and is used by the
+  corporation in Manitoba to produce energy or to conserve or reduce the need to acquire energy. Qualified property includes property leased for the same
+  purposes to a lessee who is not exempt from tax under section 149 of the federal Income Tax Act.
+
+· Property acquired has to be available for use by the corporation, as determined under subsections 13(27) and 13(28) of the federal Income Tax Act,
+  without reference to paragraphs 13(27)(c) and 13(28)(d).
+
+· RST-exempt property is a qualified property of a corporation for which no tax was payable by the corporation under the Retail Sales Tax Act due to the
+  provisions of subsection 3(22.2) of that Act (exemption for tangible personal property used in manufacturing and processing) or any prescribed provision of
+  that Act or its regulations.
+
+· The Manitoba manufacturing investment tax credit (MMITC) is considered government assistance under paragraph 12(1)(x) of the federal Income Tax Act and
+  must be included in income in the tax year the credit is received. The MMITC is not considered government assistance under section 7.2 of the Manitoba
+  Income Tax Act for the purposes of calculating the credit itself.
+
+· To claim this credit, file a completed copy of this schedule with your T2 Corporation Income Tax Return no later than one year after your filing due date in
+  which the property was acquired.
+
+Part 1 ­ Qualified property acquired in the current tax year eligible for the credit
+
+         1                              2                            3                                         4                                                                                                   5
+       101                           113                           114                                                                                                                                            103
+CCA class No.       Description of qualified property  RST-exempt property *                                   102                                                                                         Capital cost***
+
+                                                                                      Acquisition date**
+
+                                                                              Year                                Month Day
+
+                                                                                                                                                                                                    Total
+
+Portion of total capital cost related to RST-exempt property acquired in the current tax year . . . . . . . . . . . . . . . . . . . . . . 115
+
+Portion of total capital cost related to qualified property (other than RST-exempt property) acquired in the current                                                                                112
+tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ * Select Yes for property acquired after June 30, 2026, if the property described in column 2 is an RST-exempt property. Otherwise, select No.
+** The acquisition date is the date that the property became available for use.
+*** When you calculate the capital cost of qualified property, deduct the amount of any government or non-government assistance.
+
+T2 SCH 381 E (26)   (Ce formulaire est disponible en français.)                       Page 1 of 3
+  Part 2 ­ Total credit available for the year and credit available for carryforward                                                                  Protected B when completed
+                                                                                                                                                      A
+Unused credit at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Credit expired after 10 tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+
+Unused credit at the beginning of this tax year (amount A minus line 104) . . . . . . . . . . . . . . . . . . 105                                        
+                                                                                                                                                         
+Credit transferred on an amalgamation or the wind-up of a subsidiary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+
+Line 115 from Part 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  × 1% = 118
+
+Line 112 from Part 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  × 8% = 123
+
+Credit allocated from a partnership (other than RST-exempt property) . . . . . . . . . . . . . . . . . . . . . . 130
+
+Credit allocated from a partnership (RST-exempt property) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131
+
+Credit allocated from a trust (other than RST-exempt property) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+
+Credit allocated from a trust (RST-exempt property) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 141
+
+                    Subtotal (add lines 118, 123, 130, 131, 140, and 141)                                                                             B
+
+Credit renounced . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+
+Total credit earned in the current tax year (amount B minus line 150) . . . . . . . . . . . . . . . . . . . . . . . . .                                             C
+
+Total credit available for the current tax year (add lines 105, 110, and amount C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      D
+
+Non-refundable credit claimed in the current tax year (Manitoba tax otherwise payable or
+amount D, whichever is less) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+Enter this amount on line 605 of Schedule 5.
+
+Refundable credit:
+
+Amount D            ­ Manitoba tax otherwise payable                                    = ........                                                    E*
+
+Portion of amount B related to qualified property (other than
+RST-exempt property) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+
+Line 165 minus line 150 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   F
+
+Line 165 multiplied by 7/8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  G
+
+Refundable credit claimed in the current tax year (amount E, F, or G, whichever is least) . . . . 125
+Enter this amount on line 621 of Schedule 5.
+
+Credit carried back to previous tax years (complete Part 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                         H
+
+                    Subtotal (add lines 160, 125, and amount H)                                                                                                     I
+
+Closing balance for carryforward (amount D minus amount I) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+ * If negative, enter "0".
+
+T2 SCH 381 E (26)                                                                                                                                                   Page 2 of 3
+                                                                            Protected B when completed
+
+Part 3 ­ Request for carryback of credit
+
+Complete this part to ask for a carryback of a current-year credit earned.
+
+                   Tax year in which to apply the credit                                                                                                Credit to be applied
+
+                                    Year  Month Day
+
+ 1st previous tax year ending on                     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 901
+2nd previous tax year ending on                      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 902
+3rd previous tax year ending on                      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 903
+
+                                                                            Total (enter at amount H in Part 2)                                                               J
+
+  Part 4 ­ Analysis of credit available for carryforward by tax year of origin
+
+You can complete this part to show all the credits from previous tax years available for carryforward, by year of origin. This will help you determine the amount
+of credit that could expire in future years.
+
+The carry-forward period is 10 years.
+
+                                    Year of origin                                                                                                      Credit available for
+                                                                                                                                                            carryforward
+                                    Year  Month Day
+
+10th previous tax year ending on                     ....................................................
+ 9th previous tax year ending on
+ 8th previous tax year ending on                     ....................................................
+ 7th previous tax year ending on
+ 6th previous tax year ending on                     ....................................................
+ 5th previous tax year ending on
+ 4th previous tax year ending on                     ....................................................
+ 3rd previous tax year ending on
+2nd previous tax year ending on                      ....................................................
+ 1st previous tax year ending on
+        Current tax year ending on                   ....................................................
+
+                                                     ....................................................
+
+                                                     ....................................................
+
+                                                     ....................................................
+
+                                                     ....................................................
+
+                                                     ....................................................
+
+                                                                            Total (equals line 200 in Part 2)                                                                 K
+
+The amount available from the 10th previous year will expire after this tax year. When you file your return for the next year, you will enter the expired amount
+on line 104 of Schedule 381 for that year.
+
+T2 SCH 381 E (26)                                                                                                                                       Page 3 of 3
+

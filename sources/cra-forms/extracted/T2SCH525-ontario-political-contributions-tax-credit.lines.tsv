@@ -1,0 +1,5 @@
+line	caption
+100	Unused eligible contributions expired after 20 tax years
+110	Eligible contribution balance at the beginning of the tax year (amount A minus amount B)
+120	Eligible contributions for the current tax year (made before January 1, 2017)
+190	Eligible contribution balance at the end of the tax year (amount E minus amount F)

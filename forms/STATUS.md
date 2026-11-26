@@ -9,27 +9,19 @@ CRA's list captured 2026-11-26 from https://www.canada.ca/en/revenue-agency/serv
 | 1 - Core (every return) | 8 | 8 | 5 |
 | 2 - Basic CCPC | 19 | 19 | 12 |
 | 3 - Common additions | 21 | 17 | 8 |
-| 4 - Provincial | 97 | 16 | 16 |
+| 4 - Provincial | 97 | 97 | 16 |
 | 5 - Specialized | 36 | 1 | 1 |
 | Retired by the authority (archived) | 30 | 0 | 0 |
 
 Lines column: line numbers found by the text extractor / by the fillable form's own fields / by both.
 A form where the two disagree widely is a grid form: its numbers are column headings, and it is authored by hand.
 
-## Out of date
-
-- T2: CRA updated the form on 2026-10-14; the copy held was fetched 2026-10-03. Download it again and re-run the extractors.
-- T2SCH3: CRA updated the form on 2026-11-17; the copy held was fetched 2026-10-03. Download it again and re-run the extractors.
-- T2SCH5: CRA updated the form on 2026-11-17; the copy held was fetched 2026-10-03. Download it again and re-run the extractors.
-- T2SCH7: CRA updated the form on 2026-11-06; the copy held was fetched 2026-10-03. Download it again and re-run the extractors.
-- T2SCH31: CRA updated the form on 2026-10-14; the copy held was fetched 2026-10-03. Download it again and re-run the extractors.
-
 ## 1 - Core (every return)
 
 | Form | Title | Where | PDF held | Revision | CRA updated | Lines (text / fields / both) | Captions | Form definition | Engine |
 |---|---|---|---|---|---|---|---|---|---|
 | T183CORP | Information Return for Corporations Filing Electronically | FED | yes |  | 2024-11-22 |  |  |  |  |
-| T2 | Corporation Income Tax Return | FED | yes | T2 E (26) | 2026-10-14 **stale** | 173 / 223 / 168 | yes | jacket.ts | part1-tax.ts |
+| T2 | Corporation Income Tax Return | FED | yes |  | 2026-10-14 | 173 / 223 / 168 | yes | jacket.ts | part1-tax.ts |
 | T2SCH1 | Net Income (Loss) for Income Tax Purposes | FED | yes | T2 SCH 1 E (25) | 2025-05-14 | 117 / 117 / 117 | yes | schedule1.ts | schedule1.ts |
 | T2SCH50 | Shareholder Information | FED | yes | T2 SCH 50 E (19) | 2020-01-31 | 0 / 6 / 0 | yes | schedule50.ts |  |
 | T2SCH100 | Balance Sheet Information | FED | yes | T2 SCH 100 E (20) | 2021-01-26 | 2 / 0 / 0 | yes |  |  |
@@ -42,11 +34,11 @@ A form where the two disagree widely is a grid form: its numbers are column head
 | Form | Title | Where | PDF held | Revision | CRA updated | Lines (text / fields / both) | Captions | Form definition | Engine |
 |---|---|---|---|---|---|---|---|---|---|
 | T2SCH2 | Charitable Donations and Gifts | FED | yes | T2 SCH 2 E (23) | 2023-11-27 | 28 / 38 / 28 | yes | schedule2.ts | schedule2-donations.ts |
-| T2SCH3 | Dividends Received, Taxable Dividends Paid, and Part IV Tax Calculatio | FED | yes | T2 SCH 3 E (26) | 2026-11-17 **stale** | 27 / 44 / 27 | yes | schedule3.ts | schedule3-part4-rdtoh.ts |
+| T2SCH3 | Dividends Received, Taxable Dividends Paid, and Part IV Tax Calculatio | FED | yes | T2 SCH 3 E (26) | 2026-11-17 | 27 / 44 / 27 | yes | schedule3.ts | schedule3-dividends-paid.ts, schedule3-part4-rdtoh.ts |
 | T2SCH4 | Corporation Loss Continuity and Application | FED | yes | T2 SCH 4 E (25) | 2025-05-29 | 64 / 88 / 64 | yes | schedule4.ts | schedule4-losses.ts |
-| T2SCH5 | Tax Calculation Supplementary - Corporations | FED | yes |  | 2026-11-17 **stale** | 160 / 153 / 153 | yes | schedule5.ts | schedule5-allocation.ts, schedule5-provincial.ts |
+| T2SCH5 | Tax Calculation Supplementary - Corporations | FED | yes |  | 2026-11-17 | 160 / 153 / 153 | yes | schedule5.ts | schedule5-allocation.ts, schedule5-provincial.ts |
 | T2SCH6 | Summary of Dispositions of Capital Property | FED | yes | T2 SCH 6 E (24) | 2025-02-11 | 12 / 61 / 12 | yes | schedule6.ts | schedule6-capital-gains.ts |
-| T2SCH7 | Aggregate Investment Income and Income Eligible for the Small Business | FED | yes | T2 SCH 7 E (26) | 2026-11-06 **stale** | 40 / 70 / 40 | yes | schedule7.ts | schedule7.ts |
+| T2SCH7 | Aggregate Investment Income and Income Eligible for the Small Business | FED | yes | T2 SCH 7 E (26) | 2026-11-06 | 40 / 70 / 40 | yes | schedule7.ts | schedule7.ts |
 | T2SCH8 | Capital Cost Allowance (CCA) | FED | yes | T2 SCH 8 E (26) | 2026-05-25 | 1 / 1 / 0 |  | schedule8.ts | schedule8.ts |
 | T2SCH9 | Related and Associated Corporations | FED | yes |  | 2011-10-03 | 1 / 0 / 0 | yes |  |  |
 | T2SCH11 | Transactions with Shareholders, Officers or Employees | FED | yes |  | 2001-06-15 | 0 / 1 / 0 | yes |  |  |
@@ -77,7 +69,7 @@ A form where the two disagree widely is a grid form: its numbers are column head
 | T2SCH25 | Investment in Foreign Affiliates | FED | yes | T2 SCH 25 E (20) | 2021-01-25 | 0 / 3 / 0 | yes |  |  |
 | T2SCH27 | Calculation of Canadian Manufacturing and Processing Profits Deduction | FED | yes | T2 SCH 27 E (22) | 2023-02-21 | 17 / 18 / 17 | yes |  | schedule27-mp.ts, schedule27-zetm.ts |
 | T2SCH29 | Payments to Non-Residents | FED | yes |  | 2000-01-25 |  |  |  |  |
-| T2SCH31 | Investment Tax Credit - Corporations | FED | yes |  | 2026-10-14 **stale** | 76 / 105 / 76 | yes | schedule31.ts | schedule31-itc-recapture.ts, schedule31-sred-itc.ts |
+| T2SCH31 | Investment Tax Credit - Corporations | FED | yes |  | 2026-10-14 | 76 / 105 / 76 | yes | schedule31.ts | schedule31-expenditure-limit.ts, schedule31-itc-recapture.ts, schedule31-sred-itc.ts |
 | T2SCH33 | Taxable Capital Employed in Canada - Large Corporations | FED | yes | T2 SCH33 E (15) | 2015-12-03 | 30 / 0 / 0 | yes | schedule33.ts | schedule33-taxable-capital.ts |
 | T2SCH43 | Calculation of Parts IV.1 and VI.1 Taxes | FED | yes | T2 SCH 43 E (19) | 2019-08-21 | 20 / 25 / 20 | yes | schedule43.ts | schedule43-part6-1.ts |
 | T2SCH54 | Low Rate Income Pool (LRIP) Calculation | FED | yes | T2 SCH 54 E (24) | 2024-12-23 | 10 / 18 / 10 | yes |  | schedule54-lrip.ts |
@@ -91,87 +83,87 @@ A form where the two disagree widely is a grid form: its numbers are column head
 
 | Form | Title | Where | PDF held | Revision | CRA updated | Lines (text / fields / both) | Captions | Form definition | Engine |
 |---|---|---|---|---|---|---|---|---|---|
-| T2SCH421 | British Columbia Mining Exploration Tax Credit | BC |  |  | 2025-01-23 |  |  |  |  |
-| T2SCH426 | British Columbia Manufacturing and Processing Tax Credit | BC |  |  | 2002-03-22 |  |  |  |  |
-| T2SCH427 | British Columbia Corporation Tax Calculation | BC |  |  | 2022-11-30 |  |  |  |  |
-| T2SCH428 | British Columbia Training Tax Credit | BC |  |  | 2025-03-04 |  |  |  |  |
-| T2SCH429 | British Columbia Interactive Digital Media Tax Credit | BC |  |  | 2025-12-12 |  |  |  |  |
-| T2SCH430 | British Columbia Shipbuilding and Ship Repair Industry Tax Credit (201 | BC |  |  | 2025-02-27 |  |  |  |  |
-| T2SCH432 | Additional Certificate Numbers for the British Columbia Clean Building | BC |  |  | 2023-02-10 |  |  |  |  |
-| T2SCH380 | Manitoba Research and Development Tax Credit | MB |  |  | 2020-12-24 |  |  |  |  |
-| T2SCH381 | Manitoba Manufacturing Investment Tax Credit | MB |  |  | 2026-10-14 |  |  |  |  |
-| T2SCH383 | Manitoba Corporation Tax Calculation | MB |  |  | 2021-01-13 |  |  |  |  |
-| T2SCH384 | Manitoba Paid Work Experience Tax Credit | MB |  |  | 2021-11-25 |  |  |  |  |
-| T2SCH385 | Manitoba Odour-Control Tax Credit | MB |  |  | 2024-03-19 |  |  |  |  |
-| T2SCH387 | Manitoba Small Business Venture Capital Tax Credit | MB |  |  | 2026-11-05 |  |  |  |  |
-| T2SCH388 | Manitoba Film and Video Production Tax Credit | MB |  |  | 2022-09-20 |  |  |  |  |
-| T2SCH389 | Manitoba Book Publishing Tax Credit | MB |  |  | 2022-01-06 |  |  |  |  |
-| T2SCH392 | Manitoba Data Processing Investment Tax Credits | MB |  |  | 2023-01-11 |  |  |  |  |
-| T2SCH394 | Manitoba Rental Housing Construction Tax Credit | MB |  |  | 2024-04-03 |  |  |  |  |
-| T2SCH360 | New Brunswick Research and Development Tax Credit | NB |  |  | 2012-02-27 |  |  |  |  |
-| T2SCH366 | New Brunswick Corporation Tax Calculation | NB |  |  | 2023-04-03 |  |  |  |  |
-| T2SCH367 | New Brunswick Small Business Investor Tax Credit | NB |  |  | 2014-12-11 |  |  |  |  |
-| T2SCH301 | Newfoundland and Labrador Research and Development Tax Credit | NL |  |  | 2010-12-09 |  |  |  |  |
-| T2SCH302 | Additional Certificate Numbers for the Newfoundland and Labrador Film  | NL |  |  | 2003-02-25 |  |  |  |  |
-| T2SCH303 | Newfoundland and Labrador Direct Equity Tax Credit | NL |  |  | 2017-11-21 |  |  |  |  |
-| T2SCH304 | Newfoundland and Labrador Resort Property Investment Tax Credit | NL |  |  | 2020-02-06 |  |  |  |  |
-| T2SCH305 | Newfoundland and Labrador Capital Tax on Financial Institutions | NL |  |  | 2021-12-07 |  |  |  |  |
-| T2SCH306 | Newfoundland and Labrador Capital Tax on Financial Institutions - Agre | NL |  |  | 2010-01-04 |  |  |  |  |
-| T2SCH307 | Newfoundland and Labrador Corporation Tax Calculation | NL |  |  | 2026-10-29 |  |  |  |  |
-| T2SCH308 | Newfoundland and Labrador Venture Capital Tax Credit | NL |  |  | 2017-10-12 |  |  |  |  |
-| T2SCH309 | Additional Certificate Numbers for the Newfoundland and Labrador Inter | NL |  |  | 2017-10-18 |  |  |  |  |
-| T2SCH310 | Newfoundland and Labrador Manufacturing and Processing Investment Tax  | NL |  |  | 2023-06-07 |  |  |  |  |
-| T2SCH311 | Newfoundland and Labrador Green Technology Tax Credit | NL |  |  | 2023-05-12 |  |  |  |  |
-| T2SCH340 | Nova Scotia Research and Development Tax Credit | NS |  |  | 2004-12-21 |  |  |  |  |
-| T2SCH341 | Nova Scotia Corporate Tax Reduction for New Small Businesses | NS |  |  | 2025-12-04 |  |  |  |  |
-| T2SCH343 | Nova Scotia Tax on Large Corporations - Agreement Among Related Corpor | NS |  |  | 2008-03-01 |  |  |  |  |
-| T2SCH345 | Additional Certificate Numbers for the Nova Scotia Film Industry Tax C | NS |  |  | 2000-02-07 |  |  |  |  |
-| T2SCH346 | Nova Scotia Corporation Tax Calculation | NS |  |  | 2025-12-30 |  |  |  |  |
-| T2SCH347 | Additional Certificate Numbers for the Nova Scotia Digital Media Tax C | NS |  |  | 2021-01-19 |  |  |  |  |
-| T2SCH348 | Additional Certificate Numbers for the Nova Scotia Digital Animation T | NS |  |  | 2021-01-27 |  |  |  |  |
-| T2SCH349 | Nova Scotia Innovation Equity Tax Credit (2024 and later tax years) | NS |  |  | 2025-02-25 |  |  |  |  |
-| T2SCH350 | Nova Scotia Venture Capital Tax Credit (2024 and later tax years) | NS |  |  | 2025-02-12 |  |  |  |  |
-| T2SCH351 | Additional Certificate Numbers for the Nova Scotia Capital Investment  | NS |  |  | 2022-02-17 |  |  |  |  |
-| T2SCH352 | Nova Scotia Financial Institutions Capital Tax | NS |  |  | 2022-08-10 |  |  |  |  |
-| T2SCH353 | Nova Scotia Financial Institutions Capital Tax - Agreement Among Relat | NS |  |  | 2024-12-10 |  |  |  |  |
-| T2SCH461 | Northwest Territories Corporation Tax Calculation | NT |  |  | 2024-01-08 |  |  |  |  |
-| T2SCH481 | Nunavut Corporation Tax Calculation | NU |  |  | 2021-12-13 |  |  |  |  |
-| T2SCH500 | Ontario Corporation Tax Calculation | ON |  |  | 2026-10-29 |  |  |  |  |
-| T2SCH502 | Ontario Tax Credit for Manufacturing and Processing | ON |  |  | 2022-04-19 |  |  |  |  |
-| T2SCH504 | Ontario Resource Tax Credit | ON |  |  | 2020-05-08 |  |  |  |  |
-| T2SCH506 | Ontario Transitional Tax Debits and Credits | ON |  |  | 2014-12-18 |  |  |  |  |
-| T2SCH507 | Ontario Transitional Tax Debits and Credits Calculation | ON |  |  | 2008-12-06 |  |  |  |  |
-| T2SCH508 | Ontario Research and Development Tax Credit | ON |  |  | 2017-06-02 |  |  |  |  |
-| T2SCH510 | Ontario Corporate Minimum Tax | ON |  |  | 2014-04-15 |  |  |  |  |
-| T2SCH511 | Ontario Corporate Minimum Tax - Total Assets and Revenue for Associate | ON |  |  | 2008-12-10 |  |  |  |  |
-| T2SCH512 | Ontario Special Additional Tax on Life Insurance Corporations (SAT) | ON |  |  | 2008-12-10 |  |  |  |  |
-| T2SCH513 | Agreement Among Related Life Insurance Corporations (Ontario) | ON |  |  | 2008-12-10 |  |  |  |  |
-| T2SCH517 | Calculation of Ontario Capital Tax Investment Allowance for Financial  | ON |  |  | 2008-12-16 |  |  |  |  |
-| T2SCH524 | Ontario Specialty Types | ON |  |  | 2008-12-16 |  |  |  |  |
-| T2SCH525 | Ontario Political Contributions Tax Credit | ON |  |  | 2017-06-02 |  |  |  |  |
-| T2SCH550 | Ontario Co-operative Education Tax Credit | ON |  |  | 2009-11-20 |  |  |  |  |
-| T2SCH552 | Ontario Apprenticeship Training Tax Credit | ON |  |  | 2015-12-04 |  |  |  |  |
-| T2SCH554 | Ontario Computer Animation and Special Effects Tax Credit | ON |  |  | 2026-11-09 |  |  |  |  |
-| T2SCH556 | Ontario Film and Television Tax Credit | ON |  |  | 2024-02-13 |  |  |  |  |
-| T2SCH558 | Ontario Production Services Tax Credit | ON |  |  | 2021-01-19 |  |  |  |  |
-| T2SCH560 | Ontario Interactive Digital Media Tax Credit | ON |  |  | 2020-02-27 |  |  |  |  |
-| T2SCH564 | Ontario Book Publishing Tax Credit | ON |  |  | 2022-01-10 |  |  |  |  |
-| T2SCH566 | Ontario Innovation Tax Credit | ON |  |  | 2017-06-02 |  |  |  |  |
-| T2SCH568 | Ontario Business-Research Institute Tax Credit | ON |  |  | 2022-02-18 |  |  |  |  |
-| T2SCH569 | Ontario Business-Research Institute Tax Credit Contract Information | ON |  |  | 2010-07-20 |  |  |  |  |
-| T2SCH570 | Ontario Regional Opportunities Investment Tax Credit (2025 and later t | ON |  |  | 2025-09-16 |  |  |  |  |
-| T2SCH572 | Ontario Made Manufacturing Investment Tax Credit | ON |  |  | 2026-05-22 |  |  |  |  |
-| T2SCH320 | Prince Edward Island Manufacturing and Processing Profits Tax Credit | PE |  |  | 2005-11-04 |  |  |  |  |
-| T2SCH321 | Prince Edward Island Corporate Investment Tax Credit | PE |  |  | 2022-02-07 |  |  |  |  |
-| T2SCH322 | Prince Edward Island Corporation Tax Calculation | PE |  |  | 2025-12-04 |  |  |  |  |
-| T2SCH402 | Saskatchewan Manufacturing and Processing Investment Tax Credit | SK |  |  | 2021-01-11 |  |  |  |  |
-| T2SCH403 | Saskatchewan Research and Development Tax Credit | SK |  |  | 2018-05-24 |  |  |  |  |
-| T2SCH404 | Saskatchewan Manufacturing and Processing Profits Tax Reduction | SK |  |  | 2021-06-28 |  |  |  |  |
-| T2SCH411 | Saskatchewan Corporation Tax Calculation | SK |  |  | 2025-03-04 |  |  |  |  |
-| T2SCH440 | Yukon Manufacturing and Processing Profits Tax Credit | YT |  |  | 2021-01-25 |  |  |  |  |
-| T2SCH442 | Yukon Research and Development Tax Credit | YT |  |  | 2021-01-11 |  |  |  |  |
-| T2SCH443 | Yukon Corporation Tax Calculation | YT |  |  | 2022-11-30 |  |  |  |  |
-| T2SCH444 | Yukon Business Carbon Price Rebate (2024 and later tax years) | YT |  |  | 2025-10-07 |  |  |  |  |
+| T2SCH421 | British Columbia Mining Exploration Tax Credit | BC | yes | T2 SCH 421 E (24) | 2025-01-23 | 11 / 15 / 11 |  |  |  |
+| T2SCH426 | British Columbia Manufacturing and Processing Tax Credit | BC | yes | T2 SCH 426 E (02) | 2002-03-22 | 7 / 12 / 7 |  |  |  |
+| T2SCH427 | British Columbia Corporation Tax Calculation | BC | yes | T2 SCH 427 E (22) | 2022-11-30 |  |  |  |  |
+| T2SCH428 | British Columbia Training Tax Credit | BC | yes | T2 SCH 428 E (24) | 2025-03-04 | 4 / 4 / 4 |  |  |  |
+| T2SCH429 | British Columbia Interactive Digital Media Tax Credit | BC | yes | T2 SCH 429 E (25) | 2025-12-12 | 17 / 19 / 17 |  |  |  |
+| T2SCH430 | British Columbia Shipbuilding and Ship Repair Industry Tax Credit (201 | BC | yes | T2 SCH 430 E (24) | 2025-02-27 | 4 / 4 / 4 |  |  |  |
+| T2SCH432 | Additional Certificate Numbers for the British Columbia Clean Building | BC | yes |  | 2023-02-10 | 1 / 3 / 1 |  |  |  |
+| T2SCH380 | Manitoba Research and Development Tax Credit | MB | yes | T2 SCH 380 E (20) | 2020-12-24 | 19 / 22 / 19 |  |  |  |
+| T2SCH381 | Manitoba Manufacturing Investment Tax Credit | MB | yes | T2 SCH 381 E (26) | 2026-10-14 | 16 / 24 / 16 |  |  |  |
+| T2SCH383 | Manitoba Corporation Tax Calculation | MB | yes | T2 SCH 383 E (20) | 2021-01-13 |  |  |  |  |
+| T2SCH384 | Manitoba Paid Work Experience Tax Credit | MB | yes | T2 SCH 384 E (21) | 2021-11-25 | 16 / 17 / 16 |  |  |  |
+| T2SCH385 | Manitoba Odour-Control Tax Credit | MB | yes | T2 SCH 385 E (23) | 2024-03-19 | 4 / 5 / 4 |  |  |  |
+| T2SCH387 | Manitoba Small Business Venture Capital Tax Credit | MB | yes | T2 SCH 387 E (26) | 2026-11-05 | 5 / 9 / 5 |  |  |  |
+| T2SCH388 | Manitoba Film and Video Production Tax Credit | MB | yes | T2 SCH 388 E (22) | 2022-09-20 | 41 / 56 / 41 |  |  |  |
+| T2SCH389 | Manitoba Book Publishing Tax Credit | MB | yes | T2 SCH 389 E (21) | 2022-01-06 | 12 / 22 / 12 |  |  |  |
+| T2SCH392 | Manitoba Data Processing Investment Tax Credits | MB | yes | T2 SCH 392 E (22) | 2023-01-11 | 15 / 16 / 11 |  |  |  |
+| T2SCH394 | Manitoba Rental Housing Construction Tax Credit | MB | yes | T2 SCH 394 E (23) | 2024-04-03 | 6 / 12 / 6 |  |  |  |
+| T2SCH360 | New Brunswick Research and Development Tax Credit | NB | yes | T2 SCH 360 E (11) | 2012-02-27 | 6 / 8 / 6 |  |  |  |
+| T2SCH366 | New Brunswick Corporation Tax Calculation | NB | yes | T2 SCH 366 E (22) | 2023-04-03 |  |  |  |  |
+| T2SCH367 | New Brunswick Small Business Investor Tax Credit | NB | yes |  | 2014-12-11 | 8 / 8 / 8 |  |  |  |
+| T2SCH301 | Newfoundland and Labrador Research and Development Tax Credit | NL | yes | T2 SCH 301 E (10) | 2010-12-09 | 5 / 5 / 5 |  |  |  |
+| T2SCH302 | Additional Certificate Numbers for the Newfoundland and Labrador Film  | NL | yes | T2 SCH 302 E (03) | 2003-02-25 | 1 / 1 / 1 |  |  |  |
+| T2SCH303 | Newfoundland and Labrador Direct Equity Tax Credit | NL | yes | T2 SCH 303 E (17) | 2017-11-21 | 5 / 9 / 4 |  |  |  |
+| T2SCH304 | Newfoundland and Labrador Resort Property Investment Tax Credit | NL | yes | T2 SCH 304 E (19) | 2020-02-06 | 5 / 7 / 4 |  |  |  |
+| T2SCH305 | Newfoundland and Labrador Capital Tax on Financial Institutions | NL | yes | T2 SCH 305 E (21) | 2021-12-07 | 5 / 9 / 5 |  |  |  |
+| T2SCH306 | Newfoundland and Labrador Capital Tax on Financial Institutions - Agre | NL | yes |  | 2010-01-04 | 0 / 1 / 0 |  |  |  |
+| T2SCH307 | Newfoundland and Labrador Corporation Tax Calculation | NL | yes | T2 SCH 307 E (26) | 2026-10-29 |  |  |  |  |
+| T2SCH308 | Newfoundland and Labrador Venture Capital Tax Credit | NL | yes | T2 SCH 308 E (17) | 2017-10-12 | 5 / 8 / 5 |  |  |  |
+| T2SCH309 | Additional Certificate Numbers for the Newfoundland and Labrador Inter | NL | yes | T2 SCH 309 E (17) | 2017-10-18 | 2 / 1 / 1 |  |  |  |
+| T2SCH310 | Newfoundland and Labrador Manufacturing and Processing Investment Tax  | NL | yes |  | 2023-06-07 | 12 / 14 / 12 |  |  |  |
+| T2SCH311 | Newfoundland and Labrador Green Technology Tax Credit | NL | yes |  | 2023-05-12 | 13 / 13 / 12 |  |  |  |
+| T2SCH340 | Nova Scotia Research and Development Tax Credit | NS | yes | T2 SCH 340 E (04) | 2004-12-21 | 8 / 7 / 7 |  |  |  |
+| T2SCH341 | Nova Scotia Corporate Tax Reduction for New Small Businesses | NS | yes | T2 SCH 341 E (25) | 2025-12-04 |  |  |  |  |
+| T2SCH343 | Nova Scotia Tax on Large Corporations - Agreement Among Related Corpor | NS | yes | T2 SCH 343 E (08) | 2008-03-01 | 3 / 2 / 2 |  |  |  |
+| T2SCH345 | Additional Certificate Numbers for the Nova Scotia Film Industry Tax C | NS | yes | T2 SCH 345 E (99) | 2000-02-07 | 1 / 1 / 1 |  |  |  |
+| T2SCH346 | Nova Scotia Corporation Tax Calculation | NS | yes | T2 SCH 346 E (25) | 2025-12-30 | 0 / 1 / 0 |  |  |  |
+| T2SCH347 | Additional Certificate Numbers for the Nova Scotia Digital Media Tax C | NS | yes | T2 SCH 347 E (20) | 2021-01-19 | 1 / 1 / 1 |  |  |  |
+| T2SCH348 | Additional Certificate Numbers for the Nova Scotia Digital Animation T | NS | yes | T2 SCH 348 E (20) | 2021-01-27 | 1 / 3 / 1 |  |  |  |
+| T2SCH349 | Nova Scotia Innovation Equity Tax Credit (2024 and later tax years) | NS | yes | T2 SCH 349 E (24) | 2025-02-25 | 5 / 8 / 5 |  |  |  |
+| T2SCH350 | Nova Scotia Venture Capital Tax Credit (2024 and later tax years) | NS | yes | T2 SCH 350 E (24) | 2025-02-12 | 5 / 8 / 5 |  |  |  |
+| T2SCH351 | Additional Certificate Numbers for the Nova Scotia Capital Investment  | NS | yes |  | 2022-02-17 | 1 / 3 / 1 |  |  |  |
+| T2SCH352 | Nova Scotia Financial Institutions Capital Tax | NS | yes |  | 2022-08-10 | 4 / 8 / 4 |  |  |  |
+| T2SCH353 | Nova Scotia Financial Institutions Capital Tax - Agreement Among Relat | NS | yes | T2 SCH 353 E (24) | 2024-12-10 | 1 / 4 / 1 |  |  |  |
+| T2SCH461 | Northwest Territories Corporation Tax Calculation | NT | yes | T2 SCH 461 E (23) | 2024-01-08 |  |  |  |  |
+| T2SCH481 | Nunavut Corporation Tax Calculation | NU | yes | T2 SCH 481 E (21) | 2021-12-13 |  |  |  |  |
+| T2SCH500 | Ontario Corporation Tax Calculation | ON | yes | T2 SCH 500 E (26) | 2026-10-29 |  |  |  |  |
+| T2SCH502 | Ontario Tax Credit for Manufacturing and Processing | ON | yes | T2 SCH 502 E (22) | 2022-04-19 | 6 / 18 / 6 |  |  |  |
+| T2SCH504 | Ontario Resource Tax Credit | ON | yes | T2 SCH 504 E (19) | 2020-05-08 | 3 / 3 / 3 |  |  |  |
+| T2SCH506 | Ontario Transitional Tax Debits and Credits | ON | yes | T2 SCH 506 E (14) | 2014-12-18 | 81 / 86 / 81 |  |  |  |
+| T2SCH507 | Ontario Transitional Tax Debits and Credits Calculation | ON | yes |  | 2008-12-06 |  |  |  |  |
+| T2SCH508 | Ontario Research and Development Tax Credit | ON | yes | T2 SCH 508 E (17) | 2017-06-02 | 17 / 37 / 17 |  |  |  |
+| T2SCH510 | Ontario Corporate Minimum Tax | ON | yes | T2 SCH 510 E (14) | 2014-04-15 | 43 / 88 / 43 |  |  |  |
+| T2SCH511 | Ontario Corporate Minimum Tax - Total Assets and Revenue for Associate | ON | yes |  | 2008-12-10 | 0 / 2 / 0 |  |  |  |
+| T2SCH512 | Ontario Special Additional Tax on Life Insurance Corporations (SAT) | ON | yes |  | 2008-12-10 | 23 / 28 / 23 |  |  |  |
+| T2SCH513 | Agreement Among Related Life Insurance Corporations (Ontario) | ON | yes | T2 SCH 513 E (08) | 2008-12-10 | 0 / 1 / 0 |  |  |  |
+| T2SCH517 | Calculation of Ontario Capital Tax Investment Allowance for Financial  | ON | yes |  | 2008-12-16 |  |  |  |  |
+| T2SCH524 | Ontario Specialty Types | ON | yes |  | 2008-12-16 | 1 / 0 / 0 |  |  |  |
+| T2SCH525 | Ontario Political Contributions Tax Credit | ON | yes | T2 SCH 525 E (17) | 2017-06-02 | 4 / 4 / 4 |  |  |  |
+| T2SCH550 | Ontario Co-operative Education Tax Credit | ON | yes | T2 SCH 550 E (09) | 2009-11-20 | 9 / 11 / 9 |  |  |  |
+| T2SCH552 | Ontario Apprenticeship Training Tax Credit | ON | yes | T2 SCH 552 E (15) | 2015-12-04 | 11 / 11 / 10 |  |  |  |
+| T2SCH554 | Ontario Computer Animation and Special Effects Tax Credit | ON | yes | T2 SCH 554 E (26) | 2026-11-09 | 30 / 44 / 30 |  |  |  |
+| T2SCH556 | Ontario Film and Television Tax Credit | ON | yes | T2 SCH 556 E (23) | 2024-02-13 | 44 / 60 / 44 |  |  |  |
+| T2SCH558 | Ontario Production Services Tax Credit | ON | yes | T2 SCH 558 E (20) | 2021-01-19 | 35 / 40 / 35 |  |  |  |
+| T2SCH560 | Ontario Interactive Digital Media Tax Credit | ON | yes | T2 SCH 560 E (19) | 2020-02-27 | 59 / 64 / 59 |  |  |  |
+| T2SCH564 | Ontario Book Publishing Tax Credit | ON | yes | T2 SCH 564 E (21) | 2022-01-10 | 30 / 34 / 30 |  |  |  |
+| T2SCH566 | Ontario Innovation Tax Credit | ON | yes | T2 SCH 566 E (17) | 2017-06-02 | 32 / 42 / 32 |  |  |  |
+| T2SCH568 | Ontario Business-Research Institute Tax Credit | ON | yes | T2 SCH 568 E (21) | 2022-02-18 | 10 / 12 / 10 |  |  |  |
+| T2SCH569 | Ontario Business-Research Institute Tax Credit Contract Information | ON | yes | T2 SCH 569 E (10) | 2010-07-20 | 17 / 21 / 17 |  |  |  |
+| T2SCH570 | Ontario Regional Opportunities Investment Tax Credit (2025 and later t | ON | yes | T2 SCH 570 E (25) | 2025-09-16 | 6 / 17 / 5 |  |  |  |
+| T2SCH572 | Ontario Made Manufacturing Investment Tax Credit | ON | yes | T2 SCH 572 E (26) | 2026-05-22 | 16 / 29 / 16 |  |  |  |
+| T2SCH320 | Prince Edward Island Manufacturing and Processing Profits Tax Credit | PE | yes | T2 SCH 320 E (05) | 2005-11-04 |  |  |  |  |
+| T2SCH321 | Prince Edward Island Corporate Investment Tax Credit | PE | yes | T2 SCH 321 E (21) | 2022-02-07 | 9 / 15 / 9 |  |  |  |
+| T2SCH322 | Prince Edward Island Corporation Tax Calculation | PE | yes | T2 SCH 322 E (25) | 2025-12-04 | 0 / 1 / 0 |  |  |  |
+| T2SCH402 | Saskatchewan Manufacturing and Processing Investment Tax Credit | SK | yes | T2 SCH 402 E (20) | 2021-01-11 | 2 / 7 / 2 |  |  |  |
+| T2SCH403 | Saskatchewan Research and Development Tax Credit | SK | yes | T2 SCH 403 E (17) | 2018-05-24 | 19 / 30 / 19 |  |  |  |
+| T2SCH404 | Saskatchewan Manufacturing and Processing Profits Tax Reduction | SK | yes | T2 SCH 404 E (21) | 2021-06-28 |  |  |  |  |
+| T2SCH411 | Saskatchewan Corporation Tax Calculation | SK | yes | T2 SCH 411 E (24) | 2025-03-04 | 0 / 1 / 0 |  |  |  |
+| T2SCH440 | Yukon Manufacturing and Processing Profits Tax Credit | YT | yes | T2 SCH 440 E (20) | 2021-01-25 |  |  |  |  |
+| T2SCH442 | Yukon Research and Development Tax Credit | YT | yes | T2 SCH 442 E (20) | 2021-01-11 | 5 / 7 / 5 |  |  |  |
+| T2SCH443 | Yukon Corporation Tax Calculation | YT | yes | T2 SCH 443 E (22) | 2022-11-30 |  |  |  |  |
+| T2SCH444 | Yukon Business Carbon Price Rebate (2024 and later tax years) | YT | yes | T2 SCH 444 E (25) | 2025-10-07 | 4 / 6 / 3 |  |  |  |
 | CO-17 | separate return filed with Revenu Quebec | QC | yes |  |  |  |  | co17.ts | co17-tax.ts |
 | AT1 | separate return filed with TRA, not through the T2 | AB | yes |  |  |  |  | jacket.ts | alberta-return.ts |
 | AT1SCH1 | separate return filed with TRA, not through the T2 | AB | yes |  |  |  |  | schedule1.ts | schedule1-calculation.ts, schedule1-sbd.ts |

@@ -1,0 +1,38 @@
+page	part	field	line	kind	digits	speak
+1	Table1/Row1	Cell1		text		
+1	Table1/Row1	Cell2		text		
+1	Table1/Row1	Cell3		numeric	12	
+1	Table1/Row2	Cell1		text		
+1	Table1/Row2	Cell2		text		
+1	Table1/Row2	Cell3		numeric	12	
+1	Table1/Row3	Cell1		text		
+1	Table1/Row3	Cell2		text		
+1	Table1/Row3	Cell3		numeric	12	
+1	Table1/Row4	Cell1		text		
+1	Table1/Row4	Cell2		text		
+1	Table1/Row4	Cell3		numeric	12	
+1	Table1/Row5	Cell1		text		
+1	Table1/Row5	Cell2		text		
+1	Table1/Row5	Cell3		numeric	12	
+1	Table1/Row6	Cell1		text		
+1	Table1/Row6	Cell2		text		
+1	Table1/Row6	Cell3		numeric	12	
+1	Table1/Row7	Cell1		text		
+1	Table1/Row7	Cell2		text		
+1	Table1/Row7	Cell3		numeric	12	
+1	Table1/Row8	Cell1		text		
+1	Table1/Row8	Cell2		text		
+1	Table1/Row8	Cell3		numeric	12	
+1	Table1/Row9	Cell1		text		
+1	Table1/Row9	Cell2		text		
+1	Table1/Row9	Cell3		numeric	12	
+1	Table1/Row10	Cell1		text		
+1	Table1/Row10	Cell2		text		
+1	Table1/Row10	Cell3		numeric	12	
+1	Table1/Row11	Cell1		text		
+1	Table1/Row11	Cell2		text		
+1	Table1/Row11	Cell3		numeric	12	
+1	Table1/Row12	Cell1		text		
+1	Table1/Row12	Cell2		text		
+1	Table1/Row12	Cell3		numeric	12	
+1		Line410_Number	410	numeric	12	Line 410. Total (not to exceed $5,000,000)

@@ -1,0 +1,54 @@
+page	part	field	line	kind	digits	speak
+1	Ident	sc_rsn		text		Corporation's name
+1	Ident	BusinessNumber		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident	DateYYYYMMDD_Comb		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_Eligibility_Sub/Table/Row2	Cell1		text		
+1	Part1_Eligibility_Sub/Table/Row2	Cell2		numeric	12	
+1	Part1_Eligibility_Sub/Table/Row3	Cell1		text		
+1	Part1_Eligibility_Sub/Table/Row3	Cell2		numeric	12	
+1	Part1_Eligibility_Sub/Table/Row4	Cell1		text		
+1	Part1_Eligibility_Sub/Table/Row4	Cell2		numeric	12	
+1	Part1_Eligibility_Sub/Table/Row5	Cell1		text		
+1	Part1_Eligibility_Sub/Table/Row5	Cell2		numeric	12	
+1	Part1_Eligibility_Sub/Table/Row6	Cell1		text		
+1	Part1_Eligibility_Sub/Table/Row6	Cell2		numeric	12	
+1	Part1_Eligibility_Sub	TotalA		numeric	12	Amount A. Total tax credit earned in the current tax year.
+1	Part2__Sub/ln_B	UnusedCredit_Amount		numeric	12	Amount B. Unused credit at the end of the previous tax year.
+1	Part2__Sub/ln_104	Line_104_Amount	104	numeric	12	Line 104. Credit expired after seven tax years.
+1	Part2__Sub/ln_105	Line_105_Amount	105	numeric	12	Line 105. Credit at the beginning of the tax year. Amount B minus line 104. Instance 1.
+1	Part2__Sub/ln_105	Line_105_Arrow_Amount	105	numeric	12	Line 105. Instance 2.
+1	Part2__Sub/ln_110	Line_110_Amount	110	numeric	12	Line 110. Credit transferred on an amalgamation or wind-up of a subsidiary.
+1	Part2__Sub/ln_120	Line_120_Amount	120	numeric	12	Line 120. Current-year credit earned. Amount A.
+1	Part2__Sub/ln_c	Subtotal_AmountC_1		numeric	12	Amount C. Subtotal. Line 110 plus line 120. Instance 1
+1	Part2__Sub/ln_c	Subtotal_AmountC_2		numeric	12	Amount C. Instance 2.
+1	Part2__Sub/ln_D	Subtotal_Arrow_Amount_D		numeric	12	Amount D. Total credit available. Line 105 plus amount C. Instance 1.
+1	Part2__Sub/ln_D	Subtotal_Arrow_AmountD		numeric	12	Amount D. Instance 2.
+1	Part2__Sub/ln_160	Line_160_Amount	160	numeric	12	Line 160. Credit claimed in the current year. Cannot exceed $50,000. Enter on line 505 of Schedule 5.
+1	Part2__Sub/ln_E	Credit_AmountE		numeric	12	Amount E. Credit carried back to previous tax years. Complete part 3.
+1	Part2__Sub/Ln_F	SubTotal_AmountF_1		numeric	12	Amount F. Subtotal. Line 160 plus amount E. Instance 1.
+1	Part2__Sub/Ln_F	Subtotal_Arrow_AmountF_2		numeric	12	Amount F. Instance 2
+1	Part2__Sub/Ln_200	Line_200_Amount	200	numeric	12	Line 200. Closing balance. Total credit available for carryforward. Amount D minus amount F
+2	Part3__Sub/Part3_Line_901/Part3_Line_901_date	Part3_Line_901_Date_Field	901	text		Line 901. First previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3__Sub/Part3_Line_901	Part3_Line_901_Field	901	numeric		Line 901. First previous tax year, credit to be applied.
+2	Part3__Sub/Part3_Line_902/Part3_Line_902_date	Part3_Line_902_Date_Field	902	text		Line 902. Second previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3__Sub/Part3_Line_902	Part3_Line_902_Field	902	numeric		Line 902. Second previous tax year, credit to be applied.
+2	Part3__Sub/Part3_Line_903/Part3_Line_903_date	Part3_Line_903_Date_Field	903	text		Line 903. Third previous tax year. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part3__Sub/Part3_Line_903	Part3_Line_903_Field	903	numeric		Line 903. Third previous tax year, credit to be applied.
+2	Part3__Sub/ln_G	Part3_G_Field		numeric		Amount G. Total credit to be applied. Enter at amount E.
+2	Part4__Sub/seventh/Part4_Date1	Part4_Date_Field1		text		Year of origin. 7th previous tax year ending on. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4__Sub/seventh	Part4_Credit1		numeric		Credit available for carryforward. Seventh previous tax year.
+2	Part4__Sub/sixth/Part4_Date2	Part4_Date_Field2		text		Year of origin. 6th previous tax year ending on. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4__Sub/sixth	Part4_Credit2		numeric		Credit available for carryforward. Sixth previous tax year.
+2	Part4__Sub/fifth/Part4_Date5	Part4_Date_Field3		text		Year of origin. 5th previous tax year ending on. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4__Sub/fifth	Part4_Credit5		numeric		Credit available for carryforward. Fifth previous tax year.
+2	Part4__Sub/fourth/Part4_Date4	Part4_Date_Field4		text		Year of origin. 4th previous tax year ending on. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4__Sub/fourth	Part4_Credit4		numeric		Credit available for carryforward. Fourth previous tax year.
+2	Part4__Sub/Third/Part4_Date3	Part4_Date_Field5		text		Year of origin. 3rd previous tax year ending on. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4__Sub/Third	Part4_Credit3		numeric		Credit available for carryforward. Third previous tax year.
+2	Part4__Sub/second/Part4_Date2	Part4_Date_Field2		text		Year of origin. 2nd previous tax year ending on. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4__Sub/second	Part4_Credit2		numeric		Credit available for carryforward. Second previous tax year.
+2	Part4__Sub/first/Part4_Date1	Part4_Date_Field7		text		Year of origin. 1st previous tax year ending on. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4__Sub/first	Part4_Credit1		numeric		Credit available for carryforward. First previous tax year.
+2	Part4__Sub/current/Part4_Date_current	Part4_Date_Field7		text		Year of origin. Current tax year ending on. Year 4 digits, Month 2 digits, Day 2 digits.
+2	Part4__Sub/current	Part4_Credit7_current		numeric		Credit available for carryforward. Current tax year.
+2	Part4__Sub/ln_200	Line_200_Amount		numeric	12	Amount H. Total credit available for carryforward. Equals line 200.

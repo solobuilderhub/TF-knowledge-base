@@ -1,0 +1,50 @@
+page	part	field	line	kind	digits	speak
+1	Corp_info	P1_Nm_Inpt		text		Corporation's name.
+1	Corp_info	P1_Bn_Inpt		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Corp_info/P1_TaxYear	TaxYear		text		Tax year-end date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_Table_sf/P1_Table/Row1	Cell1		text		
+1	P1_sf/P1_Table_sf/P1_Table/Row1	Cell2		numeric	12	
+1	P1_sf/P1_Table_sf/P1_Table/Row2	Cell1		text		
+1	P1_sf/P1_Table_sf/P1_Table/Row2	Cell2		numeric	12	
+1	P1_sf/P1_Table_sf/P1_Table/Row3	Cell1		text		
+1	P1_sf/P1_Table_sf/P1_Table/Row3	Cell2		numeric	12	
+1	P1_sf/P1_Table_sf/P1_Table/Row4	Cell1		text		
+1	P1_sf/P1_Table_sf/P1_Table/Row4	Cell2		numeric	12	
+1	P1_sf/P1_Table_sf/P1_Table/Row5	Cell1		text		
+1	P1_sf/P1_Table_sf/P1_Table/Row5	Cell2		numeric	12	
+1	P1_sf/P1_AmntA_sf	P1_AmntA_inpt		numeric	12	Amount A. Current-year credit earned. Total of column 102.
+1	P2_sf/P2_Ln100_sf	P2_Ln100_inpt	100	numeric	12	Line 100. Current-year credit earned. Amount A from Part 1.
+1	P2_sf/P2_AmntB_sf	P2_AmntB_inpt		numeric	12	Amount B. Unused credit at the end of the previous tax year.
+1	P2_sf/P2_Ln104_sf	P2_Ln104_inpt	104	numeric	12	Line 104. Credit expired after seven tax years.
+1	P2_sf/P2_Ln105_sf	P2_Ln105_inpt1	105	numeric	12	Line 105. Unused credit at the beginning of this tax year. Amount B minus line 104. Instance 1.
+1	P2_sf/P2_Ln105_sf	P2_Ln105_inpt2	105	numeric	12	Line 105. Instance 2.
+1	P2_sf/P2_AmntC_sf	P2_AmntC_inpt		numeric	12	Amount C. Total credit available for the current tax year. Line 100 plus line 105.
+1	P2_sf/P2_Ln160_sf	P2_Ln160_inpt	160	numeric	12	Line 160. Credit claimed in the current year. Enter on line 563 of Schedule 5, Tax Calculation Supplementary – Corporations.
+1	P2_sf/P2_AmntD_sf	P2_AmntD_inpt		numeric	12	Amount D. Credit carried back to previous tax year. Amount F from Part 3.
+1	P2_sf/P2_AmntE_sf	P2_AmntE_inpt1		numeric	12	Amount E. Subtotal. Line 160 plus amount D. Instance 1.
+1	P2_sf/P2_AmntE_sf	P2_AmntE_inpt2		numeric	12	Amount E. Instance 2.
+1	P2_sf/P2_Ln200_sf	P2_Ln200_inpt	200	numeric	12	Line 200. Closing balance – Credit available for carryforward. Amount C minus amount E.
+2	P3_sf/P3_Ln901_sf/P3_Ln901_date	P4_Date10_Comb		text		Tax year in which to apply the credit. First previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	P3_sf/P3_Ln901_sf	P3_Ln901_inpt	901	numeric	12	Line 901. Credit to be applied. First previous tax year.
+2	P3_sf/P3_Ln902_sf/P3_Ln902_date	P4_Date9_Comb		text		Tax year in which to apply the credit. Second previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	P3_sf/P3_Ln902_sf	P3_Ln902_inpt	902	numeric	12	Line 902. Credit to be applied. Second previous tax year.
+2	P3_sf/P3_Ln903_sf/P3_Ln903_date	P4_Date8_Comb		text		Tax year in which to apply the credit. Third previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	P3_sf/P3_Ln903_sf	P3_Ln903_inpt	903	numeric	12	Line 903. Credit to be applied. Third previous tax year.
+2	P3_sf/P3_Ttl_sf	P3_Ttl_inpt		numeric	12	Amount F. Total. Add lines 901, 902, and 903. Enter the result at amount D in Part 2.
+2	P4_sf/P4_Years_sf/P4_Year7_sf/P4_Year7_date	P4_Date10_Comb		text		Year of origin. Seventh previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	P4_sf/P4_Years_sf/P4_Year7_sf	P4_Year7_inpt		numeric	12	Credit available for carryforward for the seventh previous tax year.
+2	P4_sf/P4_Years_sf/P4_Year6_sf/P4_Year6_date	P4_Date9_Comb		text		Year of origin. Sixth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	P4_sf/P4_Years_sf/P4_Year6_sf	P4_Year6_inpt		numeric	12	Credit available for carryforward for the sixth previous tax year.
+2	P4_sf/P4_Years_sf/P4_Year5_sf/P4_Year5_date	P4_Date8_Comb		text		Year of origin. Fifth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	P4_sf/P4_Years_sf/P4_Year5_sf	P4_Year5_inpt		numeric	12	Credit available for carryforward for the fifth previous tax year.
+2	P4_sf/P4_Years_sf/P4_Year4_sf/P4_Year4_date	P4_Date7_Comb		text		Year of origin. Fourth previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	P4_sf/P4_Years_sf/P4_Year4_sf	P4_Year4_inpt		numeric	12	Credit available for carryforward for the fourth previous tax year.
+2	P4_sf/P4_Years_sf/P4_Year3_sf/P4_Year3_date	P4_Date6_Comb		text		Year of origin. Third previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	P4_sf/P4_Years_sf/P4_Year3_sf	P4_Year3_inpt		numeric	12	Credit available for carryforward for the third previous tax year.
+2	P4_sf/P4_Years_sf/P4_Year2_sf/P4_Year2_date	P4_Date5_Comb		text		Year of origin. Second previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	P4_sf/P4_Years_sf/P4_Year2_sf	P4_Year2_inpt		numeric	12	Credit available for carryforward for the second previous tax year.
+2	P4_sf/P4_Years_sf/P4_Year1_sf/P4_Year1_date	P4_Date4_Comb		text		Year of origin. First previous tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	P4_sf/P4_Years_sf/P4_Year1_sf	P4_Year1_inpt		numeric	12	Credit available for carryforward for the first previous tax year.
+2	P4_sf/P4_Years_sf/P4_Year0_sf/P4_Year0_date	P4_Date4_Comb		text		Year of origin. Current tax year ending on. Year 4 digits. Month 2 digits. Day 2 digits.
+2	P4_sf/P4_Years_sf/P4_Year0_sf	P4_Year0_inpt		numeric	12	Credit available for carryforward for the current tax year.
+2	P4_sf/P4_Years_sf/P4_ttl_sf	P4_ttl_inpt		numeric	12	Amount G. Total. Equals line 200 in Part 2.

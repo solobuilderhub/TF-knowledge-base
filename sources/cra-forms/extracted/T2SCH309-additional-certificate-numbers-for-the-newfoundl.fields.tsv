@@ -1,0 +1,45 @@
+page	part	field	line	kind	digits	speak
+1	Info_sf	Info_inpt1		text		Corporation's name
+1	Info_sf	Info_inpt2		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Info_sf/Info_grp	Info_grp_inpt3		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row1	cell1		text		
+1	P1_sf/P1_table/P1_table_row1	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row2	cell1		text		
+1	P1_sf/P1_table/P1_table_row2	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row3	cell1		text		
+1	P1_sf/P1_table/P1_table_row3	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row4	cell1		text		
+1	P1_sf/P1_table/P1_table_row4	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row5	cell1		text		
+1	P1_sf/P1_table/P1_table_row5	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row6	cell1		text		
+1	P1_sf/P1_table/P1_table_row6	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row7	cell1		text		
+1	P1_sf/P1_table/P1_table_row7	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row8	cell1		text		
+1	P1_sf/P1_table/P1_table_row8	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row9	cell1		text		
+1	P1_sf/P1_table/P1_table_row9	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row10	cell1		text		
+1	P1_sf/P1_table/P1_table_row10	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row11	cell1		text		
+1	P1_sf/P1_table/P1_table_row11	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row12	cell1		text		
+1	P1_sf/P1_table/P1_table_row12	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row13	cell1		text		
+1	P1_sf/P1_table/P1_table_row13	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row14	cell1		text		
+1	P1_sf/P1_table/P1_table_row14	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row15	cell1		text		
+1	P1_sf/P1_table/P1_table_row15	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row16	cell1		text		
+1	P1_sf/P1_table/P1_table_row16	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row17	cell1		text		
+1	P1_sf/P1_table/P1_table_row17	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row18	cell1		text		
+1	P1_sf/P1_table/P1_table_row18	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row19	cell1		text		
+1	P1_sf/P1_table/P1_table_row19	cell2		numeric	12	
+1	P1_sf/P1_table/P1_table_row20	cell1		text		
+1	P1_sf/P1_table/P1_table_row20	cell2		numeric	12	
+1	P1_sf/P1_Ln300_sf	P1_Ln300_inpt	300	numeric	12	Line 300. Total amount of the Newfoundland and Labrador interactive digital media tax credit. Enter this amount on line 522 in Part 2 of Schedule 5, Tax Calculation Supplementary, Corporations.

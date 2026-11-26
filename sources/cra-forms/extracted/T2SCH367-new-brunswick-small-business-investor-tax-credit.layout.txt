@@ -1,0 +1,101 @@
+                                 New Brunswick Small Business Investor Tax Credit                                                                                                            Schedule 367
+                                                       (2014 and later tax years)
+                                                                                                                                                                                                      Code 1401
+
+                                                                                                                                                                                                 Protected B
+                                                                                                                                                                                               when completed
+
+Corporation's name                                                                       Business number                                                                                     Tax year-end
+
+                                                                                                                                            Year                                             Month Day
+
+· Use this schedule to claim a New Brunswick Small Business Investor Tax Credit (NBSBITC) under section 61.1 of the New Brunswick Income Tax Act.
+
+· The NBSBITC is a non-refundable credit for eligible investors equal to 15% of all amounts not exceeding $500,000 paid during the tax year to a corporation
+  registered under the New Brunswick Small Business Investor Tax Credit Act for eligible shares issued by the corporation as part of a specified issue.
+
+· You are an eligible investor if you are a corporation that maintained a permanent establishment in New Brunswick at any time during the tax year, and you
+  received a New Brunswick Small Business Investor Tax Credit Certificate for the tax year.
+
+· File a completed copy of this schedule and a copy of the relevant NB-SBITC-1 certificates with your T2 Corporation Income Tax Return.
+
+Part 1 ­ Credit available for the year and credit available for carryforward
+
+Total credit earned in the current tax year (total of all credit amounts from NB-SBITC-1 certificates received for the tax year)
+(cannot exceed $75,000) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+                                                                                                                                                                                                           A
+
+Add:
+
+Unused credit at the end of the previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  a
+
+Deduct: Credit expired after 7 tax years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130   b
+
+Unused credit at the beginning of this tax year (amount a minus amount b) . . . . . . . . . . . . . . . . . 135                                                                                            B
+                                                                                                                                          
+Total credit available for the current tax year (amount A plus amount B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                 C
+
+Deduct:
+
+Credit claimed in the current tax year (the least of amount C, $75,000 and
+New Brunswick income tax otherwise payable) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150            c
+
+Enter amount c on line 578 of Schedule 5, Tax Calculation Supplementary ­ Corporations.
+
+Credit carried back to the previous tax years (complete Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          d
+
+                                                             Subtotal (amount c plus amount d)                                                                                                             D
+
+Closing balance ­ credit available for carryforward (amount C minus amount D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 190                                                      E
+
+     Part 2 ­ Request for carryback of credit
+
+Complete this part to request a carryback of a current-year credit earned to a tax year that ends after December 31, 2013. The credit that can be carried
+back to the three previous tax years is the current year credit earned less the amount by which the current year tax otherwise payable exceeds any unused
+credits applied in the tax year.
+
+The maximum amount of credit that can be applied to a prior tax year is the lesser of:
+ · the income tax payable in the prior tax year; and
+ · $75,000 less the amount of any credit previously deducted in that prior tax year.
+
+                                 Tax year in which to apply
+                                            the credit
+
+                                 Year  Month Day                                                                                                    Amount to be applied
+
+1st previous tax year ending on                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 901
+2nd previous tax year ending on                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 902
+3rd previous tax year ending on                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 903
+
+                                                                          Total amount to be applied (enter on line d in Part 1)
+
+T2 SCH 367 E        (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca/formulaires ou en composant le 1-800-959-7775.) Page 1 of 2
+                                                                          Protected B when completed
+
+Part 3 ­ Analysis of credit available for carryforward by year of origin
+
+If you are an eligible investor that is a corporation, you can complete this part to show all the credits from previous tax years available for carryforward,
+by year of origin. This will help you determine the amount of credit that could expire in future years.
+
+                                 Year of origin                                                                    Credit available for
+                                                                                                                       carryforward
+                                 Year  Month Day
+
+7th previous tax year ending on                   ...................................................
+6th previous tax year ending on                   ...................................................
+5th previous tax year ending on                   ...................................................
+4th previous tax year ending on                   ...................................................
+3rd previous tax year ending on                   ...................................................
+2nd previous tax year ending on                   ...................................................
+1st previous tax year ending on                   ...................................................
+Current tax year ending on                        ...................................................
+
+                                                                          Total credit available for carryforward
+
+The amount available from the 7th previous year will expire after this tax year. When you file your return for the next year, you will enter the expired amount
+on line 130 of Schedule 367 for that year.
+
+                                                                                                                                                                Privacy Act, personal information bank number CRA PPU 047
+
+                                                                                                                                                               Page 2
+

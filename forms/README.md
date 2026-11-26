@@ -126,25 +126,77 @@ not built).
 
 ## Is a definition complete? `form-coverage`
 
-In ca-tax: `npx tsx scripts/form-coverage.mts`. For every T2 form definition it
-lists the lines the definition carries that neither reading of the PDF found,
-and the lines the document has that the definition does not.
+In ca-tax: `npx tsx scripts/form-coverage.mts`, and the same comparison runs as
+`tests/t2-form-coverage.test.ts` on every `npm test`. For every T2 form
+definition:
 
-On 2026-11-26, 12 of 21 definitions match their document exactly (Schedules 1,
-3, 4, 7, 24, 31, 33, 43, 50, 53, 55, 141). The rest:
+- a line the definition carries whose number is printed nowhere in the document
+  FAILS (a wrong number, with certainty);
+- a box the form's field list has that the definition does not carry FAILS,
+  unless excused with a reason in the test.
 
-| Form | Gap |
-|---|---|
-| T2 jacket | 115 document lines not in the definition (114 of 228 carried) |
-| Schedule 5 | built for one province's lines; 158 document lines not carried, and 49 definition lines the extractors do not find (Part 1 grid) |
-| Schedule 2 | 23 document lines not carried |
-| Schedule 21 | 12 document lines not carried |
-| Schedule 6 | 8 not carried; line 406 is in the definition and not in the document |
-| Schedules 8, 13, 23, 130 | grid forms: most definition lines cannot be found by either extractor and rest on a person having read the page |
+As of 2026-11-26 all 21 definitions pass. Getting there removed two wrong line
+numbers (jacket 425, Schedule 6 406), corrected three Schedule 3 captions that
+were one column out, and took the T2 jacket from 114 lines to all 223.
 
-"Definition only" on a grid form is not an error by itself, but it is exactly
-where a wrong number would hide: Schedule 3 had three captions one column out
-until its definition was compared with the field list.
+Grid forms (Schedules 8, 13, 23, 130) carry lines neither extractor pairs with
+a caption, because the numbers are column headings. The check confirms every
+one of those numbers is printed in the document; it cannot confirm the caption
+beside it. That part still rests on a person having read the page.
+
+A definition is completed with `completeFromFieldList` (ca-tax,
+`src/forms/build.ts`): the lines nobody typed come from the form's own field
+list, with the section decided by the part they are printed under.
+
+## T2 rules as data
+
+`src/forms/rules.ts` in ca-tax parses the arithmetic CRA states in each box's
+description into a formula ("Amount 1D minus line 260", "Total of lines 350 to
+370", "Amount 2B or 2C, whichever is less") and into carries between forms
+("Enter this amount on line 313 of the T2 return"). `tests/t2-line-rules.test.ts`
+uses it three ways:
+
+1. **The documents against themselves**: no rule refers to a line its own form
+   does not have.
+2. **The definitions against the documents**: a carry the form states lands on
+   a line the destination definition has, and a hand-authored `to` link agrees
+   with the one the form states.
+3. **The engine against the document**: Schedule 3 lines 460, 465 and 470 from
+   the engine equal what the form's formulas give.
+
+It reads 79 of the 185 descriptions that state arithmetic (43%). What it does
+not read is mostly a multiplication by a rate or a prose condition; those stay
+as text and are counted, never guessed.
+
+One thing it found in CRA's own documents: Schedule 2 E (23) still sends the
+gifts-of-medicine deduction to line 315 of the T2 return, and the 2026 jacket
+has no line 315.
+
+**To extend check 3 to another schedule**, its engine module has to expose its
+figures by line number, the way `computeSchedule3DividendsPaid` returns
+`line460`. Most T2 modules return named figures instead, and the T2 payload
+builders transmit only a handful of lines per schedule. That is the real limit
+on how much of the engine can be checked this way today, and the next thing to
+change: one schedule at a time, give the result a line-keyed view, then add it
+to the test.
+
+The rule-book adapter (emitting these rules in the AT1 rule-book row schema, so
+`knowledge-base/formulas/t2/<form>.md` exists like the AT1 pages) is not built.
+
+## Provincial schedules
+
+All 81 current provincial and territorial schedules CRA administers are held in
+`sources/cra-forms/pdf/` and extracted (lines and fields), alongside Alberta's
+AT1 and Quebec's CO-17. They are not built in ca-tax: `generate-captions.py`
+emits caption modules only for the core, CCPC and common buckets, so a
+provincial form gets its module the day its registry row is moved.
+
+Each province has one "corporation tax calculation" schedule that the rest
+feed (Ontario 500, British Columbia 427, Manitoba 383, Saskatchewan 411, Nova
+Scotia 346, New Brunswick 366, Newfoundland and Labrador 307, Prince Edward
+Island 322, Yukon 443, Northwest Territories 461, Nunavut 481). Start a
+province there. Schedule 5 Part 2 is where each one lands, and its definition
+now carries every Part 2 line.
 
 "Out of date" in `STATUS.md` clears once the new PDFs are committed (it compares
 CRA's update date with the commit date of our copy).
@@ -160,30 +212,3 @@ and T1135; most add T1134 and T106; several add Pre-validate, T2SCH89 and T2054.
 That is the realistic companion set, and why T1135 / T1134 / T106 sit in the
 "common" bucket.
 
-## Next: T2 rules as data (design, not built)
-
-AT1 has a rule book because TRA publishes one (`PLAN-rulebook-pipeline.md`). T2
-has been waiting on CRA's CIF specification. `fields.tsv` removes most of that
-wait: the caption of a computed field states its rule in a fixed vocabulary
-("Amount 1D minus line 260", "Line 250 plus line 210", "Include this amount on
-line 112 of Schedule 1").
-
-Proposed, in this order:
-
-1. **A `cra-xfa` adapter for the rule-book pipeline.** It reads `fields.tsv` and
-   emits the same row schema the AT1 adapter does (form, line, caption, rule
-   text, references). No new schema.
-2. **Parse the fixed phrases into a formula graph**: `plus`, `minus`,
-   `multiplied by`, `whichever is less`, and "enter on / include on line N of
-   Schedule M" as a cross-form link. Phrases that do not parse stay as text and
-   are counted, never guessed.
-3. **Check, do not generate.** The engine stays hand-written pure functions. A
-   conformance test evaluates each parsed formula on the engine's own output and
-   fails where they differ, as `at1-formula-conformance.test.ts` does for AT1.
-   The cross-form links are checked against `src/forms/registry.ts`.
-4. **Only then** consider a table-driven evaluator for the purely arithmetic
-   lines (subtotals, carry-forwards), leaving judgement rules (CCA classes,
-   loss ordering, association) in code.
-
-Step 3 is where the value is: every reprint then shows up as a failing test
-naming the line, instead of as a filing rejection.

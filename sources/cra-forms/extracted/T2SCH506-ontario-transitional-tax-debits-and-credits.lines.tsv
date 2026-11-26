@@ -1,0 +1,82 @@
+line	caption
+110	(total of column 220 from Schedule 8, Capital Cost Allowance (CCA))
+112	Charitable donations not yet deducted from income (from line 280 of Schedule 2, Charitable Donations and Gifts) (see Note 1)
+114	Gifts to Canada, a province, or a territory (from line 380 of Schedule 2) (see Note 1)
+116	Gifts of certified cultural property (from line 480 of Schedule 2) (see Note 1)
+118	Gifts of certified ecologically sensitive land (from line 580 of Schedule 2) (see Note 1)
+120	Gifts of medicine (from line 680 of Schedule 2) (see Note 1)
+122	Cumulative eligible capital (from line 300 of Schedule 10, Cumulative Eligible Capital Deduction)
+124	Federal SR&ED expenditure pool (from line 470 of Form T661, Scientific Research and Experimental Development (SR&ED) Expenditures Claim) (see Note 2 and Note 3)
+128	Cumulative Canadian exploration expense (from line 249 of Schedule 12, Resource-Related Deductions) (see Note 2)
+130	Cumulative Canadian development expense (from line 349 of Schedule 12) (see Note 2)
+132	Cumulative Canadian oil and gas property expense (from line 449 of Schedule 12) (see Note 2)
+136	Net capital losses (from line 200 of Schedule 4 of the current tax year × 50%) (see Note 2 and Note 4)
+152	One half of the total reserves deducted under subparagraph 40(1)(a)(iii) or 44(1)(e)(iii) of the federal Act, as it applies under the Corporations Tax Act (Ontario)
+154	Other discretionary deductions claimed for Ontario income tax, but not claimed federally in the tax years ending after December 12, 2006, and before the transition time
+160	at the beginning of the tax year (see Note 5)
+162	Gain from a negative adjusted cost base of a partnership interest under subsection 40(3) of the federal Act, as it applies under the Corporations Tax Act (Ontario), as if all partnership interests were disposed of at the beginning of the tax year
+164	Amount of farming income specified under paragraph 28(1)(b) in the previous tax year
+170	Lesser of amount D or amount E from Part 4, if an election is made
+180	Total federal balance (amount A minus line 170)
+210	Total undepreciated capital cost of depreciable properties (total of column 13 from
+212	Charitable donations (amount I from Ontario Schedule 2, Ontario Charitable Donations and Gifts) (see Note 1)
+214	Gifts to Canada, a province, or a territory (total of closing balance amounts from parts 3 and 5 of Ontario Schedule 2) (see Note 1)
+216	Gifts of certified cultural property (closing balance amount from Part 6 of Ontario Schedule 2) (see Note 1)
+218	Gifts of certified ecologically sensitive land (closing balance amount from Part 7 of Ontario Schedule 2) (see Note 1)
+220	Gifts of medicine (see Note 1)
+222	Cumulative eligible capital (amount Q from Ontario Schedule 10, Ontario Cumulative Eligible Capital Deduction)
+224	Ontario SR&ED expenditure pool (line 480 from Ontario CT23 Schedule 161, Ontario Scientific Research and Experimental Development Expenditures) (see Note 2 and Note 3)
+226	Adjusted Ontario SR&ED incentive balance (see Note 2 and Note 5)
+228	Cumulative Canadian exploration expense (closing balance of Regular Expenses from Part 2 of Ontario Schedule 12, Ontario Exploration Expenses) (see Note 2)
+230	Cumulative Canadian development expense (closing balance of Regular Expenses, Canadian CCDE Expenses, from Part 3 of Ontario Schedule 12) (see Note 2)
+232	Cumulative Canadian oil and gas property expense (closing balance of Regular Expenses from Part 4 of Ontario Schedule 12) (see Note 2)
+234	Non-capital losses (from line 709 of Ontario Corporations Tax Return CT8 or CT23 Corporations Tax and Annual Return) (see Note 2 and Note 4)
+236	Net capital losses (from line 719 of CT8 or CT23 × 50%) (see Note 2 and Note 4)
+250	subparagraph 138(3)(a)(i), (ii), or (iv)
+252	One half of the total reserves deducted under subparagraph 40(1)(a)(iii) or 44(1)(e)(iii)
+260	of the Corporations Tax Act (Ontario), at the beginning of the tax year (see Note 6)
+262	Gain from a "negative" adjusted cost base of a partnership interest under subsection 40(3) determined as if all partnership interests were disposed of at the beginning of the tax year
+264	Amount of farming income in the previous tax year specified under paragraph 28(1)(b) of the federal Act, as it applies for the purposes of the Corporations Tax Act (Ontario)
+280	Total Ontario balance (total of lines 210 to 264)
+330	Total federal balance (amount from line 180 in Part 1, or amount from line
+300	Part 3 of Schedule 506 for the previous tax year)
+310	Amount from eligible amalgamation
+315	Amount from eligible post-2008 winding-up
+320	Amount from eligible pre-2009 winding-up
+325	Amount from specified pre-2009 transfers
+370	Total Ontario balance (amount from line 280 in Part 2, or amount from line
+340	in Part 3 of Schedule 506 for the previous tax year)
+350	Amount from eligible amalgamation
+355	Amount from eligible post-2008 winding-up
+360	Amount from eligible pre-2009 winding-up
+365	Amount from specified pre-2009 transfers
+390	Transitional balance at the end of the tax year (line 330 minus line 370)
+400	Are you making an election under clause (b) of the definition of "I" in paragraph 1 of subsection 48(4) of the Taxation Act, 2007 (Ontario)?
+410	Number of days in the corporation's reference period* (do not include February 29, 2008, and February 29, 2012)
+420	Number of days in the amortization period that are in the tax year** (do not include February 29, 2008, or February 29, 2012)
+430	The corporation:
+435	ticked box 1 at line 430
+470	Federal SR&ED transitional balance at the end of the year (amount QQ from Part 14)
+510	Ontario tax payable for purposes of the current year transitional tax credit (amount P multiplied by amount Q)
+520	Current-year transitional tax credit (amount T multiplied by amount U)
+530	Ontario tax payable for purposes of the unused transitional tax credit carryforward
+560	Unused transitional tax credit transferred from a predecessor corporation or a subsidiary on an eligible amalgamation or an eligible post-2008 winding-up
+580	Unused transitional tax credit (available for later years) (amount 3 minus amount AA)
+610	Current SR&ED expenditures in the year under paragraph 37(1)(a)
+614	Capital SR&ED expenditures in the year under paragraph 37(1)(b)
+618	Repayment of assistance under paragraph 37(1)(c)
+624	Investment tax credit recaptured under subsections 127(27), (29), and (34) in the previous tax year
+638	Assistance under paragraph 37(1)(d)
+644	Investment tax credits deducted under paragraph 37(1)(e)
+650	Federal current SR&ED limit or federal current SR&ED deficit (amount BB minus amount CC)
+660	Relevant OAF
+670	SR&ED expenditure amount deducted in the year under subsection 37(1)
+700	Total of all federal SR&ED limits from previous tax years ending after December 31, 2008
+705	previous tax years ending after December 31, 2008
+710	SR&ED pool calculated under subsection 48(3) of the Taxation Act, 2007 (Ontario) in the previous years (total of line L in Part 7 for previous years)
+715	Amounts included in line 710 that are reasonably attributable to the federal current SR&ED deficit for the year
+720	Subtotal (line 710 minus line 715)
+730	Subtotal (line 705 minus amount KK)
+735	Amount from line 170 in Part 1 (see Note)
+740	Subtotal (amount OO plus line
+750	the Taxation Act, 2007 (Ontario) in the previous years (total of line L in Part 7 for previous years)

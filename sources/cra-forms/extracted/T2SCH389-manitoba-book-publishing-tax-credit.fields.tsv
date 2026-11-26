@@ -1,0 +1,72 @@
+page	part	field	line	kind	digits	speak
+1	Ident_bar	Corp_name		text		Corporation's name.
+1	Ident_bar	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident_bar/Tax_y-e	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_content/Line_110/RadioButtonGroup110	Yes	110	check		Line 110. Question 1. Does the corporation primarily carry on the business of book publishing? Yes.
+1	Part1_content/Line_110/RadioButtonGroup110	No	110	check		Line 110. Question 1. Does the corporation primarily carry on the business of book publishing? No.
+1	Part1_content/Line_115/Line115/RadioButtonGroup115	Yes	115	check		Line 115. Question 2. Does the corporation have a permanent establishment in Manitoba in the tax year? Yes.
+1	Part1_content/Line_115/Line115/RadioButtonGroup115	No	115	check		Line 115. Question 2. Does the corporation have a permanent establishment in Manitoba in the tax year? No.
+1	Part1_content/Line_120/RadioButtonGroup120	Yes	120	check		Line 120. Question 3. Has the corporation published at least two eligible books within the two-year period ending at the end of the tax year? Yes.
+1	Part1_content/Line_120/RadioButtonGroup120	No	120	check		Line 120. Question 3. Has the corporation published at least two eligible books within the two-year period ending at the end of the tax year? No.
+1	Part1_content/Line_140	Input_140	140	numeric	12	Line 140. Salaries and wages paid to Manitoba resident employees in the tax year. Keep a list of names, addresses, and social insurance numbers, as you may have to provide this information at a future date.
+1	Part1_content/Line_130	Input_130	130	numeric	12	Line 130. Total salaries and wages the corporation paid to employees in the tax year.
+1	Part1_content/Amount_A	Input_A		numeric		Amount A. Proportion of the total salaries and wages paid to Manitoba resident employees in the tax year. Line 140 divided by line 130.
+1	Part2_content/Part2_table1/Row1	Cell2	200	text		Line 200. Column A. Title of eligible book. Row 1.
+1	Part2_content/Part2_table1/Row1	Cell3	210	text		Line 210. Column B. Authors. Row 1.
+1	Part2_content/Part2_table1/Row2	Cell2	200	text		Line 200. Column A. Title of eligible book. Row 2.
+1	Part2_content/Part2_table1/Row2	Cell3	210	text		Line 210. Column B. Authors. Row 2.
+1	Part2_content/Part2_table1/Row3	Cell2	200	text		Line 200. Column A. Title of eligible book. Row 3.
+1	Part2_content/Part2_table1/Row3	Cell3	210	text		Line 210. Column B. Authors. Row 3.
+1	Part2_content/Part2_table1/Row4	Cell2	200	text		Line 200. Column A. Title of eligible book. Row 4.
+1	Part2_content/Part2_table1/Row4	Cell3	210	text		Line 210. Column B. Authors. Row 4.
+1	Part2_content/Part2_table1/Row5	Cell2	200	text		Line 200. Column A. Title of eligible book. Row 5.
+1	Part2_content/Part2_table1/Row5	Cell3	210	text		Line 210. Column B. Authors. Row 5.
+1	Part2_content/Part2_table2/Row1	Cell2	220	text		Line 220. Column C. International standard book number, ISBN. Row 1.
+1	Part2_content/Part2_table2/Row1/Cell3_date	Cell3	230	text		Line 230. Column D. Date of publication. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+1	Part2_content/Part2_table2/Row1	Cell4	240	numeric	12	Line 240. Column E. Number of pages. Row 1.
+1	Part2_content/Part2_table2/Row1	Cell5	250	numeric	12	Line 250. Column F. Number of books in print run. Row 1.
+1	Part2_content/Part2_table2/Row1	Cell6	260	numeric	1	Line 260. Column G. Format. Row 1.
+1	Part2_content/Part2_table2/Row1	Cell7	270	numeric	1	Line 270. Column H. Classification. Row 1.
+1	Part2_content/Part2_table2/Row2	Cell2	220	text		Line 220. Column C. International standard book number, ISBN. Row 2.
+1	Part2_content/Part2_table2/Row2/Cell3_date	Cell3	230	text		Line 230. Column D. Date of publication. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+1	Part2_content/Part2_table2/Row2	Cell4	240	numeric	12	Line 240. Column E. Number of pages. Row 2.
+1	Part2_content/Part2_table2/Row2	Cell5	250	numeric	12	Line 250. Column F. Number of books in print run. Row 2.
+1	Part2_content/Part2_table2/Row2	Cell6	260	numeric	1	Line 260. Column G. Format. Row 2.
+1	Part2_content/Part2_table2/Row2	Cell7	270	numeric	1	Line 270. Column H. Classification. Row 2.
+1	Part2_content/Part2_table2/Row3	Cell2	220	text		Line 220. Column C. International standard book number, ISBN. Row 3.
+1	Part2_content/Part2_table2/Row3/Cell3_date	Cell3	230	text		Line 230. Column D. Date of publication. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+1	Part2_content/Part2_table2/Row3	Cell4	240	numeric	12	Line 240. Column E. Number of pages. Row 3.
+1	Part2_content/Part2_table2/Row3	Cell5	250	numeric	12	Line 250. Column F. Number of books in print run. Row 3.
+1	Part2_content/Part2_table2/Row3	Cell6	260	numeric	1	Line 260. Column G. Format. Row 3.
+1	Part2_content/Part2_table2/Row3	Cell7	270	numeric	1	Line 270. Column H. Classification. Row 3.
+1	Part2_content/Part2_table2/Row4	Cell2	220	text		Line 220. Column C. International standard book number, ISBN. Row 4.
+1	Part2_content/Part2_table2/Row4/Cell3_date	Cell3	230	text		Line 230. Column D. Date of publication. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+1	Part2_content/Part2_table2/Row4	Cell4	240	numeric	12	Line 240. Column E. Number of pages. Row 4.
+1	Part2_content/Part2_table2/Row4	Cell5	250	numeric	12	Line 250. Column F. Number of books in print run. Row 4.
+1	Part2_content/Part2_table2/Row4	Cell6	260	numeric	1	Line 260. Column G. Format. Row 4.
+1	Part2_content/Part2_table2/Row4	Cell7	270	numeric	1	Line 270. Column H. Classification. Row 4.
+1	Part2_content/Part2_table2/Row5	Cell2	220	text		Line 220. Column C. International standard book number, ISBN. Row 5.
+1	Part2_content/Part2_table2/Row5/Cell3_date	Cell3	230	text		Line 230. Column D. Date of publication. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+1	Part2_content/Part2_table2/Row5	Cell4	240	numeric	12	Line 240. Column E. Number of pages. Row 5.
+1	Part2_content/Part2_table2/Row5	Cell5	250	numeric	12	Line 250. Column F. Number of books in print run. Row 5.
+1	Part2_content/Part2_table2/Row5	Cell6	260	numeric	1	Line 260. Column G. Format. Row 5.
+1	Part2_content/Part2_table2/Row5	Cell7	270	numeric	1	Line 270. Column H. Classification. Row 5.
+1	Part2_content	Input_total		numeric	12	Total of column E.
+1	Pg1end/PageNumbers	CurrentPage		numeric		
+1	Pg1end/PageNumbers	PageCount		numeric		
+	form1/Pg2/Part3_content/Amount_B	Input_B		numeric	12	Amount B. Salaries and wages paid to Manitoba resident employees from line 140, Part 1.
+	form1/Pg2/Part3_content/Lines_400_405	Input_400	400	numeric	12	Line 400. Contracted Manitoba labour costs paid in the tax year.
+	form1/Pg2/Part3_content/Lines_400_405	Input_405	405	numeric	12	Line 405. Line 400 multiplied by 65%.
+	form1/Pg2/Part3_content/Amount_C	Input_C		numeric	12	Amount C. Subtotal. Amount B plus line 405.
+	form1/Pg2/Part3_content/Amount_D	Input_D		numeric	12	Amount D. Total number of pages attributable to eligible books published in the tax year. Total of column E in Part 2.
+	form1/Pg2/Part3_content/Line_410	Input_410	410	numeric	12	Line 410. Total number of pages attributable to books published in the tax year.
+	form1/Pg2/Part3_content/Amount_E	Input_E		numeric		Amount E. Proportion of labour related to the production of eligible books. Amount D divided by line 410.
+	form1/Pg2/Part3_content/Line_415	Input_415	415	numeric	12	Line 415. Total book publishing labour costs. Amount C multiplied by amount E.
+	form1/Pg2/Part3_content/Line_420	Input_420	420	numeric	12	Line 420. Total non-refundable monetary advances made to authors of eligible books in the tax year.
+	form1/Pg2/Part3_content/Line_430	Input_430	430	numeric	12	Line 430. Total costs. Line 415 plus line 420.
+	form1/Pg2/Part3_content/Line_440	Input_440	440	numeric	12	Line 440. Manitoba book publishing tax credit. Line 430 multiplied by 40%. This amount cannot exceed $100,000.
+	form1/Pg2/Part3_content/Line_455	Input_455	455	numeric	12	Line 455. Eligible printing costs incurred.
+	form1/Pg2/Part3_content/Line_460	Input_460	460	numeric	12	Line 460. Eligible printing costs bonus. Line 455 multiplied by 15%.
+	form1/Pg2/Part3_content/Amount_F	Input_F		numeric	12	Amount F. Total Manitoba book publishing tax credit. Line 440 plus line 460. Enter amount F on line 615 of Schedule 5.
+	form1/Pg2/PageNumbers	CurrentPage		numeric		
+	form1/Pg2/PageNumbers	PageCount		numeric		

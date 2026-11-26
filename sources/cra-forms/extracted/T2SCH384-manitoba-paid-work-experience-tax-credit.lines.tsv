@@ -1,0 +1,17 @@
+line	caption
+175	Credit allocated for qualifying youths whose salaries and wages were paid by a partnership
+180	Youth work experience hiring incentive (total of column D1 plus line 175)
+275	Credit allocated for co-op students whose salaries and wages were paid by a partnership
+280	Co-op student hiring incentive (total of column D2 plus line 275)
+375	Credit allocated for qualifying graduates whose salaries and wages were paid by a partnership
+380	Co-op graduate hiring incentive (total of column D3 plus line 375)
+475	Credit allocated for qualifying apprentices whose salaries and wages were paid by a partnership
+477	Amount received or receivable from the Federal apprenticeship job creation tax credit
+480	Apprentice hiring incentive (total of column D4 plus line 475 minus line 477)
+577	Amount received or receivable from the Federal apprenticeship job creation tax credit
+580	Apprentice hiring incentive for rural or northern early level apprentice (total of column D5 plus line 575 minus line 577)
+775	Credit allocated for high school apprentices whose salaries and wages were paid by a partnership
+777	Amount received or receivable from the Federal apprenticeship job creation tax credit
+780	Apprentice hiring incentive for high school apprentice (total of column D6 plus line 775 minus line 777)
+675	Credit allocated for qualifying journeypersons whose salaries and wages were paid by a partnership
+680	Journeyperson hiring incentive (total of column D7 plus line 675)

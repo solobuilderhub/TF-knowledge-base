@@ -1,15 +1,17 @@
-                                              T2 Corporation Income Tax Return                                                                                                200
-                                                     (2025 and later tax years)                                                                                 Code 2501
-                                                                                                                                                              Protected B
-This form serves as a federal, provincial, and territorial corporation income tax return, unless the corporation is located in                                when completed
-Quebec or Alberta. If the corporation is located in one of these provinces, you have to file a separate provincial
-corporation return. A shorter version of the return, the T2SHORT, is available for eligible corporations.                              055 Do not use this area
+                                              T2 Corporation Income Tax Return                                                                                                    200
+                                                    (2026 and later tax years)                                                                                       Code 2601
+                                                                                                                                                                   Protected B
+This form serves as a federal, provincial, and territorial corporation income tax return, unless the corporation is located in                                    when completed
+
+Quebec or Alberta. If the corporation is located in one of these provinces, you have to file a separate provincial                     055          Do not use this area
+
+corporation return. A shorter version of the return, the T2 Short, is available for eligible corporations.
 
 All legislative references on this return are to the federal Income Tax Act and Income Tax Regulations. This return may
 contain changes that had not yet become law at the time of publication.
 
-Send one completed copy of this return, including schedules and the General Index of Financial Information (GIFI), to your
-tax centre. You have to file the return within six months after the end of the corporation's tax year.
+Electronically file or send one completed copy of this return, including schedules and the General Index of Financial
+Information (GIFI), to your tax centre. You have to file the return within six months after the end of the corporation's tax year.
 
 For more information see canada.ca/taxes or Guide T4012, T2 Corporation ­ Income Tax Guide.
 
@@ -17,33 +19,31 @@ For more information see canada.ca/taxes or Guide T4012, T2 Corporation ­ Income
 
 Business number (BN) . . . . . . . . . . . . . . . . . . . . . . . . . . . 001
 
-Corporation's name                                                              To which tax year does this return apply?                           Tax year-end
-002                                                                                                Tax year start
+Corporation's name                                                              To which tax year does this return apply?
 
-                                                                                                      Year Month Day                                Year Month Day
+002                                                                                                   Tax year start                                Tax year-end
 
-Address of head office                                                          060                                                    061
+Address of head office                                                                          Year Month Day                                       Year Month Day
+                                                                                060                                                    061
 
 Has this address changed since the            Yes                 No            Has there been an acquisition of control
 last time the CRA was notified? . . . . 010                                     resulting in the application of
-If yes, complete lines 011 to 018.                                              subsection 249(4) since the tax year
+If yes, complete lines 011 to 018.                                              subsection 249(4) since the tax year                                Yes  No
                                                                                 start on line 060? . . . . . . . . . . . . . . . . . . . 063
-011                                                                                                                                                 Yes  No
+011                                                                                                                                                 Year Month Day
+012                                                                             If yes, provide the date control was
+                                              Province, territory, or state     acquired . . . . . . . . . . . . . . . . . . . . . . . . . . . 065
+         City
 
-012                                                                             If yes, provide the date control was                                Year Month Day
-                                                                                acquired . . . . . . . . . . . . . . . . . . . . . . . . . . . 065
-     City                                     Province, territory, or state
-                                              Postal or ZIP code                Is the date on line 061 a deemed
-015                                  016                                        tax year-end according to
-                                                                                subsection 249(3.1)? . . . . . . . . . . . . . . . . 066
-     Country (other than Canada)                                                                                                                    Yes  No
-
-017                                  018
+015                                  016                                        Is the date on line 061 a deemed
+        Country (other than Canada)           Postal or ZIP code
+                                                                                tax year-end according to                                                No
+017                                  018                                        subsection 249(3.1)? . . . . . . . . . . . . . . . . 066            Yes
 
 Mailing address (if different from head office address)                         Is the corporation a professional
 
-Has this address changed since the                                              corporation that is a member of a                                   Yes  No
-                                                                                partnership? . . . . . . . . . . . . . . . . . . . . . . . 067
+                                                                                corporation that is a member of a
+Has this address changed since the                                              partnership? . . . . . . . . . . . . . . . . . . . . . . . 067      Yes  No
 last time the CRA was notified? . . . . 020   Yes                 No
 
 If yes, complete lines 021 to 028.                                              Is this the first year of filing after:
@@ -62,8 +62,8 @@ If yes, complete lines 021 to 028.                                              
 027                                  028
                                                                                 If yes, complete and attach Schedule 24.
 
-Location of books and records (if different from head office address)           Is this the final tax year before                                   Yes  No
-                                                                                amalgamation? . . . . . . . . . . . . . . . . . . . . 076
+                                                                                Is this the final tax year before                                   Yes  No
+Location of books and records (if different from head office address)           amalgamation? . . . . . . . . . . . . . . . . . . . . 076
 
 Has this address changed since the            Yes                 No
 last time the CRA was notified? . . . . 030                                     Is this the final return up to
@@ -82,10 +82,10 @@ If yes, complete lines 031 to 038.                                              
 037                                  038
 
 040 Type of corporation at the end of the tax year (tick one)                   081
-        1 Canadian-controlled private corporation (CCPC)
-        2 Other private corporation                                             Is the non-resident corporation
-        3 Public corporation
-                                                                                claiming an exemption under an                                      Yes  No
+
+     1 Canadian-controlled private corporation (CCPC)                           Is the non-resident corporation
+     2 Other private corporation
+     3 Public corporation                                                       claiming an exemption under an                                      Yes  No
                                                                                 income tax treaty? . . . . . . . . . . . . . . . . . . 082
 
                                                                                 If yes, complete and attach Schedule 91.
@@ -101,9 +101,9 @@ effective date of the change . . . . . . 043                                    
 
                                                                                 Do not use this area
 
-095                                           096                                                         898
+095                                           096                                                           898
 
-T2 E (26)                                                (Ce formulaire est disponible en français.)                                   Page 1 of 9
+T2 E (10/2026)                                           (Ce formulaire est disponible en français.)                                   Page 1 of 9
 Attachments                                                                                                               Protected B when completed
 
 Financial statement information: Use GIFI schedules 100, 125, and 141.
@@ -116,7 +116,7 @@ Is the corporation related to any other corporations? . . . . . . . . . . . . . 
 
 Is the corporation an associated CCPC? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160                  23
 
-Is the corporation an associated CCPC that is claiming the expenditure limit? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 161                                   49
+Is the corporation an associated CCPC, not electing under subsection 127(10.32), that is claiming the expenditure limit? . . . . . . . . . 161                                                            49
 
 Does the corporation have any non-resident shareholders who own voting shares? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 151                                            19
 
@@ -188,7 +188,7 @@ Is the corporation claiming any type of losses? . . . . . . . . . . . . . . . . 
   Is the corporation claiming a Canadian journalism labour tax credit? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 272
   Is the corporation subject to Part XIII.1 tax? (Show your calculations on a sheet that you identify as Schedule 92.) . . . . . . . . . . . . . . 255
 
-T2 E (26)
+T2 E (10/2026)
 Attachments (continued)                                                                                                                                                             Protected B when completed
 
 Did the corporation have any foreign affiliates in the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 271                     T1134
@@ -212,16 +212,19 @@ general rate income pool (GRIP) change in the tax year? . . . . . . . . . . . . 
 Did the corporation (other than a CCPC or DIC) pay eligible dividends, or did its low rate income pool (LRIP)
 change in the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 269  54
 
-Is the corporation claiming a return of fuel charge proceeds to farmers tax credit? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 273                                  63
-
 Are you an employer reporting a non-qualified security agreement under subsection 110(1.9)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 274                                              59
 
 Is the corporation subject to the additional 1.5% tax on banks and life insurers? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 276                                68
 
 Is the corporation a covered entity that redeemed, acquired or cancelled equity of the corporation in the tax year? . . . . . . . . . . . . . . 277                                                    56
 
-Is the corporation subject to the excessive interest and financing expenses limitation (EIFEL) rules contained primarily                                                                               130
-in sections 18.2 and 18.21, or is it a party to any election under the EIFEL rules? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 278
+Is the corporation subject to the excessive interest and financing expenses limitation (EIFEL) rules contained primarily in
+
+sections 18.2 and 18.21? If the corporation is exempt from filing Schedule 130 because it meets the conditions listed on
+canada.ca/cra-eifel, do not check box 278 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 278                130
+
+Is the corporation an associated CCPC electing to calculate its expenditure limit under subsection 127(10.32), or an eligible Canadian
+public corporation that is, at any time in the year, part of a consolidated group according to subsection 127(10.62)? . . . . . . . . . . . . . 279                                                    52
 
 Additional information
 
@@ -231,143 +234,137 @@ Is the corporation inactive? . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Did the corporation meet the definition of substantive CCPC under subsection 248(1) at any time during the tax year? . . . 290                                                        Yes              No
 
-Specify the principal products mined, manufactured, 284                                                                                                                                       285              %
-                                                                                                                                                                                              287              %
-sold, constructed, or services provided, giving the  286                                                                                                                                      289              %
+Specify the principal products mined, manufactured, 284                                                                                                                                    285              %
 
-approximate percentage of the total revenue that     288                                                                                                                              Yes              No
-                                                                                                                                                                                      Yes              No
-each product or service represents.                                                                                                                                                   Yes              No
+sold, constructed, or services provided, giving the  286                                                                                                                                   287              %
 
-Did the corporation immigrate to Canada during the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 291
-Did the corporation emigrate from Canada during the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 292
-Do you want to be considered as a quarterly instalment remitter if you are eligible? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 293
+approximate percentage of the total revenue that     288                                                                                                                                   289              %
+
+each product or service represents.
+
+Did the corporation immigrate to Canada during the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 291                          Yes              No
+
+Did the corporation emigrate from Canada during the tax year? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 292                           Yes              No
+
+Do you want to be considered as a quarterly instalment remitter if you are eligible? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 293                                  Yes              No
 
 If the corporation was eligible to remit instalments on a quarterly basis for part of the tax year, provide the date the                                                              Year Month Day
 corporation ceased to be eligible . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 294
+
 If the corporation's major business activity is construction, did you have any subcontractors during the tax year? . . . . . . . 295                                                  Yes              No
 
 Taxable income
 
-Net income or (loss) for income tax purposes from Schedule 1, financial statements, or GIFI . . . . . . . . . . . . . . . . . . . . . . . . . . 300                                                           A
+Net income or (loss) for income tax purposes from Schedule 1, financial statements, or GIFI . . . . . . . . . . . . . . . . . . . . . . . . . . 300                                                         A
 
-Deduct:                                                                                                                                                                                                       B
-Charitable donations from Schedule 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 311                                                                                C
-Cultural gifts from Schedule 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 313                                                                        D
-Ecological gifts from Schedule 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 314                                                                   Page 3 of 9
+Deduct:
+Charitable donations from Schedule 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 311
+Cultural gifts from Schedule 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 313
+Ecological gifts from Schedule 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 314
 
-Taxable dividends deductible under section 112 or 113, or subsection 138(6)
+Taxable dividends deductible under section 112 or 113, or subsection 138(6)                                                                                                                                 B
 from Schedule 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 320
-
-Part VI.1 tax deduction* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 325
-
+Part VI.1 tax deduction1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 325
 Non-capital losses of previous tax years from Schedule 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 331
-
 Net capital losses of previous tax years from Schedule 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 332
-
 Restricted farm losses of previous tax years from Schedule 4 . . . . . . . . . . . . . . . . . . . . . . . . . 333
-
 Farm losses of previous tax years from Schedule 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 334
-
 Limited partnership losses of previous tax years from Schedule 4 . . . . . . . . . . . . . . . . . . . . . . 335
-
 Restricted interest and financing expenses from Schedule 4. . . . . . . . . . . . . . . . . . . . . . . . . . . 336
-
 Taxable capital gains or taxable dividends allocated from a central credit union . . . . . . . . . . . 340
-
 Prospector's and grubstaker's shares . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 350
-
 Employer deduction for non-qualified securities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 352
 
-                                                                                      Subtotal                                                                                      
+                                                                                                                            Subtotal
 
-                                                          Subtotal (amount A minus amount B) (if negative, enter "0")
+                                                          Subtotal (amount A minus amount B) (if negative, enter "0")                                                                                       C
 
-Section 110.5 additions or subparagraph 115(1)(a)(vii) additions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 355
+Section 110.5 additions or subparagraph 115(1)(a)(vii) additions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 355                                          D
+
 Taxable income (amount C plus amount D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 360
 
-* This amount is equal to 3.5 times the Part VI.1 tax payable at line 724 on page 9.
+1. This amount is equal to 3.5 times the Part VI.1 tax payable at line 724 on page 9.
 
-T2 E (26)
-Small business deduction                                                                                                         Protected B when completed
+T2 E (10/2026)                                                                                                                                                                                         Page 3 of 9
+Small business deduction                                                                                                                 Protected B when completed
 
 Canadian-controlled private corporations (CCPCs) throughout the tax year
 
-Income eligible for the small business deduction from Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400                A
+Income eligible for the small business deduction from Schedule 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400                  A
 
-Taxable income from line 360 on page 3, minus 100/28 of the amount on line 632* on page 8, minus 4 times the amount on
-line 636** on page 8, and minus any amount that, because of federal law, is exempt from Part I tax . . . . . . . . . . . . . . . . . . . 405                                    B
+Taxable income from line 360 on page 3, minus 100/28 of the amount on line 632 2 on page 8, minus 4 times the amount                     405                                      B
+on line 636 3 on page 8, and minus any amount that, because of federal law, is exempt from Part I tax . . . . . . . . . . . . . . . . .
 
-Business limit (see notes 1 and 2 below) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 410  C
+Business limit (see notes 4 and 5 below) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 410  C
 
 Notes:
-1. For CCPCs that are not associated, enter $500,000 on line 410. However, if the corporation's tax year is less than 51 weeks,
+4. For CCPCs that are not associated, enter $500,000 on line 410. However, if the corporation's tax year is less than 51 weeks,
 
     prorate this amount by the number of days in the tax year divided by 365, and enter the result on line 410.
 
-2. For associated CCPCs, use Schedule 23 to calculate the amount to be entered on line 410.
+5. For associated CCPCs, use Schedule 23 to calculate the amount to be entered on line 410.
 
 Business limit reduction
 
 Taxable capital business limit reduction
 
-Amount C                  × 415 ***               D = ........................................                                                                                  E
+Amount C                  × 415 6                          D = ........................................                                                                           E
 
-                                          90,000
+                                                   90,000
 
-Passive income business limit reduction                                                      ­ 50,000 = . . . .
+Passive income business limit reduction                                                      ­ 50,000 = . . . .                                                                   F
+Adjusted aggregate investment income from Schedule 7 7 . . . . . . . . . . . . . 417
 
-Adjusted aggregate investment income from Schedule 7**** . . . . . . . . . . . . . 417                                                                                          F
+Amount C                  × Amount F                       = ........................................                                                                             G
 
-Amount C                  × Amount F              = ........................................                                                                                    G
+                100,000                                                   The greater of amount E and amount G 422                                                                H
 
-           100,000                                                        The greater of amount E and amount G 422                                                              H
+Reduced business limit (amount C minus amount H) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 426                         I
 
-Reduced business limit (amount C minus amount H) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 426                       I
+Business limit the CCPC assigns under subsection 125(3.2) (from line 515 below) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     J
 
-Business limit the CCPC assigns under subsection 125(3.2) (from line 515 below) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   J
-
-Reduced business limit after assignment (amount I minus amount J) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 428                         K
+Reduced business limit after assignment (amount I minus amount J) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 428                           K
 
 Small business deduction ­ Amount A, B, C, or K, whichever is the least . . . . . . . . . .  × 19% = 430
+
 Enter amount from line 430 at amount L on page 8.
 
- * Calculate the amount of foreign non-business income tax credit deductible on line 632 without reference to the refundable tax on the CCPC's investment
-     income (line 604) and without reference to the corporate tax reductions under section 123.4.
+2. Calculate the amount of foreign non-business income tax credit deductible on line 632 without reference to the refundable tax on the CCPC's investment
+    income (line 604) and without reference to the corporate tax reductions under section 123.4.
 
- ** Calculate the amount of foreign business income tax credit deductible on line 636 without reference to the corporation tax reductions under section 123.4.
+3. Calculate the amount of foreign business income tax credit deductible on line 636 without reference to the corporation tax reductions under section 123.4.
 
- *** Large corporations
+6. Large corporations
 
     · If the corporation is not associated with any corporations in both the current and previous tax years, the amount to be entered on line 415 is: (total
 
-         taxable capital employed in Canada for the prior year minus $10,000,000) multiplied by 0.225%
+       taxable capital employed in Canada for the prior year minus $10,000,000) multiplied by 0.225%
 
     · If the corporation is not associated with any corporations in the current tax year, but was associated in the previous tax year, the amount to be entered
 
-         on line 415 is: (total taxable capital employed in Canada for the current year minus $10,000,000) multiplied by 0.225%
+       on line 415 is: (total taxable capital employed in Canada for the current year minus $10,000,000) multiplied by 0.225%
 
     · For corporations associated in the current tax year, see Schedule 23 for the special rules that apply.
 
-**** Enter the total adjusted aggregate investment income of the corporation and all associated corporations for each tax year that ended in the preceding
+ 7. Enter the total adjusted aggregate investment income of the corporation and all associated corporations for each tax year that ended in the preceding
      calendar year. This amount is reported at line 745 of the corresponding Schedule 7. Each corporation with such income has to file a Schedule 7.
 
-T2 E (26)                                                                                                                                                                       Page 4 of 9
+T2 E (10/2026)                                                                                                                                                                    Page 4 of 9
                                                                                                                                    Protected B when completed
 
 Small business deduction (continued)
 
 Specified corporate income and assignment under subsection 125(3.2)
 
-                       L                                M                            N
+            L                                           M                            N
 
-           Business number of                Income paid under        Business limit assigned to
-             the corporation           clause 125(1)(a)(i)(B) to the   corporation identified in
-               receiving the
-            assigned amount              corporation identified in              column L4
-                                                  column L3
+Business number of                           Income paid under        Business limit assigned to
+  the corporation                      clause 125(1)(a)(i)(B) to the   corporation identified in
+    receiving the
+ assigned amount                         corporation identified in              column L9
+                                                  column L8
 
-                       490                             500                           505
+                        490                             500                            505
                                        Total 510                      Total 515
 1.
 2.
@@ -375,7 +372,7 @@ Specified corporate income and assignment under subsection 125(3.2)
 4.
 
 Notes:
-3. This amount is [as defined in subsection 125(7) specified corporate income (a)(i)] the total of all amounts each of which is income (other than
+8. This amount is [as defined in subsection 125(7) specified corporate income (a)(i)] the total of all amounts each of which is income (other than
 
     specified farming or fishing income of the corporation for the year) from an active business of the corporation for the year from the provision of
     services or property to a private corporation (directly or indirectly, in any manner whatever) if
@@ -388,7 +385,7 @@ Notes:
        (II) partnerships with which the corporation deals at arm's length, other than a partnership in which a person that does not deal at arm's length
        with the corporation holds a direct or indirect interest.
 
-4. The amount of the business limit you assign to a CCPC cannot be greater than the amount determined by the formula A ­ B, where A is the amount of
+9. The amount of the business limit you assign to a CCPC cannot be greater than the amount determined by the formula A ­ B, where A is the amount of
     income referred to in column M in respect of that CCPC and B is the portion of the amount described in A that is deductible by you in respect of the
     amount of income referred to in clauses 125(1)(a)(i)(A) or (B) for the year. The amount on line 515 cannot be greater than the amount on line 426.
 
@@ -404,9 +401,9 @@ Amount 13K from Part 13 of Schedule 27 . . . . . . . . . . . . . . . . . . . . .
 
 Personal services business income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 432     D
 
-Amount from line 400, 405, 410, or 428 on page 4, whichever is the least*. . . . . . . . . . . . . . . . . . .                  E
+Amount from line 400, 405, 410, or 428 on page 4, whichever is the least10 . . . . . . . . . . . . . . . . . .                  E
 
-Aggregate investment income from line 440 on page 6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           F
+Aggregate investment income from line 440 on page 611 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           F
 
                                                                       Subtotal (add amounts B to F)                                                                                   G
 
@@ -416,8 +413,8 @@ General tax reduction for Canadian-controlled private corporations ­ Amount H mu
 
 Enter amount I on line 638 on page 8.
 
-* This is not applicable to substantive CCPCs.
-** Except for a corporation that is, throughout the year, a cooperative corporation (within the meaning assigned by subsection 136(2)) or a credit union.
+10. This is not applicable to substantive CCPCs.
+11. Except for a corporation that is, throughout the year, a cooperative corporation (within the meaning assigned by subsection 136(2)) or a credit union.
 
     General tax reduction
 
@@ -440,55 +437,52 @@ General tax reduction ­ Amount O multiplied by 13% . . . . . . . . . . . . . . .
 
 Enter amount P on line 639 on page 8.
 
-T2 E (26)                                                                                                                                                                             Page 5 of 9
+T2 E (10/2026)                                                                                                                                                                        Page 5 of 9
 Refundable portion of Part I tax                                                                                                                     Protected B when completed
 
 Canadian-controlled private corporations throughout the tax year or substantive CCPCs at any time in the tax year
 
-Aggregate investment income                    440                                     × 30 2/3% = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  A
+Aggregate investment income                    440                                    × 30 2/3% = . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  A
 from Schedule 7 . . . . . . . . . . . . . . .
 
 Foreign non-business income tax credit from line 632 on page 8. . . . . . . . . . . . . . . . . . . . . .               B
 
-Foreign investment income                      445                                     × 8% = . . . . . . . .           C
+Foreign investment income                      445                                    × 8% = . . . . . . . .            C
 from Schedule 7 . . . . . . . . . . . . . . .
 
-                                   Subtotal (amount B minus amount C) (if negative, enter "0")                                                                                    D
+                                   Subtotal (amount B minus amount C) (if negative, enter "0")                                                                                   D
                                                                                                                                                    
                                                                                                                                                                                                                  E
 Amount A minus amount D (if negative, enter "0"). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Taxable income from line 360 on page 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  F
 
-Amount from line 400, 405, 410, or 428 on page 4,                                      G
-
-whichever is the least *. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Amount from line 400, 405, 410, or 428 on page 4,                                     G
+whichever is the least12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Foreign non-business
 
-income tax credit from                              × 75/29 = . . .                    H
+income tax credit from                              × 75 ÷ 29 =                       H
 line 632 on page 8 . . . . .
 
 Foreign business income
 
-tax credit from line 636                            × 4 = ....                         I
+tax credit from line 636                            × 4 = ....                        I
 
 on page 8 . . . . . . . . . . . .
 
                                    Subtotal (add amounts G to I)                                                        J
 
-                                                    Subtotal (amount F minus amount J)                                  K × 30 2/3% =                                             L
+                                                    Subtotal (amount F minus amount J)                                  K × 30 2/3% =                                            L
 
-Part I tax payable minus investment tax credit refund (line 700 minus line 780 from page 9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                         M
+Part I tax payable minus investment tax credit refund (line 700 minus line 780 from page 9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        M
 
-Refundable portion of Part I tax ­ Amount E, L, or M, whichever is the least . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 450                      N
+Refundable portion of Part I tax ­ Amount E, L, or M, whichever is the least . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 450                     N
 
-* This is not applicable to substantive CCPCs.
+12. This is not applicable to substantive CCPCs.
 
-T2 E (26)                                                                                                                                                                         Page 6 of 9
-                                                                                                                                                                                    Protected B when completed
-
-Refundable dividend tax on hand
+T2 E (10/2026)                                                                                                                                                                   Page 6 of 9
+Refundable dividend tax on hand                                                                                                                                                     Protected B when completed
 
 Eligible refundable dividend tax on hand (ERDTOH) at the end of the previous tax year (line 530 of the preceding tax year) 520                                                           A
 
@@ -554,7 +548,7 @@ Dividend refund ­ Amount CC plus amount FF plus amount II . . . . . . . . . . . 
 
 Enter amount JJ on line 784 on page 9.
 
-T2 E (26)                                                                                                                                                                                Page 7 of 9
+T2 E (10/2026)                                                                                                                                                                           Page 7 of 9
                                                                                                                                                  Protected B when completed
 
     Part I tax                                                                                                                                   550                               A
@@ -582,9 +576,9 @@ Deduct:
 
 Amount from line 400, 405, 410, or 428 on page 4, whichever                                                  H
 
-is the least* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+is the least13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-           Net amount (amount G minus amount H)                                                                                          I
+                Net amount (amount G minus amount H)                                                                                     I
 
 Refundable tax on CCPC's or substantive CCPC's investment income ­ 10 2/3% of whichever is less: amount F or amount I 604                                                          J
 
@@ -600,7 +594,7 @@ Manufacturing and processing profits deduction and zero-emission technology manu
 deduction from Schedule 27 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 616
 Investment corporation deduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 620
 
-           Taxed capital gains 624
+                Taxed capital gains 624
 
 Federal foreign non-business income tax credit from Schedule 21 . . . . . . . . . . . . . . . . . . . . . . 632
 
@@ -624,7 +618,7 @@ Part I tax payable ­ Amount K minus amount M . . . . . . . . . . . . . . . . . .
 
 Enter amount N on line 700 on page 9.
 
-* This is not applicable to substantive CCPCs.
+13. This is not applicable to substantive CCPCs.
 
     Privacy notice
 
@@ -635,7 +629,7 @@ actions. Under the Privacy Act, individuals have a right of protection, access t
 Privacy Commissioner of Canada regarding the handling of their personal information. Refer to Personal Information Bank CRA PPU 047 on Info Source
 at canada.ca/cra-info-source.
 
-T2 E (26)                                                                                                                                                                          Page 8 of 9
+T2 E (10/2026)                                                                                                                                                                     Page 8 of 9
 Summary of tax and credits                                                                                                                                Protected B when completed
 
 Federal tax
@@ -700,22 +694,22 @@ Tax instalments paid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
                                                                                   Total credits 890                                                                                                  B
 
-                                                                                          Balance (amount A minus amount B)
-
+                                                                                           Balance (amount A minus amount B)
                                             If the result is negative, you have a refund. If the result is positive, you have a balance owing.
+
                                                                                                        Enter the amount below on whichever line applies.
 
-                                                                                  Generally, the CRA does not charge or refund a difference of $2 or less. 
+Refund code 894                                                                   Generally, the CRA does not charge or refund a difference of $2 or less. 
 
-Refund code 894                   Refund                                                                                              Balance owing . . . . . . . . . .
+                                  Refund                                                                                              Balance owing . . . . . . . . . .
 
                                                                                                                                                                                   
 
 For information on how to enrol for direct deposit, go to canada.ca/cra-direct-deposit.                                               For information on how to make your payment, go
                                                                                                                                       to canada.ca/payments.
 
-If the corporation is a Canadian-controlled private corporation throughout the tax year, does it qualify for the                                          Yes                        No
-one-month extension of the date the balance of tax is due? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 896
+If the corporation is a Canadian-controlled private corporation throughout the tax year, does it qualify for the
+one-month extension of the date the balance of tax is due? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 896  Yes                        No
 
 If this return was prepared by a tax preparer for a fee, provide their: EFILE number . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 920
                                                                                           RepID . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 925
@@ -745,5 +739,5 @@ Indicate your language of correspondence by entering 1 for English or 2 for Fren
 
 Indiquez votre langue de correspondance en inscrivant 1 pour anglais ou 2 pour français.
 
-T2 E (26)                                                                                                                                                                                            Page 9 of 9
+T2 E (10/2026)                                                                                                                                                                                       Page 9 of 9
 

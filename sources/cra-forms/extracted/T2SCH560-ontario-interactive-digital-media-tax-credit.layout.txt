@@ -1,0 +1,347 @@
+Corporation's name            Ontario Interactive Digital Media Tax Credit                                                                                            Schedule 560
+                                          (2019 and later tax years)
+                                                                                                                                                                                 Code 1901
+                                                                                                                      Business number
+                                                                                                                                                                           Protected B
+                                                                                                                                                                          when completed
+
+                                                                                                                                                                    Tax year-end
+                                                                                                                                                                  Year Month Day
+
+· Use this schedule to claim an Ontario interactive digital media tax credit (OIDMTC) under sections 93, 93.1, and 93.2 of the Taxation Act, 2007 (Ontario).
+
+  Complete a separate Schedule 560 for each eligible product or eligible digital game.
+
+· The OIDMTC is a refundable tax credit based on qualifying expenditures incurred by a qualifying corporation for an eligible product or eligible digital game.
+· Under section 93, the applicable rates for eligible products after March 26, 2009 are:
+
+  1. for specified products, qualifying corporations including qualifying small corporations (QSCs), 35% of qualifying expenditures incurred
+
+  2. for non-specified products, qualifying corporations including QSCs, 40% of qualifying expenditures incurred
+
+· Under subsection 93.1, the applicable rate for an eligible digital game of a qualifying digital game corporation (QDGC) is 35% of its qualifying labour
+
+  expenditure incurred after March 26, 2009.
+
+· Under subsection 93.2, the applicable rate for an eligible digital game of a specialized digital game corporation (SDGC) is 35% of its qualifying labour
+
+  expenditure incurred after March 26, 2009.
+
+· You can claim an OIDMTC under section 93 for the tax year in which the product is completed. Complete parts 1, 2, 3, 4, 5, and 8 as applicable.
+· You can claim an OIDMTC under section 93.1 for the tax year if you were a QDGC and eligible expenditures were incurred for an eligible digital game.
+
+  Complete parts 1, 2, 3, 6, and 8. If you make a claim under section 93.1 for an eligible product for any tax year, you cannot make a claim under section 93
+  for that product.
+
+· You can claim an OIDMTC under section 93.2 for the tax year if you were a SDGC and eligible expenditures were incurred for an eligible digital game.
+
+  Complete parts 1, 2, 3, 7, and 8. In the year of product completion, you can make a claim for an OIMDTC under section 93 or section 93.2, but not under
+  both sections, unless the transition rule under subsection 93(2.6) applies.
+
+· To be eligible for the OIDMTC, you must be a Canadian corporation and meet the eligibility requirements in Part 3.
+· For expenditures incurred after April 23, 2015, the credit focuses on products that educate children under the age of 12 and on entertainment products.
+
+  Certain products, such as search engines, real estate databases, or news and public affairs products are excluded. The rules that exclude promotional
+  products have been strengthened. Products that were started before April 24, 2015, and that are no longer eligible for the credit are still eligible for relief for
+  expenditures incurred before April 24, 2015.
+
+· Before claiming an OIDMTC, you must obtain a certificate of eligibility from Ontario Creates. Only one certificate of eligibility will be issued for all of the
+
+  eligible products or eligible digital games. Enter the certificate information for this product in Part 2 of this schedule.
+
+  ­ applications for certification of eligible products must be made to Ontario Creates on or before the later of:
+
+       a) the day that is 18 months after the end of the tax year of the corporation in which the development of the eligible product is completed
+
+       b) the day that is six months after November 14, 2016
+
+· To claim the OIDMTC, file this schedule and the certificate of eligibility with your T2 Corporation Income Tax Return for the tax year.
+
+Part 1 ­ Contact information
+
+110 Name of contact person                                                                              120 Telephone number
+
+    Part 2 ­ Identifying the eligible product or eligible digital game
+
+200 Certificate of eligibility number
+210 Product title
+220 Estimated OIDMTC for the eligible product or eligible digital game
+
+Part 3 ­ Eligibility
+
+1. Did the corporation develop, start developing, or complete development of an eligible product or an eligible digital game                             300 Yes  No
+   at a permanent establishment in Ontario operated by the corporation? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2. Was the corporation exempt from tax for the tax year under Part III of the Taxation Act, 2007 (Ontario)? . . . . . . . . . . . . . . 310 Yes                   No
+
+3. Was the corporation, at any time in the tax year, controlled directly or indirectly, in any manner,
+
+by one or more corporations, all or part of whose taxable income was exempt from tax under                                                               320 Yes  No
+section 57 of the Corporations Tax Act (Ontario) or Part III of the Taxation Act, 2007 (Ontario)?. . . . . . . . . . . . . . . . . . . . .
+
+4. Was the corporation, at any time in the tax year, a prescribed labour-sponsored venture capital corporation? . . . . . . . . . . 330 Yes                       No
+
+If you answered no to question 1 or yes to questions 2, 3, or 4, then you are not eligible for the OIDMTC.
+
+T2 SCH 560 E (19)             (Ce formulaire est disponible en français.)                                   Page 1 of 6
+                                                                                                                                                        Protected B when completed
+
+   Part 4 ­ Eligible labour expenditures
+
+If you are claiming an Ontario interactive digital media tax credit under section 93 of the Taxation Act, 2007 (Ontario),complete this part and Part 5,
+if applicable.
+
+Note: If you make a claim under section 93.1 for any tax year, you cannot make a claim under section 93. If you make a claim under section 93.2,
+         refer to subsections 93(2.5) and (2.6).
+
+Transition Rules: For products that were started before April 24, 2015 and that are no longer eligible under the new requirements, your claim
+                         is limited to expenditures incurred before April 24, 2015.
+
+Is the product a specified product, under subsection 93(15) of the Taxation Act, 2007 (Ontario)? . . . . . . . . . . . . . . . . . . . . . . 400 Yes                                               No
+
+If you answered yes, do not complete Part 5.
+
+Is the corporation a QSC under subsection 93(14) of the Taxation Act, 2007 (Ontario)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 403 Yes                                            No
+
+If you answered no, enter 0 on line 610 in Part 8.
+
+Ontario labour expenditures for an eligible product is the total of the following amounts:
+Qualifying wage amount paid to employees for the eligible product in the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 405
+
+Qualifying remuneration amount incurred for the eligible product in the tax year and paid to:
+individuals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 411
+taxable Canadian corporations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 416
+
+eligible partnerships . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 421
+
+                                                                                                                        Subtotal (total of lines 405 to 421)                                           4A
+
+Ontario labour expenditures incurred for the eligible product Note 1 :
+
+by the qualifying corporation in a previous tax year . . . . . . . 430
+
+by a qualifying predecessor corporation before disposition,
+merger, or windup . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 435
+
+Subtotal (line 430 plus line 435)                                                                                                                      4B
+
+Eligible labour expenditures for the eligible product included in determining an OIDMTC claimed in a previous tax year,                                
+or claimed under section 93.2 for this year:                                                                            
+                                                                                                                        
+by the qualifying corporation . . . . . . . . . . . . . . . . . . . . . . . . . 440
+
+by a qualifying predecessor corporation . . . . . . . . . . . . . . . . 445
+
+Subtotal (line 440 plus line 445)                                                                                         4C
+
+Subtotal (amount 4B minus amount 4C) (if negative, enter 0)                                                                                                                                            4D
+
+Total Ontario labour expenditures before government assistance (amount 4A plus amount 4D) . . . . . . . . . . . . . . . . . . . . . . 450
+
+Government assistance for the Ontario labour expenditures for the eligible product:
+Amounts the corporation or any other person or partnership has received, is entitled to
+receive, or may reasonably expect to receive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 455
+
+Repayment of government assistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 460
+
+Net government assistance (line 455 minus line 460) (if negative, enter 0) . . . . . . . . . . . . . . . . .                                                                                           4E
+
+Total eligible labour expenditures for the eligible product (line 450 minus amount 4E)(if negative, enter 0) . . . . . . . . . . 473
+
+Note 1: Include expenditures that were incurred in the 37-month period ending at the end of the month in which development of the eligible product
+            was completed.
+
+                                                                                                                                                                                                       Page 2 of 6
+                                                                                                                                                     Protected B when completed
+Part 5 ­ Eligible marketing and distribution expenditures for an eligible product (other than a specified product)
+
+Maximum eligible marketing and distribution expenditures for the eligible product . . . . . . . . . . . .                                                      5A
+                                                                                                                                                                        510
+Eligible marketing and distribution expenditures incurred for the eligible product that were
+already included in determining an OIDMTC for a previous tax year:                                                              
+
+by the qualifying corporation . . . . . . . . . . . . . . . . . . . . . . . . . 500                                             
+by a qualifying predecessor corporation before disposition,
+merger, or windup . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 505                                                                        
+
+  Subtotal (line 500 plus line 505) (cannot exceed the maximum)                                                                                                
+                                                                                                                                
+Balance of maximum eligible marketing and distribution expenditures
+($100,000 minus amount 5A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Marketing and distribution expenditures incurred in the month in which development of the                                                                               525
+eligible product was completed, plus those incurred in the 24 months before, or 12 months                                                                      5B
+after, the month in which development of the eligible product was completed:                                                                                   5C
+by the qualifying corporation in the tax year or in a previous tax year . . . . . . . . . . . . . . . . . . 515
+by a qualifying predecessor corporation before disposition, merger, or windup . . . . . . . . . . 520
+
+                                                                                     Subtotal (line 515 plus line 520)
+
+Government assistance for the marketing and distribution expenditures on line 525:
+Amounts the corporation or any other person or partnership
+has received, is entitled to receive, or may reasonably
+expect to receive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 530
+Repayment of government assistance . . . . . . . . . . . . . . . . . 535
+Net government assistance (line 530 minus line 535)
+(if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Eligible marketing and distribution expenditures incurred for the eligible product already
+included in determining an OIDMTC claimed in a previous tax year:
+
+by the qualifying corporation . . . . . . . . . . . . . . . . . . . . . . . . . 540
+by a qualifying predecessor corporation . . . . . . . . . . . . . . . . 545
+
+                                            Subtotal (line 540 plus line 545)
+
+Total of all marketing and distribution expenditures on line 525 that are Ontario labour
+expenditures that were incurred:
+
+by the qualifying corporation . . . . . . . . . . . . . . . . . . . . . . . . . 550
+
+by a qualifying predecessor corporation . . . . . . . . . . . . . . . . 555
+
+Subtotal (line 550 plus line 555)                                                                                                                              5D
+
+Subtotal (total of amounts 5B, 5C, and 5D)                                                                                                                         560
+
+                                                                                     Subtotal (line 525 minus line 560) (if negative, enter 0) 565
+
+Eligible marketing and distribution expenditures for the tax year (lesser of line 510 and line 565) . . . . . . . . . . . . . . . . . . . 578
+
+                                                                                                                                                                             Page 3 of 6
+                                                                                                                                                        Protected B when completed
+   Part 6 ­ Qualifying labour expenditures for an eligible digital game for a qualifying digital game corporation
+
+If you are a qualifying digital game corporation (QDGC) claiming an Ontario interactive digital media tax credit (OIDMTC) under section 93.1 of the Taxation
+Act, 2007 (Ontario), complete this part.
+
+Note: If you make a claim under subsection 93(2.3) for any previous tax year, you cannot make a claim under section 93.1. If you claim a credit under
+         section 93.2 for the year, you can also make a claim under section 93.1 for that year if the transitional rules in subsection 93.1(5) apply.
+
+To be eligible to claim an OIDMTC under section 93.1, a QDGC must have at least $1,000,000 of qualifying labour expenditures within any period of 36
+months that ends in the tax year.
+
+Ontario labour expenditures for the eligible digital game Note 2 is the total of the following amounts:
+(include only Ontario labour expenditures incurred after March 26, 2009)
+
+Qualifying wage amount paid to employees for the eligible digital game in the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 705
+
+Qualifying remuneration amount incurred for the eligible digital game in the tax year and paid to:
+individuals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 710
+taxable Canadian corporations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 715
+eligible partnerships . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 720
+
+Subtotal (total of lines 710, 715, and 720)                                                                                                                   6A
+                                                                                                                                               
+Ontario labour expenditures incurred for the eligible digital game Note 2:                                                                     
+by the QDGC in a previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 730                   
+by a qualifying predecessor corporation before merger or windup . . . . . . . . . . . . . . . . . . . . 735
+
+Subtotal (line 730 plus line 735)                                                                                                                             6B
+
+Ontario labour expenditures for the eligible digital game (total of line 705, amounts 6A, and 6B) . . . . . . . . . . . . . . . . . . . . . . 750
+
+Eligible labour expenditures for the eligible digital game included in
+determining an OIDMTC under section 93.2:
+
+in the current year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 740
+
+in the previous year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 745
+
+Subtotal (line 740 plus line 745)                                                                                                                             6C
+
+Government assistance for the Ontario labour expenditures for the eligible digital game:
+Amounts the corporation or any other person or partnership has received,
+is entitled to receive, or may reasonably expect to receive . . . . . . . . . . . . . . . . . . . . . . . . . . 755
+
+Repayment of government assistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 760
+
+Net government assistance (line 755 minus line 760) (if negative, enter 0) . . . . . . . . . . . . . . . . .                                                  6D
+
+Total qualifying labour expenditures for the eligible digital game for a QDGC
+(line 750 minus amount 6C minus amount 6D) (if negative, enter 0). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 775
+Note 2: For an eligible digital game, include Ontario labour expenditures that were incurred in the 36-month period selected that ends in the tax year.
+
+                                                                                                                                                        Page 4 of 6
+                                                                                                                                                        Protected B when completed
+
+   Part 7 ­ Qualifying labour expenditures for an eligible digital game for a specialized digital game corporation
+
+If you are a specialized digital game corporation (SDGC) claiming an Ontario interactive digital media tax credit (OIDMTC) under section 93.2 of the
+Taxation Act, 2007 (Ontario), complete this part.
+
+Note: If you make a claim under section 93.2 for the year, you can also make a claim under section 93 for that year if the transitional rules in subsection
+         93(2.6) are met. You can also make a claim under 93.1 for that year if the transitional rules in subsection 93.1(5) are met.
+
+To be eligible to claim an OIDMTC under section 93.2, a SDGC must have Ontario labour expenditures for eligible digital games of:
+
+· not less than $1,000,000 for a tax year that started before April 12, 2019
+· not less than $500,000 for a tax year that started after April 11, 2019
+
+Ontario labour expenditures for the eligible digital game is the total of the following amounts:
+Qualifying wage amount paid to employees for the eligible digital game in the tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 805
+
+Qualifying remuneration amount incurred for the eligible digital game in the tax year and paid to:
+individuals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 810
+
+taxable Canadian corporations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 815
+
+eligible partnerships . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 820
+
+Subtotal (total of lines 810, 815, and 820)                                                                                                      7A
+                                                                                                                                               
+Ontario labour expenditures for the eligible digital game before government assistance (Line 805 plus amount 7A) . . . . . . . 830
+
+Government assistance for the Ontario labour expenditures for the eligible digital game activities:
+Amounts the corporation or any other person or partnership has received, is entitled to
+receive, or may reasonably expect to receive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 835
+
+Repayment of government assistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 840
+
+Net government assistance (line 835 minus line 840) (if negative, enter 0) . . . . . . . . . . . . . . . . .                                     7B
+
+Total qualifying labour expenditures for the eligible digital game for a SDGC (line 830 minus amount 7B) . . . . . . . . . . 875
+(if negative, enter 0)
+
+                                                                                                                                                 Page 5 of 6
+                                                                                                                         Protected B when completed
+
+   Part 8 ­ Ontario Interactive Digital Media Tax Credit
+
+If you answered yes to the question at line 400 in Part 4, calculate your credit for the specified product at line 608.
+
+Ontario interactive digital media tax credit for a specified product:
+
+Line 473 in Part 4                          ×   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 608
+
+If you answered no to the question at line 400, calculate your credit for the eligible product that is not a specified product at line 610 or 613.
+
+For a qualifying small corporation (QSC):       ×                      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 610
+Line 473 in Part 4 plus line 578 in Part 5
+
+For a qualifying corporation other than a QSC:  ×                      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 613
+Line 473 in Part 4 plus line 578 in Part 5
+
+Ontario interactive digital media tax credit for an eligible product that is not a specified product (line 610 or 613,                                                                          8A
+
+whichever applies) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Qualifying digital game corporation credit for an eligible digital game (section 93.1):
+
+Line 775 in Part 6                          ×   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 616
+
+Specialized digital game corporation credit for an eligible digital game (section 93.2):
+
+Line 875 in Part 7                          ×   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 617
+
+Ontario interactive digital media tax credit (line 608, amount 8A, line 616, or line 617 whichever applies) . . . . . . . . . . . . . 620
+
+Enter the amount from line 620 on line 462 of Schedule 5, Tax Calculation Supplementary ­ Corporations. If you are filing more than one Schedule 560, add
+the amount from line 620 from all the schedules and enter the total amount on line 462 of Schedule 5.
+
+                                                                                                                                                                                       See the privacy statement on your return.
+
+                                                                                                                                                                                                6.00000000
+
+                                                                                                                                                                                                                 Page 6 of 6
+

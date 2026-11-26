@@ -93,6 +93,36 @@ def field_captions(stem: str) -> dict[str, tuple[str, int]]:
     return out
 
 
+_AMOUNT_RE = re.compile(r"^\s*Amount\s+(\d{0,2}[A-Z]{1,2}\d?)\.\s*(.*)$")
+
+
+def lettered_amounts(stem: str) -> dict[str, tuple[str, int]]:
+    """letter -> (description, page) for the boxes that have a letter and no line.
+
+    A subtotal is often printed twice ("Instance 1" with the arithmetic,
+    "Instance 2" bare, where it is carried to the next column). The fuller
+    description is kept.
+    """
+    from formlib import EXTRACT_DIR
+
+    path = EXTRACT_DIR / f"{stem}.fields.tsv"
+    out: dict[str, tuple[str, int]] = {}
+    if not path.exists():
+        return out
+    with path.open(encoding="utf-8", newline="") as f:
+        for r in csv.DictReader(f, delimiter="	"):
+            if r["line"]:
+                continue
+            m = _AMOUNT_RE.match(r["speak"])
+            if not m:
+                continue
+            text = _INSTANCE_RE.sub("", m.group(2)).strip()
+            letter = m.group(1)
+            if letter not in out or len(text) > len(out[letter][0]):
+                out[letter] = (text, int(r["page"] or 1))
+    return out
+
+
 def emitted_forms() -> set[str]:
     """The forms ca-tax carries captions for, by PDF file key (`T2SCH03`, `T661`).
 
@@ -221,6 +251,27 @@ def main() -> int:
         out.append(f"export const {const}_BY_LINE: ReadonlyMap<string, GeneratedCaption> =")
         out.append(f"  new Map({const}.map((c) => [c.line, c]));")
         out.append("")
+
+        amounts = lettered_amounts(stem)
+        if amounts:
+            out.append("/**")
+            out.append(" * The form's lettered amounts (\"Amount 1D\"): subtotals and inputs that have a")
+            out.append(" * letter and no line number. They are never transmitted, but the arithmetic of")
+            out.append(" * the numbered lines runs through them, so a rule cannot be followed without them.")
+            out.append(" */")
+            out.append("export interface GeneratedAmount {")
+            out.append("  letter: string;")
+            out.append("  /** CRA's description of the box, which states its arithmetic where it has any. */")
+            out.append("  description: string;")
+            out.append("  page: number;")
+            out.append("}")
+            out.append("")
+            out.append(f"export const {const.replace('_CAPTIONS', '_AMOUNTS')}: readonly GeneratedAmount[] = [")
+            for letter, (text, page) in amounts.items():
+                esc = text.replace("\\", "\\\\").replace("'", "\\'")
+                out.append(f"  {{ letter: '{letter}', description: '{esc}', page: {page} }},")
+            out.append("];")
+            out.append("")
 
         dest = DEST_DIR / f"{name}.captions.ts"
         dest.write_text("\n".join(out), encoding="utf8", newline="\n")

@@ -176,13 +176,18 @@ One thing it found in CRA's own documents: Schedule 2 E (23) still sends the
 gifts-of-medicine deduction to line 315 of the T2 return, and the 2026 jacket
 has no line 315.
 
-**To extend check 3 to another schedule**, its engine module has to expose its
-figures by line number, the way `computeSchedule3DividendsPaid` returns
-`line460`. Most T2 modules return named figures instead, and the T2 payload
-builders transmit only a handful of lines per schedule. That is the real limit
-on how much of the engine can be checked this way today, and the next thing to
-change: one schedule at a time, give the result a line-keyed view, then add it
-to the test.
+Since then the check follows the lettered subtotals too (the generated
+captions export each form's lettered amounts), and
+`tests/t2-engine-against-forms.test.ts` in ca-tax runs the engine against the
+forms for Schedule 2 (line 280 and amount 1D) and Schedule 53 (lines 490 and
+590). Its first run found that line 590 was being filed after the year's
+eligible dividends instead of before them.
+
+**To add a schedule**: hand `evaluateFromRules` the figures the engine was
+given, by line number; pin any figure the form computes with a rate (those are
+not parsed); name the line the engine's result corresponds to; assert they are
+equal. Schedules 3, 2 and 53 are done. Schedule 4 (the five loss pools) and
+Schedule 7 are the next ones whose rules parse.
 
 The rule-book adapter (emitting these rules in the AT1 rule-book row schema, so
 `knowledge-base/formulas/t2/<form>.md` exists like the AT1 pages) is not built.

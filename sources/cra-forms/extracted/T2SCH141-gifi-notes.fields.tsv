@@ -1,0 +1,59 @@
+page	part	field	line	kind	digits	speak
+1	Info_sf	Info_inpt-Name		text		Corporation's name.
+1	Info_sf	Info_inpt-BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Info_sf/Info_grp-FYE	Info_grp_inpt		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/Line_111_sf/P1_Frm_Ln111_cbGrp	cb	111	check		Line 111. Can you identify the person specified in the heading of Part 1? Yes.
+1	P1_sf/Line_111_sf/P1_Frm_Ln111_cbGrp	cb	111	check		Line 111. Can you identify the person specified in the heading of Part 1? No. If you answered no, go to Part 2.
+1	P1_sf/Line_095_sf/P1_Frm_Ln095_cbGrp	cb	095	check		Line 095. Does that person have a professional designation in accounting? Yes.
+1	P1_sf/Line_095_sf/P1_Frm_Ln095_cbGrp	cb	095	check		Line 095. Does that person have a professional designation in accounting? No.
+1	P1_sf/Line_097_sf/P1_Frm_Ln097_cbGrp	cb	097	check		Line 097. Is that person connected with the corporation? Yes.
+1	P1_sf/Line_097_sf/P1_Frm_Ln097_cbGrp	cb	097	check		Line 097. Is that person connected with the corporation? No.
+1	P2_sf/P2_Ln300_sf	CheckBox300	300	check		Line 300. Completed an auditor's report.
+1	P2_sf/P2_Ln301_sf	CheckBox301	301	check		Line 301. Completed a review engagement report.
+1	P2_sf/P2_Ln302_sf	CheckBox302	302	check		Line 302. Conducted a compilation engagement.
+1	P2_sf/P2_Ln303_sf	CheckBox303	303	check		Line 303. Provided accounting services.
+1	P2_sf/P2_Ln304_sf	CheckBox304	304	check		Line 304. Provided bookkeeping services.
+1	P2_sf/P2_Ln305_sf	Ln305_inpt	305	text		Line 305. Other. Please specify.
+1	P3_sf/P3_Frm_Ln099_cbGrp	cb	099	check		Line 099. If you selected option 1 or 2 in Part 2 above, answer the following question. Has the person referred to in Part 1 expressed a reservation? Yes.
+1	P3_sf/P3_Frm_Ln099_cbGrp	cb	099	check		Line 099. If you selected option 1 or 2 in Part 2 above, answer the following question. Has the person referred to in Part 1 expressed a reservation? No.
+1	P4_sf/P4_Frm_Ln101_cbGrp	cb	101	check		Line 101. Were notes to the financial statements prepared? Yes.
+1	P4_sf/P4_Frm_Ln101_cbGrp	cb	101	check		Line 101. Were notes to the financial statements prepared? No.
+1	P4_sf/P4_Frm_Ln104_cbGrp	cb	104	check		Line 104. Did the corporation have any subsequent events? Yes.
+1	P4_sf/P4_Frm_Ln104_cbGrp	cb	104	check		Line 104. Did the corporation have any subsequent events? No.
+1	P4_sf/P4_Frm_Ln105_cbGrp	cb	105	check		Line 105. Did the corporation re-evaluate its assets during the tax year? Yes.
+1	P4_sf/P4_Frm_Ln105_cbGrp	cb	105	check		Line 105. Did the corporation re-evaluate its assets during the tax year? No.
+1	P4_sf/P4_Frm_Ln106_cbGrp	cb	106	check		Line 106. Did the corporation have any contingent liabilities during the tax year? Yes.
+1	P4_sf/P4_Frm_Ln106_cbGrp	cb	106	check		Line 106. Did the corporation have any contingent liabilities during the tax year? No.
+1	P4_sf/P4_Frm_Ln107_cbGrp	cb	107	check		Line 107. Did the corporation have any commitments during the tax year? Yes.
+1	P4_sf/P4_Frm_Ln107_cbGrp	cb	107	check		Line 107. Did the corporation have any commitments during the tax year? No.
+1	P4_sf/P4_Frm_Ln108_cbGrp	cb	108	check		Line 108. Does the corporation have investments in joint ventures or partnerships? Yes.
+1	P4_sf/P4_Frm_Ln108_cbGrp	cb	108	check		Line 108. Does the corporation have investments in joint ventures or partnerships? No.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	P4c_sf/P4c_Frm_Ln200_cbGrp	cb	200	check		Line 200. In any of the following assets, was an amount recognized in net income or other comprehensive income as a result of an impairment loss in the tax year, a reversal of an impairment loss recognized in a previous tax year, or a change in fair value during the tax year? Yes. If yes, enter the amount recognized.
+2	P4c_sf/P4c_Frm_Ln200_cbGrp	cb	200	check		Line 200. In any of the following assets, was an amount recognized in net income or other comprehensive income as a result of an impairment loss in the tax year, a reversal of an impairment loss recognized in a previous tax year, or a change in fair value during the tax year? No.
+2	P4c_sf	P4c_Frm_Ln1_inpt1	210	numeric	12	Line 210. Amount recognized in net income. Increase or decrease. Property, plant, and equipment.
+2	P4c_sf	P4c_Frm_Ln1_inpt2	211	numeric	12	Line 211. Amount recognized in other comprehensive income. Increase or decrease. Property, plant, and equipment.
+2	P4c_sf	P4c_Frm_Ln2_inpt1	215	numeric	12	Line 215. Amount recognized in net income. Increase or decrease. Intangible assets.
+2	P4c_sf	P4c_Frm_Ln2_inpt2	216	numeric	12	Line 216. Amount recognized in other comprehensive income. Increase or decrease. Intangible assets.
+2	P4c_sf	P4c_Frm_Ln220_inpt	220	numeric	12	Line 220. Amount recognized in net income. Increase or decrease. Investment property.
+2	P4c_sf	P4c_Frm_Ln225_inpt	225	numeric	12	Line 225. Amount recognized in net income. Increase or decrease. Biological assets.
+2	P4c_sf	P4c_Frm_Ln3_inpt1	230	numeric	12	Line 230. Amount recognized in net income. Increase or decrease. Financial instruments.
+2	P4c_sf	P4c_Frm_Ln3_inpt2	231	numeric	12	Line 231. Amount recognized in other comprehensive income. Increase or decrease. Financial instruments.
+2	P4c_sf	P4c_Frm_Ln4_inpt1	235	numeric	12	Line 235. Amount recognized in net income. Increase or decrease. Other.
+2	P4c_sf	P4c_Frm_Ln4_inpt2	236	numeric	12	Line 236. Amount recognized in other comprehensive income. Increase or decrease. Other.
+2	P4c_sf/P4c_Frm_Ln250_cbGrp	cb	250	check		Line 250. Did the corporation derecognize any financial instruments during the tax year, other than trade receivables? Yes.
+2	P4c_sf/P4c_Frm_Ln250_cbGrp	cb	250	check		Line 250. Did the corporation derecognize any financial instruments during the tax year, other than trade receivables? No.
+2	P4c_sf/P4c_Frm_Ln255_cbGrp	cb	255	check		Line 255. Did the corporation apply hedge accounting during the tax year? Yes.
+2	P4c_sf/P4c_Frm_Ln255_cbGrp	cb	255	check		Line 255. Did the corporation apply hedge accounting during the tax year? No.
+2	P4c_sf/P4c_Frm_Ln260_cbGrp	cb	260	check		Line 260. Did the corporation discontinue hedge accounting during the tax year? Yes.
+2	P4c_sf/P4c_Frm_Ln260_cbGrp	cb	260	check		Line 260. Did the corporation discontinue hedge accounting during the tax year? No.
+2	P4c_sf/P4c_Frm_Ln265_cbGrp	cb	265	check		Line 265. Was an amount included in the opening balance of retained earnings or equity, in order to correct an error, to recognize a change in accounting policy, or to adopt a new accounting standard in the current tax year? Yes. If yes, you have to maintain a separate reconciliation.
+2	P4c_sf/P4c_Frm_Ln265_cbGrp	cb	265	check		Line 265. Was an amount included in the opening balance of retained earnings or equity, in order to correct an error, to recognize a change in accounting policy, or to adopt a new accounting standard in the current tax year? No.
+2	P5_sf/P5_Ln310_sf	CheckBox310	310	check		Line 310. Prepared the T2 return and the financial information contained therein.
+2	P5_sf/P5_Ln311_sf	CheckBox311	311	check		Line 311. The client provided the financial statements.
+2	P5_sf/P5_Ln312_sf	CheckBox312	312	check		Line 312. The client provided a trial balance.
+2	P5_sf/P5_Ln313_sf	CheckBox313	313	check		Line 313. The client provided a general ledger.
+2	P5_sf/P5_Ln314_sf	Ln314_inpt	314	text		Line 314. Other. Please specify.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		

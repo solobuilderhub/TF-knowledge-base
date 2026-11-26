@@ -1,0 +1,574 @@
+                                                     Resource-Related Deductions                                                                                  Schedule 12
+                                                        (2025 and later tax years)                                                                                        Code 2501
+
+Corporation's name                                                                                                        Business number      Protected B when completed
+
+                                                                                                                                                            Tax year-end
+                                                                                                                                                        Year Month Day
+
+· Use this schedule to claim resource-related deductions if your corporation incurs these expenses.
+· Complete the appropriate parts of this schedule and report any amounts you calculate on the corresponding lines of Schedule 1, Net Income (Loss) for
+
+  Income Tax Purposes:
+
+     line 340: Canadian development expenses from Part 5 of this schedule
+     line 341: Canadian exploration expenses from Part 4 of this schedule
+     line 342: Canadian oil and gas property expenses from Part 6 of this schedule
+     line 344: depletion from Part 3 of this schedule, or
+     line 345: foreign exploration and development expenses from Part 7 of this schedule (line 345 includes specified foreign exploration and development
+
+                 expenses from Part 8 of this schedule and foreign resource expenses from Part 9 of this schedule)
+
+· All legislative references are to the Income Tax Act and the Income Tax Regulations.
+· The earned depletion base is defined in subsection 1205(1) of the Regulations, and the mining exploration depletion base is defined in subsection 1203(2) of
+
+  the Regulations. You will find the rules for claiming an earned depletion allowance in section 1201 and subsection 1202(2) of the Regulations, and the rules
+  for mining exploration depletion allowance are found in subsection 1203(1) of the Regulations.
+
+· Expenses incurred by the corporation are referred to as "Regular expenses" and expenses incurred by the predecessor corporation that a successor
+
+  corporation is entitled to claim are referred to as "Successor expenses".
+
+· Include a completed copy of this schedule with your T2 Corporation Income Tax Return. If you need more space, attach additional schedules.
+
+    Part 1 ­ Continuity of earned depletion base
+
+                                                                                                                          Regular expenses                                             Successor expenses
+
+Balance at end of previous tax year                                                                       101                                  126
+
+Add: amount transferred on amalgamation or windup of subsidiary 1                                         105                                  130
+
+Add: amount transferred other than on amalgamation or windup of subsidiary                                                                     132
+
+Deduct: amount transferred on sale of resource property to successor                                      110                                  135
+
+Amount available 2                                                                                                                          A                                                              B
+
+Deduct: claim for the year under Regulation 1202(2)                                                                                            140
+
+Deduct: claim for the year under Regulation 1201                                                          115
+
+Closing balance                                                                                           120                                  145
+
+1 The earned depletion base transferred on amalgamation or windup to which subsections 87(1.2) and 88(1.5) apply should be entered in the "Regular
+  expenses" column if the expenses were regular expenses in the hands of the amalgamating company or the subsidiary being wound up.
+
+2 If amount A is negative, enter "0" on lines 115 and 120. If amount B is negative, enter "0" on lines 140 and 145.
+
+Part 2 ­ Continuity of mining exploration depletion base
+
+Balance at end of previous tax year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+
+Add:
+
+Amount transferred on amalgamation or windup of subsidiary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 155
+
+Amount transferred other than on amalgamation or windup of subsidiary . . . . . . . . . . . . . . . . . . . . 160
+
+                                                                      Subtotal (line 155 plus line 160)                                                                                                    2A
+
+                                                                            Subtotal (line 150 plus amount 2A)                                                                                             2B
+
+Deduct: Amount transferred on sale of resource property to successor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+
+Amount available (amount 2B minus line 165) 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                          2C
+
+Deduct: claim for the year under Regulation 1203(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170
+
+Closing balance (amount 2C minus line 170) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 175
+
+3 If amount 2C is negative, enter "0" on lines 170 and 175.
+
+Part 3 ­ Depletion
+
+Claim for the year under Regulation 1201 (line 115 from Part 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                3A
+
+Claim for the year under Regulation 1202(2) (line 140 from Part 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                 3B
+
+Claim for the year under Regulation 1203(1) (line 170 from Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                 3C
+
+Depletion (add amounts 3A, 3B and 3C) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      3D
+
+Enter amount 3D on line 344 of Schedule 1.
+
+T2 SCH 12 E (26)                                             (Ce formulaire est disponible en français.)                  Page 1 of 9
+                                                                                                                  Protected B when completed
+
+   Part 4 ­ Cumulative Canadian exploration expenses                                         Regular expenses          Successor expenses
+                                                                                       200                        250
+Balance at end of previous tax year                                                    205
+Add: current-year expenses, excluding expenses incurred under look-back rule           206                        255
+Add: current-year expenses under look-back rule [subsection 66(12.66)]                 210                        260
+Add: reclassified Canadian development expenses under subsections 66.1(9) and 66.7(9)  215                        265
+Add: amount transferred on amalgamation or windup of subsidiary 4
+Add: amount transferred other than on amalgamation or windup of subsidiary             217                        280
+Add: Canadian renewable and conservation expenses                                      220                        290
+Add: other additions                                                                   225
+Deduct: government assistance and grants                                               230
+Deduct: other deductions or transfers                                                  240
+Deduct: amount transferred on disposition of resource property to successor            243
+Deduct: current and previous-year Canadian exploration expenses renounced in the year
+                                                                                       244
+            under a flow-through share agreement
+Deduct: expenses renounced under look-back rule [subsection 66(12.66)]                                         C                                                                 D
+Amount available 5
+Deduct: current-year claim under subsections 66.1(2) or 66.1(3) and 66.7(3) 6          245                        295
+Closing balance
+                                                                                       249                        299
+
+Claim for the year under subsections 66.1(2) or 66.1(3) (from line 245) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          4A
+
+Claim for the year under subsection 66.7(3) (from line 295) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4B
+
+Canadian exploration expenses (amount 4A plus amount 4B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               4C
+
+Enter amount 4C on line 341 of Schedule 1.
+
+4 Canadian exploration expenses transferred on amalgamation or windup to which subsections 87(1.2) and 88(1.5) apply should be entered in the
+  "Regular expenses" column if the expenses were regular expenses in the hands of the amalgamating company or the subsidiary being wound up.
+
+5 If amount C is negative, include it as income in the "Other additions" area on page 3 of Schedule 1 and enter "0" at lines 245 and 249.
+  If amount D is negative, include it as income in the "Other additions" area on page 3 of Schedule 1 and enter "0" at lines 295 and 299.
+
+6 The maximum deduction is amount C plus the lesser of:
+
+ ­ amount D, and
+ ­ the amount determined under paragraph 66.7(3)(b), which, in most cases, will be the income attributable to the disposition of successored
+
+     properties and the production income from successored properties.
+
+T2 SCH 12 E (26)                                                                                                                                                                 Page 2 of 9
+                                                                                                                                                                               Protected B when completed
+
+Part 5 ­ Cumulative Canadian development expenses
+
+                                                                                                    Regular expenses                                                           Successor expenses
+
+Balance at end of previous tax year                                                        300                            350
+
+Add: current-year expenses, excluding expenses incurred under look-back rule               303
+
+Add: current-year expenses under look-back rule [subsection 66(12.66)]                     304
+
+Add: amount transferred on amalgamation or windup of subsidiary 7                          305                            355
+
+Add: amount transferred other than on amalgamation or windup of subsidiary                                                357
+
+Add: other additions                                                                       310
+
+Deduct: reclassified Canadian development expenses under subsections 66.1(9) and 66.7(9)   315                            365
+
+Deduct: government assistance and grants                                                   320
+
+Deduct: receivable on disposition of underground oil and gas storage rights or mining property 325
+
+Deduct: credit balance in the cumulative Canadian oil and gas property expense pool        330                            380
+
+Deduct: other deductions or transfers                                                      335                            385
+
+Deduct: amount transferred on disposition of resource property to successor                340                            390
+
+Deduct: current and previous-year Canadian development expenses renounced in the year      343
+
+under a flow-through share agreement
+
+Deduct: expenses renounced under look-back rule [subsection 66(12.66)]                     344
+
+Amount available 8                                                                                                    E                                                                            F
+
+Accelerated Canadian development expenses (ACDE) incurred during the tax year (included in 346
+current-year expenses) 9
+
+Total current-year additions (total of lines 303, 304 and 310)                             347
+
+Additions other than ACDE (line 347 minus line 346)                                                                   G
+
+Total current-year deductions (total of lines 315, 320, 325, 330, 335, 343 and 344)        370
+
+Total current-year deductions less additions other than ACDE (line 370 minus amount G, if                             H
+
+negative enter "0")
+
+Adjusted ACDE (line 346 minus amount H, if negative enter "0")                                                        I
+
+Reaccelerated Canadian development expenses (RCDE) incurred during the tax year (included in 372
+current-year expenses) 10
+
+Additions other than RCDE (line 347 minus line 372)                                                                   AA
+
+Total current-year deductions less additions other than RCDE (line 370 minus                                          BB
+
+amount AA, if negative enter "0")
+
+Adjusted RCDE (line 372 minus amount BB)                                                                              CC
+
+Deduct: current-year claim under subsections 66.2(2) and 66.7(4) 11                        345                            395
+
+Closing balance                                                                            349                            399
+
+Claim for the year under subsection 66.2(2) (from line 345) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      5A
+
+Claim for the year under subsection 66.7(4) (from line 395) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      5B
+
+Canadian development expenses (amount 5A plus amount 5B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                     5C
+
+Enter amount 5C on line 340 of Schedule 1.
+
+7 Canadian development expenses transferred on amalgamation or windup to which subsections 87(1.2) and 88(1.5) apply should be entered in the
+  "Regular expenses" column if the expenses were regular expenses in the hands of the amalgamating company or the subsidiary being wound up.
+
+8 ­ When there is no designation under subparagraph 66.7(4)(a)(iii) and amount F is negative, enter it on line 335 and enter "0" on
+
+      lines 395 and 399.
+
+      When a designation under subparagraph 66.7(4)(a)(iii) has been made and amount F is negative, enter it on line 440 in Part 6, and enter
+      "0" on lines 395 and 399. If this results in amount J of Part 6 being negative, enter that amount on line 330.
+
+  ­ If amount E is negative, include it as income in the "Other additions" area on page 3 of Schedule 1 and enter "0" on lines 345 and 349.
+
+9 An ACDE is generally a Canadian development expense incurred by the taxpayer after November 20, 2018, and before 2025, subject to certain
+  exceptions. See Guide T4012, T2 Corporation ­ Income Tax for more information.
+
+10 An RCDE is generally a Canadian development expense incurred by the taxpayer after 2024, and before 2034, subject to certain exceptions.
+   See Guide T4012 for more information.
+
+11 The maximum deduction is 30% of amount E plus 7.5% of amount I plus 15% of amount CC plus the lesser of:
+
+  ­ 30% of amount F, and
+  ­ the amount determined under paragraph 66.7(4)(b).
+
+   For a tax year of less than 51 weeks, 30% and 7.5% are prorated based on the number of days in the tax year divided by 365.
+
+T2 SCH 12 E (26)                                                                                                                                                               Page 3 of 9
+                                                                                                                                                                               Protected B when completed
+
+  Part 6 ­ Cumulative Canadian oil and gas property expenses                                        Regular expenses                    Successor expenses
+                                                                                              400                                  450
+Balance at end of previous tax year                                                           405
+Add: current-year expenses
+Add: amount transferred on amalgamation or windup of subsidiary 12                            410                                  455
+Add: amount transferred other than on amalgamation or windup of subsidiary
+Add: other additions                                                                                                               460
+Deduct: receivable on disposition of Canadian oil and gas property
+Deduct: government assistance and grants                                                      415
+Deduct: amount transferred on disposition of resource property to successor
+Deduct: other deductions or transfers                                                         420                                  470
+Amount available 13
+Accelerated Canadian oil and gas property expenses (ACOGPE) incurred during the tax year      425
+(included in current-year expenses) 14
+Total current-year additions (total of lines 405 and 415)                                     435                                  485
+Additions other than ACOGPE (line 447 minus line 446)
+Total current-year deductions (total of lines 420, 425 and 440)                               440                                  490
+Total current-year deductions less additions other than ACOGPE (line 451 minus amount L, if
+negative enter "0")                                                                                                   J                                                        K
+Adjusted ACOGPE (line 446 minus amount M, if negative enter "0")
+Reaccelerated Canadian oil and gas property expenses (RCOGPE) incurred during the tax year    446
+(included in current-year expenses) 15
+Additions other than RCOGPE (line 447 minus line 453)                                         447
+Total current-year deductions less additions other than RCOGPE (line 451 minus amount DD, if                                    L
+negative enter "0")
+Adjusted RCOGPE (line 453 minus amount EE)                                                    451
+Deduct: current-year claim under subsections 66.4(2) and 66.7(5) 16                                                             M
+Closing balance
+                                                                                                                                N
+                                                                                              453
+
+                                                                                                                      DD
+                                                                                                                      EE
+
+                                                                                                                      FF
+
+                                                                                              445                                  495
+
+                                                                                              449                                  499
+
+Claim for the year under subsection 66.4(2) (from line 445) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6A
+
+Claim for the year under subsection 66.7(5) (from line 495) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6B
+
+Canadian oil and gas property expenses (amount 6A plus amount 6B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    6C
+
+Enter amount 6C on line 342 of Schedule 1.
+
+12 Canadian oil and gas property expenses transferred on amalgamation or windup to which subsections 87(1.2) and 88(1.5) apply should be entered in the
+   "Regular expenses" column if the expenses were regular expenses in the hands of the amalgamating company or the subsidiary being wound up.
+
+13 (a) When there is no designation under subparagraph 66.7(4)(a)(iii) and amount K is negative, enter it on line 440 and enter "0" on lines 495 and 499. If this
+       results in amount J becoming negative, enter that amount on line 335 in Part 5, and enter "0" on lines 445 and 449.
+
+       When a designation under subparagraph 66.7(4)(a)(iii) has been made and amount K is negative, enter it on line 380 in Part 5, and enter "0" on lines 495
+       and 499. If amount F in Part 5 becomes negative, enter that amount on line 440. If this results in amount J in Part 6 becoming negative, enter that amount
+       on line 330 in Part 5.
+
+   (b) When amount J is negative due to other than (a) above, enter the amount on line 330 in Part 5 and enter "0" on lines 445 and 449.
+
+14 An ACOGPE is generally a Canadian oil and gas property expense incurred by the taxpayer after November 20, 2018, and before 2025, subject to certain
+   exceptions. See Guide T4012 for more information.
+
+15 An RCOGPE is generally a Canadian oil and gas property expense incurred by the taxpayer after 2024, and before 2034, subject to certain exceptions. See
+   Guide T4012 for more information.
+
+16 The maximum deduction is 10% of amount J plus 2.5% of amount N plus 5% of amount FF plus the lesser of:
+
+   ­ 10% of amount K, and
+   ­ the amount determined under paragraph 66.7(5)(b)
+
+   For a tax year of less than 51 weeks, 10% and 2.5% are prorated based on the number of days in the tax year divided by 365.
+
+T2 SCH 12 E (26)                                                                                                                                                               Page 4 of 9
+                                                                                                                              Protected B when completed
+
+Part 7 ­ Foreign exploration and development expenses
+
+Foreign exploration and development expenses are those incurred outside Canada in a tax year beginning before 2001. If the expenses are specified foreign
+exploration and development expenses, complete Part 8.
+
+Balance at end of previous tax year                                               Regular expenses                                 Successor expenses
+Add: amount transferred on amalgamation or windup of subsidiary 17          500                                               550
+Add: amount transferred other than on amalgamation or windup of subsidiary
+Deduct: other deductions or transfers                                       510                                               555
+Amount available 18
+Deduct: current-year claim under subsections 66(4) and 66.7(2) 19                                                             560
+Closing balance
+                                                                            515                                               565
+
+                                                                                                                           O                                                                  P
+
+                                                                            520                                               570
+
+                                                                            525                                               575
+
+17 Foreign exploration and development expenses transferred on amalgamation or windup to which subsections 87(1.2) and 88(1.5) apply
+   should be entered in the "Regular expenses" column if the expenses were regular expenses in the hands of the amalgamating company or
+   the subsidiary being wound up.
+
+18 If amount O is negative, include it as income in the "Other additions" area on page 3 of Schedule 1 and enter "0" on lines 520 and 525.
+   If amount P is negative, include it as income in the "Other additions" area on page 3 of Schedule 1 and enter "0" on lines 570 and 575.
+
+19 The maximum deduction for regular expenses is the lesser of:
+
+    ­ amount O, and
+    ­ the greater of foreign-source resource income and 10% of amount O.
+
+   For a fiscal period of less than 51 weeks, 10% is prorated based on the number of days in the tax year divided by 365.
+
+   The maximum deduction for successor expenses is the lesser of:
+
+   ­ amount P, and
+   ­ foreign-source resource income attributable to successored properties.
+
+Foreign-source resource income includes income from oil and gas wells or mines outside Canada and proceeds, less applicable
+expenses and reserves on the disposition of foreign resource property.
+
+                                                                                 Regular expenses                                                                         Successor expenses
+
+Foreign-source resource income                                              530                                               580
+
+Claim for the year under subsection 66(4) for foreign exploration and development expenses (from line 520) . . . . . . . . . . . . . . . . . . .                                              7A
+
+Claim for the year under subsection 66.7(2) for foreign exploration and development expenses (from line 570) . . . . . . . . . . . . . . . . . .                                              7B
+
+Claim for the year under subsection 66(4) for specified foreign exploration and development expenses (amount Q from Part 8) . . . . .                                                         7C
+
+Claim for the year under subsection 66.7(2) for specified foreign exploration and development expenses (amount R from Part 8) . . .                                                           7D
+
+Claim for the year under subsection 66.21(4) (amount S from Part 9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       7E
+
+Claim for the year under subsection 66.7(2.3) (amount T from Part 9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      7F
+
+Foreign exploration and development expenses and cumulative foreign resources expenses (total of amounts 7A to 7F) . . . .                                                                    7G
+
+Enter amount 7G on line 345 of Schedule 1.
+
+T2 SCH 12 E (26)                                                                                                                                                          Page 5 of 9
+                                                                                                                                                 Protected B when completed
+
+  Part 8 ­ Specified foreign exploration and development expenses
+
+Specified foreign exploration and development expenses are foreign exploration and development expenses incurred in a tax year beginning before 2001 and that relate to a specific foreign country. The
+previous-year expenses incurred and the current-year claim must be sourced to the country they relate to. If an expense incurred was for two or more countries, allocate a reasonable expense to each
+country and use that allocation consistently in the following years.
+
+                Regular expenses
+
+                    1                 2              3                4             5                 6                          7                 8                                                    9
+                                                             Other additions
+     Country in which regular   Balance at       Amount                          Other      Amount available             Current-year    Closing balance                                            Foreign
+     expenses were incurred     the end of   transferred on                   deductions     (column 2 plus                 claim per    (column 6 minus                                           resource
+                               the previous  amalgamation                     or transfers   column 3 plus                                                                                         income 23
+                                 tax year     or windup of                                  column 4 minus             subsection 66(4)      column 7)
+                                              subsidiary 20
+                                                                                               column 5) 21                         22
+
+                  601          600           610             611              615                                      620                  625                                                    630
+
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
+ 8.
+ 9.
+10.
+
+                                                                              Claim for the year per subsection 66(4)                    Q
+
+20 Specified foreign exploration and development expenses transferred on amalgamation or windup to which subsections 87(1.2) and 88(1.5) apply should be entered in column 3 if the
+   expenses were regular expenses in the hands of the amalgamating company or the subsidiary being wound up.
+
+21 If an amount in column 6 is negative, include it as income in the "Other additions" area on page 3 of Schedule 1, and enter "0" in the corresponding row entries for lines 620 and 625.
+
+22 The maximum deduction for regular expenses is the lesser of:
+
+  ­ the total of all amounts available in column 6, and
+  ­ the greater of the total of all amounts in column 9 and 10% of the total of all amounts available in column 6 (for a fiscal period of less than 51 weeks, 10% is prorated based on the number
+
+      of days in the tax year divided by 365).
+   The deduction claimed must be allocated to a particular country according to subsection 66(4.2).
+
+23 The amount in column 9 is the excess of foreign resource income over the amount claimed under subsection 66.7(2) and 66.7(2.3).
+
+T2 SCH 12 E (26)                                                                                                                                                                                        Page 6 of 9
+                                                                                                                                           Protected B when completed
+
+Part 8 ­ Specified foreign exploration and development expenses (continued)
+
+             Successor expenses
+
+                      1                 2              3               4            5       6                  7                      8                                                          9
+
+     Country in which successor   Balance at       Amount          Amount        Other      Amount available      Current-year     Closing balance                                          Foreign
+       expenses were incurred     the end of   transferred on    transferred  deductions     (column 2 plus          claim per     (column 6 minus                                          resource
+                                 the previous  amalgamation    other than on  or transfers   column 3 plus                                                                                   income
+                                   tax year     or windup of   amalgamation                 column 4 minus     subsection 66.7(2)      column 7)
+                                                                or windup of
+                                                 subsidiary      subsidiary                    column 5) 24                  25
+
+                  651            650           655             660            665                              670                    675                                                   680
+
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
+ 8.
+ 9.
+10.
+
+                                                                    Claim for the year per subsection 66.7(2)                      R
+
+24 If an amount in column 6 is negative, include it as income in the "Other additions" area on page 3 of Schedule 1, and enter "0" in the corresponding row entries for lines 670 and 675.
+
+25 The maximum deduction for successor expenses is the lesser of:
+
+  ­ the total of all amounts available in column 6, and
+  ­ the total of all amounts in column 9 attributable to successored properties [foreign resource income is calculated according to paragraph 66.7(2)(b)].
+
+   The deduction claimed must be allocated to each country according to subsection 66.7(2.2).
+
+T2 SCH 12 E (26)                                                                                                                                                                                 Page 7 of 9
+                                                                                                                                          Protected B when completed
+
+Part 9 ­ Cumulative foreign resource expenses
+
+Foreign resource expenses are those that relate to a country other than Canada and that have been incurred in a tax year beginning after 2000. This expense and its cumulative pool must be determined for
+each foreign country to which an expense relates. If an expense relates to two or more countries, determine a reasonable allocation of the expense to each country.
+
+     Regular expenses
+
+               1              2             3              4                5             6                 7              8                 9                                                          10
+                                                                   Other additions
+     Country in which   Balance at   Current-year      Amount                          Other      Amount available  Current-year  Closing balance                                                   Foreign
+     regular expenses   the end of     expenses    transferred on                   deductions     (column 2 plus     claim per   (column 7 minus                                                  resource
+                       the previous                amalgamation                     or transfers   column 3 plus     subsection                                                                income (loss) 29
+       were incurred     tax year                   or windup of                                   column 4 plus     66.21(4) 28      column 8)
+                                                    subsidiary 26                                 column 5 minus
+
+                                                                                                     column 6) 27
+
+     701               700           705           710             711              715                             720              725                                                       730
+                                                                                                                                                                                                 Page 8 of 9
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
+ 8.
+ 9.
+10.
+
+                                                                        Claim for the year per subsection 66.21(4)                S
+
+   26 Foreign resource expenses transferred on amalgamation or windup to which subsections 87(1.2) and 88(1.5) apply should be entered in column 4 if the expenses were regular expenses in
+      the hands of the amalgamating company or the subsidiary being wound up.
+
+   27 If an amount in column 7 is negative, include it as income in the "Other additions" area on page 3 of Schedule 1, and enter "0" in the corresponding row entries for lines 720 and 725.
+
+   28 The maximum deduction for regular expenses is the total of amount A and amount B where:
+
+     A = the greater of:
+          ­ 10% of the amount available in column 7, and
+          ­ the least of the following amounts:
+
+                    a) 30% of the amount available in column 7
+                    b) the foreign resource income in column 10 for the particular country calculated according to subparagraph 66.21(4)(a)(ii), or
+                    c) the total of all amounts in column 10.
+            For a fiscal period of less than 51 weeks, 10% and 30% are prorated based on the number of days in the tax year divided by 365.
+
+     B = the lesser of:
+          ­ the amount in column 7 minus amount A above, and
+          ­ the global foreign resource limit for the year designated for that country.
+
+   29 Column 10 is the excess of foreign resource income over the total of any amount designated under subparagraph 59(1)(b)(ii) and claimed under subsections 66(4), 66.7(2), and 66.7(2.3).
+
+T2 SCH 12 E (26)
+                                                                                                                                       Protected B when completed
+
+Part 9 ­ Cumulative foreign resource expenses (continued)
+
+          Successor expenses
+
+                 1                      2              3               4            5                 6                 7                8              9
+
+Country in which successor        Balance at       Amount          Amount        Other           Amount          Current-year  Closing balance     Foreign
+  expenses were incurred          the end of   transferred on    transferred  deductions         available         claim per   (column 6 minus     resource
+                                 the previous  amalgamation    other than on  or transfers  (column 2 plus        subsection                    income (loss)
+                                   tax year     or windup of   amalgamation                  column 3 plus                         column 7)
+                                                                or windup of                column 4 minus       66.7(2.3) 31
+                                                 subsidiary      subsidiary                   column 5) 30
+
+                            751  750           755             760            765                                770              775           780
+
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
+ 8.
+ 9.
+10.
+
+                                                                    Claim for the year per subsection 66.7(2.3)                T
+
+30 If an amount in column 6 is negative, include it as income in the "Other additions" area on page 3 of Schedule 1, and enter "0" in the corresponding row entries for lines 770 and 775.
+
+31 The maximum deduction for successor expenses is the lesser of:
+
+  ­ 30% of the amount available in column 6, and
+  ­ the foreign resource income in column 9 attributable to successored properties [foreign resource income is calculated according to paragraph 66.7(2.3)(b)].
+
+   For a fiscal period of less than 51 weeks, 30% is prorated based on the number of days in the tax year divided by 365.
+
+                                                                                                                                                                                                                                     See the privacy notice on your return.
+
+T2 SCH 12 E (26)                                                                                                                                     Page 9 of 9
+

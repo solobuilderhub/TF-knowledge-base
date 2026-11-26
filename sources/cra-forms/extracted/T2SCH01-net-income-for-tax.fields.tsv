@@ -1,0 +1,154 @@
+page	part	field	line	kind	digits	speak
+1	Ident	Corp_name		text		Corporation's name.
+1	Ident	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident/TY-end	Info_grp_Field		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_content/Amount_A	Input_A		numeric	12	Amount A. Net income or loss after taxes and extraordinary items from line 9999 of Schedule 125.
+1	P1_content/Line_101	Input_101	101	numeric	12	Line 101. Provision for income taxes – current.
+1	P1_content/Line_102	Input_102	102	numeric	12	Line 102. Provision for income taxes – deferred.
+1	P1_content/Line_103	Input_103	103	numeric	12	Line 103. Interest and penalties on taxes.
+1	P1_content/Line_104	Input_104	104	numeric	12	Line 104. Amortization of tangible assets.
+1	P1_content/Line_105	Input_105	105	numeric	12	Line 105. Amortization of natural resource assets.
+1	P1_content/Line_106	Input_106	106	numeric	12	Line 106. Amortization of intangible assets.
+1	P1_content/Line_107	Input_107	107	numeric	12	Line 107. Recapture of capital cost allowance from Schedule 8.
+1	P1_content/Line_110	Input_110	110	numeric	12	Line 110. Loss in equity of subsidiaries and affiliates.
+1	P1_content/Line_111	Input_111	111	numeric	12	Line 111. Loss on disposal of assets.
+1	P1_content/Line_112	Input_112	112	numeric	12	Line 112. Charitable donations and gifts from Schedule 2.
+1	P1_content/Line_113	Input_113	113	numeric	12	Line 113. Taxable capital gains from Schedule 6.
+1	P1_content/Line_114	Input_114	114	numeric	12	Line 114. Political contributions.
+1	P1_content/Line_115	Input_115	115	numeric	12	Line 115. Holdbacks.
+1	P1_content/Line_116	Input_116	116	numeric	12	Line 116. Deferred and prepaid expenses.
+1	P1_content/Line_117	Input_117	117	numeric	12	Line 117. Depreciation in inventory – end of year.
+1	P1_content/Line_118	Input_118	118	numeric	12	Line 118. Scientific research expenditures deducted per financial statements.
+1	P1_content/Line_119	Input_119	119	numeric	12	Line 119. Capitalized interest.
+1	P1_content/Line_120	Input_120	120	numeric	12	Line 120. Non-deductible club dues and fees.
+1	P1_content/Line_121	Input_121	121	numeric	12	Line 121. Non-deductible meals and entertainment expenses.
+1	P1_content/Line_122	Input_122	122	numeric	12	Line 122. Non-deductible automobile expenses.
+1	P1_content/Line_123	Input_123	123	numeric	12	Line 123. Non-deductible life insurance premiums.
+1	P1_content/Line_124	Input_124	124	numeric	12	Line 124. Non-deductible company pension plans.
+1	P1_content/Line_125	Input_125	125	numeric	12	Line 125. Other reserves on lines 270 and 275 from Schedule 13.
+1	P1_content/Line_126	Input_126	126	numeric	12	Line 126. Reserves from financial statements – balance at the end of the year.
+1	P1_content/Line_127	Input_127	127	numeric	12	Line 127. Soft costs on construction and renovation of buildings.
+1	P1_content/Line_128	Input_128	128	numeric	12	Line 128. Non-deductible fines and penalties under section 67.6.
+1	P1_content/Line_129	Input_129	129	numeric	12	Line 129. Income or loss for tax purposes – partnerships.
+1	P1_content/Line_130	Input_130	130	numeric	12	Line 130. Amounts calculated under section 34.2 from Schedule 73.
+1	P1_content/Line_131	Input_131	131	numeric	12	Line 131. Income shortfall adjustment and additional amount from Schedule 73.
+1	P1_content/Line_132	Input_132	132	numeric	12	Line 132. Income or loss for tax purposes – joint ventures.
+1	P1_content/Line_199	Input_199	199	numeric	12	Line 199. Amount D on page 3.
+1	P1_content/Line_500	Input1_500	500	numeric	12	Line 500. Total. Lines 101 to 199. Instance 1.
+1	P1_content/Line_500	Input2_500	500	numeric	12	Line 500. Instance 2.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	P2_content/Amount_B	Input_B		numeric	12	Amount B. Amount A plus line 500.
+2	P2_content/Line_401	Input_401	401	numeric	12	Line 401. Gain on disposal of assets per financial statements.
+2	P2_content/Line_402	Input_402	402	numeric	12	Line 402. Non-taxable dividends under section 83 from Schedule 3.
+2	P2_content/Line_403	Input_403	403	numeric	12	Line 403. Capital cost allowance from Schedule 8.
+2	P2_content/Line_404	Input_404	404	numeric	12	Line 404. Terminal loss from Schedule 8.
+2	P2_content/Line_406	Input_406	406	numeric	12	Line 406. Allowable business investment loss from Schedule 6.
+2	P2_content/Line_407	Input_407	407	numeric	12	Line 407. Foreign non-business tax deduction under subsection 20(12).
+2	P2_content/Line_408	Input_408	408	numeric	12	Line 408. Holdbacks.
+2	P2_content/Line_409	Input_409	409	numeric	12	Line 409. Deferred and prepaid expenses.
+2	P2_content/Line_410	Input_410	410	numeric	12	Line 410. Depreciation in inventory – end of prior year.
+2	P2_content/Line_411	Input_411	411	numeric	12	Line 411. Scientific research and experimental development (SR&ED) expenditures claimed in the year on line 460 from Form T661.
+2	P2_content/Line_413	Input_413	413	numeric	12	Line 413. Other reserves on line 280 from Schedule 13.
+2	P2_content/Line_414	Input_414	414	numeric	12	Line 414. Reserves from financial statements – balance at the beginning of the year.
+2	P2_content/Line_416	Input_416	416	numeric	12	Line 416. Patronage dividend deduction from Schedule 16.
+2	P2_content/Line_417	Input_417	417	numeric	12	Line 417. Contributions to deferred income plans from Schedule 15.
+2	P2_content/Line_418	Input_418	418	numeric	12	Line 418. Incorporation expenses under paragraph 20(1)(b).
+2	P2_content/Line_499	Input_499	499	numeric	12	Line 499. Amount E on page 4.
+2	P2_content/Line_510	Input1_510	510	numeric	12	Line 510. Total. Lines 401 to 499. Instance 1.
+2	P2_content/Line_510	Input2_510	510	numeric	12	Line 510. Instance 2.
+2	P2_content/Amount_C	Input_C		numeric	12	Amount C. Net income or loss for income tax purposes. Amount B minus line 510. Enter amount C on line 300 on page 3 of the T2 return.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	P3_content/Line_201	Input_201	201	numeric	12	Line 201. Accounts payable and accruals for cash basis – closing.
+3	P3_content/Line_202	Input_202	202	numeric	12	Line 202. Accounts receivable and prepaid for cash basis – opening.
+3	P3_content/Line_203	Input_203	203	numeric	12	Line 203. Accrual inventory – opening.
+3	P3_content/Line_204	Input_204	204	numeric	12	Line 204. Accrued dividends – prior year.
+3	P3_content/Line_206	Input_206	206	numeric	12	Line 206. Capital items expensed.
+3	P3_content/Line_208	Input_208	208	numeric	12	Line 208. Debt issue expense.
+3	P3_content/Line_209	Input_209	209	numeric	12	Line 209. Deemed dividend income.
+3	P3_content/Line_210	Input_210	210	numeric	12	Line 210. Deemed interest on loans to non-residents.
+3	P3_content/Line_211	Input_211	211	numeric	12	Line 211. Deemed interest received.
+3	P3_content/Line_212	Input_212	212	numeric	12	Line 212. Development expenses claimed in current year.
+3	P3_content/Line_213	Input_213	213	numeric	12	Line 213. Dividend stop-loss adjustment.
+3	P3_content/Line_214	Input_214	214	numeric	12	Line 214. Dividends credited to the investment account.
+3	P3_content/Line_215	Input_215	215	numeric	12	Line 215. Exploration expenses claimed in current year.
+3	P3_content/Line_216	Input_216	216	numeric	12	Line 216. Financing fees deducted in books.
+3	P3_content/Line_217	Input_217	217	numeric	12	Line 217. Foreign accrual property income.
+3	P3_content/Line_218	Input_218	218	numeric	12	Line 218. Foreign affiliate property income.
+3	P3_content/Line_219	Input_219	219	numeric	12	Line 219. Foreign exchange included in retained earnings.
+3	P3_content/Line_220	Input_220	220	numeric	12	Line 220. Gain on settlement of debt.
+3	P3_content/Line_221	Input_221	221	numeric	12	Line 221. Interest paid on income debentures.
+3	P3_content/Line_222	Input_222	222	numeric	12	Line 222. Limited partnership losses from Schedule 4.
+3	P3_content/Line_224	Input_224	224	numeric	12	Line 224. Mandatory inventory adjustment – included in current year.
+3	P3_content/Line_226	Input__226	226	numeric	12	Line 226. Non-deductible advertising.
+3	P3_content/Line_227	Input_227	227	numeric	12	Line 227. Non-deductible interest.
+3	P3_content/Line_228	Input_228	228	numeric	12	Line 228. Non-deductible legal and accounting fees.
+3	P3_content/Line_229	Input_229	229	numeric	12	Line 229. Optional value of inventory – included in current year.
+3	P3_content/Line_230	Input_230	230	numeric	12	Line 230. Other expenses from financial statements.
+3	P3_content/Line_231	Input_231	231	numeric	12	Line 231. Recapture of SR&ED expenditures from Form T661.
+3	P3_content/Line_232	Input_232	232	numeric	12	Line 232. Resource amounts deducted.
+3	P3_content/Line_233	Input_233	233	numeric	12	Line 233. Restricted farm losses – current year from Schedule 4.
+3	P3_content/Line_234	Input_234	234	numeric	12	Line 234. Sales tax assessments.
+3	P3_content/Line_235	Input_235	235	numeric	12	Line 235. Share issue expense.
+3	P3_content/Line_236	Input_236	236	numeric	12	Line 236. Write-down of capital property.
+3	P3_content/Line_237	Input_237	237	numeric	12	Line 237. Amounts received in respect of qualifying environmental trust per paragraphs 12(1)(z.1) and 12(1)(z.2).
+3	P3_content/Line_238	Input_238	238	numeric	12	Line 238. Contractors' completion method adjustment. Revenue net of costs on contracts under two years – previous year.
+3	P3_content/Line_239	Input_239	239	numeric	12	Line 239. Taxable/non-deductible other comprehensive income items.
+3	P3_content/Line_248	Input_248	248	numeric	12	Line 248. Book loss of joint ventures.
+3	P3_content/Line_249	Input_249	249	numeric	12	Line 249. Book loss of partnerships.
+3	P3_content/Line_250	Input_250	250	numeric	12	Line 250. Hybrid mismatch amount under subsection 18.4(4) or 12.7(3).
+3	P3_content/Line_251	Input_251	251	numeric	12	Line 251. Excess interest and financing expenses (IFE) under subsection 18.2(2) from Schedule 130.
+3	P3_content/Line_252	Input_252	252	numeric	12	Line 252. Partnership IFE add-back under paragraph 12(1)(l.2) from Schedule 130.
+3	P3_content/Line_253	Input_253	253	numeric	12	Line 253. Non-deductible interest under subsection 18(4).
+3	P3_content/Line_254	Input_254	254	numeric	12	Line 254. Partnership interest deduction add-back under paragraph 12(1)(l.1).
+3	P3_content/P3_table/Row1	Cell1		text		
+3	P3_content/P3_table/Row1	Cell2		numeric	12	
+3	P3_content/P3_table/Row2	Cell1		text		
+3	P3_content/P3_table/Row2	Cell2		numeric	12	
+3	P3_content/P3_table/Row3	Cell1		text		
+3	P3_content/P3_table/Row3	Cell2		numeric	12	
+3	P3_content/P3_table/Row4	Cell1		text		
+3	P3_content/P3_table/Row4	Cell2		numeric	12	
+3	P3_content/Line_296	Input1_296	296	numeric	12	Line 296. Total of column 2. Instance 1.
+3	P3_content/Line_296	Input2_296	296	numeric	12	Line 296. Instance 2.
+3	P3_content/Amount_D	Input_D		numeric	12	Amount D. Total of lines 201 to 254 and line 296. Enter amount D on line 199 on page 1.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	P4_content/Line_300	Input_300	300	numeric	12	Line 300. Accounts payable and accruals for cash basis – opening.
+4	P4_content/Line_301	Input_301	301	numeric	12	Line 301. Accounts receivable and prepaid for cash basis – closing.
+4	P4_content/Line_302	Input_302	302	numeric	12	Line 302. Accrual inventory – closing.
+4	P4_content/Line_303	Input_303	303	numeric	12	Line 303. Accrued dividends – current year.
+4	P4_content/Line_304	Input_304	304	numeric	12	Line 304. Bad debt.
+4	P4_content/Line_306	Input_306	306	numeric	12	Line 306. Equity in income from subsidiaries or affiliates.
+4	P4_content/Line_307	Input_307	307	numeric	12	Line 307. Exempt income under section 81.
+4	P4_content/Line_309	Input_309	309	numeric	12	Line 309. Mandatory inventory adjustment – included in prior year.
+4	P4_content/Line_310	Input_310	310	numeric	12	Line 310. Contributions to a qualifying environmental trust.
+4	P4_content/Line_311	Input_311	311	numeric	12	Line 311. Non-Canadian advertising expenses – broadcasting.
+4	P4_content/Line_312	Input_312	312	numeric	12	Line 312. Non-Canadian advertising expenses – printed materials.
+4	P4_content/Line_313	Input_313	313	numeric	12	Line 313. Optional value of inventory – included in prior year.
+4	P4_content/Line_314	Input_314	314	numeric	12	Line 314. Other income from financial statements.
+4	P4_content/Line_315	Input_315	315	numeric	12	Line 315. Payments made for allocations in proportion to borrowing and bonus interest payments from Schedule 17.
+4	P4_content/Line_316	Input_316	316	numeric	12	Line 316. Contractors' completion method adjustment. Revenue net of costs on contracts under two years – current year.
+4	P4_content/Line_347	Input_347	347	numeric	12	Line 347. Non-taxable/deductible other comprehensive income items.
+4	P4_content/Line_348	Input_348	348	numeric	12	Line 348. Book income of joint venture.
+4	P4_content/Line_349	Input_349	349	numeric	12	Line 349. Book income of partnership.
+4	P4_content/Line_350	Input_350	350	numeric	12	Line 350. Adjustment for hybrid mismatch amount under paragraph 20(1)(yy).
+4	P4_content/Line_340	Input_340	340	numeric	12	Line 340. Canadian development expenses from Schedule 12.
+4	P4_content/Line_341	Input_341	341	numeric	12	Line 341. Canadian exploration expenses from Schedule 12.
+4	P4_content/Line_342	Input_342	342	numeric	12	Line 342. Canadian oil and gas property expenses from Schedule 12.
+4	P4_content/Line_344	Input_344	344	numeric	12	Line 344. Depletion from Schedule 12.
+4	P4_content/Line_345	Input_345	345	numeric	12	Line 345. Foreign exploration and development expenses from Schedule 12.
+4	P4_content/P4_table/Row1	Cell1		text		
+4	P4_content/P4_table/Row1	Cell2		numeric	12	
+4	P4_content/P4_table/Row2	Cell1		text		
+4	P4_content/P4_table/Row2	Cell2		numeric	12	
+4	P4_content/P4_table/Row3	Cell1		text		
+4	P4_content/P4_table/Row3	Cell2		numeric	12	
+4	P4_content/P4_table/Row4	Cell1		text		
+4	P4_content/P4_table/Row4	Cell2		numeric	12	
+4	P4_content/Line_396	Input1_396	396	numeric	12	Line 396. Total of column 2. Instance 1.
+4	P4_content/Line_396	Input2_396	396	numeric	12	Line 396. Instance 2.
+4	P4_content/Amount_E	Input_E		numeric	12	Amount E. Total of lines 300 to 350 and line 396. Enter amount E at line 499 on page 2.
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		

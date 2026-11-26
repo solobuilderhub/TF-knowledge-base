@@ -1,0 +1,497 @@
+page	part	field	line	kind	digits	speak
+1	Info	txtInpt1		text		Corporation's name.
+1	Info	txtInpt2		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Info/grp	DateYYYYMMDD_Comb		text		Tax year end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1A/Ln019/cbGrp	cb_Y	001	check		Line 001. Does the corporation have received capacity as defined in subsection 18.2(1) in the year? Yes.
+1	P1A/Ln019/cbGrp	cb_N	001	check		Line 001. Does the corporation have received capacity as defined in subsection 18.2(1) in the year? No.
+1	P1A/table/row1	Cell2		text		Column 1. Line 002. Name of each eligible group entity the corporation received capacity from. Row 1.
+1	P1A/table/row1	Cell3		text		Column 2. Line 003. Account number. Row 1.
+1	P1A/table/row1/Cell4/grp	DateYYYYMMDD_Comb		text		Column 3. Line 004. Tax year end. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+1	P1A/table/row1	Cell5		numeric	12	Column 4. Line 005. Amount of capacity received. Row 1.
+1	P1A/table/row2	Cell2		text		Column 1. Line 002. Name of each eligible group entity the corporation received capacity from. Row 2.
+1	P1A/table/row2	Cell3		text		Column 2. Line 003. Account number. Row 2.
+1	P1A/table/row2/Cell4/grp	DateYYYYMMDD_Comb		text		Column 3. Line 004. Tax year end. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+1	P1A/table/row2	Cell5		numeric	12	Column 4. Line 005. Amount of capacity received. Row 2.
+1	P1A/table/row3	Cell2		text		Column 1. Line 002. Name of each eligible group entity the corporation received capacity from. Row 3.
+1	P1A/table/row3	Cell3		text		Column 2. Line 003. Account number. Row 3.
+1	P1A/table/row3/Cell4/grp	DateYYYYMMDD_Comb		text		Column 3. Line 004. Tax year end. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+1	P1A/table/row3	Cell5		numeric	12	Column 4. Line 005. Amount of capacity received. Row 3.
+1	P1A/table/row4	Cell2		text		Column 1. Line 002. Name of each eligible group entity the corporation received capacity from. Row 4.
+1	P1A/table/row4	Cell3		text		Column 2. Line 003. Account number. Row 4.
+1	P1A/table/row4/Cell4/grp	DateYYYYMMDD_Comb		text		Column 3. Line 004. Tax year end. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+1	P1A/table/row4	Cell5		numeric	12	Column 4. Line 005. Amount of capacity received. Row 4.
+1	P1A/table/row5	Cell2		text		Column 1. Line 002. Name of each eligible group entity the corporation received capacity from. Row 5.
+1	P1A/table/row5	Cell3		text		Column 2. Line 003. Account number. Row 5.
+1	P1A/table/row5/Cell4/grp	DateYYYYMMDD_Comb		text		Column 3. Line 004. Tax year end. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+1	P1A/table/row5	Cell5		numeric	12	Column 4. Line 005. Amount of capacity received. Row 5.
+1	P1A/Amt_A	numInpt		numeric	12	Amount A. Total of column 4, enter on line 130 in Part 2J and line 136 in Part 2K.
+1	Ftr/PageNumbers	CurrentPage		numeric		
+1	Ftr/PageNumbers	PageCount		numeric		
+2	P1B/Ln006/cbGrp	cb_Y	006	check		Line 006. Has the corporation incurred any amounts in respect of a borrowing or other financing that are exempt IFE as defined in subsection 18.2(1)? Yes.
+2	P1B/Ln006/cbGrp	cb_N	006	check		Line 006. Has the corporation incurred any amounts in respect of a borrowing or other financing that are exempt IFE as defined in subsection 18.2(1)? No.
+2	P1B/table/row1	Cell2		text		Column 1. Line 007. Name of public sector authority with which an agreement has been entered into. Row 1.
+2	P1B/table/row1	Cell3		numeric	12	Column 2. Line 008. Principal amount of borrowing or other financing entered into as a result of the agreement. Row 1.
+2	P1B/table/row1	Cell4		numeric	12	Column 3. Line 009. IFE incurred regarding amount in column 2, see note 1. Row 1.
+2	P1B/table/row1	Cell5		numeric	12	Column 4. Line 010. Corporation income from activities that the amount in column 2 wholly or partially funded. Row 1.
+2	P1B/table/row1	Cell6		numeric	12	Column 5. Line 011. Corporation loss from activities that the amount in column 2 wholly or partially funded, enter as positive amount. Row 1.
+2	P1B/table/row2	Cell2		text		Column 1. Line 007. Name of public sector authority with which an agreement has been entered into. Row 2.
+2	P1B/table/row2	Cell3		numeric	12	Column 2. Line 008. Principal amount of borrowing or other financing entered into as a result of the agreement. Row 2.
+2	P1B/table/row2	Cell4		numeric	12	Column 3. Line 009. IFE incurred regarding amount in column 2, see note 1. Row 2.
+2	P1B/table/row2	Cell5		numeric	12	Column 4. Line 010. Corporation income from activities that the amount in column 2 wholly or partially funded. Row 2.
+2	P1B/table/row2	Cell6		numeric	12	Column 5. Line 011. Corporation loss from activities that the amount in column 2 wholly or partially funded, enter as positive amount. Row 2.
+2	P1B/table/row3	Cell2		text		Column 1. Line 007. Name of public sector authority with which an agreement has been entered into. Row 3.
+2	P1B/table/row3	Cell3		numeric	12	Column 2. Line 008. Principal amount of borrowing or other financing entered into as a result of the agreement. Row 3.
+2	P1B/table/row3	Cell4		numeric	12	Column 3. Line 009. IFE incurred regarding amount in column 2, see note 1. Row 3.
+2	P1B/table/row3	Cell5		numeric	12	Column 4. Line 010. Corporation income from activities that the amount in column 2 wholly or partially funded. Row 3.
+2	P1B/table/row3	Cell6		numeric	12	Column 5. Line 011. Corporation loss from activities that the amount in column 2 wholly or partially funded, enter as positive amount. Row 3.
+2	P1B/table/row4	Cell2		text		Column 1. Line 007. Name of public sector authority with which an agreement has been entered into. Row 4.
+2	P1B/table/row4	Cell3		numeric	12	Column 2. Line 008. Principal amount of borrowing or other financing entered into as a result of the agreement. Row 4.
+2	P1B/table/row4	Cell4		numeric	12	Column 3. Line 009. IFE incurred regarding amount in column 2, see note 1. Row 4.
+2	P1B/table/row4	Cell5		numeric	12	Column 4. Line 010. Corporation income from activities that the amount in column 2 wholly or partially funded. Row 4.
+2	P1B/table/row4	Cell6		numeric	12	Column 5. Line 011. Corporation loss from activities that the amount in column 2 wholly or partially funded, enter as positive amount. Row 4.
+2	P1B/table/row5	Cell2		text		Column 1. Line 007. Name of public sector authority with which an agreement has been entered into. Row 5.
+2	P1B/table/row5	Cell3		numeric	12	Column 2. Line 008. Principal amount of borrowing or other financing entered into as a result of the agreement. Row 5.
+2	P1B/table/row5	Cell4		numeric	12	Column 3. Line 009. IFE incurred regarding amount in column 2, see note 1. Row 5.
+2	P1B/table/row5	Cell5		numeric	12	Column 4. Line 010. Corporation income from activities that the amount in column 2 wholly or partially funded. Row 5.
+2	P1B/table/row5	Cell6		numeric	12	Column 5. Line 011. Corporation loss from activities that the amount in column 2 wholly or partially funded, enter as positive amount. Row 5.
+2	P1B/Ln033	numInpt		numeric	12	Amount A. Total of column 3.
+2	P1B/Ln034	numInpt		numeric	12	Amount B. Total of column 4, enter on line 104 in Part 2F.
+2	P1B/Ln035	numInpt		numeric	12	Amount C. Total of column 5, enter on line 092 in Part 2F.
+2	P1C/table1/row1	Cell2		text		Column 2. Line 012. Total of the principal amounts of borrowing or other financing at any point in the tax year. Canadian arm's length.
+2	P1C/table1/row1	Cell3		numeric	12	Column 3. Line 013. Total of the notional amounts of derivatives entered into in respect of a borrowing or other financing at any point in the tax year. Canadian arm's length.
+2	P1C/table1/row1	Cell4		numeric	12	Column 4. Line 014. Total of all amounts included in paragraph (a) of variable A of IFE in respect of a borrowing or other financing. Canadian arm's length.
+2	P1C/table1/row1	Cell5		numeric	12	Column 5. Line 015. Total of all amounts included in paragraph (e) of variable A of IFE, other than a loss or capital loss. Canadian arm's length.
+2	P1C/table1/row1	Cell6		numeric	12	Column 6. Line 016. Total of all amounts included in paragraph (a) of variable B of IFE, other than a dividend or exempt IFE or a gain included in taxpayer income. Canadian arm's length.
+2	P1C/table1/row2	Cell2		text		Column 2. Line 012. Total of the principal amounts of borrowing or other financing at any point in the tax year. Canadian non-arm's length.
+2	P1C/table1/row2	Cell3		numeric	12	Column 3. Line 013. Total of the notional amounts of derivatives entered into in respect of a borrowing or other financing at any point in the tax year. Canadian non-arm's length.
+2	P1C/table1/row2	Cell4		numeric	12	Column 4. Line 014. Total of all amounts included in paragraph (a) of variable A of IFE in respect of a borrowing or other financing. Canadian non-arm's length.
+2	P1C/table1/row2	Cell5		numeric	12	Column 5. Line 015. Total of all amounts included in paragraph (e) of variable A of IFE, other than a loss or capital loss. Canadian non-arm's length.
+2	P1C/table1/row2	Cell6		numeric	12	Column 6. Line 016. Total of all amounts included in paragraph (a) of variable B of IFE, other than a dividend or exempt IFE or a gain included in taxpayer income. Canadian non-arm's length.
+2	P1C/table1/row3	Cell2		text		Column 2. Line 012. Total of the principal amounts of borrowing or other financing at any point in the tax year. Non-resident arm's length.
+2	P1C/table1/row3	Cell3		numeric	12	Column 3. Line 013. Total of the notional amounts of derivatives entered into in respect of a borrowing or other financing at any point in the tax year. Non-resident arm's length.
+2	P1C/table1/row3	Cell4		numeric	12	Column 4. Line 014. Total of all amounts included in paragraph (a) of variable A of IFE in respect of a borrowing or other financing. Non-resident arm's length.
+2	P1C/table1/row3	Cell5		numeric	12	Column 5. Line 015. Total of all amounts included in paragraph (e) of variable A of IFE, other than a loss or capital loss. Non-resident arm's length.
+2	P1C/table1/row3	Cell6		numeric	12	Column 6. Line 016. Total of all amounts included in paragraph (a) of variable B of IFE, other than a dividend or exempt IFE or a gain included in taxpayer income. Non-resident arm's length.
+2	P1C/table1/row4	Cell2		text		Column 2. Line 012. Total of the principal amounts of borrowing or other financing at any point in the tax year. Non-resident non-arm's length.
+2	P1C/table1/row4	Cell3		numeric	12	Column 3. Line 013. Total of the notional amounts of derivatives entered into in respect of a borrowing or other financing at any point in the tax year. Non-resident non-arm's length.
+2	P1C/table1/row4	Cell4		numeric	12	Column 4. Line 014. Total of all amounts included in paragraph (a) of variable A of IFE in respect of a borrowing or other financing. Non-resident non-arm's length.
+2	P1C/table1/row4	Cell5		numeric	12	Column 5. Line 015. Total of all amounts included in paragraph (e) of variable A of IFE, other than a loss or capital loss. Non-resident non-arm's length.
+2	P1C/table1/row4	Cell6		numeric	12	Column 6. Line 016. Total of all amounts included in paragraph (a) of variable B of IFE, other than a dividend or exempt IFE or a gain included in taxpayer income. Non-resident non-arm's length.
+2	P1C/Ln033	numInpt		numeric	12	Amount A. Total of column 4. Enter on line 027 in Part 2A.
+2	P1C/Ln034	numInpt		numeric	12	Amount B. Total of column 5, enter on line 033 in Part 2A.
+2	P1C/Ln035	numInpt		numeric	12	Amount C. Total of column 6, enter on line 042 in Part 2A.
+2	Ftr/PageNumbers	CurrentPage		numeric		
+2	Ftr/PageNumbers	PageCount		numeric		
+3	P1D/table1/row1	Cell2		text		Column 2. Line 017. Total of the principal amounts of loans or other financings at any point in the tax year. Canadian arm's length.
+3	P1D/table1/row1	Cell3		numeric	12	Column 3. Line 018. Total of the notional amounts of derivatives entered into in respect of loans or other financings at any point of the year. Canadian arm's length.
+3	P1D/table1/row1	Cell4		numeric	12	Column 4. Line 019. Total of all amounts included in paragraph (d) of variable A of IFR, other than a dividend or a gain included in corporation's income. Canadian arm's length.
+3	P1D/table1/row1	Cell5		numeric	12	Column 5. Line 020. Total of all amounts included in paragraph (a) of variable B of IFR, other than a loss or capital loss. Canadian arm's length.
+3	P1D/table1/row2	Cell2		text		Column 2. Line 017. Total of the principal amounts of loans or other financings at any point in the tax year. Canadian non-arm's length.
+3	P1D/table1/row2	Cell3		numeric	12	Column 3. Line 018. Total of the notional amounts of derivatives entered into in respect of loans or other financings at any point of the year. Canadian non-arm's length.
+3	P1D/table1/row2	Cell4		numeric	12	Column 4. Line 019. Total of all amounts included in paragraph (d) of variable A of IFR, other than a dividend or a gain included in corporation's income. Canadian non-arm's length.
+3	P1D/table1/row2	Cell5		numeric	12	Column 5. Line 020. Total of all amounts included in paragraph (a) of variable B of IFR, other than a loss or capital loss. Canadian non-arm's length.
+3	P1D/table1/row3	Cell2		text		Column 2. Line 017. Total of the principal amounts of loans or other financings at any point in the tax year. Non-resident arm's length.
+3	P1D/table1/row3	Cell3		numeric	12	Column 3. Line 018. Total of the notional amounts of derivatives entered into in respect of loans or other financings at any point of the year. Non-resident arm's length.
+3	P1D/table1/row3	Cell4		numeric	12	Column 4. Line 019. Total of all amounts included in paragraph (d) of variable A of IFR, other than a dividend or a gain included in corporation's income. Non-resident arm's length.
+3	P1D/table1/row3	Cell5		numeric	12	Column 5. Line 020. Total of all amounts included in paragraph (a) of variable B of IFR, other than a loss or capital loss. Non-resident arm's length.
+3	P1D/table1/row4	Cell2		text		Column 2. Line 017. Total of the principal amounts of loans or other financings at any point in the tax year. Non-resident non-arm's length.
+3	P1D/table1/row4	Cell3		numeric	12	Column 3. Line 018. Total of the notional amounts of derivatives entered into in respect of loans or other financings at any point of the year. Non-resident non-arm's length.
+3	P1D/table1/row4	Cell4		numeric	12	Column 4. Line 019. Total of all amounts included in paragraph (d) of variable A of IFR, other than a dividend or a gain included in corporation's income. Non-resident non-arm's length.
+3	P1D/table1/row4	Cell5		numeric	12	Column 5. Line 020. Total of all amounts included in paragraph (a) of variable B of IFR, other than a loss or capital loss. Non-resident non-arm's length.
+3	P1D/Ln033	numInpt		numeric	12	Amount A. Total of column 4, enter on line 061 in Part 2D.
+3	P1D/Ln034	numInpt		numeric	12	Amount B. Total of column 5, enter on line 066 in Part 2D.
+3	P1E/P1E/table/row1	Cell2		text		Column 1. Line 021. Name of partnership. Row 1.
+3	P1E/P1E/table/row1/Cell3/info_grp1	info_grp1_RT1		text		Column 2. Line 022. Partnership account number, leave blank if the partnership is non-resident. First 9 digits of the Partnership account number. Row 1.
+3	P1E/P1E/table/row1/Cell3/info_grp1	info_grp1_RT		text		
+3	P1E/P1E/table/row1/Cell3/info_grp1	info_grp1_RT2		text		Column 2. Line 022. Partnership account number, leave blank if the partnership is non-resident. Last 4 digits of the Partnership account number. Row 1.
+3	P1E/P1E/table/row1	Cell4		numeric	12	Column 3. Line 023. Corporation's share of amount included under variable A of partnership IFE, box 247 of the T5013 slips if applicable. Row 1.
+3	P1E/P1E/table/row1	Cell5		numeric	12	Column 4. Line 024. Portion of amount in column 3 in which paragraph 12(1)(I.1) applies. Row 1.
+3	P1E/P1E/table/row1	Cell6		numeric	12	Column 5. Line 025. Portion of amount in column 3, not deductible in the corporation's income or included in corporation's non-capital loss because of subsection 96(2.1). Row 1.
+3	P1E/P1E/table/row1	Cell7		numeric	12	Column 6. Line 026. Amount to be included under paragraph (h) of variable A of IFE, column 3 minus column 4 minus column 5. Row 1.
+3	P1E/P1E/table/row2	Cell2		text		Column 1. Line 021. Name of partnership. Row 2.
+3	P1E/P1E/table/row2/Cell3/info_grp1	info_grp1_RT1		text		Column 2. Line 022. Partnership account number, leave blank if the partnership is non-resident. First 9 digits of the Partnership account number. Row 2.
+3	P1E/P1E/table/row2/Cell3/info_grp1	info_grp1_RT		text		
+3	P1E/P1E/table/row2/Cell3/info_grp1	info_grp1_RT2		text		Column 2. Line 022. Partnership account number, leave blank if the partnership is non-resident. Last 4 digits of the Partnership account number. Row 2.
+3	P1E/P1E/table/row2	Cell4		numeric	12	Column 3. Line 023. Corporation's share of amount included under variable A of partnership IFE, box 247 of the T5013 slips if applicable. Row 2.
+3	P1E/P1E/table/row2	Cell5		numeric	12	Column 4. Line 024. Portion of amount in column 3 in which paragraph 12(1)(I.1)applies. Row 2.
+3	P1E/P1E/table/row2	Cell6		numeric	12	Column 5. Line 025. Portion of amount in column 3, not deductible in the corporation's income or included in corporation's non-capital loss because of subsection 96(2.1). Row 2.
+3	P1E/P1E/table/row2	Cell7		numeric	12	Column 6. Line 026. Amount to be included under paragraph (h) of variable A of IFE, column 3 minus column 4 minus column 5. Row 2.
+3	P1E/P1E/table/row3	Cell2		text		Column 1. Line 021. Name of partnership. Row 3.
+3	P1E/P1E/table/row3/Cell3/info_grp1	info_grp1_RT1		text		Column 2. Line 022. Partnership account number, leave blank if the partnership is non-resident. First 9 digits of the Partnership account number. Row 3.
+3	P1E/P1E/table/row3/Cell3/info_grp1	info_grp1_RT		text		
+3	P1E/P1E/table/row3/Cell3/info_grp1	info_grp1_RT2		text		Column 2. Line 022. Partnership account number, leave blank if the partnership is non-resident. Last 4 digits of the Partnership account number. Row 3.
+3	P1E/P1E/table/row3	Cell4		numeric	12	Column 3. Line 023. Corporation's share of amount included under variable A of partnership IFE, box 247 of the T5013 slips if applicable. Row 3.
+3	P1E/P1E/table/row3	Cell5		numeric	12	Column 4. Line 024. Portion of amount in column 3 in which paragraph 12(1)(I.1) applies. Row 3.
+3	P1E/P1E/table/row3	Cell6		numeric	12	Column 5. Line 025. Portion of amount in column 3, not deductible in the corporation's income or included in corporation's non-capital loss because of subsection 96(2.1). Row 3.
+3	P1E/P1E/table/row3	Cell7		numeric	12	Column 6. Line 026. Amount to be included under paragraph (h) of variable A of IFE, column 3 minus column 4 minus column 5. Row 3.
+3	P1E/P1E/table/row4	Cell2		text		Column 1. Line 021. Name of partnership. Row 4.
+3	P1E/P1E/table/row4/Cell3/info_grp1	info_grp1_RT1		text		Column 2. Line 022. Partnership account number, leave blank if the partnership is non-resident. First 9 digits of the Partnership account number. Row 4.
+3	P1E/P1E/table/row4/Cell3/info_grp1	info_grp1_RT		text		
+3	P1E/P1E/table/row4/Cell3/info_grp1	info_grp1_RT2		text		Column 2. Line 022. Partnership account number, leave blank if the partnership is non-resident. Last 4 digits of the Partnership account number. Row 4.
+3	P1E/P1E/table/row4	Cell4		numeric	12	Column 3. Line 023. Corporation's share of amount included under variable A of partnership IFE, box 247 of the T5013 slips if applicable. Row 4.
+3	P1E/P1E/table/row4	Cell5		numeric	12	Column 4. Line 024. Portion of amount in column 3 in which paragraph 12(1)(I.1) applies. Row 4.
+3	P1E/P1E/table/row4	Cell6		numeric	12	Column 5. Line 025. Portion of amount in column 3, not deductible in the corporation's income or included in corporation's non-capital loss because of subsection 96(2.1). Row 4.
+3	P1E/P1E/table/row4	Cell7		numeric	12	Column 6. Line 026. Amount to be included under paragraph (h) of variable A of IFE, column 3 minus column 4 minus column 5. Row 4.
+3	P1E/P1E/table/row5	Cell2		text		Column 1. Line 021. Name of partnership. Row 5.
+3	P1E/P1E/table/row5/Cell3/info_grp1	info_grp1_RT1		text		Column 2. Line 022. Partnership account number, leave blank if the partnership is non-resident. First 9 digits of the Partnership account number. Row 5.
+3	P1E/P1E/table/row5/Cell3/info_grp1	info_grp1_RT		text		
+3	P1E/P1E/table/row5/Cell3/info_grp1	info_grp1_RT2		text		Column 2. Line 022. Partnership account number, leave blank if the partnership is non-resident. Last 4 digits of the Partnership account number. Row 5.
+3	P1E/P1E/table/row5	Cell4		numeric	12	Column 3. Line 023. Corporation's share of amount included under variable A of partnership IFE, box 247 of the T5013 slips if applicable. Row 5.
+3	P1E/P1E/table/row5	Cell5		numeric	12	Column 4. Line 024. Portion of amount in column 3 in which paragraph 12(1)(I.1) applies. Row 5.
+3	P1E/P1E/table/row5	Cell6		numeric	12	Column 5. Line 025. Portion of amount in column 3, not deductible in the corporation's income or included in corporation's non-capital loss because of subsection 96(2.1). Row 5.
+3	P1E/P1E/table/row5	Cell7		numeric	12	Column 6. Line 026. Amount to be included under paragraph (h) of variable A of IFE, column 3 minus column 4 minus column 5. Row 5.
+3	P1E/P1E/P1E_Amount_A	numInpt		numeric	12	Amount A. Total of column 6, enter on line 039 in Part 2A, line 142 in Part 2L and line 156 in Part 2N.
+3	Ftr/PageNumbers	CurrentPage		numeric		
+3	Ftr/PageNumbers	PageCount		numeric		
+4	P2A/Ln027	numInpt	027	numeric	12	Line 027. An amount, other then excluded interest, deemed interest under subsection 137(4.1), or an amount included in any other line below, that is Interest paid or payable on a borrowing or other financing, excluding shares, amount A from Part 1C.
+4	P2A/Ln028	numInpt	028	numeric	12	Line 028. An amount, other then excluded interest, deemed interest under subsection 137(4.1), or an amount included in any other line below, that is interest paid or payable – other.
+4	P2A/Ln029	numInpt	029	numeric	12	Line 029. An amount that, on the assumption that it is not deductible under another section, would be deductible under Subparagraphs 20(1)(e)(ii), 20(1)(e)(ii.1), 20(1)(e)(ii.2) and paragraphs 20(1)(e.1), 20(1)(e.2) and 20(1)(f).
+4	P2A/Ln030	numInpt	030	numeric	12	Line 030. Amount attributable to IFE that your corporation has claimed for the particular tax year as capital cost allowance, CCA, amount B from Part 2B.
+4	P2A/Ln031	numInpt	031	numeric	12	Line 031. Amount attributable to IFE that your corporation has claimed for the particular tax year as resource expenses, amount A from Part 2C.
+4	P2A/Ln032	numInpt	032	numeric	12	Line 032. Amount attributable to IFE that your corporation has claimed for the particular tax year as terminal loss, amount A from Part 2B.
+4	P2A/Ln033	numInpt	033	numeric	12	Line 033. An amount, under or as a result of an agreement or arrangement entered into as or in relation to a borrowing or other financing of the corporation, or a non-arm's length person or partnership, that can reasonably be considered to increase or be part of the cost of funding with respect to the borrowing or other financing of the corporation, or a non-arm's length person or partnership, that is paid or payable that is deductible in the tax year, other than under subparagraph 20(1)(e)(i), amount B from Part 1C.
+4	P2A/Ln034	numInpt	034	numeric	12	Line 034. An amount, under or as a result of an agreement or arrangement entered into as or in relation to a borrowing or other financing of the corporation, or a non-arm's length person or partnership, that can reasonably be considered to increase or be part of the cost of funding with respect to the borrowing or other financing of the corporation, or a non-arm's length person or partnership, that is a loss that is deductible in the tax year, other than under subparagraph 20(1)(e)(i).
+4	P2A/Ln035	numInpt	035	numeric	12	Line 035. An amount, under or as a result of an agreement or arrangement entered into as or in relation to a borrowing or other financing of the corporation, or a non-arm's length person or partnership, that can reasonably be considered to increase or be part of the cost of funding with respect to the borrowing or other financing of the corporation, or a non-arm's length person or partnership, that is, a capital loss that reduces the amount determined under paragraph 3(b) or deducted when calculating the corporation's taxable income for the tax year.
+4	P2A/Ln036	numInpt	036	numeric	12	Line 036. Expense or fee payable, other than an amount already included on line 029, under, or in contemplation of, in the course of entering into, or in relation to, an agreement or an arrangement that gives rise to, or can reasonably be expected to give rise to, an amount being included in IFE – under paragraph (e) of variable A of the definition of IFE.
+4	P2A/Ln037	numInpt	037	numeric	12	Line 037. Expense or fee payable, other than an amount already included on line 029, under, or in contemplation of, in the course of entering into, or in relation to, an agreement or an arrangement that gives rise to, or can reasonably be expected to give rise to, An amount that reduces the IFE for the year under variable B of the definition of IFE.
+4	P2A/Ln038	numInpt	038	numeric	12	Line 038. A lease financing amount, other than an excluded lease and excluded interest.
+4	P2A/Ln039	numInpt	039	numeric	12	Line 039. The corporation's share of the IFE of a partnership it is a member of, amount A from Part 1E.
+4	P2A/Ln040	numInpt	040	numeric	12	Line 040. The portion of an amount claimed under paragraph 111(1)(e) that was denied under subsection 96(2.1) in a preceding tax year that is attributable to IFE.
+4	P2A/Ln041	numInpt	041	numeric	12	Line 041. An amount that is a controlled foreign affiliate's, CFA, relevant affiliate interest and financing expenses, to the extent of the corporation's specified participating percentage in respect of the affiliate for the affiliate tax year, enter on line 143 in Part 2L.
+4	P2A/LnA	numInpt		numeric	12	Amount A. Total of lines 027 to 041, enter on lines 139 in Part 2K and 141 in Part 2L.
+4	P2A/Ln042	numInpt	042	numeric	12	Line 042. An amount, under or as a result of an agreement or arrangement entered into as or in relation to a borrowing or other financing of the corporation, or a non-arm's length person or partnership, that can reasonably be considered to reduce the cost of funding with respect to the borrowing or other financing of the corporation, or a non-arm's length person or partnership, that is received or receivable, other than as a dividend or exempt IFE, included in computing the corporation's income for the year, amount C from Part 1C.
+4	P2A/Ln043	numInpt	043	numeric	12	Line 043. An amount, under or as a result of an agreement or arrangement entered into as or in relation to a borrowing or other financing of the corporation, or a non-arm's length person or partnership, that can reasonably be considered to reduce the cost of funding with respect to the borrowing or other financing of the corporation, or a non-arm's length person or partnership, that is a gain included in the corporation's income for the year.
+4	P2A/Ln044	numInpt	044	numeric	12	Line 044. The corporation's share of an amount that, if received or receivable by the corporation, would meet the description of an amount to be included on lines 042 or 043, but that is received or receivable by a partnership of which the corporation is a member, total of amounts from box 249 of the T5013 slips plus relevant amounts from non-resident partnerships.
+4	P2A/LnB	numInpt		numeric	12	Amount B. Total of lines 042 to 044.
+4	P2A/Ln045	numInpt	045	numeric	12	Line 045. Total IFE. Amount A minus Amount B. If negative, enter ''0'', enter on line 083 in Part 2F, line 113 in Part 2G, line 117 in Part 2H and on line 131 in Part 2K.
+4	Ftr/PageNumbers	CurrentPage		numeric		
+4	Ftr/PageNumbers	PageCount		numeric		
+5	P2B/table/row1	Cell2		text		Column 1. Line 046. Class number. Row 1.
+5	P2B/table/row1	Cell3		numeric	12	Column 2. Line 047. IFE in undepreciated capital cost, UCC, at beginning of the tax year. Row 1.
+5	P2B/table/row1	Cell4		numeric	12	Column 3. Line 048. IFE in the cost of acquisitions, adjustments and transfers, and proceeds of dispositions. Row 1
+5	P2B/table/row1	Cell5		numeric	12	"Column 4. Line 049. IFE in UCC, column 2 plus or minus column 3. If negative, enter ""0"". Row 1."
+5	P2B/table/row1	Cell6		numeric	12	Column 5. Line 050. IFE in terminal loss, see note 2. Row 1.
+5	P2B/table/row1	Cell7		numeric	12	Column 6. Line 051. IFE in CCA, cannot be more than column 4. Row 1.
+5	P2B/table/row1	Cell8		numeric	12	"Column 7. Line 052. IFE in UCC at the end of the year, column 4 minus column 6. If negative, enter ""0"". Row 1."
+5	P2B/table/row2	Cell2		text		Column 1. Line 046. Class number. Row 2.
+5	P2B/table/row2	Cell3		numeric	12	Column 2. Line 047. IFE in undepreciated capital cost, UCC, at beginning of the tax year. Row 2.
+5	P2B/table/row2	Cell4		numeric	12	Column 3. Line 048. IFE in the cost of acquisitions, adjustments and transfers, and proceeds of dispositions. Row 2.
+5	P2B/table/row2	Cell5		numeric	12	"Column 4. Line 049. IFE in UCC, column 2 plus or minus column 3. If negative, enter ""0"". Row 2."
+5	P2B/table/row2	Cell6		numeric	12	Column 5. Line 050. IFE in terminal loss, see note 2. Row 2.
+5	P2B/table/row2	Cell7		numeric	12	Column 6. Line 051. IFE in CCA, cannot be more than column 4. Row 2.
+5	P2B/table/row2	Cell8		numeric	12	"Column 7. Line 052. IFE in UCC at the end of the year, column 4 minus column 6. If negative, enter ""0"". Row 2."
+5	P2B/table/row3	Cell2		text		Column 1. Line 046. Class number. Row 3.
+5	P2B/table/row3	Cell3		numeric	12	Column 2. Line 047. IFE in undepreciated capital cost, UCC, at beginning of the tax year. Row 3.
+5	P2B/table/row3	Cell4		numeric	12	Column 3. Line 048. IFE in the cost of acquisitions, adjustments and transfers, and proceeds of dispositions. Row 3.
+5	P2B/table/row3	Cell5		numeric	12	"Column 4. Line 049. IFE in UCC, column 2 plus or minus column 3. If negative, enter ""0"". Row 3."
+5	P2B/table/row3	Cell6		numeric	12	Column 5. Line 050. IFE in terminal loss, see note 2. Row 3.
+5	P2B/table/row3	Cell7		numeric	12	Column 6. Line 051. IFE in CCA, cannot be more than column 4. Row 3.
+5	P2B/table/row3	Cell8		numeric	12	"Column 7. Line 052. IFE in UCC at the end of the year, column 4 minus column 6. If negative, enter ""0"". Row 3."
+5	P2B/table/row4	Cell2		text		Column 1. Line 046. Class number. Row 4.
+5	P2B/table/row4	Cell3		numeric	12	Column 2. Line 047. IFE in undepreciated capital cost, UCC, at beginning of the tax year. Row 4.
+5	P2B/table/row4	Cell4		numeric	12	Column 3. Line 048. IFE in the cost of acquisitions, adjustments and transfers, and proceeds of dispositions. Row 4.
+5	P2B/table/row4	Cell5		numeric	12	"Column 4. Line 049. IFE in UCC, column 2 plus or minus column 3. If negative, enter ""0"". Row 4."
+5	P2B/table/row4	Cell6		numeric	12	Column 5. Line 050. IFE in terminal loss, see note 2. Row 4.
+5	P2B/table/row4	Cell7		numeric	12	Column 6. Line 051. IFE in CCA, cannot be more than column 4. Row 4.
+5	P2B/table/row4	Cell8		numeric	12	"Column 7. Line 052. IFE in UCC at the end of the year, column 4 minus column 6. If negative, enter ""0"". Row 4."
+5	P2B/table/row5	Cell2		text		Column 1. Line 046. Class number. Row 5.
+5	P2B/table/row5	Cell3		numeric	12	Column 2. Line 047. IFE in undepreciated capital cost, UCC, at beginning of the tax year. Row 5.
+5	P2B/table/row5	Cell4		numeric	12	Column 3. Line 048. IFE in the cost of acquisitions, adjustments and transfers, and proceeds of dispositions. Row 5.
+5	P2B/table/row5	Cell5		numeric	12	"Column 4. Line 049. IFE in UCC, column 2 plus or minus column 3. If negative, enter ""0"". Row 5."
+5	P2B/table/row5	Cell6		numeric	12	Column 5. Line 050. IFE in terminal loss, see note 2. Row 5.
+5	P2B/table/row5	Cell7		numeric	12	Column 6. Line 051. IFE in CCA, cannot be more than column 4. Row 5.
+5	P2B/table/row5	Cell8		numeric	12	"Column 7. Line 052. IFE in UCC at the end of the year, column 4 minus column 6. If negative, enter ""0"". Row 5."
+5	P2B/Ln/Amnt_A	numInpt1		numeric	12	Amount A. Total of column 5, enter on line 032 in Part 2A.
+5	P2B/Ln/Amont_B	numInpt2		numeric	12	Amount B. Total of column 6, enter on line 030 in Part 2A.
+5	P2C/table/row1	Cell3		numeric	12	Column 2. Line 053. IFE in the opening balance. Cumulative Canadian exploration expenses, CCEE – regular expenses.
+5	P2C/table/row1	Cell4		numeric	12	Column 3. Line 054. IFE in amounts added or deducted from pool balance during the tax year. Cumulative Canadian exploration expenses, CCEE – regular expenses.
+5	P2C/table/row1	Cell5		numeric	12	"Column 4. Line 055. IFE in amount available before current year claim, column 2 plus or minus column 3. If negative, enter ""0"". Cumulative Canadian exploration expenses, CCEE – regular expenses."
+5	P2C/table/row1	Cell6		numeric	12	Column 5. Line 056. IFE in current year claims, cannot be more than column 4. Cumulative Canadian exploration expenses, CCEE – regular expenses.
+5	P2C/table/row1	Cell7		numeric	12	"Column 6. Line 057. IFE in closing balance, column 4 minus column 5. If negative, enter ""0"". Cumulative Canadian exploration expenses, CCEE – regular expenses."
+5	P2C/table/row2	Cell3		numeric	12	Column 2. Line 053. IFE in the opening balance. CCEE – successor expenses.
+5	P2C/table/row2	Cell4		numeric	12	Column 3. Line 054. IFE in amounts added or deducted from pool balance during the tax year. CCEE – successor expenses.
+5	P2C/table/row2	Cell5		numeric	12	"Column 4. Line 055. IFE in amount available before current year claim, column 2 plus or minus column 3. If negative, enter ""0"". CCEE – successor expenses."
+5	P2C/table/row2	Cell6		numeric	12	Column 5. Line 056. IFE in current year claims, cannot be more than column 4. CCEE – successor expenses.
+5	P2C/table/row2	Cell7		numeric	12	"Column 6. Line 057. IFE in closing balance, column 4 minus column 5. If negative, enter ""0"". CCEE – successor expenses."
+5	P2C/table/row3	Cell3		numeric	12	Column 2. Line 053. IFE in the opening balance. Cumulative Canadian development expenses, CCDE – regular expenses.
+5	P2C/table/row3	Cell4		numeric	12	Column 3. Line 054. IFE in amounts added or deducted from pool balance during the tax year. Cumulative Canadian development expenses, CCDE – regular expenses.
+5	P2C/table/row3	Cell5		numeric	12	"Column 4. Line 055. IFE in amount available before current year claim, column 2 plus or minus column 3. If negative, enter ""0"". Cumulative Canadian development expenses, CCDE – regular expenses."
+5	P2C/table/row3	Cell6		numeric	12	Column 5. Line 056. IFE in current year claims, cannot be more than column 4. Cumulative Canadian development expenses, CCDE – regular expenses.
+5	P2C/table/row3	Cell7		numeric	12	"Column 6. Line 057. IFE in closing balance, column 4 minus column 5. If negative, enter ""0"". Cumulative Canadian development expenses, CCDE – regular expenses."
+5	P2C/table/row4	Cell3		numeric	12	Column 2. Line 053. IFE in the opening balance. CCDE – successor expenses.
+5	P2C/table/row4	Cell4		numeric	12	Column 3. Line 054. IFE in amounts added or deducted from pool balance during the tax year. CCDE – successor expenses.
+5	P2C/table/row4	Cell5		numeric	12	"Column 4. Line 055. IFE in amount available before current year claim, column 2 plus or minus column 3. If negative, enter ""0"". CCDE – successor expenses."
+5	P2C/table/row4	Cell6		numeric	12	Column 5. Line 056. IFE in current year claims, cannot be more than column 4. CCDE – successor expenses.
+5	P2C/table/row4	Cell7		numeric	12	"Column 6. Line 057. IFE in closing balance, column 4 minus column 5. If negative, enter ""0"". CCDE – successor expenses."
+5	P2C/table/row5	Cell3		numeric	12	Column 2. Line 053. IFE in the opening balance. Cumulative Canadian oil and gas property expenses, CCOGPE – regular expenses.
+5	P2C/table/row5	Cell4		numeric	12	Column 3. Line 054. IFE in amounts added or deducted from pool balance during the tax year. Cumulative Canadian oil and gas property expenses, CCOGPE – regular expenses.
+5	P2C/table/row5	Cell5		numeric	12	"Column 4. Line 055. IFE in amount available before current year claim, column 2 plus or minus column 3. If negative, enter ""0"". Cumulative Canadian oil and gas property expenses, CCOGPE – regular expenses."
+5	P2C/table/row5	Cell6		numeric	12	Column 5. Line 056. IFE in current year claims, cannot be more than column 4. Cumulative Canadian oil and gas property expenses, CCOGPE – regular expenses.
+5	P2C/table/row5	Cell7		numeric	12	"Column 6. Line 057. IFE in closing balance, column 4 minus column 5. If negative, enter ""0"". Cumulative Canadian oil and gas property expenses, CCOGPE – regular expenses."
+5	P2C/table/row6	Cell3		numeric	12	Column 2. Line 053. IFE in the opening balance. CCOGPE – successor expenses.
+5	P2C/table/row6	Cell4		numeric	12	Column 3. Line 054. IFE in amounts added or deducted from pool balance during the tax year. CCOGPE – successor expenses.
+5	P2C/table/row6	Cell5		numeric	12	"Column 4. Line 055. IFE in amount available before current year claim, column 2 plus or minus column 3. If negative, enter ""0"". CCOGPE – successor expenses."
+5	P2C/table/row6	Cell6		numeric	12	Column 5. Line 056. IFE in current year claims, cannot be more than column 4. CCOGPE – successor expenses.
+5	P2C/table/row6	Cell7		numeric	12	"Column 6. Line 057. IFE in closing balance, column 4 minus column 5. If negative, enter ""0"". CCOGPE – successor expenses."
+5	P2C/table/row7	Cell3		numeric	12	Column 2. Line 053. IFE in the opening balance. Foreign exploration and development expenses, FEDE – regular expenses.
+5	P2C/table/row7	Cell4		numeric	12	Column 3. Line 054. IFE in amounts added or deducted from pool balance during the tax year. Foreign exploration and development expenses, FEDE – regular expenses.
+5	P2C/table/row7	Cell5		numeric	12	"Column 4. Line 055. IFE in amount available before current year claim, column 2 plus or minus column 3. If negative, enter ""0"". Foreign exploration and development expenses, FEDE – regular expenses."
+5	P2C/table/row7	Cell6		numeric	12	Column 5. Line 056. IFE in current year claims, cannot be more than column 4. Foreign exploration and development expenses, FEDE – regular expenses.
+5	P2C/table/row7	Cell7		numeric	12	"Column 6. Line 057. IFE in closing balance, column 4 minus column 5. If negative, enter ""0"". Foreign exploration and development expenses, FEDE – regular expenses."
+5	P2C/table/row8	Cell3		numeric	12	Column 2. Line 053. IFE in the opening balance. FEDE – successor expenses.
+5	P2C/table/row8	Cell4		numeric	12	Column 3. Line 054. IFE in amounts added or deducted from pool balance during the tax year. FEDE – successor expenses.
+5	P2C/table/row8	Cell5		numeric	12	"Column 4. Line 055. IFE in amount available before current year claim, column 2 plus or minus column 3. If negative, enter ""0"". FEDE – successor expenses."
+5	P2C/table/row8	Cell6		numeric	12	Column 5. Line 056. IFE in current year claims, cannot be more than column 4. FEDE – successor expenses.
+5	P2C/table/row8	Cell7		numeric	12	"Column 6. Line 057. IFE in closing balance, column 4 minus column 5. If negative, enter ""0"". FEDE – successor expenses."
+5	P2C/table/row9	Cell3		numeric	12	Column 2. Line 053. IFE in the opening balance. Cumulative foreign resource expenses, CFRE – regular expenses.
+5	P2C/table/row9	Cell4		numeric	12	Column 3. Line 054. IFE in amounts added or deducted from pool balance during the tax year. Cumulative foreign resource expenses, CFRE – regular expenses.
+5	P2C/table/row9	Cell5		numeric	12	"Column 4. Line 055. IFE in amount available before current year claim, column 2 plus or minus column 3. If negative, enter ""0"". Cumulative foreign resource expenses, CFRE – regular expenses."
+5	P2C/table/row9	Cell6		numeric	12	Column 5. Line 056. IFE in current year claims, cannot be more than column 4. Cumulative foreign resource expenses, CFRE – regular expenses.
+5	P2C/table/row9	Cell7		numeric	12	"Column 6. Line 057. IFE in closing balance, column 4 minus column 5. If negative, enter ""0"". Cumulative foreign resource expenses, CFRE – regular expenses."
+5	P2C/table/row10	Cell3		numeric	12	Column 2. Line 053. IFE in the opening balance. CFRE – successor expenses.
+5	P2C/table/row10	Cell4		numeric	12	Column 3. Line 054. IFE in amounts added or deducted from pool balance during the tax year. CFRE – successor expenses.
+5	P2C/table/row10	Cell5		numeric	12	"Column 4. Line 055. IFE in amount available before current year claim, column 2 plus or minus column 3. If negative, enter ""0"". CFRE – successor expenses."
+5	P2C/table/row10	Cell6		numeric	12	Column 5. Line 056. IFE in current year claims, cannot be more than column 4. CFRE – successor expenses.
+5	P2C/table/row10	Cell7		numeric	12	"Column 6. Line 057. IFE in closing balance, column 4 minus column 5. If negative, enter ""0"". CFRE – successor expenses."
+5	P2C/Amnt_A_N3/Amont_A	numInpt		numeric	12	Amount A. Total of column 5, enter on line 031 in Part 2A.
+5	Ftr/PageNumbers	CurrentPage		numeric		
+5	Ftr/PageNumbers	PageCount		numeric		
+6	P2D/Ln058	numInpt	058	numeric	12	Line 058. Interest received or receivable, other than excluded interest, deemed interest under subsection 137(4.1), or an amount included in any of the other lines in Part 2D.
+6	P2D/Ln059	numInpt	059	numeric	12	Line 059. Amount included in the income because of subsection 12(9) or section 17.1, other than an amount included in any of the other lines in Part 2D.
+6	P2D/Ln060	numInpt	060	numeric	12	Line 060. Fee or similar amount in respect of a guarantee or a similar credit support for the payment of any amount on a debt obligation owing by another person or partnership that is included in computing the corporation's income for the year, other than an amount included in any of the other lines in Part 2D.
+6	P2D/Ln061	numInpt	061	numeric	12	Line 061. An amount, under or as a result of a agreement or arrangement, entered into as or in relation to a loan or other financing, owing to or provided by the corporation, or a non-arm's length person or partnership, that can reasonably be expected to increase or be part of the return of the corporation, or a non-arm's length person or partnership, that is received or receivable, other than as a dividend, included in computing the corporation's income for the year, amount A from Part 1D.
+6	P2D/Ln062	numInpt	062	numeric	12	Line 062. An amount, under or as a result of a agreement or arrangement, entered into as or in relation to a loan or other financing, owing to or provided by the corporation, or a non-arm's length person or partnership, that can reasonably be expected to increase or be part of the return of the corporation, or a non-arm's length person or partnership, that is a gain included in the corporation's income for the year.
+6	P2D/Ln063	numInpt	063	numeric	12	Line 063. A lease financing amount, other than a lease that would meet the definition of an excluded lease in subsection 18.2(1), if that definition were read without regard to paragraph (a), that is included in income, that is not excluded interest for the year.
+6	P2D/Ln064	numInpt	064	numeric	12	Line 064. The corporation's share of the IFR of a partnership it is a member of, total of amounts from box 248 of the T5013 slips plus relevant amounts from non-resident partnerships.
+6	P2D/Ln065	numInpt	065	numeric	12	Line 065. Amount that is a CFA's relevant affiliate interest and financing revenues, to the extent of the corporation's specified participating percentage in respect of the affiliate for the affiliate tax year, less any deduction in respect of foreign accrual tax.
+6	P2D/LnA	numInpt		numeric	12	Amount A. Total of lines 058 to 065.
+6	P2D/Ln066	numInpt	066	numeric	12	Line 066. Under or as a result of an agreement or arrangement entered into as or in relation to a loan or other financing, owing to or provided by the corporation, or a non-arm's length person or partnership, that can reasonably be considered to reduce the return in respect of the loan or financing of the corporation, or a non-arm's length person or partnership, that is, An amount paid or payable, other than a loss or capital loss, that is deductible in computing the corporation's income for the year, amount B from Part 1D.
+6	P2D/Ln067	numInpt	067	numeric	12	Line 067. Under or as a result of an agreement or arrangement entered into as or in relation to a loan or other financing, owing to or provided by the corporation, or a non-arm's length person or partnership, that can reasonably be considered to reduce the return in respect of the loan or financing of the corporation, or a non-arm's length person or partnership, that is, a loss that is deductible in computing the corporation's income for the year.
+6	P2D/Ln068	numInpt	068	numeric	12	Line 068. Under or as a result of an agreement or arrangement entered into as or in relation to a loan or other financing, owing to or provided by the corporation, or a non-arm's length person or partnership, that can reasonably be considered to reduce the return in respect of the loan or financing of the corporation, or a non-arm's length person or partnership, that is, a capital loss that reduces the amount determined under paragraph 3(b) for the tax year.
+6	P2D/Ln069	numInpt	069	numeric	12	Line 069. The corporation's share of an amount that, if received or receivable by the corporation, would correspond to the description of an amount to be included in lines 066, 067 and 068 above, but is received or receivable by a partnership of which the corporation is a member, total of amounts from box 250 of the T5013 slips plus relevant amounts from non-resident partnerships.
+6	P2D/Ln070	numInpt	070	numeric	12	Line 070. An amount otherwise included in the corporation's IFR, amount A, to the extent the amount is sheltered from Canadian tax by virtue of a credit or deduction in respect of foreign taxes, other than a credit or deduction in respect of foreign withholding taxes.
+6	P2D/Ln071	numInpt	071	numeric	12	Line 071. Amounts included in amount A of Part 2D that are exempt from tax under Part I of the Income Tax Act.
+6	P2D/LnB	numInpt		numeric	12	Amount B. Total of lines 066 to 071.
+6	P2D/Ln072	numInpt	072	numeric	12	"Line 072. Total IFR. Amount A minus amount B. If negative, enter ""0"", enter on line 096 in Part 2F, line 109 in Part 2G, line 121 in Part 2H and line 135 in Part 2K."
+6	Ftr/PageNumbers	CurrentPage		numeric		
+6	Ftr/PageNumbers	PageCount		numeric		
+7	P2E/table/row1	Cell2		numeric	12	Column 1. Line 073. Tax year of origin of the non-capital loss. Row 1.
+7	P2E/table/row1	Cell3		numeric	12	Column 2. Line 074. Non-capital loss, amount determined under (i) of variable J. Row 1.
+7	P2E/table/row1	Cell4		numeric	12	Column 3. Line 075. Amounts determined under (ii) of variable J. Row 1.
+7	P2E/table/row1	Cell5		numeric	12	Column 4. Line 076. Variable J, lesser of column 2 and column 3. Row 1.
+7	P2E/table/row1	Cell6		numeric	12	Column 5. Line 077. Amount deducted under paragraph 111(1)(a) when calculating taxable income for the year. Row 1.
+7	P2E/table/row1	Cell7		numeric	12	Column 6. Line 078. Amount determined for paragraph (h) of variable B of the adjusted taxable income, column 5 multiplied by column 4 divided by column 2. Row 1.
+7	P2E/table/row2	Cell2		numeric	12	Column 1. Line 073. Tax year of origin of the non-capital loss. Row 2.
+7	P2E/table/row2	Cell3		numeric	12	Column 2. Line 074. Non-capital loss, amount determined under (i) of variable J. Row 2.
+7	P2E/table/row2	Cell4		numeric	12	Column 3. Line 075. Amounts determined under (ii) of variable J. Row 2.
+7	P2E/table/row2	Cell5		numeric	12	Column 4. Line 076. Variable J, lesser of column 2 and column 3. Row 2.
+7	P2E/table/row2	Cell6		numeric	12	Column 5. Line 077. Amount deducted under paragraph 111(1)(a) when calculating taxable income for the year. Row 2.
+7	P2E/table/row2	Cell7		numeric	12	Column 6. Line 078. Amount determined for paragraph (h) of variable B of the adjusted taxable income, column 5 multiplied by column 4 divided by column 2. Row 2.
+7	P2E/table/row3	Cell2		numeric	12	Column 1. Line 073. Tax year of origin of the non-capital loss. Row 3.
+7	P2E/table/row3	Cell3		numeric	12	Column 2. Line 074. Non-capital loss, amount determined under (i) of variable J. Row 3.
+7	P2E/table/row3	Cell4		numeric	12	Column 3. Line 075. Amounts determined under (ii) of variable J. Row 3.
+7	P2E/table/row3	Cell5		numeric	12	Column 4. Line 076. Variable J, lesser of column 2 and column 3. Row 3.
+7	P2E/table/row3	Cell6		numeric	12	Column 5. Line 077. Amount deducted under paragraph 111(1)(a) when calculating taxable income for the year. Row 3.
+7	P2E/table/row3	Cell7		numeric	12	Column 6. Line 078. Amount determined for paragraph (h) of variable B of the adjusted taxable income, column 5 multiplied by column 4 divided by column 2. Row 3.
+7	P2E/table/row4	Cell2		numeric	12	Column 1. Line 073. Tax year of origin of the non-capital loss. Row 4.
+7	P2E/table/row4	Cell3		numeric	12	Column 2. Line 074. Non-capital loss, amount determined under (i) of variable J. Row 4.
+7	P2E/table/row4	Cell4		numeric	12	Column 3. Line 075. Amounts determined under (ii) of variable J. Row 4.
+7	P2E/table/row4	Cell5		numeric	12	Column 4. Line 076. Variable J, lesser of column 2 and column 3. Row 4.
+7	P2E/table/row4	Cell6		numeric	12	Column 5. Line 077. Amount deducted under paragraph 111(1)(a) when calculating taxable income for the year. Row 4.
+7	P2E/table/row4	Cell7		numeric	12	Column 6. Line 078. Amount determined for paragraph (h) of variable B of the adjusted taxable income, column 5 multiplied by column 4 divided by column 2. Row 4.
+7	P2E/table/row5	Cell2		numeric	12	Column 1. Line 073. Tax year of origin of the non-capital loss. Row 5.
+7	P2E/table/row5	Cell3		numeric	12	Column 2. Line 074. Non-capital loss, amount determined under (i) of variable J. Row 5.
+7	P2E/table/row5	Cell4		numeric	12	Column 3. Line 075. Amounts determined under (ii) of variable J. Row 5.
+7	P2E/table/row5	Cell5		numeric	12	Column 4. Line 076. Variable J, lesser of column 2 and column 3. Row 5.
+7	P2E/table/row5	Cell6		numeric	12	Column 5. Line 077. Amount deducted under paragraph 111(1)(a) when calculating taxable income for the year. Row 5.
+7	P2E/table/row5	Cell7		numeric	12	Column 6. Line 078. Amount determined for paragraph (h) of variable B of the adjusted taxable income, column 5 multiplied by column 4 divided by column 2. Row 5.
+7	P2E/Amnt_A	numInpt		numeric	12	Amount A. Total of column 6, enter on line 089 in Part 2F.
+7	Ftr/PageNumbers	CurrentPage		numeric		
+7	Ftr/PageNumbers	PageCount		numeric		
+8	P2F/Ln079	numInpt	079	numeric	12	Line 079. If corporation is a non-resident, the corporation's taxable income earned in Canada, determined without regard to subsection 18.2(2), paragraphs 12(1)(l.2) and 111(1)(a.1). In any other case, the corporation's taxable income, determined without regard to subsection 18.2(2), paragraphs 12(1)(l.2) and 111(1)(a.1) and clause 95(2)(f.11)(ii)(D).
+8	P2F/Ln080	numInpt	080	numeric	12	Line 080. Non-capital loss for the year, determined without regard to subsection 18.2(2), paragraphs 12(1)(l.2) and 111(1)(a.1) and clause 95(2)(f.11)(ii)(D).
+8	P2F/Ln081	numInpt	081	numeric	12	Line 081. Total of all amounts determined under paragraph (b) of variable E of the ATI for CFAs of the corporation.
+8	P2F/Ln082	numInpt	082	numeric	12	Line 082. Total of all amounts determined under paragraph (b) of variable E of the ATI for CFAs of partnerships of which the corporation or a CFA of the corporation is a member.
+8	P2F/LnA	numInpt1		numeric	12	Amount A. Total of lines 080 to 082. Instance 1.
+8	P2F/LnA	numInpt2		numeric	12	Amount A. Total of lines 080 to 082. Instance 2.
+8	P2F/LnB	numInpt		numeric	12	Amount B. Line 079 minus amount A, can be positive or negative amount.
+8	P2F/Ln083	numInpt	083	numeric	12	Line 083. The corporation's IFE for the year, line 045 from Part 2A.
+8	P2F/Ln084	numInpt	084	numeric	12	Line 084. Amounts deducted when calculating income under paragraphs 20(1)(a) and 59.1(a), subsections 66(4), 66.1(2) or (3), 66.2(2), 66.21(4), 66.4(2), or 66.7(1), (2), (2.3), (3), (4) or (5), other than any portion already included in IFE.
+8	P2F/Ln085	numInpt	085	numeric	12	Line 085. Terminal loss deducted under subsection 20(16) when calculating income for the year, other than any portion already included in IFE.
+8	P2F/Ln086	numInpt	086	numeric	12	Line 086. The corporation's share of the CCA or terminal loss of a partnership it is a member of, other than the portion that is already included in IFE, minus the portion of the amount that is not deductible when calculating the corporation's income or non-capital loss for the year because of subsection 96(2.1).
+8	P2F/Ln087	numInpt	087	numeric	12	Line 087. If an amount has been deducted under paragraph 111(1)(e), the portion of the amount deducted that can reasonably be considered to be attributable to the CCA or terminal loss of a partnership, other than any portion that has been included in IFE.
+8	P2F/Ln088	numInpt	088	numeric	12	Line 088. Amount deducted under paragraph 110(1)(k) when calculating taxable income for the year.
+8	P2F/Ln089	numInpt	089	numeric	12	Line 089. The portion of non-capital loss being deducted under paragraph 111(1)(a) that can reasonably be considered to be derived from IFE, amount A from Part 2E.
+8	P2F/Ln090	numInpt	090	numeric	12	Line 090. 25% of the amount deducted for a specified pre-regime loss under paragraph 111(1)(a), see note 4.
+8	P2F/Ln091	numInpt	091	numeric	12	Line 091. Additional amount, if any, that would be included in the corporation's income, in respect of a CFA or a CFA of a partnership of which the corporation or a CFA of the corporation is a member of, if the affiliate's foreign accrual property income, FAPI, was increased by an amount determined by the formula L x M/N contained in paragraph (j) of variable B of the definition of the ATI.
+8	P2F/Ln092	numInpt	092	numeric	12	Line 092. The corporation's loss if it had no income or loss other than a loss that can reasonably be considered to be from activities funded by a borrowing that results in exempt IFE, amount C from Part 1B.
+8	P2F/Ln093	numInpt	093	numeric	12	Line 093. The corporation's share of the loss of a partnership it is a member of, if the partnership had no income or loss other than a loss that can reasonably be considered to be from activities funded by a borrowing that results in exempt IFE.
+8	P2F/Ln094	numInpt	094	numeric	12	Line 094. An amount deducted under subsections 127(5) or (6), 127.44(3), 127.45(6), 127.48(3) or 127.49(6) for a property acquired in a preceding tax year that the corporation did not include in income for the year or for a preceding year and did not include in the ATI for a preceding year to the extent it is included in an amount determined under paragraph 13(7.1)(e) and subparagraphs 53(2)(c)(vi) to (c)(vi.4) or (h)(ii) in the definition undepreciated capital cost in subsection 13(21).
+8	P2F/Ln095	numInpt	095	numeric	12	Line 095. An amount described in clause 12(1)(x)(i)(C) or subparagraph 12(1)(x)(ii) that the corporation received, to the extent it reduces the cost or capital cost of property and is not included when calculating the corporation's income of the year under subparagraph 12(1)(x)(vi) or (vii).
+8	P2F/LnC	numInpt		numeric	12	"Amount C. Total of lines 083 to 095. If negative, enter ""0""."
+8	Ftr/PageNumbers	CurrentPage		numeric		
+8	Ftr/PageNumbers	PageCount		numeric		
+9	P2F_2/Ln096	numInpt	096	numeric	12	Line 096. IFR of the corporation for the year, line 072 from Part 2D.
+9	P2F_2/Ln097	numInpt	097	numeric	12	Line 097. Recaptured depreciation amount under subsection 13(1).
+9	P2F_2/Ln098	numInpt	098	numeric	12	Line 098. The corporation's share of the recaptured depreciation amount of a partnership of which it is a member.
+9	P2F_2/Ln099	numInpt	099	numeric	12	Line 099. Amount included under subsection 59(1) or (3.2) or paragraph 59.1(b) in computing income for the year.
+9	P2F_2/Ln100	numInpt	100	numeric	12	Line 100. Foreign-source income, to the extent it is sheltered from Canadian tax by foreign tax credits under subsection 126(1) or (2).
+9	P2F_2/Ln101	numInpt	101	numeric	12	Line 101. Amount included under section 110.5 in computing the corporation's taxable income for the year.
+9	P2F_2/Ln102	numInpt	102	numeric	12	Line 102. Amount included in income of the corporation under subsection 104(13), less any portion designated under subsection 104(19) or any amount that gives rise to a deduction under paragraph 94.2(3)(a) in computing FAPI.
+9	P2F_2/Ln103	numInpt	103	numeric	12	Line 103. Amount of taxable income for the year that is not, because of an Act of Parliament, subject to tax under Part I of the Income Tax Act.
+9	P2F_2/Ln104	numInpt	104	numeric	12	Line 104. Income of the corporation if it had no income or loss other than income that can reasonably be considered to derive from activities funded by a borrowing that results in exempt IFE, amount B from Part 1B.
+9	P2F_2/Ln105	numInpt	105	numeric	12	Line 105. Corporation's share of the income or loss of a partnership of which it is a member, if the partnership had no income or loss other than income that can reasonably be considered to derive from activities funded by a borrowing that results in exempt IFE.
+9	P2F_2/LnD	numInpt		numeric	12	"Amount D. Total of lines 096 to 105. If negative, enter ""0""."
+9	P2F_2/Ln106	numInpt	106	numeric	12	"Line 106. ATI of the corporation for the year. Amount B plus amount C minus amount D. If negative, enter ""0"", enter this on line 107 in Part 2G, line 119 in Part 2H, and line 133 in Part 2K."
+9	Ftr/PageNumbers	CurrentPage		numeric		
+9	Ftr/PageNumbers	PageCount		numeric		
+10	P2G/Ln107	numInpt	107	numeric	12	Line 107. ATI of the corporation for the year, line 106 from Part 2F.
+10	P2G/Ln108	numInpt	108	numeric		Line 108. The ratio of permissible expenses of the corporation for the year.
+10	P2G/LnA	numInpt1		numeric	12	Amount A. Line 107 multiplied by line 108. Instance 1.
+10	P2G/LnA	numInpt2		numeric	12	Amount A. Line 107 multiplied by line 108. Instance 2.
+10	P2G/Ln109	numInpt	109	numeric	12	Line 109. IFR of the corporation for the year, line 072 from Part 2D.
+10	P2G/Ln110	numInpt	110	numeric	12	"Line 110. The amount by which the IFR exceeds the IFE for the year. If negative, enter ""0""."
+10	P2G/Ln111	numInpt	111	numeric	12	Line 111. If, in the absence of section 257, the ATI is a negative amount, the absolute value of ATI, otherwise nil.
+10	P2G/LnB	numInpt		numeric	12	Amount B. The lesser of lines 110 and 111.
+10	P2G/Ln112	numInpt	112	numeric		Line 112. The ratio of permissible expenses of the corporation for the year.
+10	P2G/LnC	numInpt1		numeric	12	Amount C. Amount B multiplied by line 112. Instance 1.
+10	P2G/LnC	numInpt2		numeric	12	Amount C. Amount B multiplied by line 112. Instance 2.
+10	P2G/LnD	numInpt1		numeric	12	"Amount D. Line 109 minus amount C. If negative, enter ""0"". Instance 1."
+10	P2G/LnD	numInpt2		numeric	12	"Amount D. Line 109 minus amount C. If negative, enter ""0"". Instance 2."
+10	P2G/LnE	numInpt		numeric	12	Amount E. Amount A plus amount D.
+10	P2G/Ln113	numInpt	113	numeric	12	Line 113. The corporation's IFE for the year, line 045 from Part 2A.
+10	P2G/LnF	numInpt		numeric	12	"Amount F. Amount E minus line 113. If negative, enter ""0"", enter on line 129 in Part 2J."
+10	P2G/Ln114	numInpt	114	numeric	12	Line 114. The restricted interest and financing expenses deductible under paragraph 111(1)(a.1) for the year, amount B from Part 2J.
+10	P2G/Ln115	numInpt	115	numeric	12	"Line 115. Excess capacity for the current year. Amount F minus line 114. If negative, enter ""0"", enter on line 126 in Part 2I."
+10	P2H/Ln116	numInpt	116	numeric	12	Line 116. Cumulative unused excess capacity determined as if the absorbed capacity for the year were nil, amount B in Part 2I.
+10	P2H/Ln117	numInpt	117	numeric	12	Line 117. The corporation's IFE for the year, line 045 in Part 2A.
+10	P2H/Ln118	numInpt	118	numeric	12	Line 118. If the corporation has made a group ratio election under subsection 18.21(2), the allocated group ratio amount.
+10	P2H/Ln119	numInpt	119	numeric	12	Line 119. If it has not made a group ratio election, the ATI, line 106 from Part 2F.
+10	P2H/Ln120	numInpt	120	numeric		Line 120. Ratio of permissible expenses for the year.
+10	P2H/LnA	numInpt1		numeric	12	Amount A. Line 119 multiplied by line 120. Instance 1.
+10	P2H/LnA	numInpt2		numeric	12	Amount A. Line 119 multiplied by line 120. Instance 2.
+10	P2H/Ln121	numInpt	121	numeric	12	Line 121. The corporation's IFR for the year, line 072 from part 2D.
+10	P2H/LnB	numInpt1		numeric	12	Amount B. Either line 118 or amount A, whichever applies, plus line 121. Instance 1.
+10	P2H/LnB	numInpt2		numeric	12	Amount B. Either line 118 or amount A, whichever applies, plus line 121. Instance 2.
+10	P2H/LnC	numInpt1		numeric	12	"Amount C. Line 117 minus amount B. If negative, enter ""0"". Instance 1."
+10	P2H/LnC	numInpt2		numeric	12	"Amount C. Line 117 minus amount B. If negative, enter ""0"". Instance 2."
+10	P2H/LnD	numInpt		numeric	12	Amount D. Absorbed capacity. The lesser of line 116 or amount C, enter on line 127 in Part 2I and on line 138 in Part 2K.
+10	Ftr/PageNumbers	CurrentPage		numeric		
+10	Ftr/PageNumbers	PageCount		numeric		
+11	P2I/table/row1	Cell3		numeric	12	Column 1. Line 122. Excess capacity. Third immediately preceding year.
+11	P2I/table/row1	Cell4		numeric	12	Column 2. Line 123. Amounts previously transferred under subsection 18.2(4). Third immediately preceding year.
+11	P2I/table/row1	Cell5		numeric	12	Column 3. Line 124. Amounts previously absorbed under subsection 18.2(2). Third immediately preceding year.
+11	P2I/table/row1	Cell6		numeric	12	"Column 4. Line 125. Column 1 minus column 2 minus column 3. If negative, enter ""0"". Third immediately preceding year."
+11	P2I/table/row2	Cell3		numeric	12	Column 1. Line 122. Excess capacity. Second immediately preceding year.
+11	P2I/table/row2	Cell4		numeric	12	Column 2. Line 123. Amounts previously transferred under subsection 18.2(4). Second immediately preceding year.
+11	P2I/table/row2	Cell5		numeric	12	Column 3. Line 124. Amounts previously absorbed under subsection 18.2(2). Second immediately preceding year.
+11	P2I/table/row2	Cell6		numeric	12	"Column 4. Line 125. Column 1 minus column 2 minus column 3. If negative, enter ""0"". Second immediately preceding year."
+11	P2I/table/row3	Cell3		numeric	12	Column 1. Line 122. Excess capacity. First immediately preceding year.
+11	P2I/table/row3	Cell4		numeric	12	Column 2. Line 123. Amounts previously transferred under subsection 18.2(4). First immediately preceding year.
+11	P2I/table/row3	Cell5		numeric	12	Column 3. Line 124. Amounts previously absorbed under subsection 18.2(2). First immediately preceding year.
+11	P2I/table/row3	Cell6		numeric	12	"Column 4. Line 125. Column 1 minus column 2 minus column 3. If negative, enter ""0"". First immediately preceding year."
+11	P2I/LnA	numInpt		numeric	12	Amount A. Total of column 4.
+11	P2I/Ln126	numInpt	126	numeric	12	Line 126. Excess capacity for the year, line 115 from Part 2G.
+11	P2I/LnB	numInpt1		numeric	12	Amount B. CUEC determined as if the absorbed capacity for the year were nil. Amount A plus line 126, enter on line 116 in Part 2H. Instance 1.
+11	P2I/LnB	numInpt2		numeric	12	Amount B. CUEC determined as if the absorbed capacity for the year were nil. Amount A plus line 126, enter on line 116 in Part 2H. Instance 2.
+11	P2I/Ln127	numInpt	127	numeric	12	Line 127. Absorbed capacity, amount D from Part 2H.
+11	P2I/LnC	numInpt		numeric	12	"Amount C. CUEC. Amount B minus line 127. If negative, enter ""0""."
+11	P2J/Ln128	numInpt	128	numeric	12	Line 128. RIFE from previous tax years.
+11	P2J/Ln129	numInpt	129	numeric	12	Line 129. Corporation's excess capacity for the year if the amount determined for C in that definition were nil, amount F from Part 2G.
+11	P2J/Ln130	numInpt	130	numeric	12	Line 130. Total of all amounts of the corporation's received capacity for the year, amount A from Part 1A.
+11	P2J/LnA	numInpt1		numeric	12	Amount A. Line 129 plus line 130. Instance 1.
+11	P2J/LnA	numInpt2		numeric	12	Amount A. Line 129 plus line 130. Instance 2.
+11	P2J/LnB	numInpt		numeric	12	Amount B. RIFE deductible under paragraph 111(1)(a.1) for the year. The lesser of line 128 and amount A, enter on line 114 in Part 2G and on line 137 in Part 2K.
+11	Ftr/PageNumbers	CurrentPage		numeric		
+11	Ftr/PageNumbers	PageCount		numeric		
+12	P2K/Ln131	numInpt		numeric	12	Amount 131. The corporation's IFE for the year, line 045 from Part 2A.
+12	P2K/Ln132	numInpt	132	numeric	12	Line 132. If a group ratio election under subsection 18.21(2) has been made, the amount determined and allocated in respect of the corporation for the year under the group ratio election.
+12	P2K/Ln133	numInpt	133	numeric	12	Line 133. If no group ratio election has been made, the ATI, line 106 from Part 2F.
+12	P2K/Ln134	numInpt	134	numeric		Line 134. Ratio of permissible expenses.
+12	P2K/LnA	numInpt1		numeric	12	Amount A. Line 133 multiplied by line 134. Instance 1.
+12	P2K/LnA	numInpt2		numeric	12	Amount A. Line 133 multiplied by line 134. Instance 2.
+12	P2K/LnB	numInpt		numeric	12	Amount B. Either line 132 or amount A, whichever applies.
+12	P2K/Ln135	numInpt	135	numeric	12	Line 135. The corporation's IFR for the year, line 072 from Part 2D.
+12	P2K/Ln136	numInpt	136	numeric	12	Line 136. Received capacity for the year, amount A from Part 1A.
+12	P2K/Ln137	numInpt	137	numeric	12	Line 137. RIFE deductible under paragraph 111(1)(a.1) for the year, amount B from Part 2J.
+12	P2K/LnC	numInpt1		numeric	12	"Amount C. The amount of received capacity that exceeds the deductible amount under paragraph 111(1)(a.1). Line 136 minus line 137. If negative, enter ""0"". Instance 1."
+12	P2K/LnC	numInpt2		numeric	12	"Amount C. The amount of received capacity that exceeds the deductible amount under paragraph 111(1)(a.1). Line 136 minus Line 137. If negative, enter ""0"". Instance 2."
+12	P2K/Ln138	numInpt	138	numeric	12	Line 138. Absorbed capacity amount for the year, amount D from Part 2H.
+12	P2K/LnD	numInpt		numeric	12	Amount D. Amount B plus line 135 plus amount C plus line 138.
+12	P2K/LnE	numInpt		numeric	12	Amount E. Line 131 minus amount D.
+12	P2K/Ln139	numInpt	139	numeric	12	Line 139. Variable A of IFE, amount A from Part 2A.
+12	P2K/Ln140	numInpt	140	numeric	12	Line 140. Variable A of IFE, adjusted to remove any amounts that are part of a CFA's relevant affiliate interest and financing expenses under variable B of IFE.
+12	P2K/LnG	numInpt		numeric	12	Amount F. Either line 139 or line 140, whichever applies.
+12	P2K/LnH	numInpt		numeric		"Amount G. Amount E divided by Amount F. If negative, enter ""0"", enter in column 3 in Part 2M."
+12	P2L/Ln141	numInpt	141	numeric	12	Line 141. Variable A of IFE, amount A from Part 2A.
+12	P2L/Ln142	numInpt	142	numeric	12	Line 142. Total of the amounts determined under paragraph (h) of variable A of IFE, amount A from Part 1E.
+12	P2L/Ln143	numInpt	143	numeric	12	Line 143. Total of the amounts determined under paragraph (j) of variable A of IFE, line 041 from Part 2A.
+12	P2L/LnA	numInpt1		numeric	12	"Amount A. Line 141 minus line 142 minus line 143. If negative, enter ""0"". Instance 1."
+12	P2L/LnA	numInpt2		numeric	12	"Amount A. Line 141 minus line 142 minus line 143. If negative, enter ""0"". Instance 2."
+12	P2L/LnB	numInpt		numeric	12	Amount B. Total of all amounts determined under subsection 18.2(2). Amount G in Part 2K multiplied by amount A in Part 2L, enter on line 159 in Part 2O and in Schedule 1 of T2 return.
+12	Ftr/PageNumbers	CurrentPage		numeric		
+12	Ftr/PageNumbers	PageCount		numeric		
+13	P2M/table1/row1	Cell2		text		Column 1. Line 144. Name of CFA. Row 1.
+13	P2M/table1/row1	Cell3		numeric	12	Column 2. Line 145. Amounts determined for variable A in the definition of IFE for the affiliate. Row 1.
+13	P2M/table1/row1	Cell4		numeric		Column 3. Line 146. Proportion determined under subsection 18.2(2). Amount G in Part 2K. Row 1.
+13	P2M/table1/row1	Cell5		numeric	12	Column 4. Line 147. Denied amount under subclause 95(2)(f.11)(ii)(D)(I). Column 2 multiplied by column 3. Row 1.
+13	P2M/table1/row1	Cell6		numeric		Column 5. Line 148. The corporation's specified participating percentage under subsection 18.2(1) for the affiliate's tax year. Row 1.
+13	P2M/table1/row1	Cell7		numeric	12	Column 6. Line 149. Corporation's share of the denied amount under subclause 95(2)(f.11)(ii)(D)(I) for the affiliate's tax year. Column 4 multiplied by column 5. Row 1.
+13	P2M/table1/row2	Cell2		text		Column 1. Line 144. Name of CFA. Row 2.
+13	P2M/table1/row2	Cell3		numeric	12	Column 2. Line 145. Amounts determined for variable A in the definition of IFE for the affiliate. Row 2.
+13	P2M/table1/row2	Cell4		numeric		Column 3. Line 146. Proportion determined under subsection 18.2(2). Amount G in Part 2K. Row 2.
+13	P2M/table1/row2	Cell5		numeric	12	Column 4. Line 147. Denied amount under subclause 95(2)(f.11)(ii)(D)(I). Column 2 multiplied by column 3. Row 2.
+13	P2M/table1/row2	Cell6		numeric		Column 5. Line 148. The corporation's specified participating percentage under subsection 18.2(1) for the affiliate's tax year. Row 2.
+13	P2M/table1/row2	Cell7		numeric	12	Column 6. Line 149. Corporation's share of the denied amount under subclause 95(2)(f.11)(ii)(D)(I) for the affiliate's tax year. Column 4 multiplied by column 5. Row 2.
+13	P2M/table1/row3	Cell2		text		Column 1. Line 144. Name of CFA. Row 3.
+13	P2M/table1/row3	Cell3		numeric	12	Column 2. Line 145. Amounts determined for variable A in the definition of IFE for the affiliate. Row 3.
+13	P2M/table1/row3	Cell4		numeric		Column 3. Line 146. Proportion determined under subsection 18.2(2). Amount G in Part 2K. Row 3.
+13	P2M/table1/row3	Cell5		numeric	12	Column 4. Line 147. Denied amount under subclause 95(2)(f.11)(ii)(D)(I). Column 2 multiplied by column 3. Row 3.
+13	P2M/table1/row3	Cell6		numeric		Column 5. Line 148. The corporation's specified participating percentage under subsection 18.2(1) for the affiliate's tax year. Row 3.
+13	P2M/table1/row3	Cell7		numeric	12	Column 6. Line 149. Corporation's share of the denied amount under subclause 95(2)(f.11)(ii)(D)(I) for the affiliate's tax year. Column 4 multiplied by column 5. Row 3.
+13	P2M/table1/row4	Cell2		text		Column 1. Line 144. Name of CFA. Row 4.
+13	P2M/table1/row4	Cell3		numeric	12	Column 2. Line 145. Amounts determined for variable A in the definition of IFE for the affiliate. Row 4.
+13	P2M/table1/row4	Cell4		numeric		Column 3. Line 146. Proportion determined under subsection 18.2(2). Amount G in Part 2K. Row 4.
+13	P2M/table1/row4	Cell5		numeric	12	Column 4. Line 147. Denied amount under subclause 95(2)(f.11)(ii)(D)(I). Column 2 multiplied by column 3. Row 4.
+13	P2M/table1/row4	Cell6		numeric		Column 5. Line 148. The corporation's specified participating percentage under subsection 18.2(1) for the affiliate's tax year. Row 4.
+13	P2M/table1/row4	Cell7		numeric	12	Column 6. Line 149. Corporation's share of the denied amount under subclause 95(2)(f.11)(ii)(D)(I) for the affiliate's tax year. Column 4 multiplied by column 5. Row 4.
+13	P2M/table1/row5	Cell2		text		Column 1. Line 144. Name of CFA. Row 5.
+13	P2M/table1/row5	Cell3		numeric	12	Column 2. Line 145. Amounts determined for variable A in the definition of IFE for the affiliate. Row 5.
+13	P2M/table1/row5	Cell4		numeric		Column 3. Line 146. Proportion determined under subsection 18.2(2). Amount G in Part 2K. Row 5.
+13	P2M/table1/row5	Cell5		numeric	12	Column 4. Line 147. Denied amount under subclause 95(2)(f.11)(ii)(D)(I). Column 2 multiplied by column 3. Row 5.
+13	P2M/table1/row5	Cell6		numeric		Column 5. Line 148. The corporation's specified participating percentage under subsection 18.2(1) for the affiliate's tax year. Row 5.
+13	P2M/table1/row5	Cell7		numeric	12	Column 6. Line 149. Corporation's share of the denied amount under subclause 95(2)(f.11)(ii)(D)(I) for the affiliate's tax year. Column 4 multiplied by column 5. Row 5.
+13	P2M/Ln150	numInpt	150	numeric	12	Line 150. Total of column 6, enter on line 161 in Part 2O.
+13	P2M/table2/row1	Cell2		text		Column 1. Line 151. Name of the CFA that is a member of the partnership. Row 1.
+13	P2M/table2/row1	Cell3		numeric	12	Column 2. Line 152. Amount determined under subclause 95(2)(f.11)(ii)(D)(II) in computing a CFA's FAPI. Row 1.
+13	P2M/table2/row1	Cell4		numeric		Column 3. Line 153. The corporation's specified participating percentage under subsection 18.2(1) for the affiliate's tax year. Row 1.
+13	P2M/table2/row1	Cell5		numeric	12	Column 4. Line 154. The corporation's share of an amount included under subclause 95(2)(f.11)(ii)(D)(II) for the affiliate's tax year. Column 2 multiplied by column 3. Row 1.
+13	P2M/table2/row2	Cell2		text		Column 1. Line 151. Name of the CFA that is a member of the partnership. Row 2.
+13	P2M/table2/row2	Cell3		numeric	12	Column 2. Line 152. Amount determined under subclause 95(2)(f.11)(ii)(D)(II) in computing a CFA's FAPI. Row 2.
+13	P2M/table2/row2	Cell4		numeric		Column 3. Line 153. The corporation's specified participating percentage under subsection 18.2(1) for the affiliate's tax year. Row 2.
+13	P2M/table2/row2	Cell5		numeric	12	Column 4. Line 154. The corporation's share of an amount included under subclause 95(2)(f.11)(ii)(D)(II) for the affiliate's tax year. Column 2 multiplied by column 3. Row 2.
+13	P2M/table2/row3	Cell2		text		Column 1. Line 151. Name of the CFA that is a member of the partnership. Row 3.
+13	P2M/table2/row3	Cell3		numeric	12	Column 2. Line 152. Amount determined under subclause 95(2)(f.11)(ii)(D)(II) in computing a CFA's FAPI. Row 3.
+13	P2M/table2/row3	Cell4		numeric		Column 3. Line 153. The corporation's specified participating percentage under subsection 18.2(1) for the affiliate's tax year. Row 3.
+13	P2M/table2/row3	Cell5		numeric	12	Column 4. Line 154. The corporation's share of an amount included under subclause 95(2)(f.11)(ii)(D)(II) for the affiliate's tax year. Column 2 multiplied by column 3. Row 3.
+13	P2M/table2/row4	Cell2		text		Column 1. Line 151. Name of the CFA that is a member of the partnership. Row 4.
+13	P2M/table2/row4	Cell3		numeric	12	Column 2. Line 152. Amount determined under subclause 95(2)(f.11)(ii)(D)(II) in computing a CFA's FAPI. Row 4.
+13	P2M/table2/row4	Cell4		numeric		Column 3. Line 153. The corporation's specified participating percentage under subsection 18.2(1) for the affiliate's tax year. Row 4.
+13	P2M/table2/row4	Cell5		numeric	12	Column 4. Line 154. The corporation's share of an amount included under subclause 95(2)(f.11)(ii)(D)(II) for the affiliate's tax year. Column 2 multiplied by column 3. Row 4.
+13	P2M/table2/row5	Cell2		text		Column 1. Line 151. Name of the CFA that is a member of the partnership. Row 5.
+13	P2M/table2/row5	Cell3		numeric	12	Column 2. Line 152. Amount determined under subclause 95(2)(f.11)(ii)(D)(II) in computing a CFA's FAPI. Row 5.
+13	P2M/table2/row5	Cell4		numeric		Column 3. Line 153. The corporation's specified participating percentage under subsection 18.2(1) for the affiliate's tax year. Row 5.
+13	P2M/table2/row5	Cell5		numeric	12	Column 4. Line 154. The corporation's share of an amount included under subclause 95(2)(f.11)(ii)(D)(II) for the affiliate's tax year. Column 2 multiplied by column 3. Row 5.
+13	P2M/Ln155	numInpt	155	numeric	12	Line 155. Total of column 4, enter on line 162 in Part 2O.
+13	Ftr/PageNumbers	CurrentPage		numeric		
+13	Ftr/PageNumbers	PageCount		numeric		
+14	P2N/Ln156	numInpt	156	numeric	12	Line 156. Total of all amounts included under paragraph (h) of variable A of corporation's IFE, amount A from Part 1E.
+14	P2N/Ln157	numInpt	157	numeric		Line 157. Ratio determined under subsection 18.2(2), amount G from Part 2K.
+14	P2N/Ln158	numInpt	158	numeric	12	Line 158. Total add-back of partnership IFE under paragraph 12(1)(I.2), line 156 multiplied by line 157, enter on line 160 in Part 2O and in Schedule 1 of T2 return.
+14	P2O/Ln159	numInpt	159	numeric	12	Line 159. Excess IFE under subsection 18.2(2), amount B from Part 2L.
+14	P2O/Ln160	numInpt	160	numeric	12	Line 160. Partnership IFE add-back under paragraph 12(1)(l.2), line 158 from Part 2N.
+14	P2O/Ln161	numInpt	161	numeric	12	Line 161. Amount determined under subclause 95(2)(f.11)(ii)(D)(I), line 150 from Part 2M.
+14	P2O/Ln162	numInpt	162	numeric	12	Line 162. Amount determined under subclause 95(2)(f.11)(ii)(D)(II), line 155 from Part 2M.
+14	P2O/LnA	numInpt		numeric	12	Amount A. RIFE for the tax year. Total of lines 159 to 162, enter in Schedule 4.
+14	Ftr/PageNumbers	CurrentPage		numeric		
+14	Ftr/PageNumbers	PageCount		numeric		

@@ -1,0 +1,64 @@
+page	part	field	line	kind	digits	speak
+1	Ident_bar	Corp_name		text		Corporation's name.
+1	Ident_bar	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident_bar/Tax_y-e	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Table/Row1	Cell1	100	text		Line 100. Name of shareholder. After name, indicate in brackets if the shareholder is a corporation, partnership, individual, or trust. Row 1.
+1	Table/Row1	Cell2	200	text		Line 200. Business number or partnership account number. 9 digits, 2 letters, and 4 digits. If not registered, enter NR. Row 1.
+1	Table/Row1	Cell3	300	text		Line 300. Social insurance number. 9 digits. Row 1.
+1	Table/Row1	Cell4	350	text		Line 350. Trust number. T followed by 8 digits. Row 1.
+1	Table/Row1	Cell5	400	numeric		Line 400. Percentage common shares. Row 1.
+1	Table/Row1	Cell6	500	numeric		Line 500. Percentage preferred shares. Row 1.
+1	Table/Row2	Cell1	100	text		Line 100. Name of shareholder. After name, indicate in brackets if the shareholder is a corporation, partnership, individual, or trust. Row 2.
+1	Table/Row2	Cell2	200	text		Line 200. Business number or partnership account number. 9 digits, 2 letters, and 4 digits. If not registered, enter NR. Row 2.
+1	Table/Row2	Cell3	300	text		Line 300. Social insurance number. 9 digits. Row 2.
+1	Table/Row2	Cell4	350	text		Line 350. Trust number. T followed by 8 digits. Row 2.
+1	Table/Row2	Cell5	400	numeric		Line 400. Percentage common shares. Row 2.
+1	Table/Row2	Cell6	500	numeric		Line 500. Percentage preferred shares. Row 2.
+1	Table/Row3	Cell1	100	text		Line 100. Name of shareholder. After name, indicate in brackets if the shareholder is a corporation, partnership, individual, or trust. Row 3.
+1	Table/Row3	Cell2	200	text		Line 200. Business number or partnership account number. 9 digits, 2 letters, and 4 digits. If not registered, enter NR. Row 3.
+1	Table/Row3	Cell3	300	text		Line 300. Social insurance number. 9 digits. Row 3.
+1	Table/Row3	Cell4	350	text		Line 350. Trust number. T followed by 8 digits. Row 3.
+1	Table/Row3	Cell5	400	numeric		Line 400. Percentage common shares. Row 3.
+1	Table/Row3	Cell6	500	numeric		Line 500. Percentage preferred shares. Row 3.
+1	Table/Row4	Cell1	100	text		Line 100. Name of shareholder. After name, indicate in brackets if the shareholder is a corporation, partnership, individual, or trust. Row 4.
+1	Table/Row4	Cell2	200	text		Line 200. Business number or partnership account number. 9 digits, 2 letters, and 4 digits. If not registered, enter NR. Row 4.
+1	Table/Row4	Cell3	300	text		Line 300. Social insurance number. 9 digits. Row 4.
+1	Table/Row4	Cell4	350	text		Line 350. Trust number. T followed by 8 digits. Row 4.
+1	Table/Row4	Cell5	400	numeric		Line 400. Percentage common shares. Row 4.
+1	Table/Row4	Cell6	500	numeric		Line 500. Percentage preferred shares. Row 4.
+1	Table/Row5	Cell1	100	text		Line 100. Name of shareholder. After name, indicate in brackets if the shareholder is a corporation, partnership, individual, or trust. Row 5.
+1	Table/Row5	Cell2	200	text		Line 200. Business number or partnership account number. 9 digits, 2 letters, and 4 digits. If not registered, enter NR. Row 5.
+1	Table/Row5	Cell3	300	text		Line 300. Social insurance number. 9 digits. Row 5.
+1	Table/Row5	Cell4	350	text		Line 350. Trust number. T followed by 8 digits. Row 5.
+1	Table/Row5	Cell5	400	numeric		Line 400. Percentage common shares. Row 5.
+1	Table/Row5	Cell6	500	numeric		Line 500. Percentage preferred shares. Row 5.
+1	Table/Row6	Cell1	100	text		Line 100. Name of shareholder. After name, indicate in brackets if the shareholder is a corporation, partnership, individual, or trust. Row 6.
+1	Table/Row6	Cell2	200	text		Line 200. Business number or partnership account number. 9 digits, 2 letters, and 4 digits. If not registered, enter NR. Row 6.
+1	Table/Row6	Cell3	300	text		Line 300. Social insurance number. 9 digits. Row 6.
+1	Table/Row6	Cell4	350	text		Line 350. Trust number. T followed by 8 digits. Row 6.
+1	Table/Row6	Cell5	400	numeric		Line 400. Percentage common shares. Row 6.
+1	Table/Row6	Cell6	500	numeric		Line 500. Percentage preferred shares. Row 6.
+1	Table/Row7	Cell1	100	text		Line 100. Name of shareholder. After name, indicate in brackets if the shareholder is a corporation, partnership, individual, or trust. Row 7.
+1	Table/Row7	Cell2	200	text		Line 200. Business number or partnership account number. 9 digits, 2 letters, and 4 digits. If not registered, enter NR. Row 7.
+1	Table/Row7	Cell3	300	text		Line 300. Social insurance number. 9 digits. Row 7.
+1	Table/Row7	Cell4	350	text		Line 350. Trust number. T followed by 8 digits. Row 7.
+1	Table/Row7	Cell5	400	numeric		Line 400. Percentage common shares. Row 7.
+1	Table/Row7	Cell6	500	numeric		Line 500. Percentage preferred shares. Row 7.
+1	Table/Row8	Cell1	100	text		Line 100. Name of shareholder. After name, indicate in brackets if the shareholder is a corporation, partnership, individual, or trust. Row 8.
+1	Table/Row8	Cell2	200	text		Line 200. Business number or partnership account number. 9 digits, 2 letters, and 4 digits. If not registered, enter NR. Row 8.
+1	Table/Row8	Cell3	300	text		Line 300. Social insurance number. 9 digits. Row 8.
+1	Table/Row8	Cell4	350	text		Line 350. Trust number. T followed by 8 digits. Row 8.
+1	Table/Row8	Cell5	400	numeric		Line 400. Percentage common shares. Row 8.
+1	Table/Row8	Cell6	500	numeric		Line 500. Percentage preferred shares. Row 8.
+1	Table/Row9	Cell1	100	text		Line 100. Name of shareholder. After name, indicate in brackets if the shareholder is a corporation, partnership, individual, or trust. Row 9.
+1	Table/Row9	Cell2	200	text		Line 200. Business number or partnership account number. 9 digits, 2 letters, and 4 digits. If not registered, enter NR. Row 9.
+1	Table/Row9	Cell3	300	text		Line 300. Social insurance number. 9 digits. Row 9.
+1	Table/Row9	Cell4	350	text		Line 350. Trust number. T followed by 8 digits. Row 9.
+1	Table/Row9	Cell5	400	numeric		Line 400. Percentage common shares. Row 9.
+1	Table/Row9	Cell6	500	numeric		Line 500. Percentage preferred shares. Row 9.
+1	Table/Row10	Cell1	100	text		Line 100. Name of shareholder. After name, indicate in brackets if the shareholder is a corporation, partnership, individual, or trust. Row 10.
+1	Table/Row10	Cell2	200	text		Line 200. Business number or partnership account number. 9 digits, 2 letters, and 4 digits. If not registered, enter NR. Row 10.
+1	Table/Row10	Cell3	300	text		Line 300. Social insurance number. 9 digits. Row 10.
+1	Table/Row10	Cell4	350	text		Line 350. Trust number. T followed by 8 digits. Row 10.
+1	Table/Row10	Cell5	400	numeric		Line 400. Percentage common shares. Row 10.
+1	Table/Row10	Cell6	500	numeric		Line 500. Percentage preferred shares. Row 10.

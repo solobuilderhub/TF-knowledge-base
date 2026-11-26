@@ -1,0 +1,328 @@
+page	part	field	line	kind	digits	speak
+1	Pg1_Ident_bar1	Corp_name		text		Corporation's name.
+1	Pg1_Ident_bar1	Bus_no		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Pg1_Ident_bar1/Tax_y-e	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Pg1_Ident_bar2/Line_0001	Input_0001	0001	text		Line 0001. Operating Name.
+1	Pg1_Ident_bar2/Line_0002	Input_0002	0002	text		Line 0002. Description of the operation.
+1	Pg1_Ident_bar2/Line_0003	Input_0003	0003	numeric	2	Line 0003. Sequence number. 2 numbers.
+1	Pg1_tables/Pg1_table1/Row1	cell1		numeric	4	Non-farming revenue. Field Code. Row 1.
+1	Pg1_tables/Pg1_table1/Row1	cell2		numeric	12	Non-farming revenue. Amount. Row 1.
+1	Pg1_tables/Pg1_table1/Row2	cell1		numeric	4	Non-farming revenue. Field Code. Row 2.
+1	Pg1_tables/Pg1_table1/Row2	cell2		numeric	12	Non-farming revenue. Amount. Row 2.
+1	Pg1_tables/Pg1_table1/Row3	cell1		numeric	4	Non-farming revenue. Field Code. Row 3.
+1	Pg1_tables/Pg1_table1/Row3	cell2		numeric	12	Non-farming revenue. Amount. Row 3.
+1	Pg1_tables/Pg1_table1/Row4	cell1		numeric	4	Non-farming revenue. Field Code. Row 4.
+1	Pg1_tables/Pg1_table1/Row4	cell2		numeric	12	Non-farming revenue. Amount. Row 4.
+1	Pg1_tables/Pg1_table1/Row5	cell1		numeric	4	Non-farming revenue. Field Code. Row 5.
+1	Pg1_tables/Pg1_table1/Row5	cell2		numeric	12	Non-farming revenue. Amount. Row 5.
+1	Pg1_tables/Pg1_table1/Row6	cell1		numeric	4	Non-farming revenue. Field Code. Row 6.
+1	Pg1_tables/Pg1_table1/Row6	cell2		numeric	12	Non-farming revenue. Amount. Row 6.
+1	Pg1_tables/Pg1_table1/Row7	cell1		numeric	4	Non-farming revenue. Field Code. Row 7.
+1	Pg1_tables/Pg1_table1/Row7	cell2		numeric	12	Non-farming revenue. Amount. Row 7.
+1	Pg1_tables/Pg1_table1/Row8	cell1		numeric	4	Non-farming revenue. Field Code. Row 8.
+1	Pg1_tables/Pg1_table1/Row8	cell2		numeric	12	Non-farming revenue. Amount. Row 8.
+1	Pg1_tables/Pg1_table1/Row9	cell1		numeric	4	Non-farming revenue. Field Code. Row 9.
+1	Pg1_tables/Pg1_table1/Row9	cell2		numeric	12	Non-farming revenue. Amount. Row 9.
+1	Pg1_tables/Pg1_table1/Row10	cell1		numeric	4	Non-farming revenue. Field Code. Row 10.
+1	Pg1_tables/Pg1_table1/Row10	cell2		numeric	12	Non-farming revenue. Amount. Row 10.
+1	Pg1_tables/Pg1_table1/Row11	cell1		numeric	4	Non-farming revenue. Field Code. Row 11.
+1	Pg1_tables/Pg1_table1/Row11	cell2		numeric	12	Non-farming revenue. Amount. Row 11.
+1	Pg1_tables/Pg1_table1/Row12	cell1		numeric	4	Non-farming revenue. Field Code. Row 12.
+1	Pg1_tables/Pg1_table1/Row12	cell2		numeric	12	Non-farming revenue. Amount. Row 12.
+1	Pg1_tables/Pg1_table1/Row13	cell1		numeric	4	Non-farming revenue. Field Code. Row 13.
+1	Pg1_tables/Pg1_table1/Row13	cell2		numeric	12	Non-farming revenue. Amount. Row 13.
+1	Pg1_tables/Pg1_table1/Row14	cell1		numeric	4	Non-farming revenue. Field Code. Row 14.
+1	Pg1_tables/Pg1_table1/Row14	cell2		numeric	12	Non-farming revenue. Amount. Row 14.
+1	Pg1_tables/Pg1_table1/Row15	cell1		numeric	4	Non-farming revenue. Field Code. Row 15.
+1	Pg1_tables/Pg1_table1/Row15	cell2		numeric	12	Non-farming revenue. Amount. Row 15.
+1	Pg1_tables/Pg1_table1/Row16	cell1		numeric	4	Non-farming revenue. Field Code. Row 16.
+1	Pg1_tables/Pg1_table1/Row16	cell2		numeric	12	Non-farming revenue. Amount. Row 16.
+1	Pg1_tables/Pg1_table1/Row17	cell1		numeric	4	Non-farming revenue. Field Code. Row 17.
+1	Pg1_tables/Pg1_table1/Row17	cell2		numeric	12	Non-farming revenue. Amount. Row 17.
+1	Pg1_tables/Pg1_table1/Row18	cell1		numeric	4	Non-farming revenue. Field Code. Row 18.
+1	Pg1_tables/Pg1_table1/Row18	cell2		numeric	12	Non-farming revenue. Amount. Row 18.
+1	Pg1_tables/Pg1_table1/Row19	cell1		numeric	4	Non-farming revenue. Field Code. Row 19.
+1	Pg1_tables/Pg1_table1/Row19	cell2		numeric	12	Non-farming revenue. Amount. Row 19.
+1	Pg1_tables/Pg1_table1/Row20	cell1		numeric	4	Non-farming revenue. Field Code. Row 20.
+1	Pg1_tables/Pg1_table1/Row20	cell2		numeric	12	Non-farming revenue. Amount. Row 20.
+1	Pg1_tables/Pg1_table1/Row21	cell1		numeric	4	Non-farming revenue. Field Code. Row 21.
+1	Pg1_tables/Pg1_table1/Row21	cell2		numeric	12	Non-farming revenue. Amount. Row 21.
+1	Pg1_tables/Pg1_table1/Row22	cell1		numeric	4	Non-farming revenue. Field Code. Row 22.
+1	Pg1_tables/Pg1_table1/Row22	cell2		numeric	12	Non-farming revenue. Amount. Row 22.
+1	Pg1_tables/Pg1_table1/Row23	cell1		numeric	4	Non-farming revenue. Field Code. Row 23.
+1	Pg1_tables/Pg1_table1/Row23	cell2		numeric	12	Non-farming revenue. Amount. Row 23.
+1	Pg1_tables/Pg1_table1/Row24	cell1		numeric	4	Non-farming revenue. Field Code. Row 24.
+1	Pg1_tables/Pg1_table1/Row24	cell2		numeric	12	Non-farming revenue. Amount. Row 24.
+1	Pg1_tables/Pg1_table1/Row25	cell1		numeric	4	Non-farming revenue. Field Code. Row 25.
+1	Pg1_tables/Pg1_table1/Row25	cell2		numeric	12	Non-farming revenue. Amount. Row 25.
+1	Pg1_tables/Pg1_table1/Row26	cell1		numeric	4	Non-farming revenue. Field Code. Row 26.
+1	Pg1_tables/Pg1_table1/Row26	cell2		numeric	12	Non-farming revenue. Amount. Row 26.
+1	Pg1_tables/Pg1_table1/Row27	cell1		numeric	4	Non-farming revenue. Field Code. Row 27.
+1	Pg1_tables/Pg1_table1/Row27	cell2		numeric	12	Non-farming revenue. Amount. Row 27.
+1	Pg1_tables/Pg1_table1/Row28	cell1		numeric	4	Non-farming revenue. Field Code. Row 28.
+1	Pg1_tables/Pg1_table1/Row28	cell2		numeric	12	Non-farming revenue. Amount. Row 28.
+1	Pg1_tables/Pg1_table1/Row29	cell1		numeric	4	Non-farming revenue. Field Code. Row 29.
+1	Pg1_tables/Pg1_table1/Row29	cell2		numeric	12	Non-farming revenue. Amount. Row 29.
+1	Pg1_tables/Pg1_table1/Row30	cell1		numeric	4	Non-farming revenue. Field Code. Row 30.
+1	Pg1_tables/Pg1_table1/Row30	cell2		numeric	12	Non-farming revenue. Amount. Row 30.
+1	Pg1_tables/Pg1_table1/Row31	cell1		numeric	4	Non-farming revenue. Field Code. Row 31.
+1	Pg1_tables/Pg1_table1/Row31	cell2		numeric	12	Non-farming revenue. Amount. Row 31.
+1	Pg1_tables/Pg1_table1/Row32	cell1		numeric	4	Non-farming revenue. Field Code. Row 32.
+1	Pg1_tables/Pg1_table1/Row32	cell2		numeric	12	Non-farming revenue. Amount. Row 32.
+1	Pg1_tables/Pg1_table1/Row33	cell2		numeric	12	Field code 8299. Total non-farming revenue. Amount.
+1	Pg1_tables/Pg1_table2/Row1	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 1.
+1	Pg1_tables/Pg1_table2/Row1	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 1.
+1	Pg1_tables/Pg1_table2/Row2	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 2.
+1	Pg1_tables/Pg1_table2/Row2	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 2.
+1	Pg1_tables/Pg1_table2/Row3	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 3.
+1	Pg1_tables/Pg1_table2/Row3	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 3.
+1	Pg1_tables/Pg1_table2/Row4	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 4.
+1	Pg1_tables/Pg1_table2/Row4	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 4.
+1	Pg1_tables/Pg1_table2/Row5	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 5.
+1	Pg1_tables/Pg1_table2/Row5	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 5.
+1	Pg1_tables/Pg1_table2/Row6	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 6.
+1	Pg1_tables/Pg1_table2/Row6	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 6.
+1	Pg1_tables/Pg1_table2/Row7	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 7.
+1	Pg1_tables/Pg1_table2/Row7	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 7.
+1	Pg1_tables/Pg1_table2/Row8	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 8.
+1	Pg1_tables/Pg1_table2/Row8	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 8.
+1	Pg1_tables/Pg1_table2/Row9	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 9.
+1	Pg1_tables/Pg1_table2/Row9	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 9.
+1	Pg1_tables/Pg1_table2/Row10	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 10.
+1	Pg1_tables/Pg1_table2/Row10	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 10.
+1	Pg1_tables/Pg1_table2/Row11	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 11.
+1	Pg1_tables/Pg1_table2/Row11	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 11.
+1	Pg1_tables/Pg1_table2/Row12	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 12.
+1	Pg1_tables/Pg1_table2/Row12	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 12.
+1	Pg1_tables/Pg1_table2/Row13	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 13.
+1	Pg1_tables/Pg1_table2/Row13	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 13.
+1	Pg1_tables/Pg1_table2/Row14	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 14.
+1	Pg1_tables/Pg1_table2/Row14	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 14.
+1	Pg1_tables/Pg1_table2/Row15	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 15.
+1	Pg1_tables/Pg1_table2/Row15	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 15.
+1	Pg1_tables/Pg1_table2/Row16	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 16.
+1	Pg1_tables/Pg1_table2/Row16	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 16.
+1	Pg1_tables/Pg1_table2/Row17	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 17.
+1	Pg1_tables/Pg1_table2/Row17	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 17.
+1	Pg1_tables/Pg1_table2/Row18	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 18.
+1	Pg1_tables/Pg1_table2/Row18	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 18.
+1	Pg1_tables/Pg1_table2/Row19	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 19.
+1	Pg1_tables/Pg1_table2/Row19	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 19.
+1	Pg1_tables/Pg1_table2/Row20	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 20.
+1	Pg1_tables/Pg1_table2/Row20	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 20.
+1	Pg1_tables/Pg1_table2/Row21	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 21.
+1	Pg1_tables/Pg1_table2/Row21	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 21.
+1	Pg1_tables/Pg1_table2/Row22	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 22.
+1	Pg1_tables/Pg1_table2/Row22	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 22.
+1	Pg1_tables/Pg1_table2/Row23	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 23.
+1	Pg1_tables/Pg1_table2/Row23	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 23.
+1	Pg1_tables/Pg1_table2/Row24	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 24.
+1	Pg1_tables/Pg1_table2/Row24	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 24.
+1	Pg1_tables/Pg1_table2/Row25	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 25.
+1	Pg1_tables/Pg1_table2/Row25	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 25.
+1	Pg1_tables/Pg1_table2/Row26	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 26.
+1	Pg1_tables/Pg1_table2/Row26	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 26.
+1	Pg1_tables/Pg1_table2/Row27	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 27.
+1	Pg1_tables/Pg1_table2/Row27	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 27.
+1	Pg1_tables/Pg1_table2/Row28	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 28.
+1	Pg1_tables/Pg1_table2/Row28	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 28.
+1	Pg1_tables/Pg1_table2/Row29	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 29.
+1	Pg1_tables/Pg1_table2/Row29	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 29.
+1	Pg1_tables/Pg1_table2/Row30	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 30.
+1	Pg1_tables/Pg1_table2/Row30	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 30.
+1	Pg1_tables/Pg1_table2/Row31	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 31.
+1	Pg1_tables/Pg1_table2/Row31	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 31.
+1	Pg1_tables/Pg1_table2/Row32	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 32.
+1	Pg1_tables/Pg1_table2/Row32	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 32.
+1	Pg1_tables/Pg1_table2/Row33	cell1		numeric	4	Non-farming expenses. Cost of sales. Field code. Row 33.
+1	Pg1_tables/Pg1_table2/Row33	cell2		numeric	12	Non-farming expenses. Cost of sales. Amount. Row 33.
+1	Pg1_tables/Pg1_table3/Row1	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 1.
+1	Pg1_tables/Pg1_table3/Row1	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 1.
+1	Pg1_tables/Pg1_table3/Row2	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 2.
+1	Pg1_tables/Pg1_table3/Row2	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 2.
+1	Pg1_tables/Pg1_table3/Row3	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 3.
+1	Pg1_tables/Pg1_table3/Row3	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 3.
+1	Pg1_tables/Pg1_table3/Row4	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 4.
+1	Pg1_tables/Pg1_table3/Row4	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 4.
+1	Pg1_tables/Pg1_table3/Row5	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 5.
+1	Pg1_tables/Pg1_table3/Row5	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 5.
+1	Pg1_tables/Pg1_table3/Row6	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 6.
+1	Pg1_tables/Pg1_table3/Row6	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 6.
+1	Pg1_tables/Pg1_table3/Row7	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 7.
+1	Pg1_tables/Pg1_table3/Row7	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 7.
+1	Pg1_tables/Pg1_table3/Row8	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 8.
+1	Pg1_tables/Pg1_table3/Row8	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 8.
+1	Pg1_tables/Pg1_table3/Row9	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 9.
+1	Pg1_tables/Pg1_table3/Row9	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 9.
+1	Pg1_tables/Pg1_table3/Row10	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 10.
+1	Pg1_tables/Pg1_table3/Row10	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 10.
+1	Pg1_tables/Pg1_table3/Row11	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 11.
+1	Pg1_tables/Pg1_table3/Row11	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 11.
+1	Pg1_tables/Pg1_table3/Row12	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 12.
+1	Pg1_tables/Pg1_table3/Row12	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 12.
+1	Pg1_tables/Pg1_table3/Row13	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 13.
+1	Pg1_tables/Pg1_table3/Row13	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 13.
+1	Pg1_tables/Pg1_table3/Row14	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 14.
+1	Pg1_tables/Pg1_table3/Row14	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 14.
+1	Pg1_tables/Pg1_table3/Row15	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 15.
+1	Pg1_tables/Pg1_table3/Row15	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 15.
+1	Pg1_tables/Pg1_table3/Row16	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 16.
+1	Pg1_tables/Pg1_table3/Row16	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 16.
+1	Pg1_tables/Pg1_table3/Row17	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 17.
+1	Pg1_tables/Pg1_table3/Row17	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 17.
+1	Pg1_tables/Pg1_table3/Row18	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 18.
+1	Pg1_tables/Pg1_table3/Row18	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 18.
+1	Pg1_tables/Pg1_table3/Row19	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 19.
+1	Pg1_tables/Pg1_table3/Row19	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 19.
+1	Pg1_tables/Pg1_table3/Row20	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 20.
+1	Pg1_tables/Pg1_table3/Row20	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 20.
+1	Pg1_tables/Pg1_table3/Row21	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 21.
+1	Pg1_tables/Pg1_table3/Row21	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 21.
+1	Pg1_tables/Pg1_table3/Row22	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 22.
+1	Pg1_tables/Pg1_table3/Row22	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 22.
+1	Pg1_tables/Pg1_table3/Row23	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 23.
+1	Pg1_tables/Pg1_table3/Row23	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 23.
+1	Pg1_tables/Pg1_table3/Row24	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 24.
+1	Pg1_tables/Pg1_table3/Row24	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 24.
+1	Pg1_tables/Pg1_table3/Row25	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 25.
+1	Pg1_tables/Pg1_table3/Row25	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 25.
+1	Pg1_tables/Pg1_table3/Row26	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 26.
+1	Pg1_tables/Pg1_table3/Row26	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 26.
+1	Pg1_tables/Pg1_table3/Row27	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 27.
+1	Pg1_tables/Pg1_table3/Row27	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 27.
+1	Pg1_tables/Pg1_table3/Row28	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 28.
+1	Pg1_tables/Pg1_table3/Row28	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 28.
+1	Pg1_tables/Pg1_table3/Row29	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 29.
+1	Pg1_tables/Pg1_table3/Row29	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 29.
+1	Pg1_tables/Pg1_table3/Row30	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 30.
+1	Pg1_tables/Pg1_table3/Row30	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 30.
+1	Pg1_tables/Pg1_table3/Row31	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 31.
+1	Pg1_tables/Pg1_table3/Row31	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 31.
+1	Pg1_tables/Pg1_table3/Row32	cell1		numeric	4	Non-farming expenses. Operating expenses. Field Code. Row 32.
+1	Pg1_tables/Pg1_table3/Row32	cell2		numeric	12	Non-farming expenses. Operating expenses. Amount. Row 32.
+1	Pg1_tables/Pg1_table3/Row33	cell2		numeric	12	Field code 9368. Total non-farming expenses. Amount.
+1	Pg1_tables/Pg1_table3/Row34	cell2		numeric	12	Field Code 9369. Net non-farming income. Amount.
+1	Pg1_Footer/PageNumbers	CurrentPage		numeric		
+1	Pg1_Footer/PageNumbers	PageCount		numeric		
+2	Pg2_Tables/Pg2_Table1/Row1	cell1		numeric	4	Farming revenue. Field code. Row 1.
+2	Pg2_Tables/Pg2_Table1/Row1	cell2		numeric	12	Farming revenue. Amount. Row 1.
+2	Pg2_Tables/Pg2_Table1/Row2	cell1		numeric	4	Farming revenue. Field code. Row 2.
+2	Pg2_Tables/Pg2_Table1/Row2	cell2		numeric	12	Farming revenue. Amount. Row 2.
+2	Pg2_Tables/Pg2_Table1/Row3	cell1		numeric	4	Farming revenue. Field code. Row 3.
+2	Pg2_Tables/Pg2_Table1/Row3	cell2		numeric	12	Farming revenue. Amount. Row 3.
+2	Pg2_Tables/Pg2_Table1/Row4	cell1		numeric	4	Farming revenue. Field code. Row 4.
+2	Pg2_Tables/Pg2_Table1/Row4	cell2		numeric	12	Farming revenue. Amount. Row 4.
+2	Pg2_Tables/Pg2_Table1/Row5	cell1		numeric	4	Farming revenue. Field code. Row 5.
+2	Pg2_Tables/Pg2_Table1/Row5	cell2		numeric	12	Farming revenue. Amount. Row 5.
+2	Pg2_Tables/Pg2_Table1/Row6	cell1		numeric	4	Farming revenue. Field code. Row 6.
+2	Pg2_Tables/Pg2_Table1/Row6	cell2		numeric	12	Farming revenue. Amount. Row 6.
+2	Pg2_Tables/Pg2_Table1/Row7	cell1		numeric	4	Farming revenue. Field code. Row 7.
+2	Pg2_Tables/Pg2_Table1/Row7	cell2		numeric	12	Farming revenue. Amount. Row 7.
+2	Pg2_Tables/Pg2_Table1/Row8	cell1		numeric	4	Farming revenue. Field code. Row 8.
+2	Pg2_Tables/Pg2_Table1/Row8	cell2		numeric	12	Farming revenue. Amount. Row 8.
+2	Pg2_Tables/Pg2_Table1/Row9	cell1		numeric	4	Farming revenue. Field code. Row 9.
+2	Pg2_Tables/Pg2_Table1/Row9	cell2		numeric	12	Farming revenue. Amount. Row 9.
+2	Pg2_Tables/Pg2_Table1/Row10	cell2		numeric	12	Field code 9659. Total farming revenue. Amount.
+2	Pg2_Tables/Pg2_Table2/Row1	cell1		numeric	4	Farming expenses. Field Code. Row 1.
+2	Pg2_Tables/Pg2_Table2/Row1	cell2		numeric	12	Farming expenses. Amount. Row 1.
+2	Pg2_Tables/Pg2_Table2/Row2	cell1		numeric	4	Farming expenses. Field Code. Row 2.
+2	Pg2_Tables/Pg2_Table2/Row2	cell2		numeric	12	Farming expenses. Amount. Row 2.
+2	Pg2_Tables/Pg2_Table2/Row3	cell1		numeric	4	Farming expenses. Field Code. Row 3.
+2	Pg2_Tables/Pg2_Table2/Row3	cell2		numeric	12	Farming expenses. Amount. Row 3.
+2	Pg2_Tables/Pg2_Table2/Row4	cell1		numeric	4	Farming expenses. Field Code. Row 4.
+2	Pg2_Tables/Pg2_Table2/Row4	cell2		numeric	12	Farming expenses. Amount. Row 4.
+2	Pg2_Tables/Pg2_Table2/Row5	cell1		numeric	4	Farming expenses. Field Code. Row 5.
+2	Pg2_Tables/Pg2_Table2/Row5	cell2		numeric	12	Farming expenses. Amount. Row 5.
+2	Pg2_Tables/Pg2_Table2/Row6	cell1		numeric	4	Farming expenses. Field Code. Row 6.
+2	Pg2_Tables/Pg2_Table2/Row6	cell2		numeric	12	Farming expenses. Amount. Row 6.
+2	Pg2_Tables/Pg2_Table3/Row1	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 1.
+2	Pg2_Tables/Pg2_Table3/Row1	cell2		numeric	12	Farming expenses. Continued. Amount. Row 1.
+2	Pg2_Tables/Pg2_Table3/Row2	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 2.
+2	Pg2_Tables/Pg2_Table3/Row2	cell2		numeric	12	Farming expenses. Continued. Amount. Row 2.
+2	Pg2_Tables/Pg2_Table3/Row3	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 3.
+2	Pg2_Tables/Pg2_Table3/Row3	cell2		numeric	12	Farming expenses. Continued. Amount. Row 3.
+2	Pg2_Tables/Pg2_Table3/Row4	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 4.
+2	Pg2_Tables/Pg2_Table3/Row4	cell2		numeric	12	Farming expenses. Continued. Amount. Row 4.
+2	Pg2_Tables/Pg2_Table3/Row5	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 5.
+2	Pg2_Tables/Pg2_Table3/Row5	cell2		numeric	12	Farming expenses. Continued. Amount. Row 5.
+2	Pg2_Tables/Pg2_Table3/Row6	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 6.
+2	Pg2_Tables/Pg2_Table3/Row6	cell2		numeric	12	Farming expenses. Continued. Amount. Row 6.
+2	Pg2_Tables/Pg2_Table3/Row7	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 7.
+2	Pg2_Tables/Pg2_Table3/Row7	cell2		numeric	12	Farming expenses. Continued. Amount. Row 7.
+2	Pg2_Tables/Pg2_Table3/Row8	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 8.
+2	Pg2_Tables/Pg2_Table3/Row8	cell2		numeric	12	Farming expenses. Continued. Amount. Row 8.
+2	Pg2_Tables/Pg2_Table3/Row9	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 9.
+2	Pg2_Tables/Pg2_Table3/Row9	cell2		numeric	12	Farming expenses. Continued. Amount. Row 9.
+2	Pg2_Tables/Pg2_Table3/Row10	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 10.
+2	Pg2_Tables/Pg2_Table3/Row10	cell2		numeric	12	Farming expenses. Continued. Amount. Row 10.
+2	Pg2_Tables/Pg2_Table3/Row11	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 11.
+2	Pg2_Tables/Pg2_Table3/Row11	cell2		numeric	12	Farming expenses. Continued. Amount. Row 11.
+2	Pg2_Tables/Pg2_Table3/Row12	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 12.
+2	Pg2_Tables/Pg2_Table3/Row12	cell2		numeric	12	Farming expenses. Continued. Amount. Row 12.
+2	Pg2_Tables/Pg2_Table3/Row13	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 13.
+2	Pg2_Tables/Pg2_Table3/Row13	cell2		numeric	12	Farming expenses. Continued. Amount. Row 13.
+2	Pg2_Tables/Pg2_Table3/Row14	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 14.
+2	Pg2_Tables/Pg2_Table3/Row14	cell2		numeric	12	Farming expenses. Continued. Amount. Row 14.
+2	Pg2_Tables/Pg2_Table3/Row15	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 15.
+2	Pg2_Tables/Pg2_Table3/Row15	cell2		numeric	12	Farming expenses. Continued. Amount. Row 15.
+2	Pg2_Tables/Pg2_Table3/Row16	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 16.
+2	Pg2_Tables/Pg2_Table3/Row16	cell2		numeric	12	Farming expenses. Continued. Amount. Row 16.
+2	Pg2_Tables/Pg2_Table3/Row17	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 17.
+2	Pg2_Tables/Pg2_Table3/Row17	cell2		numeric	12	Farming expenses. Continued. Amount. Row 17.
+2	Pg2_Tables/Pg2_Table3/Row18	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 18.
+2	Pg2_Tables/Pg2_Table3/Row18	cell2		numeric	12	Farming expenses. Continued. Amount. Row 18.
+2	Pg2_Tables/Pg2_Table3/Row19	cell1		numeric	4	Farming expenses. Continued. Field Code. Row 19.
+2	Pg2_Tables/Pg2_Table3/Row19	cell2		numeric	12	Farming expenses. Continued. Amount. Row 19.
+2	Pg2_Tables/Pg2_Table3/Row20	cell2		numeric	12	Field code 9898. Total farming expenses. Amount.
+2	Pg2_Tables/Pg2_Table3/Row21	cell2		numeric	12	Field code 9899. Net farm income. Amount.
+2	Pg2_Tables/Pg2_Table3/Row22	cell2		numeric	12	Field code 9970. Net income/loss before taxes and extraordinary items. Amount.
+2	Pg2_Tables/Pg2_Table4/Row1	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 1.
+2	Pg2_Tables/Pg2_Table4/Row1	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 1.
+2	Pg2_Tables/Pg2_Table4/Row2	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 2.
+2	Pg2_Tables/Pg2_Table4/Row2	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 2.
+2	Pg2_Tables/Pg2_Table4/Row3	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 3.
+2	Pg2_Tables/Pg2_Table4/Row3	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 3.
+2	Pg2_Tables/Pg2_Table4/Row4	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 4.
+2	Pg2_Tables/Pg2_Table4/Row4	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 4.
+2	Pg2_Tables/Pg2_Table4/Row5	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 5.
+2	Pg2_Tables/Pg2_Table4/Row5	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 5.
+2	Pg2_Tables/Pg2_Table4/Row6	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 6.
+2	Pg2_Tables/Pg2_Table4/Row6	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 6.
+2	Pg2_Tables/Pg2_Table4/Row7	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 7.
+2	Pg2_Tables/Pg2_Table4/Row7	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 7.
+2	Pg2_Tables/Pg2_Table4/Row9	cell2		numeric	12	Field code 9999. Net income or loss after taxes and extraordinary items. Amount.
+2	Pg2_Tables/Pg2_Table5/Row1	cell1				
+2	Pg2_Tables/Pg2_Table5/Row1	cell2		numeric	12	Other comprehensive income. Field code. 7000. Amount. Row 1.
+2	Pg2_Tables/Pg2_Table5/Row2	cell1				
+2	Pg2_Tables/Pg2_Table5/Row2	cell2		numeric	12	Other comprehensive income. Field code. 7002. Amount. Row 2.
+2	Pg2_Tables/Pg2_Table5/Row3	cell1				
+2	Pg2_Tables/Pg2_Table5/Row3	cell2		numeric	12	Other comprehensive income. Field code. 7004. Amount. Row 3.
+2	Pg2_Tables/Pg2_Table5/Row4	cell1				
+2	Pg2_Tables/Pg2_Table5/Row4	cell2		numeric	12	Other comprehensive income. Field code. 7006. Amount. Row 4.
+2	Pg2_Tables/Pg2_Table5/Row5	cell1				
+2	Pg2_Tables/Pg2_Table5/Row5	cell2		numeric	12	Other comprehensive income. Field code. 7008. Amount. Row 5.
+2	Pg2_Tables/Pg2_Table5/Row6	cell1				
+2	Pg2_Tables/Pg2_Table5/Row6	cell2		numeric	12	Other comprehensive income. Field code. 7010. Amount. Row 6.
+2	Pg2_Tables/Pg2_Table5/Row7	cell1				
+2	Pg2_Tables/Pg2_Table5/Row7	cell2		numeric	12	Other comprehensive income. Field code. 7020. Amount. Row 7.
+2	Pg2_Tables/Pg2_Table5/Row8	cell2		numeric	12	Field code 9998. Total of other comprehensive income. Amount.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table1/Row1	cell2		numeric	12	Field code 9970. Net income or loss before taxes and extraordinary items. Amount.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row1	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 1.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row1	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 1.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row2	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 2.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row2	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 2.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row3	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 3.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row3	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 3.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row4	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 4.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row4	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 4.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row5	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 5.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row5	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 5.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row6	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 6.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row6	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 6.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row7	cell1		numeric	4	Extraordinary items and income taxes. Field code. Row 7.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row7	cell2		numeric	12	Extraordinary items and income taxes. Amount. Row 7.
+2	Pg2_Sch140/Pg2_Sch140_tables/Pg2_Sch140_Table2/Row9	cell2		numeric	12	Field code 9999. Net income or loss after taxes and extraordinary items. Amount.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		

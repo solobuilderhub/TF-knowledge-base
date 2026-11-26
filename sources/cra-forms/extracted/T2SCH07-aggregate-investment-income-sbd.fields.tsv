@@ -1,0 +1,250 @@
+page	part	field	line	kind	digits	speak
+1		Field_Corp_name		text		Corporation's name.
+1		BusinessNumber_Contiguous_EN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Tax_y-e_DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_sf/Ln002_sf	Amount_002	002	numeric	12	Line 002. Eligible portion of taxable capital gains for the year.
+1	Part1_sf/Ln012_sf	Amount_012	012	numeric	12	Line 012. Eligible portion of allowable capital losses for the year, including allowable business investment losses.
+1	Part1_sf/Ln022_sf	Amount_022	022	numeric	12	Line 022. Net capital losses of previous years claimed on line 332 on the corporation income tax return. T2 return.
+1	Part1_sf/AmtA_sf	Amount_A_1		numeric	12	Amount A. Subtotal. Line 012 plus line 022. Instance 1.
+1	Part1_sf/AmtA_sf	Amount_A_2		numeric	12	Amount A. Instance 2.
+1	Part1_sf/AmtB_sf	Amount_B		numeric	12	Amount B. Line 002 minus amount A. If negative enter 0.
+1	Part1_sf/Ln032_sf	Amount_032	032	numeric	12	Line 032. Total income from property, include income from a specified investment business carried on in Canada other than income from a source outside Canada.
+1	Part1_sf/Ln042_sf	Amount_042	042	numeric	12	Line 042. Exempt income.
+1	Part1_sf/Ln052_sf	Amount_052	052	numeric	12	Line 052. Amounts received from AgriInvest Fund number 2 that were included in computing the corporation's income for the year.
+1	Part1_sf/Ln062_sf	Amount_062	062	numeric	12	Line 062. Taxable dividends deductible. Amount 1C on Schedule 3, Dividends Received, Taxable Dividends Paid and Part IV Tax Calculation, minus related expenses.
+1	Part1_sf/Ln072_sf	Amount_072	072	numeric	12	Line 072. Business income from an interest in a trust that is considered property income under paragraph 108(5)(a).
+1	Part1_sf/AmtC_sf	Amount_C_1		numeric	12	Amount C. Subtotal. Add lines 042, 052, 062, and 072. Instance 1.
+1	Part1_sf/AmtC_sf	Amount_C_2		numeric	12	Amount C. Instance 2.
+1	Part1_sf/AmtD_sf	Amount_D_1		numeric	12	Amount D. Subtotal. Line 032 minus amount C. Instance 1.
+1	Part1_sf/AmtD_sf	Amount_D_2		numeric	12	Amount D. Instance 2.
+1	Part1_sf/AmtE_sf	Amount_E		numeric	12	Amount E. Amount B plus amount D.
+1	Part1_sf/Ln082_sf	Amount_082	082	numeric	12	Line 082. Total losses from property, include losses from a specified investment business carried on in Canada other than a loss from a source outside Canada.
+1	Part1_sf/Ln092_sf	Amount_092	092	numeric	12	Line 092. Amount E minus line 082. If negative enter 0. Enter on line 440 of the T2 return.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Part2_sf/Ln705	Amount_705	705	numeric	12	Line 705. Eligible portion of taxable capital gains for the year. Other than taxable capital gains from the disposition of an active asset.
+2	Part2_sf/Ln710	Amount_710	710	numeric	12	Line 710. Eligible portion of allowable capital losses for the year. Including allowable business investment losses. Other than allowable capital losses from the disposition of an active asset.
+2	Part2_sf/AmtF	Amount_F		numeric	12	Amount F. Subtotal. Line 705 minus line 710, if negative, enter 0.
+2	Part2_sf/Ln715	Amount_715	715	numeric	12	Line 715. Total income from property.
+2	Part2_sf/Ln720	Amount_720	720	numeric	12	Line 720. Exempt income.
+2	Part2_sf/Ln725	Amount_725	725	numeric	12	Line 725. Amounts received from AgriInvest Fund number 2 that were included in computing the corporation's income for the year.
+2	Part2_sf/Ln730	Amount_730	730	numeric	12	Line 730. Dividends from connected corporations.
+2	Part2_sf/Ln735	Amount_735	735	numeric	12	Line 735. Business income from an interest in a trust that is considered property income under paragraph 108(5)(a).
+2	Part2_sf/AmtG	Amount_G_1		numeric	12	Amount G. Subtotal. Add lines 720, 725, 730 and 735. Instance 1.
+2	Part2_sf/AmtG	Amount_G_2		numeric	12	Amount G. Instance 2.
+2	Part2_sf/AmtH	Amount_H_1		numeric	12	Amount H. Subtotal. Line 715 minus amount G. Instance 1.
+2	Part2_sf/AmtH	Amount_H_2		numeric	12	Amount H. Instance 2.
+2	Part2_sf/AmtI	Amount_I		numeric	12	Amount I. Amount F plus amount H.
+2	Part2_sf/Ln740	Amount_740	740	numeric	12	Line 740. Total losses from property.
+2	Part2_sf/Ln741	Amount_741	741	numeric	12	Line 741. Amount, if any, deducted under subsection 91(4) in computing the corporation's income for the year.
+2	Part2_sf/Ln745	Amount_745	745	numeric	12	Line 745. Adjusted aggregate investment income. Amount I minus line 740, plus line 741. If negative enter 0. Enter the total of line 745 and the adjusted aggregate investment income of all associated corporations on line 417 of the T2 return for the tax year ending in the following calendar year.
+2	Part3_sf/Ln001_sf	Amount_001	001	numeric	12	Line 001. Eligible portion of taxable capital gains for the year.
+2	Part3_sf/Ln009_sf	Amount_009	009	numeric	12	Line 009. Eligible portion of allowable capital losses for the year, including allowable business investment losses.
+2	Part3_sf/AmtJ_sf	Amount_J		numeric	12	Amount J. Subtotal. Line 001 minus line 009, if negative, enter 0.
+2	Part3_sf/Ln019_sf	Amount_019	019	numeric	12	Line 019. Total income from property from a source outside Canada, net of related expenses.
+2	Part3_sf/Ln029_sf	Amount_029	029	numeric	12	Line 029. Exempt income.
+2	Part3_sf/Ln049_sf	Amount_049	049	numeric	12	Line 049. Taxable dividends deductible. Amount 1C on Schedule 3, minus related expenses.
+2	Part3_sf/Ln059_sf	Amount_059	059	numeric	12	Line 059. Business income from an interest in a trust that is considered property income under paragraph 108(5)(a).
+2	Part3_sf/AmtK_sf	Amount_K_1		numeric	12	Amount K. Subtotal. Add lines 029, 049, and 059. Instance 1.
+2	Part3_sf/AmtK_sf	Amount_K_2		numeric	12	Amount K. Instance 2.
+2	Part3_sf/AmtL_sf	Amount_L_1		numeric	12	Amount L. Subtotal. Line 019 minus amount K. Instance 1.
+2	Part3_sf/AmtL_sf	Amount_L_2		numeric	12	Amount L. Instance 2.
+2	Part3_sf/AmtM_sf	Amount_M		numeric	12	Amount M. Amount J plus amount L.
+2	Part3_sf/Ln069_sf	Amount_069	069	numeric	12	Line 069. Total losses from property from a source outside Canada.
+2	Part3_sf/Ln079_sf	Amount_079	079	numeric	12	Line 079. Amount M minus line 069, if negative enter 0. Enter on line 445 of the T2 return.
+2		CurrentPage		numeric		
+2		PageCount		numeric		
+3	Part4_sf/Table_pt1/Row1	Cell2	200	text		Line 200. Column A1. Partnership name. Row 1.
+3	Part4_sf/Table_pt1/Row1	Cell3	300	numeric		Line 300. Column B1. Total income, or loss, of partnership from an active business. Row 1.
+3	Part4_sf/Table_pt1/Row1	Cell4	310	numeric		Line 310. Column C1. Your share of amount in column B1. Row 1.
+3	Part4_sf/Table_pt1/Row1	Cell5	311	numeric	12	Line 311. Column D1. Income of the corporation from providing, directly or indirectly, services or property to the partnership. Row 1.
+3	Part4_sf/Table_pt1/Row2	Cell2	200	text		Line 200. Column A1. Partnership name. Row 2.
+3	Part4_sf/Table_pt1/Row2	Cell3	300	numeric		Line 300. Column B1. Total income, or loss, of partnership from an active business. Row 2.
+3	Part4_sf/Table_pt1/Row2	Cell4	310	numeric		Line 310. Column C1. Your share of amount in column B1. Row 2.
+3	Part4_sf/Table_pt1/Row2	Cell5	311	numeric	12	Line 311. Column D1. Income of the corporation from providing, directly or indirectly, services or property to the partnership. Row 2.
+3	Part4_sf/Table_pt1/Row3	Cell2	200	text		Line 200. Column A1. Partnership name. Row 3.
+3	Part4_sf/Table_pt1/Row3	Cell3	300	numeric		Line 300. Column B1. Total income, or loss, of partnership from an active business. Row 3.
+3	Part4_sf/Table_pt1/Row3	Cell4	310	numeric		Line 310. Column C1. Your share of amount in column B1. Row 3.
+3	Part4_sf/Table_pt1/Row3	Cell5	311	numeric	12	Line 311. Column D1. Income of the corporation from providing, directly or indirectly, services or property to the partnership. Row 3.
+3	Part4_sf/Table_pt1/Row4	Cell2	200	text		Line 200. Column A1. Partnership name. Row 4.
+3	Part4_sf/Table_pt1/Row4	Cell3	300	numeric		Line 300. Column B1. Total income, or loss, of partnership from an active business. Row 4.
+3	Part4_sf/Table_pt1/Row4	Cell4	310	numeric		Line 310. Column C1. Your share of amount in column B1. Row 4.
+3	Part4_sf/Table_pt1/Row4	Cell5	311	numeric	12	Line 311. Column D1. Income of the corporation from providing, directly or indirectly, services or property to the partnership. Row 4.
+3	Part4_sf/Table_pt1/Row5	Cell2	200	text		Line 200. Column A1. Partnership name. Row 5.
+3	Part4_sf/Table_pt1/Row5	Cell3	300	numeric		Line 300. Column B1. Total income, or loss, of partnership from an active business. Row 5.
+3	Part4_sf/Table_pt1/Row5	Cell4	310	numeric		Line 310. Column C1. Your share of amount in column B1. Row 5.
+3	Part4_sf/Table_pt1/Row5	Cell5	311	numeric	12	Line 311. Column D1. Income of the corporation from providing, directly or indirectly, services or property to the partnership. Row 5.
+3	Part4_sf/Table_pt2/Row1	Cell7	315	numeric		Line 315. Column E1. Adjustments. Add or deduct the prorated amounts calculated under section 34.2 and deduct expenses the corporation incurred to earn partnership income. Row 1.
+3	Part4_sf/Table_pt2/Row1	Cell8	320	numeric		Line 320. Column F1. Corporation's income, or loss, in respect of the partnership. Add columns C1, D1 and E1. Row 1.
+3	Part4_sf/Table_pt2/Row1	Cell9	325	numeric	3	Line 325. Column G1. Number of days in the partnership's fiscal period. Row 1.
+3	Part4_sf/Table_pt2/Row1	Cell10	330	numeric	12	Line 330. Column H1. Prorated business limit. The result of column C1 divided by column B1, multiplied by $500,000 and multiplied by the result of column G1 divided by 365. If column C1 is negative, enter 0. Row 1.
+3	Part4_sf/Table_pt2/Row2	Cell7	315	numeric		Line 315. Column E1. Adjustments. Add or deduct the prorated amounts calculated under section 34.2 and deduct expenses the corporation incurred to earn partnership income. Row 2.
+3	Part4_sf/Table_pt2/Row2	Cell8	320	numeric		Line 320. Column F1. Corporation's income, or loss, in respect of the partnership. Add columns C1, D1 and E1. Row 2.
+3	Part4_sf/Table_pt2/Row2	Cell9	325	numeric	3	Line 325. Column G1. Number of days in the partnership's fiscal period. Row 2.
+3	Part4_sf/Table_pt2/Row2	Cell10	330	numeric	12	Line 330. Column H1. Prorated business limit. The result of column C1 divided by column B1, multiplied by $500,000 and multiplied by the result of column G1 divided by 365. If column C1 is negative, enter 0. Row 2.
+3	Part4_sf/Table_pt2/Row3	Cell7	315	numeric		Line 315. Column E1. Adjustments. Add or deduct the prorated amounts calculated under section 34.2 and deduct expenses the corporation incurred to earn partnership income. Row 3.
+3	Part4_sf/Table_pt2/Row3	Cell8	320	numeric		Line 320. Column F1. Corporation's income, or loss, in respect of the partnership. Add columns C1, D1 and E1. Row 3.
+3	Part4_sf/Table_pt2/Row3	Cell9	325	numeric	3	Line 325. Column G1. Number of days in the partnership's fiscal period. Row 3.
+3	Part4_sf/Table_pt2/Row3	Cell10	330	numeric	12	Line 330. Column H1. Prorated business limit. The result of column C1 divided by column B1, multiplied by $500,000 and multiplied by the result of column G1 divided by 365. If column C1 is negative, enter 0. Row 3.
+3	Part4_sf/Table_pt2/Row4	Cell7	315	numeric		Line 315. Column E1. Adjustments. Add or deduct the prorated amounts calculated under section 34.2 and deduct expenses the corporation incurred to earn partnership income. Row 4.
+3	Part4_sf/Table_pt2/Row4	Cell8	320	numeric		Line 320. Column F1. Corporation's income, or loss, in respect of the partnership. Add columns C1, D1 and E1. Row 4.
+3	Part4_sf/Table_pt2/Row4	Cell9	325	numeric	3	Line 325. Column G1. Number of days in the partnership's fiscal period. Row 4.
+3	Part4_sf/Table_pt2/Row4	Cell10	330	numeric	12	Line 330. Column H1. Prorated business limit. The result of column C1 divided by column B1, multiplied by $500,000 and multiplied by the result of column G1 divided by 365. If column C1 is negative, enter 0. Row 4.
+3	Part4_sf/Table_pt2/Row5	Cell7	315	numeric		Line 315. Column E1. Adjustments. Add or deduct the prorated amounts calculated under section 34.2 and deduct expenses the corporation incurred to earn partnership income. Row 5.
+3	Part4_sf/Table_pt2/Row5	Cell8	320	numeric		Line 320. Column F1. Corporation's income, or loss, in respect of the partnership. Add columns C1, D1 and E1. Row 5.
+3	Part4_sf/Table_pt2/Row5	Cell9	325	numeric	3	Line 325. Column G1. Number of days in the partnership's fiscal period. Row 5.
+3	Part4_sf/Table_pt2/Row5	Cell10	330	numeric	12	Line 330. Column H1. Prorated business limit. The result of column C1 divided by column B1, multiplied by $500,000 and multiplied by the result of column G1 divided by 365. If column C1 is negative, enter 0. Row 5.
+3	Part4_sf/Ln350_sf	Amount_350	350	numeric		Line 350. Total. Add all amounts in column F1.
+3	Part4_sf/Table_pt3/Row1	Cell12	335	numeric	12	Line 335. Column I1. Specified partnership business limit assigned to you. From column H2 in table 2. Row 1.
+3	Part4_sf/Table_pt3/Row1	Cell13	336	numeric	12	Line 336. Column J1. Specified partnership business limit assigned by you. From column F3 in table 3. Row 1.
+3	Part4_sf/Table_pt3/Row1	Cell14		numeric	12	Column K1. Specified partnership business limit amount. Column H1 plus column I1 minus column J1. Row 1.
+3	Part4_sf/Table_pt3/Row1	Cell15		numeric	12	Column L1. Column F1 minus column K1, if negative, enter 0. Row 1.
+3	Part4_sf/Table_pt3/Row1	Cell16	340	numeric	12	Line 340. Column M1. Lesser of columns F1 and K1, if column F1 is negative, enter 0. Row 1.
+3	Part4_sf/Table_pt3/Row2	Cell12	335	numeric	12	Line 335. Column I1. Specified partnership business limit assigned to you. From column H2 in table 2. Row 2.
+3	Part4_sf/Table_pt3/Row2	Cell13	336	numeric	12	Line 336. Column J1. Specified partnership business limit assigned by you. From column F3 in table 3. Row 2.
+3	Part4_sf/Table_pt3/Row2	Cell14		numeric	12	Column K1. Specified partnership business limit amount. Column H1 plus column I1 minus column J1. Row 2.
+3	Part4_sf/Table_pt3/Row2	Cell15		numeric	12	Column L1. Column F1 minus column K1, if negative, enter 0. Row 2.
+3	Part4_sf/Table_pt3/Row2	Cell16	340	numeric	12	Line 340. Column M1. Lesser of columns F1 and K1, if column F1 is negative, enter 0. Row 2.
+3	Part4_sf/Table_pt3/Row3	Cell12	335	numeric	12	Line 335. Column I1. Specified partnership business limit assigned to you. From column H2 in table 2. Row 3.
+3	Part4_sf/Table_pt3/Row3	Cell13	336	numeric	12	Line 336. Column J1. Specified partnership business limit assigned by you. From column F3 in table 3. Row 3.
+3	Part4_sf/Table_pt3/Row3	Cell14		numeric	12	Column K1. Specified partnership business limit amount. Column H1 plus column I1 minus column J1. Row 3.
+3	Part4_sf/Table_pt3/Row3	Cell15		numeric	12	Column L1. Column F1 minus column K1, if negative, enter 0. Row 3.
+3	Part4_sf/Table_pt3/Row3	Cell16	340	numeric	12	Line 340. Column M1. Lesser of columns F1 and K1, if column F1 is negative, enter 0. Row 3.
+3	Part4_sf/Table_pt3/Row4	Cell12	335	numeric	12	Line 335. Column I1. Specified partnership business limit assigned to you. From column H2 in table 2. Row 4.
+3	Part4_sf/Table_pt3/Row4	Cell13	336	numeric	12	Line 336. Column J1. Specified partnership business limit assigned by you. From column F3 in table 3. Row 4.
+3	Part4_sf/Table_pt3/Row4	Cell14		numeric	12	Column K1. Specified partnership business limit amount. Column H1 plus column I1 minus column J1. Row 4.
+3	Part4_sf/Table_pt3/Row4	Cell15		numeric	12	Column L1. Column F1 minus column K1, if negative, enter 0. Row 4.
+3	Part4_sf/Table_pt3/Row4	Cell16	340	numeric	12	Line 340. Column M1. Lesser of columns F1 and K1, if column F1 is negative, enter 0. Row 4.
+3	Part4_sf/Table_pt3/Row5	Cell12	335	numeric	12	Line 335. Column I1. Specified partnership business limit assigned to you. From column H2 in table 2. Row 5.
+3	Part4_sf/Table_pt3/Row5	Cell13	336	numeric	12	Line 336. Column J1. Specified partnership business limit assigned by you. From column F3 in table 3. Row 5.
+3	Part4_sf/Table_pt3/Row5	Cell14		numeric	12	Column K1. Specified partnership business limit amount. Column H1 plus column I1 minus column J1. Row 5.
+3	Part4_sf/Table_pt3/Row5	Cell15		numeric	12	Column L1. Column F1 minus column K1, if negative, enter 0. Row 5.
+3	Part4_sf/Table_pt3/Row5	Cell16	340	numeric	12	Line 340. Column M1. Lesser of columns F1 and K1, if column F1 is negative, enter 0. Row 5.
+3	Part4_sf/Totals_sf	Amount_385	385	numeric	12	Line 385. Total. Add all amounts in column L1.
+3	Part4_sf/Totals_sf	Amount_360	360	numeric	12	Line 360. Total. Add all amounts in column M1.
+3	Part4_sf/Ln370_sf	Amount_370	370	numeric	12	Line 370. Corporation's losses for the year from an active business carried on in Canada other than as a member of a partnership. Enter as a positive amount.
+3	Part4_sf/Ln380_sf	Amount_380	380	numeric	12	Line 380. Specified partnership loss of the corporation for the year. Enter as a positive amount. Total of all negative amounts in column F1.
+3	Part4_sf/AmtN_sf	Amount_N		numeric	12	Amount N. Subtotal. Line 370 plus line 380.
+3	Part4_sf/Ln390_sf	Amount_390	390	numeric	12	Line 390. Amount at line 385 or amount N, whichever is less.
+3	Part4_sf/Ln400_sf	Amount_400	400	numeric	12	Line 400. Specified partnership income. Line 360 plus line 390. Enter at amount R in Part 5.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	Part4_sf/Table2/Row1	Cell1	405	text		Line 405. Column A2. Partnership Name. Row 1.
+4	Part4_sf/Table2/Row1	Cell2	406	text		Line 406. Column B2. Name of the member. Row 1.
+4	Part4_sf/Table2/Row1	Cell3	410	text		Line 410. Column C2. Business number of the member, if applicable. 9 digits, 2 letters, and 4 digits. Row 1.
+4	Part4_sf/Table2/Row1	Cell4	411	text		Line 411. Column D2. Social insurance number of the member, if applicable. 9 digits. Row 1.
+4	Part4_sf/Table2/Row1	inpt	412	text		Line 412. Column E2. Trust Account Number of the member, if applicable. The letter T, A, C or F and 8 digits. Row 1.
+4	Part4_sf/Table2/Row1	Cell6	415	text		Line 415. Column F2. Tax year start of the member. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+4	Part4_sf/Table2/Row1	Cell7	416	text		Line 416. Column G2. Tax year-end of the member. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+4	Part4_sf/Table2/Row1	Cell8	420	numeric	12	Line 420. Column H2. Specified partnership business limit assigned to you by the member. Row 1.
+4	Part4_sf/Table2/Row2	Cell1	405	text		Line 405. Column A2. Partnership Name. Row 2.
+4	Part4_sf/Table2/Row2	Cell2	406	text		Line 406. Column B2. Name of the member. Row 2.
+4	Part4_sf/Table2/Row2	Cell3	410	text		Line 410. Column C2. Business number of the member, if applicable. 9 digits, 2 letters, and 4 digits. Row 2.
+4	Part4_sf/Table2/Row2	Cell4	411	text		Line 411. Column D2. Social insurance number of the member, if applicable. 9 digits. Row 2.
+4	Part4_sf/Table2/Row2	inpt	412	text		Line 412. Column E2. Trust Account Number of the member, if applicable. The letter T, A, C or F and 8 digits. Row 2.
+4	Part4_sf/Table2/Row2	Cell6	415	text		Line 415. Column F2. Tax year start of the member. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+4	Part4_sf/Table2/Row2	Cell7	416	text		Line 416. Column G2. Tax year-end of the member. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+4	Part4_sf/Table2/Row2	Cell8	420	numeric	12	Line 420. Column H2. Specified partnership business limit assigned to you by the member. Row 2.
+4	Part4_sf/Table2/Row3	Cell1	405	text		Line 405. Column A2. Partnership Name. Row 3.
+4	Part4_sf/Table2/Row3	Cell2	406	text		Line 406. Column B2. Name of the member. Row 3.
+4	Part4_sf/Table2/Row3	Cell3	410	text		Line 410. Column C2. Business number of the member, if applicable. 9 digits, 2 letters, and 4 digits. Row 3.
+4	Part4_sf/Table2/Row3	Cell4	411	text		Line 411. Column D2. Social insurance number of the member, if applicable. 9 digits. Row 3.
+4	Part4_sf/Table2/Row3	inpt	412	text		Line 412. Column E2. Trust Account Number of the member, if applicable. The letter T, A, C or F and 8 digits. Row 3.
+4	Part4_sf/Table2/Row3	Cell6	415	text		Line 415. Column F2. Tax year start of the member. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+4	Part4_sf/Table2/Row3	Cell7	416	text		Line 416. Column G2. Tax year-end of the member. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+4	Part4_sf/Table2/Row3	Cell8	420	numeric	12	Line 420. Column H2. Specified partnership business limit assigned to you by the member. Row 3.
+4	Part4_sf/Table2/Row4	Cell1	405	text		Line 405. Column A2. Partnership Name. Row 4.
+4	Part4_sf/Table2/Row4	Cell2	406	text		Line 406. Column B2. Name of the member. Row 4.
+4	Part4_sf/Table2/Row4	Cell3	410	text		Line 410. Column C2. Business number of the member, if applicable. 9 digits, 2 letters, and 4 digits. Row 4.
+4	Part4_sf/Table2/Row4	Cell4	411	text		Line 411. Column D2. Social insurance number of the member, if applicable. 9 digits. Row 4.
+4	Part4_sf/Table2/Row4	inpt	412	text		Line 412. Column E2. Trust Account Number of the member, if applicable. The letter T, A, C or F and 8 digits. Row 4.
+4	Part4_sf/Table2/Row4	Cell6	415	text		Line 415. Column F2. Tax year start of the member. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+4	Part4_sf/Table2/Row4	Cell7	416	text		Line 416. Column G2. Tax year-end of the member. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+4	Part4_sf/Table2/Row4	Cell8	420	numeric	12	Line 420. Column H2. Specified partnership business limit assigned to you by the member. Row 4.
+4	Part4_sf/Table2/Row5	Cell1	405	text		Line 405. Column A2. Partnership Name. Row 5.
+4	Part4_sf/Table2/Row5	Cell2	406	text		Line 406. Column B2. Name of the member. Row 5.
+4	Part4_sf/Table2/Row5	Cell3	410	text		Line 410. Column C2. Business number of the member, if applicable. 9 digits, 2 letters, and 4 digits. Row 5.
+4	Part4_sf/Table2/Row5	Cell4	411	text		Line 411. Column D2. Social insurance number of the member, if applicable. 9 digits. Row 5.
+4	Part4_sf/Table2/Row5	inpt	412	text		Line 412. Column E2. Trust Account Number of the member, if applicable. The letter T, A, C or F and 8 digits. Row 5.
+4	Part4_sf/Table2/Row5	Cell6	415	text		Line 415. Column F2. Tax year start of the member. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+4	Part4_sf/Table2/Row5	Cell7	416	text		Line 416. Column G2. Tax year-end of the member. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+4	Part4_sf/Table2/Row5	Cell8	420	numeric	12	Line 420. Column H2. Specified partnership business limit assigned to you by the member. Row 5.
+4	Part4_sf/Table_3/Row1	Cell1	425	text		Line 425. Column A3. Partnership Name. Row 1.
+4	Part4_sf/Table_3/Row1	Cell2	426	text		Line 426. Column B3. Name of the designated member. Row 1.
+4	Part4_sf/Table_3/Row1	Cell3	430	text		Line 430. Column C3. Business number of the designated member. 9 digits, 2 letters, and 4 digits. Row 1.
+4	Part4_sf/Table_3/Row1	Cell4	435	text		Line 435. Column D3. Tax year start of the designated member. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+4	Part4_sf/Table_3/Row1	Cell5	436	text		Line 436. Column E3. Tax year-end of the designated member. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+4	Part4_sf/Table_3/Row1	Cell6	440	numeric	12	Line 440. Column F3. Specified partnership business limit assigned by you to the designated member. Row 1.
+4	Part4_sf/Table_3/Row2	Cell1	425	text		Line 425. Column A3. Partnership Name. Row 2.
+4	Part4_sf/Table_3/Row2	Cell2	426	text		Line 426. Column B3. Name of the designated member. Row 2.
+4	Part4_sf/Table_3/Row2	Cell3	430	text		Line 430. Column C3. Business number of the designated member. 9 digits, 2 letters, and 4 digits. Row 2.
+4	Part4_sf/Table_3/Row2	Cell4	435	text		Line 435. Column D3. Tax year start of the designated member. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+4	Part4_sf/Table_3/Row2	Cell5	436	text		Line 436. Column E3. Tax year-end of the designated member. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+4	Part4_sf/Table_3/Row2	Cell6	440	numeric	12	Line 440. Column F3. Specified partnership business limit assigned by you to the designated member. Row 2.
+4	Part4_sf/Table_3/Row3	Cell1	425	text		Line 425. Column A3. Partnership Name. Row 3.
+4	Part4_sf/Table_3/Row3	Cell2	426	text		Line 426. Column B3. Name of the designated member. Row 3.
+4	Part4_sf/Table_3/Row3	Cell3	430	text		Line 430. Column C3. Business number of the designated member. 9 digits, 2 letters, and 4 digits. Row 3.
+4	Part4_sf/Table_3/Row3	Cell4	435	text		Line 435. Column D3. Tax year start of the designated member. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+4	Part4_sf/Table_3/Row3	Cell5	436	text		Line 436. Column E3. Tax year-end of the designated member. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+4	Part4_sf/Table_3/Row3	Cell6	440	numeric	12	Line 440. Column F3. Specified partnership business limit assigned by you to the designated member. Row 3.
+4	Part4_sf/Table_3/Row4	Cell1	425	text		Line 425. Column A3. Partnership Name. Row 4.
+4	Part4_sf/Table_3/Row4	Cell2	426	text		Line 426. Column B3. Name of the designated member. Row 4.
+4	Part4_sf/Table_3/Row4	Cell3	430	text		Line 430. Column C3. Business number of the designated member. 9 digits, 2 letters, and 4 digits. Row 4.
+4	Part4_sf/Table_3/Row4	Cell4	435	text		Line 435. Column D3. Tax year start of the designated member. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+4	Part4_sf/Table_3/Row4	Cell5	436	text		Line 436. Column E3. Tax year-end of the designated member. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+4	Part4_sf/Table_3/Row4	Cell6	440	numeric	12	Line 440. Column F3. Specified partnership business limit assigned by you to the designated member. Row 4.
+4	Part4_sf/Table_3/Row5	Cell1	425	text		Line 425. Column A3. Partnership Name. Row 5.
+4	Part4_sf/Table_3/Row5	Cell2	426	text		Line 426. Column B3. Name of the designated member. Row 5.
+4	Part4_sf/Table_3/Row5	Cell3	430	text		Line 430. Column C3. Business number of the designated member. 9 digits, 2 letters, and 4 digits. Row 5.
+4	Part4_sf/Table_3/Row5	Cell4	435	text		Line 435. Column D3. Tax year start of the designated member. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+4	Part4_sf/Table_3/Row5	Cell5	436	text		Line 436. Column E3. Tax year-end of the designated member. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+4	Part4_sf/Table_3/Row5	Cell6	440	numeric	12	Line 440. Column F3. Specified partnership business limit assigned by you to the designated member. Row 5.
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		
+5	Part5_sf/AmtO_sf	Amount_O		numeric	12	Amount O. Corporation's income from active businesses carried on in Canada as a member or designated member of a partnership, after deducting related expenses. From line 350 in Part 4. If the net amount is negative, enter 0 on line 450.
+5	Part5_sf/AmtP_sf	Amount_P		numeric	12	Amount P. Specified partnership loss. From line 380 in Part 4.
+5	Part5_sf/AmtQ_sf	Amount_Q		numeric	12	Amount Q. Subtotal. Amount O plus amount P.
+5	Part5_sf/AmtR_sf	Amount_R		numeric	12	Amount R. Specified partnership income, from line 400 in Part 4.
+5	Part5_sf/Ln450_sf	Amount_450	450	numeric	12	Line 450. Partnership income not eligible for the small business deduction. Amount Q minus amount R. Enter at amount Z in part 6.
+5	Part6_sf/AmtS_sf	Amount_S		numeric	12	Amount S. Net income for income tax purposes from line 300 of the T2 return.
+5	Part6_sf/AmtT_sf	Amount_T		numeric	12	Amount T. Allowable business investment loss from line 406 of Schedule 1, Net Income, loss, for Income Tax Purposes.
+5	Part6_sf/AmtU_sf	Amount_U_1		numeric	12	Amount U. Subtotal. Amount S plus amount T. Instance 1.
+5	Part6_sf/AmtU_sf	Amount_U_2		numeric	12	Amount U. Subtotal. Instance 2.
+5	Part6_sf/Ln500_sf	Amount_500	500	numeric		Line 500. Foreign business income after deducting related expenses.
+5	Part6_sf/AmtV_sf	Amount_V		numeric	12	Amount V. Taxable capital gains from line 113 of Schedule 1.
+5	Part6_sf/AmtW_sf	Amount_W		numeric		Amount W. Net property income, line 032 minus the total of lines 042, 052 and 082 in Part 1.
+5	Part6_sf/Ln520_sf	Amount_520	520	numeric		Line 520. Personal services business income and other income after deducting related expenses.
+5	Part6_sf/AmtX_sf	Amount_X_1		numeric		Amount X. Subtotal. Add line 500, amount V, amount W and line 520. Instance 1.
+5	Part6_sf/AmtX_sf	Amount_X_2		numeric		Amount X. Instance 2.
+5	Part6_sf/AmtY_sf	Amount_Y		numeric		Amount Y. Net amount. Amount U minus amount X.
+5	Part6_sf/AmtZ_sf	Amount_Z		numeric	12	Amount Z. Partnership income not eligible for the small business deduction, line 450 in Part 5.
+5	Part6_sf/Ln530_sf	Amount_530	530	numeric	12	Line 530. Partnership income allocated to your corporation under subsection 96(1.1).
+5	Part6_sf/Ln540_sf	Amount_540	540	numeric	12	Line 540. Income referred to in clause 125(1)(a)(i)(C).
+5	Part6_sf/AmtAA_sf	Amount_AA		numeric	12	Amount AA. Income referred to in clause 125(1)(a)(i)(B), from line 615 in Part 7.
+5	Part6_sf/AmtBB_sf	Amount_BB_1		numeric	12	Amount BB. Subtotal. Add amount Z, line 530, line 540 and amount AA. Instance 1.
+5	Part6_sf/AmtBB_sf	Amount_BB_2		numeric	12	Amount BB. Instance 2.
+5	Part6_sf/AmtCC_sf	Amount_CC		numeric	12	Amount CC. Specified corporate income. From line 625 in Part 7.
+5	Part6_sf/AmtDD_sf	Amount_DD		numeric	12	Amount DD. Income eligible for the small business deduction. Amount Y minus amount BB, plus amount CC. Enter amount DD on line 400 of the T2 return. If negative, enter 0.
+5	Pt7_sf/Table/Row1	Cell1	600	text		Line 600. Column EE. Business number of the corporation. Row 1.
+5	Pt7_sf/Table/Row1	Cell2	610	numeric	12	Line 610. Column FF. Income described under clause 125(1)(a)(i)(B) from the corporation identified in column EE. Row 1.
+5	Pt7_sf/Table/Row1	Cell3	620	numeric	12	Line 620. Column GG. Business limit assigned from the corporation identified in column EE. Row 1.
+5	Pt7_sf/Table/Row2	Cell1	600	text		Line 600. Column EE. Business number of the corporation. Row 2.
+5	Pt7_sf/Table/Row2	Cell2	610	numeric	12	Line 610. Column FF. Income described under clause 125(1)(a)(i)(B) from the corporation identified in column EE. Row 2.
+5	Pt7_sf/Table/Row2	Cell3	620	numeric	12	Line 620. Column GG. Business limit assigned from the corporation identified in column EE. Row 2.
+5	Pt7_sf/Table/Row3	Cell1	600	text		Line 600. Column EE. Business number of the corporation. Row 3.
+5	Pt7_sf/Table/Row3	Cell2	610	numeric	12	Line 610. Column FF. Income described under clause 125(1)(a)(i)(B) from the corporation identified in column EE. Row 3.
+5	Pt7_sf/Table/Row3	Cell3	620	numeric	12	Line 620. Column GG. Business limit assigned from the corporation identified in column EE. Row 3.
+5	Pt7_sf/Table/Row4	Cell1	600	text		Line 600. Column EE. Business number of the corporation. Row 4.
+5	Pt7_sf/Table/Row4	Cell2	610	numeric	12	Line 610. Column FF. Income described under clause 125(1)(a)(i)(B) from the corporation identified in column EE. Row 4.
+5	Pt7_sf/Table/Row4	Cell3	620	numeric	12	Line 620. Column GG. Business limit assigned from the corporation identified in column EE. Row 4.
+5	Pt7_sf/Table/Row5	Cell1	600	text		Line 600. Column EE. Business number of the corporation. Row 5.
+5	Pt7_sf/Table/Row5	Cell2	610	numeric	12	Line 610. Column FF. Income described under clause 125(1)(a)(i)(B) from the corporation identified in column EE. Row 5.
+5	Pt7_sf/Table/Row5	Cell3	620	numeric	12	Line 620. Column GG. Business limit assigned from the corporation identified in column EE. Row 5.
+5	Pt7_sf	Amount_615	615	numeric	12	Line 615. Total. Add all amounts from column FF.
+5	Pt7_sf	Amount_625	625	numeric	12	Line 625. Total. Add all amounts from column GG
+5	PageNumbers	CurrentPage		numeric		
+5	PageNumbers	PageCount		numeric		
+6	PageNumbers	CurrentPage		numeric		
+6	PageNumbers	PageCount		numeric		
+7	PageNumbers	CurrentPage		numeric		
+7	PageNumbers	PageCount		numeric		

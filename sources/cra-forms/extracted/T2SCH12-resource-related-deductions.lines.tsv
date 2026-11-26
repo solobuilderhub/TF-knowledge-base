@@ -1,0 +1,11 @@
+line	caption
+150	Balance at end of previous tax year
+155	Amount transferred on amalgamation or windup of subsidiary
+160	Amount transferred other than on amalgamation or windup of subsidiary
+165	Deduct: Amount transferred on sale of resource property to successor
+170	Deduct: claim for the year under Regulation 1203(1)
+175	Closing balance (amount 2C minus line 170)
+347	Total current-year additions (total of lines 303, 304 and 310)
+370	Total current-year deductions (total of lines 315, 320, 325, 330, 335, 343 and 344)
+435	Total current-year additions (total of lines 405 and 415)
+440	Total current-year deductions (total of lines 420, 425 and 440)

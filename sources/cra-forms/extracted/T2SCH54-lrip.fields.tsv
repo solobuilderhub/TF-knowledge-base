@@ -1,0 +1,180 @@
+page	part	field	line	kind	digits	speak
+1	Ident	Corp_name		text		Corporation's name.
+1	Ident	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident/Tax_y-e	DateYYYYMMDD_Comb		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_content/Line_100	Input_100	100	numeric	12	Line 100. Low rate income pool (LRIP) at the end of the immediately previous tax year.
+1	P1_content/Lines_140_150	Input_140	140	numeric	12	Line 140. Aggregate investment income for the previous tax year. Line 440 of the T2 return of the previous tax year.
+1	P1_content/Lines_140_150	Input_150	150	numeric	12	Line 150. Line 140 multiplied by 80%.
+1	P1_content/Line_160	Input1_160		numeric	12	Investment corporation deduction. Line 620 of the T2 return of the previous tax year.
+1	P1_content/Line_160	Input2_160	160	numeric	12	Line 160. Line 620 of the T2 return of the previous tax year multiplied by 4.
+1	P1_content/Line_190	Input_190	190	numeric	12	Line 190. Subtotal. Add lines 100, 150, and 160.
+1	Part2_content/Table1/Row1	Cell1	200	text		Line 200. Column 1. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+1	Part2_content/Table1/Row1	Cell2	210	numeric	12	Line 210. Column 2. Total dividends receivable in the year before the date on line 200 that are deductible under section 112. Row 1.
+1	Part2_content/Table1/Row1	Cell3	220	numeric	12	Line 220. Column 3. Total adjustments for amalgamations, wind-ups, or on ceasing to be a Canadian-controlled private corporation (CCPC). Row 1.
+1	Part2_content/Table1/Row1	Cell4	230	numeric	12	Line 230. Column 4. Subtotal. Add lines 190, 210, and 220. Row 1.
+1	Part2_content/Table1/Row1	Cell5	240	numeric	12	Line 240. Column 5. Total dividends payable in the year before the date on line 200. Row 1.
+1	Part2_content/Table1/Row1	Cell6	250	numeric	12	Line 250. Column 6. Total of excessive eligible dividend designations made before the date on line 200. Row 1.
+1	Part2_content/Table1/Row2	Cell1	200	text		Line 200. Column 1. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+1	Part2_content/Table1/Row2	Cell2	210	numeric	12	Line 210. Column 2. Total dividends receivable in the year before the date on line 200 that are deductible under section 112. Row 2.
+1	Part2_content/Table1/Row2	Cell3	220	numeric	12	Line 220. Column 3. Total adjustments for amalgamations, wind-ups, or on ceasing to be a CCPC. Row 2.
+1	Part2_content/Table1/Row2	Cell4	230	numeric	12	Line 230. Column 4. Subtotal. Add lines 190, 210, and 220. Row 2.
+1	Part2_content/Table1/Row2	Cell5	240	numeric	12	Line 240. Column 5. Total dividends payable in the year before the date on line 200. Row 2.
+1	Part2_content/Table1/Row2	Cell6	250	numeric	12	Line 250. Column 6. Total of excessive eligible dividend designations made before the date on line 200. Row 2.
+1	Part2_content/Table1/Row3	Cell1	200	text		Line 200. Column 1. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+1	Part2_content/Table1/Row3	Cell2	210	numeric	12	Line 210. Column 2. Total dividends receivable in the year before the date on line 200 that are deductible under section 112. Row 3.
+1	Part2_content/Table1/Row3	Cell3	220	numeric	12	Line 220. Column 3. Total adjustments for amalgamations, wind-ups, or on ceasing to be a CCPC. Row 3.
+1	Part2_content/Table1/Row3	Cell4	230	numeric	12	Line 230. Column 4. Subtotal. Add lines 190, 210, and 220. Row 3.
+1	Part2_content/Table1/Row3	Cell5	240	numeric	12	Line 240. Column 5. Total dividends payable in the year before the date on line 200. Row 3.
+1	Part2_content/Table1/Row3	Cell6	250	numeric	12	Line 250. Column 6. Total of excessive eligible dividend designations made before the date on line 200. Row 3.
+1	Part2_content/Table1/Row4	Cell1	200	text		Line 200. Column 1. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+1	Part2_content/Table1/Row4	Cell2	210	numeric	12	Line 210. Column 2. Total dividends receivable in the year before the date on line 200 that are deductible under section 112. Row 4.
+1	Part2_content/Table1/Row4	Cell3	220	numeric	12	Line 220. Column 3. Total adjustments for amalgamations, wind-ups, or on ceasing to be a CCPC. Row 4.
+1	Part2_content/Table1/Row4	Cell4	230	numeric	12	Line 230. Column 4. Subtotal. Add lines 190, 210, and 220. Row 4.
+1	Part2_content/Table1/Row4	Cell5	240	numeric	12	Line 240. Column 5. Total dividends payable in the year before the date on line 200. Row 4.
+1	Part2_content/Table1/Row4	Cell6	250	numeric	12	Line 250. Column 6. Total of excessive eligible dividend designations made before the date on line 200. Row 4.
+1	Part2_content/Table1/Row5	Cell1	200	text		Line 200. Column 1. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+1	Part2_content/Table1/Row5	Cell2	210	numeric	12	Line 210. Column 2. Total dividends receivable in the year before the date on line 200 that are deductible under section 112. Row 5.
+1	Part2_content/Table1/Row5	Cell3	220	numeric	12	Line 220. Column 3. Total adjustments for amalgamations, wind-ups, or on ceasing to be a CCPC. Row 5.
+1	Part2_content/Table1/Row5	Cell4	230	numeric	12	Line 230. Column 4. Subtotal. Add lines 190, 210, and 220. Row 5.
+1	Part2_content/Table1/Row5	Cell5	240	numeric	12	Line 240. Column 5. Total dividends payable in the year before the date on line 200. Row 5.
+1	Part2_content/Table1/Row5	Cell6	250	numeric	12	Line 250. Column 6. Total of excessive eligible dividend designations made before the date on line 200. Row 5.
+1	Part2_content/Table2/Row1	Cell1	260	numeric	12	Line 260. Column 7. LRIP as of the date on line 200. Line 230 minus the total of line 240 and line 250. Row 1.
+1	Part2_content/Table2/Row1	Cell2	270	numeric	12	Line 270. Column 8. Total eligible dividends paid on the date on line 200. Row 1.
+1	Part2_content/Table2/Row1	Cell3	280	numeric	12	Line 280. Column 9. Excessive eligible dividend designation. Lesser of lines 260 and 270. Row 1.
+1	Part2_content/Table2/Row2	Cell1	260	numeric	12	Line 260. Column 7. LRIP as of the date on line 200. Line 230 minus the total of line 240 and line 250. Row 2.
+1	Part2_content/Table2/Row2	Cell2	270	numeric	12	Line 270. Column 8. Total eligible dividends paid on the date on line 200. Row 2.
+1	Part2_content/Table2/Row2	Cell3	280	numeric	12	Line 280. Column 9. Excessive eligible dividend designation. Lesser of lines 260 and 270. Row 2.
+1	Part2_content/Table2/Row3	Cell1	260	numeric	12	Line 260. Column 7. LRIP as of the date on line 200. Line 230 minus the total of line 240 and line 250. Row 3.
+1	Part2_content/Table2/Row3	Cell2	270	numeric	12	Line 270. Column 8. Total eligible dividends paid on the date on line 200. Row 3.
+1	Part2_content/Table2/Row3	Cell3	280	numeric	12	Line 280. Column 9. Excessive eligible dividend designation. Lesser of lines 260 and 270. Row 3.
+1	Part2_content/Table2/Row4	Cell1	260	numeric	12	Line 260. Column 7. LRIP as of the date on line 200. Line 230 minus the total of line 240 and line 250. Row 4.
+1	Part2_content/Table2/Row4	Cell2	270	numeric	12	Line 270. Column 8. Total eligible dividends paid on the date on line 200. Row 4.
+1	Part2_content/Table2/Row4	Cell3	280	numeric	12	Line 280. Column 9. Excessive eligible dividend designation. Lesser of lines 260 and 270. Row 4.
+1	Part2_content/Table2/Row5	Cell1	260	numeric	12	Line 260. Column 7. LRIP as of the date on line 200. Line 230 minus the total of line 240 and line 250. Row 5.
+1	Part2_content/Table2/Row5	Cell2	270	numeric	12	Line 270. Column 8. Total eligible dividends paid on the date on line 200. Row 5.
+1	Part2_content/Table2/Row5	Cell3	280	numeric	12	Line 280. Column 9. Excessive eligible dividend designation. Lesser of lines 260 and 270. Row 5.
+1	Part2_content/Amount_A	Input_A		numeric	12	Amount A. Total excessive eligible dividend designations in the tax year. Total of column 9. Enter amount A at amount C of Schedule 55.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Part3_content/Amount_B	Input_B		numeric	12	Amount B. Amount from line 190 in Part 1.
+2	Part3_content/Line_510	Input_510	510	numeric	12	Line 510. Total dividends receivable in the tax year that are deductible under section 112.
+2	Part3_content/Line_520	Input_520	520	numeric	12	Line 520. Total adjustments for amalgamations, wind-ups, or on ceasing to be a CCPC.
+2	Part3_content/Amount_C	Input1_C		numeric	12	Amount C. Subtotal. Line 510 plus line 520. Instance 1.
+2	Part3_content/Amount_C	Input2_C		numeric	12	Amount C. Instance 2.
+2	Part3_content/Amount_D	Input_D		numeric	12	Amount D. Subtotal. Amount B plus amount C.
+2	Part3_content/Line_540	Input_540	540	numeric	12	Line 540. Total dividends payable in the tax year.
+2	Part3_content/Amount_E	Input_E		numeric	12	Amount E. Total excessive eligible dividend designations in the tax year. Amount A in Part 2.
+2	Part3_content/Amount_F	Input1_F		numeric	12	Amount F. Subtotal. Line 540 plus amount E. Instance 1.
+2	Part3_content/Amount_F	Input2_F		numeric	12	Amount F. Instance 2.
+2	Part3_content/Line_590	Input_590	590	numeric	12	Line 590. LRIP at the end of the tax year. Amount D minus amount F. If negative, enter 0.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	Part4_content/Pt4_amt1	Input_1		numeric	12	Part 4, amount 1. Cost amount to the corporation of all property immediately before the end of the previous tax year.
+3	Part4_content/Pt4_amt2	Input_2		numeric	12	Part 4, amount 2. The corporation's cash on hand immediately before the end of the previous tax year.
+3	Part4_content/Pt4_amt3	Input_3		numeric	12	Part 4, amount 3. Non-capital losses.
+3	Part4_content/Pt4_amt4	Input_4		numeric	12	Part 4, amount 4. Net capital losses.
+3	Part4_content/Pt4_amt5	Input_5		numeric	12	Part 4, amount 5. Farm losses.
+3	Part4_content/Pt4_amt6	Input_6		numeric	12	Part 4, amount 6. Restricted farm losses.
+3	Part4_content/Pt4_amt7	Input_7		numeric	12	Part 4, amount 7. Limited partnership losses.
+3	Part4_content/Pt4_amt8	Input1_8		numeric	12	Part 4, amount 8. Subtotal. Add amounts 3 to 7 of part 4. Instance 1.
+3	Part4_content/Pt4_amt8	Input2_8		numeric	12	Part 4, amount 8. Instance 2.
+3	Part4_content/Pt4_amt9	Input_9		numeric	12	Part 4, amount 9. Non-capital losses.
+3	Part4_content/Pt4_amt10	Input_10		numeric	12	Part 4, amount 10. Net capital losses.
+3	Part4_content/Pt4_amt11	Input_11		numeric	12	Part 4, amount 11. Farm losses.
+3	Part4_content/Pt4_amt12	Input_12		numeric	12	Part 4, amount 12. Restricted farm losses.
+3	Part4_content/Pt4_amt13	Input_13		numeric	12	Part 4, amount 13. Limited partnership losses.
+3	Part4_content/Pt4_amt14	Input1_14		numeric	12	Part 4, amount 14. Subtotal. Add amounts 9 to 13 of part 4. Instance 1.
+3	Part4_content/Pt4_amt14	Input2_14		numeric	12	Part 4, amount 14. Instance 2.
+3	Part4_content/Pt4_amt15	Input1_15		numeric	12	Part 4, amount 15. Unused and unexpired losses at the end of the corporation's previous tax year. Part 4, amount 8 minus part 4, amount 14. If negative, enter 0. Instance 1.
+3	Part4_content/Pt4_amt15	Input2_15		numeric	12	Part 4, amount 15. Instance 2.
+3	Part4_content/Pt4_amt16	Input_16		numeric	12	Part 4, amount 16. Subtotal. Add amounts 1, 2, and 15 of part 4.
+3	Part4_content/Pt4_amt17	Input_17		numeric	12	Part 4, amount 17. All of the corporation's debts and other obligations to pay that were outstanding immediately before the end of its previous tax year.
+3	Part4_content/Pt4_amt18	Input_18		numeric	12	Part 4, amount 18. Paid up capital of all the corporation's issued and outstanding shares of capital stock immediately before the end of its previous tax year.
+3	Part4_content/Pt4_amt19	Input_19		numeric	12	Part 4, amount 19. All of the corporation's reserves deducted in its previous tax year.
+3	Part4_content/Pt4_amt20	Input_20		numeric	12	Part 4, amount 20. The corporation's capital dividend account immediately before the end of its previous tax year if the corporation is not a private corporation in the current tax year.
+3	Part4_content/Pt4_amt21	Input_21		numeric		Part 4, amount 21. The corporation's general rate income pool, GRIP, at the end of its previous tax year. If negative, use brackets.
+3	Part4_content/Pt4_amt22	Input_22		numeric	12	Part 4, amount 22. Eligible dividends paid in the previous tax year.
+3	Part4_content/Pt4_amt23	Input_23		numeric	12	Part 4, amount 23. Excessive eligible dividend designations made in the previous tax year.
+3	Part4_content/Pt4_amt24	Input1_24		numeric	12	Part 4, amount 24. Subtotal. Part 4, amount 22 minus part 4, amount 23. If negative, enter 0. Instance 1.
+3	Part4_content/Pt4_amt24	Input2_24		numeric	12	Part 4, amount 24. Instance 2.
+3	Part4_content/Pt4_amt25	Input1_25		numeric		Part 4, amount 25. Subtotal. Part 4, amount 21 minus part 4, amount 24. If negative, use brackets. Instance 1.
+3	Part4_content/Pt4_amt25	Input2_25		numeric		Part 4, amount 25. Instance 2.
+3	Part4_content/Pt4_amt26	Input1_26		numeric		Part 4, amount 26. Subtotal. Add amounts 17, 18, 19, 20, and 25 of part 4. If negative, use brackets. Instance 1.
+3	Part4_content/Pt4_amt26	Input2_26		numeric		Part 4, amount 26. Instance 2.
+3	Part4_content/Pt4_amt27	Input_27		numeric	12	Part 4, amount 27. Adjustment for a corporation that ceases to be a CCPC or DIC. Part 4, amount 16 minus part 4, amount 26. If negative, enter 0.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	Part5_content/Pt5_amt1	Input_1		numeric	12	Part 5, amount 1. Cost amount to the predecessor of all property immediately before the end of its last tax year.
+4	Part5_content/Pt5_amt2	Input_2		numeric	12	Part 5, amount 2. The predecessor's cash on hand immediately before the end of its last tax year.
+4	Part5_content/Pt5_amt3	Input_3		numeric	12	Part 5, amount 3. Non-capital losses.
+4	Part5_content/Pt5_amt4	Input_4		numeric	12	Part 5, amount 4. Net capital losses.
+4	Part5_content/Pt5_amt5	Input_5		numeric	12	Part 5, amount 5. Farm losses.
+4	Part5_content/Pt5_amt6	Input_6		numeric	12	Part 5, amount 6. Restricted farm losses.
+4	Part5_content/Pt5_amt7	Input_7		numeric	12	Part 5, amount 7. Limited partnership losses.
+4	Part5_content/Pt5_amt8	Input1_8		numeric	12	Part 5, amount 8. Subtotal. Add amounts 3 to 7 of part 5. Instance 1.
+4	Part5_content/Pt5_amt8	Input2_8		numeric	12	Part 5, amount 8. Instance 2.
+4	Part5_content/Pt5_amt9	Input_9		numeric	12	Part 5, amount 9. Non-capital losses.
+4	Part5_content/Pt5_amt10	Input_10		numeric	12	Part 5, amount 10. Net capital losses.
+4	Part5_content/Pt5_amt11	Input_11		numeric	12	Part 5, amount 11. Farm losses.
+4	Part5_content/Pt5_amt12	Input_12		numeric	12	Part 5, amount 12. Restricted farm losses.
+4	Part5_content/Pt5_amt13	Input_13		numeric	12	Part 5, amount 13. Limited partnership losses.
+4	Part5_content/Pt5_amt14	Input1_14		numeric	12	Part 5, amount 14. Subtotal. Add amounts 9 to 13 of part 5. Instance 1.
+4	Part5_content/Pt5_amt14	Input2_14		numeric	12	Part 5, amount 14. Instance 2.
+4	Part5_content/Pt5_amt15	Input1_15		numeric	12	Part 5, amount 15. Unused and unexpired losses at the end of the predecessor's last tax year. Part 5, amount 8 minus part 5, amount 14. If negative, enter 0. Instance 1.
+4	Part5_content/Pt5_amt15	Input2_15		numeric	12	Part 5, amount 15. Instance 2.
+4	Part5_content/Pt5_amt16	Input_16		numeric	12	Part 5, amount 16. Subtotal. Add amounts 1, 2, and 15 of part 5.
+4	Part5_content/Pt5_amt17	Input_17		numeric	12	Part 5, amount 17. All of the predecessor's debts and other obligations to pay that were outstanding immediately before the end of its last tax year.
+4	Part5_content/Pt5_amt18	Input_18		numeric	12	Part 5, amount 18. Paid up capital of all the predecessor's issued and outstanding shares of capital stock immediately before the end of its last tax year.
+4	Part5_content/Pt5_amt19	Input_19		numeric	12	Part 5, amount 19. All of the predecessor's reserves deducted in its last tax year.
+4	Part5_content/Pt5_amt20	Input_20		numeric	12	Part 5, amount 20. The predecessor's capital dividend account immediately before the end of its last tax year if the corporation is not a private corporation in its first tax year.
+4	Part5_content/Pt5_amt21	Input_21		numeric		Part 5, amount 21. The predecessor's general rate income pool, GRIP, at the end of its last tax year. If negative, use brackets.
+4	Part5_content/Pt5_amt22	Input_22		numeric	12	Part 5, amount 22. Eligible dividends paid in its last tax year.
+4	Part5_content/Pt5_amt23	Input_23		numeric	12	Part 5, amount 23. Excessive eligible dividend designations made in its last tax year.
+4	Part5_content/Pt5_amt24	Input1_24		numeric	12	Part 5, amount 24. Subtotal. Part 5, amount 22 minus part 5, amount 23. If negative, enter 0. Instance 1.
+4	Part5_content/Pt5_amt24	Input2_24		numeric	12	Part 5, amount 24. Instance 2.
+4	Part5_content/Pt5_amt25	Input1_25		numeric		Part 5, amount 25. Subtotal. Part 5, amount 21 minus part 5, amount 24. If negative, use brackets. Instance 1.
+4	Part5_content/Pt5_amt25	Input2_25		numeric		Part 5, amount 25. Instance 2.
+4	Part5_content/Pt5_amt26	Input1_26		numeric		Part 5, amount 26. Subtotal. Add amounts 17, 18, 19, 20, and 25 of part 5. If negative, use brackets. Instance 1.
+4	Part5_content/Pt5_amt26	Input2_26		numeric		Part 5, amount 26. Instance 2.
+4	Part5_content/Pt5_amt27	Input_27		numeric	12	Part 5, amount 27. Adjustment for a predecessor corporation that was a CCPC or a DIC in its last tax year. Part 5, amount 16 minus part 5, amount 26. If negative, enter 0.
+4	Part5_content/Pt5_amt28	Input_28		numeric	12	Part 5, amount 28. LRIP at the end of its last tax year.
+4	Part5_content/Pt5_amt29	Input_29		numeric	12	Part 5, amount 29. Adjustment for a predecessor corporation involved in an amalgamation. Part 5, amount 27 plus part 5, amount 28. Calculate part 5, amount 29 for each predecessor.
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		
+5	Part6_content/Pt6_amt1	Input_1		numeric	12	Part 6, amount 1. Cost amount to the subsidiary of all property immediately before the end of its last tax year.
+5	Part6_content/Pt6_amt2	Input_2		numeric	12	Part 6, amount 2. The subsidiary's cash on hand immediately before the end of its last tax year.
+5	Part6_content/Pt6_amt3	Input_3		numeric	12	Part 6, amount 3. Non-capital losses.
+5	Part6_content/Pt6_amt4	Input_4		numeric	12	Part 6, amount 4. Net capital losses.
+5	Part6_content/Pt6_amt5	Input_5		numeric	12	Part 6, amount 5. Farm losses.
+5	Part6_content/Pt6_amt6	Input_6		numeric	12	Part 6, amount 6. Restricted farm losses.
+5	Part6_content/Pt6_amt7	Input_7		numeric	12	Part 6, amount 7. Limited partnership losses.
+5	Part6_content/Pt6_amt8	Input1_8		numeric	12	Part 6, amount 8. Subtotal. Add amounts 3 to 7 of part 6. Instance 1.
+5	Part6_content/Pt6_amt8	Input2_8		numeric	12	Part 6, amount 8. Instance 2.
+5	Part6_content/Pt6_amt9	Input_9		numeric	12	Part 6, amount 9. Non-capital losses.
+5	Part6_content/Pt6_amt10	Input_10		numeric	12	Part 6, amount 10. Net capital losses.
+5	Part6_content/Pt6_amt11	Input_11		numeric	12	Part 6, amount 11. Farm losses.
+5	Part6_content/Pt6_amt12	Input_12		numeric	12	Part 6, amount 12. Restricted farm losses.
+5	Part6_content/Pt6_amt13	Input_13		numeric	12	Part 6, amount 13. Limited partnership losses.
+5	Part6_content/Pt6_amt14	Input1_14		numeric	12	Part 6, amount 14. Subtotal. Add amounts 9 to 13 of part 6. Instance 1.
+5	Part6_content/Pt6_amt14	Input2_14		numeric	12	Part 6, amount 14. Instance 2.
+5	Part6_content/Pt6_amt15	Input1_15		numeric	12	Part 6, amount 15. Unused and unexpired losses at the end of the subsidiary's last tax year. Part 6, amount 8 minus part 6, amount 14. If negative, enter 0. Instance 1.
+5	Part6_content/Pt6_amt15	Input2_15		numeric	12	Part 6, amount 15. Instance 2.
+5	Part6_content/Pt6_amt16	Input_16		numeric	12	Part 6, amount 16. Subtotal. Add amounts 1, 2, and 15 of part 6.
+5	Part6_content/Pt6_amt17	Input_17		numeric	12	Part 6, amount 17. All of the subsidiary's debts and other obligations to pay that were outstanding immediately before the end of its last tax year.
+5	Part6_content/Pt6_amt18	Input_18		numeric	12	Part 6, amount 18. Paid up capital of all the subsidiary's issued and outstanding shares of capital stock immediately before the end of its last tax year.
+5	Part6_content/Pt6_amt19	Input_19		numeric	12	Part 6, amount 19. All of the subsidiary's reserves deducted in its last tax year.
+5	Part6_content/Pt6_amt20	Input_20		numeric	12	Part 6, amount 20. The subsidiary's capital dividend account immediately before the end of its last tax year if the parent is not a private corporation in the tax year.
+5	Part6_content/Pt6_amt21	Input1_25		numeric		Part 6, amount 21. The subsidiary's general rate income pool, GRIP, at the end of its last tax year. If negative, use brackets.
+5	Part6_content/Pt6_amt22	Input_22		numeric	12	Part 6, amount 22. Eligible dividends paid in its last tax year.
+5	Part6_content/Pt6_amt23	Input_23		numeric	12	Part 6, amount 23. Excessive eligible dividend designations made in its last tax year.
+5	Part6_content/Pt6_amt24	Input1_24		numeric	12	Part 6, amount 24. Subtotal. Part 6, amount 22 minus part 6, amount 23. If negative, enter 0. Instance 1.
+5	Part6_content/Pt6_amt24	Input2_24		numeric	12	Part 6, amount 24. Instance 2.
+5	Part6_content/Pt6_amt25	Input1_25		numeric		Part 6, amount 25. Subtotal. Part 6, amount 21 minus part 6, amount 24. If negative, use brackets. Instance 1.
+5	Part6_content/Pt6_amt25	Input2_25		numeric		Part 6, amount 25. Instance 2.
+5	Part6_content/Pt6_amt26	Input1_26		numeric		Part 6, amount 26. Subtotal. Add amounts 17, 18, 19, 20, and 25 of part 6. If negative, use brackets. Instance 1.
+5	Part6_content/Pt6_amt26	Input2_26		numeric		Part 6, amount 26. Instance 2.
+5	Part6_content/Pt6_amt27	Input_27		numeric	12	Part 6, amount 27. Adjustment for a subsidiary that was a CCPC or a DIC in its last tax year. Part 6, amount 16 minus part 6, amount 26. If negative, enter 0.
+5	Part6_content/Pt6_amt28	Input_28		numeric	12	Part 6, amount 28. LRIP at the end of its last tax year.
+5	Part6_content/Pt6_amt29	Input_29		numeric	12	Part 6, amount 29. Adjustment for a subsidiary involved in a wind-up. Part 6, amount 27 plus part 6, amount 28. Calculate part 6, amount 29 for each subsidiary.
+5	PageNumbers	CurrentPage		numeric		
+5	PageNumbers	PageCount		numeric		

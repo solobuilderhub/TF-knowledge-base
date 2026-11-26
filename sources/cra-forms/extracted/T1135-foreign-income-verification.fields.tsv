@@ -1,0 +1,126 @@
+page	part	field	line	kind	digits	speak
+1	Pos1_Sub/FormInfo/Pg1_Bullet_Sub/Item3/Func_Currency_Group	Func_Currency_Code		choice		If an election has been made to use a functional currency, see attached instructions, state the elected functional currency code. Only certain corporations resident in Canada can elect to report in a functional currency. If no election has been made, leave it blank.
+1	Pos1_Sub/FormInfo	AmendedReturn_CheckBox		check		
+1	Pos1_Sub/Section1_Sub/Pg1_Section1_Individual_Sub/RadioButtonList	Pg1_Section1_Check1		check		Tick a box to indicate who you are reporting for, and complete the areas that apply. Individual.
+1	Pos1_Sub/Section1_Sub/Pg1_Section1_Individual_Sub/RadioButtonList	Pg1_Section1_Check2		check		Corporation.
+1	Pos1_Sub/Section1_Sub/Pg1_Section1_Individual_Sub/RadioButtonList	Pg1_Section1_Check3		check		Trust.
+1	Pos1_Sub/Section1_Sub/Pg1_Section1_Individual_Sub/RadioButtonList	Pg1_Section1_Check4		check		Partnership.
+1	Pos1_Sub/Section1_Sub	Section1_FirstName		text		Individual's first name.
+1	Pos1_Sub/Section1_Sub	Section1_LastName		text		Individual's last name.
+1	Pos1_Sub/Section1_Sub	Section1_Initial		text		Individual's initial.
+1	Pos1_Sub/Section1_Sub/Section1_SIN	SIN		text		Individual's social insurance number. 9 digits.
+1	Pos1_Sub/Section1_Sub/Section1_IndividualCode_Group/IndividualCode_Options	IndividualCode_CB1		check		Individual code 1.
+1	Pos1_Sub/Section1_Sub/Section1_IndividualCode_Group/IndividualCode_Options	IndividualCode_CB2		check		Individual code 2.
+1	Pos1_Sub/Section1_Sub	Section1_CorporationName		text		Corporation's name.
+1	Pos1_Sub/Section1_Sub/Section1_BusinessNumber	BusinessNumber_RC1		text		First 9 digits of the business number.
+1	Pos1_Sub/Section1_Sub/Section1_BusinessNumber	BusinessNumber_RC		text		RC
+1	Pos1_Sub/Section1_Sub/Section1_BusinessNumber	BusinessNumber_RC2		text		Last 4 digits of the business number.
+1	Pos1_Sub/Section1_Sub	Section1_TrustName		text		Trust's name.
+1	Pos1_Sub/Section1_Sub/Section1_AccountNum	Trust1_T		text		
+1	Pos1_Sub/Section1_Sub/Section1_AccountNum	Trust2		text		First 2 digits of the Trust Account Number.
+1	Pos1_Sub/Section1_Sub/Section1_AccountNum	Trust3_Dash		text		
+1	Pos1_Sub/Section1_Sub/Section1_AccountNum/Trust4_Group	Trust4		text		Second 4 digits of the Trust Account Number.
+1	Pos1_Sub/Section1_Sub/Section1_AccountNum	Trust5_Dash		text		
+1	Pos1_Sub/Section1_Sub/Section1_AccountNum/Trust6_Group	Trust6		text		Third 2 digits of the Trust Account Number.
+1	Pos1_Sub/Section1_Sub	Section1_PartnershipName		text		Partnership's name.
+1	Pos1_Sub/Section1_Sub/Section1_PartnershipCode/PartnershipCode_Options	PartnershipCode_CB1		check		Partnership code 1.
+1	Pos1_Sub/Section1_Sub/Section1_PartnershipCode/PartnershipCode_Options	PartnershipCode_CB2		check		Partnership code 2.
+1	Pos1_Sub/Section1_Sub/Section1_PartnershipCode/PartnershipCode_Options	PartnershipCode_CB3		check		Partnership code 3.
+1	Pos1_Sub/Section1_Sub/Section1_Partnership_ID	Partnership_Number_RZ1		text		First 9 digits of the partnership's account number.
+1	Pos1_Sub/Section1_Sub/Section1_Partnership_ID	Partnership_Number_RZ		text		RZ
+1	Pos1_Sub/Section1_Sub/Section1_Partnership_ID	Partnership_Number_RZ2		text		Last 4 digits of the partnership's account number.
+1	Pos1_Sub/Section1_Sub	Section1_No		numeric		Reporting entity's address. Number. Mandatory Field.
+1	Pos1_Sub/Section1_Sub	Section1_Street		text		Reporting entity's address. Street. Mandatory Field.
+1	Pos1_Sub/Section1_Sub	Section1_City		text		Reporting entity's address. City. Mandatory Field.
+1	Pos1_Sub/Section1_Sub	Section1_Province		text		Reporting entity's address. Province or territory. Mandatory Field.
+1	Pos1_Sub/Section1_Sub/Section_1_PostalCode	Pg1_Section1_PostalCode		text		Reporting entity's address. Postal code. Mandatory Field.
+1	Pos1_Sub/Section1_Sub/Section_1_PostalCode/Section1_CC	Section1_CountryCode		choice		Enter the country code of the reporting entity. Mandatory Field.
+1	Pos1_Sub/Section1_Sub/Section1_TaxationYearSub/Identifcation_FromToDates	Identifcation_FromDate		text		For what taxation year are you filing this form? From date. Year 4 digits. Month 2 digits. Day 2 digits. Mandatory Field.
+1	Pos1_Sub/Section1_Sub/Section1_TaxationYearSub/Identifcation_FromToDates	Identifcation_ToDate		text		For what taxation year are you filing this form? To date. Year 4 digits. Month 2 digits. Day 2 digits. Mandatory Field.
+1	PartA/TotalCost_sub/ForeignPropertyCost	Option1		check		Tick the appropriate box that applies for the taxation year. If the total cost of all specified foreign property held at any time during the year exceeds $100,000 but was less than $250,000, you are required to complete either Part A or Part B.
+1	PartA/TotalCost_sub/ForeignPropertyCost	Option2		check		
+1	PartA/TotalCost_sub/A_or_B_sub/ABRadio	OptionA		check		Tick the appropriate box to select the method of filing. Part A – Simplified reporting method.
+1	PartA/TotalCost_sub/A_or_B_sub/ABRadio	OptionB		check		Check the appropriate box to select the method of filing. Part B – Detailed reporting method.
+1	PartA/PartA_Checks	Funds		check		For each type of property that applies to you, tick the appropriate box. Type of property. Funds held outside Canada
+1	PartA/PartA_Checks	Shares		check		Shares of non-resident corporations, other than foreign affiliates.
+1	PartA/PartA_Checks	Indebtedness		check		Indebtedness owed by non-resident.
+1	PartA/PartA_Checks	Interests		check		Interests in non-resident trusts.
+1	PartA/PartA_Checks	RealProperty		check		Real property outside Canada, other than personal use and real estate used in an active business.
+1	PartA/PartA_Checks	OtherProperty		check		Other property outside Canada.
+1	PartA/PartA_Checks	PropertyHeld		check		Property held in an account with a Canadian registered securities dealer or a Canadian trust company.
+1	PartA/CountryCodeChecks	PartA_CountryCode1		choice		Select the top three countries based on the maximum cost amount of specified foreign property held during the year. Enter the country codes in the boxes. Instance 1.
+1	PartA/CountryCodeChecks	PartA_CountryCode2		choice		Select the top three countries based on the maximum cost amount of specified foreign property held during the year. Enter the country codes in the boxes. Instance 2.
+1	PartA/CountryCodeChecks	PartA_CountryCode3		choice		Select the top three countries based on the maximum cost amount of specified foreign property held during the year. Enter the country codes in the boxes. Instance 3.
+1	PartA	IncomeSpecified		numeric		
+1	PartA	Gain		numeric		
+2	Table1/Table1/Row1	Cell1		text		Funds held outside Canada. Name of bank / other entity holding the funds. Row 1.
+2	Table1/Table1/Row1	Cell2		choice		Funds held outside Canada. Country code. Row 1.
+2	Table1/Table1/Row1	Cell3A		numeric	13	Funds held outside Canada. Maximum funds held during the year. Row 1.
+2	Table1/Table1/Row1	Cell3		numeric	13	Funds held outside Canada. Funds held at year-end. Row 1.
+2	Table1/Table1/Row1	Cell4		numeric	11	Funds held outside Canada. Gross income. Row 1.
+2	Table1/Total	Cell3		numeric	13	Funds held outside Canada. Funds held at year-end. Total.
+2	Table1/Total	Cell4		numeric	13	Funds held outside Canada. Gross income, loss. Total.
+2	Table2B/Table2B/Row1	Cell1		text		Shares of non-resident corporation other than foreign affiliates. Name of corporation. Row 1.
+2	Table2B/Table2B/Row1	Cell2		choice		Shares of non-resident corporation other than foreign affiliates. Country code. Row 1.
+2	Table2B/Table2B/Row1	Cell3A		numeric	13	Shares of non-resident corporation other than foreign affiliates. Maximum cost amount during the year. Row 1.
+2	Table2B/Table2B/Row1	Cell3		numeric	13	Shares of non-resident corporation other than foreign affiliates. Cost amount at year-end. Row 1.
+2	Table2B/Table2B/Row1	Cell4		numeric	11	Shares of non-resident corporation other than foreign affiliates. Gross income. Row 1.
+2	Table2B/Table2B/Row1	Cell5		numeric	11	Shares of non-resident corporation other than foreign affiliates. Gain, loss, on disposition. Row 1.
+2	Table2B/Total	Cell3		numeric		Shares of non-resident corporation other than foreign affiliates. Cost amount at year-end. Total.
+2	Table2B/Total	Cell4		numeric	13	Shares of non-resident corporation other than foreign affiliates. Gross income. Total.
+2	Table2B/Total	Cell5		numeric	13	Shares of non-resident corporation other than foreign affiliates. Gain, loss, on disposition. Total.
+2	Table3B/Table3B/Row1	Cell1		text		Indebtedness owed by non-resident. Description of indebtedness. Row 1.
+2	Table3B/Table3B/Row1	Cell2		choice		Indebtedness owed by non-resident. Country code. Row 1.
+2	Table3B/Table3B/Row1	Cell3A		numeric	13	Indebtedness owed by non-resident. Maximum cost amount during the year. Row 1.
+2	Table3B/Table3B/Row1	Cell3		numeric	13	Indebtedness owed by non-resident. Cost amount at year-end. Row 1.
+2	Table3B/Table3B/Row1	Cell6		numeric	11	Indebtedness owed by non-resident. Gross income. Row 1.
+2	Table3B/Table3B/Row1	Cell7		numeric	11	Indebtedness owed by non-resident. Gain, loss, on disposition. Row 1.
+2	Table3B/Total	Cell3		numeric		Indebtedness owed by non-resident. Cost amount at year-end. Total.
+2	Table3B/Total	Cell5		numeric		Indebtedness owed by non-resident. Gross income. Total.
+2	Table3B/Total	Cell6		numeric		Indebtedness owed by non-resident. Gain, loss, on disposition. Total.
+2	Table4/Table4/Row1	Cell1		text		Interests in non-resident trusts. Name of trust. Row 1.
+2	Table4/Table4/Row1	Cell2		choice		Interests in non-resident trusts. Country code. Row 1.
+2	Table4/Table4/Row1	Cell3A		numeric	13	Interests in non-resident trusts. Maximum cost amount during the year. Row 1.
+2	Table4/Table4/Row1	Cell3		numeric	13	Interests in non-resident trusts. Cost amount at year-end. Row 1.
+2	Table4/Table4/Row1	Cell4		numeric	13	Interests in non-resident trusts. Income received. Row 1.
+2	Table4/Table4/Row1	Cell5		numeric	13	Interests in non-resident trusts. Capital received. Row 1.
+2	Table4/Table4/Row1	Cell6		numeric	11	Interests in non-resident trusts. Gain, loss, on disposition. Row 1.
+2	Table4/Total	Cell3		numeric		Interests in non-resident trusts. Cost amount at year-end. Total.
+2	Table4/Total	Cell4		numeric		Interests in non-resident trusts. Income received. Total.
+2	Table4/Total	Cell5		numeric		Interests in non-resident trusts. Capital received. Total.
+2	Table4/Total	Cell6		numeric		Interests in non-resident trusts. Gain, loss, on disposition. Total.
+2	Table5/Table5/Row1	Cell1		text		Real property outside Canada. Other than personal use and real estate used in an active business. Description of property. Row 1.
+2	Table5/Table5/Row1	Cell2		choice		Real property outside Canada. Other than personal use and real estate used in an active business. Country code. Row 1.
+2	Table5/Table5/Row1	Cell3A		numeric	13	Real property outside Canada. Other than personal use and real estate used in an active business. Maximum cost amount during the year. Row 1.
+2	Table5/Table5/Row1	Cell3		numeric	13	Real property outside Canada. Other than personal use and real estate used in an active business. Cost amount at year-end. Row 1.
+2	Table5/Table5/Row1	Cell4		numeric	11	Real property outside Canada. Other than personal use and real estate used in an active business. Gross income. Row 1.
+2	Table5/Table5/Row1	Cell5		numeric	11	Real property outside Canada. Other than personal use and real estate used in an active business. Gain, loss, on disposition. Row 1.
+2	Table5/Total	Cell3		numeric		Real property outside Canada. Other than personal use and real estate used in an active business. Cost amount at year-end. Total.
+2	Table5/Total	Cell4		numeric		Real property outside Canada. Other than personal use and real estate used in an active business. Gross income. Total.
+2	Table5/Total	Cell5		numeric		Real property outside Canada. Other than personal use and real estate used in an active business. Gain, loss, on disposition. Total.
+2	Table6/Table6/Row1	Cell1		text		Other property outside Canada. Description of property. Row 1.
+2	Table6/Table6/Row1	Cell2		choice		Other property outside Canada. Country code. Row 1.
+2	Table6/Table6/Row1	Cell3A		numeric	13	Other property outside Canada. Maximum cost amount during the year. Row 1.
+2	Table6/Table6/Row1	Cell3		numeric	13	Other property outside Canada. Cost amount at year-end. Row 1.
+2	Table6/Table6/Row1	Cell4		numeric	11	Other property outside Canada. Gross income. Row 1.
+2	Table6/Table6/Row1	Cell5		numeric	11	Other property outside Canada. Gain, loss. Row 1.
+2	Table6/Total	Cell3		numeric		Other property outside Canada. Cost amount at year-end. Total.
+2	Table6/Total	Cell4		numeric		Other property outside Canada. Gross income. Total.
+2	Table6/Total	Cell5		numeric		Other property outside Canada. Gain, loss. Total.
+2	Table7/Table7/Row1	Cell1		text		Property held in an account with a Canadian registered securities dealer or a Canadian trust company. Name of registered security dealer or Canadian trust company. Row 1.
+2	Table7/Table7/Row1	Cell2		choice		Property held in an account with a Canadian registered securities dealer or a Canadian trust company. Country code. Row 1.
+2	Table7/Table7/Row1	Cell3A		numeric	13	Property held in an account with a Canadian registered securities dealer or a Canadian trust company. Maximum fair market value during the year. Row 1.
+2	Table7/Table7/Row1	Cell3		numeric	13	Property held in an account with a Canadian registered securities dealer or a Canadian trust company. Fair market value at year-end. Row 1.
+2	Table7/Table7/Row1	Cell4		numeric	11	Property held in an account with a Canadian registered securities dealer or a Canadian trust company. Gross income. Row 1.
+2	Table7/Table7/Row1	Cell5		numeric	11	Property held in an account with a Canadian registered securities dealer or a Canadian trust company. Gain, loss. Row 1.
+2	Table7/Total	Cell3		numeric		Property held in an account with a Canadian registered securities dealer or a Canadian trust company. Fair market value at year-end. Total.
+2	Table7/Total	Cell4		numeric		Property held in an account with a Canadian registered securities dealer or a Canadian trust company. Gross income. Total.
+2	Table7/Total	Cell5		numeric		Property held in an account with a Canadian registered securities dealer or a Canadian trust company. Gain, loss. Total.
+2	Certification/Certification_Group1	Certification_PrintName		text		Certification. Name. Mandatory field.
+2	Certification/Certification_Group1	Certification_Position		text		Certification. Position or title.
+2	Certification/Certification_Group1	Certification_PhoneNumber		text	15	Certification. Telephone number. 10 digits for a North American telephone number or up to 15 digits for an international number. Mandatory field.
+2	Certification/Certification_Group1	Certification_Date		text		Certification. Date. Year 4 digits. Month 2 digits. Day 2 digits. Mandatory field.
+2	Certification/Certification_Group2	Certification_PrintName2		text		Certification. Other. Name.
+2	Certification/Certification_Group2/Certification_Address_Group	Certification_Address		text		Certification. Other. Address.
+2	Certification/Certification_Group2	Certification_PostalCode		text		Certification. Other. Postal code, 6 characters or zip code, 5 digits.
+2	Certification/Certification_Group2	Certification_PhoneNumber		text	15	Certification. Other. Telephone number. 10 digits for a North American telephone number or up to 15 digits for an international number.

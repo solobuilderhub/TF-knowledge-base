@@ -1,0 +1,37 @@
+page	part	field	line	kind	digits	speak
+1	Election_sf/Election_Ln10_sf/Election_Ln10_BordersAll	Election_Ln10_BordersAll_Comb	010	text		Line 010. Date filed. Do not use this area. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Election_sf/Election_Ln20_sf/RadioButtonGroup	Option1	020	check		Line 020. Is this an amended election? Yes.
+1	Election_sf/Election_Ln20_sf/RadioButtonGroup	Option2	020	check		Line 020. Is this an amended election? No.
+1	Election_sf/Election_Ln30_sf	Election_Ln30_inpt	030	text		Line 030. Name of the third corporation.
+1	Election_sf/Election_Ln40_sf	Election_Ln40_inpt	040	text		Line 040. Business Number. 9 digits. 2 letters. 4 digits.
+1	Election_sf/Election_Ln50_sf/Election_Ln50_Group	Election_Ln50_Group_Comb	050	text		Line 050. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Table1/Table1_Row1	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 1.
+1	Table1/Table1_Row1	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 1."
+1	Table1/Table1_Row2	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 2.
+1	Table1/Table1_Row2	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 2."
+1	Table1/Table1_Row3	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 3.
+1	Table1/Table1_Row3	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 3."
+1	Table1/Table1_Row4	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 4.
+1	Table1/Table1_Row4	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 4."
+1	Table1/Table1_Row5	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 5.
+1	Table1/Table1_Row5	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 5."
+1	Table1/Table1_Row6	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 6.
+1	Table1/Table1_Row6	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 6."
+1	Table1/Table1_Row7	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 7.
+1	Table1/Table1_Row7	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 7."
+1	Table1/Table1_Row8	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 8.
+1	Table1/Table1_Row8	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 8."
+1	Table1/Table1_Row9	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 9.
+1	Table1/Table1_Row9	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 9."
+1	Table1/Table1_Row10	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 10.
+1	Table1/Table1_Row10	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 10."
+1	Table1/Table1_Row11	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 11.
+1	Table1/Table1_Row11	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 11."
+1	Table1/Table1_Row12	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 12.
+1	Table1/Table1_Row12	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 12."
+1	Table1/Table1_Row13	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 13.
+1	Table1/Table1_Row13	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 13."
+1	Table1/Table1_Row14	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 14.
+1	Table1/Table1_Row14	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 14."
+1	Table1/Table1_Row15	Cell1	100	text		Line 100. Name of each corporation that would, but for this election, be deemed to be associated with each other. Row 15.
+1	Table1/Table1_Row15	Cell2	200	text		"Line 200. Business Number, if a corporation is not registered, enter ""NR"". 9 digits. 2 letters. 4 digits. Row 15."

@@ -1,0 +1,76 @@
+page	part	field	line	kind	digits	speak
+1	info_sf	info_inpt1		text		Corporation's name.
+1	info_sf	info_inpt2		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	info_sf/info_grp	info_grp_Field		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf	P1_Ln1A_inpt		text	12	Amount 1A. Basic dividend allowance.
+1	P1_sf	P1_Ln1B_inpt		numeric	12	Amount 1B. Taxable dividends, other than excluded dividends, paid in the calendar year immediately preceding the calendar year in which the tax year ended. These dividends are on taxable preferred shares or shares that would be taxable preferred shares if they were issued after June 18, 1987, and were not grandfathered shares. See point 1 in Part 2 below if the corporation is associated.
+1	P1_sf	P1_Ln1C_inpt		text	12	Amount 1C.
+1	P1_sf	P1_Ln110_inpt2	110	numeric	12	Line 110. Excess, amount 1B minus amount 1C. If negative, enter 0. Instance 1.
+1	P1_sf	P1_Ln110_inpt3	110	numeric	12	Line 110. Instance 2.
+1	P1_sf	P1_Ln115_inpt3	115	numeric	12	Line 115. Dividend allowance. Amount 1A minus line 110. If negative, enter 0.
+1	P2_sf/P2_Ln116_Top	P2_Ln116_Top_Comb	116	text		Line 116. Date filed, do not use this area. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P2_sf/RadioButtonGroup	Option1	117	check		Line 117. Is this an amended agreement? Yes.
+1	P2_sf/RadioButtonGroup	Option2	117	check		Line 117. Is this an amended agreement? No.
+1	P2_sf/P2_Ln118_Top	P2_Ln118_Top_Comb	118	text	4	Line 118. Calendar year to which the agreement applies. Date. Year 4 digits.
+1	P2_sf/P2_Tbl_sf/table/row1	cell1	120	text		Line 120. Name of each associated corporation. Row 1.
+1	P2_sf/P2_Tbl_sf/table/row1	cell2	130	text		Line 130. Business number. If a corporation is not registered, enter NR. Row 1.
+1	P2_sf/P2_Tbl_sf/table/row1	cell3	140	numeric	12	Line 140. Dividend allowance allocated. Row 1.
+1	P2_sf/P2_Tbl_sf/table/row2	cell1	120	text		Line 120. Name of each associated corporation. Row 2.
+1	P2_sf/P2_Tbl_sf/table/row2	cell2	130	text		Line 130. Business number. If a corporation is not registered, enter NR. Row 2.
+1	P2_sf/P2_Tbl_sf/table/row2	cell3	140	numeric	12	Line 140. Dividend allowance allocated. Row 2.
+1	P2_sf/P2_Tbl_sf/table/row3	cell1	120	text		Line 120. Name of each associated corporation. Row 3.
+1	P2_sf/P2_Tbl_sf/table/row3	cell2	130	text		Line 130. Business number. If a corporation is not registered, enter NR. Row 3.
+1	P2_sf/P2_Tbl_sf/table/row3	cell3	140	numeric	12	Line 140. Dividend allowance allocated. Row 3.
+1	P2_sf/P2_Tbl_sf/table/row4	cell1	120	text		Line 120. Name of each associated corporation. Row 4.
+1	P2_sf/P2_Tbl_sf/table/row4	cell2	130	text		Line 130. Business number. If a corporation is not registered, enter NR. Row 4.
+1	P2_sf/P2_Tbl_sf/table/row4	cell3	140	numeric	12	Line 140. Dividend allowance allocated. Row 4.
+1	P2_sf/P2_Tbl_sf/table/row5	cell1	120	text		Line 120. Name of each associated corporation. Row 5.
+1	P2_sf/P2_Tbl_sf/table/row5	cell2	130	text		Line 130. Business number. If a corporation is not registered, enter NR. Row 5.
+1	P2_sf/P2_Tbl_sf/table/row5	cell3	140	numeric	12	Line 140. Dividend allowance allocated. Row 5.
+1	P2_sf/P2_Ttl_sf	P2_Ttl_inpt3		numeric	12	Total. Cannot be more than amount on line 115.
+1	Ftr_sf/PageNumbers	CurrentPage		numeric		
+1	Ftr_sf/PageNumbers	PageCount		numeric		
+2	P3_sf/P3_Ln210_sf	P3_Ln210_inpt	210	numeric	12	Line 210. Dividend allowance. Amount on line 115 from Part 1 or, if associated, the total amount allocated on line 140 from Part 2.
+2	P3_sf/P3_Ln220_sf	P3_Ln220_inpt	220	numeric	12	Line 220. Taxable dividends other than excluded dividends paid by the corporation in the year on short-term preferred shares.
+2	P3_sf/P3_Ln3A_sf	P3_Ln3A_inpt		numeric	12	Amount 3A. Line 210 or 220, whichever is less.
+2	P3_sf/P3_Ln3B-3C_sf	P3_Amnt3B-3C_inpt1		numeric	12	Amount 3B. Line 220 minus amount 3A.
+2	P3_sf/P3_Ln3B-3C_sf	P3_Amnt3B-3C_inpt2		numeric	12	Amount 3C. Amount 3B multiplied by 40 percent.
+2	P3_sf/P3_Ln230_sf	P3_Ln230_inpt	230	numeric	12	Line 230. Taxable dividends other than excluded dividends paid by the corporation in the year on taxable preferred shares other than short-term preferred shares of all classes for which the corporation is making an election under subsection 191.2(1).
+2	P3_sf/P3_Ln3D_sf	P3_Ln3D_inpt		numeric	12	Amount 3D. Dividend allowance, line 210.
+2	P3_sf/P3_Ln3E_sf	P3_Ln3E_inpt		numeric	12	Amount 3E. Amount 3A.
+2	P3_sf/P3_Ln3F_sf	P3_Ln3F_inpt		numeric	12	Amount 3F. Net amount. Amount 3D minus amount 3E.
+2	P3_sf/P3_Ln3G_sf	P3_Ln3G_inpt		numeric	12	Amount 3G. Line 230 or amount 3F, whichever is less.
+2	P3_sf/P3_Ln3H-I_sf	P3_Ln3H-I_inpt1		numeric	12	Amount 3H. Line 230 minus amount 3G.
+2	P3_sf/P3_Ln3H-I_sf	P3_Ln3H-I_inpt2		numeric	12	Amount 3I. Amount 3H multiplied by 40 percent.
+2	P3_sf/P3_Ln240_sf	P3_Ln240_inpt	240	numeric	12	Line 240. Taxable dividends other than excluded dividends paid by the corporation in the year on taxable preferred shares other than short-term preferred shares of all classes for which the corporation is not making an election under subsection 191.2(1).
+2	P3_sf/P3_Ln3J_sf	P3_Ln3J_inpt		numeric	12	Amount 3J. Dividend allowance. Line 210.
+2	P3_sf/P3_Ln3K_sf	P3_Ln3K_inpt		numeric	12	Amount 3K. Amount 3A.
+2	P3_sf/P3_Ln3L_sf	P3_Ln3L_inpt		numeric	12	Amount 3L. Amount 3G.
+2	P3_sf/P3_Ln3M_sf	P3_Ln3M_inpt1		numeric	12	Amount 3M. Subtotal. Amount 3K plus amount 3L. Instance 1.
+2	P3_sf/P3_Ln3M_sf	P3_Ln3M_inpt2		numeric	12	Amount 3M. Instance 2.
+2	P3_sf/P3_Ln3N_sf	P3_Ln3N_inpt		numeric	12	Amount 3N. Net amount. Amount 3J minus amount 3M.
+2	P3_sf/P3_Ln3O_sf	P3_Ln3O_inpt		numeric	12	Amount 3O. Line 240 or amount 3N, whichever is less.
+2	P3_sf/P3_Ln3P-Q_sf	P3_Ln3P-Q_inpt2		numeric	12	Amount 3P. Line 240 minus amount 3O.
+2	P3_sf/P3_Ln3P-Q_sf	P3_Ln3P-Q_inpt1		numeric	12	Amount 3Q. Amount 3P multiplied by 25 percent.
+2	P3_sf/P3_Ln250_sf	P3_Ln250_inpt	250	numeric	12	Line 250. Part VI.1 tax transferred from a related corporation.
+2	P3_sf/P3_Ln3R_sf	P3_Ln3R_inpt		numeric	12	Amount 3R. Subtotal. Add amounts 3C, 3I, 3Q, and line 250.
+2	P3_sf/P3_Ln260_sf	P3_Ln260_inpt	260	numeric	12	Line 260. Part VI.1 tax transferred to a related corporation.
+2	P3_sf/P3_Ln270_sf	P3_Ln270_inpt	270	numeric	12	Line 270. Part VI.1 tax payable. Amount 3R minus line 260. Enter amount from line 270 on line 724 of the T2 return.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	P4_sf/P4_Ln310_sf	P4_Ln310_inpt	310	numeric	12	Line 310. Taxable dividends other than excepted dividends received in the year on taxable preferred shares, other than a share of a class for which the corporation has made an election under subsection 191.2(1).
+3	P4_sf/P4_Ln320_sf	P4_Ln320_inpt	320	numeric	12	Line 320. Taxable dividends other than excepted dividends received in the year by a restricted financial institution on taxable restricted financial institution shares. See section 187.3.
+3	P4_sf/P4_Ln4A_sf	P4_Ln4A_inpt	330	numeric	12	Line 330. Total taxable dividends subject to Part IV.1 tax. Line 310 plus line 320.
+3	P4_sf/P4_Ln4B_sf	P4_Ln340_inpt2	340	numeric	12	Line 340. Part IV.1 tax payable. Line 330 multiplied by 10%. Enter amount from line 340 on line 716 of the T2 return.
+3	P4_sf/P4_Ln350_sf	P4_Ln350_inpt	350	numeric	12	Line 350. Portion of taxable dividends included in line 330 that is also subject to Part IV tax.
+3	P4_sf/P4_Ln370_sf	P4_Ln370_inpt	370	numeric	12	Line 370. Portion of taxable dividends included on line 350 received from connected corporations.
+3	P4_sf/P4_Ln380_sf	P4_Ln380_inpt1	380	numeric	12	Line 380. Part IV tax on taxable dividends reported on line 370.
+3	P4_sf/P4_Ln380_sf	P4_Ln380_inpt2		numeric	12	Amount 4A. Line 380 multiplied by 30 percent. Enter amount 4A at amount 2F of Schedule 3, Dividends Received, Taxable Dividends Paid, and Part IV Tax Calculations.
+3	P4_sf/P4_Ln390_sf	P4_Ln390_inpt1	390	numeric	12	Line 390. Portion of taxable dividends included on line 350 received from non-connected corporations.
+3	P4_sf/P4_Ln390_sf	P4_Ln390_inpt2		numeric	12	Amount 4B. Line 390 multiplied by 10 percent.
+3	P4_sf/P4_Ln4E_sf	P4_Ln4E_inpt	360	numeric	12	Line 360. Reduction of Part IV tax otherwise payable. Amount 4A plus amount 4B. Enter amount from line 360 on line 320 of Schedule 3.
+3	P4_sf/P4_Ln400_sf	P4_Ln400_inpt1	400	numeric	12	Line 400. Eligible taxable dividends included on line 390.
+3	P4_sf/P4_Ln400_sf	P4_Ln400_inpt2		numeric	12	Amount 4C. Line 400 multiplied by 10 percent. Enter amount 4C at amount 2I of Schedule 3.
+3	P4_sf/P4_Ln4D_sf	P4_Ln4D_inpt2		numeric	12	Amount 4D. Part IV tax reduction of non-eligible taxable dividends received from non-connected corporations. Amount 4B minus amount 4C. Enter amount 4D at amount T of the T2 return.
+3		CurrentPage		numeric		
+3		PageCount		numeric		

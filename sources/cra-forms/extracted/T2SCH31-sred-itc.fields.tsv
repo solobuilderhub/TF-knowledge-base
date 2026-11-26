@@ -1,0 +1,297 @@
+page	part	field	line	kind	digits	speak
+3		Field_Corp_name		text		Corporation's name.
+3		BusinessNumber_Contiguous_EN		text		Business number. 9 digits, 2 letters, and 4 digits.
+3	Tax_y-e_DateYYYYMMDD_Comb_Top	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Part2A_sub/RadioButtonGroup_101	Option1	101	check		Line 101. Is the corporation a qualifying corporation? Yes.
+3	Part2A_sub/RadioButtonGroup_101	Option2	101	check		Line 101. Is the corporation a qualifying corporation? No.
+3	Part2A_sub	Field_390	390	numeric	12	Line 390. Enter your taxable income for the previous tax year. Prior to any loss carrybacks applied.
+3	Part2A_sub	Field_397	397	numeric	12	"Line 397. For a CCPC filing an election under subsection 127(10.31), enter your taxable capital employed in Canada for the previous tax year minus $15 million. If this amount is nil or negative, enter ""0"". If this amount is over $60 million, enter $60 million."
+3	Part2B_sub/RadioButtonGroup_650	Option1	650	check		Line 650. Is the qualifying corporation an excluded corporation as defined under subsection 127.1(2)? Yes.
+3	Part2B_sub/RadioButtonGroup_650	Option2	650	check		Line 650. Is the qualifying corporation an excluded corporation as defined under subsection 127.1(2)? No.
+3	Part3_sub/RadioButtonGroup_102	Option1	102	check		Line 102. Is the corporation claiming a contribution in the current year to an agricultural organization whose goal is to finance SR&ED work? For example check-off dues. Yes, complete Schedule 125, Income Statement Information, to identify the type of farming industry the corporation is involved in.
+3	Part3_sub/RadioButtonGroup_102	Option2	102	check		Line 102. Is the corporation claiming a contribution in the current year to an agricultural organization whose goal is to finance SR&ED work? For example, check-off dues. No.
+3	Part3_sub	Field_103_1		numeric	12	Contributions to agricultural organizations for scientific research and experimental development (SR&ED).
+3	Part3_sub	Field_103_2	103	numeric	12	Line 103. Contributions to agricultural organizations for SR&ED multiplied by 80%. Include on line 350 of Part 8.
+3	Part4_sub/Table/Row1	Cell2	105	text		Line 105. Capital cost allowance class number. Row 1.
+3	Part4_sub/Table/Row1	Cell3	110	text		Line 110. Description of investment. Row 1.
+3	Part4_sub/Table/Row1	Cell4	115	text		Line 115. Date available for use. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+3	Part4_sub/Table/Row1	Cell5	120	text		Line 120. Location used in Atlantic Canada, province. Row 1.
+3	Part4_sub/Table/Row1	Cell6	125	numeric	12	Line 125. Amount of investment. Row 1.
+3	Part4_sub/Table/Row2	Cell2	105	text		Line 105. Capital cost allowance class number. Row 2.
+3	Part4_sub/Table/Row2	Cell3	110	text		Line 110. Description of investment. Row 2.
+3	Part4_sub/Table/Row2	Cell4	115	text		Line 115. Date available for use. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+3	Part4_sub/Table/Row2	Cell5	120	text		Line 120. Location used Atlantic Canada, province. Row 2.
+3	Part4_sub/Table/Row2	Cell6	125	numeric	12	Line 125. Amount of investment. Row 2.
+3	Part4_sub/Table/Row3	Cell2	105	text		Line 105. Capital cost allowance class number. Row 3.
+3	Part4_sub/Table/Row3	Cell3	110	text		Line 110. Description of investment. Row 3.
+3	Part4_sub/Table/Row3	Cell4	115	text		Line 115. Date available for use. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+3	Part4_sub/Table/Row3	Cell5	120	text		Line 120. Location used Atlantic Canada, province. Row 3.
+3	Part4_sub/Table/Row3	Cell6	125	numeric	12	Line 125. Amount of investment. Row 3.
+3	Part4_sub/Table/Row4	Cell2	105	text		Line 105. Capital cost allowance class number. Row 4.
+3	Part4_sub/Table/Row4	Cell3	110	text		Line 110. Description of investment. Row 4.
+3	Part4_sub/Table/Row4	Cell4	115	text		Line 115. Date available for use. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+3	Part4_sub/Table/Row4	Cell5	120	text		Line 120. Location used Atlantic Canada, province. Row 4.
+3	Part4_sub/Table/Row4	Cell6	125	numeric	12	Line 125. Amount of investment. Row 4.
+3	Part4_sub	Field_4A		numeric	12	Amount 4A. Total of investments for qualified property.
+4	Part5	Field_5A		numeric	12	Amount 5A. Investment tax credit (ITC) at the end of the previous tax year.
+4	Part5	Field_210	210	numeric	12	Line 210. Credit deemed as a remittance of co-op corporations.
+4	Part5	Field_215	215	numeric	12	Line 215. Credit expired.
+4	Part5	Field_5B_1		numeric	12	Amount 5B. Subtotal. Line 210 plus line 215. Instance 1.
+4	Part5	Field_5B_2		numeric	12	Amount 5B. Instance 2.
+4	Part5	Field_220	220	numeric	12	Line 220. ITC at the beginning of the tax year. Amount 5A minus amount 5B.
+4	Part5	Field_230	230	numeric	12	Line 230. Credit transferred on an amalgamation or the wind-up of a subsidiary.
+4	Part5	Field_235	235	numeric	12	Line 235. ITC from repayment of assistance.
+4	Part5	Field_240_1		numeric	12	Qualified property. Amount 4A.
+4	Part5	Field_240_2	240	numeric	12	Line 240. Qualified property. Amount 4A. Multiplied by 10%.
+4	Part5	Field_250	250	numeric	12	Line 250. Credit allocated from a partnership.
+4	Part5	Field_5C_1		numeric	12	Amount 5C. Subtotal. Total of lines 230 to 250. Instance 1.
+4	Part5	Field_5C_2		numeric	12	Amount 5C. Instance 2.
+4	Part5	Field_5D		numeric	12	Amount 5D. Total credit available. Line 220 plus amount 5C.
+4	Part5	Field_260	260	numeric	12	Line 260. Credit deducted from Part I tax.
+4	Part5	Field_5E		numeric	12	Amount 5E. Credit carried back to previous years. Amount 6A.
+4	Part5	Field_280	280	numeric	12	Line 280. Credit transferred to offset Part VII tax liability.
+4	Part5	Field_5F_1		numeric	12	Amount 5F. Subtotal. Total of line 260, amount 5E, and line 280. Instance 1.
+4	Part5	Field_5F_2		numeric	12	Amount 5F. Instance 2.
+4	Part5	Field_5G		numeric	12	Amount 5G. Credit balance before refund. Amount 5D minus amount 5F.
+4	Part5	Field_310	310	numeric	12	Line 310. Refund of credit claimed on investments from qualified property from Part 7.
+4	Part5	Field_320	320	numeric	12	Line 320. ITC closing balance of investments from qualified property and qualified resource property. Amount 5G minus line 310.
+4	Part6_sub/DateYYYYMMDD_901	DateYYYYMMDD_Comb		text		Part 6. First previous tax year. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sub	Field_901	901	numeric	12	Line 901. First previous tax year credit to be applied.
+4	Part6_sub/DateYYYYMMDD_902	DateYYYYMMDD_Comb		text		Part 6. Second previous tax year. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sub	Field_902	902	numeric	12	Line 902. Second previous tax year credit to be applied.
+4	Part6_sub/DateYYYYMMDD_903	DateYYYYMMDD_Comb		text		Part 6. Third previous tax year. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+4	Part6_sub	Field_903	903	numeric	12	Line 903. Third previous tax year credit to be applied.
+4	Part6_sub	Field_6A		numeric	12	Amount 6A. Total of lines 901 to 903. Enter at amount 5E.
+4	Part7_Sub	Field_7A		numeric	12	Amount 7A. Current-year ITCs. Line 240 plus line 250 in Part 5.
+4	Part7_Sub	Field_7B		numeric	12	Amount 7B. Credit balance before refund from amount 5G.
+4	Part7_Sub	Field_7C		numeric	12	Amount 7C. Refund. 40% of amount 7A or 7B, whichever is less. Enter amount 7C or a lesser amount on line 310 in Part 5. Also include in line 780 of the T2 return if you do not claim an SR&ED ITC refund.
+4	Part8_sub	Field_350	350	numeric	12	Line 350. Current expenditures. Line 557 on Form T661 plus line 103 in Part 3.
+4	Part8_sub	Field_360	360	numeric	12	Line 360. Qualified expenditures of a capital nature for property acquired after December 15, 2024. From line 558 on Form T661.
+4	Part8_sub	Field_370	370	numeric	12	Line 370. Repayments made in the year. From line 560 on Form T661.
+4	Part8_sub	Field_380	380	numeric	12	Line 380. Total qualified SR&ED expenditures. Total of lines 350 to 370.
+5	Part9_sub/RadioButtonGroup_382	Option1	382	check		Line 382. Are you an eligible Canadian public corporation (ECPC) as defined in subsection 127(9)? Yes.
+5	Part9_sub/RadioButtonGroup_382	Option2	382	check		Line 382. Are you an eligible Canadian public corporation (ECPC) as defined in subsection 127(9)? No.
+5	Part9_sub/RadioButtonGroup_383	Option1	383	check		Line 383. Are you a Canadian-controlled private corporation (CCPC) electing under subsection 127(10.31) or (10.32) to determine the SR&ED expenditure limit based on revenue? Yes.
+5	Part9_sub/RadioButtonGroup_383	Option2	383	check		Line 383. Are you a Canadian-controlled private corporation (CCPC) electing under subsection 127(10.31) or (10.32) to determine the SR&ED expenditure limit based on revenue? No.
+5	Part9_sub/RadioButtonGroup_385	Option1	385	check		Line 385. Is the corporation associated with another CCPC for the purpose of calculating the SR&ED expenditure limit? Yes. Complete Schedule 49, Agreement Among Associated Canadian-Controlled Private Corporations to Allocate the Expenditure Limit, to determine the amounts for associated corporations.
+5	Part9_sub/RadioButtonGroup_385	Option2	385	check		Line 385. Is the corporation associated with another CCPC for the purpose of calculating the SR&ED expenditure limit? No. If you answered no to the question on line 385 or if you are not associated with any other corporations, complete line 398.
+5	Part9_sub	Field_398	398	numeric	12	Line 398. For a CCPC that is not electing to determine its expenditure limit under 127(10.31) or (10.32), enter your taxable capital employed in Canada for the previous tax year minus $10 million or minus $15 million for tax years starting after December 15, 2024. If this amount is nil or negative, enter 0. If this amount is over $40 million, enter $40 million. For tax years starting after December 15, 2024, if this amount is over $60 million, enter $60 million.
+5	Part9_sub/RadioButtonGroup_386	Option1	386	check		Line 386. Is the ECPC part of a consolidated group or is the CCPC electing under 127(10.32)? Yes. Complete Schedule 52.
+5	Part9_sub/RadioButtonGroup_386	Option2	386	check		Line 386. Is the ECPC part of a consolidated group or is the CCPC electing under 127(10.32)? No. Complete lines 387 to 389 and 399.
+5	Part9_sub/DateYYYYMMDD_387	DateYYYYMMDD_Comb		text		First previous tax year. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+5	Part9_sub	Field_387	387	numeric	12	Line 387. First previous fiscal year annual revenue.
+5	Part9_sub/DateYYYYMMDD_388	DateYYYYMMDD_Comb		text		Second previous tax year. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+5	Part9_sub	Field_388	388	numeric	12	Line 388. Second previous fiscal year annual revenue.
+5	Part9_sub/DateYYYYMMDD_389	DateYYYYMMDD_Comb		text		Third previous tax year. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+5	Part9_sub	Field_389	389	numeric	12	Line 389. Third previous fiscal year annual revenue.
+5	Part9_sub	Field_399	399	numeric	12	"Line 399. For an ECPC, or a CCPC filing an election under 127(10.31), enter your average annual revenue from the three fiscal years immediately preceding and ending before this tax year, minus $15 million. If this amount is nil or negative, enter ""0"". If this amount is over $60 million, enter $60 million."
+5	Part10A	Field_10A		numeric	12	Amount 10A. $40,000,000 minus line 398.
+5	Part10A	Field_10B		numeric		Amount 10B. Amount 10A divided by $40,000,000.
+5	Part10A	Field_10C		numeric	12	Amount 10C. Expenditure limit for a stand-alone corporation. $3,000,000 multiplied by amount 10B.
+5	Part10A	Field_400	400	numeric	12	Line 400. For an associated CCPC, allocation of the SR&ED expenditure limit as provided on Schedule 49.
+5	Part10A	Field_10D_1		numeric	12	Amount 10C or line 400.
+5	Part10A	Field_10D_2		numeric	3	Number of days in the tax year.
+5	Part10A	Field_10D_3		numeric	12	Amount 10D. Amount 10C or line 400 multiplied by the number of days in the tax year divided by 365.
+5	Part10A	Field_410	410	numeric	12	Line 410. Your SR&ED expenditure limit for the year. Enter amount 10C, line 400, or amount 10D, whichever applies.
+5	Part10B	Field_10A		numeric	12	Amount 10A. $60,000,000 minus line 398 or, for a CCPC filing an election under 127(10.31) or for an ECPC, $60,000,000 minus line 399.
+5	Part10B	Field_10B		numeric		Amount 10B. Amount 10A divided by $60,000,000.
+5	Part10B	Field_10C		numeric	12	Amount 10C. Expenditure limit for a stand-alone corporation. $6,000,000 multiplied by amount 10B.
+5	Part10B	Field_400	400	numeric	12	Line 400. For an associated CCPC not electing under 127(10.32), allocation of the SR&ED expenditure limit from Schedule 49.
+5	Part10B	Field_402	402	numeric	12	Line 402. For a CCPC electing under 127(10.32) or an ECPC that is a member of a consolidated group, allocation of the SR&ED expenditure limit from Schedule 52.
+5	Part10B	Field_10D_1		numeric	12	Amount 10C or line 400 or 402.
+5	Part10B	Field_10D_2		numeric	3	Number of days in the tax year.
+5	Part10B	Field_10D_3		numeric	12	Amount 10D. Amount 10C or line 400 or 402 multiplied by the number of days in the tax year divided by 365.
+5	Part10B	Field_410	410	numeric	12	Line 410. Your SR&ED expenditure limit for the year. Enter amount 10C, line 400 or 402, or amount 10D, whichever applies.
+6	Part11	Field_420_1	420	numeric	12	Line 420. Current SR&ED expenditures from line 350 in Part 8 or the expenditure limit from line 410, whichever is less.
+6	Part11	Field_420_2		numeric	12	Amount 11A. Line 420 multiplied by 35%.
+6	Part11	Field_430_1	430	numeric	12	Line 430. Line 350 minus line 410. If negative, enter 0.
+6	Part11	Field_430_2		numeric	12	Amount 11B. Line 430 multiplied by 15%.
+6	Part11	Field_11C		numeric	12	Amount 11C. Line 410 minus line 350. If negative, enter 0.
+6	Part11	Field_440_1	440	numeric	12	Line 440. Qualified expenditures of a capital nature for property acquired after December 15, 2024. From line 360 in Part 8, or amount 11C above, whichever is less.
+6	Part11	Field_440_2		numeric	12	Amount 11D. Line 440 multiplied by 35%.
+6	Part11	Field_450_1	450	numeric	12	Line 450. Line 360 minus amount 11C above. If negative, enter 0.
+6	Part11	Field_450_2		numeric	12	Amount 11E. Line 450 multiplied by 15%.
+6	Part11	Field_Rpymnts		numeric	12	Repayments. Amount from line 370 in Part 8.
+6	Part11	Field_460_1	460	numeric	12	Line 460. Repayment of assistance that reduced a qualifying expenditure eligible for the 35% SR&ED ITC rate.
+6	Part11	Field_460_2		numeric	12	Amount 11F. Line 460 multiplied by 35%.
+6	Part11	Field_480_1	480	numeric	12	Line 480. Repayment of assistance made after September 16, 2016, that reduced a qualifying expenditure incurred before 2015.
+6	Part11	Field_480_2		numeric	12	Amount 11G. Line 480 multiplied by 20%.
+6	Part11	Field_490_1	490	numeric	12	Line 490. Repayment of assistance made after September 16, 2016, that reduced a qualifying expenditure incurred after 2014.
+6	Part11	Field_490_2		numeric	12	Amount 11H. Line 490 multiplied by 15%.
+6	Part11	Field_11F_1		numeric	12	Amount 11I. Subtotal. Total of amounts 11F to 11H. Instance 1.
+6	Part11	Field_11F_2		numeric	12	Amount 11I. Instance 2.
+6	Part11	Field_11J		numeric	12	Amount 11J. Current-year SR&ED ITC. Total of amounts 11A, 11B, 11D, 11E, and 11I. Enter on line 540 in Part 12.
+6	Part12_sub	Field_12A		numeric	12	Amount 12A. ITC at the end of the previous tax year.
+6	Part12_sub	Field_510	510	numeric	12	Line 510. Credit deemed as a remittance of co-op corporations.
+6	Part12_sub	Field_515	515	numeric	12	Line 515. Credit expired.
+6	Part12_sub	Field_12B_1		numeric	12	Amount 12B. Subtotal. Line 510 plus line 515. Instance 1.
+6	Part12_sub	Field_12B		numeric	12	Amount 12B. Instance 2.
+6	Part12_sub	Field_520	520	numeric	12	Line 520. ITC at the beginning of the tax year. Amount 12A minus amount 12B.
+6	Part12_sub	Field_530	530	numeric	12	Line 530. Credit transferred on an amalgamation or the wind-up of a subsidiary.
+6	Part12_sub	Field_540	540	numeric	12	Line 540. Total current-year credit. From amount 11J.
+6	Part12_sub	Field_550	550	numeric	12	Line 550. Credit allocated from a partnership.
+6	Part12_sub	Field_12C_1		numeric	12	Amount 12C. Subtotal. Total of lines 530 to 550. Instance 1.
+6	Part12_sub	Field_12C_2		numeric	12	Amount 12C. Instance 2.
+6	Part12_sub	Field_12D		numeric	12	Amount 12D. Total credit available. Line 520 plus amount 12C.
+6	Part12_sub	Field_555	555	numeric	12	Line 555. Other adjustments to investment tax credit.
+6	Part12_sub	Field_560	560	numeric	12	Line 560. Credit deducted from Part I tax.
+6	Part12_sub	Field_12E		numeric	12	Amount 12E. Credit carried back to previous years. Amount 13A.
+6	Part12_sub	Field_580	580	numeric	12	Line 580. Credit transferred to offset Part 7 tax liability.
+6	Part12_sub	Field_12F_1		numeric	12	Amount 12F. Subtotal. Total of lines 555 to 580 plus amount 12E. Instance 1.
+6	Part12_sub	Field_12F_2		numeric	12	Amount 12F. Instance 2.
+6	Part12_sub	Field_12G		numeric	12	Amount 12G. Credit balance before refund. Amount 12D minus amount 12F.
+6	Part12_sub	Field_610	610	numeric	12	Line 610. Refund of credit claimed on SR&ED expenditures. From Part 14 or 15, whichever applies.
+6	Part12_sub	Field_620	620	numeric	12	Line 620. ITC closing balance on SR&ED. Amount 12G minus line 610.
+7	Part13/DateYYYYMMDD_911	DateYYYYMMDD_Comb		text		Part 13. First previous tax year. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+7	Part13	Field_911	911	numeric	12	Line 911. First previous tax year credit to be applied.
+7	Part13/DateYYYYMMDD_912	DateYYYYMMDD_Comb		text		Part 13. Second previous tax year. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+7	Part13	Field_912	912	numeric	12	Line 912. Second previous tax year credit to be applied.
+7	Part13/DateYYYYMMDD_913	DateYYYYMMDD_Comb		text		Part 13. Third previous tax year. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+7	Part13	Field_913	913	numeric	12	Line 913. Third previous tax year credit to be applied.
+7	Part13	Field_13A		numeric	12	Amount 13A. Total of lines 911 to 913. Enter at amount 12E.
+7	Part14_sub	Field_14A		numeric	12	Amount 14A. Current-year ITC. Lines 540 plus 550 in Part 12 minus amount 11I.
+7	Part14_sub	Field_14B		numeric	12	Amount 14B. Refundable credits. Amount 14A or amount 12G, whichever is less.
+7	Part14_sub	Field_14C		numeric	12	Amount 14C. Amount 14B or amount 11A, whichever is less.
+7	Part14_sub	Field_14D		numeric	12	Amount 14D. Net amount. Amount 14B minus amount 14C. If negative, enter 0.
+7	Part14_sub	Field_14E		numeric	12	Amount 14E. Amount 14D multiplied by 40%
+7	Part14_sub	Field_14F		numeric	12	Amount 14F. Amount 14C.
+7	Part14_sub	Field_14G		numeric	12	Amount 14G. Refund of ITC. Amount 14E plus amount 14F. Enter this, or a lesser amount, on line 610 in Part 12.
+7	Part15	Field_15A		numeric	12	Amount 15A. Credit balance before refund. Amount 12G.
+7	Part15	Field_15B		numeric	12	Amount 15B. Amount 15A or amount 11A, whichever is less.
+7	Part15	Field_15C		numeric	12	"Amount 15C. Net amount. Amount 15A minus amount 15B. If negative, enter ""0""."
+7	Part15	Field_15D		numeric	12	Amount 15D. Amount 15C or amount 11D, whichever is less.
+7	Part15	Field_15E		numeric	12	Amount 15E. Amount 15D multiplied by 40%.
+7	Part15	Field_15F		numeric	12	Amount 15F. Amount 15B.
+7	Part15	Field_15G		numeric	12	Amount 15G. Refund of ITC. Amount 15E plus amount 15F. Enter amount 15G, or a lesser amount, on line 610 in Part 12 and also include it in line 780 of the T2 return.
+8	Part16/Table_1/Row1	Cell2	700	numeric	12	Line 700. Amount of ITC you originally calculated for the property you acquired, or the original user's ITC where you acquired the property from a non-arm's length party, as described in the note above. Row 1.
+8	Part16/Table_1/Row1	Cell3	710	numeric	12	Line 710. Amount calculated using ITC rate at the date of acquisition, or the original user's date of acquisition, on either the proceeds of disposition, if sold in an arm's length transaction, or the fair market value of the property in any other case. Row 1.
+8	Part16/Table_1/Row1	Cell4		numeric	12	Amount from column 700 or 710, whichever is less. Row 1.
+8	Part16/Table_1/Row2	Cell2	700	numeric	12	Line 700. Amount of ITC you originally calculated for the property you acquired, or the original user's ITC where you acquired the property from a non-arm's length party, as described in the note above. Row 2.
+8	Part16/Table_1/Row2	Cell3	710	numeric	12	Line 710. Amount calculated using ITC rate at the date of acquisition, or the original user's date of acquisition, on either the proceeds of disposition, if sold in an arm's length transaction, or the fair market value of the property in any other case. Row 2.
+8	Part16/Table_1/Row2	Cell4		numeric	12	Amount from column 700 or 710, whichever is less. Row 2.
+8	Part16/Table_1/Row3	Cell2	700	numeric	12	Line 700. Amount of ITC you originally calculated for the property you acquired, or the original user's ITC where you acquired the property from a non-arm's length party, as described in the note above. Row 3.
+8	Part16/Table_1/Row3	Cell3	710	numeric	12	Line 710. Amount calculated using ITC rate at the date of acquisition, or the original user's date of acquisition, on either the proceeds of disposition, if sold in an arm's length transaction, or the fair market value of the property in any other case. Row 3.
+8	Part16/Table_1/Row3	Cell4		numeric	12	Amount from column 700 or 710, whichever is less. Row 3.
+8	Part16/Table_1/Row4	Cell2	700	numeric	12	Line 700. Amount of ITC you originally calculated for the property you acquired, or the original user's ITC where you acquired the property from a non-arm's length party, as described in the note above. Row 4.
+8	Part16/Table_1/Row4	Cell3	710	numeric	12	Line 710. Amount calculated using ITC rate at the date of acquisition, or the original user's date of acquisition, on either the proceeds of disposition, if sold in an arm's length transaction, or the fair market value of the property in any other case. Row 4.
+8	Part16/Table_1/Row4	Cell4		numeric	12	Amount from column 700 or 710, whichever is less. Row 4.
+8	Part16	Field_16A		numeric	12	Amount 16A. Subtotal. Enter at amount 17A.
+8	Part16/Table_2/Row1	Cell2	720	numeric		Line 720. Column A. Rate that the transferee used in determining its ITC for qualified expenditures under a subsection 127(13) agreement. Row 1.
+8	Part16/Table_2/Row1	Cell3	730	numeric	12	Line 730. Column B. Proceeds of disposition of the property if you dispose of it to an arm's length person; or, in any other case, enter the fair market value of the property at conversion or disposition. Row 1.
+8	Part16/Table_2/Row1	Cell4	740	numeric	12	Line 740. Column C. Amount, if any, already provided for in Calculation 1. This allows for the situation where only part of the cost of a property is transferred under a subsection 127(13) agreement. Row 1.
+8	Part16/Table_2/Row1	Cell5		numeric	12	Column D. Amount determined by the formula A multiplied by B, minus C. Row 1.
+8	Part16/Table_2/Row1	Cell6	750	numeric	12	Line 750. Column E. ITC earned by the transferee for the qualified expenditures that were transferred. Row 1.
+8	Part16/Table_2/Row1	Cell7		numeric	12	Column F. Amount from column D or E, whichever is less. Row 1.
+8	Part16/Table_2/Row2	Cell2	720	numeric		Line 720. Column A. Rate that the transferee used in determining its ITC for qualified expenditures under a subsection 127(13) agreement. Row 2.
+8	Part16/Table_2/Row2	Cell3	730	numeric	12	Line 730. Column B. Proceeds of disposition of the property if you dispose of it to an arm's length person; or, in any other case, enter the fair market value of the property at conversion or disposition. Row 2.
+8	Part16/Table_2/Row2	Cell4	740	numeric	12	Line 740. Column C. Amount, if any, already provided for in Calculation 1. This allows for the situation where only part of the cost of a property is transferred under a subsection 127(13) agreement. Row 2.
+8	Part16/Table_2/Row2	Cell5		numeric	12	Column D. Amount determined by the formula A multiplied by B, minus C. Row 2.
+8	Part16/Table_2/Row2	Cell6	750	numeric	12	Line 750. Column E. ITC earned by the transferee for the qualified expenditures that were transferred. Row 2.
+8	Part16/Table_2/Row2	Cell7		numeric	12	Column F. Amount from column D or E, whichever is less. Row 2.
+8	Part16/Table_2/Row3	Cell2	720	numeric		Line 720. Column A. Rate that the transferee used in determining its ITC for qualified expenditures under a subsection 127(13) agreement. Row 3.
+8	Part16/Table_2/Row3	Cell3	730	numeric	12	Line 730. Column B. Proceeds of disposition of the property if you dispose of it to an arm's length person; or, in any other case, enter the fair market value of the property at conversion or disposition. Row 3.
+8	Part16/Table_2/Row3	Cell4	740	numeric	12	Line 740. Column C. Amount, if any, already provided for in Calculation 1. This allows for the situation where only part of the cost of a property is transferred under a subsection 127(13) agreement. Row 3.
+8	Part16/Table_2/Row3	Cell5		numeric	12	Column D. Amount determined by the formula A multiplied by B, minus C. Row 3.
+8	Part16/Table_2/Row3	Cell6	750	numeric	12	Line 750. Column E. ITC earned by the transferee for the qualified expenditures that were transferred. Row 3.
+8	Part16/Table_2/Row3	Cell7		numeric	12	Column F. Amount from column D or E, whichever is less. Row 3.
+8	Part16/Table_2/Row4	Cell2	720	numeric		Line 720. Column A. Rate that the transferee used in determining its ITC for qualified expenditures under a subsection 127(13) agreement. Row 4.
+8	Part16/Table_2/Row4	Cell3	730	numeric	12	Line 730. Column B. Proceeds of disposition of the property if you dispose of it to an arm's length person; or, in any other case, enter the fair market value of the property at conversion or disposition. Row 4.
+8	Part16/Table_2/Row4	Cell4	740	numeric	12	Line 740. Column C. Amount, if any, already provided for in Calculation 1. This allows for the situation where only part of the cost of a property is transferred under a subsection 127(13) agreement. Row 4.
+8	Part16/Table_2/Row4	Cell5		numeric	12	Column D. Amount determined by the formula A multiplied by B, minus C. Row 4.
+8	Part16/Table_2/Row4	Cell6	750	numeric	12	Line 750. Column E. ITC earned by the transferee for the qualified expenditures that were transferred. Row 4.
+8	Part16/Table_2/Row4	Cell7		numeric	12	Column F. Amount from column D or E, whichever is less. Row 4.
+8	Part16	Field_16B		numeric	12	Amount 16B. Subtotal. Total of column F. Enter at amount 17B.
+8	Part16	Field_760	760	numeric	12	Line 760. Corporate partner's share of the excess of SR&ED ITC. Enter at amount 17C.
+9	Part17_sub	Field_17A		numeric	12	Amount 17A. Recaptured ITC from calculation 1. Amount 16A.
+9	Part17_sub	Field_17B		numeric	12	Amount 17B. Recaptured ITC from calculation 2. Amount 16B.
+9	Part17_sub	Field_17C		numeric	12	Amount 17C. Recaptured ITC from calculation 3. Line 760 in Part 16.
+9	Part17_sub	Field_17D		numeric	12	Amount 17D. Total recapture of SR&ED investment tax credit. Total of amounts 17A to 17C. Enter at amount 24A in Part 24.
+9	Part18	Field_18A		numeric	12	Amount 18A. ITC at the end of the previous tax year.
+9	Part18	Field_841	841	numeric	12	Line 841. Credit deemed as a remittance of co-op corporations.
+9	Part18	Field_845	845	numeric	12	Line 845. Credit expired.
+9	Part18	Field_18B_1		numeric	12	Amount 18B. Subtotal. Line 841 plus line 845. Instance 1.
+9	Part18	Field_18B_2		numeric	12	Amount 18B. Instance 2.
+9	Part18	Field_850	850	numeric	12	Line 850. ITC at the beginning of the tax year. Amount 18A minus amount 18B.
+9	Part18	Field_860	860	numeric	12	Line 860. Credit transferred on an amalgamation or the wind-up of a subsidiary.
+9	Part18	Field_18C		numeric	12	Amount 18C. Total credit available. Line 850 plus line 860.
+9	Part18	Field_885	885	numeric	12	Line 885. Amount of unused credit carried forward from previous years and applied to reduce Part I tax payable in the current year.
+9	Part18	Field_890	890	numeric	12	Line 890. ITC closing balance from pre-production mining expenditures. Amount 18C minus line 885.
+10	Part19/RadioButtonGroup_611	Option1	611	check		Line 611. If you are a related person as defined under subsection 251(2), has it been agreed in writing that you are the only employer who will be claiming the apprenticeship job creation tax credit for this tax year for each apprentice whose contract number, or social insurance number or name, appears below? Yes.
+10	Part19/RadioButtonGroup_611	Option2	611	check		Line 611. If you are a related person as defined under subsection 251(2), has it been agreed in writing that you are the only employer who will be claiming the apprenticeship job creation tax credit for this tax year for each apprentice whose contract number, or social insurance number or name, appears below? No. You cannot claim the tax credit.
+10	Part19/Table/Row1	Cell2	601	text		Line 601. Column A. Contract number, SIN or name of apprentice. Row 1.
+10	Part19/Table/Row1	Cell3	602	text		Line 602. Column B. Name of eligible trade. Row 1.
+10	Part19/Table/Row1	Cell4	603	numeric	12	Line 603. Column C. Eligible salary and wages. Row 1.
+10	Part19/Table/Row1	Cell5	604	numeric	12	Line 604. Column D. Column C multiplied by 10%. Row 1.
+10	Part19/Table/Row1	Cell6	605	numeric	12	Line 605. Column E. Lesser of column D or $2,000. Row 1.
+10	Part19/Table/Row2	Cell2	601	text		Line 601. Column A. Contract number, SIN or name of apprentice. Row 2.
+10	Part19/Table/Row2	Cell3	602	text		Line 602. Column B. Name of eligible trade. Row 2.
+10	Part19/Table/Row2	Cell4	603	numeric	12	Line 603. Column C. Eligible salary and wages. Row 2.
+10	Part19/Table/Row2	Cell5	604	numeric	12	Line 604. Column D. Column C multiplied by 10%. Row 2.
+10	Part19/Table/Row2	Cell6	605	numeric	12	Line 605. Column E. Lesser of column D or $2,000. Row 2.
+10	Part19/Table/Row3	Cell2	601	text		Line 601. Column A. Contract number, SIN or name of apprentice. Row 3.
+10	Part19/Table/Row3	Cell3	602	text		Line 602. Column B. Name of eligible trade. Row 3.
+10	Part19/Table/Row3	Cell4	603	numeric	12	Line 603. Column C. Eligible salary and wages. Row 3.
+10	Part19/Table/Row3	Cell5	604	numeric	12	Line 604. Column D. Column C multiplied by 10%. Row 3.
+10	Part19/Table/Row3	Cell6	605	numeric	12	Line 605. Column E. Lesser of column D or $2,000. Row 3.
+10	Part19/Table/Row4	Cell2	601	text		Line 601. Column A. Contract number, SIN or name of apprentice. Row 4.
+10	Part19/Table/Row4	Cell3	602	text		Line 602. Column B. Name of eligible trade. Row 4.
+10	Part19/Table/Row4	Cell4	603	numeric	12	Line 603. Column C. Eligible salary and wages. Row 4.
+10	Part19/Table/Row4	Cell5	604	numeric	12	Line 604. Column D. Column C multiplied by 10%. Row 4.
+10	Part19/Table/Row4	Cell6	605	numeric	12	Line 605. Column E. Lesser of column D or $2,000. Row 4.
+10	Part19	Field_19A		numeric	12	Amount 19A. Total current-year credit. Total of column E. Enter on line 640 in Part 20.
+10	Part20	Field_20A		numeric	12	Amount 20A. ITC at the end of the previous tax year.
+10	Part20	Field_612	612	numeric	12	Line 612. Credit deemed as a remittance of co-op corporations.
+10	Part20	Field_615	615	numeric	12	Line 615. Credit expired after 20 tax years.
+10	Part20	Field_20B_1		numeric	12	Amount 20B. Subtotal. Line 612 plus line 615. Instance 1.
+10	Part20	Field_20B_2		numeric	12	Amount 20B. Instance 2.
+10	Part20	Field_625	625	numeric	12	Line 625. ITC at the beginning of the tax year. Amount 20A minus amount 20B.
+10	Part20	Field_630	630	numeric	12	Line 630. Credit transferred on an amalgamation or the wind-up of a subsidiary.
+10	Part20	Field_635	635	numeric	12	Line 635. ITC from repayment of assistance.
+10	Part20	Field_640	640	numeric	12	Line 640. Total current-year credit. Amount 19A.
+10	Part20	Field_655	655	numeric	12	Line 655. Credit allocated from a partnership.
+10	Part20	Field_20C_1		numeric	12	Amount 20C. Subtotal. Total of lines 630 to 655. Instance 1.
+10	Part20	Field_20C_2		numeric	12	Amount 20C. Instance 2.
+10	Part20	Field_20D		numeric	12	Amount 20D. Total credit available. Line 625 plus amount 20C.
+10	Part20	Field_660	660	numeric	12	Line 660. Credit deducted from Part I tax.
+10	Part20	Field_20E		numeric	12	Amount 20E. Credit carried back to previous years. Amount 21A.
+10	Part20	Field_20F_1		numeric	12	Amount 20F. Subtotal. Line 660 plus amount 20E. Instance 1.
+10	Part20	Field_20F_2		numeric	12	Amount 20F. Instance 2.
+10	Part20	Field_690	690	numeric	12	Line 690. ITC closing balance from apprenticeship job creation expenditures. Amount 20D minus amount 20F.
+10	Part21/DateYYYYMMDD_931	DateYYYYMMDD_Comb		text		Part 21. First previous tax year. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+10	Part21	Field_931	931	numeric	12	Line 931. First previous tax year credit to be applied.
+10	Part21/DateYYYYMMDD_932	DateYYYYMMDD_Comb		text		Part 21. Second previous tax year. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+10	Part21	Field_932	932	numeric	12	Line 932. Second previous tax year credit to be applied.
+10	Part21/DateYYYYMMDD_933	DateYYYYMMDD_Comb		text		Part 21. Third previous tax year. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+10	Part21	Field_933	933	numeric	12	Line 933. Third previous tax year credit to be applied.
+10	Part21	Field_21A		numeric	12	Amount 21A. Total of lines 931 to 933. Enter at amount 20E.
+11	Part22	Field_22A		numeric	12	Amount 22A. ITC at the end of the previous tax year.
+11	Part22	Field_765	765	numeric	12	Line 765. Credit deemed as a remittance of co-op corporations.
+11	Part22	Field_770	770	numeric	12	Line 770. Credit expired after 20 tax years.
+11	Part22	Field_22B_1		numeric	12	Amount 22B. Subtotal. Line 765 plus line 770. Instance 1.
+11	Part22	Field_22B_2		numeric	12	Amount 22B. Instance 2.
+11	Part22	Field_775	775	numeric	12	Line 775. ITC at the beginning of the tax year. Amount 22A minus amount 22B.
+11	Part22	Field_777	777	numeric	12	Line 777. Credit transferred on an amalgamation or the wind-up of a subsidiary.
+11	Part22	Field_782	782	numeric	12	Line 782. Credit allocated from a partnership.
+11	Part22	Field_22C_1		numeric	12	Amount 22C. Subtotal. Line 777 plus line 782. Instance 1.
+11	Part22	Field_22C_2		numeric	12	Amount 22C. Instance 2.
+11	Part22	Field_22D		numeric	12	Amount 22D. Total credit available. Line 775 plus amount 22C.
+11	Part22	Field_785	785	numeric	12	Line 785. Credit deducted from Part I tax.
+11	Part22	Field_790	790	numeric	12	Line 790. ITC closing balance from child care spaces expenditures. Amount 22D minus line 785.
+11	Part23	Field_140	140	numeric	12	Line 140. Clean hydrogen ITC. From schedule 74.
+11	Part23	Field_155	155	numeric	12	Line 155. Clean technology ITC. From schedule 75.
+11	Part23	Field_170	170	numeric	12	Line 170. Clean technology manufacturing ITC. From schedule 76.
+11	Part23	Field_185	185	numeric	12	Line 185. Clean electricity ITC. From Schedule 77.
+11	Part23	Field_200	200	numeric	12	Line 200. Carbon capture, utilization, and storage ITC. From schedule 78
+11	Part23	Field_23A		numeric	12	Amount 23A. Clean economy ITCs. Total of lines 140 to 200. Include the total on line 780 of the T2 return.
+11	Part24	Field_24A		numeric	12	Amount 24A. Recaptured SR&ED ITC. Amount 17D.
+11	Part24	Field_24B		numeric	12	Amount 24B. Recaptured or recovered clean hydrogen ITC. From schedule 74.
+11	Part24	Field_24C		numeric	12	Amount 24C. Recaptured clean technology ITC. From schedule 75
+11	Part24	Field_24D		numeric	12	Amount 24D. Recaptured clean technology manufacturing ITC. From schedule 76.
+11	Part24	Field_24E		numeric	12	Amount 24E. Recaptured or recovered clean electricity ITC. From Schedule 77.
+11	Part24	Field_24F		numeric	12	Amount 24F. Total recapture and recovery of investment tax credit. Total of amounts 24A to 24E. Enter on line 602 of the T2 return.
+11	Part25	Field_25A		numeric	12	Amount 25A. ITC from investments in qualified property deducted from Part I tax. Line 260 in Part 5.
+11	Part25	Field_25B		numeric	12	Amount 25B. ITC from SR&ED expenditures deducted from Part I tax. Line 560 in Part 12.
+11	Part25	Field_25C		numeric	12	Amount 25C. ITC from pre-production mining expenditures deducted from Part I tax. Line 885 in Part 18.
+11	Part25	Field_25D		numeric	12	Amount 25D. ITC from apprenticeship job creation expenditures deducted from Part I tax. Line 660 in Part 20.
+11	Part25	Field_25E		numeric	12	Amount 25E. ITC from child care space expenditures deducted from Part I tax. Line 785 in Part 22.
+11	Part25	Field_25F		numeric	12	Amount 25F. Total ITC deducted from Part I tax. Total of amounts 25A to 25E. Enter on line 652 of the T2 return.

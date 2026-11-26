@@ -1,0 +1,962 @@
+page	part	field	line	kind	digits	speak
+1	FormInfo_List/FormInfo_List_P10	Func_Currency_Code		choice		If an election has been made to use functional currency, state the alphabetic currency code of the functional currency. Note only certain corporations can elect to report in a functional currency. See instructions. Select your option from the drop down menu.
+1		AmendedReturn_CheckBox		check		If this is an amended return, tick this box.
+1	T1134_Filed_rb_Group	T1134_Filed_rb1		check		Is this T1134 Summary filed for one reporting entity or a group of reporting entities that are related to each other? See instructions. One reporting entity.
+1	T1134_Filed_rb_Group	T1134_Filed_rb2		check		Is this T1134 Summary filed for one reporting entity or a group of reporting entities that are related to each other? See instructions. A group of reporting entities that are related to each other.
+1	P1S1_Reporting	P1S1_CB_Individual		check		Tick a box to indicate who you are reporting for, and complete the areas that apply. Individual.
+1	P1S1_Reporting	P1S1_CB_Corporation		check		Corporation.
+1	P1S1_Reporting	P1S1_CB_Trust		check		Trust.
+1	P1S1_Reporting	P1S1_CB_Partnership		check		Partnership.
+1	P1S1_Reporting	P1S1_FirstName		text		Individual. First name. Mandatory field.
+1	P1S1_Reporting	P1S1_LastName		text		Individual. Last name. Mandatory field.
+1	P1S1_Reporting	P1S1_Initial		text		Individual. Initials. Mandatory field.
+1	P1S1_Reporting/SIN_Comb_BordersAll	SIN_Comb		text		Social insurance number. 9 digits. Mandatory field.
+1	P1S1_Reporting	P1S1_CorporationName		text		Corporation. Corporation's name. Mandatory field.
+1	P1S1_Reporting/BusinessNumber_Comb_BordersAll_Adv_EN	BusinessNumber_RT1		text		Corporation. First 9 digits of the Business number. Mandatory field.
+1	P1S1_Reporting/BusinessNumber_Comb_BordersAll_Adv_EN	BusinessNumber_RT		text		
+1	P1S1_Reporting/BusinessNumber_Comb_BordersAll_Adv_EN	BusinessNumber_RT2		text		Corporation. Last 4 digits of the Business number. Mandatory field.
+1	P1S1_Reporting	P1S1_TrustName		text		Trust. Trust's name. Mandatory field.
+1	P1S1_Reporting/P1S1_AccountNumber_Group	P1S1_T		text		
+1	P1S1_Reporting/P1S1_AccountNumber_Group	P1S1_AccountNumber_P1		text	2	Trust. Trust's account number. Enter the first part of the trust's account number. Mandatory field.
+1	P1S1_Reporting/P1S1_AccountNumber_Group	P1S1_AccountNumber_P2		text	1	
+1	P1S1_Reporting/P1S1_AccountNumber_Group	P1S1_AccountNumber_P3		text	4	Trust. Trust's account number. Enter the second part of the trust's account number. Mandatory field.
+1	P1S1_Reporting/P1S1_AccountNumber_Group	P1S1_AccountNumber_P4		text	1	
+1	P1S1_Reporting/P1S1_AccountNumber_Group	P1S1_AccountNumber_P5		text	2	Trust. Trust's account number. Enter the third part of the trust's account number. Mandatory field.
+1	P1S1_Reporting	P1S1_PartnershipName		text		Partnership. Partnership's name. Mandatory field.
+1	P1S1_Reporting/Account_Number_Comb_EN	Account_Number_RT1		text		Partnership. First 9 digits of the partnership's account number. Mandatory field.
+1	P1S1_Reporting/Account_Number_Comb_EN	Account_Number_RT		text		
+1	P1S1_Reporting/Account_Number_Comb_EN	Account_Number_RT2		text		Partnership. Last 4 digits of the partnership's account number. Mandatory field.
+1	P1S1_Reporting	P1S1_PartnershipCode		choice		Partnership. Partnership Code. Select your option from the drop down menu. Mandatory field.
+1	P1S1_Reporting/P1S1_TaxpayerAddress	P1S1_Number		text		Reporting entity's address. Number. Mandatory field.
+1	P1S1_Reporting/P1S1_TaxpayerAddress	P1S1_Street		text		Reporting entity's address. Street. Mandatory field.
+1	P1S1_Reporting/P1S1_TaxpayerAddress	P1S1_City		text		Reporting entity's address. City. Mandatory field.
+1	P1S1_Reporting/P1S1_TaxpayerAddress	ProvState_DropDown		choice		Reporting entity's address. Select your province/territory or state from the drop down menu. If it's not listed please type it in manually.
+1	P1S1_Reporting/P1S1_TaxpayerAddress	P1S1_PostalCode		text		Reporting entity's address. Postal code, 6 characters or ZIP code, 5 digits.
+1	P1S1_Reporting/P1S1_TaxpayerAddress/P1S1_CountryCode_Group/P1S1_CC_Sub	P1S1_CountryCode		choice		Reporting entity's address. Country code. Select your option from the drop down menu. Mandatory field.
+1	P1S1_ReportingDates/P1S1_NAICS_Code_sf1	P1S1_NAICS_Code		text	6	Reporting entity's NAICS code. 6 digits. Instance 1. Mandatory field.
+1	P1S1_ReportingDates/P1S1_NAICS_Code_sf2	P1S1_NAICS_Code		text	6	Reporting entity's NAICS code. 6 digits. Instance 2.
+1	P1S1_ReportingDates/P1S1_NAICS_Code_sf3	P1S1_NAICS_Code		text	6	Reporting entity's NAICS code. 6 digits. Instance 3.
+1	P1S1_ReportingDates/P1S1_NAICS_Code_sf4	P1S1_NAICS_Code		text	6	Reporting entity's NAICS code. 6 digits. Instance 4.
+1	P1S1_ReportingDates/P1S1_ReportYear_Group	P1S1_Dates_Group_FromDate		text		For what taxation year are you filing this form. From date. Year 4 digits. Month 2 digits. Day 2 digits. Mandatory field.
+1	P1S1_ReportingDates/P1S1_ReportYear_Group	P1S1_Dates_Group_ToDate		text		For what taxation year are you filing this form. To date. Year 4 digits. Month 2 digits. Day 2 digits. Mandatory field.
+1	P1S1_ReportingDates/P1S1_Period_rb_Group	P1S1_Period_rb1		check		Does this period include 2 or more short taxation years? See instructions. Yes.
+1	P1S1_ReportingDates/P1S1_Period_rb_Group	P1S1_Period_rb2		check		Does this period include 2 or more short taxation years? See instructions. No.
+1	Section1_AttachedSupplements/Section1_Supplements_gr	Section1_Supplements_caption		text	5	Number of supplements attached. Mandatory field.
+1	Section1_AttachedSupplements	Section1_SupplementCount		choice		Number of supplements to generate. Select your option from the drop down menu.
+1	P1S2_Certification	P1S2_FirstName		text		Person to contact for more information. First name. Mandatory field.
+1	P1S2_Certification	P1S2_LastName		text		Person to contact for more information. Last name. Mandatory field.
+1	P1S2_Certification	P1S2_PhoneNumber		text	15	Person to contact for more information. Telephone number. 10 digits for a North American telephone number or up to 15 digits for an international number. Mandatory field.
+1	P1S2_Certification/P1S2_Sign	P1S2_PrintName		text		Person to contact for more information. Name. Mandatory field.
+1	P1S2_Certification	P1S2_Date		text		Person to contact for more information. Date. Year 4 digits. Month 2 digits. Day 2 digits. Mandatory field.
+1	P1S2_Certification	P1S2_Position		text		Person to contact for more information. Position, title, officer's rank. Mandatory field.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row1	Cell1		text		Organizational structure. First name of the individual within the related Canadian group. Row 1.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row1	Cell2		text		Organizational structure. Initials of the individual within the related Canadian group. Row 1.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row1	Cell3		text		Organizational structure. Last name of the individual within the related Canadian group. Row 1.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row1	Cell4		text		Organizational structure. Mailing address number of the individual within the related Canadian group. Row 1.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row1	Cell5		text		Organizational structure. Mailing address street of the individual within the related Canadian group. Row 1.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row1	Cell6		text		Organizational structure. Mailing address city of the individual within the related Canadian group. Row 1.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row1	Cell7		choice		Organizational structure. Mailing address Province/territory or state of the individual within the related Canadian group. Select your province or state from the drop down menu. If it's not listed please type it in manually. Row 1.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row1	Cell8		text		Organizational structure. Mailing address. Postal or zip code of the individual within the related Canadian group. Row 1.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row1	Cell9		choice		Organizational structure. Mailing address Country code of the individual within the related Canadian group. Select your option from the drop down menu. Row 1.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row1	Cell10		text		Organizational structure. Social insurance number of the individual within the related Canadian group. 9 digits. Row 1.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row2	Cell1		text		Organizational structure. First name of the individual within the related Canadian group. Row 2.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row2	Cell2		text		Organizational structure. Initials of the individual within the related Canadian group. Row 2.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row2	Cell3		text		Organizational structure. Last name of the individual within the related Canadian group. Row 2.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row2	Cell4		text		Organizational structure. Mailing address number of the individual within the related Canadian group. Row 2.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row2	Cell5		text		Organizational structure. Mailing address street of the individual within the related Canadian group. Row 2.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row2	Cell6		text		Organizational structure. Mailing address city of the individual within the related Canadian group. Row 2.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row2	Cell7		choice		Organizational structure. Mailing address Province/territory or state of the individual within the related Canadian group. Select your province or state from the drop down menu. If it's not listed please type it in manually. Row 2.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row2	Cell8		text		Organizational structure. Mailing address. Postal or zip code of the individual within the related Canadian group. Row 2.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row2	Cell9		choice		Organizational structure. Mailing address Country code of the individual within the related Canadian group. Select your option from the drop down menu. Row 2.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row2	Cell10		text		Organizational structure. Social insurance number of the individual within the related Canadian group. 9 digits. Row 2.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row3	Cell1		text		Organizational structure. First name of the individual within the related Canadian group. Row 3.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row3	Cell2		text		Organizational structure. Initials of the individual within the related Canadian group. Row 3.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row3	Cell3		text		Organizational structure. Last name of the individual within the related Canadian group. Row 3.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row3	Cell4		text		Organizational structure. Mailing address number of the individual within the related Canadian group. Row 3.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row3	Cell5		text		Organizational structure. Mailing address street of the individual within the related Canadian group. Row 3.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row3	Cell6		text		Organizational structure. Mailing address city of the individual within the related Canadian group. Row 3.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row3	Cell7		choice		Organizational structure. Mailing address Province/territory or state of the individual within the related Canadian group. Select your province or state from the drop down menu. If it's not listed please type it in manually. Row 3.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row3	Cell8		text		Organizational structure. Mailing address. Postal or zip code of the individual within the related Canadian group. Row 3.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row3	Cell9		choice		Organizational structure. Mailing address Country code of the individual within the related Canadian group. Select your option from the drop down menu. Row 3.
+2	P1S3_A_Tablei/P1S3_Chart_i/Row3	Cell10		text		Organizational structure. Social insurance number of the individual within the related Canadian group. 9 digits. Row 3.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row1	Cell1		text		Organizational structure. Corporation's name of the corporations within the related Canadian group. Row 1.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row1	Cell2		text		Organizational structure. Mailing address number of the corporations within the related Canadian group. Row 1.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row1	Cell3		text		Organizational structure. Mailing address street of the corporations within the related Canadian group. Row 1.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row1	Cell4		text		Organizational structure. Mailing address city of the corporations within the related Canadian group. Row 1.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row1	Cell5		choice		Organizational structure. Mailing address Province/territory or state of the corporations within the related Canadian group. Select your province or state from the drop down menu. If it's not listed please type it in manually. Row 1.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row1	Cell6		text		Organizational structure. Mailing address. Postal or zip code of the corporations within the related Canadian group. Row 1.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row1	Cell7		choice		Organizational structure. Mailing address Country code of the corporations within the related Canadian group. Select your option from the drop down menu. Row 1.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row1	Cell8		text		Organizational structure. Business number of the corporations within the related Canadian group. 9 digits, 2 letters, and 4 digits. Row 1.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row1	Cell9		text	6	Organizational structure. NAICS code of the corporations within the related Canadian group. 6 digits. Instance 1. Row 1.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row1	Cell10		text	6	Organizational structure. NAICS code of the corporations within the related Canadian group. 6 digits. Instance 2. Row 1.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row1	Cell11		text	6	Organizational structure. NAICS code of the corporations within the related Canadian group. 6 digits. Instance 3. Row 1.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row1	Cell12		text	6	Organizational structure. NAICS code of the corporations within the related Canadian group. 6 digits. Instance 4. Row 1.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row2	Cell1		text		Organizational structure. Corporation's name of the corporations within the related Canadian group. Row 2.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row2	Cell2		text		Organizational structure. Mailing address number of the corporations within the related Canadian group. Row 2.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row2	Cell3		text		Organizational structure. Mailing address street of the corporations within the related Canadian group. Row 2.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row2	Cell4		text		Organizational structure. Mailing address city of the corporations within the related Canadian group. Row 2.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row2	Cell5		choice		Organizational structure. Mailing address Province/territory or state of the corporations within the related Canadian group. Select your province or state from the drop down menu. If it's not listed please type it in manually. Row 2.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row2	Cell6		text		Organizational structure. Mailing address. Postal or zip code of the corporations within the related Canadian group. Row 2.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row2	Cell7		choice		Organizational structure. Mailing address Country code of the corporations within the related Canadian group. Select your option from the drop down menu. Row 2.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row2	Cell8		text		Organizational structure. Business number of the corporations within the related Canadian group. 9 digits, 2 letters, and 4 digits. Row 2.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row2	Cell9		text	6	Organizational structure. NAICS code of the corporations within the related group. 6 digits. Instance 1. Row 2.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row2	Cell10		text	6	Organizational structure. NAICS code of the corporations within the related Canadian group. 6 digits. Instance 2. Row 2.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row2	Cell11		text	6	Organizational structure. NAICS code of the corporations within the related Canadian group. 6 digits. Instance 3. Row 2.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row2	Cell12		text	6	Organizational structure. NAICS code of the corporations within the related Canadian group. 6 digits. Instance 4. Row 2.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row3	Cell1		text		Organizational structure. Corporation's name of the corporations within the related Canadian group. Row 3.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row3	Cell2		text		Organizational structure. Mailing address number of the corporations within the related Canadian group. Row 3.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row3	Cell3		text		Organizational structure. Mailing address street of the corporations within the related Canadian group. Row 3.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row3	Cell4		text		Organizational structure. Mailing address city of the corporations within the related Canadian group. Row 3.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row3	Cell5		choice		Organizational structure. Mailing address Province/territory or state of the corporations within the related Canadian group. Select your province or state from the drop down menu. If it's not listed please type it in manually. Row 3.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row3	Cell6		text		Organizational structure. Mailing address. Postal or zip code of the corporations within the related Canadian group. Row 3.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row3	Cell7		choice		Organizational structure. Mailing address Country code of the corporations within the related Canadian group. Select your option from the drop down menu. Row 3.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row3	Cell8		text		Organizational structure. Business number of the corporations within the related Canadian group. 9 digits, 2 letters, and 4 digits. Row 3.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row3	Cell9		text	6	Organizational structure. NAICS code of the corporations within the related Canadian group. 6 digits. Instance 1. Row 3.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row3	Cell10		text	6	Organizational structure. NAICS code of the corporations within the related Canadian group. 6 digits. Instance 2. Row 3.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row3	Cell11		text	6	Organizational structure. NAICS code of the corporations within the related Canadian group. 6 digits. Instance 3. Row 3.
+2	P1S3_A_Tableii/P1S3_Chart_ii/Row3	Cell12		text	6	Organizational structure. NAICS code of the corporations within the related Canadian group. 6 digits. Instance 4. Row 3.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row1	Cell1		text		Organizational structure. Trust's name of the trusts within the related Canadian group. Row 1.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row1	Cell2		text		Organizational structure. Mailing address number of the trusts within the related Canadian group. Row 1.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row1	Cell3		text		Organizational structure. Mailing address street of the trusts within the related Canadian group. Row 1.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row1	Cell4		text		Organizational structure. Mailing address city of the trusts within the related Canadian group. Row 1.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row1	Cell5		choice		Organizational structure. Mailing address. Province/territory or state of the trusts within the related Canadian group. Select your province or state from the drop down menu. If it's not listed please type it in manually. Row 1.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row1	Cell6		text		Organizational structure. Mailing address. Postal or zip code of the trusts within the related Canadian group. Row 1.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row1	Cell7		choice		Organizational structure. Mailing address Country code of the trusts within the related Canadian group. Select your option from the drop down menu. Row 1.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row1	Cell8		text		Organizational structure. Trust's account number of the trusts within the related Canadian group. Row 1.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row1	Cell9		text	6	Organizational structure. NAICS code of the trusts within the related Canadian group. 6 digits. Instance 1. Row 1.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row1	Cell10		text	6	Organizational structure. NAICS code of the trusts within the related Canadian group. 6 digits. Instance 2. Row 1.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row1	Cell11		text	6	Organizational structure. NAICS code of the trusts within the related Canadian group. 6 digits. Instance 3. Row 1.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row1	Cell12		text	6	Organizational structure. NAICS code of the trusts within the related Canadian group. 6 digits. Instance 4. Row 1.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row2	Cell1		text		Organizational structure. Trust's name of the trusts within the related Canadian group. Row 2.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row2	Cell2		text		Organizational structure. Mailing address number of the trusts within the related Canadian group. Row 2.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row2	Cell3		text		Organizational structure. Mailing address street of the trusts within the related Canadian group. Row 2.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row2	Cell4		text		Organizational structure. Mailing address city of the trusts within the related Canadian group. Row 2.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row2	Cell5		choice		Organizational structure. Mailing address. Province/territory or state of the trusts within the related Canadian group. Select your province or state from the drop down menu. If it's not listed please type it in manually. Row 2.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row2	Cell6		text		Organizational structure. Mailing address. Postal or zip code of the trusts within the related Canadian group. Row 2.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row2	Cell7		choice		Organizational structure. Mailing address Country code of the trusts within the related Canadian group. Select your option from the drop down menu. Row 2.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row2	Cell8		text		Organizational structure. Trust's account number of the trusts within the related Canadian group. Row 2.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row2	Cell9		text	6	Organizational structure. NAICS code of the trusts within the related Canadian group. 6 digits. Instance 1. Row 2.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row2	Cell10		text	6	Organizational structure. NAICS code of the trusts within the related Canadian group. 6 digits. Instance 2. Row 2.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row2	Cell11		text	6	Organizational structure. NAICS code of the trusts within the related Canadian group. 6 digits. Instance 3. Row 2.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row2	Cell12		text	6	Organizational structure. NAICS code of the trusts within the related Canadian group. 6 digits. Instance 4. Row 2.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row3	Cell1		text		Organizational structure. Trust's name of the trusts within the related Canadian group. Row 3.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row3	Cell2		text		Organizational structure. Mailing address number of the trusts within the related Canadian group. Row 3.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row3	Cell3		text		Organizational structure. Mailing address street of the trusts within the related Canadian group. Row 3.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row3	Cell4		text		Organizational structure. Mailing address city of the trusts within the related Canadian group. Row 3.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row3	Cell5		choice		Organizational structure. Mailing address. Province/territory or state of the trusts within the related Canadian group. Select your province or state from the drop down menu. If it's not listed please type it in manually. Row 3.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row3	Cell6		text		Organizational structure. Mailing address. Postal or zip code of the trusts within the related Canadian group. Row 3.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row3	Cell7		choice		Organizational structure. Mailing address Country code of the trusts within the related Canadian group. Select your option from the drop down menu. Row 3.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row3	Cell8		text		Organizational structure. Trust's account number of the trusts within the related Canadian group. Row 3.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row3	Cell9		text	6	Organizational structure. NAICS code of the trusts within the related Canadian group. 6 digits. Instance 1. Row 3.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row3	Cell10		text	6	Organizational structure. NAICS code of the trusts within the related Canadian group. 6 digits. Instance 2. Row 3.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row3	Cell11		text	6	Organizational structure. NAICS code of the trusts within the related Canadian group. 6 digits. Instance 3. Row 3.
+2	P1S3_A_Tableiii/P1S3_Chart_iii/Row3	Cell12		text	6	Organizational structure. NAICS code of the trusts within the related Canadian group. 6 digits. Instance 4. Row 3.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row1	Cell1		text		Organizational structure. Partnership's name of the partnership within the related Canadian group. Row 1.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row1	Cell2		text		Organizational structure. Mailing address number of the partnership within the related Canadian group. Row 1.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row1	Cell3		text		Organizational structure. Mailing address number of the partnership within the related Canadian group. Row 1.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row1	Cell4		text		Organizational structure. Mailing address city of the partnership within the related Canadian group. Row 1.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row1	Cell5		choice		Organizational structure. Mailing address. Province/territory or state of the partnership within the related Canadian group. Select your province or state from the drop down menu. If it's not listed please type it in manually. Row 1.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row1	Cell6		text		Organizational structure. Mailing address. Postal or zip code of the partnership within the related Canadian group. Row 1.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row1	Cell7		choice		Organizational structure. Mailing address Country code of the partnership within the related Canadian group. Select your option from the drop down menu. Row 1.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row1	Cell8		text		Organizational structure. Partnership's Account Number of the partnerships within the related Canadian group. 9 digits, 2 letters, and 4 digits. Row 1.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row1	Cell9		choice		Organizational structure. Partnership code of the partnership within the related Canadian group. 1, 2 or 3, see instructions. Select your option from the drop down menu. Row 1.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row1	Cell10		text	6	Organizational structure. NAICS code of the partnership within the related Canadian group. 6 digits. Instance 1. Row 1.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row1	Cell11		text	6	Organizational structure. NAICS code of the partnership within the related Canadian group. 6 digits. Instance 2. Row 1.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row1	Cell12		text	6	Organizational structure. NAICS code of the partnership within the related Canadian group. 6 digits. Instance 3. Row 1.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row1	Cell13		text	6	Organizational structure. NAICS code of the partnership within the related Canadian group. 6 digits. Instance 4. Row 1.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row2	Cell1		text		Organizational structure. Partnership's name of the partnership within the related Canadian group. Row 2.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row2	Cell2		text		Organizational structure. Mailing address number of the partnership within the related Canadian group. Row 2.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row2	Cell3		text		Organizational structure. Mailing address number of the partnership within the related Canadian group. Row 2.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row2	Cell4		text		Organizational structure. Mailing address city of the partnership within the related Canadian group. Row 2.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row2	Cell5		choice		Organizational structure. Mailing address. Province/territory or state of the partnership within the related Canadian group. Select your province or state from the drop down menu. If it's not listed please type it in manually. Row 2.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row2	Cell6		text		Organizational structure. Mailing address. Postal or zip code of the partnership within the related Canadian group. Row 2.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row2	Cell7		choice		Organizational structure. Mailing address Country code of the partnership within the related Canadian group. Select your option from the drop down menu. Row 2.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row2	Cell8		text		Organizational structure. Partnership's Account Number of the partnerships within the related Canadian group. 9 digits, 2 letters, and 4 digits. Row 2.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row2	Cell9		choice		Organizational structure. Partnership code of the partnership within the related Canadian group. 1, 2 or 3, see instructions. Select your option from the drop down menu. Row 2.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row2	Cell10		text	6	Organizational structure. NAICS code of the partnership within the related Canadian group. 6 digits. Instance 1. Row 2.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row2	Cell11		text	6	Organizational structure. NAICS code of the partnership within the related Canadian group. 6 digits. Instance 2. Row 2.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row2	Cell12		text	6	Organizational structure. NAICS code of the partnership within the related Canadian group. 6 digits. Instance 3. Row 2.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row2	Cell13		text	6	Organizational structure. NAICS code of the partnership within the related Canadian group. 6 digits. Instance 4. Row 2.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row3	Cell1		text		Organizational structure. Partnership's name of the partnership within the related Canadian group. Row 3.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row3	Cell2		text		Organizational structure. Mailing address number of the partnership within the related Canadian group. Row 3.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row3	Cell3		text		Organizational structure. Mailing address number of the partnership within the related Canadian group. Row 3.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row3	Cell4		text		Organizational structure. Mailing address city of the partnership within the related Canadian group. Row 3.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row3	Cell5		choice		Organizational structure. Mailing address. Province/territory or state of the partnership within the related Canadian group. Select your province or state from the drop down menu. If it's not listed please type it in manually. Row 3.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row3	Cell6		text		Organizational structure. Mailing address. Postal or zip code of the partnership within the related Canadian group. Row 3.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row3	Cell7		choice		Organizational structure. Mailing address Country code of the partnership within the related Canadian group. Select your option from the drop down menu. Row 3.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row3	Cell8		text		Organizational structure. Partnership's Account Number of the partnerships within the related Canadian group. 9 digits, 2 letters, and 4 digits. Row 3.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row3	Cell9		choice	6	Organizational structure. Partnership code of the partnership within the related Canadian group. 1, 2 or 3, see instructions. Select your option from the drop down menu. Row 3.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row3	Cell10		text	6	Organizational structure. NAICS code of the partnership within the related Canadian group. 6 digits. Instance 1. Row 3.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row3	Cell11		text	6	Organizational structure. NAICS code of the partnership within the related Canadian group. 6 digits. Instance 2. Row 3.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row3	Cell12		text	6	Organizational structure. NAICS code of the partnership within the related Canadian group. 6 digits. Instance 3. Row 3.
+2	P1S3_A_Tableiv/P1S3_Chart_iv/Row3	Cell13		text	6	Organizational structure. NAICS code of the partnership within the related Canadian group. 6 digits. Instance 4. Row 3.
+3	P1S3_B/P1S3_B_Chart/Row1	Cell1		text		Account number of reporting entity and every member of the related Canadian group. If applicable. Row 1. Mandatory Field.
+3	P1S3_B/P1S3_B_Chart/Row1/Cell2/RadioButtonGroup	Option1		check		Was the entity directly or indirectly involved in a section 85 transfer? Yes. Row 1.
+3	P1S3_B/P1S3_B_Chart/Row1/Cell2/RadioButtonGroup	Option2		check		Was the entity directly or indirectly involved in a section 85 transfer? No. Row 1.
+3	P1S3_B/P1S3_B_Chart/Row1/Cell3/RadioButtonGroup	Option1		check		Was the entity directly or indirectly involved in a subsection 85.1(3) transaction? Yes. Row 1.
+3	P1S3_B/P1S3_B_Chart/Row1/Cell3/RadioButtonGroup	Option2		check		Was the entity directly or indirectly involved in a subsection 85.1(3) transaction? No. Row 1.
+3	P1S3_B/P1S3_B_Chart/Row1/Cell4/RadioButtonGroup	Option1		check		Did the entity file a section 86.1 election? Yes. Row 1.
+3	P1S3_B/P1S3_B_Chart/Row1/Cell4/RadioButtonGroup	Option2		check		Did the entity file a section 86.1 election? No. Row 1.
+3	P1S3_B/P1S3_B_Chart/Row1/Cell5/RadioButtonGroup	Option1		check		Was the entity involved in a section 87 amalgamation? Yes. Row 1.
+3	P1S3_B/P1S3_B_Chart/Row1/Cell5/RadioButtonGroup	Option2		check		Was the entity involved in a section 87 amalgamation? No. Row 1.
+3	P1S3_B/P1S3_B_Chart/Row1/Cell6/RadioButtonGroup	Option1		check		Was the entity involved in a subsection 88(1) winding up? Yes. Row 1.
+3	P1S3_B/P1S3_B_Chart/Row1/Cell6/RadioButtonGroup	Option2		check		Was the entity involved in a subsection 88(1) winding up? No. Row 1.
+3	P1S3_B/P1S3_B_Chart/Row2	Cell1		text		Account number of reporting entity and every member of the related Canadian group. If applicable. Row 2.
+3	P1S3_B/P1S3_B_Chart/Row2/Cell2/RadioButtonGroup	Option1		check		Was the entity directly or indirectly involved in a section 85 transfer? Yes. Row 2.
+3	P1S3_B/P1S3_B_Chart/Row2/Cell2/RadioButtonGroup	Option2		check		Was the entity directly or indirectly involved in a section 85 transfer? No. Row 2.
+3	P1S3_B/P1S3_B_Chart/Row2/Cell3/RadioButtonGroup	Option1		check		Was the entity directly or indirectly involved in a subsection 85.1(3) transaction? Yes. Row 2.
+3	P1S3_B/P1S3_B_Chart/Row2/Cell3/RadioButtonGroup	Option2		check		Was the entity directly or indirectly involved in a subsection 85.1(3) transaction? No. Row 2.
+3	P1S3_B/P1S3_B_Chart/Row2/Cell4/RadioButtonGroup	Option1		check		Did the entity file a section 86.1 election? Yes. Row 2.
+3	P1S3_B/P1S3_B_Chart/Row2/Cell4/RadioButtonGroup	Option2		check		Did the entity file a section 86.1 election? No. Row 2.
+3	P1S3_B/P1S3_B_Chart/Row2/Cell5/RadioButtonGroup	Option1		check		Was the entity involved in a section 87 amalgamation? Yes. Row 2.
+3	P1S3_B/P1S3_B_Chart/Row2/Cell5/RadioButtonGroup	Option2		check		Was the entity involved in a section 87 amalgamation? No. Row 2.
+3	P1S3_B/P1S3_B_Chart/Row2/Cell6/RadioButtonGroup	Option1		check		Was the entity involved in a subsection 88(1) winding up? Yes. Row 2.
+3	P1S3_B/P1S3_B_Chart/Row2/Cell6/RadioButtonGroup	Option2		check		Was the entity involved in a subsection 88(1) winding up? No. Row 2.
+3	P1S3_B/P1S3_B_Chart/Row3	Cell1		text		Account number of reporting entity and every member of the related Canadian group. If applicable. Row 3.
+3	P1S3_B/P1S3_B_Chart/Row3/Cell2/RadioButtonGroup	Option1		check		Was the entity directly or indirectly involved in a section 85 transfer? Yes. Row 3.
+3	P1S3_B/P1S3_B_Chart/Row3/Cell2/RadioButtonGroup	Option2		check		Was the entity directly or indirectly involved in a section 85 transfer? No. Row 3.
+3	P1S3_B/P1S3_B_Chart/Row3/Cell3/RadioButtonGroup	Option1		check		Was the entity directly or indirectly involved in a subsection 85.1(3) transaction? Yes. Row 3.
+3	P1S3_B/P1S3_B_Chart/Row3/Cell3/RadioButtonGroup	Option2		check		Was the entity directly or indirectly involved in a subsection 85.1(3) transaction? No. Row 3.
+3	P1S3_B/P1S3_B_Chart/Row3/Cell4/RadioButtonGroup	Option1		check		Did the entity file a section 86.1 election? Yes. Row 3.
+3	P1S3_B/P1S3_B_Chart/Row3/Cell4/RadioButtonGroup	Option2		check		Did the entity file a section 86.1 election? No. Row 3.
+3	P1S3_B/P1S3_B_Chart/Row3/Cell5/RadioButtonGroup	Option1		check		Was the entity involved in a section 87 amalgamation? Yes. Row 3.
+3	P1S3_B/P1S3_B_Chart/Row3/Cell5/RadioButtonGroup	Option2		check		Was the entity involved in a section 87 amalgamation? No. Row 3.
+3	P1S3_B/P1S3_B_Chart/Row3/Cell6/RadioButtonGroup	Option1		check		Was the entity involved in a subsection 88(1) winding up? Yes. Row 3.
+3	P1S3_B/P1S3_B_Chart/Row3/Cell6/RadioButtonGroup	Option2		check		Was the entity involved in a subsection 88(1) winding up? No. Row 3.
+3	P1S3_C/P1S3_C_rb	P1S3_C_rb_Y		check		Is the reporting entity submitting a group organizational chart for the required information noted in C. (i) through (iv)? Yes.
+3	P1S3_C/P1S3_C_rb	P1S3_C_rb_N		check		Is the reporting entity submitting a group organizational chart for the required information noted in C. (i) through (iv)? No.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row1	Cell1		text		Name of related corporation. Row 1.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row1	Cell2		choice		Related corporation. Country code of residence of corporation. Select your option from the drop down menu. Row 1.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row1	Cell3		text		Related corporation. Name of foreign affiliate. Row 1.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row1	Cell4		text		Related corporation. Taxpayer Identification Number for Non-resident. Row 1.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row1	Cell5		choice		Related corporation. Country code of residence of foreign affiliate. Select your option from the drop down menu. Row 1.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row1	Cell6		numeric		Related corporation. Corporation's equity percentage in foreign affiliate. Row 1.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row1	Cell7		numeric		Related corporation. Corporation's direct equity percentage in foreign affiliate. Row 1.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row1/Cell8/RadioButtonGroup	Option1		check		Related corporation. Is a T1134 Supplement not filed due to dormancy threshold? Yes. If yes, please complete Part D in respect of that dormant affiliate. Row 1.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row1/Cell8/RadioButtonGroup	Option2		check		Related corporation. Is a T1134 Supplement not filed due to dormancy threshold? No. Row 1.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row2	Cell1		text		Name of related corporation. Row 2.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row2	Cell2		choice		Related corporation. Country code of residence of corporation. Select your option from the drop down menu. Row 2.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row2	Cell3		text		Related corporation. Name of foreign affiliate. Row 2.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row2	Cell4		text		Related corporation. Taxpayer Identification Number for Non-resident. Row 2.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row2	Cell5		choice		Related corporation. Country code of residence of foreign affiliate. Select your option from the drop down menu. Row 2.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row2	Cell6		numeric		Related corporation. Corporation's equity percentage in foreign affiliate. Row 2.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row2	Cell7		numeric		Related corporation. Corporation's direct equity percentage in foreign affiliate. Row 2.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row2/Cell8/RadioButtonGroup	Option1		check		Related corporation. Is a T1134 Supplement not filed due to dormancy threshold? Yes. If yes, please complete Part D in respect of that dormant affiliate. Row 2.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row2/Cell8/RadioButtonGroup	Option2		check		Related corporation. Is a T1134 Supplement not filed due to dormancy threshold? No. Row 2.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row3	Cell1		text		Name of related corporation. Row 3.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row3	Cell2		choice		Related corporation. Country code of residence of corporation. Select your option from the drop down menu. Row 3.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row3	Cell3		text		Related corporation. Name of foreign affiliate. Row 3.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row3	Cell4		text		Related corporation. Taxpayer Identification Number for Non-resident. Row 3.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row3	Cell5		choice		Related corporation. Country code of residence of foreign affiliate. Select your option from the drop down menu. Row 3.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row3	Cell6		numeric		Related corporation. Corporation's equity percentage in foreign affiliate. Row 3.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row3	Cell7		numeric		Related corporation. Corporation's direct equity percentage in foreign affiliate. Row 3.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row3/Cell8/RadioButtonGroup	Option1		check		Related corporation. Is a T1134 Supplement not filed due to dormancy threshold? Yes. If yes, please complete Part D in respect of that dormant affiliate. Row 3.
+3	P1S3_C/P1S3_C_Tablei/P1S3_C_Charti/Row3/Cell8/RadioButtonGroup	Option2		check		Related corporation. Is a T1134 Supplement not filed due to dormancy threshold? No. Row 3.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row1	Cell1		text		Name of foreign affiliate. Row 1.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row1	Cell2		text		Foreign affiliate. Taxpayer Identification number for shareholder foreign affiliate. Row 1.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row1	Cell3		choice		Foreign affiliate. Country code of residence of foreign affiliate. Select your option from the drop down menu. Row 1.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row1	Cell4		text		Foreign affiliate. Name of the other foreign affiliate. Row 1.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row1	Cell5		text		Foreign affiliate. Taxpayer Identification Number for the other foreign affiliate. Row 1.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row1	Cell6		choice		Foreign affiliate. Country code of residence of the other foreign affiliate. Select your option from the drop down menu. Row 1.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row1	Cell7		numeric		Foreign affiliate. Foreign affiliates equity percentage in the other foreign affiliate. Row 1.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row1	Cell8		numeric		Foreign affiliate. Foreign affiliate's direct equity percentage in the other foreign affiliate. Row 1.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row1/Cell9/RadioButtonGroup	Option1		check		Foreign affiliate. Is a T1134 Supplement NOT filed due to dormancy threshold? If yes, please complete Part D in respect of that dormant affiliate. Row 1.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row1/Cell9/RadioButtonGroup	Option2		check		Foreign affiliate. Is a T1134 Supplement NOT filed due to dormancy threshold? No. Row 1.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row2	Cell1		text		Name of foreign affiliate. Row 2.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row2	Cell2		text		Foreign affiliate. Taxpayer Identification number for shareholder foreign affiliate. Row 2.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row2	Cell3		choice		Foreign affiliate. Country code of residence of foreign affiliate. Select your option from the drop down menu. Row 2.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row2	Cell4		text		Foreign affiliate. Name of the other foreign affiliate. Row 2.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row2	Cell5		text		Foreign affiliate. Taxpayer Identification Number for the other foreign affiliate. Row 2.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row2	Cell6		choice		Foreign affiliate. Country code of residence of the other foreign affiliate. Select your option from the drop down menu. Row 2.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row2	Cell7		numeric		Foreign affiliate. Foreign affiliates equity percentage in the other foreign affiliate. Row 2.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row2	Cell8		numeric		Foreign affiliate. Foreign affiliate's direct equity percentage in the other foreign affiliate. Row 2.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row2/Cell9/RadioButtonGroup	Option1		check		Foreign affiliate. Is a T1134 Supplement NOT filed due to dormancy threshold? If yes, please complete Part D in respect of that dormant affiliate. Row 2.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row2/Cell9/RadioButtonGroup	Option2		check		Foreign affiliate. Is a T1134 Supplement NOT filed due to dormancy threshold? No. Row 2.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row3	Cell1		text		Name of foreign affiliate. Row 3.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row3	Cell2		text		Foreign affiliate. Taxpayer Identification number for shareholder foreign affiliate. Row 3.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row3	Cell3		choice		Foreign affiliate. Country code of residence of foreign affiliate. Select your option from the drop down menu. Row 3.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row3	Cell4		text		Foreign affiliate. Name of the other foreign affiliate. Row 3.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row3	Cell5		text		Foreign affiliate. Taxpayer Identification Number for the other foreign affiliate. Row 3.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row3	Cell6		choice		Foreign affiliate. Country code of residence of the other foreign affiliate. Select your option from the drop down menu. Row 3.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row3	Cell7		numeric		Foreign affiliate. Foreign affiliates equity percentage in the other foreign affiliate. Row 3.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row3	Cell8		numeric		Foreign affiliate. Foreign affiliate's direct equity percentage in the other foreign affiliate. Row 3.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row3/Cell9/RadioButtonGroup	Option1		check		Foreign affiliate. Is a T1134 Supplement NOT filed due to dormancy threshold? If yes, please complete Part D in respect of that dormant affiliate. Row 3.
+3	P1S3_C/P1S3_C_Tableii/P1S3_C_Chartii/Row3/Cell9/RadioButtonGroup	Option2		check		Foreign affiliate. Is a T1134 Supplement NOT filed due to dormancy threshold? No. Row 3.
+3	P1S3_C/P1S3_C_Tableiii/P1S3_C_Chartiii/Row1	Cell1		text		Name of partner. Row 1.
+3	P1S3_C/P1S3_C_Tableiii/P1S3_C_Chartiii/Row1	Cell2		text		Address of partner. Row 1.
+3	P1S3_C/P1S3_C_Tableiii/P1S3_C_Chartiii/Row1	Cell3		choice		Country code of country of residence of each partner. Select your option from the drop down menu. Row 1.
+3	P1S3_C/P1S3_C_Tableiii/P1S3_C_Chartiii/Row2	Cell1		text		Name of partner. Row 2.
+3	P1S3_C/P1S3_C_Tableiii/P1S3_C_Chartiii/Row2	Cell2		text		Address of partner. Row 2.
+3	P1S3_C/P1S3_C_Tableiii/P1S3_C_Chartiii/Row2	Cell3		choice		Country code of country of residence of each partner. Select your option from the drop down menu. Row 2.
+3	P1S3_C/P1S3_C_Tableiii/P1S3_C_Chartiii/Row3	Cell1		text		Name of partner. Row 3.
+3	P1S3_C/P1S3_C_Tableiii/P1S3_C_Chartiii/Row3	Cell2		text		Address of partner. Row 3.
+3	P1S3_C/P1S3_C_Tableiii/P1S3_C_Chartiii/Row3	Cell3		choice		Country code of country of residence of each partner. Select your option from the drop down menu. Row 3.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row1	Cell1		text		Partnership name. Row 1.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row1	Cell2		text		Address of partnership. Row 1.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row1	Cell3		choice		Country code of country of location of partnership. Select your option from the drop down menu. Row 1.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row1	Cell4		text		Foreign affiliate. Row 1.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row1	Cell5		numeric		Foreign affiliate's interest percentage in the partnership. Row 1.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row2	Cell1		text		Partnership name. Row 2.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row2	Cell2		text		Address of partnership. Row 2.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row2	Cell3		choice		Country code of country of location of partnership. Select your option from the drop down menu. Row 2.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row2	Cell4		text		Foreign affiliate. Row 2.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row2	Cell5		numeric		Foreign affiliate's interest percentage in the partnership. Row 2.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row3	Cell1		text		Partnership name. Row 3.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row3	Cell2		text		Address of partnership. Row 3.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row3	Cell3		choice		Country code of country of location of partnership. Select your option from the drop down menu. Row 3.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row3	Cell4		text		Foreign affiliate. Row 3.
+3	P1S3_C/P1S3_C_Tableiv/P1S3_C_Chartiv/Row3	Cell5		numeric		Foreign affiliate's interest percentage in the partnership. Row 3.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row1	Cell1		text		Foreign Affiliate Name. Row 1.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row1	Cell2		numeric	15	Cost Amount. In Canadian dollars. Row 1.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row1	Cell3		numeric	15	Gross Receipts. In Canadian dollars. Row 1.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row1	Cell4		numeric	15	Gross Revenue. In Canadian dollars. Row 1.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row1	Cell5		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Funds. Row 1.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row1	Cell6		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Shares. Row 1.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row1	Cell7		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Indebtedness owed by non-residents. Row 1.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row1	Cell8		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Interest in non-resident trusts. Row 1.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row1	Cell9		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Real property outside Canada. Row 1.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row1	Cell10		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Other property outside Canada. Row 1.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row1	Cell11		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Property held in account with a Canadian registered securities dealer or a Canadian trust company. Row 1.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row2	Cell1		text		Foreign Affiliate Name. Row 2.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row2	Cell2		numeric	15	Cost Amount. In Canadian dollars. Row 2.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row2	Cell3		numeric	15	Gross Receipts. In Canadian dollars. Row 2.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row2	Cell4		numeric	15	Gross Revenue. In Canadian dollars. Row 2.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row2	Cell5		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Funds. Row 2.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row2	Cell6		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Shares. Row 2.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row2	Cell7		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Indebtedness owed by non-residents. Row 2.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row2	Cell8		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Interest in non-resident trusts. Row 2.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row2	Cell9		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Real property outside Canada. Row 2.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row2	Cell10		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Other property outside Canada. Row 2.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row2	Cell11		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Property held in account with a Canadian registered securities dealer or a Canadian trust company. Row 2.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row3	Cell1		text		Foreign Affiliate Name. Row 3.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row3	Cell2		numeric	15	Cost Amount. In Canadian dollars. Row 3.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row3	Cell3		numeric	15	Gross Receipts. In Canadian dollars. Row 3.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row3	Cell4		numeric	15	Gross Revenue. In Canadian dollars. Row 3.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row3	Cell5		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Funds. Row 3.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row3	Cell6		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Shares. Row 3.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row3	Cell7		check		D. Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Indebtedness owed by non-residents. Row 3.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row3	Cell8		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Interest in non-resident trusts. Row 3.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row3	Cell9		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Real property outside Canada. Row 3.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row3	Cell10		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Other property outside Canada. Row 3.
+3	P1S3_D_Chart/P1S3_D_Chart1/Row3	Cell11		check		Nature of assets held by Foreign Affiliate. Please check all appropriate boxes. Property held in account with a Canadian registered securities dealer or a Canadian trust company. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row1	Cell1		text		Foreign Affiliate Name. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1	Cell2		text		Taxpayer Identification Number. If available. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1	Cell3		choice		Country code of the country or jurisdiction that the foreign affiliate is a resident of. Select your option from the drop down menu. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1	Cell4		text	4	Year in which corporation first became a foreign affiliate of the reporting entity or any member of the related Canadian group. Date. Year 4 digits. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell5/RadioButtonGroup	Option1		check		Did the corporation cease to be a foreign affiliate of the reporting entity or any member of the related Canadian group during the year? Yes. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell5/RadioButtonGroup	Option2		check		Did the corporation cease to be a foreign affiliate of the reporting entity or any member of the related Canadian group during the year? No. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell6/RadioButtonGroup	Option1		check		Were there any transformation transactions during this reporting period that impacted its surplus account balance(s)? Yes. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell6/RadioButtonGroup	Option2		check		Were there any transformation transactions during this reporting period that impacted its surplus account balance(s)? No. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell7/RadioButtonGroup	Option1		check		Did the reporting entity's equity percentage in the foreign affiliate or that of any member of the related Canadian group increase or decrease during the year? Yes. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell7/RadioButtonGroup	Option2		check		Did the reporting entity's equity percentage in the foreign affiliate or that of any member of the related Canadian group increase or decrease during the year? No. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell8/RadioButtonGroup	Option1		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity or any member of the related Canadian group have a qualifying interest in the foreign affiliate at any time during the year? Yes. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell8/RadioButtonGroup	Option2		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity or any member of the related Canadian group have a qualifying interest in the foreign affiliate at any time during the year? No. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell9/RadioButtonGroup	Option1		check		Did the foreign affiliate become indebted to the reporting entity or any member of the related Canadian group during the year? Yes. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell9/RadioButtonGroup	Option2		check		Did the foreign affiliate become indebted to the reporting entity or any member of the related Canadian group during the year? No. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell10/RadioButtonGroup	Option1		check		Did the reporting entity or any member of the related Canadian group become indebted to the foreign affiliate during the year? Yes. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell10/RadioButtonGroup	Option2		check		Did the reporting entity or any member of the related Canadian group become indebted to the foreign affiliate during the year? No. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell11/RadioButtonGroup	Option1		check		Did subsection 212.3(2) apply in respect of an investment in the foreign affiliate during the year? Yes. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell11/RadioButtonGroup	Option2		check		Did subsection 212.3(2) apply in respect of an investment in the foreign affiliate during the year? No. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell12/RadioButtonGroup	Option1		check		Did the foreign affiliate make any dividend distributions to another foreign affiliate of any member of the related Canadian group during the year? Yes. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell12/RadioButtonGroup	Option2		check		Did the foreign affiliate make any dividend distributions to another foreign affiliate of any member of the related Canadian group during the year? No. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell13/RadioButtonGroup	Option1		check		If yes, in respect of the dividend distribution by this foreign affiliate, did the reporting entity or any member of the related Canadian group make any election(s) to by-pass the surplus distribution rules in Regulation 5901(1)? Yes. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row1/Cell13/RadioButtonGroup	Option2		check		If yes, in respect of the dividend distribution by this foreign affiliate, did the reporting entity or any member of the related Canadian group make any election(s) to by-pass the surplus distribution rules in Regulation 5901(1)? No. Row 1.
+3	P1S3_E/P1S3_E_Chart/Row2	Cell1		text		Foreign Affiliate Name. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2	Cell2		text		Taxpayer Identification Number. If available. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2	Cell3		choice		Country code of the country or jurisdiction that the foreign affiliate is a resident of. Select your option from the drop down menu. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2	Cell4		text	4	Year in which corporation first became a foreign affiliate of the reporting entity or any member of the related Canadian group. Date. Year 4 digits. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell5/RadioButtonGroup	Option1		check		Did the corporation cease to be a foreign affiliate of the reporting entity or any member of the related Canadian group during the year? Yes. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell5/RadioButtonGroup	Option2		check		Did the corporation cease to be a foreign affiliate of the reporting entity or any member of the related Canadian group during the year? No. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell6/RadioButtonGroup	Option1		check		Were there any transformation transactions during this reporting period that impacted its surplus account balance(s)? Yes. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell6/RadioButtonGroup	Option2		check		Were there any transformation transactions during this reporting period that impacted its surplus account balance(s)? No. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell7/RadioButtonGroup	Option1		check		Did the reporting entity's equity percentage in the foreign affiliate or that of any member of the related Canadian group increase or decrease during the year? Yes. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell7/RadioButtonGroup	Option2		check		Did the reporting entity's equity percentage in the foreign affiliate or that of any member of the related Canadian group increase or decrease during the year? No. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell8/RadioButtonGroup	Option1		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity or any member of the related Canadian group have a qualifying interest in the foreign affiliate at any time during the year? Yes. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell8/RadioButtonGroup	Option2		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity or any member of the related Canadian group have a qualifying interest in the foreign affiliate at any time during the year? No. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell9/RadioButtonGroup	Option1		check		Did the foreign affiliate become indebted to the reporting entity or any member of the related Canadian group during the year? Yes. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell9/RadioButtonGroup	Option2		check		Did the foreign affiliate become indebted to the reporting entity or any member of the related Canadian group during the year? No. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell10/RadioButtonGroup	Option1		check		Did the reporting entity or any member of the related Canadian group become indebted to the foreign affiliate during the year? Yes. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell10/RadioButtonGroup	Option2		check		Did the reporting entity or any member of the related Canadian group become indebted to the foreign affiliate during the year? No. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell11/RadioButtonGroup	Option1		check		Did subsection 212.3(2) apply in respect of an investment in the foreign affiliate during the year? Yes. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell11/RadioButtonGroup	Option2		check		Did subsection 212.3(2) apply in respect of an investment in the foreign affiliate during the year? No. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell12/RadioButtonGroup	Option1		check		Did the foreign affiliate make any dividend distributions to another foreign affiliate of any member of the related Canadian group during the year? Yes. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell12/RadioButtonGroup	Option2		check		Did the foreign affiliate make any dividend distributions to another foreign affiliate of any member of the related Canadian group during the year? No. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell13/RadioButtonGroup	Option1		check		If yes, in respect of the dividend distribution by this foreign affiliate, did the reporting entity or any member of the related Canadian group make any election(s) to by-pass the surplus distribution rules in Regulation 5901(1)? Yes. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row2/Cell13/RadioButtonGroup	Option2		check		If yes, in respect of the dividend distribution by this foreign affiliate, did the reporting entity or any member of the related Canadian group make any election(s) to by-pass the surplus distribution rules in Regulation 5901(1)? No. Row 2.
+3	P1S3_E/P1S3_E_Chart/Row3	Cell1		text		Foreign Affiliate Name. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3	Cell2		text		Taxpayer Identification Number. If available. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3	Cell3		choice		Country code of the country or jurisdiction that the foreign affiliate is a resident of. Select your option from the drop down menu. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3	Cell4		text	4	Year in which corporation first became a foreign affiliate of the reporting entity or any member of the related Canadian group. Date. Year 4 digits. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell5/RadioButtonGroup	Option1		check		Did the corporation cease to be a foreign affiliate of the reporting entity or any member of the related Canadian group during the year? Yes. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell5/RadioButtonGroup	Option2		check		Did the corporation cease to be a foreign affiliate of the reporting entity or any member of the related Canadian group during the year? No. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell6/RadioButtonGroup	Option1		check		Were there any transformation transactions during this reporting period that impacted its surplus account balance(s)? Yes. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell6/RadioButtonGroup	Option2		check		Were there any transformation transactions during this reporting period that impacted its surplus account balance(s)? No. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell7/RadioButtonGroup	Option1		check		Did the reporting entity's equity percentage in the foreign affiliate or that of any member of the related Canadian group increase or decrease during the year? Yes. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell7/RadioButtonGroup	Option2		check		Did the reporting entity's equity percentage in the foreign affiliate or that of any member of the related Canadian group increase or decrease during the year? No. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell8/RadioButtonGroup	Option1		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity or any member of the related Canadian group have a qualifying interest in the foreign affiliate at any time during the year? Yes. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell8/RadioButtonGroup	Option2		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity or any member of the related Canadian group have a qualifying interest in the foreign affiliate at any time during the year? No. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell9/RadioButtonGroup	Option1		check		Did the foreign affiliate become indebted to the reporting entity or any member of the related Canadian group during the year? Yes. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell9/RadioButtonGroup	Option2		check		Did the foreign affiliate become indebted to the reporting entity or any member of the related Canadian group during the year? No. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell10/RadioButtonGroup	Option1		check		Did the reporting entity or any member of the related Canadian group become indebted to the foreign affiliate during the year? Yes. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell10/RadioButtonGroup	Option2		check		Did the reporting entity or any member of the related Canadian group become indebted to the foreign affiliate during the year? No. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell11/RadioButtonGroup	Option1		check		Did subsection 212.3(2) apply in respect of an investment in the foreign affiliate during the year? Yes. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell11/RadioButtonGroup	Option2		check		Did subsection 212.3(2) apply in respect of an investment in the foreign affiliate during the year? No. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell12/RadioButtonGroup	Option1		check		Did the foreign affiliate make any dividend distributions to another foreign affiliate of any member of the related Canadian group during the year? Yes. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell12/RadioButtonGroup	Option2		check		Did the foreign affiliate make any dividend distributions to another foreign affiliate of any member of the related Canadian group during the year? No. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell13/RadioButtonGroup	Option1		check		If yes, in respect of the dividend distribution by this foreign affiliate, did the reporting entity or any member of the related Canadian group make any election(s) to by-pass the surplus distribution rules in Regulation 5901(1)? Yes. Row 3.
+3	P1S3_E/P1S3_E_Chart/Row3/Cell13/RadioButtonGroup	Option2		check		If yes, in respect of the dividend distribution by this foreign affiliate, did the reporting entity or any member of the related Canadian group make any election(s) to by-pass the surplus distribution rules in Regulation 5901(1)? No. Row 3.
+4		Supplement_Number		numeric		
+4		Supplement_Count		text		
+4	P2S1_A	P2S1_A_Name		text		Identification of foreign affiliate. Name. Mandatory field.
+4	P2S1_A	P2S1_A_Address		text		Identification of foreign affiliate. Address of head office. Mandatory field.
+4	P2S1_A	P2S1_A_Taxpayer_ID		text		Section 1. A. Identification of foreign affiliate. Taxpayer Identification Number for Non-Resident. Mandatory field.
+4	P2S1_A/P2S1_A_NAICS_Code_Group/P2S1_A_NAICS_Code1_Group	P2S1_A_NAICS_Code1		text	6	Specify the principal activity(ies) of the foreign affiliate using the appropriate North American Industrial Classification System (NAICS) codes. See instructions for NAICS codes. NAICS codes. 6 digits. Instance 1. Mandatory field.
+4	P2S1_A/P2S1_A_NAICS_Code_Group/P2S1_A_NAICS_Code2_Group	P2S1_A_NAICS_Code2		text	6	Specify the principal activity(ies) of the foreign affiliate using the appropriate North American Industrial Classification System (NAICS) codes. See instructions for NAICS codes. NAICS codes. 6 digits. Instance 2. Mandatory field.
+4	P2S1_A/P2S1_A_NAICS_Code_Group/P2S1_A_NAICS_Code3_Group	P2S1_A_NAICS_Code3		text	6	Specify the principal activity(ies) of the foreign affiliate using the appropriate North American Industrial Classification System (NAICS) codes. See instructions for NAICS codes. NAICS codes. 6 digits. Instance 3. Mandatory field.
+4	P2S1_A/P2S1_A_NAICS_Code_Group/P2S1_A_NAICS_Code4_Group	P2S1_A_NAICS_Code4		text	6	Specify the principal activity(ies) of the foreign affiliate using the appropriate North American Industrial Classification System (NAICS) codes. See instructions for NAICS codes. NAICS codes. 6 digits. Instance 4. Mandatory field.
+4	P2S1_A/P2S1_A_FA_CC_Group/P2S1_A_FA_CC1_Group	P2S1_A_FA_CC1		choice		Specify the countries or jurisdictions in which the foreign affiliate carries on a business or other income earning activity. Enter the appropriate country codes. See instructions for country codes. Country Codes. 3 digits. Instance 1. Mandatory field.
+4	P2S1_A/P2S1_A_FA_CC_Group/P2S1_A_CC2_Group	P2S1_A_FA_CC2		choice		Specify the countries or jurisdictions in which the foreign affiliate carries on a business or other income earning activity. Enter the appropriate country codes. See instructions for country codes. Country Codes. 3 digits. Instance 2. Mandatory field.
+4	P2S1_A/P2S1_A_FA_CC_Group/P2S1_A_FA_CC3_Group	P2S1_A_FA_CC3		choice		Specify the countries or jurisdictions in which the foreign affiliate carries on a business or other income earning activity. Enter the appropriate country codes. See instructions for country codes. Country Codes. 3 digits. Instance 3. Mandatory field.
+4	P2S1_A/P2S1_A_FA_CC_Group/P2S1_A_FA_CC4_Group	P2S1_A_FA_CC4		choice		Specify the countries or jurisdictions in which the foreign affiliate carries on a business or other income earning activity. Enter the appropriate country codes. See instructions for country codes. Country Codes. 3 digits. Instance 4. Mandatory field.
+4	P2S1_A/P2S1_A_CC_Profits_Group/P2S1_A_FA_CC1_Profits_Group	P2S1_A_FA_CC1_Profits		choice		Country code to which income or profits tax was paid or payable. Enter appropriate country code(s). See instructions. Country codes. 3 digits. Instance 1. Mandatory field.
+4	P2S1_A/P2S1_A_CC_Profits_Group/P2S1_A_FA_CC2_Profits_Group	P2S1_A_FA_CC2_Profits		choice		Country code to which income or profits tax was paid or payable. Enter appropriate country code(s). See instructions. Country codes. 3 digits. Instance 2. Mandatory field.
+4	P2S1_A/P2S1_A_CC_Profits_Group/P2S1_A_FA_CC3_Profits_Group	P2S1_A_FA_CC3_Profits		choice		Country code to which income or profits tax was paid or payable. Enter appropriate country code(s). See instructions. Country codes. 3 digits. Instance 3. Mandatory field.
+4	P2S1_A/P2S1_A_CC_Profits_Group/P2S1_A_FA_CC4_Profits_Group	P2S1_A_FA_CC4_Profits		choice		Country code to which income or profits tax was paid or payable. Enter appropriate country code(s). See instructions. Country codes. 3 digits. Instance 4. Mandatory field.
+4	P2S1_A/P2S1_A_FA_Residence_CC_Group/P2S1_A_FA_Residence_CC_Group	P2S1_A_FA_Residence_CC1		choice		Country or jurisdiction of residence of the foreign affiliate. Enter the appropriate country code. See instructions. Country code. 3 digits.
+4	P2S1_A/P2S1_A_FA_ReportingPattern_Group/P2S1_A_FA_ReportingEntity_rb_Group	P2S1_A_FA_ReportingEntity_rb1		check		Is this the first time that the reporting entity has filed Form T1134 for this foreign affiliate? Yes. Mandatory selection group.
+4	P2S1_A/P2S1_A_FA_ReportingPattern_Group/P2S1_A_FA_ReportingEntity_rb_Group	P2S1_A_FA_ReportingEntity_rb2		check		Is this the first time that the reporting entity has filed Form T1134 for this foreign affiliate? No.
+4	P2S1_A/P2S1_A_FA_ReportingPattern_Group/P2S1_A_FA_Controlled_rb_Group	P2S1_A_FA_Controlled_rb1		check		Is the foreign affiliate a controlled foreign affiliate as defined in subsection 95(1)? Yes. Mandatory selection group.
+4	P2S1_A/P2S1_A_FA_ReportingPattern_Group/P2S1_A_FA_Controlled_rb_Group	P2S1_A_FA_Controlled_rb2		check		Is the foreign affiliate a controlled foreign affiliate as defined in subsection 95(1)? No.
+4	P2S1_A/P2S1_A_FA_ReportingPattern_Group/P2S1_A_FA_TaxYear_rb_Group	P2S1_A_FA_TaxYear_rb1		check		Does the foreign affiliate have more than one tax year ending in the reporting entity's tax year? Yes. Mandatory selection group.
+4	P2S1_A/P2S1_A_FA_ReportingPattern_Group/P2S1_A_FA_TaxYear_rb_Group	P2S1_A_FA_TaxYear_rb2		check		Does the foreign affiliate have more than one tax year ending in the reporting entity's tax year? No.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row1	Cell1		text		Name of reporting entity and any member of the related Canadian group, if applicable that has a direct ownership in the foreign affiliate. Row 1. Mandatory field.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row1	Cell2		text		Reporting Entity's Account Number. Business number. 9 digits, 2 letters, and 4 digits. Row 1.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row1	Cell3		text		Reporting Entity's Account Number. Social insurance number. 9 digits. Row 1.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row1	Cell4		text		Reporting Entity's Account Number. Trust number. Row 1.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row1	Cell5		text		Reporting Entity's Account Number. Partnership Number. 9 digits, 2 letters, and 4 digits. Row 1.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row1	Cell6		text	4	Year in which the corporation became a foreign affiliate of the reporting entity. Date. Year. 4 digits. Row 1.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row1/Cell7/RadioButtonGroup	Option1		check		Did the corporation cease to be a foreign affiliate of the reporting entity in the year? Yes. Row 1.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row1/Cell7/RadioButtonGroup	Option2		check		Did the corporation cease to be a foreign affiliate of the reporting entity in the year? No. Row 1.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row1/Cell8/RadioButtonGroup	Option1		check		Was a subsection 93(1) or 93(1.2) election made or will such an election be made for the disposition of shares of the foreign affiliate? Yes. Row 1.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row1/Cell8/RadioButtonGroup	Option2		check		Was a subsection 93(1) or 93(1.2) election made or will such an election be made for the disposition of shares of the foreign affiliate? No. Row 1.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row1	Cell9		numeric	15	If yes, provide the actual or estimated amount elected on. Row 1.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row1	Cell10		choice		If yes, provide the currency code of the elected amount. Select your option from the drop down menu. Row 1.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row2	Cell1		text		Name of reporting entity and any member of the related Canadian group, if applicable that has a direct ownership in the foreign affiliate. Row 2.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row2	Cell2		text		Reporting Entity's Account Number. Business number. 9 digits, 2 letters, and 4 digits. Row 2.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row2	Cell3		text		Reporting Entity's Account Number. Social insurance number. 9 digits. Row 2.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row2	Cell4		text		Reporting Entity's Account Number. Trust number. Row 2.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row2	Cell5		text		Reporting Entity's Account Number. Partnership Number. 9 digits, 2 letters, and 4 digits. Row 2.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row2	Cell6		text	4	Year in which the corporation became a foreign affiliate of the reporting entity. Date. Year. 4 digits. Row 2.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row2/Cell7/RadioButtonGroup	Option1		check		Did the corporation cease to be a foreign affiliate of the reporting entity in the year? Yes. Row 2.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row2/Cell7/RadioButtonGroup	Option2		check		Did the corporation cease to be a foreign affiliate of the reporting entity in the year? No. Row 2.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row2/Cell8/RadioButtonGroup	Option1		check		Was a subsection 93(1) or 93(1.2) election made or will such an election be made for the disposition of shares of the foreign affiliate? Yes. Row 2.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row2/Cell8/RadioButtonGroup	Option2		check		Was a subsection 93(1) or 93(1.2) election made or will such an election be made for the disposition of shares of the foreign affiliate? No. Row 2.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row2	Cell9		numeric	15	If yes, provide the actual or estimated amount elected on. Row 2.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row2	Cell10		choice		If yes, provide the currency code of the elected amount. Select your option from the drop down menu. Row 2.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row3	Cell1		text		Name of reporting entity and any member of the related Canadian group, if applicable that has a direct ownership in the foreign affiliate. Row 3.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row3	Cell2		text		Reporting Entity's Account Number. Business number. 9 digits, 2 letters, and 4 digits. Row 3.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row3	Cell3		text		Reporting Entity's Account Number. Social insurance number. 9 digits. Row 3.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row3	Cell4		text		Reporting Entity's Account Number. Trust number. Row 3.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row3	Cell5		text		Reporting Entity's Account Number. Partnership Number. 9 digits, 2 letters, and 4 digits. Row 3.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row3	Cell6		text	4	Year in which the corporation became a foreign affiliate of the reporting entity. Date. Year. 4 digits. Row 3.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row3/Cell7/RadioButtonGroup	Option1		check		Did the corporation cease to be a foreign affiliate of the reporting entity in the year? Yes. Row 3.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row3/Cell7/RadioButtonGroup	Option2		check		Did the corporation cease to be a foreign affiliate of the reporting entity in the year? No. Row 3.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row3/Cell8/RadioButtonGroup	Option1		check		Was a subsection 93(1) or 93(1.2) election made or will such an election be made for the disposition of shares of the foreign affiliate? Yes. Row 3.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row3/Cell8/RadioButtonGroup	Option2		check		Was a subsection 93(1) or 93(1.2) election made or will such an election be made for the disposition of shares of the foreign affiliate? No. Row 3.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row3	Cell9		numeric	15	If yes, provide the actual or estimated amount elected on. Row 3.
+4	P2S1_B_Tablei/P2S1_B_Charti/Row3	Cell10		choice		If yes, provide the currency code of the elected amount. Select your option from the drop down menu. Row 3.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row1	Cell1		text		Common shares. Account number of reporting entity and any member of the related Canadian group, if applicable, that has a direct ownership in the foreign affiliate. Row 1.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row1	Cell2		numeric		Common shares. Ownership percentage in common Shares. Row 1.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row1	Cell3		numeric	15	ACB of Common Shares in Canadian dollars or elected functional currency, if applicable. Row 1.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row1/Cell4/RadioButtonGroup	Option1		check		Common shares. Did the ACB increase at any time during the tax year? Yes. Row 1.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row1/Cell4/RadioButtonGroup	Option2		check		Common shares. Did the ACB increase at any time during the tax year? No. Row 1.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row1/Cell5/RadioButtonGroup	Option1		check		Common shares. Did the ACB decrease at any time during the tax year? Yes. Row 1.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row1/Cell5/RadioButtonGroup	Option2		check		Common shares. Did the ACB decrease at any time during the tax year? No. Row 1.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row2	Cell1		text		Common shares. Account number of reporting entity and any member of the related Canadian group, if applicable, that has a direct ownership in the foreign affiliate. Row 2.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row2	Cell2		numeric		Common shares. Ownership percentage in common Shares. Row 2.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row2	Cell3		numeric	15	ACB of Common Shares in Canadian dollars or elected functional currency, if applicable. Row 2.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row2/Cell4/RadioButtonGroup	Option1		check		Common shares. Did the ACB increase at any time during the tax year? Yes. Row 2.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row2/Cell4/RadioButtonGroup	Option2		check		Common shares. Did the ACB increase at any time during the tax year? No. Row 2.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row2/Cell5/RadioButtonGroup	Option1		check		Common shares. Did the ACB decrease at any time during the tax year? Yes. Row 2.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row2/Cell5/RadioButtonGroup	Option2		check		Common shares. Did the ACB decrease at any time during the tax year? No. Row 2.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row3	Cell1		text		Common shares. Account number of reporting entity and any member of the related Canadian group, if applicable, that has a direct ownership in the foreign affiliate. Row 3.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row3	Cell2		numeric		Common shares. Ownership percentage in common Shares. Row 3.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row3	Cell3		numeric	15	ACB of Common Shares in Canadian dollars or elected functional currency, if applicable. Row 3.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row3/Cell4/RadioButtonGroup	Option1		check		Common shares. Did the ACB increase at any time during the tax year? Yes. Row 3.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row3/Cell4/RadioButtonGroup	Option2		check		Common shares. Did the ACB increase at any time during the tax year? No. Row 3.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row3/Cell5/RadioButtonGroup	Option1		check		Common shares. Did the ACB decrease at any time during the tax year? Yes. Row 3.
+4	P2S1_B_Tableii/P2S1_B_Chartii/Row3/Cell5/RadioButtonGroup	Option2		check		Common shares. Did the ACB decrease at any time during the tax year? No. Row 3.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row1	Cell1		text		Preferred shares. Account number of reporting entity and any member of the related Canadian group that has a direct ownership in the foreign affiliate. Row 1.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row1	Cell2		numeric		Preferred shares. Ownership percentage of Preferred Shares. Row 1.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row1	Cell3		numeric	15	ACB of Preferred Shares in Canadian dollars or elected functional currency, if applicable. Row 1.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row1/Cell4/RadioButtonGroup	Option1		check		Preferred shares. Did the ACB increase at any time during the tax year? Yes. Row 1.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row1/Cell4/RadioButtonGroup	Option2		check		Preferred shares. Did the ACB increase at any time during the tax year? No. Row 1.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row1/Cell5/RadioButtonGroup	Option1		check		Preferred shares. Did the ACB decrease at any time during the tax year? Yes. Row 1.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row1/Cell5/RadioButtonGroup	Option2		check		Preferred shares. Did the ACB decrease at any time during the tax year? No. Row 1.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row2	Cell1		text		Preferred shares. Account number of reporting entity and any member of the related Canadian group that has a direct ownership in the foreign affiliate. Row 2.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row2	Cell2		numeric		Preferred shares. Ownership percentage of Preferred Shares. Row 2.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row2	Cell3		numeric	15	ACB of Preferred Shares in Canadian dollars or elected functional currency, if applicable. Row 2.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row2/Cell4/RadioButtonGroup	Option1		check		Preferred shares. Did the ACB increase at any time during the tax year? Yes. Row 2.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row2/Cell4/RadioButtonGroup	Option2		check		Preferred shares. Did the ACB increase at any time during the tax year? No. Row 2.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row2/Cell5/RadioButtonGroup	Option1		check		Preferred shares. Did the ACB decrease at any time during the tax year? Yes. Row 2.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row2/Cell5/RadioButtonGroup	Option2		check		Preferred shares. Did the ACB decrease at any time during the tax year? No. Row 2.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row3	Cell1		text		Preferred shares. Account number of reporting entity and any member of the related Canadian group that has a direct ownership in the foreign affiliate. Row 3.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row3	Cell2		numeric		Preferred shares. Ownership percentage of Preferred Shares. Row 3.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row3	Cell3		numeric	15	ACB of Preferred Shares in Canadian dollars or elected functional currency, if applicable. Row 3.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row3/Cell4/RadioButtonGroup	Option1		check		Preferred shares. Did the ACB increase at any time during the tax year? Yes. Row 3.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row3/Cell4/RadioButtonGroup	Option2		check		Preferred shares. Did the ACB increase at any time during the tax year? No. Row 3.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row3/Cell5/RadioButtonGroup	Option1		check		Preferred shares. Did the ACB decrease at any time during the tax year? Yes. Row 3.
+4	P2S1_B_Tableiii/P2S1_B_Chartiii/Row3/Cell5/RadioButtonGroup	Option2		check		Preferred shares. Did the ACB decrease at any time during the tax year? No. Row 3.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row1	Cell1		text		Indirectly owned foreign affiliate. Name of reporting entity or any member of the related Canadian group. If applicable. Row 1.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row1	Cell2		text		Indirectly owned foreign affiliate. Business number. 9 digits, 2 letters, and 4 digits. Row 1.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row1	Cell3		text		Indirectly owned foreign affiliate. Social insurance number. 9 digits. Row 1.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row1	Cell4		text		Indirectly owned foreign affiliate. Trust account number. Row 1.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row1	Cell5		text		Indirectly owned foreign affiliate. Partnership Number. 9 digits, 2 letters, and 4 digits. Row 1.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row2	Cell1		text		Indirectly owned foreign affiliate. Name of reporting entity or any member of the related Canadian group. If applicable. Row 2.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row2	Cell2		text		Indirectly owned foreign affiliate. Business number. 9 digits, 2 letters, and 4 digits. Row 2.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row2	Cell3		text		Indirectly owned foreign affiliate. Social insurance number. 9 digits. Row 2.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row2	Cell4		text		Indirectly owned foreign affiliate. Trust account number. Row 2.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row2	Cell5		text		Indirectly owned foreign affiliate. Partnership Number. 9 digits, 2 letters, and 4 digits. Row 2.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row3	Cell1		text		Indirectly owned foreign affiliate. Name of reporting entity or any member of the related Canadian group. If applicable. Row 3.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row3	Cell2		text		Indirectly owned foreign affiliate. Business number. 9 digits, 2 letters, and 4 digits. Row 3.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row3	Cell3		text		Indirectly owned foreign affiliate. Social insurance number. 9 digits. Row 3.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row3	Cell4		text		Indirectly owned foreign affiliate. Trust account number. Row 3.
+4	P2S1_B_Tableiv/P2S1_B_Chartiv/Row3	Cell5		text		Indirectly owned foreign affiliate. Partnership Number. 9 digits, 2 letters, and 4 digits. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row1	Cell1		text		Account number of reporting entity and any member of the related Canadian group. If applicable. Row 1. Mandatory field.
+6	P2S1_C/P2S1_C_Chart/Row1	Cell2		numeric		Equity percentage at Beginning of Taxation Year. Row 1. Mandatory field.
+6	P2S1_C/P2S1_C_Chart/Row1	Cell3		numeric		Equity percentage at End of Taxation Year. Row 1. Mandatory field.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell4/RadioButtonGroup	Option1		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity have a qualifying interest in the foreign affiliate at. Beginning of Taxation Year? Yes. Row 1. Mandatory selection group.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell4/RadioButtonGroup	Option2		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity have a qualifying interest in the foreign affiliate at. Beginning of Taxation Year? No. Row 1. Mandatory selection group.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell5/RadioButtonGroup	Option1		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity have a qualifying interest in the foreign affiliate at. End of Taxation Year? Yes. Row 1. Mandatory selection group.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell5/RadioButtonGroup	Option2		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity have a qualifying interest in the foreign affiliate at. End of Taxation Year? No. Row 1. Mandatory selection group.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell6/RadioButtonGroup	Option1		check		Gross amount of debt the reporting entity owed to the foreign affiliate at the end of the reporting entity's taxation year. Has the gross amount been reported on a T106? Yes. Row 1. Mandatory selection group.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell6/RadioButtonGroup	Option2		check		Gross amount of debt the reporting entity owed to the foreign affiliate at the end of the reporting entity's taxation year. Has the gross amount been reported on a T106? No. Row 1. Mandatory selection group.
+6	P2S1_C/P2S1_C_Chart/Row1	Cell7		numeric	15	Gross amount of debt the reporting entity owed to the foreign affiliate at the end of the reporting entity's taxation year. If NO, specify the gross amount in Canadian dollars or elected functional currency. Row 1.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell8/RadioButtonGroup	Option1		check		Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. Has the gross amount been reported on a T106? Yes. Row 1. Mandatory selection group.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell8/RadioButtonGroup	Option2		check		Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. Has the gross amount been reported on a T106? No. Row 1. Mandatory selection group.
+6	P2S1_C/P2S1_C_Chart/Row1	Cell9		numeric	15	Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. If NO, specify the gross amount in Canadian dollars or elected functional currency. Row 1.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell10/RadioButtonGroup	Option1		check		Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. Was an election made in respect of this loan such as the PLOI election under subsection 212.3(11)? Yes. Row 1. Mandatory selection group.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell10/RadioButtonGroup	Option2		check		Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. Was an election made in respect of this loan such as the PLOI election under subsection 212.3(11)? No. Row 1. Mandatory selection group.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell11/RadioButtonGroup	Option1		check		Tracking Interests as defined in subsection 95(8). Did the reporting entity have a tracking interest in this foreign affiliate as defined in subsection 95(8) at any time in the year? Yes. Row 1. Mandatory selection group.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell11/RadioButtonGroup	Option2		check		Tracking Interests as defined in subsection 95(8). Did the reporting entity have a tracking interest in this foreign affiliate as defined in subsection 95(8) at any time in the year? No. Row 1. Mandatory selection group.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell12/RadioButtonGroup	Option1		check		Tracking Interests as defined in subsection 95(8). Was this foreign affiliate a controlled foreign affiliate of the reporting entity because of subsection 95(11)? Yes. Row 1.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell12/RadioButtonGroup	Option2		check		Tracking Interests as defined in subsection 95(8). Was this foreign affiliate a controlled foreign affiliate of the reporting entity because of subsection 95(11)? No. Row 1.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell13/RadioButtonGroup	Option1		check		Tracking Interests as defined in subsection 95(8). Was this foreign affiliate a controlled foreign affiliate of the reporting entity because of subsection 95(12)? Yes. Row 1.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell13/RadioButtonGroup	Option2		check		Tracking Interests as defined in subsection 95(8). Was this foreign affiliate a controlled foreign affiliate of the reporting entity because of subsection 95(12)? No. Row 1.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell14/RadioButtonGroup	Option1		check		Is this reporting entity a party to a joint election under subsection 91(1.4) of the Act? Yes. Row 1.
+6	P2S1_C/P2S1_C_Chart/Row1/Cell14/RadioButtonGroup	Option2		check		Is this reporting entity a party to a joint election under subsection 91(1.4) of the Act? No. Row 1.
+6	P2S1_C/P2S1_C_Chart/Row2	Cell1		text		Account number of reporting entity and any member of the related Canadian group. If applicable. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2	Cell2		numeric		Equity percentage at Beginning of Taxation Year. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2	Cell3		numeric		Equity percentage at End of Taxation Year. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell4/RadioButtonGroup	Option1		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity have a qualifying interest in the foreign affiliate at. Beginning of Taxation Year? Yes. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell4/RadioButtonGroup	Option2		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity have a qualifying interest in the foreign affiliate at. Beginning of Taxation Year? No. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell5/RadioButtonGroup	Option1		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity have a qualifying interest in the foreign affiliate at. End of Taxation Year? Yes. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell5/RadioButtonGroup	Option2		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity have a qualifying interest in the foreign affiliate at. End of Taxation Year? No. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell6/RadioButtonGroup	Option1		check		Gross amount of debt the reporting entity owed to the foreign affiliate at the end of the reporting entity's taxation year. Has the gross amount been reported on a T106? Yes. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell6/RadioButtonGroup	Option2		check		Gross amount of debt the reporting entity owed to the foreign affiliate at the end of the reporting entity's taxation year. Has the gross amount been reported on a T106? No. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2	Cell7		numeric	15	Gross amount of debt the reporting entity owed to the foreign affiliate at the end of the reporting entity's taxation year. If NO, specify the gross amount in Canadian dollars or elected functional currency. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell8/RadioButtonGroup	Option1		check		Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. Has the gross amount been reported on a T106? Yes. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell8/RadioButtonGroup	Option2		check		Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. Has the gross amount been reported on a T106? No. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2	Cell9		numeric	15	Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. If NO, specify the gross amount in Canadian dollars or elected functional currency. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell10/RadioButtonGroup	Option1		check		Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. Was an election made in respect of this loan such as the PLOI election under subsection 212.3(11)? Yes. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell10/RadioButtonGroup	Option2		check		Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. Was an election made in respect of this loan such as the PLOI election under subsection 212.3(11)? No. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell11/RadioButtonGroup	Option1		check		Tracking Interests as defined in subsection 95(8). Did the reporting entity have a tracking interest in this foreign affiliate as defined in subsection 95(8) at any time in the year? Yes. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell11/RadioButtonGroup	Option2		check		Tracking Interests as defined in subsection 95(8). Did the reporting entity have a tracking interest in this foreign affiliate as defined in subsection 95(8) at any time in the year? No. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell12/RadioButtonGroup	Option1		check		Tracking Interests as defined in subsection 95(8). Was this foreign affiliate a controlled foreign affiliate of the reporting entity because of subsection 95(11)? Yes. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell12/RadioButtonGroup	Option2		check		Tracking Interests as defined in subsection 95(8). Was this foreign affiliate a controlled foreign affiliate of the reporting entity because of subsection 95(11)? No. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell13/RadioButtonGroup	Option1		check		Tracking Interests as defined in subsection 95(8). Was this foreign affiliate a controlled foreign affiliate of the reporting entity because of subsection 95(12)? Yes. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell13/RadioButtonGroup	Option2		check		Tracking Interests as defined in subsection 95(8). Was this foreign affiliate a controlled foreign affiliate of the reporting entity because of subsection 95(12)? No. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell14/RadioButtonGroup	Option1		check		Is this reporting entity a party to a joint election under subsection 91(1.4) of the Act? Yes. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row2/Cell14/RadioButtonGroup	Option2		check		Is this reporting entity a party to a joint election under subsection 91(1.4) of the Act? No. Row 2.
+6	P2S1_C/P2S1_C_Chart/Row3	Cell1		text		Account number of reporting entity and any member of the related Canadian group. If applicable. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3	Cell2		numeric		Equity percentage at Beginning of Taxation Year. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3	Cell3		numeric		Equity percentage at End of Taxation Year. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell4/RadioButtonGroup	Option1		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity have a qualifying interest in the foreign affiliate at. Beginning of Taxation Year? Yes. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell4/RadioButtonGroup	Option2		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity have a qualifying interest in the foreign affiliate at. Beginning of Taxation Year? No. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell5/RadioButtonGroup	Option1		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity have a qualifying interest in the foreign affiliate at. End of Taxation Year? Yes. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell5/RadioButtonGroup	Option2		check		If the Act were read without paragraph 95(2.2)(a), would the reporting entity have a qualifying interest in the foreign affiliate at. End of Taxation Year? No. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell6/RadioButtonGroup	Option1		check		Gross amount of debt the reporting entity owed to the foreign affiliate at the end of the reporting entity's taxation year. Has the gross amount been reported on a T106? Yes. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell6/RadioButtonGroup	Option2		check		Gross amount of debt the reporting entity owed to the foreign affiliate at the end of the reporting entity's taxation year. Has the gross amount been reported on a T106? No. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3	Cell7		numeric	15	Gross amount of debt the reporting entity owed to the foreign affiliate at the end of the reporting entity's taxation year. If NO, specify the gross amount in Canadian dollars or elected functional currency. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell8/RadioButtonGroup	Option1		check		Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. Has the gross amount been reported on a T106? Yes. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell8/RadioButtonGroup	Option2		check		Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. Has the gross amount been reported on a T106? No. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3	Cell9		numeric	15	Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. If NO, specify the gross amount in Canadian dollars or elected functional currency. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell10/RadioButtonGroup	Option1		check		Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. Was an election made in respect of this loan such as the PLOI election under subsection 212.3(11)? Yes. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell10/RadioButtonGroup	Option2		check		Gross amount of debt the foreign affiliate owed to the reporting entity at the end of the reporting entity's taxation year. Was an election made in respect of this loan such as the PLOI election under subsection 212.3(11)? No. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell11/RadioButtonGroup	Option1		check		Tracking Interests as defined in subsection 95(8). Did the reporting entity have a tracking interest in this foreign affiliate as defined in subsection 95(8) at any time in the year? Yes. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell11/RadioButtonGroup	Option2		check		Tracking Interests as defined in subsection 95(8). Did the reporting entity have a tracking interest in this foreign affiliate as defined in subsection 95(8) at any time in the year? No. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell12/RadioButtonGroup	Option1		check		Tracking Interests as defined in subsection 95(8). Was this foreign affiliate a controlled foreign affiliate of the reporting entity because of subsection 95(11)? Yes. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell12/RadioButtonGroup	Option2		check		Tracking Interests as defined in subsection 95(8). Was this foreign affiliate a controlled foreign affiliate of the reporting entity because of subsection 95(11)? No. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell13/RadioButtonGroup	Option1		check		Tracking Interests as defined in subsection 95(8). Was this foreign affiliate a controlled foreign affiliate of the reporting entity because of subsection 95(12)? Yes. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell13/RadioButtonGroup	Option2		check		Tracking Interests as defined in subsection 95(8). Was this foreign affiliate a controlled foreign affiliate of the reporting entity because of subsection 95(12)? No. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell14/RadioButtonGroup	Option1		check		Is this reporting entity a party to a joint election under subsection 91(1.4) of the Act? Yes. Row 3.
+6	P2S1_C/P2S1_C_Chart/Row3/Cell14/RadioButtonGroup	Option2		check		Is this reporting entity a party to a joint election under subsection 91(1.4) of the Act? No. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row1	Cell1		text		Account number of reporting entity and any member of the related Canadian group, if applicable that is a Corporation Resident in Canada for purposes of section 212.3. Row 1. Mandatory Field.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell2/RadioButtonGroup	Option1		check		i. Did subsection 212.3(2) apply in respect of an investment in the foreign affiliate during the year? Yes. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell2/RadioButtonGroup	Option2		check		i. Did subsection 212.3(2) apply in respect of an investment in the foreign affiliate during the year? No. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell3/RadioButtonGroup	Option1		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, a. the 75% fair market value threshold in paragraph 212.3(10)(f)? Yes. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell3/RadioButtonGroup	Option2		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, a. the 75% fair market value threshold in paragraph 212.3(10)(f)? No. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell4/RadioButtonGroup	Option1		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, b. the more closely connected business activities exception in subsection 212.3(16)? Yes. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell4/RadioButtonGroup	Option2		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, b. the more closely connected business activities exception in subsection 212.3(16)? No. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell5/RadioButtonGroup	Option1		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, c. any one of the corporate reorganization exceptions in subsection 212.3(18)? Yes. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell5/RadioButtonGroup	Option2		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, c. any one of the corporate reorganization exceptions in subsection 212.3(18)? No. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell6/RadioButtonGroup	Option1		check		iii. Did the reporting entity, or any member of the related Canadian group, file with the Minister the information required in subparagraph 212.3(7)(d)(i) in respect of the foreign affiliate during the year? Yes. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell6/RadioButtonGroup	Option2		check		iii. Did the reporting entity, or any member of the related Canadian group, file with the Minister the information required in subparagraph 212.3(7)(d)(i) in respect of the foreign affiliate during the year? No. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell7/RadioButtonGroup	Option1		check		iv. Was a dividend under subparagraph 212.3(7)(d)(ii) deemed to have been paid in respect of an investment in the foreign affiliate in the year? Yes. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell7/RadioButtonGroup	Option2		check		iv. Was a dividend under subparagraph 212.3(7)(d)(ii) deemed to have been paid in respect of an investment in the foreign affiliate in the year? No. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell8/RadioButtonGroup	Option1		check		v. Was the paid-up capital of any class of shares of the CRIC or qualifying substitute corporation increased under subsection 212.3(9) in the year? Yes. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell8/RadioButtonGroup	Option2		check		v. Was the paid-up capital of any class of shares of the CRIC or qualifying substitute corporation increased under subsection 212.3(9) in the year? No. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell9/RadioButtonGroup	Option1		check		vi. Did the reporting entity, or any member of the related Canadian group, make an investment in the year in preferred shares of the foreign affiliate that are described in subsection 212.3(19)? Yes. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row1/Cell9/RadioButtonGroup	Option2		check		vi. Did the reporting entity, or any member of the related Canadian group, make an investment in the year in preferred shares of the foreign affiliate that are described in subsection 212.3(19)? No. Row 1.
+6	P2S1_D/P2S1_D_Chart/Row2	Cell1		text		Account number of reporting entity and any member of the related Canadian group, if applicable that is a Corporation Resident in Canada for purposes of section 212.3. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell2/RadioButtonGroup	Option1		check		i. Did subsection 212.3(2) apply in respect of an investment in the foreign affiliate during the year? Yes. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell2/RadioButtonGroup	Option2		check		i. Did subsection 212.3(2) apply in respect of an investment in the foreign affiliate during the year? No. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell3/RadioButtonGroup	Option1		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, a. the 75% fair market value threshold in paragraph 212.3(10)(f)? Yes. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell3/RadioButtonGroup	Option2		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, a. the 75% fair market value threshold in paragraph 212.3(10)(f)? No. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell4/RadioButtonGroup	Option1		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, b. the more closely connected business activities exception in subsection 212.3(16)? Yes. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell4/RadioButtonGroup	Option2		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, b. the more closely connected business activities exception in subsection 212.3(16)? No. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell5/RadioButtonGroup	Option1		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, c. any one of the corporate reorganization exceptions in subsection 212.3(18)? Yes. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell5/RadioButtonGroup	Option2		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, c. any one of the corporate reorganization exceptions in subsection 212.3(18)? No. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell6/RadioButtonGroup	Option1		check		iii. Did the reporting entity, or any member of the related Canadian group, file with the Minister the information required in subparagraph 212.3(7)(d)(i) in respect of the foreign affiliate during the year? Yes. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell6/RadioButtonGroup	Option2		check		iii. Did the reporting entity, or any member of the related Canadian group, file with the Minister the information required in subparagraph 212.3(7)(d)(i) in respect of the foreign affiliate during the year? No. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell7/RadioButtonGroup	Option1		check		iv. Was a dividend under subparagraph 212.3(7)(d)(ii) deemed to have been paid in respect of an investment in the foreign affiliate in the year? Yes. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell7/RadioButtonGroup	Option2		check		iv. Was a dividend under subparagraph 212.3(7)(d)(ii) deemed to have been paid in respect of an investment in the foreign affiliate in the year? No. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell8/RadioButtonGroup	Option1		check		v. Was the paid-up capital of any class of shares of the CRIC or qualifying substitute corporation increased under subsection 212.3(9) in the year? Yes. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell8/RadioButtonGroup	Option2		check		v. Was the paid-up capital of any class of shares of the CRIC or qualifying substitute corporation increased under subsection 212.3(9) in the year? No. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell9/RadioButtonGroup	Option1		check		vi. Did the reporting entity, or any member of the related Canadian group, make an investment in the year in preferred shares of the foreign affiliate that are described in subsection 212.3(19)? Yes. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row2/Cell9/RadioButtonGroup	Option2		check		vi. Did the reporting entity, or any member of the related Canadian group, make an investment in the year in preferred shares of the foreign affiliate that are described in subsection 212.3(19)? No. Row 2.
+6	P2S1_D/P2S1_D_Chart/Row3	Cell1		text		Account number of reporting entity and any member of the related Canadian group, if applicable that is a Corporation Resident in Canada for purposes of section 212.3. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell2/RadioButtonGroup	Option1		check		i. Did subsection 212.3(2) apply in respect of an investment in the foreign affiliate during the year? Yes. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell2/RadioButtonGroup	Option2		check		i. Did subsection 212.3(2) apply in respect of an investment in the foreign affiliate during the year? No. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell3/RadioButtonGroup	Option1		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, a. the 75% fair market value threshold in paragraph 212.3(10)(f)? Yes. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell3/RadioButtonGroup	Option2		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, a. the 75% fair market value threshold in paragraph 212.3(10)(f)? No. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell4/RadioButtonGroup	Option1		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, b. the more closely connected business activities exception in subsection 212.3(16)? Yes. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell4/RadioButtonGroup	Option2		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, b. the more closely connected business activities exception in subsection 212.3(16)? No. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell5/RadioButtonGroup	Option1		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, c. any one of the corporate reorganization exceptions in subsection 212.3(18)? Yes. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell5/RadioButtonGroup	Option2		check		ii. Did subsection 212.3(2) not apply in respect of an investment in the foreign affiliate during the year because of, c. any one of the corporate reorganization exceptions in subsection 212.3(18)? No. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell6/RadioButtonGroup	Option1		check		iii. Did the reporting entity, or any member of the related Canadian group, file with the Minister the information required in subparagraph 212.3(7)(d)(i) in respect of the foreign affiliate during the year? Yes. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell6/RadioButtonGroup	Option2		check		iii. Did the reporting entity, or any member of the related Canadian group, file with the Minister the information required in subparagraph 212.3(7)(d)(i) in respect of the foreign affiliate during the year? No. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell7/RadioButtonGroup	Option1		check		iv. Was a dividend under subparagraph 212.3(7)(d)(ii) deemed to have been paid in respect of an investment in the foreign affiliate in the year? Yes. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell7/RadioButtonGroup	Option2		check		iv. Was a dividend under subparagraph 212.3(7)(d)(ii) deemed to have been paid in respect of an investment in the foreign affiliate in the year? No. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell8/RadioButtonGroup	Option1		check		v. Was the paid-up capital of any class of shares of the CRIC or qualifying substitute corporation increased under subsection 212.3(9) in the year? Yes. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell8/RadioButtonGroup	Option2		check		v. Was the paid-up capital of any class of shares of the CRIC or qualifying substitute corporation increased under subsection 212.3(9) in the year? No. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell9/RadioButtonGroup	Option1		check		vi. Did the reporting entity, or any member of the related Canadian group, make an investment in the year in preferred shares of the foreign affiliate that are described in subsection 212.3(19)? Yes. Row 3.
+6	P2S1_D/P2S1_D_Chart/Row3/Cell9/RadioButtonGroup	Option2		check		vi. Did the reporting entity, or any member of the related Canadian group, make an investment in the year in preferred shares of the foreign affiliate that are described in subsection 212.3(19)? No. Row 3.
+7	P2S2_Financial_Information/P2S2_Dates_Group	Section3P2_Dates_Group_FromDate		text		Give the taxation year of the foreign affiliate for which the information on this return is reported. From date. Year 4 digits. Month 2 digits. Day 2 digits. Mandatory field.
+7	P2S2_Financial_Information/P2S2_Dates_Group	P2S2_Dates_Group_ToDate		text		Give the taxation year of the foreign affiliate for which the information on this return is reported. To date. Year 4 digits. Month 2 digits. Day 2 digits. Mandatory field.
+7	P2S2_Financial_Information/P2S2_FA_Voting_rb_Group	P2S2_FA_Voting_Group_rb1		check		Is this a controlled foreign affiliate or a foreign affiliate in respect of which the reporting entity (or any member of the related Canadian group) holds at least 20% of the voting shares? Yes.
+7	P2S2_Financial_Information/P2S2_FA_Voting_rb_Group	P2S2_FA_Voting_Group_rb2		check		Is this a controlled foreign affiliate or a foreign affiliate in respect of which the reporting entity (or any member of the related Canadian group) holds at least 20% of the voting shares? No.
+7	P2S2_Financial_Information/P2S2_FA_Financial_rb_Group	P2S2_FA_Financial_rb1		check		If yes, at the time of filing this return, were the unconsolidated financial statements, including the notes to the financial statements, available to you? Yes.
+7	P2S2_Financial_Information/P2S2_FA_Financial_rb_Group	P2S2_FA_Financial_rb2		check		If yes, at the time of filing this return, were the unconsolidated financial statements, including the notes to the financial statements, available to you? No.
+7	P2S2_Financial_Information/P2S2_FA_Return_rb_Group	P2S2_FA_Return_rb1		check		If yes, have you included the unconsolidated financial statements, including the notes to the financial statements of the foreign affiliate as part of this information return? Note that the unconsolidated financial statements must be included with the T1134 form at the time of filing subject to the due diligence exception in section 233.5 of the Act - see instructions. Yes.
+7	P2S2_Financial_Information/P2S2_FA_Return_rb_Group	P2S2_FA_Return_rb2		check		If yes, have you included the unconsolidated financial statements, including the notes to the financial statements of the foreign affiliate as part of this information return? Note that the unconsolidated financial statements must be included with the T1134 form at the time of filing subject to the due diligence exception in section 233.5 of the Act - see instructions. No.
+7	P2S3_Q1/P2S3_A_Q1_rb_Group	P2S3_A_Q1_rb1		check		1. Did the reporting entity or any member of the related Canadian group, at any time, receive a dividend on a share of the capital stock of the foreign affiliate? Yes.
+7	P2S3_Q1/P2S3_A_Q1_rb_Group	P2S3_A_Q1_rb2		check		1. Did the reporting entity or any member of the related Canadian group, at any time, receive a dividend on a share of the capital stock of the foreign affiliate? No.
+7	P2S3_A_Q1_Exempt/P2S3_A_Q1_Exempt_Chart/Row1	Cell1		numeric	15	Exempt Surplus. Amount of Exempt Surplus. Row 1.
+7	P2S3_A_Q1_Exempt/P2S3_A_Q1_Exempt_Chart/Row1	Cell2		text		Exempt Surplus. Account Number of Canadian Entity. Row 1.
+7	P2S3_A_Q1_Exempt/P2S3_A_Q1_Exempt_Chart/Row2	Cell1		numeric	15	Exempt Surplus. Amount of Exempt Surplus. Row 2.
+7	P2S3_A_Q1_Exempt/P2S3_A_Q1_Exempt_Chart/Row2	Cell2		text		Exempt Surplus. Account Number of Canadian Entity. Row 2.
+7	P2S3_A_Q1_Exempt/P2S3_A_Q1_Exempt_Chart/Row3	Cell1		numeric	15	Exempt Surplus. Amount of Exempt Surplus. Row 3.
+7	P2S3_A_Q1_Exempt/P2S3_A_Q1_Exempt_Chart/Row3	Cell2		text		Exempt Surplus. Account Number of Canadian Entity. Row 3.
+7	P2S3_A_Q1_Hybrid/P2S3_A_Q1_Hybrid_Chart/Row1	Cell1		numeric	15	Hybrid Surplus. Amount of Hybrid Surplus. Row 1.
+7	P2S3_A_Q1_Hybrid/P2S3_A_Q1_Hybrid_Chart/Row1	Cell2		text		Hybrid Surplus. Account Number of Canadian Entity. Row 1.
+7	P2S3_A_Q1_Hybrid/P2S3_A_Q1_Hybrid_Chart/Row2	Cell1		numeric	15	Hybrid Surplus. Amount of Hybrid Surplus. Row 2.
+7	P2S3_A_Q1_Hybrid/P2S3_A_Q1_Hybrid_Chart/Row2	Cell2		text		Hybrid Surplus. Account Number of Canadian Entity. Row 2.
+7	P2S3_A_Q1_Hybrid/P2S3_A_Q1_Hybrid_Chart/Row3	Cell1		numeric	15	Hybrid Surplus. Amount of Hybrid Surplus. Row 3.
+7	P2S3_A_Q1_Hybrid/P2S3_A_Q1_Hybrid_Chart/Row3	Cell2		text		Hybrid Surplus. Account Number of Canadian Entity. Row 3.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row1	Cell1		numeric	15	Taxable Surplus. Amount of Taxable Surplus. Row 1.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row1	Cell2		text		Taxable Surplus. Account Number of Canadian Entity. Row 1.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row1/Cell3/RadioButtonGroup	Option1		check		Taxable Surplus. Was any election made pursuant to Regulation 5900(2). Yes. Row 1.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row1/Cell3/RadioButtonGroup	Option2		check		Taxable Surplus. Was any election made pursuant to Regulation 5900(2). No. Row 1.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row1/Cell4/RadioButtonGroup	Option1		check		Taxable surplus. Was any election made pursuant to Regulation 5901(1.1). Yes. Row 1.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row1/Cell4/RadioButtonGroup	Option2		check		Taxable surplus. Was any election made pursuant to Regulation 5901(1.1). No. Row 1.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row2	Cell1		numeric	15	Taxable Surplus. Amount of Taxable Surplus. Row 2.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row2	Cell2		text		Taxable Surplus. Account Number of Canadian Entity. Row 2.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row2/Cell3/RadioButtonGroup	Option1		check		Taxable Surplus. Was any election made pursuant to Regulation 5900(2). Yes. Row 2.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row2/Cell3/RadioButtonGroup	Option2		check		Taxable Surplus. Was any election made pursuant to Regulation 5900(2). No. Row 2.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row2/Cell4/RadioButtonGroup	Option1		check		Taxable surplus. Was any election made pursuant to Regulation 5901(1.1). Yes. Row 2.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row2/Cell4/RadioButtonGroup	Option2		check		Taxable surplus. Was any election made pursuant to Regulation 5901(1.1). No. Row 2.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row3	Cell1		numeric	15	Taxable Surplus. Amount of Taxable Surplus. Row 3.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row3	Cell2		text		Taxable Surplus. Account Number of Canadian Entity. Row 3.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row3/Cell3/RadioButtonGroup	Option1		check		Taxable Surplus. Was any election made pursuant to Regulation 5900(2). Yes. Row 3.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row3/Cell3/RadioButtonGroup	Option2		check		Taxable Surplus. Was any election made pursuant to Regulation 5900(2). No. Row 3.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row3/Cell4/RadioButtonGroup	Option1		check		Taxable surplus. Was any election made pursuant to Regulation 5901(1.1). Yes. Row 3.
+7	P2S3_A_Q1_Taxable/P2S3_A_Q1_Taxable_Chart/Row3/Cell4/RadioButtonGroup	Option2		check		Taxable surplus. Was any election made pursuant to Regulation 5901(1.1). No. Row 3.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row1	Cell1		numeric	15	Pre-acquisition Surplus. Amount of Pre-acquisition Surplus. Row 1.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row1	Cell2		text		Pre-acquisition Surplus. Account Number of Canadian Entity. Row 1.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row1/Cell3/RadioButtonGroup	Option1		check		Pre-acquisition surplus. Was any election made pursuant to Regulation 5901(2)(b). Yes. Row 1.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row1/Cell3/RadioButtonGroup	Option2		check		Pre-acquisition surplus. Was any election made pursuant to Regulation 5901(2)(b). No. Row 1.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row1/Cell4/RadioButtonGroup	Option1		check		Pre-acquisition surplus. Was any election late filed pursuant to Regulation 5901(2.1). Yes. Row 1.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row1/Cell4/RadioButtonGroup	Option2		check		Pre-acquisition surplus. Was any election late filed pursuant to Regulation 5901(2.1). No. Row 1.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row1/Cell5/RadioButtonGroup	Option1		check		Pre-acquisition surplus. Was any qualifying return of capital election made pursuant to subsection 90(3) of the Act and Regulation 5911(6). Yes. Row 1.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row1/Cell5/RadioButtonGroup	Option2		check		Pre-acquisition surplus. Was any qualifying return of capital election made pursuant to subsection 90(3) of the Act and Regulation 5911(6). No. Row 1.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row2	Cell1		numeric	15	Pre-acquisition Surplus. Amount of Pre-acquisition Surplus. Row 2.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row2	Cell2		text		Pre-acquisition Surplus. Account Number of Canadian Entity. Row 2.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row2/Cell3/RadioButtonGroup	Option1		check		Pre-acquisition surplus. Was any election made pursuant to Regulation 5901(2)(b). Yes. Row 2.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row2/Cell3/RadioButtonGroup	Option2		check		Pre-acquisition surplus. Was any election made pursuant to Regulation 5901(2)(b). No. Row 2.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row2/Cell4/RadioButtonGroup	Option1		check		Pre-acquisition surplus. Was any election late filed pursuant to Regulation 5901(2.1). Yes. Row 2.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row2/Cell4/RadioButtonGroup	Option2		check		Pre-acquisition surplus. Was any election late filed pursuant to Regulation 5901(2.1). No. Row 2.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row2/Cell5/RadioButtonGroup	Option1		check		Pre-acquisition surplus. Was any qualifying return of capital election made pursuant to subsection 90(3) of the Act and Regulation 5911(6). Yes. Row 2.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row2/Cell5/RadioButtonGroup	Option2		check		Pre-acquisition surplus. Was any qualifying return of capital election made pursuant to subsection 90(3) of the Act and Regulation 5911(6). No. Row 2.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row3	Cell1		numeric	15	Pre-acquisition Surplus. Amount of Pre-acquisition Surplus. Row 3.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row3	Cell2		text		Pre-acquisition Surplus. Account Number of Canadian Entity. Row 3.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row3/Cell3/RadioButtonGroup	Option1		check		Pre-acquisition surplus. Was any election made pursuant to Regulation 5901(2)(b). Yes. Row 3.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row3/Cell3/RadioButtonGroup	Option2		check		Pre-acquisition surplus. Was any election made pursuant to Regulation 5901(2)(b). No. Row 3.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row3/Cell4/RadioButtonGroup	Option1		check		Pre-acquisition surplus. Was any election late filed pursuant to Regulation 5901(2.1). Yes. Row 3.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row3/Cell4/RadioButtonGroup	Option2		check		Pre-acquisition surplus. Was any election late filed pursuant to Regulation 5901(2.1). No. Row 3.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row3/Cell5/RadioButtonGroup	Option1		check		Pre-acquisition surplus. Was any qualifying return of capital election made pursuant to subsection 90(3) of the Act and Regulation 5911(6). Yes. Row 3.
+7	P2S3_A_Q1_PreAcquisition/P2S3_A_Q1_PreAcquisition_Chart/Row3/Cell5/RadioButtonGroup	Option2		check		Pre-acquisition surplus. Was any qualifying return of capital election made pursuant to subsection 90(3) of the Act and Regulation 5911(6). No. Row 3.
+7	P2S3_A_Q2_3/P2S3_A_Q2/P2S3_A_Q2_DividendCash	P2S3_A_Q2_DividendCash_Amount		numeric	15	Indicate the amount of all dividends paid by the foreign affiliate. Dividend in Cash or in Kind. Amount
+7	P2S3_A_Q2_3/P2S3_A_Q2/P2S3_A_Q2_DividendCash/P2S3_A_Q2_DividendCash_CurrencyCode_Group	P2S3_A_Q2_DividendCash_CurrencyCode		choice		Indicate the amount of all dividends paid by the foreign affiliate. Dividend in Cash or in Kind. Currency code. Select your option from the drop down menu.
+7	P2S3_A_Q2_3/P2S3_A_Q2/P2S3_A_Q2_DividendStock	P2S3_A_Q2_DividendStock_Amount		numeric	15	Indicate the amount of all dividends paid by the foreign affiliate. Stock Dividend. Amount.
+7	P2S3_A_Q2_3/P2S3_A_Q2/P2S3_A_Q2_DividendStock/P2S3_A_Q2_DividendStock_CurrencyCode_Group	P2S3_A_Q2_DividendStock_CurrencyCode		choice		Indicate the amount of all dividends paid by the foreign affiliate. Stock Dividend. Currency code. Select your option from the drop down menu.
+7	P2S3_A_Q2_3/P2S3_A_Q3/P2S3_A_Q3_rb_Group	P2S3_A_Q3_rb1		check		3. Was the foreign affiliate involved in any transaction in respect of which subsections 93(1.11) or (1.3) applied? Yes.
+7	P2S3_A_Q2_3/P2S3_A_Q3/P2S3_A_Q3_rb_Group	P2S3_A_Q3_rb2		check		3. Was the foreign affiliate involved in any transaction in respect of which subsections 93(1.11) or (1.3) applied? No.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1	Cell1		text		Account number of reporting entity and any member of the related Canadian group, if applicable. Row 1.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell2/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. 4.1. Did a ""specified debtor"" (as defined in subsection 90(15)) in respect of the reporting entity or any member of the related Canadian group owe an amount to the foreign affiliate or a partnership of which the foreign affiliate was a member? Yes. Row 1."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell2/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. 4.1. Did a ""specified debtor"" (as defined in subsection 90(15)) in respect of the reporting entity or any member of the related Canadian group owe an amount to the foreign affiliate or a partnership of which the foreign affiliate was a member? No. Row 1."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell3/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. If the answer to 4.1 is ""yes"", did subsection 90(6) apply to that debt? Yes. Row 1."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell3/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. If the answer to 4.1 is ""yes"", did subsection 90(6) apply to that debt? No. Row 1."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell4/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. If the answer to 4.1 is ""yes"" but subsection 90(6) did not apply, was that because of subsection 90(8)? Yes. Row 1."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell4/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. If the answer to 4.1 is ""yes"" but subsection 90(6) did not apply, was that because of subsection 90(8)? No. Row 1."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell5/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. 4.2. Was the foreign affiliate an ""eligible bank affiliate"" that is owed an ""upstream deposit"" (both as defined in subsection 95(2.43))? Yes. Row 1."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell5/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. 4.2. Was the foreign affiliate an ""eligible bank affiliate"" that is owed an ""upstream deposit"" (both as defined in subsection 95(2.43))? No. Row 1."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell6/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. If the answer to 4.2 is ""yes"", was the foreign affiliate deemed to make a loan to a reporting entity under subsection 90(8.1)? Yes. Row 1."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell6/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. If the answer to 4.2 is ""yes"", was the foreign affiliate deemed to make a loan to a reporting entity under subsection 90(8.1)? No. Row 1."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell7/RadioButtonGroup	Option1		check		4. Upstream Loan Rules. 4.3. Was the foreign affiliate involved in an upstream loan arrangement in respect of which a deduction under subsection 90(9) was claimed? Yes. Row 1.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell7/RadioButtonGroup	Option2		check		4. Upstream Loan Rules. 4.3. Was the foreign affiliate involved in an upstream loan arrangement in respect of which a deduction under subsection 90(9) was claimed? No. Row 1.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell8/RadioButtonGroup	Option1		check		4. Upstream Loan Rules. 4.4. Was the foreign affiliate involved in an upstream loan arrangement in respect of which an income inclusion under subsection 90(12) was required? Yes. Row 1.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row1/Cell8/RadioButtonGroup	Option2		check		4. Upstream Loan Rules. 4.4. Was the foreign affiliate involved in an upstream loan arrangement in respect of which an income inclusion under subsection 90(12) was required? No. Row 1.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2	Cell1		text		Account number of reporting entity and any member of the related Canadian group, if applicable. Row 2.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell2/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. 4.1. Did a ""specified debtor"" (as defined in subsection 90(15)) in respect of the reporting entity or any member of the related Canadian group owe an amount to the foreign affiliate or a partnership of which the foreign affiliate was a member? Yes. Row 2."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell2/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. 4.1. Did a ""specified debtor"" (as defined in subsection 90(15)) in respect of the reporting entity or any member of the related Canadian group owe an amount to the foreign affiliate or a partnership of which the foreign affiliate was a member? No. Row 2."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell3/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. If the answer to 4.1 is ""yes"", did subsection 90(6) apply to that debt? Yes. Row 2."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell3/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. If the answer to 4.1 is ""yes"", did subsection 90(6) apply to that debt? No. Row 2."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell4/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. If the answer to 4.1 is ""yes"" but subsection 90(6) did not apply, was that because of subsection 90(8)? Yes. Row 2."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell4/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. If the answer to 4.1 is ""yes"" but subsection 90(6) did not apply, was that because of subsection 90(8)? No. Row 2."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell5/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. 4.2. Was the foreign affiliate an ""eligible bank affiliate"" that is owed an ""upstream deposit"" (both as defined in subsection 95(2.43))? Yes. Row 2."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell5/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. 4.2. Was the foreign affiliate an ""eligible bank affiliate"" that is owed an ""upstream deposit"" (both as defined in subsection 95(2.43))? No. Row 2."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell6/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. If the answer to 4.2 is ""yes"", was the foreign affiliate deemed to make a loan to a reporting entity under subsection 90(8.1)? Yes. Row 2."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell6/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. If the answer to 4.2 is ""yes"", was the foreign affiliate deemed to make a loan to a reporting entity under subsection 90(8.1)? No. Row 2."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell7/RadioButtonGroup	Option1		check		4. Upstream Loan Rules. 4.3. Was the foreign affiliate involved in an upstream loan arrangement in respect of which a deduction under subsection 90(9) was claimed? Yes. Row 2.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell7/RadioButtonGroup	Option2		check		4. Upstream Loan Rules. 4.3. Was the foreign affiliate involved in an upstream loan arrangement in respect of which a deduction under subsection 90(9) was claimed? No. Row 2.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell8/RadioButtonGroup	Option1		check		4. Upstream Loan Rules. 4.4. Was the foreign affiliate involved in an upstream loan arrangement in respect of which an income inclusion under subsection 90(12) was required? Yes. Row 2.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row2/Cell8/RadioButtonGroup	Option2		check		4. Upstream Loan Rules. 4.4. Was the foreign affiliate involved in an upstream loan arrangement in respect of which an income inclusion under subsection 90(12) was required? No. Row 2.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3	Cell1		text		Account number of reporting entity and any member of the related Canadian group, if applicable. Row 3.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell2/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. 4.1. Did a ""specified debtor"" (as defined in subsection 90(15)) in respect of the reporting entity or any member of the related Canadian group owe an amount to the foreign affiliate or a partnership of which the foreign affiliate was a member? Yes. Row 3."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell2/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. 4.1. Did a ""specified debtor"" (as defined in subsection 90(15)) in respect of the reporting entity or any member of the related Canadian group owe an amount to the foreign affiliate or a partnership of which the foreign affiliate was a member? No. Row 3."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell3/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. If the answer to 4.1 is ""yes"", did subsection 90(6) apply to that debt? Yes. Row 3."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell3/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. If the answer to 4.1 is ""yes"", did subsection 90(6) apply to that debt? No. Row 3."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell4/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. If the answer to 4.1 is ""yes"" but subsection 90(6) did not apply, was that because of subsection 90(8)? Yes. Row 3."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell4/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. If the answer to 4.1 is ""yes"" but subsection 90(6) did not apply, was that because of subsection 90(8)? No. Row 3."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell5/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. 4.2. Was the foreign affiliate an ""eligible bank affiliate"" that is owed an ""upstream deposit"" (both as defined in subsection 95(2.43))? Yes. Row 3."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell5/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. 4.2. Was the foreign affiliate an ""eligible bank affiliate"" that is owed an ""upstream deposit"" (both as defined in subsection 95(2.43))? No. Row 3."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell6/RadioButtonGroup	Option1		check		"4. Upstream Loan Rules. If the answer to 4.2 is ""yes"", was the foreign affiliate deemed to make a loan to a reporting entity under subsection 90(8.1)? Yes. Row 3."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell6/RadioButtonGroup	Option2		check		"4. Upstream Loan Rules. If the answer to 4.2 is ""yes"", was the foreign affiliate deemed to make a loan to a reporting entity under subsection 90(8.1)? No. Row 3."
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell7/RadioButtonGroup	Option1		check		4. Upstream Loan Rules. 4.3. Was the foreign affiliate involved in an upstream loan arrangement in respect of which a deduction under subsection 90(9) was claimed? Yes. Row 3.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell7/RadioButtonGroup	Option2		check		4. Upstream Loan Rules. 4.3. Was the foreign affiliate involved in an upstream loan arrangement in respect of which a deduction under subsection 90(9) was claimed? No. Row 3.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell8/RadioButtonGroup	Option1		check		4. Upstream Loan Rules. 4.4. Was the foreign affiliate involved in an upstream loan arrangement in respect of which an income inclusion under subsection 90(12) was required? Yes. Row 3.
+7	P2S3_A_Q4/P2S3_A_Q4_Chart/Row3/Cell8/RadioButtonGroup	Option2		check		4. Upstream Loan Rules. 4.4. Was the foreign affiliate involved in an upstream loan arrangement in respect of which an income inclusion under subsection 90(12) was required? No. Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q1_Group/P2S3_B_Q1_1_rb_Group	P2S3_B_Q1_1_rb1		check		1.1 Was the reporting entity or any member of the related Canadian group involved in a subsection 88(3) liquidation and dissolution in respect of the foreign affiliate? Yes.
+8	P2S3b_P2S4_sf/P2S3_B_Q1_Group/P2S3_B_Q1_1_rb_Group	P2S3_B_Q1_1_rb2		check		1.1 Was the reporting entity or any member of the related Canadian group involved in a subsection 88(3) liquidation and dissolution in respect of the foreign affiliate? No.
+8	P2S3b_P2S4_sf/P2S3_B_Q1_Group/P2S3_B_Q1_2_rb_Group	P2S3_B_Q1_2_rb1		check		1.2 If the reporting entity or any member of the related Canadian group was involved in a subsection 88(3) liquidation and dissolution in respect of the foreign affiliate, was a subsection 88(3.1), 88(3.3), or 88(3.5) election made? Yes.
+8	P2S3b_P2S4_sf/P2S3_B_Q1_Group/P2S3_B_Q1_2_rb_Group	P2S3_B_Q1_2_rb2		check		1.2 If the reporting entity or any member of the related Canadian group was involved in a subsection 88(3) liquidation and dissolution in respect of the foreign affiliate, was a subsection 88(3.1), 88(3.3), or 88(3.5) election made? No.
+8	P2S3b_P2S4_sf/P2S3_B_Q1_Group/P2S3_B_Q1_3_rb_Group	P2S3_B_Q1_3_rb1		check		1.3 Was the reporting entity or any member of the related Canadian group involved in a section 51 convertible property exchange in respect of the foreign affiliate? Yes.
+8	P2S3b_P2S4_sf/P2S3_B_Q1_Group/P2S3_B_Q1_3_rb_Group	P2S3_B_Q1_3_rb2		check		1.3 Was the reporting entity or any member of the related Canadian group involved in a section 51 convertible property exchange in respect of the foreign affiliate? No.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row1	Cell1		text		1. Transformation transactions at the Canadian reporting entity level. Name of reporting entity. Row 1.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row1	Cell2		text		1. Transformation transactions at the Canadian reporting entity level. Account number of reporting entity and any member of the related Canadian group. Row 1.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row1	Cell3		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 88(3). Row 1.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row1	Cell4		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 88(3.1). Row 1.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row1	Cell5		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 88(3.3). Row 1.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row1	Cell6		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 88(3.5). Row 1.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row1	Cell7		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 51. Row 1.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row2	Cell1		text		1. Transformation transactions at the Canadian reporting entity level. Name of reporting entity. Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row2	Cell2		text		1. Transformation transactions at the Canadian reporting entity level. Account number of reporting entity and any member of the related Canadian group. Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row2	Cell3		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 88(3). Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row2	Cell4		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 88(3.1). Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row2	Cell5		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 88(3.3). Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row2	Cell6		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 88(3.5). Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/Row2	Cell7		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 51. Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/AddRow3	Cell1		text		1. Transformation transactions at the Canadian reporting entity level. Name of reporting entity. Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/AddRow3	Cell2		text		1. Transformation transactions at the Canadian reporting entity level. Account number of reporting entity and any member of the related Canadian group. Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/AddRow3	Cell3		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 88(3). Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/AddRow3	Cell4		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 88(3.1). Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/AddRow3	Cell5		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 88(3.3). Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/AddRow3	Cell6		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 88(3.5). Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q1/P2S3_B_Q1_Chart1/AddRow3	Cell7		check		1. Transformation transactions at the Canadian reporting entity level. Please check off the applicable provisions. 51. Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q2_txt/P2S3_B_Q2_rb_Group	P2S3_B_Q2_rb1		check		Did the reporting entity, or any member of the related Canadian group, or another foreign affiliate of the reporting entity (-ies) acquire or dispose of a share of the capital stock of the foreign affiliate? Yes.
+8	P2S3b_P2S4_sf/P2S3_B_Q2_txt/P2S3_B_Q2_rb_Group	P2S3_B_Q2_rb2		check		Did the reporting entity, or any member of the related Canadian group, or another foreign affiliate of the reporting entity (-ies) acquire or dispose of a share of the capital stock of the foreign affiliate? No.
+8	P2S3b_P2S4_sf/P2S3_B_Q2/P2S3_B_Q2_Chart/Row1	Cell1		text		2. Acquisition and disposition of the capital stock of the foreign affiliate. Name of reporting entity. Row 1.
+8	P2S3b_P2S4_sf/P2S3_B_Q2/P2S3_B_Q2_Chart/Row1	Cell2		text		2. Acquisition and disposition of the capital stock of the foreign affiliate. Account number of reporting entity and any member of the related Canadian group. Row 1.
+8	P2S3b_P2S4_sf/P2S3_B_Q2/P2S3_B_Q2_Chart/Row2	Cell1		text		2. Acquisition and disposition of the capital stock of the foreign affiliate. Name of reporting entity. Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q2/P2S3_B_Q2_Chart/Row2	Cell2		text		2. Acquisition and disposition of the capital stock of the foreign affiliate. Account number of reporting entity and any member of the related Canadian group. Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q2/P2S3_B_Q2_Chart/Row3	Cell1		text		2. Acquisition and disposition of the capital stock of the foreign affiliate. Name of reporting entity. Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q2/P2S3_B_Q2_Chart/Row3	Cell2		text		2. Acquisition and disposition of the capital stock of the foreign affiliate. Account number of reporting entity and any member of the related Canadian group. Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q2_Group/P2S3_B_Q2_1_rb_Group	P2S3_B_Q2_1_rb1		check		2.1 Was subsection 91(1.2) applicable with respect to the foreign affiliate? Yes.
+8	P2S3b_P2S4_sf/P2S3_B_Q2_Group/P2S3_B_Q2_1_rb_Group	P2S3_B_Q2_1_rb2		check		2.1 Was subsection 91(1.2) applicable with respect to the foreign affiliate? No.
+8	P2S3b_P2S4_sf/P2S3_B_Q2_Group/P2S3_B_Q2_2_rb_Group	P2S3_B_Q2_2_rb1		check		2.2 Was the foreign affiliate involved in any transaction in respect of which paragraph 95(2)(c) was applicable? Yes.
+8	P2S3b_P2S4_sf/P2S3_B_Q2_Group/P2S3_B_Q2_2_rb_Group	P2S3_B_Q2_2_rb2		check		2.2 Was the foreign affiliate involved in any transaction in respect of which paragraph 95(2)(c) was applicable? No.
+8	P2S3b_P2S4_sf/P2S3_B_Q2_Group/P2S3_B_Q2_3_rb_Group	P2S3_B_Q2_3_rb1		check		2.3 Was the foreign affiliate involved in any transaction in respect of which paragraph 95(2)(d) was applicable? Yes.
+8	P2S3b_P2S4_sf/P2S3_B_Q2_Group/P2S3_B_Q2_3_rb_Group	P2S3_B_Q2_3_rb2		check		2.3 Was the foreign affiliate involved in any transaction in respect of which paragraph 95(2)(d) was applicable? No.
+8	P2S3b_P2S4_sf/P2S3_B_Q2_Group/P2S3_B_Q2_4_rb_Group	P2S3_B_Q2_4_rb1		check		2.4 Was the foreign affiliate involved in any transaction in respect of which paragraph 95(2)(e) was applicable? Yes.
+8	P2S3b_P2S4_sf/P2S3_B_Q2_Group/P2S3_B_Q2_4_rb_Group	P2S3_B_Q2_4_rb2		check		2.4 Was the foreign affiliate involved in any transaction in respect of which paragraph 95(2)(e) was applicable? No.
+8	P2S3b_P2S4_sf/P2S3_B_Q2_Group/P2S3_B_Q2_5_rb_Group	P2S3_B_Q2_5_rb1		check		2.5 Was an election filed in respect of the relevant cost base (as defined in subsection 95(4)) of any property of the foreign affiliate pursuant to Regulation 5911(5)? Yes.
+8	P2S3b_P2S4_sf/P2S3_B_Q2_Group/P2S3_B_Q2_5_rb_Group	P2S3_B_Q2_5_rb2		check		2.5 Was an election filed in respect of the relevant cost base (as defined in subsection 95(4)) of any property of the foreign affiliate pursuant to Regulation 5911(5)? No.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row1	Cell1		text		3. Changes in equity percentage and surplus entitlement percentage. Account number of reporting entity and any member of the related Canadian group. Row 1. Mandatory field.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row1/Cell2/RadioButtonGroup	Option1		check		3. Changes in equity percentage and surplus entitlement percentage. Did the surplus entitlement percentage of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time? Yes. Row 1. Mandatory selection group.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row1/Cell2/RadioButtonGroup	Option2		check		3. Changes in equity percentage and surplus entitlement percentage. Did the surplus entitlement percentage of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time? No. Row 1. Mandatory selection group.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row1/Cell3/RadioButtonGroup	Option1		check		3. Changes in equity percentage and surplus entitlement percentage. Did the equity percentage of a foreign affiliate of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time? Yes. Row 1. Mandatory selection group.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row1/Cell3/RadioButtonGroup	Option2		check		3. Changes in equity percentage and surplus entitlement percentage. Did the equity percentage of a foreign affiliate of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time? No. Row 1. Mandatory selection group.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row1/Cell4/RadioButtonGroup	Option1		check		3. Changes in equity percentage and surplus entitlement percentage. Did the equity percentage of this foreign affiliate in respect of another foreign affiliate of the reporting entity increase or decrease at any time? Yes. Row 1. Mandatory selection group.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row1/Cell4/RadioButtonGroup	Option2		check		3. Changes in equity percentage and surplus entitlement percentage. Did the equity percentage of this foreign affiliate in respect of another foreign affiliate of the reporting entity increase or decrease at any time? No. Row 1. Mandatory selection group.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row2	Cell1		text		3. Changes in equity percentage and surplus entitlement percentage. Account number of reporting entity and any member of the related Canadian group. Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row2/Cell2/RadioButtonGroup	Option1		check		3. Changes in equity percentage and surplus entitlement percentage. Did the surplus entitlement percentage of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time? Yes. Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row2/Cell2/RadioButtonGroup	Option2		check		3. Changes in equity percentage and surplus entitlement percentage. Did the surplus entitlement percentage of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time? No. Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row2/Cell3/RadioButtonGroup	Option1		check		3. Changes in equity percentage and surplus entitlement percentage. Did the equity percentage of a foreign affiliate of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time? Yes. Row 2. Mandatory field.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row2/Cell3/RadioButtonGroup	Option2		check		3. Changes in equity percentage and surplus entitlement percentage. Did the equity percentage of a foreign affiliate of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time? No. Row 2. Mandatory field.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row2/Cell4/RadioButtonGroup	Option1		check		3. Changes in equity percentage and surplus entitlement percentage. Did the equity percentage of this foreign affiliate in respect of another foreign affiliate of the reporting entity increase or decrease at any time? Yes. Row 2. Mandatory field.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row2/Cell4/RadioButtonGroup	Option2		check		3. Changes in equity percentage and surplus entitlement percentage. Did the equity percentage of this foreign affiliate in respect of another foreign affiliate of the reporting entity increase or decrease at any time? No. Row 2. Mandatory field.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row3	Cell1		text		3. Changes in equity percentage and surplus entitlement percentage. Account number of reporting entity and any member of the related Canadian group. Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row3/Cell2/RadioButtonGroup	Option1		check		3. Changes in equity percentage and surplus entitlement percentage. Did the surplus entitlement percentage of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time? Yes. Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row3/Cell2/RadioButtonGroup	Option2		check		3. Changes in equity percentage and surplus entitlement percentage. Did the surplus entitlement percentage of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time? No. Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row3/Cell3/RadioButtonGroup	Option1		check		3. Changes in equity percentage and surplus entitlement percentage. Did the equity percentage of a foreign affiliate of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time? Yes. Row 3. Mandatory field.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row3/Cell3/RadioButtonGroup	Option2		check		3. Changes in equity percentage and surplus entitlement percentage. Did the equity percentage of a foreign affiliate of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time? No. Row 3. Mandatory field.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row3/Cell4/RadioButtonGroup	Option1		check		3. Changes in equity percentage and surplus entitlement percentage. Did the equity percentage of this foreign affiliate in respect of another foreign affiliate of the reporting entity increase or decrease at any time? Yes. Row 3. Mandatory field.
+8	P2S3b_P2S4_sf/P2S3_B_Q3/P2S3_B_Q3_Chart/Row3/Cell4/RadioButtonGroup	Option2		check		3. Changes in equity percentage and surplus entitlement percentage. Did the equity percentage of this foreign affiliate in respect of another foreign affiliate of the reporting entity increase or decrease at any time? No. Row 3. Mandatory field.
+8	P2S3b_P2S4_sf/P2S3_B_Q4_5/P2S3_B_Q4_rb_Group	P2S3_B_Q4_rb1		check		4. Did the foreign affiliate dispose of a share in another foreign affiliate that was excluded property or an interest in a partnership that was excluded property? Yes.
+8	P2S3b_P2S4_sf/P2S3_B_Q4_5/P2S3_B_Q4_rb_Group	P2S3_B_Q4_rb2		check		4. Did the foreign affiliate dispose of a share in another foreign affiliate that was excluded property or an interest in a partnership that was excluded property? No.
+8	P2S3b_P2S4_sf/P2S3_B_Q4_5/P2S3_B_Q4.1_rb_Group	P2S3_B_Q4.1_rb1		check		4.1 Did the foreign affiliate dispose of capital property that was not excluded property? Yes.
+8	P2S3b_P2S4_sf/P2S3_B_Q4_5/P2S3_B_Q4.1_rb_Group	P2S3_B_Q4.1_rb2		check		4.1 Did the foreign affiliate dispose of capital property that was not excluded property? No.
+8	P2S3b_P2S4_sf/P2S3_B_Q4_5/P2S3_B_Q5_rb_Group	P2S3_B_Q5_rb1		check		5. Other than the transactions specifically identified above, was the reporting entity, or any member of the related Canadian group, or any foreign affiliate of the reporting entity (-ies) involved in any other types of reorganization, amalgamation, merger, winding-up, liquidation, dissolution, division, or an issuance, redemption, or cancellation of share capital or a similar transaction in a manner that affected the exempt surplus, exempt deficit, hybrid surplus, hybrid deficit, taxable surplus, taxable deficit, hybrid underlying tax or underlying foreign tax of the affiliate for the reporting entity? Yes.
+8	P2S3b_P2S4_sf/P2S3_B_Q4_5/P2S3_B_Q5_rb_Group	P2S3_B_Q5_rb2		check		5. Other than the transactions specifically identified above, was the reporting entity, or any member of the related Canadian group, or any foreign affiliate of the reporting entity (-ies) involved in any other types of reorganization, amalgamation, merger, winding-up, liquidation, dissolution, division, or an issuance, redemption, or cancellation of share capital or a similar transaction in a manner that affected the exempt surplus, exempt deficit, hybrid surplus, hybrid deficit, taxable surplus, taxable deficit, hybrid underlying tax or underlying foreign tax of the affiliate for the reporting entity? No.
+8	P2S3b_P2S4_sf/P2S3_B_Q5/P2S3_B_Q5_Chart/Row1	Cell1		text		5. Name of reporting entity. Row 1.
+8	P2S3b_P2S4_sf/P2S3_B_Q5/P2S3_B_Q5_Chart/Row1	Cell2		text		5. Account number of reporting entity and any member of the related Canadian group. Row 1.
+8	P2S3b_P2S4_sf/P2S3_B_Q5/P2S3_B_Q5_Chart/Row2	Cell1		text		5. Name of reporting entity. Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q5/P2S3_B_Q5_Chart/Row2	Cell2		text		5. Account number of reporting entity and any member of the related Canadian group. Row 2.
+8	P2S3b_P2S4_sf/P2S3_B_Q5/P2S3_B_Q5_Chart/Row3	Cell1		text		5. Name of reporting entity. Row 3.
+8	P2S3b_P2S4_sf/P2S3_B_Q5/P2S3_B_Q5_Chart/Row3	Cell2		text		5. Account number of reporting entity and any member of the related Canadian group. Row 3.
+8	P2S3b_P2S4_sf/P3S1/P3S1_Details/P3S1_Employees_cb_Group/P3S1_Employees_cb_Group	Option1		check		How many full-time employees or employee equivalents (as defined in subparagraphs (c)(i) and (ii) of the investment business definition in subsection 95(1) of the Act) did the foreign affiliate employ throughout the year? 0.
+8	P2S3b_P2S4_sf/P3S1/P3S1_Details/P3S1_Employees_cb_Group/P3S1_Employees_cb_Group	Option2		check		1 to 5
+8	P2S3b_P2S4_sf/P3S1/P3S1_Details/P3S1_Employees_cb_Group/P3S1_Employees_cb_Group	Option3		check		6 to 15
+8	P2S3b_P2S4_sf/P3S1/P3S1_Details/P3S1_Employees_cb_Group/P3S1_Employees_cb_Group	Option4		check		16 to 25
+8	P2S3b_P2S4_sf/P3S1/P3S1_Details/P3S1_Employees_cb_Group/P3S1_Employees_cb_Group	Option5		check		26 to 100
+8	P2S3b_P2S4_sf/P3S1/P3S1_Details/P3S1_Employees_cb_Group/P3S1_Employees_cb_Group	Option6		check		100 plus
+8	P2S3b_P2S4_sf/P3S1/P3S1_Details/P3S1_Business_rb_Group	P3S1_Business_rb1		check		Did the operator of the business described in paragraph (a) of the definition, investment business, rely on the services provided by persons described in subparagraph (c)(ii) of that definition? Yes.
+8	P2S3b_P2S4_sf/P3S1/P3S1_Details/P3S1_Business_rb_Group	P3S1_Business_rb2		check		Did the operator of the business described in paragraph (a) of the definition, investment business, rely on the services provided by persons described in subparagraph (c)(ii) of that definition? No.
+8	P2S3b_P2S4_sf/P3S2/P3S2_sf/P3S2_ArmsLength_rb_Group	P3S2_ArmsLength_rb1		check		Indicate if you are providing a breakdown of each income category between arm's length and non-arm's length sources. Yes.
+8	P2S3b_P2S4_sf/P3S2/P3S2_sf/P3S2_ArmsLength_rb_Group	P3S2_ArmsLength_rb2		check		Indicate if you are providing a breakdown of each income category between arm's length and non-arm's length sources. No.
+8	P2S3b_P2S4_sf/P3S2/Row1	Cell2		numeric	15	Foreign affiliate's gross revenue amounts. Gross revenues from non-arm's length sources. Total gross revenue from ALL Sources - including income from an active business and foreign accrual property income.
+8	P2S3b_P2S4_sf/P3S2/Row1	Cell3		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Gross revenues from arm's length sources. Total gross revenue from ALL Sources - including income from an active business and foreign accrual property income.
+8	P2S3b_P2S4_sf/P3S2/Row1	Cell4		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Total gross revenue from ALL Sources - including income from an active business and foreign accrual property income.
+8	P2S3b_P2S4_sf/P3S2/Row1	Cell5		choice		Currency Code. Select your option from the drop down menu. Total gross revenue from ALL Sources - including income from an active business and foreign accrual property income.
+8	P2S3b_P2S4_sf/P3S2/Row2	Cell2		numeric	15	Foreign affiliate's gross revenue amounts. Gross revenues from non-arm's length sources. i. Interest.
+8	P2S3b_P2S4_sf/P3S2/Row2	Cell3		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Gross revenues from arm's length sources. i. Interest.
+8	P2S3b_P2S4_sf/P3S2/Row2	Cell4		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Total gross revenues. i. Interest.
+8	P2S3b_P2S4_sf/P3S2/Row2	Cell5		choice		Currency Code. Select your option from the drop down menu. i. Interest.
+8	P2S3b_P2S4_sf/P3S2/Row3	Cell2		numeric	15	Foreign affiliate's gross revenue amounts. Gross revenues from non-arm's length sources. ii. Dividends.
+8	P2S3b_P2S4_sf/P3S2/Row3	Cell3		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Gross revenues from arm's length sources. ii. Dividends.
+8	P2S3b_P2S4_sf/P3S2/Row3	Cell4		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Total gross revenues. ii. Dividends.
+8	P2S3b_P2S4_sf/P3S2/Row3	Cell5		choice		Currency Code. Select your option from the drop down menu. ii. Dividends.
+8	P2S3b_P2S4_sf/P3S2/Row4	Cell2		numeric	15	Foreign affiliate's gross revenue amounts. Gross revenues from non-arm's length sources. iii. Royalties.
+8	P2S3b_P2S4_sf/P3S2/Row4	Cell3		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Gross revenues from arm's length sources. iii. Royalties.
+8	P2S3b_P2S4_sf/P3S2/Row4	Cell4		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Total gross revenues. iii. Royalties.
+8	P2S3b_P2S4_sf/P3S2/Row4	Cell5		choice		Currency Code. Select your option from the drop down menu. iii. Royalties.
+8	P2S3b_P2S4_sf/P3S2/Row5	Cell2		numeric	15	Foreign affiliate's gross revenue amounts. Gross revenues from non-arm's length sources. iv. Rental and leasing activities.
+8	P2S3b_P2S4_sf/P3S2/Row5	Cell3		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Gross revenues from arm's length sources. iv. Rental and leasing activities.
+8	P2S3b_P2S4_sf/P3S2/Row5	Cell4		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Total gross revenues. iv. Rental and leasing activities.
+8	P2S3b_P2S4_sf/P3S2/Row5	Cell5		choice		Currency Code. Select your option from the drop down menu. iv. Rental and leasing activities.
+8	P2S3b_P2S4_sf/P3S2/Row6	Cell2		numeric	15	Foreign affiliate's gross revenue amounts. Gross revenues from non-arm's length sources. v. Loans or lending activities.
+8	P2S3b_P2S4_sf/P3S2/Row6	Cell3		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Gross revenues from arm's length sources. v. Loans or lending activities.
+8	P2S3b_P2S4_sf/P3S2/Row6	Cell4		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Total gross revenues. v. Loans or lending activities.
+8	P2S3b_P2S4_sf/P3S2/Row6	Cell5		choice		Currency Code. Select your option from the drop down menu. v. Loans or lending activities.
+8	P2S3b_P2S4_sf/P3S2/Row7	Cell2		numeric	15	Foreign affiliate's gross revenue amounts. Gross revenues from non-arm's length sources. vi. Insurance or reinsurance of risks.
+8	P2S3b_P2S4_sf/P3S2/Row7	Cell3		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Gross revenues from arm's length sources. vi. Insurance or reinsurance of risks.
+8	P2S3b_P2S4_sf/P3S2/Row7	Cell4		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Total gross revenues. vi. Insurance or reinsurance of risks.
+8	P2S3b_P2S4_sf/P3S2/Row7	Cell5		choice		Currency Code. Select your option from the drop down menu. vi. Insurance or reinsurance of risks.
+8	P2S3b_P2S4_sf/P3S2/Row8	Cell2		numeric	15	Foreign affiliate's gross revenue amounts. Gross revenues from non-arm's length sources. vii. Factoring of trade accounts receivable.
+8	P2S3b_P2S4_sf/P3S2/Row8	Cell3		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Gross revenues from arm's length sources. vii. Factoring of trade accounts receivable.
+8	P2S3b_P2S4_sf/P3S2/Row8	Cell4		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Total gross revenues. vii. Factoring of trade accounts receivable.
+8	P2S3b_P2S4_sf/P3S2/Row8	Cell5		choice		Currency Code. Select your option from the drop down menu. vii. Factoring of trade accounts receivable.
+8	P2S3b_P2S4_sf/P3S2/Row9	Cell2		numeric	15	Foreign affiliate's gross revenue amounts. Gross revenues from non-arm's length sources. viii. Disposition of investment property.
+8	P2S3b_P2S4_sf/P3S2/Row9	Cell3		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Gross revenues from arm's length sources. viii. Disposition of investment property.
+8	P2S3b_P2S4_sf/P3S2/Row9	Cell4		numeric	15	Foreign affiliate's gross revenue amounts rounded to the nearest thousand. Total gross revenues. viii. Disposition of investment property.
+8	P2S3b_P2S4_sf/P3S2/Row9	Cell5		choice		Currency Code. Select your option from the drop down menu. viii. Disposition of investment property.
+8	P2S3b_P2S4_sf/P3S3/P3S3_A_rb_Group	P3S3_A_rb1		check		i. a. Did the foreign affiliate earn Foreign accrual property income in any taxation year of the affiliate that ended in the reporting entity's taxation year? Yes.
+8	P2S3b_P2S4_sf/P3S3/P3S3_A_rb_Group	P3S3_A_rb2		check		i. a. Did the foreign affiliate earn Foreign accrual property income in any taxation year of the affiliate that ended in the reporting entity's taxation year? No.
+8	P2S3b_P2S4_sf/P3S3/P3S3_B_rb_Group	P3S3_B_rb1		check		b. Did the foreign affiliate incur Foreign accrual property loss in any taxation year of the affiliate that ended in the reporting entity's taxation year? Yes.
+8	P2S3b_P2S4_sf/P3S3/P3S3_B_rb_Group	P3S3_B_rb2		check		b. Did the foreign affiliate incur Foreign accrual property loss in any taxation year of the affiliate that ended in the reporting entity's taxation year? No.
+8	P2S3b_P2S4_sf/P3S3/P3S3_C_rb_Group	P3S3_C_rb1		check		c. Did the foreign affiliate earn Foreign accrual property income from transactions resulting in capital gains in any taxation year of the affiliate that ended in the reporting entity's taxation year? Yes.
+8	P2S3b_P2S4_sf/P3S3/P3S3_C_rb_Group	P3S3_C_rb2		check		c. Did the foreign affiliate earn Foreign accrual property income from transactions resulting in capital gains in any taxation year of the affiliate that ended in the reporting entity's taxation year? No.
+8	P2S3b_P2S4_sf/P3S3/P3S3_D_rb_Group	P3S3_D_rb1		check		d. Did the foreign affiliate incur Foreign accrual capital losses from transactions in any taxation year of the affiliate that ended in the reporting entity's taxation year? Yes.
+8	P2S3b_P2S4_sf/P3S3/P3S3_D_rb_Group	P3S3_D_rb2		check		d. Did the foreign affiliate incur Foreign accrual capital losses from transactions in any taxation year of the affiliate that ended in the reporting entity's taxation year? No.
+8	P2S3b_P2S4_sf/P3S3/P3S3_E_rb_Group	P3S3_E_rb1		check		e. Did the reporting entity, or any member of the related Canadian group apply any FAPL that this foreign affiliate incurred in a previous taxation year in calculating its FAPI amount in respect of the current taxation year? Yes.
+8	P2S3b_P2S4_sf/P3S3/P3S3_E_rb_Group	P3S3_E_rb2		check		e. Did the reporting entity, or any member of the related Canadian group apply any FAPL that this foreign affiliate incurred in a previous taxation year in calculating its FAPI amount in respect of the current taxation year? No.
+8	P2S3b_P2S4_sf/P3S3/P3S3_F_rb_Group	P3S3_F_rb1		check		f. Did the reporting entity, or any member of the related Canadian group apply any FACL that this foreign affiliate incurred in a previous taxation year in calculating its FAPI amount in respect of the current taxation year? Yes.
+8	P2S3b_P2S4_sf/P3S3/P3S3_F_rb_Group	P3S3_F_rb2		check		f. Did the reporting entity, or any member of the related Canadian group apply any FACL that this foreign affiliate incurred in a previous taxation year in calculating its FAPI amount in respect of the current taxation year? No.
+8	P2S3b_P2S4_sf/P3S3/P3S3_G_rb_Group	P3S3_G_rb1		check		g. Did the reporting entity, or any member of the related Canadian group apply any FAPL that this foreign affiliate incurred in the current year in calculating its FAPI amount in respect of a previous taxation year? Yes.
+8	P2S3b_P2S4_sf/P3S3/P3S3_G_rb_Group	P3S3_G_rb2		check		g. Did the reporting entity, or any member of the related Canadian group apply any FAPL that this foreign affiliate incurred in the current year in calculating its FAPI amount in respect of a previous taxation year? No.
+8	P2S3b_P2S4_sf/P3S3/P3S3_H_rb_Group	P3S3_H_rb1		check		h. Did the reporting entity, or any member of the related Canadian group apply any FACL that this foreign affiliate incurred in the current year in calculating its FAPI amount in respect of a previous taxation year? Yes.
+8	P2S3b_P2S4_sf/P3S3/P3S3_H_rb_Group	P3S3_H_rb2		check		h. Did the reporting entity, or any member of the related Canadian group apply any FACL that this foreign affiliate incurred in the current year in calculating its FAPI amount in respect of a previous taxation year? No.
+8	P2S3b_P2S4_sf/P3S3/P3S3_ii_rb_Group	P3S3_ii_rb1		check		ii. Was an election filed under subsection 95(2.44) in respect of the foreign affiliate for the year? Yes.
+8	P2S3b_P2S4_sf/P3S3/P3S3_ii_rb_Group	P3S3_ii_rb2		check		ii. Was an election filed under subsection 95(2.44) in respect of the foreign affiliate for the year? No.
+8	P2S3b_P2S4_sf/P3S3/P3S3_Chartiii/P3S3_Chartiii/Row1	Cell2		text		Account number of reporting entity and any member of the related Canadian group. Row 1. Mandatory field.
+8	P2S3b_P2S4_sf/P3S3/P3S3_Chartiii/P3S3_Chartiii/Row1	Cell3		numeric		Reporting entity's or entities participating percentage for the year. Note. If the foreign affiliate's Foreign accrual property income for the year is less than $5,000, the reporting entity's participating percentage is NIL. Row 1. Mandatory field.
+8	P2S3b_P2S4_sf/P3S3/P3S3_Chartiii/P3S3_Chartiii/Row1/Cell4/RadioButtonGroup	Option1		check		Did the participating percentage of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time in the taxation year? Yes. Row 1. Mandatory selection group.
+8	P2S3b_P2S4_sf/P3S3/P3S3_Chartiii/P3S3_Chartiii/Row1/Cell4/RadioButtonGroup	Option2		check		Did the participating percentage of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time in the taxation year? No. Row 1. Mandatory selection group.
+8	P2S3b_P2S4_sf/P3S3/P3S3_Chartiii/P3S3_Chartiii/Row2	Cell2		text		Account number of reporting entity and any member of the related Canadian group. Row 2. Mandatory field.
+8	P2S3b_P2S4_sf/P3S3/P3S3_Chartiii/P3S3_Chartiii/Row2	Cell3		numeric		Reporting entity's or entities participating percentage for the year. Note. If the foreign affiliate's Foreign accrual property income for the year is less than $5,000, the reporting entity's participating percentage is NIL. Row 2. Mandatory field.
+8	P2S3b_P2S4_sf/P3S3/P3S3_Chartiii/P3S3_Chartiii/Row2/Cell4/RadioButtonGroup	Option1		check		Did the participating percentage of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time in the taxation year? Yes. Row 2.
+8	P2S3b_P2S4_sf/P3S3/P3S3_Chartiii/P3S3_Chartiii/Row2/Cell4/RadioButtonGroup	Option2		check		Did the participating percentage of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time in the taxation year? No. Row 2.
+8	P2S3b_P2S4_sf/P3S3/P3S3_Chartiii/P3S3_Chartiii/Row3	Cell2		text		Account number of reporting entity and any member of the related Canadian group. Row 3. Mandatory field.
+8	P2S3b_P2S4_sf/P3S3/P3S3_Chartiii/P3S3_Chartiii/Row3	Cell3		numeric		Reporting entity's or entities participating percentage for the year. Note. If the foreign affiliate's Foreign accrual property income for the year is less than $5,000, the reporting entity's participating percentage is NIL. Row 3. Mandatory field.
+8	P2S3b_P2S4_sf/P3S3/P3S3_Chartiii/P3S3_Chartiii/Row3/Cell4/RadioButtonGroup	Option1		check		Did the participating percentage of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time in the taxation year? Yes. Row 3.
+8	P2S3b_P2S4_sf/P3S3/P3S3_Chartiii/P3S3_Chartiii/Row3/Cell4/RadioButtonGroup	Option2		check		Did the participating percentage of the reporting entity or any member of the related Canadian group in respect of this foreign affiliate increase or decrease at any time in the taxation year? No. Row 3.
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row1	Cell2		numeric		Foreign accrual property income amount. iv. Also, give the gross amount of Foreign accrual property income the affiliate earned or Foreign accrual property loss it incurred in the year in respect of each of the following in Canadian dollars or elected functional currency and rounded to the nearest thousand.
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row1	Cell3		numeric		Foreign accrual property loss. iv. Also, give the gross amount of Foreign accrual property income the affiliate earned or Foreign accrual property loss it incurred in the year in respect of each of the following in Canadian dollars or elected functional currency and rounded to the nearest thousand.
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row2	Cell2		numeric	15	Foreign accrual property income amount. a. Foreign accrual property income that is income from property under subsection 95(1).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row2	Cell3		numeric	15	Foreign accrual property loss. a. Foreign accrual property income that is income from property under subsection 95(1).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row3	Cell2		numeric	15	Foreign accrual property income amount. b. Foreign accrual property income from the sale of property under paragraph 95(2)(a.1).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row3	Cell3		numeric	15	Foreign accrual property loss. b. Foreign accrual property income from the sale of property under paragraph 95(2)(a.1).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row4	Cell2		numeric	15	Foreign accrual property income amount. c. Foreign accrual property income from the insurance or reinsurance of risks under paragraph 95(2)(a.2).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row4	Cell3		numeric	15	Foreign accrual property loss. c. Foreign accrual property income from the insurance or reinsurance of risks under paragraph 95(2)(a.2).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row5	Cell2		numeric	15	Foreign accrual property income amount. d. Foreign accrual property income from indebtedness and lease obligations under paragraph 95(2)(a.3).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row5	Cell3		numeric	15	Foreign accrual property loss. d. Foreign accrual property income from indebtedness and lease obligations under paragraph 95(2)(a.3).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row6	Cell2		numeric	15	Foreign accrual property income amount. e. Foreign accrual property income from indebtedness and lease obligations under paragraph 95(2)(a.4).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row6	Cell3		numeric	15	Foreign accrual property loss. e. Foreign accrual property income from indebtedness and lease obligations under paragraph 95(2)(a.4).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row7	Cell2		numeric	15	Foreign accrual property income amount. f. Foreign accrual property income from providing services under paragraph 95(2)(b).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row7	Cell3		numeric	15	Foreign accrual property loss. f. Foreign accrual property income from providing services under paragraph 95(2)(b).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row8	Cell2		numeric	15	Foreign accrual property income amount. g. Foreign accrual property income that is income from property under paragraph 95(2)(l).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FAPL_Chart/Row8	Cell3		numeric	15	Foreign accrual property loss. g. Foreign accrual property income that is income from property under paragraph 95(2)(l).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FACL_Chart/Row1	Cell2		numeric		Foreign accrual property income amount. h. Foreign accrual property income or Foreign accrual capital losses from the disposition of capital property non excluded property.
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FACL_Chart/Row1	Cell3		numeric		Foreign accrual property income amount. h. Foreign accrual property income or Foreign accrual capital losses from the disposition of capital property non excluded property.
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FACL_Chart/Row2	Cell2		numeric	15	Foreign accrual property income amount. 1. Shares.
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FACL_Chart/Row2	Cell3		numeric	15	Foreign accrual property income amount. 1. Shares.
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FACL_Chart/Row3	Cell2		numeric	15	Foreign accrual property income amount. 2. Other than shares.
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FACL_Chart/Row3	Cell3		numeric	15	Foreign accrual property income amount. 2. Other than shares.
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FACL_Chart/Row4	Cell2		numeric	15	Foreign accrual property income amount. i. Foreign accrual property income under the description of C in the definition of Foreign accrual property income in subsection 95(1).
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FACL_Chart/Row4	Cell3		numeric		
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FACL_Chart/FooterRow	Cell2		numeric		Foreign accrual property income amount total.
+8	P2S3b_P2S4_sf/P3S3/P3S3_FAPI_FACL_Chart/FooterRow	Cell3		numeric		Foreign accrual capital losses total.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q1_sf/P3S4_Q1_rb_Group	P3S4_Q1_rb1		check		1. Was income of the foreign affiliate that would otherwise have been included in its income from property included in its income from an active business? Yes.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q1_sf/P3S4_Q1_rb_Group	P3S4_Q1_rb2		check		1. Was income of the foreign affiliate that would otherwise have been included in its income from property included in its income from an active business? No.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q1_1_sf/P3S4_Q1_1_rb_Group	P3S4_Q2_rb1		check		1.1 Because of subparagraph 95(2)(a)(i) to 95(2)(a)(vi)? Yes.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q1_1_sf/P3S4_Q1_1_rb_Group	P3S4_Q2_rb2		check		1.1 Because of subparagraph 95(2)(a)(i) to 95(2)(a)(vi)? No.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q1_2_sf/P3S4_Q1_2_rb_Group	P3S4_Q1.2_rb1		check		1.2 Because of the type of business carried on and the number of persons employed by the foreign affiliate in the business pursuant to paragraphs (a) and (b) of the definition of investment business in subsection 95(1)? Yes.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q1_2_sf/P3S4_Q1_2_rb_Group	P3S4_Q1.2_rb2		check		1.2 Because of the type of business carried on and the number of persons employed by the foreign affiliate in the business pursuant to paragraphs (a) and (b) of the definition of investment business in subsection 95(1)? No.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q1_3_sf/P3S4_Q1_3_rb_Group	P3S4_Q1.3_rb1		check		1.3 Because of subparagraphs 95(2)(l)(i) to (iii)? Yes.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q1_3_sf/P3S4_Q1_3_rb_Group	P3S4_Q1.3_rb2		check		1.3 Because of subparagraphs 95(2)(l)(i) to (iii)? No.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q2_sf/P3S4_Q2_rb_Group	P3S4_Q2_rb1		check		2. Was income of the foreign affiliate that would otherwise have been included in its income from a business other than an active business included in its income from an active business? Yes.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q2_sf/P3S4_Q2_rb_Group	P3S4_Q2_rb2		check		2. Was income of the foreign affiliate that would otherwise have been included in its income from a business other than an active business included in its income from an active business? No.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q2_1_sf/P3S4_Q2_1_rb_Group	P3S4_Q2.1_rb1		check		2.1 Because of the 90% test in paragraphs 95(2)(a.1) through (a.4)? Yes.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q2_1_sf/P3S4_Q2_1_rb_Group	P3S4_Q2.1_rb2		check		2.1 Because of the 90% test in paragraphs 95(2)(a.1) through (a.4)? No.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q2_2_sf/P3S4_Q2_2_rb_Group	P3S4_Q2.2_rb1		check		2.2 Because of subsection 95(2.3)? Yes.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q2_2_sf/P3S4_Q2_2_rb_Group	P3S4_Q2.2_rb2		check		2.2 Because of subsection 95(2.3)? No.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q2_3_sf/P3S4_Q2_3_rb_Group	P3S4_Q2.3_rb1		check		2.3 Because of subsection 95(2.4)? Yes.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q2_3_sf/P3S4_Q2_3_rb_Group	P3S4_Q2.3_rb2		check		2.3 Because of subsection 95(2.4)? No.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q2_4_sf/P3S4_Q2_4_rb_Group	P3S4_Q2.4_rb1		check		2.4 Because of subsection 95(3)? Yes.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q2_4_sf/P3S4_Q2_4_rb_Group	P3S4_Q2.4_rb2		check		2.4 Because of subsection 95(3)? No.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q2_5_sf/P3S4_Q2_5_rb_Group	P3S4_Q2.5_rb1		check		2.5 Because of subsection 95(3.01)? Yes.
+8	P2S3b_P2S4_sf/P3S4/P3S4_Q2_5_sf/P3S4_Q2_5_rb_Group	P3S4_Q2.5_rb2		check		2.5 Because of subsection 95(3.01)? No.
+8	P4/P4_rb_sf/P4_rb	P4_rb1		check		Is any information requested in this return not available? Yes.
+8	P4/P4_rb_sf/P4_rb	P4_rb2		check		Is any information requested in this return not available? No.
+8	P4/P4_rb_sf/P4_Specify_gr	P4_Specify		text		Is any information requested in this return not available? If yes, please specify below. Mandatory field.

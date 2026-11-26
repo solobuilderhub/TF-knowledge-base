@@ -4,7 +4,7 @@ line	caption
 032	carried on in Canada other than income from a source outside Canada)
 042	Exempt income
 052	Amounts received from AgriInvest Fund No. 2 that were included in computing the corporation's income for the year
-062	Taxable dividends deductible (amount deductible under paragraph 113(1)(c) plus total of column F on Schedule 3, Dividends Received, Taxable Dividends Paid, and Part IV Tax Calculation minus related expenses)
+062	Taxable dividends deductible (amount 1C on Schedule 3, Dividends Received, Taxable Dividends Paid and Part IV Tax Calculation, minus related expenses)
 072	Business income from an interest in a trust that is considered property income under paragraph 108(5)(a)
 082	other than a loss from a source outside Canada)
 092	Amount E minus line 082 (if negative, enter "0") (enter on line 440 of the T2 return)
@@ -22,6 +22,7 @@ line	caption
 009	Eligible portion of allowable capital losses for the year (including allowable business investment losses)
 019	Total income from property from a source outside Canada (net of related expenses)
 029	Exempt income
+049	Taxable dividends deductible (amount 1C on Schedule 3, minus related expenses)
 059	Business income from an interest in a trust that is considered property income under paragraph 108(5)(a)
 069	Total losses from property from a source outside Canada
 079	Amount M minus line 069 (if negative, enter "0") (enter on line 445 of the T2 return)

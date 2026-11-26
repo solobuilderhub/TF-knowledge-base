@@ -1,0 +1,62 @@
+                                                               Deferred Income Plans (2013 and later taxation years)                                                     Schedule 15
+
+                                                                                                                                                                                    Code 1301
+                                                                                                                                                         Protected B when completed
+
+Name of corporation                                                                                                   Business number                                                                         Taxation year end
+                                                                                                                                                                                                        Year  Month Day
+
+· Complete the information below if the corporation deducted payments from its income made to a registered pension plan (RPP), a registered supplementary unemployment benefit plan (RSUBP),
+  a deferred profit sharing plan (DPSP), a pooled registered pension plan (PRPP), or an employee profit sharing plan (EPSP).
+
+· If the trust that governs an employee profit sharing plan is not resident in Canada, please indicate if the T4PS, Statement of Employees Profit Sharing Plan Allocations and Payments, Supplementary slip(s)
+  were filed for the last calendar year, and whether they were filed by the trustee or the employer.
+
+     Type of plan           Amount        Registration number   Name of EPSP trust                                    Address of EPSP trust                                                                   T4PS slip(s) filed by:
+     (see note 1)       of contribution  (RPP, RSUBP, PRPP,              400                                                    500                                                                               1 - Trustee
+                                                                                                                                                                                                                  2 - Employer
+         100                    $                    and                                                                                                                                                          (EPSP only)
+                         (see note 2)           DPSP only)
+                                                                                                                                                                                                                       600
+                             200                   300
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+     Note 1                              Note 2
+
+     Enter the applicable code           You do not need to add to Schedule 1 any payments you made to deferred income plans. To reconcile such payments, calculate
+
+     number:                             the following amount:
+
+              1 - RPP                    Total of all amounts indicated in column 200 of this schedule . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           A
+
+              2 - RSUBP                  Less: Total of all amounts for deferred income plans deducted in your financial statements . . . . . . . . . . . . . . . . . . . . . . . . . . .                                        B
+              3 - DPSP
+
+              4 - EPSP                   Deductible amount for contributions to deferred income plans (amount A minus amount B) (if negative, enter "0") . . . . . . . . . . . .                                                 C
+              5 - PRPP
+
+                                         Enter amount C on line 417 of Schedule 1
+
+T2 SCH 15 E (13)                         (Vous pouvez obtenir ce formulaire en français à www.arc.gc.ca/formulaires ou en composant le 1-800-959-7775.)
+

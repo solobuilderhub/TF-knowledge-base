@@ -1,0 +1,167 @@
+page	part	field	line	kind	digits	speak
+1	Ident	Corp_name		text		Corporation's name.
+1	Ident	Business_no		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident/Tax_y-e	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_content/Part1_list1/Item2/Line_100	Input_100	100	numeric	12	Line 100. The following calculation totals $200,000 or less. Your active business income minus active business losses for the year. This includes your share of active business income and active business loss for the fiscal period of each partnership of which you were a member at any time in the year.
+1	Part1_content/Part1_list1/Item2/Line_105	Input_105	105	numeric	12	Line 105. The active business income for the tax year of each Canadian corporation with which you were associated in the year.
+1	Part1_content/Part1_list1/Item2/Line_110	Input_110	110	numeric	12	Line 110. Total. Line 100 plus line 105. Cannot exceed $200,000 under section 5201 of the regulations.
+1	Part2_content/MP	Input_ADJUBI		numeric	12	Adjusted business income from part 3, line 130.
+1	Part2_content/MP	Input_MC		numeric	12	Cost of manufacturing and processing capital from Part 5, line 150.
+1	Part2_content/MP	Input_ML		numeric	12	Cost of manufacturing and processing labour from Part 7, line 170.
+1	Part2_content/MP	Input_C		numeric	12	Cost of capital from Part 4, line 140.
+1	Part2_content/MP	Input_L		numeric	12	Cost of labour from Part 6, line 160.
+1	Part2_content/MP	Input_MP		numeric	12	Amount MP. Canadian manufacturing and processing profits. Line 130 multiplied by the result of line 150 plus line 170, divided by the result of line 140 plus line 160. Enter amount MP on line 200 in Part 9 of this schedule.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Part3_content/Line_120	Input_120	120	numeric	12	Line 120. Your active business income minus active business losses for the year. This includes your share of active business income and active business loss for the fiscal period of each partnership of which you were a member at any time in the year.
+2	Part3_content/Amount_3A	Input_3A		numeric	12	Amount 3A. Net resource income. Amount 8G from Part 8.
+2	Part3_content/Amount_3B	Input_3B		numeric	12	Amount 3B. Net resource adjustment per subsection 5203(3.1) of the regulations.
+2	Part3_content/Amount_3C	Input1_3C		numeric	12	Amount 3C. Excess. Amount 3A minus amount 3B, if negative, enter 0. Instance 1.
+2	Part3_content/Amount_3C	Input2_3C		numeric	12	Amount 3C. Instance 2.
+2	Part3_content/Amount_3D	Input_3D		numeric	12	Amount 3D. Refund interest under subsection 5203(4) of the regulations.
+2	Part3_content/Line_125	Input1_125	125	numeric	12	Line 125. Subtotal. Amount 3C plus amount 3D. Instance 1.
+2	Part3_content/Line_125	Input2_125	125	numeric	12	Line 125. Instance 2.
+2	Part3_content/Line_130	Input_130	130	numeric	12	Line 130. Adjusted business income. ADJUBI. Line 120 minus line 125, if negative, enter 0. Enter this amount in parts 2, 10, and 14 as applicable.
+2	Part4_content/Amount_4A	Input_4A		numeric	12	Amount 4A. Gross cost of the following property that you owned at the end of the year and used at any time during the year. Depreciable assets eligible for capital cost allowance under Schedule II of the regulations.
+2	Part4_content/Amount_4B	Input_4B		numeric	12	Amount 4B. Gross cost of the following property that you owned at the end of the year and used at any time during the year. Timber limits and cutting rights other than a timber resource property.
+2	Part4_content/Amount_4C	Input_4C		numeric	12	Amount 4C. Gross cost of the following property that you owned at the end of the year and used at any time during the year. Immovable wood assets, Class 15.
+2	Part4_content/Amount_4D	Input_4D		numeric	12	Amount 4D. Gross cost of the following property that you owned at the end of the year and used at any time during the year. Industrial mineral mines.
+2	Part4_content/Amount_4E	Input_4E		numeric	12	Amount 4E. Gross cost of the following property that you owned at the end of the year and used at any time during the year. Capital expenditures for scientific research and experimental development.
+2	Part4_content/Amount_4F	Input_4F		numeric	12	Amount 4F. Gross cost of the following property that you owned at the end of the year and used at any time during the year. Part XVII property.
+2	Part4_content/Amount_4G	Input1_4G		numeric	12	Subtotal. Total of amounts 4A to 4F.
+2	Part4_content/Amount_4G	Input2_4G		numeric	12	Amount 4G. Total of amounts 4A to 4F multiplied by 10%.
+2	Part4_content/Amount_4H	Input_4H		numeric	12	Amount 4H. Rental cost for the use of property, which would be included in 4A to 4F if it were owned by you at the end of the year.
+2	Part4_content/Amount_4I	Input_4I		numeric	12	Amount 4I. Your share of the amounts that would be determined under amounts 4G and 4H for a partnership of which you were a member at any time in the year.
+2	Part4_content/Line_140	Input_140	140	numeric	12	Line 140. Cost of capital. C. Add amounts 4G, 4H, and 4I. Enter this amount in parts 2 and 5, parts 10 and 11, and Part 14, as applicable.
+2	Part5_content/Amount_5A	Input_5A		numeric	12	Amount 5A. Cost of capital from line 140 in Part 4.
+2	Part5_content/Amount_5B	Input_5B		numeric	12	Amount 5B. The part of amount 5A that reflects the extent to which each property was used directly in qualified activities of the corporation during the year, or of a partnership during its fiscal period of which you were a member at any time in the year.
+2	Part5_content/Line_150	Input_150	150	numeric	12	Line 150. Cost of manufacturing and processing capital. MC. Amount 5B multiplied by 100 divided by 85, cannot be more than amount 5A. Enter this amount in Part 2.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	Part6_content/Amount_6A	Input_6A		numeric	12	Amount 6A. Salaries and wages paid or payable to all employees for services performed during the year.
+3	Part6_content/Amount_6B	Input_6B		numeric	12	Amount 6B. Salaries and wages included in amount 6A that were included in the gross cost of property, Part 4, other than property manufactured and leased during the year to other persons.
+3	Part6_content/Amount_6C	Input_6C		numeric	12	Amount 6C. Salaries and wages included in amount 6A that were related to an active business carried on outside Canada.
+3	Part6_content/Amount_6D	Input_6D		numeric	12	Amount 6D. Salaries and wages included in amount 6A that were related to activities engaged in for the purpose of earning Canadian resource profits under section 5202 of the regulations.
+3	Part6_content/Amount_6E	Input_6E		numeric	12	Amount 6E. Salaries and wages included in amount 6A that were included in your Canadian or foreign exploration and development expenses.
+3	Part6_content/Amount_6F	Input1_6F		numeric	12	Amount 6F. Subtotal. Total of amounts 6B to 6E. Instance 1.
+3	Part6_content/Amount_6F	Input2_6F		numeric	12	Amount 6F. Instance 2.
+3	Part6_content/Amount_6G	Input_6G		numeric	12	Amount 6G. Subtotal. Amount 6A minus amount 6F.
+3	Part6_content/Amount_6H	Input_6H		numeric	12	Amount 6H. Salaries and wages referred to in amount 6A, minus the deductions in amount 6F for the fiscal period of a partnership of which you were a member at any time in the year. Corporation's share. Attach calculation.
+3	Part6_content/Amount_6I	Input_6I		numeric	12	Amount 6I. Subtotal. Salaries and wages. Amount 6G plus amount 6H.
+3	Part6_content/Amount_6J	Input_6J		numeric	12	Amount 6J. Amounts paid or payable during the year to non-employees for performing functions relating to management and administration.
+3	Part6_content/Amount_6K	Input_6K		numeric	12	Amount 6K. Amounts paid or payable during the year to non-employees for performing functions relating to scientific research and experimental development.
+3	Part6_content/Amount_6L	Input_6L		numeric	12	Amount 6L. Amounts paid or payable during the year to non-employees for performing functions relating to any service or function normally performed by employees of the corporation.
+3	Part6_content/Amount_6M	Input1_6M		numeric	12	Amount 6M. Subtotal. Total of amounts 6J to 6L. Instance 1.
+3	Part6_content/Amount_6M	Input2_6M		numeric	12	Amount 6M. Instance 2.
+3	Part6_content/Amount_6N	Input_6N		numeric	12	Amount 6N. Amounts included in amount 6M that were included in the gross cost of property, Part 4, other than property manufactured and leased during the year to other persons.
+3	Part6_content/Amount_6O	Input_6O		numeric	12	Amount 6O. Amounts included in amount 6M that were related to an active business carried on outside Canada.
+3	Part6_content/Amount_6P	Input_6P		numeric	12	Amount 6P. Amounts included in amount 6M that were related to activities engaged in for the purpose of earning Canadian resource profits under section 5202 of the regulations.
+3	Part6_content/Amount_6Q	Input_6Q		numeric	12	Amount 6Q. Amounts included in amount 6M that were included in your Canadian or foreign exploration and development expenses.
+3	Part6_content/Amount_6R	Input1_6R		numeric	12	Amount 6R. Subtotal. Total of amounts 6N to 6Q. Instance 1.
+3	Part6_content/Amount_6R	Input2_6R		numeric	12	Amount 6R. Instance 2.
+3	Part6_content/Amount_6S	Input_6S		numeric	12	Amount 6S. Subtotal. Amount 6M minus amount 6R.
+3	Part6_content/Amount_6T	Input_6T		numeric	12	Amount 6T. Amounts referred to in amount 6M, minus the deductions in amount 6R for the fiscal period of a partnership of which you were a member at any time in its year. Corporation's share. Attach calculation.
+3	Part6_content/Amount_6U	Input_6U		numeric	12	Amount 6U. Subtotal. Other payments. Amount 6S plus amount 6T.
+3	Part6_content/Line_160	Input_160	160	numeric	12	Line 160. Cost of labour. L. Amount 6I plus amount 6U. Enter this amount in parts 2, 10, and 14, as applicable.
+3	Part7_content/Amount_7A	Input_7A		numeric	12	Amount 7A. Part of salaries and wages included in amount 6I that was paid or payable to employees for services directly engaged in qualified activities of the corporation during the year, or of a partnership during its fiscal period of which you were a member at any time in the year.
+3	Part7_content/Amount_7B	Input_7B		numeric	12	Amount 7B. Part of other payments included in amount 6U that was paid or payable to non-employees for performing functions that would be directly related to qualified activities of the corporation during the year, or of a partnership during its fiscal period of which you were a member at any time in the year, if they had been employees of the corporation or partnership.
+3	Part7_content/Amount_7C	Input_7C		numeric	12	Amount 7C. Total. Amount 7A plus amount 7B.
+3	Part7_content/Line_170	Input_170	170	numeric	12	Line 170. Cost of manufacturing and processing labour. ML. Amount 7C multiplied by 100 divided by 75, cannot be more than line 160 in Part 6. Enter this amount in Part 2.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	Part8_content/Amount_8A	Input_8A		numeric	12	Amount 8A. Resource profits under section 1204 of the regulations for the year, including your share of resource profits as a member of a partnership under subsection 1206(3) of the regulations.
+4	Part8_content/Amount_8B	Input_8B		numeric	12	Amount 8B. Amounts included in income under section 59, other than amounts that were included in calculating resource profits, including your share of such amounts as a member of a partnership.
+4	Part8_content/Amount_8C	Input_8C		numeric	12	Amount 8C. Subtotal. Amount 8A plus amount 8B.
+4	Part8_content/Amount_8D	Input_8D		numeric	12	Amount 8D. Amounts deducted under section 65, other than amounts that were deducted in calculating resource profits.
+4	Part8_content/Amount_8E	Input_8E		numeric	12	Amount 8E. Income from the processing of foreign ore.
+4	Part8_content/Amount_8F	Input1_8F		numeric	12	Amount 8F. Subtotal. Amount 8D plus amount 8E. Instance 1.
+4	Part8_content/Amount_8F	Input2_8F		numeric	12	Amount 8F. Instance 2.
+4	Part8_content/Amount_8G	Input_8G		numeric	12	Amount 8G. Net resource income. Amount 8C minus amount 8F. Enter this at amount 3A.
+4	Part9_content/Line_200	Input_200	200	numeric	12	Line 200. Canadian manufacturing and processing profits from Part 1 or Part 2, as applicable.
+4	Part9_content/Amount_9A	Input_9A		numeric	12	Amount 9A. Line 400, 405, 410, or 428 of the T2 return, whichever is the least.
+4	Part9_content/Amount_9B	Input1_9B		numeric	12	Amount 9B. Subtotal. Line 200 minus amount 9A. Instance 1.
+4	Part9_content/Amount_9B	Input2_9B		numeric	12	Amount 9B. Instance 2.
+4	Part9_content/Amount_9C	Input_9C		numeric	12	Amount 9C. Taxable income from line 360 of the T2 return.
+4	Part9_content/Amount_9D	Input_9D		numeric	12	Amount 9D. Line 400, 405, 410, or 428 of the T2 return, whichever is the least.
+4	Part9_content/Amount_9E	Input_9E		numeric	12	Amount 9E. Aggregate investment income from line 440 of the T2 return.
+4	Part9_content/Amount_9F	Input1_9F		numeric	12	Foreign business income tax credit deductible from line 636 of the T2 return. Instance 1.
+4	Part9_content/Amount_9F	Input2_9F		numeric	12	Amount 9F. Foreign business income tax credit deductible from line 636 of the T2 return multiplied by 4.
+4	Part9_content/Amount_9G	Input1_9G		numeric	12	Amount 9G. Subtotal. Total of amounts 9D to 9F. Instance 1.
+4	Part9_content/Amount_9G	Input2_9G		numeric	12	Amount 9G. Instance 2.
+4	Part9_content/Amount_9H	Input_9H		numeric	12	Amount 9H. Subtotal. Amount 9C minus amount 9G.
+4	Part9_content/Amount_9I	Input1_9I		numeric	12	Lesser of amount 9B and amount 9H.
+4	Part9_content/Amount_9I	Input2_9I		numeric	12	Amount 9I. Lesser of amount 9B and amount 9H multiplied by 13%.
+4	Part9_content/Amount_9J	Input_9J		numeric	12	Amount 9J. Amount 13L if you are claiming the deduction for generating electrical energy for sale or producing steam for sale.
+4	Part9_content/Amount_9K	Input_9K		numeric	12	Amount 9K. Amount from line 350 in Part 17 if you are claiming the ZETM deduction.
+4	Part9_content/Amount_9L	Input_9L		numeric	12	Amount 9L. Manufacturing and processing profits deduction and ZETM deduction. Total of amounts 9I to 9K. Enter this amount on line 616 of the T2 return.
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		
+5	Part10_content	Input_ADJUBI		numeric	12	Adjusted business income from Part 3, line 130.
+5	Part10_content	Input_MCA		numeric	12	Cost of manufacturing and processing capital from Part 11, line 205.
+5	Part10_content	Input_MLA		numeric	12	Cost of manufacturing and processing labour from Part 12, line 206.
+5	Part10_content	Input_C		numeric	12	Cost of capital from Part 4, line 140.
+5	Part10_content	Input_L		numeric	12	Cost of labour from Part 6, line 160.
+5	Part10_content	Input_MPA		numeric	12	Amount MPA. Canadian manufacturing and processing profits. Line 130 multiplied by the result of line 205 plus line 206, divided by the result of line 140 plus line 160. Enter amount MPA on line 210 in Part 13.
+5	Part11_content/Amount_11A	Input_11A		numeric	12	Amount 11A. Cost of capital from line 140 in Part 4.
+5	Part11_content/Amount_11B	Input_11B		numeric	12	Amount 11B. The part of amount 11A that reflects the extent to which each property was used directly in qualified activities of the corporation during the year, or of a partnership during its fiscal period of which you were a member at any time in the year.
+5	Part11_content/Line_205	Input_205	205	numeric	12	Line 205. Cost of manufacturing and processing capital. MCA. Amount 11B multiplied by 100 divided by 85, cannot be more than amount 11A. Enter this amount in Part 10.
+5	Part12_content/Amount_12A	Input_12A		numeric	12	Amount 12A. Part of salaries and wages included in amount 6I that was paid or payable to employees for services directly engaged in qualified activities of the corporation during the year, or of a partnership during its fiscal period of which you were a member at any time in the year.
+5	Part12_content/Amount_12B	Input_12B		numeric	12	Amount 12B. Part of other payments included in amount 6U that was paid or payable to non-employees for performing functions that would be directly related to qualified activities of the corporation during the year, or of a partnership during its fiscal period of which you were a member at any time in the year, if they had been employees of the corporation or partnership.
+5	Part12_content/Amount_12C	Input_12C		numeric	12	Amount 12C. Total. Amount 12A plus amount 12B.
+5	Part12_content/Line_206	Input_206	206	numeric	12	Line 206. Cost of manufacturing and processing labour. MLA. Amount 12C multiplied by 100 divided by 75, cannot be more than line 160 in Part 6. Enter this amount in Part 10.
+5	PageNumbers	CurrentPage		numeric		
+5	PageNumbers	PageCount		numeric		
+6	Part13_content/Line_210	Input_210	210	numeric	12	Line 210. Canadian manufacturing and processing profits from Part 10.
+6	Part13_content/Amount_13A	Input_13A		numeric	12	Amount 13A. Line 400, 405, 410, or 428 of the T2 return, whichever is the least.
+6	Part13_content/Amount_13B	Input1_13B		numeric	12	Amount 13B. Subtotal. Line 210 minus amount 13A. Instance 1.
+6	Part13_content/Amount_13B	Input2_13B		numeric	12	Amount 13B. Instance 2.
+6	Part13_content/Amount_13C	Input_13C		numeric	12	Amount 13C. Taxable income from line 360 of the T2 return.
+6	Part13_content/Amount_13D	Input_13D		numeric	12	Amount 13D. Line 400, 405, 410, or 428 of the T2 return, whichever is the least.
+6	Part13_content/Amount_13E	Input_13E		numeric	12	Amount 13E. Aggregate investment income from line 440 of the T2 return.
+6	Part13_content/Amount_13F	Input1_13F		numeric	12	Foreign business income tax credit deductible from line 636 of the T2 return. Instance 2.
+6	Part13_content/Amount_13F	Input2_13F		numeric	12	Amount 13F. Foreign business income tax credit deductible from line 636 of the T2 return multiplied by 4.
+6	Part13_content/Amount_13G	Input1_13G		numeric	12	Amount 13G. Subtotal. Total of amounts 13D to 13F. Instance 1.
+6	Part13_content/Amount_13G	Input2_13G		numeric	12	Amount 13G. Instance 2.
+6	Part13_content/Amount_13H	Input_13H		numeric	12	Amount 13H. Subtotal. Amount 13C minus amount 13G.
+6	Part13_content/Amount_13I	Input_13I		numeric	12	Amount 13I. Lesser of amount 13B and amount 13H.
+6	Part13_content/Amount_13J	Input_13J		numeric	12	Amount 13J. Lesser of amount 9B and amount 9H.
+6	Part13_content/Amount_13K	Input1_13K		numeric	12	Amount 13K. Subtotal. Amount 13I minus amount 13J. Instance 1.
+6	Part13_content/Amount_13K	Input2_13K		numeric	12	Amount 13K. Instance 2.
+6	Part13_content/Amount_13L	Input_13L		numeric	12	Amount 13L. Manufacturing and processing profits deduction for generating electrical energy for sale or producing steam for sale. Amount 13K multiplied by 13%.
+6	PageNumbers	CurrentPage		numeric		
+6	PageNumbers	PageCount		numeric		
+7	Part14_content/Amount_14A	Input_14A		numeric	12	Amount 14A. ADJUBI from line 130 in Part 3.
+7	Part14_content/Amount_14B	Input_MCB		numeric	12	ZETM cost of capital from Part 15, line 305.
+7	Part14_content/Amount_14B	Input_MLB		numeric	12	ZETM cost of labour from Part 16, line 306.
+7	Part14_content/Amount_14B	Input_C		numeric	12	Cost of capital from Part 4, line 140.
+7	Part14_content/Amount_14B	Input_L		numeric	12	Cost of labour from Part 6, line 160.
+7	Part14_content/Amount_14B	Input_14B		numeric		Amount 14B. The result of line 305 plus line 306, divided by the result of line 140 plus line 160.
+7	Part14_content/Amount_14C	Input_14C		numeric	12	Amount 14C. ZETM profits. If amount 14B is 0.9 or greater, enter amount 14A, otherwise, multiply amount 14A by amount 14B. Enter this amount on line 310 in Part 17.
+7	Part15_content/Line_305	Input_305	305	numeric	12	Line 305. ZETM cost of capital. MCB. The part of the cost of capital from line 140 in Part 4 that reflects the extent to which each property was used directly in qualified zero-emission technology manufacturing activities of the corporation during the year, or of a partnership during its fiscal period of which you were a member at any time in the year. Enter this amount in Part 14.
+7	Part16_content/Amount_16B	Input_16B		numeric	12	Amount 16A. Part of salaries and wages included in amount 6I that was paid or payable to employees for services directly engaged in qualified zero-emission technology manufacturing activities of the corporation during the year, or of a partnership during its fiscal period of which you were a member at any time in the year.
+7	Part16_content/Amount_16C	Input_16C		numeric	12	Amount 16B. Part of other payments included in amount 6U that was paid or payable to non-employees for performing functions that would be directly related to qualified zero-emission technology manufacturing activities of the corporation during the year, or of a partnership during its fiscal period of which you were a member at any time in the year, if they had been employees of the corporation or partnership.
+7	Part16_content/Line_306	Input_306	306	numeric	12	Line 306. ZETM cost of labour. MLB. Amount 16A plus amount 16B. Enter this amount in Part 14.
+7	PageNumbers	CurrentPage		numeric		
+7	PageNumbers	PageCount		numeric		
+8	Part17_content/Line_310	Input_310	310	numeric	12	Line 310. ZETM profits from Part 14.
+8	Part17_content/Amount_17A	Input_17A		numeric	12	Amount 17A. Line 120 from Part 3.
+8	Part17_content/Amount_17B	Input_17B		numeric	12	Amount 17B. Line 400, 405, 410, or 428 of the T2 return, whichever is the least.
+8	Part17_content/Amount_17C	Input1_17C		numeric	12	Amount 17C. Subtotal. Amount 17A minus amount 17B. Instance 1.
+8	Part17_content/Amount_17C	Input2_17C		numeric	12	Amount 17C. Instance 2.
+8	Part17_content/Amount_17D	Input_17D		numeric	12	Amount 17D. Taxable income from line 360 of the T2 return.
+8	Part17_content/Amount_17E	Input_17E		numeric	12	Amount 17E. Line 400, 405, 410, or 428 of the T2 return, whichever is the least.
+8	Part17_content/Amount_17F	Input_17F		numeric	12	Amount 17F. Aggregate investment income from line 440 of the T2 return.
+8	Part17_content/Amount_17G	Input1_17G		numeric	12	Foreign business income tax credit deductible from line 636 of the T2 return. Instance 3.
+8	Part17_content/Amount_17G	Input2_17G		numeric	12	Amount 17G. Foreign business income tax credit deductible from line 636 of the T2 return multiplied by 4.
+8	Part17_content/Amount_17H	Input1_17H		numeric	12	Amount 17H. Subtotal. Total of amounts 17E to 17G. Instance 1.
+8	Part17_content/Amount_17H	Input2_17H		numeric	12	Amount 17H. Instance 2.
+8	Part17_content/Amount_17I	Input_17I		numeric	12	Amount 17I. Subtotal. Amount 17D minus amount 17H.
+8	Part17_content/Amounts_17J_17L	Input_17J		numeric	12	Amount 17J. Line 310, amount 17C, or amount 17I, whichever is the least.
+8	Part17_content/Amounts_17J_17L	Input_17L		numeric	12	Amount 17L. Amount 17J multiplied by 7.5%.
+8	Part17_content/Amounts_17K_17M	Input_17K		numeric	12	Amount 17K. Amount 17E or the result of line 310 minus amount 17J, whichever is the least.
+8	Part17_content/Amounts_17K_17M	Input_17M		numeric	12	Amount 17M. Amount 17K multiplied by 4.5%.
+8	Part17_content/Line_350	Input_350	350	numeric	12	Line 350. ZETM deduction. Amount 17L plus amount 17M.
+8	PageNumbers	CurrentPage		numeric		
+8	PageNumbers	PageCount		numeric		
+9	PageNumbers	CurrentPage		numeric		
+9	PageNumbers	PageCount		numeric		

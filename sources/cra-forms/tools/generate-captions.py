@@ -12,14 +12,24 @@ of one schedule becomes amount C of another — lives in the hand-authored modul
 beside it. The split is the point: regenerating after a CRA reprint updates the
 captions and cannot discard the research.
 
-    python generate-captions.py                # every form with a .lines.tsv
+    python generate-captions.py                # every extracted form
     python generate-captions.py T2SCH01        # one form
 
-Run `extract-lines.py` first — this reads its output, not the PDF.
+Run `extract-lines.py` and `extract-xfa.py` first: this reads their output, not
+the PDF.
+
+TWO READINGS OF ONE DOCUMENT ARE MERGED. `lines.tsv` is the page read as text;
+`fields.tsv` is the fillable form's own field list. Neither is complete alone:
+the text reading loses a line when a reprint shifts a box (the 2026 jacket
+reprint dropped 450, 520-575 from it), and the field list has no caption on
+some grid cells. A line either one finds is emitted. The caption is the printed
+one where the text reading has it; `fieldCaption` is CRA's own description of
+the box, which also states the arithmetic ("Amount 1D minus line 260").
 """
 
 from __future__ import annotations
 
+import csv
 import re
 import sys
 
@@ -50,31 +60,65 @@ FORM_IDS = {
 
 
 def camel(stem: str) -> str:
-    """`T2SCH01-net-income-for-tax` → `schedule1`."""
+    """`T2SCH01-net-income-for-tax` → `schedule1`; `T661-sred-expenditures` → `t661`."""
     m = re.match(r"T2SCH0*(\d+)", stem)
-    return f"schedule{m.group(1)}" if m else re.sub(r"[^A-Za-z0-9]", "", stem)
+    if m:
+        return f"schedule{m.group(1)}"
+    if stem.startswith("T2-"):
+        return re.sub(r"[^A-Za-z0-9]", "", stem)
+    return stem.split("-")[0].lower()
+
+
+# What a field caption says after the line's own description: which row or
+# option of the line this particular box is. Not part of the line's caption.
+_INSTANCE_RE = re.compile(r"\s*(?:(?:Row|Instance|Column) \d+\.?|Yes\.?|No\.?)\s*$")
+
+
+def field_captions(stem: str) -> dict[str, tuple[str, int]]:
+    """line -> (CRA's description of the box, page), from `<stem>.fields.tsv`."""
+    from formlib import EXTRACT_DIR
+
+    path = EXTRACT_DIR / f"{stem}.fields.tsv"
+    out: dict[str, tuple[str, int]] = {}
+    if not path.exists():
+        return out
+    with path.open(encoding="utf-8", newline="") as f:
+        for r in csv.DictReader(f, delimiter="	"):
+            line = r["line"]
+            if not line or line in out:
+                continue
+            text = re.sub(r"^\s*Line\s+\d+\.?\s*", "", r["speak"])
+            text = _INSTANCE_RE.sub("", text).strip()
+            out[line] = (text, int(r["page"] or 1))
+    return out
 
 
 def main() -> int:
     wanted = sys.argv[1:]
     from formlib import EXTRACT_DIR
-    tsvs = sorted(EXTRACT_DIR.glob("*.lines.tsv"))
+    stems = sorted(
+        {t.name.replace(".lines.tsv", "") for t in EXTRACT_DIR.glob("*.lines.tsv")}
+        | {t.name.replace(".fields.tsv", "") for t in EXTRACT_DIR.glob("*.fields.tsv")}
+    )
     if wanted:
-        tsvs = [t for t in tsvs if any(w in t.name for w in wanted)]
-    if not tsvs:
-        print("no .lines.tsv found — run extract-lines.py first", file=sys.stderr)
+        stems = [t for t in stems if any(w in t for w in wanted)]
+    if not stems:
+        print("nothing extracted: run extract-lines.py and extract-xfa.py first", file=sys.stderr)
         return 1
 
     DEST_DIR.mkdir(parents=True, exist_ok=True)
     written = []
-    for tsv in tsvs:
-        stem = tsv.name.replace(".lines.tsv", "")
+    for stem in stems:
         key = stem.split("-")[0]
         if key in GRID_FORMS:
             print(f"{stem:52s} SKIPPED — grid form, authored by hand")
             continue
 
-        rows = extracted_lines(stem)
+        rows = [(n, c) for n, c in extracted_lines(stem) if n.isdigit()]
+        fields = field_captions(stem)
+        seen = {n for n, _ in rows}
+        # Lines only the form's own fields know, in the order the form lists them.
+        rows += [(n, cap) for n, (cap, _) in fields.items() if n not in seen]
         if not rows:
             continue
 
@@ -92,12 +136,11 @@ def main() -> int:
             f" * {form_id} — line numbers and captions, GENERATED from the CRA form.",
             " *",
             " * Do not hand-edit. Re-run:",
-            " *   python research/sources/cra-forms/extract-lines.py",
-            " *   python research/sources/cra-forms/generate-captions.py",
+            " *   python research/forms/run.py",
             " *",
             f" * Source: {pdf_rel}",
             " *",
-            " * This module holds ONLY what the printed page states. Sections, roles and",
+            " * This module holds ONLY what the document states. Sections, roles and",
             " * the links between schedules are hand-authored in the module beside it, so",
             " * that regenerating after a reprint updates captions without discarding what",
             " * anyone worked out.",
@@ -117,6 +160,14 @@ def main() -> int:
             "   * range would file one as the other.",
             "   */",
             "  part?: string;",
+            "  /**",
+            "   * CRA's own description of the box, from the fillable form's field list.",
+            "   * It usually states the arithmetic (\"Amount 1D minus line 260\") or where",
+            "   * the figure is carried. Absent where the form gives the box no description.",
+            "   */",
+            "  fieldCaption?: string;",
+            "  /** True when only the field list has this line: the text reading missed it. */",
+            "  fieldOnly?: true;",
             "}",
             "",
             f"export const {const}: readonly GeneratedCaption[] = [",
@@ -125,8 +176,15 @@ def main() -> int:
             cap = caption.replace("\\", "\\\\").replace("'", "\\'")
             part = parts.get(num)
             part_field = f", part: '{part}'" if part else ""
+            fc = fields.get(num)
+            page = pages.get(num) or (fc[1] if fc else 1)
+            fc_field = ""
+            if fc and fc[0]:
+                esc = fc[0].replace("\\", "\\\\").replace("'", "\\'")
+                fc_field = f", fieldCaption: '{esc}'"
+            only = ", fieldOnly: true" if num not in seen else ""
             out.append(
-                f"  {{ line: '{num}', caption: '{cap}', page: {pages.get(num, 1)}{part_field} }},"
+                f"  {{ line: '{num}', caption: '{cap}', page: {page}{part_field}{fc_field}{only} }},"
             )
         out.append("];")
         out.append("")

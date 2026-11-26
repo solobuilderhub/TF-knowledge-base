@@ -1,0 +1,16 @@
+page	part	field	line	kind	digits	speak
+1	Ident_bar	Corp_name		text		Corporation's name.
+1	Ident_bar	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident_bar/Tax_y-e	DateYYYYMMDD_Comb		text		Tax year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_content/Line_100	Input_100	100	numeric	12	Line 100. Total taxable dividends paid in the tax year.
+1	Part1_content/Line_150	Input_150	150	numeric	12	Line 150. Total eligible dividends paid in the tax year.
+1	Part1_content/Line_160	Input_160	160	numeric	12	Line 160. General Rate Income Pool at the end of the tax year. Line 590 of Schedule 53. If negative, enter 0.
+1	Part1_content/Amount_A	Input_A		numeric	12	Amount A. Excessive eligible dividend designation. Line 150 minus line 160.
+1	Part1_content/Line_180	Input_180	180	numeric	12	Line 180. Excessive eligible dividend designations elected under subsection 185.1(2) to be treated as ordinary dividends.
+1	Part1_content/Amount_B	Input_B		numeric	12	Amount B. Subtotal. Amount A minus line 180.
+1	Part1_content/Line_190	Input_190	190	numeric	12	Line 190. Part III.1 tax on excessive eligible dividend designations. Canadian-controlled private corporations or deposit insurance corporations. Amount B multiplied by 20%. Enter the amount from line 190 on line 710 of the T2 return.
+1	Part2_content/Line_200	Input_200	200	numeric	12	Line 200. Total taxable dividends paid in the tax year.
+1	Part2_content/Amount_C	Input_C		numeric	12	Amount C. Total excessive eligible dividend designations in the tax year. Amount A of Schedule 54.
+1	Part2_content/Line_280	Input_280	280	numeric	12	Line 280. Excessive eligible dividend designations elected under subsection 185.1(2) to be treated as ordinary dividends.
+1	Part2_content/Amount_D	Input_D		numeric	12	Amount D. Subtotal. Amount C minus line 280.
+1	Part2_content/Line_290	Input_290	290	numeric	12	Line 290. Part III.1 tax on excessive eligible dividend designations. Other corporations. Amount D multiplied by 20%. Enter the amount from line 290 on line 710 of the T2 return.

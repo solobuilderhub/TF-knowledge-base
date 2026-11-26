@@ -1,5 +1,5 @@
                     Aggregate Investment Income and Income Eligible for the                                                                                                                Schedule 7
-                       Small Business Deduction (2022 and later tax years)                                                                                                                     Code 2201
+                       Small Business Deduction (2022 and later tax years)                                                                                                                     Code 2202
 
                                                                                                              Business number                                                              Protected B
                                                                                                                                                                                         when completed
@@ -15,8 +15,8 @@ Corporation's name                                                              
 · Use this schedule if you are a CCPC throughout the tax year to calculate:
   ­ your adjusted aggregate investment income, as defined in subsection 125(7), for the purpose of the business limit reduction
 
-  ­ your specified partnership income, as defined in subsection 125(7), if you are a member (or designated member) of one or more partnerships, and
-  ­ your income from an active business carried on in Canada eligible for the small business deduction including any specified corporate income
+  ­ your specified partnership income, as defined in subsection 125(7), if you are a member (or designated member) of one or more partnerships and
+  ­ your income from an active business carried on in Canada eligible for the small business deduction including any specified corporate income,
 
       as defined in subsection 125(7)
 
@@ -29,7 +29,7 @@ Corporation's name                                                              
 · All legislative references are to the Income Tax Act.
 · For more information, see Small Business Deduction and Refundable Portion of Part I Tax in Guide T4012, T2 Corporation ­ Income Tax.
 
-Part 1 ­ Aggregate investment income
+     Part 1 ­ Aggregate investment income
 
 Aggregate investment income is all world source income.
 Eligible portion of taxable capital gains for the year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 002
@@ -37,9 +37,9 @@ Eligible portion of taxable capital gains for the year . . . . . . . . . . . . .
 Eligible portion of allowable capital losses for the year
 (including allowable business investment losses) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 012
 
-Net capital losses of previous years claimed on line 332 on the T2 Corporation Income Tax Return 022
+Net capital losses of previous years claimed on line 332 on the corporation income tax return (T2 return) 022
 
-                                      Subtotal (line 012 plus line 022)                                                                                                                         A
+                    Subtotal (line 012 plus line 022)                                                                                                                                           A
 
                                                                                                          Line 002 minus amount A (if negative, enter "0")                                       B
 
@@ -50,9 +50,8 @@ Exempt income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Amounts received from AgriInvest Fund No. 2 that were included in
 computing the corporation's income for the year . . . . . . . . . . . . . . . . . . 052
 
-Taxable dividends deductible (amount deductible under
-paragraph 113(1)(c) plus total of column F on Schedule 3, Dividends
-Received, Taxable Dividends Paid, and Part IV Tax Calculation minus
+Taxable dividends deductible (amount 1C on Schedule 3, Dividends
+Received, Taxable Dividends Paid and Part IV Tax Calculation, minus
 related expenses) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 062
 
 Business income from an interest in a trust that is considered
@@ -60,7 +59,7 @@ property income under paragraph 108(5)(a) . . . . . . . . . . . . . . . . . . . 
 
                     Subtotal (add lines 042, 052, 062 and 072)                                                                      C
 
-                                      Subtotal (line 032 minus amount C)                                                                                                                        D
+                    Subtotal (line 032 minus amount C)                                                                                                                                          D
 
                                                                                                                                     Amount B plus amount D                                      E
 
@@ -68,10 +67,10 @@ Total losses from property (include losses from a specified investment business 
 other than a loss from a source outside Canada) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 082
 Amount E minus line 082 (if negative, enter "0") (enter on line 440 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 092
 
-T2 SCH 7 E (25)     (Ce formulaire est disponible en français.)                                                                     Page 1 of 7
+T2 SCH 7 E (26)     (Ce formulaire est disponible en français.)                                                                     Page 1 of 7
                                                                                                                                                Protected B when completed
 
-    Part 2 ­ Adjusted aggregate investment income
+Part 2 ­ Adjusted aggregate investment income
 
 Eligible portion of taxable capital gains for the year
 (other than taxable capital gains from the disposition of an active asset 13 ) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 705
@@ -79,7 +78,7 @@ Eligible portion of taxable capital gains for the year
 Eligible portion of allowable capital losses for the year (including allowable business investment losses)
 (other than allowable capital losses from the disposition of an active asset 13 ) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 710
 
-                                                                                                          Subtotal (line 705 minus line 710) (if negative, enter "0")                      F
+                                                                                           Subtotal (line 705 minus line 710) (if negative, enter "0")                                     F
 
 Total income from property 14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 715
 Exempt income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 720
@@ -94,7 +93,7 @@ property income under paragraph 108(5)(a) . . . . . . . . . . . . . . . . . . . 
 
                  Subtotal (add lines 720, 725, 730 and 735)                                                                                    G
 
-                                                       Subtotal (line 715 minus amount G)                                                                                                  H
+                                               Subtotal (line 715 minus amount G)                                                                                                          H
 
                                                                                                                                                Amount F plus amount H                      I
 
@@ -114,30 +113,26 @@ Eligible portion of taxable capital gains for the year . . . . . . . . . . . . .
 
 Eligible portion of allowable capital losses for the year (including allowable business investment losses) . . . . . . . . . . . . . . . . . . 009
 
-                                                                                                     Subtotal (line 001 minus line 009) (if negative, enter "0")                           J
+                                                                      Subtotal (line 001 minus line 009) (if negative, enter "0")                                                          J
 
 Total income from property from a source outside Canada (net of related expenses) . . . . . . . . . . . 019
-
 Exempt income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 029
-
-Taxable dividends deductible (amount deductible under
-
-paragraph 113(1)(c) plus total of column F on Schedule 3 minus                                       049
-related expenses) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Taxable dividends deductible (amount 1C on Schedule 3, minus
+related expenses) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 049
 
 Business income from an interest in a trust that is considered
 property income under paragraph 108(5)(a) . . . . . . . . . . . . . . . . . . . . . 059
 
                  Subtotal (add lines 029, 049, and 059)                                                                                        K
 
-                                                       Subtotal (line 019 minus amount K)                                                                                                  L
+                                               Subtotal (line 019 minus amount K)                                                                                                          L
 
                                                                                                                                                Amount J plus amount L                      M
 
-Total losses from property from a source outside Canada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 069
+Total losses from property from a source outside Canada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 069
 Amount M minus line 069 (if negative, enter "0") (enter on line 445 of the T2 return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 079
 
-T2 SCH 7 E (25)                                                                                                                                                                   Page 2 of 7
+T2 SCH 7 E (26)                                                                                                                                                                   Page 2 of 7
                                                                                                                                                         Protected B when completed
 
 Part 4 ­ Specified partnership income                                                B1                                                    C1                        D1
@@ -149,14 +144,16 @@ Part 4 ­ Specified partnership income                                           
                                                                                                                                           310
                                            200                                                                                                                       311
 
-                                    E1                                     F1                      G1                                                                   H1
-                                                                                                                                                       Prorated business limit 2 and 3
-    Adjustments (add or deduct the prorated amounts      Corporation's income (loss) in  Number of days in                                              (column C1 ÷ column B1) ×
-calculated under section 34.2 1 and deduct expenses the   respect of the partnership 2    the partnership's                                          [$500,000 × (column G1 ÷ 365)]
-                                                                                           fiscal period 15                                        (if column C1 is negative, enter "0")
-     corporation incurred to earn partnership income)    (add columns C1, D1 and E1)
-                                                                                                                                                                        330
-                 315                                                  320                                                           325
+                                     E1                                     F1                     G1                                                                  H1
+
+   Adjustments (add or deduct the prorated amounts       Corporation's income (loss) in  Number of days in                                           Prorated business limit 2 and 3
+calculated under section 34.2 1 and deduct expenses the   respect of the partnership 2    the partnership's
+                                                         (add columns C1, D1 and E1)       fiscal period 15                                           (column C1 ÷ column B1) ×
+      corporation incurred to earn partnership income)                                                                                              [$500,000 × (column G1 ÷ 365)]
+
+                 315                                                  320                                                           325            (if column C1 is negative, enter "0")
+
+                                                                                                                                                                       330
 
                                 Total 350
 
@@ -184,44 +181,42 @@ Amount at line 385 or amount N, whichever is less . . . . . . . . . . . . . . . 
 Specified partnership income (line 360 plus line 390) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
 (enter at amount R in Part 5)
 
-T2 SCH 7 E (25)                                                                                                                                                              Page 3 of 7
-                                                                                                                                              Protected B when completed
+T2 SCH 7 E (26)                                                                                                                                                              Page 3 of 7
+                                                                                                                                                Protected B when completed
 
 Part 4 ­ Specified partnership income (continued)
 
 Tables 2 and 3 are used to make an assignment of specified partnership business limit under subsection 125(8). A person that is a member of a partnership can make an assignment of
 specified partnership business limit under subsection 125(8) to a designated member.
 
-If you are a CCPC that is a designated member and receiving specified partnership business limit from a person that is a member of the partnership, complete Table 2.
-If you are a member of the partnership and are assigning specified partnership business limit to a designated member, complete Table 3.
+If you are a CCPC that is a designated member and are receiving specified partnership business limit from a person that is a member of the partnership, complete Table 2.
+If you are a member of the partnership and are assigning a specified partnership business limit to a designated member, complete Table 3.
 
 Table 2 ­ A member is assigning to you specified partnership business limit under subsection 125(8)
 
-          A2                                   B2                  C2                D2                          E2                 F2                G2                                         H2
-Partnership name                   Name of the member   Business number of  Social insurance         Trust account number  Tax year start of  Tax year-end of                        Specified partnership
-
-                                                           the member (if    number of the              of the member (if    the member         the member                                business limit
-                                                              applicable)      member (if                   applicable)     (YYYYMMDD)        (YYYYMMDD)                              assigned to you by
-                                                                               applicable)
-                                                                                                                                                                                          the member 7
-
-                 405               406                  410                 411                      412                   415                416                                    420
+                           A2                  B2                 C2                 D2                          E2                   F2                G2                                     H2
+                 Partnership name  Name of the member  Business number of   Social insurance              Trust account      Tax year start of  Tax year-end of                            Specified
+                                                                                                          number of the                                                                   partnership
+                                                            the member       number of the                                     the member         the member                            business limit
+                                                           (if applicable)       member                      member           (YYYYMMDD)        (YYYYMMDD)                           assigned to you by
+                                                                                                          (if applicable)                                                               the member 7
+                                                                              (if applicable)                                       415                416
+                                                                                                                 412                                                                           420
+                 405               406                      410             411
 
 Table 3 ­ You are assigning to a designated member (CCPC) specified partnership business limit under subsection 125(8)
 
-                           A3                          B3                              C3                     D3                   E3                           F3
-                 Partnership name  Name of the designated member            Business number of       Tax year start of     Tax year-end of    Specified partnership business
-                                                                                                      the designated       the designated
-                                                                               the designated                                                   limit assigned by you to the
-                                                                                   member                 member                member              designated member 8
-                                                                                                      (YYYYMMDD)           (YYYYMMDD)
+                           A3                          B3                              C3                          D3                E3                           F3
+                 Partnership name  Name of the designated member            Business number of            Tax year start of  Tax year-end of    Specified partnership business
+                                                                                                           the designated    the designated
+                                                                               the designated                                                     limit assigned by you to the
+                                                                                   member                      member             member              designated member 8
+                                                                                                           (YYYYMMDD)        (YYYYMMDD)
 
-                 425                               426                      430                      435                   436                     440
+                 425                                   426                                           430                435  436                                 440
 
-T2 SCH 7 E (25)                                                                                                                                                                      Page 4 of 7
-                                                                                                                                        Protected B when completed
-
-Part 5 ­ Partnership income not eligible for the small business deduction
+T2 SCH 7 E (26)                                                                                                                                                                      Page 4 of 7
+Part 5 ­ Partnership income not eligible for the small business deduction                                                               Protected B when completed
 
 Corporation's income from active businesses carried on in Canada as a member or designated member of a partnership (after                                                               O
 
@@ -229,7 +224,7 @@ deducting related expenses) ­ from line 350 in Part 4 (if the net amount is nega
 
 Specified partnership loss (from line 380 in Part 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  P
 
-                                                                         Subtotal (amount O plus amount P)                                                                              Q
+                                                                                          Subtotal (amount O plus amount P)                                                             Q
 
 Specified partnership income (from line 400 in Part 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      R
 
@@ -250,7 +245,7 @@ Foreign business income after deducting related expenses 9 . . . . . . . . . . .
 
 Taxable capital gains from line 113 of Schedule 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   V
 
-Net property income (line 032 10 minus the total of lines 042, 052 and 082 9 in Part 1) . . . . . . . . . . . . . .                     W
+Net property income (line 032 10 minus the total of lines 042, 052 and 082 9 in Part 1).                                                W
 
 Personal services business income and other income after deducting related expenses 9 . . . . . . . 520
 
@@ -287,134 +282,135 @@ Business number of the      Income described under                       Busines
 
                  Total 615                               625
 
-T2 SCH 7 E (25)                                                                                                                         See the privacy notice on your return.
+T2 SCH 7 E (26)                                                                                                                         See the privacy notice on your return.
                                                                                                                                                                                Page 5 of 7
-                                                                                 Notes
+   Endnotes
 
-1. Do not include expenses that were deducted in computing the income of the corporation in column D1.
-    In general, amounts included under subsections 34.2(2) and 34.2(3) or claimed under subsection 34.2(4) are deemed to have the same character
-    and be in the same proportions as the partnership income they relate to. For example, if a corporation receives $100,000 of partnership income for
-    the partnership's fiscal period ending in its tax year, and that income is made up of $40,000 of active business income, $30,000 of income from
-    property, and $30,000 as a taxable capital gain, the corporation's adjusted stub period accrual (ASPA) in respect of the partnership would be 40%
-    active business income, 30% property income, and 30% taxable capital gains. Add or deduct only the portion of the following amounts that are
-    characterized as active business income in accordance with subsection 34.2(5):
-    Add:
+1 Do not include expenses that were deducted in computing the income of the corporation in column D1.
+   In general, amounts included under subsections 34.2(2) and 34.2(3), or claimed under subsection 34.2(4) are deemed to have the same character
+   and be in the same proportions as the partnership income they relate to. For example, if a corporation receives $100,000 of partnership income for
+   the partnership's fiscal period ending in its tax year, and that income is made up of $40,000 of active business income, $30,000 of income from
+   property, and $30,000 as a taxable capital gain, the corporation's adjusted stub period accrual (ASPA) in respect of the partnership would be 40%
+   active business income, 30% property income, and 30% taxable capital gains. Add or deduct only the portion of the following amounts that are
+   characterized as active business income in accordance with subsection 34.2(5):
+   Add:
 
-    ­ the ASPA under subsection 34.2(2) (column 4 of Schedule 73, Income Inclusion Summary for Corporations that are Members of Partnerships)
-    ­ the income inclusion for a new corporate member of a partnership under subsection 34.2(3) (column 6 of Schedule 73)
+   ­ the ASPA under subsection 34.2(2) (column 4 of Schedule 73, Income Inclusion Summary for Corporations that are Members of Partnerships)
+   ­ the income inclusion for a new corporate member of a partnership under subsection 34.2(3) (column 6 of Schedule 73)
 
-    Deduct:
+   Deduct:
 
-    ­ the previous-year ASPA under subsection 34.2(4) (column 5 of Schedule 73)
-    ­ the previous-year income inclusion for a new corporate member of a partnership under subsection 34.2(4) (column 7 of Schedule 73)
+   ­ the previous-year ASPA under subsection 34.2(4) (column 5 of Schedule 73)
+   ­ the previous-year income inclusion for a new corporate member of a partnership under subsection 34.2(4) (column 7 of Schedule 73)
 
-2. When a partnership carries on more than one business, one of which generates income and another of which realizes a loss, the loss is not netted
-    against the partnership's income when calculating the prorated business limit (column H1). Enter on line 380 the total of all losses from column F1.
+2 When a partnership carries on more than one business, one of which generates income and another of which realizes a loss, the loss is not netted
+   against the partnership's income when calculating the prorated business limit (column H1). Enter on line 380 the total of all losses from column F1.
 
-3. If you are a designated member of the partnership, enter "0".
+3 If you are a designated member of the partnership, enter "0".
 
-4. You must enter "0" if the partnership provides services or property to either:
+4 You must enter "0" if the partnership provides services or property to either:
     (A) a private corporation (directly or indirectly in any manner whatever) in the year, if:
 
-         · you (or one of your shareholders) or a person that does not deal at arm's length with you (or one of your shareholders) holds a
+        · you (or one of your shareholders) or a person that does not deal at arm's length with you (or one of your shareholders) holds a
 
-             direct or indirect interest in the private corporation, and
+            direct or indirect interest in the private corporation and
 
-         · it is not the case that all or substantially all of the partnership's income for the year from an active business is from providing
+        · it is not the case that all or substantially all of the partnership's income for the year from an active business is from providing
 
-             services or property to
+            services or property to:
 
-           ­ persons (other than the private corporation) that deal at arm's length with the partnership and each person that holds a direct or
+          ­ persons (other than the private corporation) that deal at arm's length with the partnership and each person that holds a direct or
 
-                  indirect interest in the partnership, or
+                 indirect interest in the partnership or
 
-           ­ partnerships with which the partnership deals at arm's length, other than a partnership in which a person that does not deal at
+          ­ partnerships with which the partnership deals at arm's length, other than a partnership in which a person that does not deal at
 
-                  arm's length with you holds a direct or indirect interest, or
+                 arm's length with you holds a direct or indirect interest or
     (B) a particular partnership (directly or indirectly in any manner whatever) in the year, if:
 
-         · you (or one of your shareholders) do not deal at arm's length with the particular partnership or a person that holds a direct or
+        · you (or one of your shareholders) do not deal at arm's length with the particular partnership or a person that holds a direct or
 
-             indirect interest in the particular partnership, and
+            indirect interest in the particular partnership and
 
-         · it is not the case that all or substantially all of the partnership's income for the year from an active business is from providing
+        · it is not the case that all or substantially all of the partnership's income for the year from an active business is from providing
 
-             services or property to
+            services or property to:
 
-           ­ persons that deal at arm's length with the partnership and each person that holds a direct or indirect interest in the partnership, or
+          ­ persons that deal at arm's length with the partnership and each person that holds a direct or indirect interest in the partnership or
 
-           ­ partnerships (other than the particular partnership) with which the partnership deals at arm's length, other than a partnership in
+          ­ partnerships (other than the particular partnership) with which the partnership deals at arm's length, other than a partnership in
 
-                  which a person that does not deal at arm's length with you holds a direct or indirect interest
+                 which a person that does not deal at arm's length with you holds a direct or indirect interest
 
-5. If you are a CCPC that is a designated member receiving an assignment of specified partnership business limit, complete Table 2 to determine
-    the amounts to enter in Table 1 column I1.
+5 If you are a CCPC that is a designated member receiving an assignment of a specified partnership business limit, complete Table 2 to
+   determine the amounts to enter in Table 1 column I1.
 
-6. If you are a member of the partnership and you are assigning specified partnership business limit, complete Table 3 to determine the amounts to
-    enter in Table 1 column J1.
+6 If you are a member of the partnership and you are assigning a specified partnership business limit, complete Table 3 to determine the amounts to
+   enter in Table 1 column J1.
 
-7. Add the amounts in column H2 that are for the same partnership and enter it in Table 1 column I1, in the row of the applicable partnership.
+7 Add the amounts in column H2 that are for the same partnership and enter the total in Table 1 column I1, in the row of the applicable partnership.
 
-8. Add the amounts in column F3 that are for the same partnership and enter it in Table 1 column J1, in the row of the applicable partnership. This
-    amount cannot be higher than the amount of prorated business limit you would otherwise be entitled to in Table 1 column H1 for that partnership.
+8 Add the amounts in column F3 that are for the same partnership and enter the total in Table 1 column J1, in the row of the applicable partnership.
+   This amount cannot be higher than the amount of prorated business limit you would otherwise be entitled to in Table 1 column H1 for that
+   partnership.
 
-9. If negative, enter amount in brackets, and add instead of subtracting.
+9 If negative, enter amount in brackets, and add instead of subtracting.
 
-10. Net of related expenses.
+10 Net of related expenses.
 
-11. This amount is [as defined in subsection 125(7) specified corporate income (a)(i)] the total of all amounts, each of which is your income from an
-    active business for the year from providing services or property to a private corporation (directly or indirectly, in any manner whatever) if
-    (A) at any time in the year, you (or one of your shareholders) or a person that does not deal at arm's length with you (or one of your
-    shareholders) holds a direct or indirect interest in the private corporation, and
-    (B) it is not the case that all or substantially all of your income for the year from an active business is from providing services or property to
-       (I) persons (other than the private corporation) with which you deal at arm's length, or
-       (II) partnerships with which you deal at arm's length, other than a partnership in which a person that does not deal at arm's length with you
-       holds a direct or indirect interest.
-    Do not include specified farming or fishing income. If the conditions described in subsection 125(10) are met, do not include income from an associated
-    corporation.
+11 This amount is [as defined in subsection 125(7) specified corporate income (a)(i)] the total of all amounts, each of which is your income from an
+   active business for the year from providing services or property to a private corporation (directly or indirectly, in any manner whatever) if:
+   (A) at any time in the year, you (or one of your shareholders) or a person that does not deal at arm's length with you (or one of your
+   shareholders) holds a direct or indirect interest in the private corporation,
+   (B) it is not the case that all or substantially all of your income for the year from an active business is from providing services or property to:
+      (I) persons (other than the private corporation) with which you deal at arm's length or
+      (II) partnerships with which you deal at arm's length, other than a partnership in which a person that does not deal at arm's length with you
+      holds a direct or indirect interest.
+   Do not include specified farming or fishing income. If the conditions described in subsection 125(10) are met, do not include income from an
+   associated corporation.
 
-12. The amount of business limit that a CCPC can assign to you cannot be greater than the amount in column FF that is from providing services or
-    property directly to that CCPC. If there is an amount included in column FF that is deductible by that CCPC in respect of the amount of its income
-    referred to in clause 125(1)(a)(i)(A) or (B) for its tax year, you need to deduct it from column FF for the purpose of determining the amount that can
-    be assigned to you.
+12 The amount of business limit that a CCPC can assign to you cannot be greater than the amount in column FF that is from providing services or
+   property directly to that CCPC. If there is an amount included in column FF that is deductible by that CCPC in respect of the amount of its income
+   referred to in clause 125(1)(a)(i)(A) or (B) for its tax year, you need to deduct it from column FF for the purpose of determining the amount that can
+   be assigned to you.
 
-T2 SCH 7 E (25)  Page 6 of 7
-                                                                         Notes (continued)
+T2 SCH 7 E (26)  Page 6 of 7
+   Endnotes (continued)
 
-13. Active asset, of a particular corporation at any time, means property that is:
+13 Active asset, of a particular corporation at any time, means property that is:
     (A) used at that time principally in an active business carried on primarily in Canada by the particular corporation or by a Canadian-controlled
-          private corporation that is related to the particular corporation,
+         private corporation that is related to the particular corporation,
     (B) a share of the capital stock of another corporation if, at that time,
 
-         · the other corporation is connected with the particular corporation (within the meaning assigned by subsection 186(4) on the assumption
+        · the other corporation is connected with the particular corporation (within the meaning assigned by subsection 186(4) on the assumption
 
-             that the other corporation is at that time a payer corporation within the meaning of that subsection), and
+            that the other corporation is at that time a payer corporation within the meaning of that subsection), and
 
-         · the share would be a qualified small business corporation share (as defined in subsection 110.6(1)) if:
-           ­ the references in that definition to an "individual" were references to the particular corporation, and
+        · the share would be a qualified small business corporation share (as defined in subsection 110.6(1)) if:
+          ­ the references in that definition to an "individual" were references to the particular corporation and
 
-           ­ that definition were read without reference to "the individual's spouse or common-law partner", or
+          ­ that definition were read without reference to "the individual's spouse or common-law partner" or
 
     (C) an interest in a partnership, if:
 
-         · at that time, the fair market value of the particular corporation's interest in the partnership is equal to or greater than 10% of the total fair
+        · at that time, the fair market value of the particular corporation's interest in the partnership is equal to or greater than 10% of the total fair
 
-             market value of all interests in the partnership,
+            market value of all interests in the partnership,
 
-         · throughout the 24-month period ending before that time, more than 50% of the fair market value of the property of the partnership was
+        · throughout the 24-month period ending before that time, more than 50% of the fair market value of the property of the partnership was
 
-             attributable to property described in this paragraph or in paragraph (A) or (B), and
+            attributable to property described in this paragraph or in paragraph (A) or (B) and
 
-         · at that time, all or substantially all of the fair market value of the property of the partnership was attributable to property described in this
+        · at that time, all or substantially all of the fair market value of the property of the partnership was attributable to property described in this
 
-             paragraph or in paragraph (A) or (B).
+            paragraph or in paragraph (A) or (B).
 
-14. Income or loss from property of a particular corporation, for the purposes of calculating the corporation's adjusted aggregate investment income,
-    includes income or loss from a specified investment business, as well as all amounts in respect of a life insurance policy that are included in computing
-    the corporation's income for the year (even if those amounts were not included in the computation of the corporation's aggregate investment income in
-    Part 1).
+14 Income or loss from property of a particular corporation, for the purpose of calculating the corporation's adjusted aggregate investment income,
+   includes income or loss from a specified investment business, as well as all amounts in respect of a life insurance policy that are included in computing
+   the corporation's income for the year (even if those amounts were not included in the computation of the corporation's aggregate investment income in
+   Part 1).
 
-15. The maximum number of days that can be entered in column G1 for a partnership's fiscal period is 365, it is not adjusted for a leap year.
+15 The maximum number of days that can be entered in column G1 for a partnership's fiscal period is 365, it is not adjusted for a leap year.
 
-T2 SCH 7 E (25)  Page 7 of 7
+T2 SCH 7 E (26)  Page 7 of 7
 

@@ -1,0 +1,347 @@
+page	part	field	line	kind	digits	speak
+1	ID_Sub/BusinessNumber_Comb_NoCaption_Adv_EN	BusinessNumber_RC1	001	text		Line 001. First 9 digits of the business number.
+1	ID_Sub/BusinessNumber_Comb_NoCaption_Adv_EN	BusinessNumber_RC		text		
+1	ID_Sub/BusinessNumber_Comb_NoCaption_Adv_EN	BusinessNumber_RC2	001	text		Line 001. Last 4 digits of the business number.
+1	ID_Sub/Left_sub	Field_002_line1	002	text		Line 002. Corporation's name line 1.
+1	ID_Sub/Left_sub	Field_002_line2	002	text		Line 002. Corporation's name line 2.
+1	ID_Sub/Left_sub/RadioButtonGroup_010	Option1	010	check		Line 010. Address of head office. Has this address changed since the last time the CRA was notified? Yes. Complete lines 011 to 018.
+1	ID_Sub/Left_sub/RadioButtonGroup_010	Option2	010	check		Line 010. Address of head office. Has this address changed since the last time the CRA was notified? No.
+1	ID_Sub/Left_sub	Field_011	011	text		Line 011. Address of head office.
+1	ID_Sub/Left_sub	Field_012	012	text		Line 012. Address of head office.
+1	ID_Sub/Left_sub	Field_015	015	text		Line 015. City.
+1	ID_Sub/Left_sub	Field_016	016	choice		Line 016. Select your province, territory, or state from the drop down menu. If it's not listed please type it in manually.
+1	ID_Sub/Left_sub	Field_017	017	text		Line 017. Country other than Canada.
+1	ID_Sub/Left_sub	PostalCode_ZIP	018	text		Line 018. Postal code, 6 characters or ZIP code, 5 digits.
+1	ID_Sub/Left_sub/RadioButtonGroup_020	Option1	020	check		Line 020. Mailing address. If different from head office address. Has this address changed since the last time the CRA was notified? Yes. Complete lines 021 to 028.
+1	ID_Sub/Left_sub/RadioButtonGroup_020	Option2	020	check		Line 020. Mailing address. If different from head office address. Has this address changed since the last time the CRA was notified? No.
+1	ID_Sub/Left_sub	Field_021	021	text		Line 021. Mailing address if different from head office address. Care of.
+1	ID_Sub/Left_sub	Field_022	022	text		Line 022. Mailing address. If different from head office address.
+1	ID_Sub/Left_sub	Field_023	023	text		Line 023. Mailing address. If different from head office address.
+1	ID_Sub/Left_sub	Field_025	025	text		Line 025. City.
+1	ID_Sub/Left_sub	Field_026	026	choice		Line 026. Select your province, territory, or state from the drop down menu. If it's not listed please type it in manually.
+1	ID_Sub/Left_sub	Field_027	027	text		Line 027. Country other than Canada.
+1	ID_Sub/Left_sub	Text_028	028	text		Line 028. Postal code, 6 characters or ZIP code, 5 digits.
+1	ID_Sub/Left_sub/RadioButtonGroup_030	Option1	030	check		Line 030. Location of books and records. If different from head office address. Has this address changed since the last time the CRA was notified? Yes. Complete lines 031 to 038.
+1	ID_Sub/Left_sub/RadioButtonGroup_030	Option2	030	check		Line 030. Location of books and records. If different from head office address. Has this address changed since the last time the CRA was notified? No.
+1	ID_Sub/Left_sub	Field_031	031	text		Line 031. Location of books and records. If different from head office address.
+1	ID_Sub/Left_sub	Field_032	032	text		Line 032. Location of books and records. If different from head office address.
+1	ID_Sub/Left_sub	Field_035	035	text		Line 035. City.
+1	ID_Sub/Left_sub	Field_036	036	choice		Line 036. Select your province, territory, or state from the drop down menu. If it's not listed please type it in manually.
+1	ID_Sub/Left_sub	Field_037	037	text		Line 037. Country other than Canada.
+1	ID_Sub/Left_sub	Text_038	038	text		Line 038. Postal code, 6 characters or ZIP code, 5 digits.
+1	ID_Sub/Left_sub/RadioButtonGroup_040	Option1	040	check		Line 040. Type of corporation at the end of the tax year. Tick one. Type 1. Canadian-controlled private corporation.
+1	ID_Sub/Left_sub/RadioButtonGroup_040	Option2		check		Type 2. Other private corporation.
+1	ID_Sub/Left_sub/RadioButtonGroup_040	Option3		check		Type 3. Public corporation.
+1	ID_Sub/Left_sub/RadioButtonGroup_040	Option4		check		Type 4. Corporation controlled by a public corporation.
+1	ID_Sub/Left_sub/RadioButtonGroup_040	Option5		check		Type 5. Other corporation. Specify.
+1	ID_Sub/Left_sub	Field_040_option5	040	text		Line 040. Type of corporation at the end of the tax year. Type 5. Other corporation. Specify.
+1	ID_Sub/Left_sub	DateYYYYMMDD_043	043	text		Line 043. If the type of corporation changed during the tax year, provide the effective date of the change. Year 4 digits. Month 2 digits. Day 2 digits.
+1	ID_Sub/Right_sun/FromToDates_BordersAll_Adv_EN	FromDate	060	text		Line 060. To which tax year does this return apply? Tax year start. Year 4 digits. Month 2 digits. Day 2 digits.
+1	ID_Sub/Right_sun/FromToDates_BordersAll_Adv_EN	ToDate	061	text		Line 061. To which tax year does this return apply? Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	ID_Sub/Right_sun/RadioButtonGroup_063	Option1	063	check		Line 063. Has there been an acquisition of control resulting in the application of subsection 249(4) since the tax year start on line 060? Yes.
+1	ID_Sub/Right_sun/RadioButtonGroup_063	Option2	063	check		Line 063. Has there been an acquisition of control resulting in the application of subsection 249(4) since the tax year start on line 060? No.
+1	ID_Sub/Right_sun	DateYYYYMMDD_065	065	text		Line 065. If yes, provide the date control was acquired. Year 4 digits. Month 2 digits. Day 2 digits.
+1	ID_Sub/Right_sun/RadioButtonGroup_066	Option1	066	check		Line 066. Is the date on line 061 a deemed tax year-end according to subsection 249(3.1)? Yes.
+1	ID_Sub/Right_sun/RadioButtonGroup_066	Option2	066	check		Line 066. Is the date on line 061 a deemed tax year-end according to subsection 249(3.1)? No.
+1	ID_Sub/Right_sun/RadioButtonGroup_067	Option1	067	check		Line 067. Is the corporation a professional corporation that is a member of a partnership? Yes.
+1	ID_Sub/Right_sun/RadioButtonGroup_067	Option2	067	check		Line 067. Is the corporation a professional corporation that is a member of a partnership? No.
+1	ID_Sub/Right_sun/RadioButtonGroup_070	Option1	070	check		Line 070. Is this the first year of filing after incorporation? Yes. Complete lines 030 to 038 and attach Schedule 24.
+1	ID_Sub/Right_sun/RadioButtonGroup_070	Option2	070	check		Line 070. Is this the first year of filing after incorporation? No.
+1	ID_Sub/Right_sun/RadioButtonGroup_071	Option1	071	check		Line 071. Is this the first year of filing after amalgamation? Yes. Complete lines 030 to 038 and attach Schedule 24.
+1	ID_Sub/Right_sun/RadioButtonGroup_071	Option2	071	check		Line 071. Is this the first year of filing after amalgamation? No.
+1	ID_Sub/Right_sun/RadioButtonGroup_072	Option1	072	check		Line 072. Has there been a wind-up of a subsidiary under section 88 during the current tax year? Yes. Complete and attach Schedule 24.
+1	ID_Sub/Right_sun/RadioButtonGroup_072	Option2	072	check		Line 072. Has there been a wind-up of a subsidiary under section 88 during the current tax year? No.
+1	ID_Sub/Right_sun/RadioButtonGroup_076	Option1	076	check		Line 076. Is this the final tax year before amalgamation? Yes.
+1	ID_Sub/Right_sun/RadioButtonGroup_076	Option2	076	check		Line 076. Is this the final tax year before amalgamation? No.
+1	ID_Sub/Right_sun/RadioButtonGroup_078	Option1	078	check		Line 078. Is this the final return up to dissolution? Yes.
+1	ID_Sub/Right_sun/RadioButtonGroup_078	Option2	078	check		Line 078. Is this the final return up to dissolution? No.
+1	ID_Sub/Right_sun	Field_079	079	text		Line 079. If an election was made under section 261, state the functional currency used.
+1	ID_Sub/Right_sun/RadioButtonGroup_080	Option1	080	check		Line 080. Is the corporation a resident of Canada? Yes.
+1	ID_Sub/Right_sun/RadioButtonGroup_080	Option2	080	check		Line 080. Is the corporation a resident of Canada? No. Give the country of residence on line 081 and complete and attach Schedule 97.
+1	ID_Sub/Right_sun	Field_081	081	text		Line 081. If corporation is not a resident of Canada, give the country of residence and complete and attach Schedule 97.
+1	ID_Sub/Right_sun/RadioButtonGroup_082	Option1	082	check		Line 082. Is the non-resident corporation claiming an exemption under an income tax treaty? Yes. Complete and attach Schedule 91.
+1	ID_Sub/Right_sun/RadioButtonGroup_082	Option2	082	check		Line 082. Is the non-resident corporation claiming an exemption under an income tax treaty? No.
+1	ID_Sub/Right_sun/RadioButtonGroup_085	Option1	085	check		Line 085. If the corporation is exempt from tax under section 149, tick one of the following boxes. 1. Exempt from tax under paragraph 149(1)(e) or (l).
+1	ID_Sub/Right_sun/RadioButtonGroup_085	Option2		check		2. Exempt from tax under paragraph 149(1)(j).
+1	ID_Sub/Right_sun/RadioButtonGroup_085	Option4		check		4. Exempt from tax under other paragraphs of section 149.
+2	Attachements_sub	CheckBox_150	150	check		Line 150. Is the corporation related to any other corporations? Yes. Attach Schedule 9.
+2	Attachements_sub	CheckBox_160	160	check		Line 160. Is the corporation an associated Canadian-controlled private corporation? Yes. Attach Schedule 23.
+2	Attachements_sub	CheckBox_161	161	check		Line 161. Is the corporation an associated Canadian-controlled private corporation, not electing under subsection 127(10.32), that is claiming the expenditure limit? Yes. Attach Schedule 49.
+2	Attachements_sub	CheckBox_151	151	check		Line 151. Does the corporation have any non-resident shareholders who own voting shares? Yes. Attach Schedule 19.
+2	Attachements_sub	CheckBox_162	162	check		Line 162. Has the corporation had any transactions, including section 85 transfers, with its shareholders, officers, or employees, other than transactions in the ordinary course of business? Exclude non-arm's length transactions with non-residents. Yes. Attach Schedule 11.
+2	Attachements_sub	CheckBox_163	163	check		Line 163. If you answered yes to the above question, and the transaction was between corporations not dealing at arm's length, were all or substantially all of the assets of the transferor disposed of to the transferee? Yes. Attach Schedule 44.
+2	Attachements_sub	CheckBox_164	164	check		Line 164. Has the corporation paid any royalties, management fees, or other similar payments to residents of Canada? Yes. Attach Schedule 14.
+2	Attachements_sub	CheckBox_165	165	check		Line 165. Is the corporation claiming a deduction for payments to a type of employee benefit plan? Yes. Attach Schedule 15.
+2	Attachements_sub	CheckBox_166	166	check		Line 166. Is the corporation claiming a loss or deduction from a tax shelter? Yes. Attach Form T5004.
+2	Attachements_sub	CheckBox_167	167	check		Line 167. Is the corporation a member of a partnership for which a partnership account number has been assigned? Yes. Attach Form T5013.
+2	Attachements_sub	CheckBox_168	168	check		Line 168. Did the corporation, a foreign affiliate controlled by the corporation, or any other corporation or trust that did not deal at arm's length with the corporation have a beneficial interest in a non-resident discretionary trust? Without reference to section 94. Yes. Attach Schedule 22.
+2	Attachements_sub	CheckBox_169	169	check		Line 169. Did the corporation own any shares in one or more foreign affiliates in the tax year? Yes. Attach Schedule 25.
+2	Attachements_sub	CheckBox_170	170	check		Line 170. Has the corporation made any payments to non-residents of Canada under subsections 202(1) and/or 105(1) of the Income Tax Regulations? Yes. Attach Schedule 29.
+2	Attachements_sub	CheckBox_171	171	check		Line 171. Did the corporation have a total amount over CAN$1 million of reportable transactions with non-arm's length non-residents? Yes. Attach Form T106.
+2	Attachements_sub	CheckBox_173	173	check		Line 173. For private corporations. Does the corporation have any shareholders who own 10% or more of the corporation's common and/or preferred shares? Yes. Attach Schedule 50.
+2	Attachements_sub	CheckBox_172	172	check		Line 172. Has the corporation made payments to, or received amounts from, a retirement compensation plan arrangement during the year? Yes.
+2	Attachements_sub	CheckBox_180	180	check		Line 180. Does the corporation earn income from one or more Internet web pages or websites? Yes. Attach Schedule 88.
+2	Attachements_sub	CheckBox_201	201	check		Line 201. Is the net income/loss shown on the financial statements different from the net income/loss for income tax purposes? Yes. Attach Schedule 1.
+2	Attachements_sub	CheckBox_202	202	check		Line 202. Has the corporation made any charitable donations; gifts of cultural or ecological property; or gifts of medicine? Yes. Attach Schedule 2.
+2	Attachements_sub	CheckBox_203	203	check		Line 203. Has the corporation received any dividends or paid any taxable dividends for purposes of the dividend refund? Yes. Attach Schedule 3.
+2	Attachements_sub	CheckBox_204	204	check		Line 204. Is the corporation claiming any type of losses? Yes. Attach Schedule 4.
+2	Attachements_sub	CheckBox_205	205	check		Line 205. Is the corporation claiming a provincial or territorial tax credit or does it have a permanent establishment in more than one jurisdiction? Yes. Attach Schedule 5.
+2	Attachements_sub	CheckBox_206	206	check		Line 206. Has the corporation realized any capital gains or incurred any capital losses during the tax year? Yes. Attach Schedule 6.
+2	Attachements_sub	CheckBox_207	207	check		Line 207. i) Is the corporation a CCPC and reporting a) income or loss from property, other than dividends deductible on line 320 of the T2 return, b) income from a partnership, c) income from a foreign business, d) income from a personal services business, e) income referred to in clause 125(1)(a)(i)(C) or 125(1)(a)(i)(B), f) aggregate investment income as defined in subsection 129(4), or g) an amount assigned to it under subsection 125(3.2) or 125(8); or ii) Is the corporation a member of a partnership and assigning its specified partnership business limit to a designated member under subsection 125(8)? Yes. Attach Schedule 7.
+2	Attachements_sub	CheckBox_208	208	check		Line 208. Does the corporation have any property that is eligible for capital cost allowance? Yes. Attach Schedule 8.
+2	Attachements_sub	CheckBox_212	212	check		Line 212. Does the corporation have any resource-related deductions? Yes. Attach Schedule 12.
+2	Attachements_sub	CheckBox_213	213	check		Line 213. Is the corporation claiming deductible reserves? Yes. Attach Schedule 13.
+2	Attachements_sub	CheckBox_216	216	check		Line 216. Is the corporation claiming a patronage dividend deduction? Yes. Attach Schedule 16.
+2	Attachements_sub	CheckBox_217	217	check		Line 217. Is the corporation a credit union claiming a deduction for allocations in proportion to borrowing or a provincial credit union tax reduction? Yes. Attach Schedule 17.
+2	Attachements_sub	CheckBox_218	218	check		Line 218. Is the corporation an investment corporation or a mutual fund corporation? Yes. Attach Schedule 18.
+2	Attachements_sub	CheckBox_220	220	check		Line 220. Is the corporation carrying on business in Canada as a non-resident corporation? Yes. Attach Schedule 20.
+2	Attachements_sub	CheckBox_221	221	check		Line 221. Is the corporation claiming any federal, provincial, or territorial foreign tax credits, or any federal logging tax credits? Yes. Attach Schedule 21.
+2	Attachements_sub	CheckBox_227	227	check		Line 227. Does the corporation have any Canadian manufacturing and processing profits or zero-emission technology manufacturing profits? Yes. Attach Schedule 27.
+2	Attachements_sub	CheckBox_231	231	check		Line 231. Is the corporation claiming an investment tax credit? Yes. Attach Schedule 31.
+2	Attachements_sub	CheckBox_232	232	check		Line 232. Is the corporation claiming any scientific research and experimental development expenditures? Yes. Attach Form T661.
+2	Attachements_sub	CheckBox_233	233	check		Line 233. Is the total taxable capital employed in Canada of the corporation and its related corporations over $10,000,000? Yes. Attach schedule 33, 34, or 35.
+2	Attachements_sub	CheckBox_234	234	check		Line 234. Is the total taxable capital employed in Canada of the corporation and its associated corporations over $10,000,000? Yes.
+2	Attachements_sub	CheckBox_238	238	check		Line 238. Is the corporation subject to gross Part 6 tax on capital of financial institutions? Yes. Attach Schedule 38.
+2	Attachements_sub	CheckBox_242	242	check		Line 242. Is the corporation claiming a Part 1 tax credit? Yes. Attach Schedule 42.
+2	Attachements_sub	CheckBox_243	243	check		Line 243. Is the corporation subject to Part 4.1 tax on dividends received on taxable preferred shares or Part 6.1 tax on dividends paid? Yes. Attach Schedule 43.
+2	Attachements_sub	CheckBox_244	244	check		Line 244. Is the corporation agreeing to a transfer of the liability for Part 6.1 tax? Yes. Attach Schedule 45.
+2	Attachements_sub	CheckBox_250	250	check		Line 250. For financial institutions. Is the corporation a member of a related group of financial institutions with one or more members subject to gross Part 6 tax? Yes. Attach Schedule 39.
+2	Attachements_sub	CheckBox_253	253	check		Line 253. Is the corporation claiming a Canadian film or video production tax credit? Yes. Attach Form T1131.
+2	Attachements_sub	CheckBox_254	254	check		Line 254. Is the corporation claiming a film or video production services tax credit? Yes. Attach Form T1177.
+2	Attachements_sub	CheckBox_272	272	check		Line 272. Is the corporation claiming a Canadian journalism labour tax credit? Yes. Attach Schedule 58.
+2	Attachements_sub	CheckBox_255	255	check		Line 255. Is the corporation subject to Part 13.1 tax? Show your calculations on a sheet that you identify as Schedule 92. Yes. Attach Schedule 92.
+3	Attachements_cont_sub	CheckBox_271	271	check		Line 271. Did the corporation have any foreign affiliates in the tax year? Yes. Attach Form T1134.
+3	Attachements_cont_sub	CheckBox_259	259	check		Line 259. If the corporation is a resident of Canada, did the corporation own or hold specified foreign property where the total cost amount of all such property, at any time in the year, was more than CAN$100,000? Yes. Attach Form T1135.
+3	Attachements_cont_sub	CheckBox_260	260	check		Line 260. Did the corporation transfer or loan property to a non-resident trust? Yes. Attach Form T1141.
+3	Attachements_cont_sub	CheckBox_261	261	check		Line 261. Did the corporation receive a distribution from or was it indebted to a non-resident trust in the year? Yes. Attach Form T1142.
+3	Attachements_cont_sub	CheckBox_262	262	check		Line 262. Has the corporation entered into an agreement to allocate assistance for scientific research and experimental development carried out in Canada? Yes. Attach Form T1145.
+3	Attachements_cont_sub	CheckBox_263	263	check		Line 263. Has the corporation entered into an agreement to transfer qualified expenditures incurred in respect of scientific research and experimental development contracts? Yes. Attach Form T1146.
+3	Attachements_cont_sub	CheckBox_264	264	check		Line 264. Has the corporation entered into an agreement with other associated corporations for salary or wages of specified employees for scientific research and experimental development? Yes. Attach Form T1174.
+3	Attachements_cont_sub	CheckBox_265	265	check		Line 265. Did the corporation pay taxable dividends, other than capital gains dividends, in the tax year? Yes. Attach Schedule 55.
+3	Attachements_cont_sub	CheckBox_266	266	check		Line 266. Has the corporation made an election under subsection 89(11) not to be a Canadian-controlled private corporation? Yes. Attach Form T2002.
+3	Attachements_cont_sub	CheckBox_267	267	check		Line 267. Has the corporation revoked any previous election made under subsection 89(11)? Yes. Attach Form T2002.
+3	Attachements_cont_sub	CheckBox_268	268	check		Line 268. Did the corporation, Canadian-controlled private corporation or deposit insurance corporation, pay eligible dividends, or did its general rate income pool change in the tax year? Yes. Attach Schedule 53.
+3	Attachements_cont_sub	CheckBox_269	269	check		Line 269. Did the corporation, other than a Canadian-controlled private corporation or deposit insurance corporation, pay eligible dividends, or did its low rate income pool change in the tax year? Yes. Attach Schedule 54.
+3	Attachements_cont_sub	CheckBox_274	274	check		Line 274. Are you an employer reporting a non-qualified security agreement under subsection 110(1.9)? Yes. Attach Schedule 59.
+3	Attachements_cont_sub	CheckBox_276	276	check		Line 276. Is the corporation subject to the additional 1.5% tax on banks and life insurers? Yes. Attach Schedule 68.
+3	Attachements_cont_sub	CheckBox_277	277	check		Line 277. Is the corporation a covered entity that redeemed, acquired or cancelled equity of the corporation in the tax year? Yes. Attach Schedule 56.
+3	Attachements_cont_sub	CheckBox_278	278	check		Line 278. Is the corporation subject to the excessive interest and financing expenses limitation, EIFEL, rules contained primarily in sections 18.2 and 18.21? If the corporation is exempt from filing Schedule 130 because it meets the conditions listed on canada.ca/cra-eifel, do not check box 278. Yes. Attach Schedule 130.
+3	Attachements_cont_sub	CheckBox_279	279	check		Line 279. Is the corporation an associated CCPC electing to calculate its expenditure limit under subsection 127(10.32), or an eligible Canadian public corporation that is, at any time in the year, part of a consolidated group according to subsection 127(10.62)? Yes. Attach Schedule 52.
+3	Additionnal_info_sub/RadioButtonGroup_270	Option1	270	check		Line 270. Did the corporation use the International Financial Reporting Standards when it prepared its financial statements? Yes.
+3	Additionnal_info_sub/RadioButtonGroup_270	Option2	270	check		Line 270. Did the corporation use the International Financial Reporting Standards when it prepared its financial statements? No.
+3	Additionnal_info_sub/RadioButtonGroup_280	Option1	280	check		Line 280. Is the corporation inactive? Yes.
+3	Additionnal_info_sub/RadioButtonGroup_280	Option2	280	check		Line 280. Is the corporation inactive? No.
+3	Additionnal_info_sub/RadioButtonGroup_290	Option1	290	check		Line 290. Did the corporation meet the definition of substantive Canadian-controlled private corporation under subsection 248(1) at any time during the tax year? Yes.
+3	Additionnal_info_sub/RadioButtonGroup_290	Option2	290	check		Line 290. Did the corporation meet the definition of substantive Canadian-controlled private corporation under subsection 248(1) at any time during the tax year? No.
+3	Additionnal_info_sub	Field_284	284	text		Line 284. Specify the principal product mined, manufactured, sold, constructed, or service provided. First in importance.
+3	Additionnal_info_sub/Percentage_285	Numeric_Percent_Underlined1	285	numeric		Line 285. Enter the approximate percentage of the total revenue that line 284 product or service represents.
+3	Additionnal_info_sub	Field_286	286	text		Line 286. Specify the principal product mined, manufactured, sold, constructed, or service provided. Second in importance.
+3	Additionnal_info_sub/Percentage_287	Numeric_Percent_Underlined2	287	numeric		Line 287. Enter the approximate percentage of the total revenue that line 286 product or service represents.
+3	Additionnal_info_sub	Field_288	288	text		Line 288. Specify the principal product mined, manufactured, sold, constructed, or service provided. Third in importance.
+3	Additionnal_info_sub/Percentage_289	Numeric_Percent_Underlined3	289	numeric		Line 289. Enter the approximate percentage of the total revenue that line 288 product or service represents.
+3	Additionnal_info_sub/RadioButtonGroup_291	Option1	291	check		Line 291. Did the corporation immigrate to Canada during the tax year? Yes.
+3	Additionnal_info_sub/RadioButtonGroup_291	Option2	291	check		Line 291. Did the corporation immigrate to Canada during the tax year? No.
+3	Additionnal_info_sub/RadioButtonGroup_292	Option1	292	check		Line 292. Did the corporation emigrate from Canada during the tax year? Yes.
+3	Additionnal_info_sub/RadioButtonGroup_292	Option2	292	check		Line 292. Did the corporation emigrate from Canada during the tax year? No.
+3	Additionnal_info_sub/RadioButtonGroup_293	Option1	293	check		Line 293. Do you want to be considered as a quarterly instalment remitter if you are eligible? Yes.
+3	Additionnal_info_sub/RadioButtonGroup_293	Option2	293	check		Line 293. Do you want to be considered as a quarterly instalment remitter if you are eligible? No.
+3	Additionnal_info_sub	DateYYYYMMDD_294	294	text		Line 294. If the corporation was eligible to remit instalments on a quarterly basis for part of the tax year, provide the date the corporation ceased to be eligible. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Additionnal_info_sub/RadioButtonGroup_295	Option1	295	check		Line 295. If the corporation's major business activity is construction, did you have any subcontractors during the tax year? Yes.
+3	Additionnal_info_sub/RadioButtonGroup_295	Option2	295	check		Line 295. If the corporation's major business activity is construction, did you have any subcontractors during the tax year? No.
+3	Tax_income_sub	Amount_300	300	numeric	12	Line 300. Amount A. Net income or loss for income tax purposes from Schedule 1, financial statements, or General Index of Financial Information.
+3	Tax_income_sub	Amount_311	311	numeric	12	Line 311. Charitable donations from Schedule 2.
+3	Tax_income_sub	Amount_312	313	numeric	12	Line 313. Cultural gifts from Schedule 2.
+3	Tax_income_sub	Amount_313	314	numeric	12	Line 314. Ecological gifts from Schedule 2.
+3	Tax_income_sub	Amount_320	320	numeric	12	Line 320. Taxable dividends deductible under section 112 or 113, or subsection 138(6) from Schedule 3.
+3	Tax_income_sub	Amount_325	325	numeric	12	Line 325. Part 6.1 tax deduction.
+3	Tax_income_sub	Amount_331	331	numeric	12	Line 331. Non-capital losses of previous tax years from Schedule 4.
+3	Tax_income_sub	Amount_332	332	numeric	12	Line 332. Net capital losses of previous tax years from Schedule 4.
+3	Tax_income_sub	Amount_333	333	numeric	12	Line 333. Restricted farm losses of previous tax years from Schedule 4.
+3	Tax_income_sub	Amount_334	334	numeric	12	Line 334. Farm losses of previous tax years from Schedule 4.
+3	Tax_income_sub	Amount_335	335	numeric	12	Line 335. Limited partnership losses of previous tax years from Schedule 4.
+3	Tax_income_sub	Amount_336	336	numeric	12	Line 336. Restricted interest and financing expenses from Schedule 4.
+3	Tax_income_sub	Amount_340	340	numeric	12	Line 340. Taxable capital gains or taxable dividends allocated from a central credit union.
+3	Tax_income_sub	Amount_350	350	numeric	12	Line 350. Prospector's and grubstaker's shares.
+3	Tax_income_sub	Amount_352	352	numeric	12	Line 352. Employer deduction for non-qualified securities.
+3	Tax_income_sub	Amount_B1		numeric	12	Amount B. Subtotal. Instance 1.
+3	Tax_income_sub	Amount_B2		numeric	12	Amount B. Subtotal. Instance 2.
+3	Tax_income_sub	Amount_C		numeric	12	Amount C. Subtotal. Amount A minus amount B. If negative, enter 0.
+3	Tax_income_sub	Amount_355	355	numeric	12	Line 355. Amount D. Section 110.5 additions or subparagraph 115(1)(a)(vii) additions.
+3	Tax_income_sub	Amount_360	360	numeric	12	Line 360. Taxable income. Amount C plus amount D.
+4	Small_bus_deduct_sub	Amount_400	400	numeric	12	Line 400. Amount A. Income eligible for the small business deduction from Schedule 7.
+4	Small_bus_deduct_sub	Amount_405	405	numeric	12	Line 405. Amount B. Taxable income from line 360 on page 3, minus one hundred twenty-eighths of the amount on line 632 on page 8, minus 4 times the amount on line 636 on page 8, and minus any amount that, because of federal law, is exempt from Part 1 tax.
+4	Small_bus_deduct_sub	Amount_410	410	numeric	12	Line 410. Amount C. Business limit see notes 1 and 2 below. Instance 1.
+4	Small_bus_deduct_sub	Amount_C2		numeric	12	Amount C. Amount from line 410. Instance 2.
+4	Small_bus_deduct_sub	Amount_D	415	numeric	12	Line 415. Amount D.
+4	Small_bus_deduct_sub	Amount_E		numeric	12	Amount E. Amount C multiplied by the result of amount D divided by 90,000.
+4	Small_bus_deduct_sub	Amount_417	417	numeric	12	Line 417. Adjusted aggregate investment income from Schedule 7.
+4	Small_bus_deduct_sub	Amount_F1		numeric	12	Amount F. Line 417 minus 50,000. Instance 1.
+4	Small_bus_deduct_sub	Amount_C3		numeric	12	Amount C. Amount from line 410. Instance 3.
+4	Small_bus_deduct_sub	Amount_F2		numeric	12	Amount F. Instance 2.
+4	Small_bus_deduct_sub	Amount_G		numeric	12	Amount G. Amount C divided by 100,000. The result is multiplied by amount F.
+4	Small_bus_deduct_sub	Amount_422	422	numeric	12	Line 422. Amount H. The greater of amount E and amount G.
+4	Small_bus_deduct_sub	Amount_426	426	numeric	12	Line 426. Amount I. Reduced business limit. Amount C minus amount H. If negative, enter 0.
+4	Small_bus_deduct_sub	Amount_J		numeric	12	Amount J. Business limit the CCPC assigns under subsection 125(3.2). From line 515 below.
+4	Small_bus_deduct_sub	Amount_428	428	numeric	12	Line 428. Amount K. Reduced business limit after assignment. Amount I minus amount J.
+4	Small_bus_deduct_sub	Amount_ABCK		numeric	12	Amount A, B, C, or K, whichever is the least.
+4	Small_bus_deduct_sub	Amount_430	430	numeric	12	Line 430. Small business deduction. Amount A, B, C, or K, whichever is the least. Multiplied by 19%. Enter amount from line 430 at amount L on page 8.
+5	Small_Bus_Ded_Suite/Table_pt2/Row1	Business_Number	490	text		Line 490. Column L. Business number of the corporation receiving the assigned amount. 9 digits, 2 letters, and 4 digits. Row 1.
+5	Small_Bus_Ded_Suite/Table_pt2/Row1	Assigned_Income	500	numeric	12	Line 500. Column M. Income paid under clause 125(1)(a)(i)(B) to the corporation identified in column L. Row 1
+5	Small_Bus_Ded_Suite/Table_pt2/Row1	Assigned_Limit	505	numeric	12	Line 505. Column N. Business limit assigned to corporation identified in column L. Row 1.
+5	Small_Bus_Ded_Suite/Table_pt2/Row2	Business_Number	490	text		Line 490. Column L. Business number of the corporation receiving the assigned amount. 9 digits, 2 letters, and 4 digits. Row 2.
+5	Small_Bus_Ded_Suite/Table_pt2/Row2	Assigned_Income	500	numeric	12	Line 500. Column M. Income paid under clause 125(1)(a)(i)(B) to the corporation identified in column L. Row 2.
+5	Small_Bus_Ded_Suite/Table_pt2/Row2	Assigned_Limit	505	numeric	12	Line 505. Column N. Business limit assigned to corporation identified in column L. Row 2.
+5	Small_Bus_Ded_Suite/Table_pt2/Row3	Business_Number	490	text		Line 490. Column L. Business number of the corporation receiving the assigned amount. 9 digits, 2 letters, and 4 digits. Row 3.
+5	Small_Bus_Ded_Suite/Table_pt2/Row3	Assigned_Income	500	numeric	12	Line 500. Column M. Income paid under clause 125(1)(a)(i)(B) to the corporation identified in column L. Row 3.
+5	Small_Bus_Ded_Suite/Table_pt2/Row3	Assigned_Limit	505	numeric	12	Line 505. Column N. Business limit assigned to corporation identified in column L. Row 3.
+5	Small_Bus_Ded_Suite/Table_pt2/Row4	Business_Number	490	text		Line 490. Column L. Business number of the corporation receiving the assigned amount. 9 digits, 2 letters, and 4 digits. Row 4.
+5	Small_Bus_Ded_Suite/Table_pt2/Row4	Assigned_Income	500	numeric	12	Line 500. Column M. Income paid under clause 125(1)(a)(i)(B) to the corporation identified in column L. Row 4.
+5	Small_Bus_Ded_Suite/Table_pt2/Row4	Assigned_Limit	505	numeric	12	Line 505. Column N. Business limit assigned to corporation identified in column L. Row 4.
+5	Small_Bus_Ded_Suite	Amount_510	510	numeric	12	Line 510. Total of column M.
+5	Small_Bus_Ded_Suite	Amount_515	515	numeric	12	Line 515. Total of column N.
+5	Gen_tax_red_sub	Amount_A		numeric	12	Amount A. Taxable income from line 360 on page 3.
+5	Gen_tax_red_sub	Amount_B		numeric	12	Amount B. Lesser of amounts 9B and 9H from Part 9 of Schedule 27.
+5	Gen_tax_red_sub	Amount_C		numeric	12	Amount C. Amount 13K from Part 13 of Schedule 27.
+5	Gen_tax_red_sub	Amount_432	432	numeric	12	Line 432. Amount D. Personal services business income.
+5	Gen_tax_red_sub	Amount_E		numeric	12	Amount E. Amount from line 400, 405, 410, or 428 on page 4, whichever is the least.
+5	Gen_tax_red_sub	Amount_F		numeric	12	Amount F. Aggregate investment income from line 440 on page 6.
+5	Gen_tax_red_sub	Amount_G1		numeric	12	Amount G. Subtotal. Add amounts B to F. Instance 1.
+5	Gen_tax_red_sub	Amount_G2		numeric	12	Amount G. Subtotal. Instance 2.
+5	Gen_tax_red_sub	Amount_H		numeric	12	Amount H. Amount A minus amount G. If negative, enter 0.
+5	Gen_tax_red_sub	Amount_I		numeric	12	Amount I. General tax reduction for Canadian-controlled private corporations. Amount H multiplied by 13%. Enter amount I on line 638 on page 8.
+5	Tax_Reduction_sub	Amount_J		numeric	12	Amount J. Taxable income from line 360 on page 3.
+5	Tax_Reduction_sub	Amount_K		numeric	12	Amount K. Lesser of amounts 9B and 9H from Part 9 of Schedule 27.
+5	Tax_Reduction_sub	Amount_L		numeric	12	Amount L. Amount 13K from Part 13 of Schedule 27.
+5	Tax_Reduction_sub	Amount_434	434	numeric	12	Line 434. Amount M. Personal services business income.
+5	Tax_Reduction_sub	Amount_N1		numeric	12	Amount N. Subtotal. Add amounts K to M. Instance 1.
+5	Tax_Reduction_sub	Amount_N2		numeric	12	Amount N. Subtotal. Instance 2.
+5	Tax_Reduction_sub	Amount_O		numeric	12	Amount O. Amount J minus amount N. If negative, enter 0.
+5	Tax_Reduction_sub	Amount_P		numeric	12	Amount P. General tax reduction. Amount O multiplied by 13%. Enter amount P on line 639 on page 8.
+6	Refundable_Portion_sub	Amount_440	440	numeric	12	Line 440. Aggregate investment income from Schedule 7.
+6	Refundable_Portion_sub	Amount_A		numeric	12	Amount A. Line 440 multiplied by 30 and two-thirds %.
+6	Refundable_Portion_sub	Amount_B		numeric	12	Amount B. Foreign non-business income tax credit from line 632 on page 8.
+6	Refundable_Portion_sub	Amount_445	445	numeric	12	Line 445. Foreign investment income from Schedule 7.
+6	Refundable_Portion_sub	Amount_C		numeric	12	Amount C. Line 445 multiplied by 8%.
+6	Refundable_Portion_sub	Amount_D1		numeric	12	Amount D. Subtotal. Amount B minus amount C. If negative enter 0. Instance 1.
+6	Refundable_Portion_sub	Amount_D2		numeric	12	Amount D. Subtotal. Instance 2.
+6	Refundable_Portion_sub	Amount_E		numeric	12	Amount E. Amount A minus amount D. If negative, enter 0.
+6	Refundable_Portion_sub	Amount_F		numeric	12	Amount F. Taxable income from line 360 on page 3.
+6	Refundable_Portion_sub	Amount_G		numeric	12	Amount G. Amount from line 400, 405, 410, or 428 on page 4, whichever is the least.
+6	Refundable_Portion_sub	Amount_632		numeric	12	Foreign non-business income tax credit from line 632 on page 8.
+6	Refundable_Portion_sub	Amount_H		numeric	12	Amount H. Foreign non-business income tax credit from line 632 on page 8, multiplied by 75, divided by 29.
+6	Refundable_Portion_sub	Amount_636		numeric	12	Foreign business income tax credit from line 636 on page 8.
+6	Refundable_Portion_sub	Amount_I		numeric	12	Amount I. Foreign business income tax credit from line 636 on page 8 multiplied by 4.
+6	Refundable_Portion_sub	Amount_J1		numeric	12	Amount J. Subtotal. Add amounts G to I. Instance 1.
+6	Refundable_Portion_sub	Amount_J2		numeric	12	Amount J. Subtotal. Instance 2.
+6	Refundable_Portion_sub	Amount_K		numeric	12	Amount K. Subtotal. Amount F minus amount J.
+6	Refundable_Portion_sub	Amount_L		numeric	12	Amount L. Amount K multiplied by 30 and two-thirds %.
+6	Refundable_Portion_sub	Amount_M		numeric	12	Amount M. Part 1 tax payable minus investment tax credit refund. Line 700 minus line 780 from page 9.
+6	Refundable_Portion_sub	Amount_450_N	450	numeric	12	Line 450. Amount N. Refundable portion of Part 1 tax. Amount E, L, or M, whichever is the least.
+7	RefundableDividend	Amount_520	520	numeric	12	Line 520. Amount A. Eligible refundable dividend tax on hand at the end of the previous tax year. Line 530 of the preceding tax year.
+7	RefundableDividend	Amount_535	535	numeric	12	Line 535. Amount B. Non-eligible refundable dividend tax on hand at the end of the previous tax year. Line 545 of the preceding tax year. If negative, enter 0.
+7	RefundableDividend	Amount_C		numeric	12	Amount C. Part 4 tax payable on taxable dividends from connected corporations. Amount 2G from Schedule 3.
+7	RefundableDividend	Amount_D		numeric	12	Amount D. Part 4 tax payable on eligible dividends from non-connected corporations. Amount 2J from Schedule 3.
+7	RefundableDividend	Amount_E1		numeric	12	Amount E. Subtotal. Amount C plus amount D. Instance 1.
+7	RefundableDividend	Amount_E2		numeric	12	Amount E. Subtotal. Instance 2.
+7	RefundableDividend	Amount_525	525	numeric	12	Line 525. Amount F. Net eligible refundable dividend tax on hand transferred on an amalgamation or the wind-up of a subsidiary.
+7	RefundableDividend	Amount_570	570	numeric	12	Line 570. Amount G. Eligible refundable dividend tax on hand dividend refund for the previous tax year.
+7	RefundableDividend	AmountH		numeric	12	Amount H. Refundable portion of Part 1 tax from line 450 on page 6.
+7	RefundableDividend	Amount_I		numeric	12	Amount I. Part 4 tax before deductions. Amount 2A from Schedule 3.
+7	RefundableDividend	Amount_J		numeric	12	Amount J. Part 4 tax allocated to eligible refundable dividend tax on hand. Amount E.
+7	RefundableDividend	Amount_K		numeric	12	Amount K. Part 4 tax reduction due to Part 4.1 tax payable. Amount 4D of Schedule 43.
+7	RefundableDividend	Amount_L1		numeric	12	Amount L. Subtotal. Amount I minus total of amounts J and K. Instance 1.
+7	RefundableDividend	Amount_L2		numeric	12	Amount L. Subtotal. Instance 2.
+7	RefundableDividend	Amount_540	540	numeric	12	Line 540. Amount M. Net non-eligible refundable dividend tax on hand transferred on an amalgamation or the wind-up of a subsidiary.
+7	RefundableDividend	Amount_575	575	numeric	12	Line 575. Amount N. Non-eligible refundable dividend tax on hand dividend refund for the previous tax year.
+7	RefundableDividend	Amount_O		numeric	12	Amount O. 38 and one-third % of the total losses applied against Part 4 tax. Amount 2D from Schedule 3.
+7	RefundableDividend	Amount_P		numeric	12	Amount P. Part 4 tax payable allocated to non-eligible refundable dividend tax on hand, net of losses claimed. Amount L minus amount O. If negative enter 0.
+7	RefundableDividend	Amount_545	545	numeric	12	Line 545. Non-eligible refundable dividend tax on hand at the end of the tax year. Total of amounts B, H, M, and P minus amount N. If negative, enter 0.
+7	RefundableDividend	Amount_Q		numeric	12	Amount Q. Part 4 tax payable allocated to eligible refundable dividend tax on hand, net of losses claimed. Amount E minus the amount, if any, by which amount O exceeds amount L. If negative, enter 0.
+7	RefundableDividend	Amount_530	530	numeric	12	Line 530. Eligible refundable dividend tax on hand at the end of the tax year. Total of amounts A, F, and Q minus amount G. If negative, enter 0.
+7	DividendRefund	Amount_AA		numeric	12	Amount AA. 38 and one-third % of total eligible dividends paid in the tax year. Amount 3A from Schedule 3.
+7	DividendRefund	Amount_BB		numeric	12	Amount BB. Eligible refundable dividend tax on hand balance at the end of the tax year. Line 530.
+7	DividendRefund	Amount_CC		numeric	12	Amount CC. Eligible dividend refund. Amount AA or BB, whichever is less.
+7	DividendRefund	Amount_DD		numeric	12	Amount DD. 38 and one-third % of total non-eligible taxable dividends paid in the tax year. Amount 3B from Schedule 3.
+7	DividendRefund	Amount_EE		numeric	12	Amount EE. Non-eligible refundable dividend tax on hand balance at the end of the tax year. Line 545.
+7	DividendRefund	Amount_FF		numeric	12	Amount FF. Non-eligible dividend refund. Amount DD or EE, whichever is less.
+7	DividendRefund	Amount_GG		numeric	12	Amount GG. Amount DD minus amount EE. If negative enter 0.
+7	DividendRefund	Amount_HH		numeric	12	Amount HH. Amount BB minus amount CC. If negative enter 0.
+7	DividendRefund	Amount_II		numeric	12	Amount II. Additional non-eligible dividend refund. Amount GG or HH, whichever is less.
+7	DividendRefund	Amount_JJ		numeric	12	Amount JJ. Dividend refund. Amount CC plus amount FF plus amount II. Enter amount JJ on line 784 on page 9.
+8	Part1_tax_sub	Amount_550	550	numeric	12	Line 550. Amount A. Base amount Part 1 tax. Taxable income from line 360 on page 3 multiplied by 38%.
+8	Part1_tax_sub	Amount_555	555	numeric	12	Line 555. Taxable income from a personal services business.
+8	Part1_tax_sub	Amount_560_B	560	numeric	12	Line 560. Amount B. Taxable income from a personal service business multiplied by 5%.
+8	Part1_tax_sub	Amount_565	565	numeric	12	Line 565. Amount C. Additional tax on banks and life insurers from Schedule 68.
+8	Part1_tax_sub	Amount_580	580	numeric	12	Line 580. Amount D. Total labour requirements addition to tax.
+8	Part1_tax_sub	Amount_602	602	numeric	12	Line 602. Amount E. Recapture of investment tax credit from Schedule 31.
+8	Part1_tax_sub	Amount_F		numeric	12	Amount F. Aggregate investment income from line 440 on page 6.
+8	Part1_tax_sub	Amount_G		numeric	12	Amount G. Taxable income from line 360 on page 3.
+8	Part1_tax_sub	Amount_H		numeric	12	Amount H. Amount from line 400, 405, 410, or 428 on page 4, whichever is the least.
+8	Part1_tax_sub	Amount_I		numeric	12	Amount I. Net amount. Amount G minus amount H. Instance 1.
+8	Part1_tax_sub	Amount_I2		numeric	12	Amount I. Net amount. Instance 2.
+8	Part1_tax_sub	Amount_604	604	numeric	12	Line 604. Amount J. Refundable tax on Canadian-controlled private corporation's or substantive Canadian-controlled private corporation's investment income. 10 and two-thirds % of whichever is less: amount F or amount I.
+8	Part1_tax_sub	Amount_K		numeric	12	Amount K. Subtotal. Add amounts A to E and J.
+8	Part1_tax_sub	Amount_L		numeric	12	Amount L. Small business deduction from line 430 on page 4.
+8	Part1_tax_sub	Amount_608	608	numeric	12	Line 608. Federal tax abatement.
+8	Part1_tax_sub	Amount_616	616	numeric	12	Line 616. Manufacturing and processing profits deduction and zero-emission technology manufacturing deduction from Schedule 27.
+8	Part1_tax_sub	Amount_620	620	numeric	12	Line 620. Investment corporation deduction.
+8	Part1_tax_sub	Amount_624	624	numeric	12	Line 624. Taxed capital gains.
+8	Part1_tax_sub	Amount_632	632	numeric	12	Line 632. Federal foreign non-business income tax credit from Schedule 21.
+8	Part1_tax_sub	Amount_636	636	numeric	12	Line 636. Federal foreign business income tax credit from Schedule 21.
+8	Part1_tax_sub	Amount_638	638	numeric	12	Line 638. General tax reduction for Canadian-controlled private corporations from amount I on page 5.
+8	Part1_tax_sub	Amount_639	639	numeric	12	Line 639. General tax reduction from amount P on page 5.
+8	Part1_tax_sub	Amount_640	640	numeric	12	Line 640. Federal logging tax credit from Schedule 21.
+8	Part1_tax_sub	Amount_641	641	numeric	12	Line 641. Eligible Canadian bank deduction under section 125.21.
+8	Part1_tax_sub	Amount_648	648	numeric	12	Line 648. Federal qualifying environmental trust tax credit.
+8	Part1_tax_sub	Amount_652	652	numeric	12	Line 652. Investment tax credit from Schedule 31.
+8	Part1_tax_sub	Amount_M1		numeric	12	Amount M. Subtotal. Instance 1.
+8	Part1_tax_sub	Amount_M2		numeric	12	Amount M. Subtotal. Instance 2.
+8	Part1_tax_sub	Amount_N		numeric	12	Amount N. Part 1 tax payable. Amount K minus amount M. Enter amount N on line 700 on page 9.
+9	Summary_sub	Amount_700	700	numeric	12	Line 700. Part 1 tax payable from amount N on page 8.
+9	Summary_sub	Amount_705	705	numeric	12	Line 705. Part 2.2 tax payable from schedule 56.
+9	Summary_sub	Amount_710	710	numeric	12	Line 710. Part 3.1 tax payable from Schedule 55.
+9	Summary_sub	Amount_712	712	numeric	12	Line 712. Part 4 tax payable from Schedule 3.
+9	Summary_sub	Amount_716	716	numeric	12	Line 716. Part 4.1 tax payable from Schedule 43.
+9	Summary_sub	Amount_720	720	numeric	12	Line 720. Part 6 tax payable from Schedule 38.
+9	Summary_sub	Amount_724	724	numeric	12	Line 724. Part 6.1 tax payable from Schedule 43.
+9	Summary_sub	Amount_725	725	numeric	12	Line 725. Part 6.2 tax payable from Schedule 67.
+9	Summary_sub	Amount_726	726	numeric	12	Line 726. Part 12.7 tax payable from Schedule 78.
+9	Summary_sub	Amount_727	727	numeric	12	Line 727. Part 13.1 tax payable from Schedule 92.
+9	Summary_sub	Amount_728	728	numeric	12	Line 728. Part 14 tax payable from Schedule 20.
+9	Summary_sub	Amount_Fed_tax		numeric	12	Total federal tax.
+9	Summary_sub	Field_750	750	text		Line 750. Provincial or territorial jurisdiction. If more than one jurisdiction, enter multiple and complete Schedule 5.
+9	Summary_sub	Amount_760	760	numeric	12	Line 760. Net provincial or territorial tax payable. Except Quebec and Alberta.
+9	Summary_sub	Amount_770	770	numeric	12	Line 770. Amount A. Total tax payable. Total federal tax plus line 760.
+9	Summary_sub	Amount_780	780	numeric	12	Line 780. Investment tax credit refund from Schedule 31.
+9	Summary_sub	Amount_784	784	numeric	12	Line 784. Dividend refund from amount JJ on page 7.
+9	Summary_sub	Amount_788	788	numeric	12	Line 788. Federal capital gains refund from Schedule 18.
+9	Summary_sub	Amount_792	792	numeric	12	Line 792. Federal qualifying environmental trust tax credit refund.
+9	Summary_sub	Amount_795	795	numeric	12	Line 795. Return of fuel charge proceeds to farmers tax credit from Schedule 63.
+9	Summary_sub	Amount_796	796	numeric	12	Line 796. Canadian film or video production tax credit. Form T1131.
+9	Summary_sub	Amount_797	797	numeric	12	Line 797. Film or video production services tax credit. Form T1177.
+9	Summary_sub	Amount_798	798	numeric	12	Line 798. Canadian journalism labour tax credit from Schedule 58.
+9	Summary_sub	Amount_800	800	numeric	12	Line 800. Tax withheld at source.
+9	Summary_sub	Amount_801	801	numeric	12	Line 801. Total payments on which tax has been withheld.
+9	Summary_sub	Amount_808	808	numeric	12	Line 808. Provincial and territorial capital gains refund from Schedule 18.
+9	Summary_sub	Amount_812	812	numeric	12	Line 812. Provincial and territorial refundable tax credits from Schedule 5.
+9	Summary_sub	Amount_840	840	numeric	12	Line 840. Tax instalments paid.
+9	Summary_sub	Amount_890	890	numeric	12	Line 890. Amount B. Total credits. Instance 1.
+9	Summary_sub	Amount_B	890	numeric	12	Line 890. Amount B. Total credits. Instance 2.
+9	Summary_sub	Amount_Balance		numeric	12	Balance. Amount A minus amount B. If the result is negative, you have a refund. If the result is positive, you have a balance owing.
+9	Summary_sub	Field_894	894	numeric	1	Line 894. Refund code.
+9	Summary_sub	Amount_Refund		numeric	12	Refund.
+9	Summary_sub	Amount_BO		numeric	12	Balance owing.
+9	Summary_sub/RadioButtonGroup_896	Option1	896	check		Line 896. If the corporation is a Canadian-controlled private corporation throughout the tax year, does it qualify for the one-month extension of the date the balance of tax is due? Yes.
+9	Summary_sub/RadioButtonGroup_896	Option2	896	check		Line 896. If the corporation is a Canadian-controlled private corporation throughout the tax year, does it qualify for the one-month extension of the date the balance of tax is due? No.
+9	Summary_sub	Field_920	920	text		Line 920. If this return was prepared by a tax preparer for a fee, provide their EFILE number.
+9	Summary_sub	Field_925	925	text		Line 925. If this return was prepared by a tax preparer for a fee, provide their RepID.
+9	Certification_sub	Field_950	950	text		Line 950. Last name.
+9	Certification_sub	Field_951	951	text		Line 951. First name.
+9	Certification_sub	Field_954	954	text		Line 954. Position, office, or rank.
+9	Certification_sub	Field_955	955	text		Line 955. Authorized signing officer signature date. Year 4 digits. Month 2 digits. Day 2 digits.
+9	Certification_sub	Field_956	956	text		Line 956. Authorized signing officer. Telephone number. 10 digits.
+9	Certification_sub/RadioButtonGroup_957	Option1	957	check		Line 957. Is the contact person the same as the authorized signing officer? Yes.
+9	Certification_sub/RadioButtonGroup_957	Option2	957	check		Line 957. Is the contact person the same as the authorized signing officer? No. Complete the information below.
+9	Certification_sub	Field_958	958	text		Line 958. Name of other authorized person.
+9	Certification_sub	Field_959	959	text		Line 959. Telephone number of other authorized person. 10 digits.
+9	Language_sub	Field_990	990	numeric	1	Line 990. Indicate your language of correspondence by entering 1 for English or 2 for French.

@@ -1,0 +1,34 @@
+page	part	field	line	kind	digits	speak
+1	P1_content/Ident	Corp_name		text		Corporation's name.
+1	P1_content/Ident/BN	BusinessNumber_RT1		text		First 9 digits of the Business number.
+1	P1_content/Ident/BN	BusinessNumber_RT		text		
+1	P1_content/Ident/BN	BusinessNumber_RT2		text		Last 4 digits of the Business number.
+1	P1_content/TY_start_end	FromDate		text		Tax year start. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_content/TY_start_end	ToDate		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_content/Amend/RadioButtonGroup	Yes		check		Is this an amended return? Yes.
+1	P1_content/Amend/RadioButtonGroup	No		check		Is this an amended return? No.
+1	P1_content/Email	Input_email		text		Email address.
+1	P2_content/Line_300	Input_300		numeric	12	Net income or loss for income tax purposes from Schedule 1, financial statements, or General Index of Financial Information (GIFI) from line 300.
+1	P2_content/Line_700	Input_700		numeric	12	Part I tax payable from line 700.
+1	P2_content/Line_705	Input_705		numeric	12	Part II.2 tax payable from line 705.
+1	P2_content/Line_710	Input_710		numeric	12	Part III.1 tax payable from line 710.
+1	P2_content/Line_712	Input_712		numeric	12	Part IV tax payable from line 712.
+1	P2_content/Line_716	Input_716		numeric	12	Part IV.1 tax payable from line 716.
+1	P2_content/Line_720	Input_720		numeric	12	Part VI tax payable from line 720.
+1	P2_content/Line_724	Input_724		numeric	12	Part VI.1 tax payable from line 724.
+1	P2_content/Line_728	Input_728		numeric	12	Part XIV tax payable from line 728.
+1	P2_content/Line_760	Input_760		numeric	12	Net provincial and territorial tax payable from line 760.
+1	P2_content/Line_770	Input_770		numeric	12	Total tax payable from line 770.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	P3_content	Last_name		text		Certification and authorization. Last name.
+2	P3_content	First_name		text		Certification and authorization. First name.
+2	P3_content	Pos_office		text		Certification and authorization. Position, office, or title.
+2	P3_content	Signature		text		Certification and authorization. Signature of an authorized signing officer of the corporation.
+2	P3_content	Telephone		text		Certification and authorization. Telephone number. 10 digits.
+2	P3_content/Date	DateYYYYMMDD_Comb		text		Certification and authorization. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+2	P3_content/Time	NumericField_Comb12_BordersAll_Field		numeric	6	Certification and authorization. Time. Hours 2 digits. Minutes 2 digits. Seconds 2 digits.
+2	P4_content	Person_firm		text		Transmitter identification. Name of person or firm.
+2	P4_content	efiler_number		text		Transmitter identification. Electronic filer number.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		

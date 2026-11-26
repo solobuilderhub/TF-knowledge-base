@@ -1,0 +1,385 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Nm		text		Corporation's name
+1		BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_Subform	inpt_1A		numeric	12	Amount 1A. Net income or loss for income tax purposes.
+1	Part1_Subform	inpt_1B		numeric	12	Amount 1B. Restricted interest and financing expenses deducted in the year under paragraph 111(1)(a.1). Enter as a positive amount.
+1	Part1_Subform	inpt_1C		numeric	12	Amount 1C. Net capital losses deducted in the year. Enter as a positive amount.
+1	Part1_Subform	inpt_1D		numeric	12	Amount 1D. Taxable dividends deductible under section 112 or subsections 113(1) or 138(6).
+1	Part1_Subform	inpt_1E		numeric	12	Amount 1E. Amount of Part VI.1 tax deductible under paragraph 110(1)(k).
+1	Part1_Subform	inpt_1G		numeric	12	Amount 1F. Amount deductible as prospector's and grubstaker's shares. Paragraph 110(1)(d.2).
+1	Part1_Subform	inpt_1H		numeric	12	Amount 1G. Employer deduction for non-qualified securities. Paragraph 110(1)(e).
+1	Part1_Subform	inpt_1G		numeric	12	Amount 1H. Subtotal. Total of amounts 1B to 1G. Instance 1.
+1	Part1_Subform	inpt2_1G		numeric	12	Amount 1H. Instance 2.
+1	Part1_Subform	inpt_1H		numeric	12	Amount 1I. Subtotal. Amount 1A minus amount 1H; if positive, enter 0.
+1	Part1_Subform	inpt_1I		numeric	12	Amount 1J. Section 110.5 or subparagraph 115(1)(a)(vii). Addition for foreign tax deductions.
+1	Part1_Subform	inpt_1J		numeric	12	Amount 1K. Subtotal. Amount 1I minus amount 1J.
+1	Part1_Subform	inpt_1K		numeric	12	Amount 1L. Current-year farm loss. The lesser of the net loss from farming or fishing included in income and the non-capital loss before deducting the farm loss.
+1	Part1_Subform	inpt_1L		numeric	12	Amount 1M. Current-year non-capital loss. Amount 1K plus amount 1L, if positive, enter 0. If amount 1M is negative, enter it on line 110 as a positive amount.
+1	Part1_Subform	inpt_1M		numeric	12	Amount 1N. Non-capital losses at the end of the previous tax year.
+1	Part1_Subform	inpt100	100	numeric	12	Line 100. Non-capital loss expired.
+1	Part1_Subform	inpt102	102	numeric	12	Line 102. Non-capital losses at the beginning of the tax year. Amount 1N minus line 100. Instance 1.
+1	Part1_Subform	inpt2_102	102	numeric	12	Line 102. Instance 2.
+1	Part1_Subform	inpt105	105	numeric	12	Line 105. Non-capital losses transferred on an amalgamation or on the wind-up of a subsidiary corporation.
+1	Part1_Subform	inpt110	110	numeric	12	Line 110. Current-year non-capital loss. From amount 1M.
+1	Part1_Subform	inpt_1O		numeric	12	Amount 1O. Subtotal. Line 105 plus line 110. Instance 1.
+1	Part1_Subform	inpt2_1o		numeric	12	Amount 1O. Instance 2.
+1	Part1_Subform	inpt_1P		numeric	12	Amount 1P. Subtotal. Line 102 plus amount 1O.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	P1_ctnd	omt150	150	numeric	12	Line 150. Other adjustments. Includes adjustments for an acquisition of control.
+2	P1_ctnd	inpt140	140	numeric	12	Line 140. Section 80. Adjustments for forgiven amounts.
+2	P1_ctnd	inpt130	130	numeric	12	Line 130. Non-capital losses of previous tax years applied in the current tax year. Enter the amount from line 130 on line 331 of the T2 return.
+2	P1_ctnd	inpt135	135	numeric	12	Line 135. Current and previous years non-capital losses applied against current-year taxable dividends subject to Part IV tax.
+2	P1_ctnd	inpt1_1Q		numeric	12	Amount 1Q. Subtotal. Total of lines 150, 140, 130 and 135. Instance 1.
+2	P1_ctnd	inpt2_1Q		numeric	12	Amount 1Q. Instance 2.
+2	P1_ctnd	inpt_1R		numeric	12	Amount 1R. Non-capital losses before any request for a carryback. Amount 1P minus amount 1Q.
+2	P1_ctnd	Line_901	901	numeric	12	Line 901. Request to carry back non-capital loss to the first previous tax year to reduce taxable income.
+2	P1_ctnd	inpt902	902	numeric	12	Line 902. Request to carry back non-capital loss to the second previous tax year to reduce taxable income.
+2	P1_ctnd	inpt903	903	numeric	12	Line 903. Request to carry back non-capital loss to the third previous tax year to reduce taxable income.
+2	P1_ctnd	inpt911	911	numeric	12	Line 911. Request to carry back non-capital loss to the first previous tax year to reduce taxable dividends subject to Part IV tax.
+2	P1_ctnd	inpt912	912	numeric	12	Line 912. Request to carry back non-capital loss to the second previous tax year to reduce taxable dividends subject to Part IV tax.
+2	P1_ctnd	inpt913	913	numeric	12	Line 913. Request to carry back non-capital loss to the third previous tax year to reduce taxable dividends subject to Part IV tax.
+2	P1_ctnd	inpt1_1S		numeric	12	Amount 1S. Total of requests to carry back non-capital losses to previous tax years. Total of lines 901 to 913. Instance 1.
+2	P1_ctnd	inpt2_1S		numeric	12	Amount 1S. Instance 2.
+2	P1_ctnd	inpt180	180	numeric	12	Line 180. Closing balance of non-capital losses to be carried forward to future tax years. Amount 1R minus amount 1S.
+2	P2	inpt200	200	numeric	12	Line 200. Capital losses at the end of the previous tax year.
+2	P2	inpt205	205	numeric	12	Line 205. Capital losses transferred on an amalgamation or on the wind-up of a subsidiary corporation.
+2	P2	inpt1_2A		numeric	12	Amount 2A. Subtotal. Line 200 plus line 205. Instance 1.
+2	P2	inpt2_2A		numeric	12	Amount 2A. Instance 2.
+2	P2	inpt250	250	numeric	12	Line 250. Other adjustments. Includes adjustments for an acquisition of control.
+2	P2	inpt240	240	numeric	12	Line 240. Section 80. Adjustments for forgiven amounts.
+2	P2	inpt2B		numeric	12	Amount 2B. Subtotal. Line 250 plus line 240. Instance 1.
+2	P2	inpt2_2B		numeric	12	Amount 2B. Instance 2.
+2	P2	Amount_2C		numeric	12	Amount 2C. Subtotal. Amount 2A minus amount 2B.
+2	P2	inpt_210	210	numeric	12	Line 210. Current-year capital loss, from the calculation on Schedule 6, Summary of Dispositions of Capital Property.
+2	P2	inp_2D		numeric	12	Amount 2D. Unused non-capital losses from the eleventh previous tax year.
+2	P2	inpt_2E		numeric	12	Amount 2E. Allowable business investment losses that expired as non-capital losses at the end of the previous tax year.
+2	P2	inpt_215	215	numeric	12	Line 215. Enter amount 2D or 2E, whichever is less.
+2	P2	inpt220	220	numeric	12	Line 220. Allowable business investment losses expired as non-capital losses, line 215 multiplied by 2.
+2	P2	inpt_2F		numeric	12	Amount 2F. Subtotal. Amount 2C plus line 210 plus line 220.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	P2	inpt_225	225	numeric	12	Line 225. Capital losses from previous tax years applied against the current-year net capital gain.
+3	P2	inpt_2G		numeric	12	Amount 2G. Capital losses before any request for a carryback. Amount 2F minus line 225.
+3	P2	inpt951	951	numeric	12	Line 951. Request to carry back capital loss to the first previous tax year.
+3	P2	inpt952	952	numeric	12	Line 952. Request to carry back capital loss to the second previous tax year.
+3	P2	inpt953	953	numeric	12	Line 953. Request to carry back capital loss to the third previous tax year.
+3	P2	inpt1_2H		numeric	12	Amount 2H. Subtotal. Total of lines 951 to 953. Instance 1.
+3	P2	inpt_2H		numeric	12	Amount 2H. Instance 2.
+3	P2	inpt280	280	numeric	12	Line 280. Closing balance of capital losses to be carried forward to future tax years. Amount 2G minus amount 2H.
+3	P3	inpt3A		numeric	12	Amount 3A. Farm losses at the end of the previous tax year.
+3	P3	inpt300	300	numeric	12	Line 300. Farm loss expired.
+3	P3	inpt1_302	302	numeric	12	Line 302. Farm losses at the beginning of the tax year. Amount 3A minus line 300. Instance 1.
+3	P3	inpt2_302	302	numeric	12	Line 302. Instance 2.
+3	P3	inpt305	305	numeric	12	Line 305. Farm losses transferred on an amalgamation or on the wind-up of a subsidiary corporation.
+3	P3	inpt310	310	numeric	12	Line 310. Current-year farm loss. Amount 1L in Part 1.
+3	P3	inpt1_3B		numeric	12	Amount 3B. Subtotal. Line 305 plus line 310. Instance 1.
+3	P3	inpt2_3B		numeric	12	Amount 3B. Instance 2.
+3	P3	inpt_3C		numeric	12	Amount 3C. Subtotal. Line 302 plus amount 3B.
+3	P3	inpt350	350	numeric	12	Line 350. Other adjustments. Includes adjustments for an acquisition of control.
+3	P3	inpt340	340	numeric	12	Line 340. Section 80. Adjustments for forgiven amounts.
+3	P3	inpt330	330	numeric	12	Line 330. Farm losses of previous tax years applied in the current tax year. Enter the amount from line 330 on line 334 of the T2 Return.
+3	P3	inpt335	335	numeric	12	Line 335. Current and previous years farm losses applied against current-year taxable dividends subject to Part IV tax.
+3	P3	inpt_3D		numeric	12	Amount 3D. Subtotal. Total of lines 350, 340, 330 and 335. Instance 1.
+3	P3	inpt2_3D		numeric	12	Amount 3D. Instance 2.
+3	P3	inpt_3E		numeric	12	Amount 3E. Farm losses before any request for a carryback. Amount 3C minus amount 3D.
+3	P3	inpt921	921	numeric	12	Line 921. Request to carry back farm loss to the first previous tax year to reduce taxable income.
+3	P3	inpt922	922	numeric	12	Line 922. Request to carry back farm loss to the second previous tax year to reduce taxable income.
+3	P3	inpt923	923	numeric	12	Line 923. Request to carry back farm loss to the third previous tax year to reduce taxable income.
+3	P3	inpt_931	931	numeric	12	Line 931. Request to carry back farm loss to the first previous tax year to reduce taxable dividends subject to Part IV tax.
+3	P3	inpt_932	932	numeric	12	Line 932. Request to carry back farm loss to the second previous tax year to reduce taxable dividends subject to Part IV tax.
+3	P3	inpt_933	933	numeric	12	Line 933. Request to carry back farm loss to the third previous tax year to reduce taxable dividends subject to Part IV tax.
+3	P3	inpt_3F		numeric	12	Amount 3F. Subtotal. Total of lines 921 to 933. Instance 1.
+3	P3	inpt_3F		numeric	12	Amount 3F. Instance 2.
+3	P3	inpt380	380	numeric	12	Line 380. Closing balance of farm losses to be carried forward to future tax years. Amount 3E minus amount 3F.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	Part4	inpt485	485	numeric	12	Line 485. Total losses for the year from farming business.
+4	Part4	inpt1_4A	485	numeric	12	Line 485.
+4	Part4	inpt2_4A		numeric	12	Amount 4A. The result of line 485 minus $2,500, divided by 2.
+4	Part4	inpt_4B		numeric	12	Amount 4B. Amount 4A or $15,000, whichever is less. Instance 1.
+4	Part4	inpt2_4B		numeric	12	Amount 4B. Instance 2.
+4	Part4	amnt_4C		numeric		Amount 4C.
+4	Part4	inpt1_4D		numeric	12	Amount 4D. Subtotal. Amount 4B plus amount 4C. Instance 1.
+4	Part4	inpt2_4D		numeric	12	Amount 4D. Instance 2.
+4	Part4	inpt_4E		numeric	12	Amount 4E. Current-year restricted farm loss. Line 485 minus amount 4D.
+4	Part4	inpt_4F		numeric	12	Amount 4F. Restricted farm losses at the end of the previous tax year.
+4	Part4	inpt400	400	numeric	12	Line 400. Restricted farm loss expired.
+4	Part4	inpt1_402	402	numeric	12	Line 402. Restricted farm losses at the beginning of the tax year. Amount 4F minus line 400. Instance 1.
+4	Part4	inpt2_402	402	numeric	12	Line 402. Instance 2.
+4	Part4	inpt405	405	numeric	12	Line 405. Restricted farm losses transferred on an amalgamation or on the wind-up of a subsidiary corporation.
+4	Part4	inpt410	410	numeric	12	Line 410. Current-year restricted farm loss, from amount 4E. Enter the amount from line 410 on line 233 of Schedule 1, Net Income ,Loss, for Income Tax Purposes.
+4	Part4	inpt1_4G		numeric	12	Amount 4G. Subtotal. Line 405 plus line 410. Instance 1.
+4	Part4	inpt_4G		numeric	12	Amount 4G. Instance 2.
+4	Part4	inpt_4H		numeric	12	Amount 4H. Subtotal. Line 402 plus amount 4G.
+4	Part4	inpt430	430	numeric	12	Line 430. Restricted farm losses from previous tax years applied against current farming income. Enter the amount from line 430 on line 333 of the T2 return.
+4	Part4	inpt440	440	numeric	12	Line 440. Section 80. Adjustments for forgiven amounts.
+4	Part4	inpt450	450	numeric	12	Line 450. Other adjustments.
+4	Part4	inpt1_4I		numeric	12	Amount 4I. Subtotal. Total of lines 430 to 450. Instance 1.
+4	Part4	inpt2_4I		numeric	12	Amount 4I. Instance 2.
+4	Part4	inpt4J		numeric	12	Amount 4J. Restricted farm losses before any request for a carryback. Amount 4H minus amount 4I.
+4	Part4	inpt941	941	numeric	12	Line 941. Request to carry back restricted farm loss to the first previous tax year to reduce farming income.
+4	Part4	inpt942	942	numeric	12	Line 942. Request to carry back restricted farm loss to the second previous tax year to reduce farming income.
+4	Part4	inpjt943	943	numeric	12	Line 943. Request to carry back restricted farm loss to the third previous tax year to reduce farming income.
+4	Part4	lbl1_4K		numeric	12	Amount 4K. Subtotal. Total of lines 941 to 943. Instance 1.
+4	Part4	inpt_4K		numeric	12	Amount 4K. Instance 2.
+4	Part4	inpt480	480	numeric	12	Line 480. Closing balance of restricted farm losses to be carried forward to future tax years. Amount 4J minus amount 4K.
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		
+5	Part5	înpt_5A		numeric	12	Amount 5A. Listed personal property losses at the end of the previous tax year.
+5	Part5	inpt500	500	numeric	12	Line 500. Listed personal property loss expired.
+5	Part5	inpt1_502	502	numeric	12	Line 502. Listed personal property losses at the beginning of the tax year. Amount 5A minus line 500. Instance 1.
+5	Part5	inpt2_502	502	numeric	12	Line 502. Instance 2.
+5	Part5	inpt510	510	numeric	12	Line 510. Current-year listed personal property loss, from Schedule 6.
+5	Part5	inpt_5B		numeric	12	Amount 5B. Subtotal. Line 502 plus line 510.
+5	Part5	inpt530	530	numeric	12	Line 530. Listed personal property losses from previous tax years applied against listed personal property gains. Enter the amount from line 530 on line 655 of Schedule 6.
+5	Part5	inpt550	550	numeric	12	Line 550. Other adjustments.
+5	Part5	inpt1_5C		numeric	12	Amount 5C. Subtotal. Line 530 plus line 550. Instance 1.
+5	Part5	inpt2_5C		numeric	12	Amount 5C. Instance 2.
+5	Part5	inpt_5D		numeric	12	Amount 5D. Listed personal property losses remaining before any request for a carryback. Amount 5B minus amount 5C.
+5	Part5	inpt961	961	numeric	12	Line 961. Request to carry back listed personal property loss to the first previous tax year to reduce listed personal property gains.
+5	Part5	inpt962	962	numeric	12	Line 962. Request to carry back listed personal property loss to the second previous tax year to reduce listed personal property gains.
+5	Part5	Line_963	963	numeric	12	Line 963. Request to carry back listed personal property loss to the third previous tax year to reduce listed personal property gains.
+5	Part5	inpt1_5E		numeric	12	Amount 5E. Subtotal. Total of lines 961 to 963. Instance 1.
+5	Part5	ìnpt2_5E		numeric	12	Amount 5E. Instance 2.
+5	Part5	inpt580	580	numeric	12	Line 580. Closing balance of listed personal property losses to be carried forward to future tax years. Amount 5D minus amount 5E.
+5	P6/Table/Row1	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 1.
+5	P6/Table/Row1	Cell2		numeric	12	Column 2. Non-capital losses. Row 1.
+5	P6/Table/Row1	Cell3		numeric	12	Column 3. Farm losses. Row 1.
+5	P6/Table/Row1	Cell4		numeric	12	Column 4. Restricted farm losses. Row 1.
+5	P6/Table/Row1	Cell5		numeric	12	Column 5. Listed personal property losses. Row 1.
+5	P6/Table/Row2	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 2.
+5	P6/Table/Row2	Cell2		numeric	12	Column 2. Non-capital losses. Row 2.
+5	P6/Table/Row2	Cell3		numeric	12	Column 3. Farm losses. Row 2.
+5	P6/Table/Row2	Cell4		numeric	12	Column 4. Restricted farm losses. Row 2.
+5	P6/Table/Row2	Cell5		numeric	12	Column 5. Listed personal property losses. Row 2.
+5	P6/Table/Row3	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 3.
+5	P6/Table/Row3	Cell2		numeric	12	Column 2. Non-capital losses. Row 3.
+5	P6/Table/Row3	Cell3		numeric	12	Column 3. Farm losses. Row 3.
+5	P6/Table/Row3	Cell4		numeric	12	Column 4. Restricted farm losses. Row 3.
+5	P6/Table/Row3	Cell5		numeric	12	Column 5. Listed personal property losses. Row 3.
+5	P6/Table/Row4	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 4.
+5	P6/Table/Row4	Cell2		numeric	12	Column 2. Non-capital losses. Row 4.
+5	P6/Table/Row4	Cell3		numeric	12	Column 3. Farm losses. Row 4.
+5	P6/Table/Row4	Cell4		numeric	12	Column 4. Restricted farm losses. Row 4.
+5	P6/Table/Row4	Cell5		numeric	12	Column 5. Listed personal property losses. Row 4.
+5	P6/Table/Row5	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 5.
+5	P6/Table/Row5	Cell2		numeric	12	Column 2. Non-capital losses. Row 5.
+5	P6/Table/Row5	Cell3		numeric	12	Column 3. Farm losses. Row 5.
+5	P6/Table/Row5	Cell4		numeric	12	Column 4. Restricted farm losses. Row 5.
+5	P6/Table/Row5	Cell5		numeric	12	Column 5. Listed personal property losses. Row 5.
+5	P6/Table/Row6	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 6.
+5	P6/Table/Row6	Cell2		numeric	12	Column 2. Non-capital losses. Row 6.
+5	P6/Table/Row6	Cell3		numeric	12	Column 3. Farm losses. Row 6.
+5	P6/Table/Row6	Cell4		numeric	12	Column 4. Restricted farm losses. Row 6.
+5	P6/Table/Row6	Cell5		numeric	12	Column 5. Listed personal property losses. Row 6.
+5	P6/Table/Row7	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 7.
+5	P6/Table/Row7	Cell2		numeric	12	Column 2. Non-capital losses. Row 7.
+5	P6/Table/Row7	Cell3		numeric	12	Column 3. Farm losses. Row 7.
+5	P6/Table/Row7	Cell4		numeric	12	Column 4. Restricted farm losses. Row 7.
+5	P6/Table/Row7	Cell5		numeric	12	Column 5. Listed personal property losses. Row 7.
+5	P6/Table/Row8	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 8.
+5	P6/Table/Row8	Cell2		numeric	12	Column 2. Non-capital losses. Row 8.
+5	P6/Table/Row8	Cell3		numeric	12	Column 3. Farm losses. Row 8.
+5	P6/Table/Row8	Cell4		numeric	12	Column 4. Restricted farm losses. Row 8.
+5	P6/Table/Row8	Cell5		numeric	12	Column 5. Listed personal property losses. Row 8.
+5	P6/Table/Row9	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 9.
+5	P6/Table/Row9	Cell2		numeric	12	Column 2. Non-capital losses. Row 9.
+5	P6/Table/Row9	Cell3		numeric	12	Column 3. Farm losses. Row 9.
+5	P6/Table/Row9	Cell4		numeric	12	Column 4. Restricted farm losses. Row 9.
+5	P6/Table/Row10	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 10.
+5	P6/Table/Row10	Cell2		numeric	12	Column 2. Non-capital losses. Row 10.
+5	P6/Table/Row10	Cell3		numeric	12	Column 3. Farm losses. Row 10.
+5	P6/Table/Row10	Cell4		numeric	12	Column 4. Restricted farm losses. Row 10.
+5	P6/Table/Row11	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 11.
+5	P6/Table/Row11	Cell2		numeric	12	Column 2. Non-capital losses. Row 11.
+5	P6/Table/Row11	Cell3		numeric	12	Column 3. Farm losses. Row 11.
+5	P6/Table/Row11	Cell4		numeric	12	Column 4. Restricted farm losses. Row 11.
+5	P6/Table/Row12	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 12.
+5	P6/Table/Row12	Cell2		numeric	12	Column 2. Non-capital losses. Row 12.
+5	P6/Table/Row12	Cell3		numeric	12	Column 3. Farm losses. Row 12.
+5	P6/Table/Row12	Cell4		numeric	12	Column 4. Restricted farm losses. Row 12.
+5	P6/Table/Row13	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 13.
+5	P6/Table/Row13	Cell2		numeric	12	Column 2. Non-capital losses. Row 13
+5	P6/Table/Row13	Cell3		numeric	12	Column 3. Farm losses. Row 13.
+5	P6/Table/Row13	Cell4		numeric	12	Column 4. Restricted farm losses. Row 13.
+5	P6/Table/Row14	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 14.
+5	P6/Table/Row14	Cell2		numeric	12	Column 2. Non-capital losses. Row 14.
+5	P6/Table/Row14	Cell3		numeric	12	Column 3. Farm losses. Row 14.
+5	P6/Table/Row14	Cell4		numeric	12	Column 4. Restricted farm losses. Row 14.
+5	P6/Table/Row15	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 15.
+5	P6/Table/Row15	Cell2		numeric	12	Column 2. Non-capital losses. Row 15.
+5	P6/Table/Row15	Cell3		numeric	12	Column 3. Farm losses. Row 15.
+5	P6/Table/Row15	Cell4		numeric	12	Column 4. Restricted farm losses. Row 15.
+5	P6/Table/Row16	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 16.
+5	P6/Table/Row16	Cell2		numeric	12	Column 2. Non-capital losses. Row 16.
+5	P6/Table/Row16	Cell3		numeric	12	Column 3. Farm losses. Row 16.
+5	P6/Table/Row16	Cell4		numeric	12	Column 4. Restricted farm losses. Row 16.
+5	P6/Table/Row17	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 17.
+5	P6/Table/Row17	Cell2		numeric	12	Column 2. Non-capital losses. Row 17.
+5	P6/Table/Row17	Cell3		numeric	12	Column 3. Farm losses. Row 17.
+5	P6/Table/Row17	Cell4		numeric	12	Column 4. Restricted farm losses. Row 17.
+5	P6/Table/Row18	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 18.
+5	P6/Table/Row18	Cell2		numeric	12	Column 2. Non-capital losses. Row 18.
+5	P6/Table/Row18	Cell3		numeric	12	Column 3. Farm losses. Row 18.
+5	P6/Table/Row18	Cell4		numeric	12	Column 4. Restricted farm losses. Row 18.
+5	P6/Table/Row19	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 19.
+5	P6/Table/Row19	Cell2		numeric	12	Column 2. Non-capital losses. Row 19.
+5	P6/Table/Row19	Cell3		numeric	12	Column 3. Farm losses. Row 19.
+5	P6/Table/Row19	Cell4		numeric	12	Column 4. Restricted farm losses. Row 19.
+5	P6/Table/Row20	Cell1		text	4	Column 1. Year of origin. 4 digits. Row 20.
+5	P6/Table/Row20	Cell2		numeric	12	Column 2. Non-capital losses. Row 20.
+5	P6/Table/Row20	Cell3		numeric	12	Column 3. Farm losses. Row 20.
+5	P6/Table/Row20	Cell4		numeric	12	Column 4. Restricted farm losses. Row 20.
+5	P6/Table/Row21	Cell2		numeric	12	Column 2. Non-capital losses. Total.
+5	P6/Table/Row21	Cell3		numeric	12	Column 3. Farm losses. Total.
+5	P6/Table/Row21	Cell4		numeric	12	Column 4. Restricted farm losses. Total.
+5	P6/Table/Row21	Cell5		numeric	12	Column 5. Listed personal property losses. Total.
+5	PageNumbers	CurrentPage		numeric		
+5	PageNumbers	PageCount		numeric		
+6	P7/Table/Row1/cell1	RZ1	600	text		Line 600. Column 1. First 9 digits of the partnership account number. Row 1.
+6	P7/Table/Row1/cell1	RZ		text		
+6	P7/Table/Row1/cell1	RZ2	600	text		Line 600. Column 1. Last 4 digits of the partnership account number. Row 1.
+6	P7/Table/Row1	cell2	602	text		Line 602. Column 2. Tax year ending. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+6	P7/Table/Row1	cell3	604	numeric	12	Line 604. Column 3. Corporation's share of limited partnership loss. Row 1.
+6	P7/Table/Row1	cell4	606	numeric	12	Line 606. Column 4. Corporation's at-risk amount. Row 1.
+6	P7/Table/Row1	cell5	608	numeric	12	Line 608. Column 5. Total of corporation's share of partnership investment tax credit, clean economy tax credit, farming losses, and resource expenses. Row 1.
+6	P7/Table/Row1	cell6		numeric	12	Column 6. Column 4 minus column 5. If negative, enter 0. Row 1.
+6	P7/Table/Row1	cell7	620	numeric	12	Line 620. Column 7. Current-year limited partnership losses. Column 3 minus column 6. Row 1.
+6	P7/Table/Row2/cell1	RZ1	600	text		Line 600. Column 1. First 9 digits of the partnership account number. Row 2.
+6	P7/Table/Row2/cell1	RZ		text		
+6	P7/Table/Row2/cell1	RZ2	600	text		Line 600. Column 1. Last 4 digits of the partnership account number. Row 2.
+6	P7/Table/Row2	cell2	602	text		Line 602. Column 2. Tax year ending. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+6	P7/Table/Row2	cell3	604	numeric	12	Line 604. Column 3. Corporation's share of limited partnership loss. Row 2.
+6	P7/Table/Row2	cell5	606	numeric	12	Line 606. Column 4. Corporation's at-risk amount. Row 2.
+6	P7/Table/Row2	cell6	608	numeric	12	Line 608. Column 5. Total of corporation's share of partnership investment tax credit, clean economy tax credit, farming losses, and resource expenses. Row 2.
+6	P7/Table/Row2	Cell7		numeric	12	Column 6. Column 4 minus column 5. If negative, enter 0. Row 2.
+6	P7/Table/Row2	Cell8	620	numeric	12	Line 620. Column 7. Current-year limited partnership losses. Column 3 minus column 6. Row 2.
+6	P7/Table/Row3/cell1	RZ1	600	text		Line 600. Column 1. First 9 digits of the partnership account number. Row 3.
+6	P7/Table/Row3/cell1	RZ		text		
+6	P7/Table/Row3/cell1	RZ2	600	text		Line 600. Column 1. Last 4 digits of the partnership account number. Row 3.
+6	P7/Table/Row3	cell2	602	text		Line 602. Column 2. Tax year ending. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+6	P7/Table/Row3	cell3	604	numeric	12	Line 604. Column 3. Corporation's share of limited partnership loss. Row 3.
+6	P7/Table/Row3	cell4	606	numeric	12	Line 606. Column 4. Corporation's at-risk amount. Row 3.
+6	P7/Table/Row3	cell5	608	numeric	12	Line 608. Column 5. Total of corporation's share of partnership investment tax credit, clean economy tax credit, farming losses, and resource expenses. Row 3.
+6	P7/Table/Row3	cell6		numeric	12	Column 6. Column 4 minus column 5. If negative, enter 0. Row 3.
+6	P7/Table/Row3	cell7	620	numeric	12	Line 620. Column 7. Current-year limited partnership losses. Column 3 minus column 6. Row 3.
+6	P7/Table/Row4/cell1	RZ1	600	text		Line 600. Column 1. First 9 digits of the partnership account number. Row 4.
+6	P7/Table/Row4/cell1	RZ		text		
+6	P7/Table/Row4/cell1	RZ2	600	text		Line 600. Column 1. Last 4 digits of the partnership account number. Row 4.
+6	P7/Table/Row4	cell2	602	text		Line 602. Column 2. Tax year ending. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+6	P7/Table/Row4	cell3	604	numeric	12	Line 604. Column 3. Corporation's share of limited partnership loss. Row 4.
+6	P7/Table/Row4	cell4	606	numeric	12	Line 606. Column 4. Corporation's at-risk amount. Row 4.
+6	P7/Table/Row4	cell5	608	numeric	12	Line 608. Column 5. Total of corporation's share of partnership investment tax credit, clean economy tax credit, farming losses, and resource expenses. Row 4.
+6	P7/Table/Row4	cell6		numeric	12	Column 6. Column 4 minus column 5. If negative, enter 0. Row 4.
+6	P7/Table/Row4	cell7	620	numeric	12	Line 620. Column 7. Current-year limited partnership losses. Column 3 minus column 6. Row 4.
+6	P7/Table/Row5/cell1	RZ1	600	text		Line 600. Column 1. First 9 digits of the partnership account number. Row 5.
+6	P7/Table/Row5/cell1	RZ		text		
+6	P7/Table/Row5/cell1	RZ2	600	text		Line 600. Column 1. Last 4 digits of the partnership account number. Row 5.
+6	P7/Table/Row5	cell2	602	text		Line 602. Column 2. Tax year ending. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+6	P7/Table/Row5	cell3	604	numeric	12	Line 604. Column 3. Corporation's share of limited partnership loss. Row 5.
+6	P7/Table/Row5	cell4	606	numeric	12	Line 606. Column 4. Corporation's at-risk amount. Row 5.
+6	P7/Table/Row5	cell5	608	numeric	12	Line 608. Column 5. Total of corporation's share of partnership investment tax credit, clean economy tax credit, farming losses, and resource expenses. Row 5.
+6	P7/Table/Row5	cell6		numeric	12	Column 6. Column 4 minus column 5. If negative, enter 0. Row 5.
+6	P7/Table/Row5	cell7	620	numeric	12	Line 620. Column 7. Current-year limited partnership losses. Column 3 minus column 6. Row 5.
+6	P7	inptTbl1		numeric	12	Column 7. Current-year limited partnership losses, column 3 minus column 6. Total. Enter this amount on line 222 of Schedule 1.
+6	P7/Table2/Row1/cell1/Account_Number_Comb_EN	RZ1	630	text		Line 630. Column 1. First 9 digits of the partnership account number. Row 1.
+6	P7/Table2/Row1/cell1/Account_Number_Comb_EN	RZ		text		
+6	P7/Table2/Row1/cell1/Account_Number_Comb_EN	RZ2	630	text		Line 630. Column 1. Last 4 digits of the partnership account number. Row 1.
+6	P7/Table2/Row1	cell2	632	text		Line 632. Column 2. Tax year ending. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+6	P7/Table2/Row1	cell3	634	numeric	12	Line 634. Column 3. Limited partnership losses at the end of the previous tax year and amounts transferred on an amalgamation or on the wind-up of a subsidiary. Row 1.
+6	P7/Table2/Row1	cell4	636	numeric	12	Line 636. Column 4. Corporation's at-risk amount. Row 1.
+6	P7/Table2/Row1	cell5	638	numeric	12	Line 638. Column 5. Total of corporation's share of partnership investment tax credit, clean economy tax credit, business or property losses, and resource expenses. Row 1.
+6	P7/Table2/Row1	cell6		numeric	12	Column 6. Column 4 minus column 5. If negative, enter 0. Row 1.
+6	P7/Table2/Row1	cell7	650	numeric	12	Line 650. Column 7. Limited partnership losses that may be applied in the year. The lesser of column 3 and 6. Row 1.
+6	P7/Table2/Row2/cell1/Account_Number_Comb_EN	RZ1	630	text		Line 630. Column 1. First 9 digits of the partnership account number. Row 2.
+6	P7/Table2/Row2/cell1/Account_Number_Comb_EN	RZ		text		
+6	P7/Table2/Row2/cell1/Account_Number_Comb_EN	RZ2	630	text		Line 630. Column 1. Last 4 digits of the partnership account number. Row 2.
+6	P7/Table2/Row2	cell2	632	text		Line 632. Column 2. Tax year ending. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+6	P7/Table2/Row2	cell3	634	numeric	12	Line 634. Column 3. Limited partnership losses at the end of the previous tax year and amounts transferred on an amalgamation or on the wind-up of a subsidiary. Row 2.
+6	P7/Table2/Row2	cell4	636	numeric	12	Line 636. Column 4. Corporation's at-risk amount. Row 2.
+6	P7/Table2/Row2	cell5	638	numeric	12	Line 638. Column 5. Total of corporation's share of partnership investment tax credit, clean economy tax credit, business or property losses, and resource expenses. Row 2.
+6	P7/Table2/Row2	cell6		numeric	12	Column 6. Column 4 minus column 5. If negative, enter 0. Row 2.
+6	P7/Table2/Row2	cell7	650	numeric	12	Line 650. Column 7. Limited partnership losses that may be applied in the year. The lesser of column 3 and 6. Row 2.
+6	P7/Table2/Row3/cell1/Account_Number_Comb_EN	RZ1	630	text		Line 630. Column 1. First 9 digits of the partnership account number. Row 3.
+6	P7/Table2/Row3/cell1/Account_Number_Comb_EN	RZ		text		
+6	P7/Table2/Row3/cell1/Account_Number_Comb_EN	RZ2	630	text		Line 630. Column 1. Last 4 digits of the partnership account number. Row 3.
+6	P7/Table2/Row3	cell2	632	text		Line 632. Column 2. Tax year ending. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+6	P7/Table2/Row3	cell3	634	numeric	12	Line 634. Column 3. Limited partnership losses at the end of the previous tax year and amounts transferred on an amalgamation or on the wind-up of a subsidiary. Row 3.
+6	P7/Table2/Row3	cell4	636	numeric	12	Line 636. Column 4. Corporation's at-risk amount. Row 3.
+6	P7/Table2/Row3	cell5	638	numeric	12	Line 638. Column 5. Total of corporation's share of partnership investment tax credit, clean economy tax credit, business or property losses, and resource expenses. Row 3.
+6	P7/Table2/Row3	cell6		numeric	12	Column 6. Column 4 minus column 5. If negative, enter 0. Row 3.
+6	P7/Table2/Row3	cell7	650	numeric	12	Line 650. Column 7. Limited partnership losses that may be applied in the year. The lesser of column 3 and 6. Row 3.
+6	P7/Table2/Row4/cell1/Account_Number_Comb_EN	RZ1	630	text		Line 630. Column 1. First 9 digits of the partnership account number. Row 4.
+6	P7/Table2/Row4/cell1/Account_Number_Comb_EN	RZ		text		
+6	P7/Table2/Row4/cell1/Account_Number_Comb_EN	RZ2	630	text		Line 630. Column 1. Last 4 digits of the partnership account number. Row 4.
+6	P7/Table2/Row4	cell2	632	text		Line 632. Column 2. Tax year ending. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+6	P7/Table2/Row4	cell3	634	numeric	12	Line 634. Column 3. Limited partnership losses at the end of the previous tax year and amounts transferred on an amalgamation or on the wind-up of a subsidiary. Row 4.
+6	P7/Table2/Row4	cell4	636	numeric	12	Line 636. Column 4. Corporation's at-risk amount. Row 4.
+6	P7/Table2/Row4	cell5	638	numeric	12	Line 638. Column 5. Total of corporation's share of partnership investment tax credit, clean economy tax credit, business or property losses, and resource expenses. Row 4.
+6	P7/Table2/Row4	cell6		numeric	12	Column 6. Column 4 minus column 5. If negative, enter 0. Row 4.
+6	P7/Table2/Row4	cell7	650	numeric	12	Line 650. Column 7. Limited partnership losses that may be applied in the year. The lesser of column 3 and 6. Row 4.
+6	P7/Table2/Row5/cell1/Account_Number_Comb_EN	RZ1	630	text		Line 630. Column 1. First 9 digits of the partnership account number. Row 5.
+6	P7/Table2/Row5/cell1/Account_Number_Comb_EN	RZ		text		
+6	P7/Table2/Row5/cell1/Account_Number_Comb_EN	RZ2	630	text		Line 630. Column 1. Last 4 digits of the partnership account number. Row 5.
+6	P7/Table2/Row5	cell2	632	text		Line 632. Column 2. Tax year ending. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+6	P7/Table2/Row5	cell3	634	numeric	12	Line 634. Column 3. Limited partnership losses at the end of the previous tax year and amounts transferred on an amalgamation or on the wind-up of a subsidiary. Row 5.
+6	P7/Table2/Row5	cell4	636	numeric	12	Line 636. Column 4. Corporation's at-risk amount. Row 5.
+6	P7/Table2/Row5	cell5	638	numeric	12	Line 638. Column 5. Total of corporation's share of partnership investment tax credit, clean economy tax credit, business or property losses, and resource expenses. Row 5.
+6	P7/Table2/Row5	cell6		numeric	12	Column 6. Column 4 minus column 5. If negative, enter 0. Row 5.
+6	P7/Table2/Row5	cell7	650	numeric	12	Line 650. Column 7. Limited partnership losses that may be applied in the year. The lesser of column 3 and 6. Row 5.
+6	P7/Table3/Row1/cell1/Account_Number_Comb_EN	RZ1	660	text		Line 660. Column 1. First 9 digits of the partnership account number. Row 1.
+6	P7/Table3/Row1/cell1/Account_Number_Comb_EN	RZ		text		
+6	P7/Table3/Row1/cell1/Account_Number_Comb_EN	RZ2	660	text		Line 660. Column 1. Last 4 digits of the partnership account number. Row 1.
+6	P7/Table3/Row1	cell2	662	numeric	12	Line 662. Column 2. Limited partnership losses at the end of the previous tax year. Row 1.
+6	P7/Table3/Row1	cell3	664	numeric	12	Line 664. Column 3. Limited partnership losses transferred in the year on an amalgamation or on the wind-up of a subsidiary. Row 1.
+6	P7/Table3/Row1	cell4	670	numeric	12	Line 670. Column 4. Current-year limited partnership losses. From line 620. Row 1.
+6	P7/Table3/Row1	cell5	675	numeric	12	Line 675. Column 5. Limited partnership losses applied in the current year. Must be equal to or less than line 650. Row 1.
+6	P7/Table3/Row1	cell6	680	numeric	12	Line 680. Column 6. Current year limited partnership losses closing balance to be carried forward to future years. Column 2 plus column 3 plus column 4 minus column 5. Row 1.
+6	P7/Table3/Row2/cell1/Account_Number_Comb_EN	RZ1	660	text		Line 660. Column 1. First 9 digits of the partnership account number. Row 2.
+6	P7/Table3/Row2/cell1/Account_Number_Comb_EN	RZ		text		
+6	P7/Table3/Row2/cell1/Account_Number_Comb_EN	RZ2	660	text		Line 660. Column 1. Last 4 digits of the partnership account number. Row 2.
+6	P7/Table3/Row2	cell2	662	numeric	12	Line 662. Column 2. Limited partnership losses at the end of the previous tax year. Row 2.
+6	P7/Table3/Row2	cell3	664	numeric	12	Line 664. Column 3. Limited partnership losses transferred in the year on an amalgamation or on the wind-up of a subsidiary. Row 2.
+6	P7/Table3/Row2	cell4	670	numeric	12	Line 670. Column 4. Current-year limited partnership losses. From line 620. Row 2.
+6	P7/Table3/Row2	cell5	675	numeric	12	Line 675. Column 5. Limited partnership losses applied in the current year. Must be equal to or less than line 650. Row 2.
+6	P7/Table3/Row2	cell6	680	numeric	12	Line 680. Column 6. Current year limited partnership losses closing balance to be carried forward to future years. Column 2 plus column 3 plus column 4 minus column 5. Row 2.
+6	P7/Table3/Row3/cell1/Account_Number_Comb_EN	RZ1	660	text		Line 660. Column 1. First 9 digits of the partnership account number. Row 3.
+6	P7/Table3/Row3/cell1/Account_Number_Comb_EN	RZ		text		
+6	P7/Table3/Row3/cell1/Account_Number_Comb_EN	RZ2	660	text		Line 660. Column 1. Last 4 digits of the partnership account number. Row 3.
+6	P7/Table3/Row3	cell2	662	numeric	12	Line 662. Column 2. Limited partnership losses at the end of the previous tax year. Row 3.
+6	P7/Table3/Row3	cell3	664	numeric	12	Line 664. Column 3. Limited partnership losses transferred in the year on an amalgamation or on the wind-up of a subsidiary. Row 3.
+6	P7/Table3/Row3	cell4	670	numeric	12	Line 670. Column 4. Current-year limited partnership losses. From line 620. Row 3.
+6	P7/Table3/Row3	cell5	675	numeric	12	Line 675. Column 5. Limited partnership losses applied in the current year. Must be equal to or less than line 650. Row 3.
+6	P7/Table3/Row3	cell6	680	numeric	12	Line 680. Column 6. Current year limited partnership losses closing balance to be carried forward to future years. Column 2 plus column 3 plus column 4 minus column 5. Row 3.
+6	P7/Table3/Row4/cell1/Account_Number_Comb_EN	RZ1	660	text		Line 660. Column 1. First 9 digits of the partnership account number. Row 4.
+6	P7/Table3/Row4/cell1/Account_Number_Comb_EN	RZ		text		
+6	P7/Table3/Row4/cell1/Account_Number_Comb_EN	RZ2	660	text		Line 660. Column 1. Last 4 digits of the partnership account number. Row 4.
+6	P7/Table3/Row4	cell2	662	numeric	12	Line 662. Column 2. Limited partnership losses at the end of the previous tax year. Row 4.
+6	P7/Table3/Row4	cell3	664	numeric	12	Line 664. Column 3. Limited partnership losses transferred in the year on an amalgamation or on the wind-up of a subsidiary. Row 4.
+6	P7/Table3/Row4	cell4	670	numeric	12	Line 670. Column 4. Current-year limited partnership losses. From line 620. Row 4.
+6	P7/Table3/Row4	cell5	675	numeric	12	Line 675. Column 5. Limited partnership losses applied in the current year. Must be equal to or less than line 650. Row 4.
+6	P7/Table3/Row4	cell6	680	numeric	12	Line 680. Column 6. Current year limited partnership losses closing balance to be carried forward to future years. Column 2 plus column 3 plus column 4 minus column 5. Row 4.
+6	P7/Table3/Row5/cell1/Account_Number_Comb_EN	RZ1	660	text		Line 660. Column 1. First 9 digits of the partnership account number. Row 5.
+6	P7/Table3/Row5/cell1/Account_Number_Comb_EN	RZ		text		
+6	P7/Table3/Row5/cell1/Account_Number_Comb_EN	RZ2	660	text		Line 660. Column 1. Last 4 digits of the partnership account number. Row 5.
+6	P7/Table3/Row5	cell2	662	numeric	12	Line 662. Column 2. Limited partnership losses at the end of the previous tax year. Row 5.
+6	P7/Table3/Row5	cell3	664	numeric	12	Line 664. Column 3. Limited partnership losses transferred in the year on an amalgamation or on the wind-up of a subsidiary. Row 5.
+6	P7/Table3/Row5	cell4	670	numeric	12	Line 670. Column 4. Current-year limited partnership losses. From line 620. Row 5.
+6	P7/Table3/Row5	cell5	675	numeric	12	Line 675. Column 5. Limited partnership losses applied in the current year. Must be equal to or less than line 650. Row 5.
+6	P7/Table3/Row5	cell6	680	numeric	12	Line 680. Column 6. Current year limited partnership losses closing balance to be carried forward to future years. Column 2 plus column 3 plus column 4 minus column 5. Row 5.
+6	P7	Total_line675		numeric	12	Column 5. Limited partnership losses applied in the current year, must be equal to or less than line 650. Total. Enter this amount on line 335 of the T2 return.
+6	PageNumbers	CurrentPage		numeric		
+6	PageNumbers	PageCount		numeric		
+7	P8	inpt700	700	numeric	12	Line 700. Restricted interest and financing expenses at the end of the previous tax year.
+7	P8	inpt705	705	numeric	12	Line 705. Restricted interest and financing expenses transferred on an amalgamation or on the wind-up of a subsidiary corporation.
+7	P8	inpt750	750	numeric	12	Line 750. Restricted interest and financing expenses adjustments for an acquisition of control.
+7	P8	inp1_8A		numeric	12	Amount 8A. Subtotal, line 700 plus line 705 minus line 750. Instance 1.
+7	P8	inpt2_8A		numeric	12	Amount 8A. Instance 2.
+7	P8	inpt710	710	numeric	12	Line 710. Current-year restricted interest and financing expense determined under subsection 111(8), amount A from Part 2O of Schedule 130.
+7	P8	inpt730	730	numeric	12	Line 730. Restricted interest and financing expenses deducted for the tax year. Enter the amount from line 730 on line 336 of the T2 return.
+7	P8	inpt780	780	numeric	12	Line 780. Closing balance or restricted interest and financing expenses, amount 8A plus line 710 minus line 730.
+7	P9/Line_190	CheckBox	190	check		Line 190. If you are making an election under paragraph 88(1.1)(f), tick the box. Yes.
+7	PageNumbers	CurrentPage		numeric		
+7	PageNumbers	PageCount		numeric		

@@ -1,0 +1,11 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Nm		text		
+1		BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Wpage_sf	Amt_of_Wpage		numeric	12	How many Internet web pages or websites does your corporation earn income from?
+1	URL_Adress_sf	Address_1		text		Internet web page or website address 1.
+1	URL_Adress_sf	Address_2		text		Internet web page or website address 2.
+1	URL_Adress_sf	Address_3		text		Internet web page or website address 3.
+1	URL_Adress_sf	Address_4		text		Internet web page or website address 4.
+1	URL_Adress_sf	Address_5		text		Internet web page or website address 5.
+1	Percentage_sf	Percent_Amt		numeric		What percentage of the corporation’s total gross revenue is generated from the Internet?

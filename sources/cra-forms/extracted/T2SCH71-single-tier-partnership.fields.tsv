@@ -1,0 +1,70 @@
+page	part	field	line	kind	digits	speak
+1	Info_sf	Info_inpt1		text		Corporation's name.
+1	Info_sf	Info_inpt2		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Info_sf/Info_grp	Info_grp_Field		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_Ln1_sf	P1_Ln1_inpt		text		Partnership's name.
+1	P1_sf/P1_Ln2_sf/P1_Ln2_grp	P1_Ln2_grp_RT1		text		First 9 digits of the Partnership's account number.
+1	P1_sf/P1_Ln2_sf/P1_Ln2_grp	P1_Ln2_grp_RT		text		
+1	P1_sf/P1_Ln2_sf/P1_Ln2_grp	P1_Ln2_grp_RT2		text		Last 4 digits of the partnership account number.
+1	P1_sf/P1_Ln3_sf/P1_Ln3_grp1	P1_Ln3_grp1_Field1		text		The start and end dates of the fiscal period of the partnership. Fiscal period-start. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_Ln3_sf/P1_Ln3_grp2	P1_Ln3_grp2_Field2		text		The start and end dates of the fiscal period of the partnership. Fiscal period-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Ftr/pageNumbers	CurrentPage		numeric		
+1	Ftr/pageNumbers	PageCount		numeric		
+2	P2_sf/P2_Ln2A_sf	P2_Ln2A_inpt		numeric	12	Amount 2A. Corporation's share of income of the partnership for the fiscal period that ends in the tax year of the corporation, other than dividends for which a deduction is available under section 112 or 113.
+2	P2_sf/P2_Ln2B_sf	P2_Ln2B_inpt		numeric	12	Amount 2B. Corporation's share of loss of the partnership for the fiscal period that ends in the tax year of the corporation.
+2	P2_sf/P2_Ln2C_sf	P2_Ln2C_inpt1		numeric	12	Amount 2C. Subtotal. Amount 2A minus amount 2B. Instance 1.
+2	P2_sf/P2_Ln2C_sf	P2_Ln2C_inpt2		numeric	12	Amount 2C. Instance 2.
+2	P2_sf/P2_Ln2D_sf	P2_Ln2D_inpt		numeric	12	Amount 2D. Corporation's share of taxable capital gain of the partnership for the fiscal period that ends in the tax year of the corporation.
+2	P2_sf/P2_Ln2E_sf	P2_Ln2E_inpt		numeric	12	Amount 2E. Corporation's share of allowable capital loss of the partnership for the fiscal period that ends in the tax year of the corporation. Cannot be more than amount 2D.
+2	P2_sf/P2_Ln2F_sf	P2_Ln2F_inpt1		numeric	12	Amount 2F. Subtotal. Amount 2D minus amount 2E. Instance 1.
+2	P2_sf/P2_Ln2F_sf	P2_Ln2F_inpt2		numeric	12	Amount 2F. Instance 2.
+2	P2_sf/P2_Ln2G_sf	P2_Ln2G_inpt		numeric	12	Amount 2G. Subtotal. Amount 2C plus amount 2F.
+2	P2_sf/P2_Ln2H_sf	P2_Ln2H_inpt1		numeric	3	Number of days that are in both the corporation's tax year and the fiscal period of the partnership that starts in the corporation's tax year and ends after the tax year. The stub period.
+2	P2_sf/P2_Ln2H_sf	P2_Ln2H_inpt2		numeric	3	Number of days in the fiscal periods of the partnership that end in the corporation's tax year.
+2	P2_sf/P2_Ln2H_sf	P2_Ln2H_inpt3		numeric		Amount 2H. Number of days that are in both the corporation's tax year and the fiscal period of the partnership that starts in the corporation's tax year and ends after the tax year, the stub period, divided by the number of days in the fiscal periods of the partnership that end in the corporation's tax year.
+2	P2_sf/P2_Ln2I_sf	P2_Ln2I_inpt		numeric	12	Amount 2I. Stub period accrual. Amount 2G multiplied by amount 2H.
+2	P2_sf/P2_Ln2J_sf	P2_Ln2J_inpt		numeric	12	Amount 2J. Designated qualified resource expenses, subsections 66.1(6), 66.2(5), 66.21(1), and 66.4(5) for the stub period. Enter amount 2J in column 2 of Schedule 73.
+2	P2_sf/P2_Ln2K_sf	P2_Ln2K_inpt		numeric	12	Amount 2K. Discretionary amount designated by the corporation. Enter amount 2K in column 3 of Schedule 73.
+2	P2_sf/P2_Ln2L_sf	P2_Ln2L_inpt1		numeric	12	Amount 2L. Subtotal. Amount 2J plus amount 2K. Instance 1.
+2	P2_sf/P2_Ln2L_sf	P2_Ln2L_inpt2		numeric	12	Amount 2L. Instance 2.
+2	P2_sf/P2_Ln2M_sf	P2_Ln2M_inpt		numeric	12	Amount 2M. ASPA for the tax year. Amount 2I minus amount 2L. If negative, enter 0.
+2	Ftr	CurrentPage		numeric		
+2	Ftr	PageCount		numeric		
+3	P3_sf/P3_Ln3A_sf	P3_Ln3A_inpt		numeric	12	Amount 3A. Amount, if any, designated by the corporation.
+3	P3_sf/P3_Ln3B_sf	P3_Ln3B_inpt		numeric	12	Amount 3B. Corporation's income from the partnership for the particular period. Other than dividends for which a deduction is available under section 112 or 113.
+3	P3_sf/P3_Ln3C_sf	P3_Ln3C_inpt1		numeric	3	Number of days that are in both the corporation's tax year and the particular period.
+3	P3_sf/P3_Ln3C_sf	P3_Ln3C_inpt2		numeric	3	Number of days in the particular period.
+3	P3_sf/P3_Ln3C_sf	P3_Ln3C_inpt3		numeric		Amount 3C. Number of days that are in both the corporation's tax year and the particular period divided by the number of days in the particular period.
+3	P3_sf/P3_Ln3D_sf	P3_Ln3D_inpt		numeric	12	Amount 3D. Subtotal. Amount 3B multiplied by amount 3C.
+3	P3_sf/P3_Ln3E_sf	P3_Ln3E_inpt		numeric	12	Amount 3E. Income inclusion for a new corporate member of a partnership for the tax year. Amount 3A or 3D, whichever is less. If negative, enter 0. Enter amount 3E in column 6 of schedule 73.
+3	P4_sf/P4_Ln4A_sf	P4_Ln4A_inpt		numeric	12	Amount 4A. Corporation's share of income of the qualifying partnership for the last fiscal period that began in the base year. Other than dividends for which a deduction was available under section 112 or 113.
+3	P4_sf/P4_Ln4B_sf	P4_Ln4B_inpt		numeric	12	Amount 4B. Corporation's share of loss of the qualifying partnership for the last fiscal period that began in the base year.
+3	P4_sf/P4_Ln4C_sf	P4_Ln4C_inpt1		numeric	12	Amount 4C. Subtotal. Amount 4A minus amount 4B. Instance 1.
+3	P4_sf/P4_Ln4C_sf	P4_Ln4C_inpt2		numeric	12	Amount 4C. Instance 2.
+3	P4_sf/P4_Ln4D_sf	P4_Ln4D_inpt		numeric	12	Amount 4D. Corporation's share of taxable capital gain of the qualifying partnership for the last fiscal period that began in the base year.
+3	P4_sf/P4_Ln4E_sf	P4_Ln4E_inpt		numeric	12	Amount 4E. Corporation's share of allowable capital loss of the qualifying partnership for the last fiscal period that began in the base year. Cannot be more than amount 4D.
+3	P4_sf/P4_Ln4F_sf	P4_Ln4F_inpt1		numeric	12	Amount 4F. Subtotal. Amount 4D minus amount 4E. Instance 1.
+3	P4_sf/P4_Ln4F_sf	P4_Ln4F_inpt2		numeric	12	Amount 4F. Instance 2.
+3	P4_sf/P4_Ln4G_sf	P4_Ln4G_inpt		numeric	12	Amount 4G. Subtotal. Amount 4C plus amount 4F.
+3	P4_sf/P4_Ln4H_sf	P4_Ln4H_inpt1		numeric	3	Number of days that are in both the base year and the fiscal period of the partnership.
+3	P4_sf/P4_Ln4H_sf	P4_Ln4H_inpt2		numeric	3	Number of days in the fiscal period of the partnership.
+3	P4_sf/P4_Ln4H_sf	P4_Ln4H_inpt3		numeric		Amount 4H. Number of days that are in both the base year and the fiscal period of the partnership divided by the number of days in the fiscal period of the partnership.
+3	P4_sf/P4_Ln4I_sf	P4_Ln4I_inpt		numeric	12	Amount 4I. Subtotal. Amount 4G multiplied by amount 4H.
+3	P4_sf/P4_Ln4J_sf	P4_Ln4J_inpt		numeric	12	Amount 4J. Amount of the qualified resource expense, subsections 66.1(6), 66.2(5), 66.21(1), and 66.4(5), in respect of the qualifying partnership that was designated by the corporate partner for the base year. Amount 2J from Part 2 of the base year's Schedule 71.
+3	P4_sf/P4_Ln4K_sf	P4_Ln4K_inpt		numeric	12	Amount 4K. Actual stub period accrual in respect of the qualifying partnership. Amount 4I minus amount 4J.
+3	Ftr	CurrentPage		numeric		
+3	Ftr	PageCount		numeric		
+4	P5_sf/P5_Ln4L_sf	P5_Ln4L_inpt		numeric	12	Amount 4L. ASPA from the base year. Amount 2M from Part 2 of Schedule 71 for the base year.
+4	P5_sf/P5_Ln4M_sf	P5_Ln4M_inpt		numeric	12	Amount 4M. Discretionary amount designated from the base year. Amount 2K from Part 2 of Schedule 71 for the base year.
+4	P5_sf/P5_Ln4N_sf	P5_Ln4N_inpt		numeric	12	Amount 4N. Subtotal. Amount 4L plus amount 4M. If negative, enter 0.
+4	P5_sf/P5_Ln4O_sf	P5_Ln4O_inpt		numeric	12	Amount 4O. Base amount. Amount 4K or amount 4N, whichever is less.
+4	P5_sf/P5_Ln4P_sf	P5_Ln4P_inpt		numeric	12	Amount 4P. Subtotal. Amount 4O minus amount 4L. This amount can be positive or negative.
+4	P5_sf/P5_Ln4Q_sf	P5_Ln4Q_inpt		numeric	12	Amount 4Q. Number of days in the period that starts on the day after the day on which the base year ends, and ends on the day on which the tax year ends.
+4	P5_sf/P5_Ln4R_sf	P5_Ln4R_inpt		numeric	12	Amount 4R. Subtotal. Amount 4P multiplied by amount 4Q.
+4	P5_sf/P5_Ln4S_sf	P5_Ln4S_inpt		numeric	12	Amount 4S. Average daily rate of interest determined by reference to the prescribed rate of interest under paragraph 4301(a) of the Income Tax Regulations for the period referred to at amount 4Q.
+4	P5_sf/P5_Ln4T_sf	P5_Ln4T_inpt		numeric	12	Amount 4T. Income shortfall adjustment. Amount 4R multiplied by amount 4S. Enter amount 4T in column 9 of Schedule 73.
+4	P5_sf/P5_Ln4U_sf	P5_Ln4U_inpt		numeric	12	Amount 4U. Base amount 4O multiplied by amount 4Q.
+4	P5_sf/P5_Ln4V_sf	P5_Ln4V_inpt		numeric	12	Amount 4V. Amount 4U multiplied by amount 4S.
+4	P5_sf/P5_Ln4W_sf	P5_Ln4W_inpt		numeric	12	Amount 4W. Threshold amount. 25% of amount 4V. If negative, enter 0. Enter amount 4W in column 10 of Schedule 73.
+4	Ftr	CurrentPage		numeric		
+4	Ftr	PageCount		numeric		

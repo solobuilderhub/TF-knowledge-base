@@ -1,0 +1,59 @@
+page	part	field	line	kind	digits	speak
+1	Info_corp	Info_Nm_Corp		text		Corporation's name.
+1	Info_corp	Info_Bn_Corp		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Info_corp/Info_TaxYear	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Subform_P1	Option1	100	check		Line 100. For those corporations filing for the first time after incorporation or amalgamation, please identify the type of operation that applies to your corporation. Option 01. Crown corporation that is an agent of His Majesty.
+1	Subform_P1	Option2	100	check		Line 100. Option 02. Life insurance corporation.
+1	Subform_P1	Option3	100	check		Line 100. Option 03. Deposit insurance corporation.
+1	Subform_P1	Option4	100	check		Line 100. Option 04. General insurance corporation.
+1	Subform_P1	Option5	100	check		Line 100. Option 05. Co-operative corporation.
+1	Subform_P1	Option6	100	check		Line 100. Option 06. Credit union.
+1	Subform_P1	Option7	100	check		Line 100. Option 07. Bank.
+1	Subform_P1	Option9	100	check		Line 100. Option 09. Investment public corporation.
+1	Subform_P1	Option10	100	check		Line 100. Option 10. Mutual fund corporation.
+1	Subform_P1	Option11	100	check		Line 100. Option 11. Mortgage investment corporation.
+1	Subform_P1	Option12	100	check		Line 100. Option 12. Travelling corporation.
+1	Subform_P1	Option13	100	check		Line 100. Option 13. Subject corporation.
+1	Subform_P1	Option14	100	check		Line 100. Option 14. Labour-sponsored venture capital corporation.
+1	Subform_P1	Option15	100	check		Line 100. Option 15. Investment public corporation subject to Part IV tax.
+1	Subform_P1	Option16	100	check		Line 100. Option 16. Crown corporation that is not an agent of His Majesty.
+1	Subform_P1	Option17	100	check		Line 100. Option 17. Non-resident insurer exempt from Part XIII withholding tax.
+1	Subform_P1	Option99	100	check		Line 100. Option 99. Other – if none of the previous descriptions apply.
+1	Subform_P2/Table1/Line1	Cell1	200	text		Line 200. Name of predecessor corporation(s). Row 1.
+1	Subform_P2/Table1/Line1	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 1.
+1	Subform_P2/Table1/Line2	Cell1	200	text		Line 200. Name of predecessor corporation(s). Row 2.
+1	Subform_P2/Table1/Line2	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 2.
+1	Subform_P2/Table1/Line3	Cell1	200	text		Line 200. Name of predecessor corporation(s). Row 3.
+1	Subform_P2/Table1/Line3	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 3.
+1	Subform_P2/Table1/Line4	Cell1	200	text		Line 200. Name of predecessor corporation(s). Row 4.
+1	Subform_P2/Table1/Line4	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 4.
+1	Subform_P2/Table1/Line5	Cell1	200	text		Line 200. Name of predecessor corporation(s). Row 5.
+1	Subform_P2/Table1/Line5	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 5.
+1	Subform_P2/Table1/Line6	Cell1	200	text		Line 200. Name of predecessor corporation(s). Row 6.
+1	Subform_P2/Table1/Line6	Cell2	300	text		Line 300. Business Number. If a corporation is not registered, enter NR. Row 6.
+1	Subform_P3/Table2/Line1	Cell1	400	text		Line 400. Name of subsidiary corporation(s). Row 1.
+1	Subform_P3/Table2/Line1	Cell2	500	text		Line 500. Business Number. If a corporation is not registered, enter NR. Row 1.
+1	Subform_P3/Table2/Line1	Cell3	600	text		Line 600. Commencement date of wind-up. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+1	Subform_P3/Table2/Line1	Cell4	700	text		Line 700. Date of wind-up. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+1	Subform_P3/Table2/Line2	Cell1	400	text		Line 400. Name of subsidiary corporation(s). Row 2.
+1	Subform_P3/Table2/Line2	Cell2	500	text		Line 500. Business Number. If a corporation is not registered, enter NR. Row 2.
+1	Subform_P3/Table2/Line2	Cell3	600	text		Line 600. Commencement date of wind-up. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+1	Subform_P3/Table2/Line2	Cell4	700	text		Line 700. Date of wind-up. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+1	Subform_P3/Table2/Line3	Cell1	400	text		Line 400. Name of subsidiary corporation(s). Row 3.
+1	Subform_P3/Table2/Line3	Cell2	500	text		Line 500. Business Number. If a corporation is not registered, enter NR. Row 3.
+1	Subform_P3/Table2/Line3	Cell3	600	text		Line 600. Commencement date of wind-up. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+1	Subform_P3/Table2/Line3	Cell4	700	text		Line 700. Date of wind-up. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+1	Subform_P3/Table2/Line4	Cell1	400	text		Line 400. Name of subsidiary corporation(s). Row 4.
+1	Subform_P3/Table2/Line4	Cell2	500	text		Line 500. Business Number. If a corporation is not registered, enter NR. Row 4.
+1	Subform_P3/Table2/Line4	Cell3	600	text		Line 600. Commencement date of wind-up. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+1	Subform_P3/Table2/Line4	Cell4	700	text		Line 700. Date of wind-up. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+1	Subform_P3/Table2/Line5	Cell1	400	text		Line 400. Name of subsidiary corporation(s). Row 5.
+1	Subform_P3/Table2/Line5	Cell2	500	text		Line 500. Business Number. If a corporation is not registered, enter NR. Row 5.
+1	Subform_P3/Table2/Line5	Cell3	600	text		Line 600. Commencement date of wind-up. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+1	Subform_P3/Table2/Line5	Cell4	700	text		Line 700. Date of wind-up. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+1	Subform_P3/Table2/Line6	Cell1	400	text		Line 400. Name of subsidiary corporation(s). Row 6.
+1	Subform_P3/Table2/Line6	Cell2	500	text		Line 500. Business Number. If a corporation is not registered, enter NR. Row 6.
+1	Subform_P3/Table2/Line6	Cell3	600	text		Line 600. Commencement date of wind-up. Year 4 digits. Month 2 digits. Day 2 digits. Row 6.
+1	Subform_P3/Table2/Line6	Cell4	700	text		Line 700. Date of wind-up. Year 4 digits. Month 2 digits. Day 2 digits. Row 6.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		

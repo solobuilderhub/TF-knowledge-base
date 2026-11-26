@@ -1,0 +1,309 @@
+page	part	field	line	kind	digits	speak
+1	Info_sf	Info_name		text		Corporation's name
+1	Info_sf	Info_EN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Info_sf/Info_y-e_DateYYYYMMDD_Comb_Top	Info_y_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Designation_sf/Designation_Subform/RadioButtonGroup	Option1	050	check		Line 050. Are any dispositions shown on this schedule related to deemed dispositions designated under paragraph 111(4)(e)? If yes, attach a statement specifying which properties such a designation applies to. Yes.
+1	Designation_sf/Designation_Subform/RadioButtonGroup	Option2	050	check		Line 050. Are any dispositions shown on this schedule related to deemed dispositions designated under paragraph 111(4)(e)? No.
+1	Part1_sf/Part1_Subform/Table1/Row1	Cell1	100	numeric	9	Line 100. Column 1. Number of shares. Row 1.
+1	Part1_sf/Part1_Subform/Table1/Row1	Cell2	105	text		Line 105. Column 2. Name of corporation in which the shares were held. Row 1.
+1	Part1_sf/Part1_Subform/Table1/Row1	Cell3	106	text		Line 106. Column 3. Class of shares. Row 1.
+1	Part1_sf/Part1_Subform/Table1/Row1	Cell4	110	text		Line 110. Column 4. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+1	Part1_sf/Part1_Subform/Table1/Row1	Cell5	120	numeric	12	Line 120. Column 5. Proceeds of disposition. Row 1.
+1	Part1_sf/Part1_Subform/Table1/Row1	Cell6	130	numeric	12	Line 130. Column 6. Adjusted cost base. Row 1.
+1	Part1_sf/Part1_Subform/Table1/Row1	Cell7	140	numeric	12	Line 140. Column 7. Outlays and expenses from disposition. Row 1.
+1	Part1_sf/Part1_Subform/Table1/Row1	Cell8	150	numeric	12	Line 150. Column 8. Gain or loss. Column 5 minus columns 6 and 7. Row 1.
+1	Part1_sf/Part1_Subform/Table1/Row2	Cell1	100	numeric	9	Line 100. Column 1. Number of shares. Row 2.
+1	Part1_sf/Part1_Subform/Table1/Row2	Cell2	105	text		Line 105. Column 2. Name of corporation in which the shares were held. Row 2.
+1	Part1_sf/Part1_Subform/Table1/Row2	Cell3	106	text		Line 106. Column 3. Class of shares. Row 2.
+1	Part1_sf/Part1_Subform/Table1/Row2	Cell4	110	text		Line 110. Column 4. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+1	Part1_sf/Part1_Subform/Table1/Row2	Cell5	120	numeric	12	Line 120. Column 5. Proceeds of disposition. Row 2.
+1	Part1_sf/Part1_Subform/Table1/Row2	Cell6	130	numeric	12	Line 130. Column 6. Adjusted cost base. Row 2.
+1	Part1_sf/Part1_Subform/Table1/Row2	Cell7	140	numeric	12	Line 140. Column 7. Outlays and expenses from disposition. Row 2.
+1	Part1_sf/Part1_Subform/Table1/Row2	Cell8	150	numeric	12	Line 150. Column 8. Gain or loss. Column 5 minus columns 6 and 7. Row 2.
+1	Part1_sf/Part1_Subform/Table1/Row3	Cell1	100	numeric	9	Line 100. Column 1. Number of shares. Row 3.
+1	Part1_sf/Part1_Subform/Table1/Row3	Cell2	105	text		Line 105. Column 2. Name of corporation in which the shares were held. Row 3.
+1	Part1_sf/Part1_Subform/Table1/Row3	Cell3	106	text		Line 106. Column 3. Class of shares. Row 3.
+1	Part1_sf/Part1_Subform/Table1/Row3	Cell4	110	text		Line 110. Column 4. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+1	Part1_sf/Part1_Subform/Table1/Row3	Cell5	120	numeric	12	Line 120. Column 5. Proceeds of disposition. Row 3.
+1	Part1_sf/Part1_Subform/Table1/Row3	Cell6	130	numeric	12	Line 130. Column 6. Adjusted cost base. Row 3.
+1	Part1_sf/Part1_Subform/Table1/Row3	Cell7	140	numeric	12	Line 140. Column 7. Outlays and expenses from disposition. Row 3.
+1	Part1_sf/Part1_Subform/Table1/Row3	Cell8	150	numeric	12	Line 150. Column 8. Gain or loss. Column 5 minus columns 6 and 7. Row 3.
+1	Part1_sf/Part1_Subform/Table1/Row4	Cell1	100	numeric	9	Line 100. Column 1. Number of shares. Row 4.
+1	Part1_sf/Part1_Subform/Table1/Row4	Cell2	105	text		Line 105. Column 2. Name of corporation in which the shares were held. Row 4.
+1	Part1_sf/Part1_Subform/Table1/Row4	Cell3	106	text		Line 106. Column 3. Class of shares. Row 4.
+1	Part1_sf/Part1_Subform/Table1/Row4	Cell4	110	text		Line 110. Column 4. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+1	Part1_sf/Part1_Subform/Table1/Row4	Cell5	120	numeric	12	Line 120. Column 5. Proceeds of disposition. Row 4.
+1	Part1_sf/Part1_Subform/Table1/Row4	Cell6	130	numeric	12	Line 130. Column 6. Adjusted cost base. Row 4.
+1	Part1_sf/Part1_Subform/Table1/Row4	Cell7	140	numeric	12	Line 140. Column 7. Outlays and expenses from disposition. Row 4.
+1	Part1_sf/Part1_Subform/Table1/Row4	Cell8	150	numeric	12	Line 150. Column 8. Gain or loss. Column 5 minus columns 6 and 7. Row 4.
+1	Part1_sf/Part1_Subform/Table1/Row5	Cell1	100	numeric	9	Line 100. Column 1. Number of shares. Row 5.
+1	Part1_sf/Part1_Subform/Table1/Row5	Cell2	105	text		Line 105. Column 2. Name of corporation in which the shares were held. Row 5.
+1	Part1_sf/Part1_Subform/Table1/Row5	Cell3	106	text		Line 106. Column 3. Class of shares. Row 5.
+1	Part1_sf/Part1_Subform/Table1/Row5	Cell4	110	text		Line 110. Column 4. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+1	Part1_sf/Part1_Subform/Table1/Row5	Cell5	120	numeric	12	Line 120. Column 5. Proceeds of disposition. Row 5.
+1	Part1_sf/Part1_Subform/Table1/Row5	Cell6	130	numeric	12	Line 130. Column 6. Adjusted cost base. Row 5.
+1	Part1_sf/Part1_Subform/Table1/Row5	Cell7	140	numeric	12	Line 140. Column 7. Outlays and expenses from disposition. Row 5.
+1	Part1_sf/Part1_Subform/Table1/Row5	Cell8	150	numeric	12	Line 150. Column 8. Gain or loss. Column 5 minus columns 6 and 7. Row 5.
+1	Part1_sf/Part1_Subform/Table1/Row6_Total_Row	Cell5		numeric	12	Part 1. Total of column 5, proceeds of disposition.
+1	Part1_sf/Part1_Subform/Table1/Row6_Total_Row	Cell6		numeric	12	Part 1. Total of column 6, adjusted cost base.
+1	Part1_sf/Part1_Subform/Table1/Row6_Total_Row	Cell7		numeric	12	Part 1. Total of column 7, outlays and expenses from disposition.
+1	Part1_sf/Part1_Subform/Table1/Row6_Total_Row	Cell8		numeric	12	Part 1. Total of column 8, gain or loss.
+1	Part1_sf/Part1_Subform/Ln160_sf	Line160_Field	160	numeric	12	Line 160. Total adjustment under subsection 112(3) to all losses identified in column 8.
+1	Part1_sf/Part1_Subform/AmntA_sf	AmountA_Field		numeric	12	Amount A. Actual gain or loss from the disposition of shares. Total of column 8 plus line 160.
+1	Part2_sf/Part2_Subform/Table2/Row1	Cell1	200	text		Line 200. Column 1. Municipal address of real estate. Row 1.
+1	Part2_sf/Part2_Subform/Table2/Row1	Cell2	210	text		Line 210. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+1	Part2_sf/Part2_Subform/Table2/Row1	Cell3	220	numeric	12	Line 220. Column 3. Proceeds of disposition. Row 1.
+1	Part2_sf/Part2_Subform/Table2/Row1	Cell4	230	numeric	12	Line 230. Column 4. Adjusted cost base. Row 1.
+1	Part2_sf/Part2_Subform/Table2/Row1	Cell5	240	numeric	12	Line 240. Column 5. Outlays and expenses from disposition. Row 1.
+1	Part2_sf/Part2_Subform/Table2/Row1	Cell6	250	numeric	12	Line 250. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 1.
+1	Part2_sf/Part2_Subform/Table2/Row2	Cell1	200	text		Line 200. Column 1. Municipal address of real estate. Row 2.
+1	Part2_sf/Part2_Subform/Table2/Row2	Cell2	210	text		Line 210. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+1	Part2_sf/Part2_Subform/Table2/Row2	Cell3	220	numeric	12	Line 220. Column 3. Proceeds of disposition. Row 2.
+1	Part2_sf/Part2_Subform/Table2/Row2	Cell4	230	numeric	12	Line 230. Column 4. Adjusted cost base. Row 2.
+1	Part2_sf/Part2_Subform/Table2/Row2	Cell5	240	numeric	12	Line 240. Column 5. Outlays and expenses from disposition. Row 2.
+1	Part2_sf/Part2_Subform/Table2/Row2	Cell6	250	numeric	12	Line 250. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 2.
+1	Part2_sf/Part2_Subform/Table2/Row3	Cell1	200	text		Line 200. Column 1. Municipal address of real estate. Row 3.
+1	Part2_sf/Part2_Subform/Table2/Row3	Cell2	210	text		Line 210. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+1	Part2_sf/Part2_Subform/Table2/Row3	Cell3	220	numeric	12	Line 220. Column 3. Proceeds of disposition. Row 3.
+1	Part2_sf/Part2_Subform/Table2/Row3	Cell4	230	numeric	12	Line 230. Column 4. Adjusted cost base. Row 3.
+1	Part2_sf/Part2_Subform/Table2/Row3	Cell5	240	numeric	12	Line 240. Column 5. Outlays and expenses from disposition. Row 3.
+1	Part2_sf/Part2_Subform/Table2/Row3	Cell6	250	numeric	12	Line 250. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 3.
+1	Part2_sf/Part2_Subform/Table2/Row4	Cell1	200	text		Line 200. Column 1. Municipal address of real estate. Row 4.
+1	Part2_sf/Part2_Subform/Table2/Row4	Cell2	210	text		Line 210. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+1	Part2_sf/Part2_Subform/Table2/Row4	Cell3	220	numeric	12	Line 220. Column 3. Proceeds of disposition. Row 4.
+1	Part2_sf/Part2_Subform/Table2/Row4	Cell4	230	numeric	12	Line 230. Column 4. Adjusted cost base. Row 4.
+1	Part2_sf/Part2_Subform/Table2/Row4	Cell5	240	numeric	12	Line 240. Column 5. Outlays and expenses from disposition. Row 4.
+1	Part2_sf/Part2_Subform/Table2/Row4	Cell6	250	numeric	12	Line 250. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 4.
+1	Part2_sf/Part2_Subform/Table2/Row5	Cell1	200	text		Line 200. Column 1. Municipal address of real estate. Row 5.
+1	Part2_sf/Part2_Subform/Table2/Row5	Cell2	210	text		Line 210. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+1	Part2_sf/Part2_Subform/Table2/Row5	Cell3	220	numeric	12	Line 220. Column 3. Proceeds of disposition. Row 5.
+1	Part2_sf/Part2_Subform/Table2/Row5	Cell4	230	numeric	12	Line 230. Column 4. Adjusted cost base. Row 5.
+1	Part2_sf/Part2_Subform/Table2/Row5	Cell5	240	numeric	12	Line 240. Column 5. Outlays and expenses from disposition. Row 5.
+1	Part2_sf/Part2_Subform/Table2/Row5	Cell6	250	numeric	12	Line 250. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 5.
+1	Part2_sf/Part2_Subform/Table2/Row6_Total_Row	Cell3		numeric	12	Part 2. Total of column 3, proceeds of disposition.
+1	Part2_sf/Part2_Subform/Table2/Row6_Total_Row	Cell4		numeric	12	Part 2. Total of column 4, adjusted cost base.
+1	Part2_sf/Part2_Subform/Table2/Row6_Total_Row	Cell5		numeric	12	Part 2. Total of column 5, outlays and expenses from disposition.
+1	Part2_sf/Part2_Subform/Table2/Row6_Total_Row	Cell6		numeric	12	Part 2. Amount B. Total of column 6, gain or loss.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Part3_sf/Part3_Subform/Table3/Row1	Cell1	300	numeric	12	Line 300. Column 1. Face value of bonds. Row 1.
+2	Part3_sf/Part3_Subform/Table3/Row1	Cell2	305	text		Line 305. Column 2. Maturity date. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+2	Part3_sf/Part3_Subform/Table3/Row1	Cell3	307	text		Line 307. Column 3. Name of bond issuer. Row 1.
+2	Part3_sf/Part3_Subform/Table3/Row1	Cell4	310	text		Line 310. Column 4. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+2	Part3_sf/Part3_Subform/Table3/Row1	Cell5	320	numeric	12	Line 320. Column 5. Proceeds of disposition. Row 1.
+2	Part3_sf/Part3_Subform/Table3/Row1	Cell6	330	numeric	12	Line 330. Column 6. Adjusted cost base. Row 1.
+2	Part3_sf/Part3_Subform/Table3/Row1	Cell7	340	numeric	12	Line 340. Column 7. Outlays and expenses from disposition. Row 1.
+2	Part3_sf/Part3_Subform/Table3/Row1	Cell8	350	numeric	12	Line 350. Column 8. Gain or loss. Column 5 minus columns 6 and 7. Row 1.
+2	Part3_sf/Part3_Subform/Table3/Row2	Cell1	300	numeric	12	Line 300. Column 1. Face value of bonds. Row 2.
+2	Part3_sf/Part3_Subform/Table3/Row2	Cell2	305	text		Line 305. Column 2. Maturity date. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+2	Part3_sf/Part3_Subform/Table3/Row2	Cell3	307	text		Line 307. Column 3. Name of bond issuer. Row 2.
+2	Part3_sf/Part3_Subform/Table3/Row2	Cell4	310	text		Line 310. Column 4. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+2	Part3_sf/Part3_Subform/Table3/Row2	Cell5	320	numeric	12	Line 320. Column 5. Proceeds of disposition. Row 2.
+2	Part3_sf/Part3_Subform/Table3/Row2	Cell6	330	numeric	12	Line 330. Column 6. Adjusted cost base. Row 2.
+2	Part3_sf/Part3_Subform/Table3/Row2	Cell7	340	numeric	12	Line 340. Column 7. Outlays and expenses from disposition. Row 2.
+2	Part3_sf/Part3_Subform/Table3/Row2	Cell8	350	numeric	12	Line 350. Column 8. Gain or loss. Column 5 minus columns 6 and 7. Row 2.
+2	Part3_sf/Part3_Subform/Table3/Row3	Cell1	300	numeric	12	Line 300. Column 1. Face value of bonds. Row 3.
+2	Part3_sf/Part3_Subform/Table3/Row3	Cell2	305	text		Line 305. Column 2. Maturity date. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+2	Part3_sf/Part3_Subform/Table3/Row3	Cell3	307	text		Line 307. Column 3. Name of bond issuer. Row 3.
+2	Part3_sf/Part3_Subform/Table3/Row3	Cell4	310	text		Line 310. Column 4. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+2	Part3_sf/Part3_Subform/Table3/Row3	Cell5	320	numeric	12	Line 320. Column 5. Proceeds of disposition. Row 3.
+2	Part3_sf/Part3_Subform/Table3/Row3	Cell6	330	numeric	12	Line 330. Column 6. Adjusted cost base. Row 3.
+2	Part3_sf/Part3_Subform/Table3/Row3	Cell7	340	numeric	12	Line 340. Column 7. Outlays and expenses from disposition. Row 3.
+2	Part3_sf/Part3_Subform/Table3/Row3	Cell8	350	numeric	12	Line 350. Column 8. Gain or loss. Column 5 minus columns 6 and 7. Row 3.
+2	Part3_sf/Part3_Subform/Table3/Row4	Cell1	300	numeric	12	Line 300. Column 1. Face value of bonds. Row 4.
+2	Part3_sf/Part3_Subform/Table3/Row4	Cell2	305	text		Line 305. Column 2. Maturity date. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+2	Part3_sf/Part3_Subform/Table3/Row4	Cell3	307	text		Line 307. Column 3. Name of bond issuer. Row 4.
+2	Part3_sf/Part3_Subform/Table3/Row4	Cell4	310	text		Line 310. Column 4. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+2	Part3_sf/Part3_Subform/Table3/Row4	Cell5	320	numeric	12	Line 320. Column 5. Proceeds of disposition. Row 4.
+2	Part3_sf/Part3_Subform/Table3/Row4	Cell6	330	numeric	12	Line 330. Column 6. Adjusted cost base. Row 4.
+2	Part3_sf/Part3_Subform/Table3/Row4	Cell7	340	numeric	12	Line 340. Column 7. Outlays and expenses from disposition. Row 4.
+2	Part3_sf/Part3_Subform/Table3/Row4	Cell8	350	numeric	12	Line 350. Column 8. Gain or loss. Column 5 minus columns 6 and 7. Row 4.
+2	Part3_sf/Part3_Subform/Table3/Row5	Cell1	300	numeric	12	Line 300. Column 1. Face value of bonds. Row 5.
+2	Part3_sf/Part3_Subform/Table3/Row5	Cell2	305	text		Line 305. Column 2. Maturity date. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+2	Part3_sf/Part3_Subform/Table3/Row5	Cell3	307	text		Line 307. Column 3. Name of bond issuer. Row 5.
+2	Part3_sf/Part3_Subform/Table3/Row5	Cell4	310	text		Line 310. Column 4. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+2	Part3_sf/Part3_Subform/Table3/Row5	Cell5	320	numeric	12	Line 320. Column 5. Proceeds of disposition. Row 5.
+2	Part3_sf/Part3_Subform/Table3/Row5	Cell6	330	numeric	12	Line 330. Column 6. Adjusted cost base. Row 5.
+2	Part3_sf/Part3_Subform/Table3/Row5	Cell7	340	numeric	12	Line 340. Column 7. Outlays and expenses from disposition. Row 5.
+2	Part3_sf/Part3_Subform/Table3/Row5	Cell8	350	numeric	12	Line 350. Column 8. Gain or loss. Column 5 minus columns 6 and 7. Row 5.
+2	Part3_sf/Part3_Subform/Table3/Row6_Total_row	Cell5		numeric	12	Part 3. Total of column 5, proceeds of disposition.
+2	Part3_sf/Part3_Subform/Table3/Row6_Total_row	Cell6		numeric	12	Part 3. Total of column 6, adjusted cost base.
+2	Part3_sf/Part3_Subform/Table3/Row6_Total_row	Cell7		numeric	12	Part 3. Total of column 7, outlays and expenses from disposition.
+2	Part3_sf/Part3_Subform/Table3/Row6_Total_row	Cell8		numeric	12	Part 3. Amount C. Total of column 8, gain or loss.
+2	Part4_sf/Table4/Row1	Cell1	400	text		Line 400. Column 1. Description of other property. Row 1.
+2	Part4_sf/Table4/Row1	Cell2	410	text		Line 410. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+2	Part4_sf/Table4/Row1	Cell3	420	numeric	12	Line 420. Column 3. Proceeds of disposition. Row 1.
+2	Part4_sf/Table4/Row1	Cell4	430	numeric	12	Line 430. Column 4. Adjusted cost base. Row 1.
+2	Part4_sf/Table4/Row1	Cell5	440	numeric	12	Line 440. Column 5. Outlays and expenses from disposition. Row 1.
+2	Part4_sf/Table4/Row1	Cell6	450	numeric	12	Line 450. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 1.
+2	Part4_sf/Table4/Row2	Cell1	400	text		Line 400. Column 1. Description of other property. Row 2.
+2	Part4_sf/Table4/Row2	Cell2	410	text		Line 410. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+2	Part4_sf/Table4/Row2	Cell3	420	numeric	12	Line 420. Column 3. Proceeds of disposition. Row 2.
+2	Part4_sf/Table4/Row2	Cell4	430	numeric	12	Line 430. Column 4. Adjusted cost base. Row 2.
+2	Part4_sf/Table4/Row2	Cell5	440	numeric	12	Line 440. Column 5. Outlays and expenses from disposition. Row 2.
+2	Part4_sf/Table4/Row2	Cell6	450	numeric	12	Line 450. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 2.
+2	Part4_sf/Table4/Row3	Cell1	400	text		Line 400. Column 1. Description of other property. Row 3.
+2	Part4_sf/Table4/Row3	Cell2	410	text		Line 410. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+2	Part4_sf/Table4/Row3	Cell3	420	numeric	12	Line 420. Column 3. Proceeds of disposition. Row 3.
+2	Part4_sf/Table4/Row3	Cell4	430	numeric	12	Line 430. Column 4. Adjusted cost base. Row 3.
+2	Part4_sf/Table4/Row3	Cell5	440	numeric	12	Line 440. Column 5. Outlays and expenses from disposition. Row 3.
+2	Part4_sf/Table4/Row3	Cell6	450	numeric	12	Line 450. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 3.
+2	Part4_sf/Table4/Row4	Cell1	400	text		Line 400. Column 1. Description of other property. Row 4.
+2	Part4_sf/Table4/Row4	Cell2	410	text		Line 410. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+2	Part4_sf/Table4/Row4	Cell3	420	numeric	12	Line 420. Column 3. Proceeds of disposition. Row 4.
+2	Part4_sf/Table4/Row4	Cell4	430	numeric	12	Line 430. Column 4. Adjusted cost base. Row 4.
+2	Part4_sf/Table4/Row4	Cell5	440	numeric	12	Line 440. Column 5. Outlays and expenses from disposition. Row 4.
+2	Part4_sf/Table4/Row4	Cell6	450	numeric	12	Line 450. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 4.
+2	Part4_sf/Table4/Row5	Cell1	400	text		Line 400. Column 1. Description of other property. Row 5.
+2	Part4_sf/Table4/Row5	Cell2	410	text		Line 410. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+2	Part4_sf/Table4/Row5	Cell3	420	numeric	12	Line 420. Column 3. Proceeds of disposition. Row 5.
+2	Part4_sf/Table4/Row5	Cell4	430	numeric	12	Line 430. Column 4. Adjusted cost base. Row 5.
+2	Part4_sf/Table4/Row5	Cell5	440	numeric	12	Line 440. Column 5. Outlays and expenses from disposition. Row 5.
+2	Part4_sf/Table4/Row5	Cell6	450	numeric	12	Line 450. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 5.
+2	Part4_sf/Table4/Row6_Total_Row	Cell3		numeric	12	Part 4. Total of column 3, proceeds of disposition.
+2	Part4_sf/Table4/Row6_Total_Row	Cell4		numeric	12	Part 4. Total of column 4, adjusted cost base.
+2	Part4_sf/Table4/Row6_Total_Row	Cell5		numeric	12	Part 4. Total of column 5, outlays and expenses from disposition.
+2	Part4_sf/Table4/Row6_Total_Row	Cell6		numeric	12	Part 4. Amount D. Total of column 6, gain or loss.
+2	Part5_sf/Part5_Subform/Table5/Row1	Cell1	500	text		Line 500. Column 1. Description of personal-use property. Row 1.
+2	Part5_sf/Part5_Subform/Table5/Row1	Cell2	510	text		Line 510. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+2	Part5_sf/Part5_Subform/Table5/Row1	Cell3	520	numeric	12	Line 520. Column 3. Proceeds of disposition. Row 1.
+2	Part5_sf/Part5_Subform/Table5/Row1	Cell4	530	numeric	12	Line 530. Column 4. Adjusted cost base. Row 1.
+2	Part5_sf/Part5_Subform/Table5/Row1	Cell5	540	numeric	12	Line 540. Column 5. Outlays and expenses from disposition. Row 1.
+2	Part5_sf/Part5_Subform/Table5/Row1	Cell6	550	numeric	12	Line 550. Column 6. Gain only. Column 3 minus columns 4 and 5. If negative, enter 0. Row 1.
+2	Part5_sf/Part5_Subform/Table5/Row2	Cell1	500	text		Line 500. Column 1. Description of personal-use property. Row 2.
+2	Part5_sf/Part5_Subform/Table5/Row2	Cell2	510	text		Line 510. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+2	Part5_sf/Part5_Subform/Table5/Row2	Cell3	520	numeric	12	Line 520. Column 3. Proceeds of disposition. Row 2.
+2	Part5_sf/Part5_Subform/Table5/Row2	Cell4	530	numeric	12	Line 530. Column 4. Adjusted cost base. Row 2.
+2	Part5_sf/Part5_Subform/Table5/Row2	Cell5	540	numeric	12	Line 540. Column 5. Outlays and expenses from disposition. Row 2.
+2	Part5_sf/Part5_Subform/Table5/Row2	Cell6	550	numeric	12	Line 550. Column 6. Gain only. Column 3 minus columns 4 and 5. If negative, enter 0. Row 2.
+2	Part5_sf/Part5_Subform/Table5/Row3	Cell1	500	text		Line 500. Column 1. Description of personal-use property. Row 3.
+2	Part5_sf/Part5_Subform/Table5/Row3	Cell2	510	text		Line 510. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+2	Part5_sf/Part5_Subform/Table5/Row3	Cell3	520	numeric	12	Line 520. Column 3. Proceeds of disposition. Row 3.
+2	Part5_sf/Part5_Subform/Table5/Row3	Cell4	530	numeric	12	Line 530. Column 4. Adjusted cost base. Row 3.
+2	Part5_sf/Part5_Subform/Table5/Row3	Cell5	540	numeric	12	Line 540. Column 5. Outlays and expenses from disposition. Row 3.
+2	Part5_sf/Part5_Subform/Table5/Row3	Cell6	550	numeric	12	Line 550. Column 6. Gain only. Column 3 minus columns 4 and 5. If negative, enter 0. Row 3.
+2	Part5_sf/Part5_Subform/Table5/Row4	Cell1	500	text		Line 500. Column 1. Description of personal-use property. Row 4.
+2	Part5_sf/Part5_Subform/Table5/Row4	Cell2	510	text		Line 510. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+2	Part5_sf/Part5_Subform/Table5/Row4	Cell3	520	numeric	12	Line 520. Column 3. Proceeds of disposition. Row 4.
+2	Part5_sf/Part5_Subform/Table5/Row4	Cell4	530	numeric	12	Line 530. Column 4. Adjusted cost base. Row 4.
+2	Part5_sf/Part5_Subform/Table5/Row4	Cell5	540	numeric	12	Line 540. Column 5. Outlays and expenses from disposition. Row 4.
+2	Part5_sf/Part5_Subform/Table5/Row4	Cell6	550	numeric	12	Line 550. Column 6. Gain only. Column 3 minus columns 4 and 5. If negative, enter 0. Row 4.
+2	Part5_sf/Part5_Subform/Table5/Row5	Cell1	500	text		Line 500. Column 1. Description of personal-use property. Row 5.
+2	Part5_sf/Part5_Subform/Table5/Row5	Cell2	510	text		Line 510. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+2	Part5_sf/Part5_Subform/Table5/Row5	Cell3	520	numeric	12	Line 520. Column 3. Proceeds of disposition. Row 5.
+2	Part5_sf/Part5_Subform/Table5/Row5	Cell4	530	numeric	12	Line 530. Column 4. Adjusted cost base. Row 5.
+2	Part5_sf/Part5_Subform/Table5/Row5	Cell5	540	numeric	12	Line 540. Column 5. Outlays and expenses from disposition. Row 5.
+2	Part5_sf/Part5_Subform/Table5/Row5	Cell6	550	numeric	12	Line 550. Column 6. Gain only. Column 3 minus columns 4 and 5. If negative, enter 0. Row 5.
+2	Part5_sf/Part5_Subform/Table5/Row6_Total_Row	Cell3		numeric	12	Part 5. Total of column 3, proceeds of disposition.
+2	Part5_sf/Part5_Subform/Table5/Row6_Total_Row	Cell4		numeric	12	Part 5. Total of column 4, adjusted cost base.
+2	Part5_sf/Part5_Subform/Table5/Row6_Total_Row	Cell5		numeric	12	Part 5. Total of column 5, outlays and expenses from disposition.
+2	Part5_sf/Part5_Subform/Table5/Row6_Total_Row	Cell6		numeric	12	Part 5. Amount E. Total of column 6, gain only.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	Part6_sf/Part6_Subform/Table6/Row1	Cell1	600	text		Line 600. Column 1. Description of listed personal property. Row 1.
+3	Part6_sf/Part6_Subform/Table6/Row1	Cell2	610	text		Line 610. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+3	Part6_sf/Part6_Subform/Table6/Row1	Cell3	620	numeric	12	Line 620. Column 3. Proceeds of disposition. Row 1.
+3	Part6_sf/Part6_Subform/Table6/Row1	Cell4	630	numeric	12	Line 630. Column 4. Adjusted cost base. Row 1.
+3	Part6_sf/Part6_Subform/Table6/Row1	Cell5	640	numeric	12	Line 640. Column 5. Outlays and expenses from disposition. Row 1.
+3	Part6_sf/Part6_Subform/Table6/Row1	Cell6	650	numeric	12	Line 650. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 1. Note 1.
+3	Part6_sf/Part6_Subform/Table6/Row2	Cell1	600	text		Line 600. Column 1. Description of listed personal property. Row 2.
+3	Part6_sf/Part6_Subform/Table6/Row2	Cell2	610	text		Line 610. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+3	Part6_sf/Part6_Subform/Table6/Row2	Cell3	620	numeric	12	Line 620. Column 3. Proceeds of disposition. Row 2.
+3	Part6_sf/Part6_Subform/Table6/Row2	Cell4	630	numeric	12	Line 630. Column 4. Adjusted cost base. Row 2.
+3	Part6_sf/Part6_Subform/Table6/Row2	Cell5	640	numeric	12	Line 640. Column 5. Outlays and expenses from disposition. Row 2.
+3	Part6_sf/Part6_Subform/Table6/Row2	Cell6	650	numeric	12	Line 650. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 2. Note 1.
+3	Part6_sf/Part6_Subform/Table6/Row3	Cell1	600	text		Line 600. Column 1. Description of listed personal property. Row 3.
+3	Part6_sf/Part6_Subform/Table6/Row3	Cell2	610	text		Line 610. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+3	Part6_sf/Part6_Subform/Table6/Row3	Cell3	620	numeric	12	Line 620. Column 3. Proceeds of disposition. Row 3.
+3	Part6_sf/Part6_Subform/Table6/Row3	Cell4	630	numeric	12	Line 630. Column 4. Adjusted cost base. Row 3.
+3	Part6_sf/Part6_Subform/Table6/Row3	Cell5	640	numeric	12	Line 640. Column 5. Outlays and expenses from disposition. Row 3.
+3	Part6_sf/Part6_Subform/Table6/Row3	Cell6	650	numeric	12	Line 650. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 3. Note 1.
+3	Part6_sf/Part6_Subform/Table6/Row4	Cell1	600	text		Line 600. Column 1. Description of listed personal property. Row 4.
+3	Part6_sf/Part6_Subform/Table6/Row4	Cell2	610	text		Line 610. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+3	Part6_sf/Part6_Subform/Table6/Row4	Cell3	620	numeric	12	Line 620. Column 3. Proceeds of disposition. Row 4.
+3	Part6_sf/Part6_Subform/Table6/Row4	Cell4	630	numeric	12	Line 630. Column 4. Adjusted cost base. Row 4.
+3	Part6_sf/Part6_Subform/Table6/Row4	Cell5	640	numeric	12	Line 640. Column 5. Outlays and expenses from disposition. Row 4.
+3	Part6_sf/Part6_Subform/Table6/Row4	Cell6	650	numeric	12	Line 650. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 4. Note 1.
+3	Part6_sf/Part6_Subform/Table6/Row5	Cell1	600	text		Line 600. Column 1. Description of listed personal property. Row 5.
+3	Part6_sf/Part6_Subform/Table6/Row5	Cell2	610	text		Line 610. Column 2. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+3	Part6_sf/Part6_Subform/Table6/Row5	Cell3	620	numeric	12	Line 620. Column 3. Proceeds of disposition. Row 5.
+3	Part6_sf/Part6_Subform/Table6/Row5	Cell4	630	numeric	12	Line 630. Column 4. Adjusted cost base. Row 5.
+3	Part6_sf/Part6_Subform/Table6/Row5	Cell5	640	numeric	12	Line 640. Column 5. Outlays and expenses from disposition. Row 5.
+3	Part6_sf/Part6_Subform/Table6/Row5	Cell6	650	numeric	12	Line 650. Column 6. Gain or loss. Column 3 minus columns 4 and 5. Row 5. Note 1.
+3	Part6_sf/Part6_Subform/Table6/Row6_Totals_Row	Cell3		numeric	12	Part 6. Total of column 3, proceeds of disposition.
+3	Part6_sf/Part6_Subform/Table6/Row6_Totals_Row	Cell4		numeric	12	Part 6. Total of column 4, adjusted cost base.
+3	Part6_sf/Part6_Subform/Table6/Row6_Totals_Row	Cell5		numeric	12	Part 6. Total of column 5, outlays and expenses from disposition.
+3	Part6_sf/Part6_Subform/Table6/Row6_Totals_Row	Cell6		numeric	12	Part 6. Total of column 6, gain or loss.
+3	Part6_sf/Part6_Subform/Ln655_f	Line665_Field	655	numeric	12	Line 655. Unapplied listed personal property losses from other years. Amount from line 530 of Schedule 4, Corporation Loss Continuity and Application.
+3	Part6_sf/Part6_Subform/AmntF_sf	AmountF_Field		numeric	12	Amount F. Net gains or losses from the disposition of listed personal property. Total of column 6 minus line 655.
+3	Part7_sf/Part7_Subform/Table7/Row1	Cell1	900	text		Line 900. Column 1. Name of small business corporation. Row 1.
+3	Part7_sf/Part7_Subform/Table7/Row1	Cell2	905	choice		Line 905. Column 2. Shares, enter 1. Debt, enter 2. Select your option from the drop down menu. Row 1.
+3	Part7_sf/Part7_Subform/Table7/Row1	Cell3	910	text		Line 910. Column 3. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+3	Part7_sf/Part7_Subform/Table7/Row1	Cell4	920	numeric	12	Line 920. Column 4. Proceeds of disposition. Row 1.
+3	Part7_sf/Part7_Subform/Table7/Row1	Cell5	930	numeric	12	Line 930. Column 5. Adjusted cost base. Row 1.
+3	Part7_sf/Part7_Subform/Table7/Row1	Cell6	940	numeric	12	Line 940. Column 6. Outlays and expenses from disposition. Row 1.
+3	Part7_sf/Part7_Subform/Table7/Row1	Cell7	950	numeric	12	Line 950. Column 7. Loss only. Column 4 minus columns 5 and 6. Row 1.
+3	Part7_sf/Part7_Subform/Table7/Row2	Cell1	900	text		Line 900. Column 1. Name of small business corporation. Row 2.
+3	Part7_sf/Part7_Subform/Table7/Row2	Cell2	905	choice		Line 905. Column 2. Shares, enter 1. Debt, enter 2. Select your option from the drop down menu. Row 2.
+3	Part7_sf/Part7_Subform/Table7/Row2	Cell3	910	text		Line 910. Column 3. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+3	Part7_sf/Part7_Subform/Table7/Row2	Cell4	920	numeric	12	Line 920. Column 4. Proceeds of disposition. Row 2.
+3	Part7_sf/Part7_Subform/Table7/Row2	Cell5	930	numeric	12	Line 930. Column 5. Adjusted cost base. Row 2.
+3	Part7_sf/Part7_Subform/Table7/Row2	Cell6	940	numeric	12	Line 940. Column 6. Outlays and expenses from disposition. Row 2.
+3	Part7_sf/Part7_Subform/Table7/Row2	Cell7	950	numeric	12	Line 950. Column 7. Loss only. Column 4 minus columns 5 and 6. Row 2.
+3	Part7_sf/Part7_Subform/Table7/Row3	Cell1	900	text		Line 900. Column 1. Name of small business corporation. Row 3.
+3	Part7_sf/Part7_Subform/Table7/Row3	Cell2	905	choice		Line 905. Column 2. Shares, enter 1. Debt, enter 2. Select your option from the drop down menu. Row 3.
+3	Part7_sf/Part7_Subform/Table7/Row3	Cell3	910	text		Line 910. Column 3. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+3	Part7_sf/Part7_Subform/Table7/Row3	Cell4	920	numeric	12	Line 920. Column 4. Proceeds of disposition. Row 3.
+3	Part7_sf/Part7_Subform/Table7/Row3	Cell5	930	numeric	12	Line 930. Column 5. Adjusted cost base. Row 3.
+3	Part7_sf/Part7_Subform/Table7/Row3	Cell6	940	numeric	12	Line 940. Column 6. Outlays and expenses from disposition. Row 3.
+3	Part7_sf/Part7_Subform/Table7/Row3	Cell7	950	numeric	12	Line 950. Column 7. Loss only. Column 4 minus columns 5 and 6. Row 3.
+3	Part7_sf/Part7_Subform/Table7/Row4	Cell1	900	text		Line 900. Column 1. Name of small business corporation. Row 4.
+3	Part7_sf/Part7_Subform/Table7/Row4	Cell2	905	choice		Line 905. Column 2. Shares, enter 1. Debt, enter 2. Select your option from the drop down menu. Row 4.
+3	Part7_sf/Part7_Subform/Table7/Row4	Cell3	910	text		Line 910. Column 3. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+3	Part7_sf/Part7_Subform/Table7/Row4	Cell4	920	numeric	12	Line 920. Column 4. Proceeds of disposition. Row 4.
+3	Part7_sf/Part7_Subform/Table7/Row4	Cell5	930	numeric	12	Line 930. Column 5. Adjusted cost base. Row 4.
+3	Part7_sf/Part7_Subform/Table7/Row4	Cell6	940	numeric	12	Line 940. Column 6. Outlays and expenses from disposition. Row 4.
+3	Part7_sf/Part7_Subform/Table7/Row4	Cell7	950	numeric	12	Line 950. Column 7. Loss only. Column 4 minus columns 5 and 6. Row 4.
+3	Part7_sf/Part7_Subform/Table7/Row5	Cell1	900	text		Line 900. Column 1. Name of small business corporation. Row 5.
+3	Part7_sf/Part7_Subform/Table7/Row5	Cell2	905	choice		Line 905. Column 2. Shares, enter 1. Debt, enter 2. Select your option from the drop down menu. Row 5.
+3	Part7_sf/Part7_Subform/Table7/Row5	Cell3	910	text		Line 910. Column 3. Date of acquisition. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+3	Part7_sf/Part7_Subform/Table7/Row5	Cell4	920	numeric	12	Line 920. Column 4. Proceeds of disposition. Row 5.
+3	Part7_sf/Part7_Subform/Table7/Row5	Cell5	930	numeric	12	Line 930. Column 5. Adjusted cost base. Row 5.
+3	Part7_sf/Part7_Subform/Table7/Row5	Cell6	940	numeric	12	Line 940. Column 6. Outlays and expenses from disposition. Row 5.
+3	Part7_sf/Part7_Subform/Table7/Row5	Cell7	950	numeric	12	Line 950. Column 7. Loss only. Column 4 minus columns 5 and 6. Row 5.
+3	Part7_sf/Part7_Subform/Table7/Row6_Total_Row	Cell4_Total		numeric	12	Part 7. Total of column 4, proceeds of disposition.
+3	Part7_sf/Part7_Subform/Table7/Row6_Total_Row	Cell5_Total		numeric	12	Part 7. Total of column 5, adjusted cost base.
+3	Part7_sf/Part7_Subform/Table7/Row6_Total_Row	Cell6_Total		numeric	12	Part 7. Total of column 6, outlays and expenses from disposition.
+3	Part7_sf/Part7_Subform/Table7/Row6_Total_Row	Cell7_Total		numeric	12	Part 7. Total of column 7, loss only.
+3	Part7_sf/Part7_Subform/AmntG_sf	AmountG_Subcalc_Field		numeric	12	Total of column 7.
+3	Part7_sf/Part7_Subform/AmntG_sf	AmountG_Field		numeric	12	Amount G. Allowable business investment losses. Total of column 7 multiplied by ½. Enter amount G on line 406 of Schedule 1, Net Income or Loss for Income Tax Purposes.
+3	Part8_sf/Part8_Subform/AmntH_sf	AmountH_Field		numeric	12	Amount H. Total of amounts A to F. Do not include amount F if it is a loss.
+3	Part8_sf/Part8_Subform/Ln875_sf	Line875_Field	875	numeric	12	Line 875. Capital gains dividend received in the year.
+3	Part8_sf/Part8_Subform/Ln880_sf	Line880_Field	880	numeric	12	Line 880. Capital gains reserve opening balance, from Part 1 of Schedule 13, Continuity of Reserves.
+3	Part8_sf/Part8_Subform/AmntI_sf	AmountI_Field		numeric	12	Amount I. Subtotal. Amount H plus total of lines 875 and 880.
+3	Part8_sf/Part8_Subform/Ln885_sf	Line885_Field	885	numeric	12	Line 885. Capital gains reserve closing balance, from Part 1 of Schedule 13, Continuity of Reserves.
+3	Part8_sf/Part8_Subform/Ln890_sf	Line890_Field	890	numeric	12	Line 890. Capital gains or losses, excluding allowable business investment losses. Amount I minus line 885.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	Part9_sf/Part9_Subform/AmntJ_sf	AmountJ_Field		numeric	12	Amount J. Capital gains or losses, excluding allowable business investment losses. Amount from line 890 in Part 8.
+4	Part9_sf/Part9_Subform/Ln895_sf	Line895_Field	895	numeric	12	Line 895. Gain on the donation to a qualified donee of a share, debt obligation, or right listed on a designated stock exchange and other securities under paragraphs 38(a.1)(i) and (iii).
+4	Part9_sf/Part9_Subform/Ln896_sf	Line896_Field	896	numeric	12	Line 896. Gain on the donation to a qualified donee of ecologically sensitive land under subsection 38(a.2). Note 3.
+4	Part9_sf/Part9_Subform/AmntK_sf	AmountK_Field_1		numeric	12	Amount K. Subtotal. Line 895 plus line 896. Instance 1.
+4	Part9_sf/Part9_Subform	AmountK_Field_2		numeric	12	Amount K. Instance 2.
+4	Part9_sf/Part9_Subform/AmntL_sf	AmountL_Field		numeric	12	Amount L. Subtotal. Amount J minus amount K.
+4	Part9_sf/Part9_Subform/Ln897_sf	Line897_Field	897	numeric	12	Line 897. Exemption threshold at time of disposition.
+4	Part9_sf/Part9_Subform/Ln898_sf	Line898_Field	898	numeric	12	Line 898. The total of all capital gains from the actual disposition of the property.
+4	Part9_sf/Part9_Subform/AmntM_sf	AmountM_Field		numeric	12	Amount M. Line 897 or line 898, whichever is less.
+4	Part9_sf/Part9_Subform/Ln899_sf	Line899_TaxCapGain_Field		numeric	12	Taxable capital gains under section 34.2. Line 275 of Schedule 73, Income Inclusion Summary for Corporations that are Members of Partnerships.
+4	Part9_sf/Part9_Subform/Ln899_sf	Line899_Field	899	numeric	12	Line 899. Taxable capital gains under section 34.2. Line 275 of Schedule 73, Income Inclusion Summary for Corporations that are Members of Partnerships. Multiplied by 2.
+4	Part9_sf/Part9_Subform	AmountN_Field		numeric	12	Amount N. Subtotal. Total of amounts L and M plus line 899.
+4	Part9_sf/Part9_Subform/Ln901_sf	Line901_AllowCapLoss_Field		numeric	12	Allowable capital losses under section 34.2. Line 285 of Schedule 73, Income Inclusion Summary for Corporations that are Members of Partnerships.
+4	Part9_sf/Part9_Subform/Ln901_sf	Line901_Field	901	numeric	12	Line 901. Allowable capital losses under section 34.2. Line 285 of Schedule 73, Income Inclusion Summary for Corporations that are Members of Partnerships. Multiplied by 2.
+4	Part9_sf/Part9_Subform/AmntO_sf	AmountO_Field		numeric	12	Amount O. Subtotal. Amount N minus line 901.
+4	Part9_sf/Part9_Subform/Ln902_sf	Line902_Capgain_Field		numeric	12	Portion of the capital gain that is subject to a 100% inclusion rate per 100(1). Note 4.
+4	Part9_sf/Part9_Subform/Ln902_sf	Line902_Field	902	numeric	12	Line 902. Portion of the capital gain that is subject to a 100% inclusion rate per 100(1) multiplied by 2.
+4	Part9_sf/Part9_Subform/AmntP_sf	AmountP_Field		numeric	12	Amount P. Total capital gains or losses. Amount O plus line 902.
+4	Part9_sf/Part9_Subform/AmntQ_sf	AmountQ_Field		numeric	12	Amount Q. Total capital losses. If amount P is negative, enter amount P. If amount P is positive, enter zero. Enter amount Q on line 210 of Schedule 4.
+4	Part9_sf/Part9_Subform/AmntR_sf	AmountR_Field		numeric	12	Amount R. Taxable capital gains. If amount P is positive, enter the result of amount P multiplied by 50%; if amount P is negative, enter zero. Enter amount R on line 113 of Schedule 1.
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		

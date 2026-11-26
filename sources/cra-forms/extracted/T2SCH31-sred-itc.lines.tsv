@@ -1,6 +1,7 @@
 line	caption
 101	Is the corporation a qualifying corporation?
 390	Enter your taxable income for the previous tax year1 (prior to any loss carrybacks applied)
+397	For a CCPC filing an election under subsection 127(10.31), enter your taxable capital employed in Canada for the previous tax year minus $15 million. If this amount is nil or negative, enter "0". If this amount is over $60 million, enter $60 million
 650	Is the qualifying corporation an excluded corporation as defined under subsection 127.1(2)?
 102	Is the corporation claiming a contribution in the current year to an agricultural organization whose goal is to Yes No finance SR&ED work (for example, check-off dues)?
 210	Credit deemed as a remittance of co-op corporations
@@ -15,18 +16,19 @@ line	caption
 320	ITC closing balance of investments from qualified property and qualified resource property (amount 5G minus line 310)
 903	Total of lines 901 to
 350	Current expenditures (line 557 on Form T661 plus line 103 in Part 3)4
-360	Capital expenditures incurred after December 15, 2024 (from line 558 on Form T661)
+360	Qualified expenditures of a capital nature for property acquired after December 15, 2024 (from line 558 on Form T661)
 370	Repayments made in the year (from line 560 on Form T661)
 380	Total qualified SR&ED expenditures (total of lines 350 to 370)
 382	Are you an ECPC as defined in subsection 127(9)?
 385	Is the corporation associated with another CCPC for the purpose of calculating the SR&ED expenditure limit?
-398	For TYS after December 15, 2024, if this amount is over $60 million, enter $60 million
-399	$15 million. If you are an ECPC that is a member of a consolidated group, enter the average, over the period of three fiscal years immediately preceding and ending in the last calendar year that ended before the end of the particular tax year, of the annual revenue of the consolidated group, minus $15 million.5 If this amount is nil or negative, enter "0". If this amount is over $60 million, enter $60 million
-400	For an associated corporation If associated, the allocation of the SR&ED expenditure limit, as provided on Schedule 49 6
+398	For a CCPC that is not electing to determine its expenditure limit under 127(10.31) or (10.32), enter your taxable capital employed in Canada for the previous tax year minus $10 million (minus $15 million for TYS after December 15, 2024). If this amount is nil or negative, enter "0". If this amount is over $40 million, enter $40 million. For TYS after December 15, 2024, if this amount is over $60 million, enter $60 million
+386	Is the ECPC part of a consolidated group or is the CCPC electing under 127(10.32)?
+400	Associated corporation For an associated CCPC, allocation of the SR&ED expenditure limit, as provided on Schedule 49 6
 410	Your SR&ED expenditure limit for the year (enter amount 10C, line 400, or amount 10D, whichever applies)
+402	For a CCPC electing under 127(10.32) or an ECPC that is a member of a consolidated group, allocation of the SR&ED expenditure limit from Schedule 52 7
 420	Current SR&ED expenditures (from line 350 in Part 8) or × 15% = 11B the expenditure limit (from line 410), whichever is less 8
 430	Line 350 minus line 410 (if negative, enter "0")
-440	Capital expenditures incurred after December 15, 2024 (from line 360 in Part 8) or amount × 35% = 11D 11C above, whichever is less
+440	Qualified expenditures of a capital nature for property acquired after December 15, 2024 × 35% = 11D (from line 360 in Part 8) or amount 11C above, whichever is less
 450	Line 360 minus amount 11C above (if negative, enter "0")
 460	qualifying expenditure eligible for the 35% SR&ED × 35% = 11F ITC rate 9
 480	September 16, 2016, that reduced a × 20% = 11G qualifying expenditure incurred before 2015
@@ -37,6 +39,7 @@ line	caption
 530	Credit transferred on an amalgamation or the wind-up of a subsidiary
 540	Total current-year credit (from amount 11J)
 550	Credit allocated from a partnership
+555	Other adjustments to ITC
 560	Credit deducted from Part I tax
 580	Credit transferred to offset Part VII tax liability
 610	Refund of credit claimed on SR&ED expenditures (from Part 14 or 15, whichever applies)
@@ -49,7 +52,7 @@ line	caption
 885	Amount of unused credit carried forward from previous years and applied to reduce Part I tax payable in the current year
 890	ITC closing balance from pre-production mining expenditures (amount 18C minus line 885)
 611	apprentice whose contract number (or social insurance number (SIN) or name) appears below? (If not, you Yes No cannot claim the tax credit.)
-602	wages11 D or $2,000
+601	wages11
 612	Credit deemed as a remittance of co-op corporations
 615	Credit expired after 20 tax years
 625	ITC at the beginning of the tax year (amount 20A minus amount 20B)
@@ -70,5 +73,5 @@ line	caption
 140	Clean hydrogen ITC (from Schedule 74)
 155	Clean technology ITC (from Schedule 75)
 170	Clean technology manufacturing ITC (from Schedule 76)
-185	Clean electricity ITC
+185	Clean electricity ITC (from Schedule 77)
 200	Carbon capture, utilization, and storage ITC (from Schedule 78)

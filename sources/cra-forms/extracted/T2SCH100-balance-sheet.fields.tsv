@@ -1,0 +1,226 @@
+page	part	field	line	kind	digits	speak
+1	Info_sf	Info_inpt1-Name		text		Corporation's name
+1	Info_sf	Info_inpt2-BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Info_sf/Info_grp-FYE	Info_grp_inpt3		text		Tax year end date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table1-Assets/P1_table1_row1	cell1		numeric	4	Assets. Field code. Row 1.
+1	P1_sf/P1_table1-Assets/P1_table1_row1	cell2		numeric	12	Assets. Amount. Row 1.
+1	P1_sf/P1_table1-Assets/P1_table1_row2	cell1		numeric	4	Assets. Field code. Row 2.
+1	P1_sf/P1_table1-Assets/P1_table1_row2	cell2		numeric	12	Assets. Amount. Row 2.
+1	P1_sf/P1_table1-Assets/P1_table1_row3	cell1		numeric	4	Assets. Field code. Row 3.
+1	P1_sf/P1_table1-Assets/P1_table1_row3	cell2		numeric	12	Assets. Amount. Row 3.
+1	P1_sf/P1_table1-Assets/P1_table1_row4	cell1		numeric	4	Assets. Field code. Row 4.
+1	P1_sf/P1_table1-Assets/P1_table1_row4	cell2		numeric	12	Assets. Amount. Row 4.
+1	P1_sf/P1_table1-Assets/P1_table1_row5	cell1		numeric	4	Assets. Field code. Row 5.
+1	P1_sf/P1_table1-Assets/P1_table1_row5	cell2		numeric	12	Assets. Amount. Row 5.
+1	P1_sf/P1_table1-Assets/P1_table1_row6	cell1		numeric	4	Assets. Field code. Row 6.
+1	P1_sf/P1_table1-Assets/P1_table1_row6	cell2		numeric	12	Assets. Amount. Row 6.
+1	P1_sf/P1_table1-Assets/P1_table1_row7	cell1		numeric	4	Assets. Field code. Row 7.
+1	P1_sf/P1_table1-Assets/P1_table1_row7	cell2		numeric	12	Assets. Amount. Row 7.
+1	P1_sf/P1_table1-Assets/P1_table1_row8	cell1		numeric	4	Assets. Field code. Row 8.
+1	P1_sf/P1_table1-Assets/P1_table1_row8	cell2		numeric	12	Assets. Amount. Row 8.
+1	P1_sf/P1_table1-Assets/P1_table1_row9	cell1		numeric	4	Assets. Field code. Row 9.
+1	P1_sf/P1_table1-Assets/P1_table1_row9	cell2		numeric	12	Assets. Amount. Row 9.
+1	P1_sf/P1_table1-Assets/P1_table1_row10	cell1		numeric	4	Assets. Field code. Row 10.
+1	P1_sf/P1_table1-Assets/P1_table1_row10	cell2		numeric	12	Assets. Amount. Row 10.
+1	P1_sf/P1_table1-Assets/P1_table1_row11	cell1		numeric	4	Assets. Field code. Row 11.
+1	P1_sf/P1_table1-Assets/P1_table1_row11	cell2		numeric	12	Assets. Amount. Row 11.
+1	P1_sf/P1_table1-Assets/P1_table1_row12	cell1		numeric	4	Assets. Field code. Row 12.
+1	P1_sf/P1_table1-Assets/P1_table1_row12	cell2		numeric	12	Assets. Amount. Row 12.
+1	P1_sf/P1_table1-Assets/P1_table1_row13	cell1		numeric	4	Assets. Field code. Row 13.
+1	P1_sf/P1_table1-Assets/P1_table1_row13	cell2		numeric	12	Assets. Amount. Row 13.
+1	P1_sf/P1_table1-Assets/P1_table1_row14	cell1		numeric	4	Assets. Field code. Row 14.
+1	P1_sf/P1_table1-Assets/P1_table1_row14	cell2		numeric	12	Assets. Amount. Row 14.
+1	P1_sf/P1_table1-Assets/P1_table1_row15	cell1		numeric	4	Assets. Field code. Row 15.
+1	P1_sf/P1_table1-Assets/P1_table1_row15	cell2		numeric	12	Assets. Amount. Row 15.
+1	P1_sf/P1_table1-Assets/P1_table1_row16	cell1		numeric	4	Assets. Field code. Row 16.
+1	P1_sf/P1_table1-Assets/P1_table1_row16	cell2		numeric	12	Assets. Amount. Row 16.
+1	P1_sf/P1_table1-Assets/P1_table1_row17	cell1		numeric	4	Assets. Field code. Row 17.
+1	P1_sf/P1_table1-Assets/P1_table1_row17	cell2		numeric	12	Assets. Amount. Row 17.
+1	P1_sf/P1_table1-Assets/P1_table1_row18	cell1		numeric	4	Assets. Field code. Row 18.
+1	P1_sf/P1_table1-Assets/P1_table1_row18	cell2		numeric	12	Assets. Amount. Row 18.
+1	P1_sf/P1_table1-Assets/P1_table1_row19	cell1		numeric	4	Assets. Field code. Row 19.
+1	P1_sf/P1_table1-Assets/P1_table1_row19	cell2		numeric	12	Assets. Amount. Row 19.
+1	P1_sf/P1_table1-Assets/P1_table1_row20	cell1		numeric	4	Assets. Field code. Row 20.
+1	P1_sf/P1_table1-Assets/P1_table1_row20	cell2		numeric	12	Assets. Amount. Row 20.
+1	P1_sf/P1_table1-Assets/P1_table1_row21	cell1		numeric	4	Assets. Field code. Row 21.
+1	P1_sf/P1_table1-Assets/P1_table1_row21	cell2		numeric	12	Assets. Amount. Row 21.
+1	P1_sf/P1_table1-Assets/P1_table1_row22	cell1		numeric	4	Assets. Field code. Row 22.
+1	P1_sf/P1_table1-Assets/P1_table1_row22	cell2		numeric	12	Assets. Amount. Row 22.
+1	P1_sf/P1_table1-Assets/P1_table1_row23	cell1		numeric	4	Assets. Field code. Row 23.
+1	P1_sf/P1_table1-Assets/P1_table1_row23	cell2		numeric	12	Assets. Amount. Row 23.
+1	P1_sf/P1_table1-Assets/P1_table1_row24	cell1		numeric	4	Assets. Field code. Row 24.
+1	P1_sf/P1_table1-Assets/P1_table1_row24	cell2		numeric	12	Assets. Amount. Row 24.
+1	P1_sf/P1_table1-Assets/P1_table1_row25	cell1		numeric	4	Assets. Field code. Row 25.
+1	P1_sf/P1_table1-Assets/P1_table1_row25	cell2		numeric	12	Assets. Amount. Row 25.
+1	P1_sf/P1_table1-Assets/P1_table1_row26	cell1		numeric	4	Assets. Field code. Row 26.
+1	P1_sf/P1_table1-Assets/P1_table1_row26	cell2		numeric	12	Assets. Amount. Row 26.
+1	P1_sf/P1_table1-Assets/P1_table1_row27	cell1		numeric	4	Assets. Field code. Row 27.
+1	P1_sf/P1_table1-Assets/P1_table1_row27	cell2		numeric	12	Assets. Amount. Row 27.
+1	P1_sf/P1_table1-Assets/P1_table1_row28	cell1		numeric	4	Assets. Field code. Row 28.
+1	P1_sf/P1_table1-Assets/P1_table1_row28	cell2		numeric	12	Assets. Amount. Row 28.
+1	P1_sf/P1_table1-Assets/P1_table1_row29	cell1		numeric	4	Assets. Field code. Row 29.
+1	P1_sf/P1_table1-Assets/P1_table1_row29	cell2		numeric	12	Assets. Amount. Row 29.
+1	P1_sf/P1_table1-Assets/P1_table1_row30	cell1		numeric	4	Assets. Field code. Row 30.
+1	P1_sf/P1_table1-Assets/P1_table1_row30	cell2		numeric	12	Assets. Amount. Row 30.
+1	P1_sf/P1_table1-Assets/P1_table1_row31	cell1		numeric	4	Assets. Field code. Row 31.
+1	P1_sf/P1_table1-Assets/P1_table1_row31	cell2		numeric	12	Assets. Amount. Row 31.
+1	P1_sf/P1_table1-Assets/P1_table1_row32	cell1		numeric	4	Assets. Field code. Row 32.
+1	P1_sf/P1_table1-Assets/P1_table1_row32	cell2		numeric	12	Assets. Amount. Row 32.
+1	P1_sf/P1_table1-Assets/P1_table1_row33	cell1		numeric	4	Assets. Field code. Row 33.
+1	P1_sf/P1_table1-Assets/P1_table1_row33	cell2		numeric	12	Assets. Amount. Row 33.
+1	P1_sf/P1_table1-Assets/P1_table1_row34	cell1		numeric	4	Assets. Field code. Row 34.
+1	P1_sf/P1_table1-Assets/P1_table1_row34	cell2		numeric	12	Assets. Amount. Row 34.
+1	P1_sf/P1_table1-Assets/P1_table1_row35	cell1		numeric	4	Assets. Field code. Row 35.
+1	P1_sf/P1_table1-Assets/P1_table1_row35	cell2		numeric	12	Assets. Amount. Row 35.
+1	P1_sf/P1_table1-Assets/P1_table1_row36	cell1		numeric	4	Assets. Field code. Row 36.
+1	P1_sf/P1_table1-Assets/P1_table1_row36	cell2		numeric	12	Assets. Amount. Row 36.
+1	P1_sf/P1_table1-Assets/P1_table1_row37	cell1		numeric	4	Assets. Field code. Row 37.
+1	P1_sf/P1_table1-Assets/P1_table1_row37	cell2		numeric	12	Assets. Amount. Row 37.
+1	P1_sf/P1_table1-Assets/P1_table1_row38	cell1		numeric	4	Assets. Field code. Row 38.
+1	P1_sf/P1_table1-Assets/P1_table1_row38	cell2		numeric	12	Assets. Amount. Row 38.
+1	P1_sf/P1_table1-Assets/P1_table1_row39	cell1		numeric	4	Assets. Field code. Row 39.
+1	P1_sf/P1_table1-Assets/P1_table1_row39	cell2		numeric	12	Assets. Amount. Row 39.
+1	P1_sf/P1_table1-Assets/P1_table1_row40	cell2		numeric	12	Field code 2599. Amount.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row1	cell1		numeric	4	Liabilities. Field code. Row 1.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row1	cell2		numeric	12	Liabilities. Amount. Row 1.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row2	cell1		numeric	4	Liabilities. Field code. Row 2.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row2	cell2		numeric	12	Liabilities. Amount. Row 2.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row3	cell1		numeric	4	Liabilities. Field code. Row 3.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row3	cell2		numeric	12	Liabilities. Amount. Row 3.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row4	cell1		numeric	4	Liabilities. Field code. Row 4.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row4	cell2		numeric	12	Liabilities. Amount. Row 4.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row5	cell1		numeric	4	Liabilities. Field code. Row 5.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row5	cell2		numeric	12	Liabilities. Amount. Row 5.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row6	cell1		numeric	4	Liabilities. Field code. Row 6.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row6	cell2		numeric	12	Liabilities. Amount. Row 6.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row7	cell1		numeric	4	Liabilities. Field code. Row 7.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row7	cell2		numeric	12	Liabilities. Amount. Row 7.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row8	cell1		numeric	4	Liabilities. Field code. Row 8.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row8	cell2		numeric	12	Liabilities. Amount. Row 8.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row9	cell1		numeric	4	Liabilities. Field code. Row 9.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row9	cell2		numeric	12	Liabilities. Amount. Row 9.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row10	cell1		numeric	4	Liabilities. Field code. Row 10.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row10	cell2		numeric	12	Liabilities. Amount. Row 10.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row11	cell1		numeric	4	Liabilities. Field code. Row 11.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row11	cell2		numeric	12	Liabilities. Amount. Row 11.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row12	cell1		numeric	4	Liabilities. Field code. Row 12.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row12	cell2		numeric	12	Liabilities. Amount. Row 12.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row13	cell1		numeric	4	Liabilities. Field code. Row 13.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row13	cell2		numeric	12	Liabilities. Amount. Row 13.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row14	cell1		numeric	4	Liabilities. Field code. Row 14.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row14	cell2		numeric	12	Liabilities. Amount. Row 14.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row15	cell1		numeric	4	Liabilities. Field code. Row 15.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row15	cell2		numeric	12	Liabilities. Amount. Row 15.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row16	cell1		numeric	4	Liabilities. Field code. Row 16.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row16	cell2		numeric	12	Liabilities. Amount. Row 16.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row17	cell1		numeric	4	Liabilities. Field code. Row 17.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row17	cell2		numeric	12	Liabilities. Amount. Row 17.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row18	cell1		numeric	4	Liabilities. Field code. Row 18.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row18	cell2		numeric	12	Liabilities. Amount. Row 18.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row19	cell1		numeric	4	Liabilities. Field code. Row 19.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row19	cell2		numeric	12	Liabilities. Amount. Row 19.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row20	cell1		numeric	4	Liabilities. Field code. Row 20.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row20	cell2		numeric	12	Liabilities. Amount. Row 20.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row21	cell1		numeric	4	Liabilities. Field code. Row 21.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row21	cell2		numeric	12	Liabilities. Amount. Row 21.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row22	cell1		numeric	4	Liabilities. Field code. Row 22.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row22	cell2		numeric	12	Liabilities. Amount. Row 22.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row23	cell1		numeric	4	Liabilities. Field code. Row 23.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row23	cell2		numeric	12	Liabilities. Amount. Row 23.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row24	cell1		numeric	4	Liabilities. Field code. Row 24.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row24	cell2		numeric	12	Liabilities. Amount. Row 24.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row25	cell1		numeric	4	Liabilities. Field code. Row 25.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row25	cell2		numeric	12	Liabilities. Amount. Row 25.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row26	cell1		numeric	4	Liabilities. Field code. Row 26.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row26	cell2		numeric	12	Liabilities. Amount. Row 26.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row27	cell1		numeric	4	Liabilities. Field code. Row 27.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row27	cell2		numeric	12	Liabilities. Amount. Row 27.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row28	cell1		numeric	4	Liabilities. Field code. Row 28.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row28	cell2		numeric	12	Liabilities. Amount. Row 28.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row29	cell1		numeric	4	Liabilities. Field code. Row 29.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row29	cell2		numeric	12	Liabilities. Amount. Row 29.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row30	cell1		numeric	4	Liabilities. Field code. Row 30.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row30	cell2		numeric	12	Liabilities. Amount. Row 30.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row31	cell1		numeric	4	Liabilities. Field code. Row 31.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row31	cell2		numeric	12	Liabilities. Amount. Row 31.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row32	cell1		numeric	4	Liabilities. Field code. Row 32.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row32	cell2		numeric	12	Liabilities. Amount. Row 32.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row33	cell1		numeric	4	Liabilities. Field code. Row 33.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row33	cell2		numeric	12	Liabilities. Amount. Row 33.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row34	cell1		numeric	4	Liabilities. Field code. Row 34.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row34	cell2		numeric	12	Liabilities. Amount. Row 34.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row35	cell1		numeric	4	Liabilities. Field code. Row 35.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row35	cell2		numeric	12	Liabilities. Amount. Row 35.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row36	cell1		numeric	4	Liabilities. Field code. Row 36.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row36	cell2		numeric	12	Liabilities. Amount. Row 36.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row37	cell1		numeric	4	Liabilities. Field code. Row 37.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row37	cell2		numeric	12	Liabilities. Amount. Row 37.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row38	cell1		numeric	4	Liabilities. Field code. Row 38.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row38	cell2		numeric	12	Liabilities. Amount. Row 38.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row39	cell1		numeric	4	Liabilities. Field code. Row 39.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row39	cell2		numeric	12	Liabilities. Amount. Row 39.
+1	P1_sf/P1_table2-Liabilities/P1_table2_row40	cell2		numeric	12	Field code 3499. Amount.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row1	cell1		numeric	4	Shareholder equity. Field code. Row 1.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row1	cell2		numeric	12	Shareholder equity. Amount. Row 1.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row2	cell1		numeric	4	Shareholder equity. Field code. Row 2.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row2	cell2		numeric	12	Shareholder equity. Amount. Row 2.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row3	cell1		numeric	4	Shareholder equity. Field code. Row 3.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row3	cell2		numeric	12	Shareholder equity. Amount. Row 3.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row4	cell1		numeric	4	Shareholder equity. Field code. Row 4.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row4	cell2		numeric	12	Shareholder equity. Amount. Row 4.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row5	cell1		numeric	4	Shareholder equity. Field code. Row 5.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row5	cell2		numeric	12	Shareholder equity. Amount. Row 5.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row6	cell1		numeric	4	Shareholder equity. Field code. Row 6.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row6	cell2		numeric	12	Shareholder equity. Amount. Row 6.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row7	cell1		numeric	4	Shareholder equity. Field code. Row 7.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row7	cell2		numeric	12	Shareholder equity. Amount. Row 7.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row8	cell1		numeric	4	Shareholder equity. Field code. Row 8.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row8	cell2		numeric	12	Shareholder equity. Amount. Row 8.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row9	cell1		numeric	4	Shareholder equity. Field code. Row 9.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row9	cell2		numeric	12	Shareholder equity. Amount. Row 9.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row10	cell1		numeric	4	Shareholder equity. Field code. Row 10.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row10	cell2		numeric	12	Shareholder equity. Amount. Row 10.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row11	cell1		numeric	4	Shareholder equity. Field code. Row 11.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row11	cell2		numeric	12	Shareholder equity. Amount. Row 11.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row12	cell1		numeric	4	Shareholder equity. Field code. Row 12.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row12	cell2		numeric	12	Shareholder equity. Amount. Row 12.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row13	cell1		numeric	4	Shareholder equity. Field code. Row 13.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row13	cell2		numeric	12	Shareholder equity. Amount. Row 13.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row14	cell1		numeric	4	Shareholder equity. Field code. Row 14.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row14	cell2		numeric	12	Shareholder equity. Amount. Row 14.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row15	cell1		numeric	4	Shareholder equity. Field code. Row 15.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row15	cell2		numeric	12	Shareholder equity. Amount. Row 15.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row16	cell2		numeric	12	Field code 3620. Amount.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row17	cell1		text		Field code 3640.
+1	P1_sf/P1_table3-ShareholderEquity/P1_table3_row17	cell2		numeric	12	Field code 3640. Amount.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row1	cell1		numeric	4	Retained earnings. Field code. Row 1.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row1	cell2		numeric	12	Retained earnings. Amount. Row 1.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row2	cell1		numeric	4	Retained earnings. Field code. Row 2.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row2	cell2		numeric	12	Retained earnings. Amount. Row 2.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row3	cell1		numeric	4	Retained earnings. Field code. Row 3.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row3	cell2		numeric	12	Retained earnings. Amount. Row 3.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row4	cell1		numeric	4	Retained earnings. Field code. Row 4.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row4	cell2		numeric	12	Retained earnings. Amount. Row 4.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row5	cell1		numeric	4	Retained earnings. Field code. Row 5.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row5	cell2		numeric	12	Retained earnings. Amount. Row 5.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row6	cell1		numeric	4	Retained earnings. Field code. Row 6.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row6	cell2		numeric	12	Retained earnings. Amount. Row 6.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row7	cell1		numeric	4	Retained earnings. Field code. Row 7.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row7	cell2		numeric	12	Retained earnings. Amount. Row 7.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row8	cell1		numeric	4	Retained earnings. Field code. Row 8.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row8	cell2		numeric	12	Retained earnings. Amount. Row 8.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row9	cell1		numeric	4	Retained earnings. Field code. Row 9.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row9	cell2		numeric	12	Retained earnings. Amount. Row 9.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row10	cell1		numeric	4	Retained earnings. Field code. Row 10.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row10	cell2		numeric	12	Retained earnings. Amount. Row 10.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row11	cell1		numeric	4	Retained earnings. Field code. Row 11.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row11	cell2		numeric	12	Retained earnings. Amount. Row 11.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row12	cell1		numeric	4	Retained earnings. Field code. Row 12.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row12	cell2		numeric	12	Retained earnings. Amount. Row 12.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row13	cell1		numeric	4	Retained earnings. Field code. Row 13.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row13	cell2		numeric	12	Retained earnings. Amount. Row 13.
+1	P1_sf/P1_table4-RetainedEarnings/P1_table4_row14	cell2		numeric	12	Field code 3849. Amount.
+1	Ftr/PageNumbers	CurrentPage		numeric		
+1	Ftr/PageNumbers	PageCount		numeric		
+2	P2_sf/PageNumbers	CurrentPage		numeric		
+2	P2_sf/PageNumbers	PageCount		numeric		

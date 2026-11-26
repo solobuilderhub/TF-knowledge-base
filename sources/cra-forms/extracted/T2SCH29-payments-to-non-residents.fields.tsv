@@ -1,0 +1,56 @@
+page	part	field	line	kind	digits	speak
+1		NameofCorporation		text		
+1		BusinessNumber_		text		Business number. 9 digits. 2 letters. 4 digits.
+1	TaxYearEnd_Date	DateYYYYMMDD_Comb		text		Taxation year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Table/Row1	Cell1		text		
+1	Table/Row1	Cell2		text		
+1	Table/Row1	Cell3		numeric	1	
+1	Table/Row1	Cell4		numeric	12	
+1	Table/Row2	Cell1		text		
+1	Table/Row2	Cell2		text		
+1	Table/Row2	Cell3		numeric	1	
+1	Table/Row2	Cell4		numeric	12	
+1	Table/Row3	Cell1		text		
+1	Table/Row3	Cell2		text		
+1	Table/Row3	Cell3		numeric	1	
+1	Table/Row3	Cell4		numeric	12	
+1	Table/Row4	Cell1		text		
+1	Table/Row4	Cell2		text		
+1	Table/Row4	Cell3		numeric	1	
+1	Table/Row4	Cell4		numeric	12	
+1	Table/Row5	Cell1		text		
+1	Table/Row5	Cell2		text		
+1	Table/Row5	Cell3		numeric	1	
+1	Table/Row5	Cell4		numeric	12	
+1	Table/Row6	Cell1		text		
+1	Table/Row6	Cell2		text		
+1	Table/Row6	Cell3		numeric	1	
+1	Table/Row6	Cell4		numeric	12	
+1	Table/Row7	Cell1		text		
+1	Table/Row7	Cell2		text		
+1	Table/Row7	Cell3		numeric	1	
+1	Table/Row7	Cell4		numeric	12	
+1	Table/Row8	Cell1		text		
+1	Table/Row8	Cell2		text		
+1	Table/Row8	Cell3		numeric	1	
+1	Table/Row8	Cell4		numeric	12	
+1	Table/Row9	Cell1		text		
+1	Table/Row9	Cell2		text		
+1	Table/Row9	Cell3		numeric	1	
+1	Table/Row9	Cell4		numeric	12	
+1	Table/Row10	Cell1		text		
+1	Table/Row10	Cell2		text		
+1	Table/Row10	Cell3		numeric	1	
+1	Table/Row10	Cell4		numeric	12	
+1	Table/Row11	Cell1		text		
+1	Table/Row11	Cell2		text		
+1	Table/Row11	Cell3		numeric	1	
+1	Table/Row11	Cell4		numeric	12	
+1	Table/Row12	Cell1		text		
+1	Table/Row12	Cell2		text		
+1	Table/Row12	Cell3		numeric	1	
+1	Table/Row12	Cell4		numeric	12	
+1	Table/Row13	Cell1		text		
+1	Table/Row13	Cell2		text		
+1	Table/Row13	Cell3		numeric	1	
+1	Table/Row13	Cell4		numeric	12	

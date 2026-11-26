@@ -1,0 +1,193 @@
+page	part	field	line	kind	digits	speak
+1	Info_sf	info_inpt-Name		text		Corporation's name.
+1	Info_sf	info_inpt-BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Info_sf/info_grp	info_grp_inpt-FYE		text		Tax year-end date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Ins1_Ln3_sf/grp	radio1	101	check		Line 101. Is the corporation electing under subsection 1101(5q) of the Income Tax Regulations? Yes.
+1	Ins1_Ln3_sf/grp	radio2	101	check		Line 101. Is the corporation electing under subsection 1101(5q) of the Income Tax Regulations? No.
+1	P2_Table_2/P2_table_row1	cell1		text		
+1	P2_Table_2/P2_table_row1	cell2		numeric	12	
+1	P2_Table_2/P2_table_row1	cell3		numeric	12	
+1	P2_Table_2/P2_table_row1	cell4		numeric	12	
+1	P2_Table_2/P2_table_row1	cell5		numeric	12	
+1	P2_Table_2/P2_table_row1	cell6		numeric	12	
+1	P2_Table_2/P2_table_row1	cell7		numeric	12	
+1	P2_Table_2/P2_table_row1	cell8		numeric	12	
+1	P2_Table_2/P2_table_row2	cell1		text		
+1	P2_Table_2/P2_table_row2	cell2		numeric	12	
+1	P2_Table_2/P2_table_row2	cell3		numeric	12	
+1	P2_Table_2/P2_table_row2	cell4		numeric	12	
+1	P2_Table_2/P2_table_row2	cell5		numeric	12	
+1	P2_Table_2/P2_table_row2	cell6		numeric	12	
+1	P2_Table_2/P2_table_row2	cell7		numeric	12	
+1	P2_Table_2/P2_table_row2	cell8		numeric	12	
+1	P2_Table_2/P2_table_row3	cell1		text		
+1	P2_Table_2/P2_table_row3	cell2		numeric	12	
+1	P2_Table_2/P2_table_row3	cell3		numeric	12	
+1	P2_Table_2/P2_table_row3	cell4		numeric	12	
+1	P2_Table_2/P2_table_row3	cell5		numeric	12	
+1	P2_Table_2/P2_table_row3	cell6		numeric	12	
+1	P2_Table_2/P2_table_row3	cell7		numeric	12	
+1	P2_Table_2/P2_table_row3	cell8		numeric	12	
+1	P2_Table_2/P2_table_row4	cell1		text		
+1	P2_Table_2/P2_table_row4	cell2		numeric	12	
+1	P2_Table_2/P2_table_row4	cell3		numeric	12	
+1	P2_Table_2/P2_table_row4	cell4		numeric	12	
+1	P2_Table_2/P2_table_row4	cell5		numeric	12	
+1	P2_Table_2/P2_table_row4	cell6		numeric	12	
+1	P2_Table_2/P2_table_row4	cell7		numeric	12	
+1	P2_Table_2/P2_table_row4	cell8		numeric	12	
+1	P2_Table_2/P2_table_row5	cell1		text		
+1	P2_Table_2/P2_table_row5	cell2		numeric	12	
+1	P2_Table_2/P2_table_row5	cell3		numeric	12	
+1	P2_Table_2/P2_table_row5	cell4		numeric	12	
+1	P2_Table_2/P2_table_row5	cell5		numeric	12	
+1	P2_Table_2/P2_table_row5	cell6		numeric	12	
+1	P2_Table_2/P2_table_row5	cell7		numeric	12	
+1	P2_Table_2/P2_table_row5	cell8		numeric	12	
+1	P2_Table_2/P2_table_row6	cell1		text		
+1	P2_Table_2/P2_table_row6	cell2		numeric	12	
+1	P2_Table_2/P2_table_row6	cell3		numeric	12	
+1	P2_Table_2/P2_table_row6	cell4		numeric	12	
+1	P2_Table_2/P2_table_row6	cell5		numeric	12	
+1	P2_Table_2/P2_table_row6	cell6		numeric	12	
+1	P2_Table_2/P2_table_row6	cell7		numeric	12	
+1	P2_Table_2/P2_table_row6	cell8		numeric	12	
+1	P2_Table_2/P2_table_row7	cell1		text		
+1	P2_Table_2/P2_table_row7	cell2		numeric	12	
+1	P2_Table_2/P2_table_row7	cell3		numeric	12	
+1	P2_Table_2/P2_table_row7	cell4		numeric	12	
+1	P2_Table_2/P2_table_row7	cell5		numeric	12	
+1	P2_Table_2/P2_table_row7	cell6		numeric	12	
+1	P2_Table_2/P2_table_row7	cell7		numeric	12	
+1	P2_Table_2/P2_table_row7	cell8		numeric	12	
+1	P2_Table_2/P2_table_row8	cell1		text		
+1	P2_Table_2/P2_table_row8	cell2		numeric	12	
+1	P2_Table_2/P2_table_row8	cell3		numeric	12	
+1	P2_Table_2/P2_table_row8	cell4		numeric	12	
+1	P2_Table_2/P2_table_row8	cell5		numeric	12	
+1	P2_Table_2/P2_table_row8	cell6		numeric	12	
+1	P2_Table_2/P2_table_row8	cell7		numeric	12	
+1	P2_Table_2/P2_table_row8	cell8		numeric	12	
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	P2_Table_2/P2_Table_3/P2_table_row1	cell9		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row1	cell10		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row1	cell11		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row1	cell12		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row1	cell13		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row1	cell14		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row1	cell15		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row1	Cell16		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row2	cell9		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row2	cell10		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row2	cell11		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row2	cell12		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row2	cell13		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row2	cell14		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row2	cell15		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row2	Cell16		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row3	cell9		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row3	cell10		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row3	cell11		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row3	cell12		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row3	cell13		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row3	cell14		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row3	cell15		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row3	cell16		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row4	cell9		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row4	cell10		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row4	cell11		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row4	cell12		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row4	cell13		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row4	cell14		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row4	cell15		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row4	cell16		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row5	cell9		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row5	cell10		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row5	cell11		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row5	cell12		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row5	cell13		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row5	cell14		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row5	cell15		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row5	cell16		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row6	cell9		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row6	cell10		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row6	cell11		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row6	cell12		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row6	cell13		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row6	cell14		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row6	cell15		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row6	cell16		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row7	cell9		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row7	cell10		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row7	cell11		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row7	cell12		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row7	cell13		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row7	cell14		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row7	cell15		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row7	cell16		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row8	cell9		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row8	cell10		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row8	cell11		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row8	cell12		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row8	cell13		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row8	cell14		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row8	cell15		numeric	12	
+2	P2_Table_2/P2_Table_3/P2_table_row8	cell16		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row1	cell17		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row1	cell18		numeric		
+2	P2_sf/P2_Table_4/P2_table_row1	cell19		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row1	cell20		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row1	cell21		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row1	cell22		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row2	cell17		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row2	cell18		numeric		
+2	P2_sf/P2_Table_4/P2_table_row2	cell19		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row2	cell20		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row2	cell21		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row2	cell22		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row3	cell17		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row3	cell18		numeric		
+2	P2_sf/P2_Table_4/P2_table_row3	cell19		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row3	cell20		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row3	cell21		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row3	cell22		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row4	cell17		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row4	cell18		numeric		
+2	P2_sf/P2_Table_4/P2_table_row4	cell19		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row4	cell20		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row4	cell21		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row4	cell22		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row5	cell17		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row5	cell18		numeric		
+2	P2_sf/P2_Table_4/P2_table_row5	cell19		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row5	cell20		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row5	cell21		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row5	cell22		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row6	cell17		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row6	cell18		numeric		
+2	P2_sf/P2_Table_4/P2_table_row6	cell19		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row6	cell20		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row6	cell21		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row6	cell22		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row7	cell17		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row7	cell18		numeric		
+2	P2_sf/P2_Table_4/P2_table_row7	cell19		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row7	cell20		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row7	cell21		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row7	cell22		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row8	cell17		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row8	cell18		numeric		
+2	P2_sf/P2_Table_4/P2_table_row8	cell19		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row8	cell20		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row8	cell21		numeric	12	
+2	P2_sf/P2_Table_4/P2_table_row8	cell22		numeric	12	
+2	P2_sf/P2_ttl_sf	P2_total_inpt1		numeric	12	Total of column 19. Enter the total of column 19 on line 107 of Form T2 SCH 1, Net Income (Loss) for Income Tax Purposes.
+2	P2_sf/P2_ttl_sf	P2_total_inpt2		numeric	12	Total of column 20. Enter the total of column 20 on line 404 of Form T2 SCH 1.
+2	P2_sf/P2_ttl_sf	P2_total_inpt3		numeric	12	Total of column 21. Enter the total of column 21 on line 403 of Form T2 SCH 1.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		

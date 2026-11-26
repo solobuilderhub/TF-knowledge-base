@@ -1,0 +1,27 @@
+page	part	field	line	kind	digits	speak
+1	Allocating_Sub/DateYYYYMMDD_Comb_Top	Pg1_Lead1_Date	025	text		Line 025. Date filed. Do not use this area. Year 4 digits, Month 2 digits, Day 2 digits.
+1	Allocating_Sub/DateYYYY_Comb_BordersAll	Pg1_Lead2_Year	050	text	4	Line 050. Enter the calendar year to which the agreement applies. Year 4 digits.
+1	Allocating_Sub/RadioButtonGroup_075	Option1	075	check		Line 075. Is this an amended agreement for the above-noted calendar year that is intended to replace an agreement previously filed by any of the associated corporations listed below? Yes.
+1	Allocating_Sub/RadioButtonGroup_075	Option2	075	check		Line 075. Is this an amended agreement for the above-noted calendar year that is intended to replace an agreement previously filed by any of the associated corporations listed below? No.
+1	Allocating_Sub/Tbl1/Tbl1_Row1	Row1_Cell1	100	text		Line 100. Column 1. Names of associated corporations. Row 1.
+1	Allocating_Sub/Tbl1/Tbl1_Row1	Row1_Cell2	200	text		Line 200. Column 2. Business Number of associated corporations. 9 digits, 2 letters, and 4 digits. Row 1.
+1	Allocating_Sub/Tbl1/Tbl1_Row1	Row1_Cell3	300	text		Line 300. Column 3. Type of corporation code. Row 1.
+1	Allocating_Sub/Tbl1/Tbl1_Row1	Row1_Cell4	400	numeric	12	Line 400. Column 4. Expenditure limit allocated, in dollars. Row 1.
+1	Allocating_Sub/Tbl1/Tbl1_Row2	Row2_Cell1	100	text		Line 100. Column 1. Names of associated corporations. Row 2.
+1	Allocating_Sub/Tbl1/Tbl1_Row2	Row2_Cell2	200	text		Line 200. Column 2. Business Number of associated corporations. 9 digits, 2 letters, and 4 digits. Row 2.
+1	Allocating_Sub/Tbl1/Tbl1_Row2	Row1_Cell3	300	text		Line 300. Column 3. Type of corporation code. Row 2.
+1	Allocating_Sub/Tbl1/Tbl1_Row2	Row2_Cell4	400	numeric	12	Line 400. Column 4. Expenditure limit allocated, in dollars. Row 2.
+1	Allocating_Sub/Tbl1/Tbl1_Row3	Row3_Cell1	100	text		Line 100. Column 1. Names of associated corporations. Row 3.
+1	Allocating_Sub/Tbl1/Tbl1_Row3	Row3_Cell2	200	text		Line 200. Column 2. Business Number of associated corporations. 9 digits, 2 letters, and 4 digits. Row 3.
+1	Allocating_Sub/Tbl1/Tbl1_Row3	Row1_Cell3	300	text		Line 300. Column 3. Type of corporation code. Row 3.
+1	Allocating_Sub/Tbl1/Tbl1_Row3	Row3_Cell4	400	numeric	12	Line 400. Column 4. Expenditure limit allocated, in dollars. Row 3.
+1	Allocating_Sub/Tbl1/Tbl1_Row4	Row4_Cell1	100	text		Line 100. Column 1. Names of associated corporations. Row 4.
+1	Allocating_Sub/Tbl1/Tbl1_Row4	Row4_Cell2	200	text		Line 200. Column 2. Business Number of associated corporations. 9 digits, 2 letters, and 4 digits. Row 4.
+1	Allocating_Sub/Tbl1/Tbl1_Row4	Row1_Cell3	300	text		Line 300. Column 3. Type of corporation code. Row 4.
+1	Allocating_Sub/Tbl1/Tbl1_Row4	Row4_Cell4	400	numeric	12	Line 400. Column 4. Expenditure limit allocated, in dollars. Row 4.
+1	Allocating_Sub/Tbl1/Tbl1_Row5	Row5_Cell1	100	text		Line 100. Column 1. Names of associated corporations. Row 5.
+1	Allocating_Sub/Tbl1/Tbl1_Row5	Row5_Cell2	200	text		Line 200. Column 2. Business Number of associated corporations. 9 digits, 2 letters, and 4 digits. Row 5.
+1	Allocating_Sub/Tbl1/Tbl1_Row5	Row1_Cell3	300	text		Line 300. Column 3. Type of corporation code. Row 5.
+1	Allocating_Sub/Tbl1/Tbl1_Row5	Row5_Cell4	400	numeric	12	Line 400. Column 4. Expenditure limit allocated, in dollars. Row 5.
+1	Allocating_Sub/Tbl1/Tbl1_Footer	Amount_410	410	numeric	12	Line 410. The expenditure limit. Cannot be more than $3,000,000 or $6,000,000. Total of column 4.
+1	Allocating_Sub/Amnt_495_sf	Amount_495	495	numeric	12	Line 495. Amount A.

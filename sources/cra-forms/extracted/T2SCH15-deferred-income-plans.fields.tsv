@@ -1,0 +1,73 @@
+page	part	field	line	kind	digits	speak
+1		CorpName		text		
+1		BusinessNumber		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	TaxYearEnd_Date	DateYYYYMMDD_Comb		text		Taxation year end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	AllocationTable/Row1	Cell2		numeric	1	Row 1. Column 100. Type of plan. See note 1.
+1	AllocationTable/Row1	Cell3		numeric	12	Row 1. Column 200. Amount of contribution $. See note 2.
+1	AllocationTable/Row1	Cell4		text		Row 1. Column 300. Registration number, RPP, RSUBP, and DPSP only.
+1	AllocationTable/Row1	Cell5		text		Row 1. Column 400. Name of EPSP trust.
+1	AllocationTable/Row1	Cell6		text		Row 1. Column 500. Address of EPSP trust.
+1	AllocationTable/Row1	Cell7		numeric	1	Row 1. Column 600. T4PS slips filed by: 1 Trustee, 2 Employer, EPSP only.
+1	AllocationTable/Row2	Cell2		numeric	1	Row 2. Column 100. Type of plan. See note 1.
+1	AllocationTable/Row2	Cell3		numeric	12	Row 2. Column 200. Amount of contribution $. See note 2.
+1	AllocationTable/Row2	Cell4		text		Row 2. Column 300. Registration number, RPP, RSUBP, and DPSP only.
+1	AllocationTable/Row2	Cell5		text		Row 2. Column 400. Name of EPSP trust.
+1	AllocationTable/Row2	Cell6		text		Row 2. Column 500. Address of EPSP trust.
+1	AllocationTable/Row2	Cell7		numeric	1	Row 2. Column 600. T4PS slips filed by: 1 Trustee, 2 Employer, EPSP only.
+1	AllocationTable/Row3	Cell2		numeric	1	Row 3. Column 100. Type of plan. See note 1.
+1	AllocationTable/Row3	Cell3		numeric	12	Row 3. Column 200. Amount of contribution $. See note 2.
+1	AllocationTable/Row3	Cell4		text		Row 3. Column 300. Registration number, RPP, RSUBP, and DPSP only.
+1	AllocationTable/Row3	Cell5		text		Row 3. Column 400. Name of EPSP trust.
+1	AllocationTable/Row3	Cell6		text		Row 3. Column 500. Address of EPSP trust.
+1	AllocationTable/Row3	Cell7		numeric	1	Row 3. Column 600. T4PS slips filed by: 1 Trustee, 2 Employer, EPSP only.
+1	AllocationTable/Row4	Cell2		numeric	1	Row 4. Column 100. Type of plan. See note 1.
+1	AllocationTable/Row4	Cell3		numeric	12	Row 4. Column 200. Amount of contribution $. See note 2.
+1	AllocationTable/Row4	Cell4		text		Row 4. Column 300. Registration number, RPP, RSUBP, and DPSP only.
+1	AllocationTable/Row4	Cell5		text		Row 4. Column 400. Name of EPSP trust.
+1	AllocationTable/Row4	Cell6		text		Row 4. Column 500. Address of EPSP trust.
+1	AllocationTable/Row4	Cell7		numeric	1	Row 4. Column 600. T4PS slips filed by: 1 Trustee, 2 Employer, EPSP only.
+1	AllocationTable/Row5	Cell2		numeric	1	Row 5. Column 100. Type of plan. See note 1.
+1	AllocationTable/Row5	Cell3		numeric	12	Row 5. Column 200. Amount of contribution $. See note 2.
+1	AllocationTable/Row5	Cell4		text		Row 5. Column 300. Registration number, RPP, RSUBP, and DPSP only.
+1	AllocationTable/Row5	Cell5		text		Row 5. Column 400. Name of EPSP trust.
+1	AllocationTable/Row5	Cell6		text		Row 5. Column 500. Address of EPSP trust.
+1	AllocationTable/Row5	Cell7		numeric	1	Row 5. Column 600. T4PS slips filed by: 1 Trustee, 2 Employer, EPSP only.
+1	AllocationTable/Row6	Cell2		numeric	1	Row 6. Column 100. Type of plan. See note 1.
+1	AllocationTable/Row6	Cell3		numeric	12	Row 6. Column 200. Amount of contribution $. See note 2.
+1	AllocationTable/Row6	Cell4		text		Row 6. Column 300. Registration number, RPP, RSUBP, and DPSP only.
+1	AllocationTable/Row6	Cell5		text		Row 6. Column 400. Name of EPSP trust.
+1	AllocationTable/Row6	Cell6		text		Row 6. Column 500. Address of EPSP trust.
+1	AllocationTable/Row6	Cell7		numeric	1	Row 6. Column 600. T4PS slips filed by: 1 Trustee, 2 Employer, EPSP only.
+1	AllocationTable/Row7	Cell2		numeric	1	Row 7. Column 100. Type of plan. See note 1.
+1	AllocationTable/Row7	Cell3		numeric	12	Row 7. Column 200. Amount of contribution $. See note 2.
+1	AllocationTable/Row7	Cell4		text		Row 7. Column 300. Registration number, RPP, RSUBP, and DPSP only.
+1	AllocationTable/Row7	Cell5		text		Row 7. Column 400. Name of EPSP trust.
+1	AllocationTable/Row7	Cell6		text		Row 7. Column 500. Address of EPSP trust.
+1	AllocationTable/Row7	Cell7		numeric	1	Row 7. Column 600. T4PS slips filed by: 1 Trustee, 2 Employer, EPSP only.
+1	AllocationTable/Row8	Cell2		numeric	1	Row 8. Column 100. Type of plan. See note 1.
+1	AllocationTable/Row8	Cell3		numeric	12	Row 8. Column 200. Amount of contribution $. See note 2.
+1	AllocationTable/Row8	Cell4		text		Row 8. Column 300. Registration number, RPP, RSUBP, and DPSP only.
+1	AllocationTable/Row8	Cell5		text		Row 8. Column 400. Name of EPSP trust.
+1	AllocationTable/Row8	Cell6		text		Row 8. Column 500. Address of EPSP trust.
+1	AllocationTable/Row8	Cell7		numeric	1	Row 8. Column 600. T4PS slips filed by: 1 Trustee, 2 Employer, EPSP only.
+1	AllocationTable/Row9	Cell2		numeric	1	Row 9. Column 100. Type of plan. See note 1.
+1	AllocationTable/Row9	Cell3		numeric	12	Row 9. Column 200. Amount of contribution $. See note 2.
+1	AllocationTable/Row9	Cell4		text		Row 9. Column 300. Registration number, RPP, RSUBP, and DPSP only.
+1	AllocationTable/Row9	Cell5		text		Row 9. Column 400. Name of EPSP trust.
+1	AllocationTable/Row9	Cell6		text		Row 9. Column 500. Address of EPSP trust.
+1	AllocationTable/Row9	Cell7		numeric	1	Row 9. Column 600. T4PS slips filed by: 1 Trustee, 2 Employer, EPSP only.
+1	AllocationTable/Row10	Cell2		numeric	1	Row 10. Column 100. Type of plan. See note 1.
+1	AllocationTable/Row10	Cell3		numeric	12	Row 10. Column 200. Amount of contribution $. See note 2.
+1	AllocationTable/Row10	Cell4		text		Row 10. Column 300. Registration number, RPP, RSUBP, and DPSP only.
+1	AllocationTable/Row10	Cell5		text		Row 10. Column 400. Name of EPSP trust.
+1	AllocationTable/Row10	Cell6		text		Row 10. Column 500. Address of EPSP trust.
+1	AllocationTable/Row10	Cell7		numeric	1	Row 10. Column 600. T4PS slips filed by: 1 Trustee, 2 Employer, EPSP only.
+1	AllocationTable/Row11	Cell2		numeric	1	Row 11. Column 100. Type of plan. See note 1.
+1	AllocationTable/Row11	Cell3		numeric	12	Row 11. Column 200. Amount of contribution $. See note 2.
+1	AllocationTable/Row11	Cell4		text		Row 11. Column 300. Registration number, RPP, RSUBP, and DPSP only.
+1	AllocationTable/Row11	Cell5		text		Row 11. Column 400. Name of EPSP trust.
+1	AllocationTable/Row11	Cell6		text		Row 11. Column 500. Address of EPSP trust.
+1	AllocationTable/Row11	Cell7		numeric	1	Row 11. Column 600. T4PS slips filed by: 1 Trustee, 2 Employer, EPSP only.
+1	Notes_Sub	Note2_AmountA		numeric	12	Amount A. Total of all amounts indicated in column 200 of this schedule.
+1	Notes_Sub	Note2_AmountB		numeric	12	Amount B. Total of all amounts for deferred income plans deducted in your financial statements.
+1	Notes_Sub	Note2_AmountC		numeric	12	Amount C. Deductible amount for contributions to deferred income plans. Amount A minus amount B. If negative, enter 0. Enter amount C on line 417 of Schedule 1.

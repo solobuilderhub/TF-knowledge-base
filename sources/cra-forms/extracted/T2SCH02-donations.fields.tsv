@@ -1,0 +1,123 @@
+page	part	field	line	kind	digits	speak
+1		Corp_Nm		text		Corporation's name.
+1		BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	DateYYYYMMDD_Comb_BordersAll	DateYYYYMMDD_Comb		text		Tax year-end. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Prt1_Char_Don_sf/Amt_1A_sf	Part1_amount1A		numeric	12	Amount 1A. Charitable donations at the end of the previous tax year.
+1	Prt1_Char_Don_sf/Deduct_Charity_sf	Amount_Line_239	239	numeric	12	Line 239. Charitable donations expired after five tax years.
+1	Prt1_Char_Don_sf/Deduct_Charity_sf	Part1_Amount	240	numeric	12	Line 240. Charitable donations at the beginning of the current tax year. Amount 1A minus line 239.
+1	Prt1_Char_Don_sf/Add_sf	Amount_line250	250	numeric	12	Line 250. Charitable donations transferred on an amalgamation or the wind-up of a subsidiary.
+1	Prt1_Char_Don_sf/Add_sf	Amount_line210	210	numeric	12	Line 210. Total charitable donations made in the current year. Include this amount on line 112 of Schedule 1, Net Income, Loss, for Income Tax Purposes.
+1	Prt1_Char_Don_sf/Add_sf	Subtot_amt1B		numeric	12	Amount 1B. Subtotal. Line 250 plus line 210. Instance 1.
+1	Prt1_Char_Don_sf/Add_sf	Amount_1B		numeric	12	Amount 1B. Instance 2.
+1	Prt1_Char_Don_sf/Add_sf	Amount_1C		numeric	12	Amount 1C. Subtotal. Line 240 plus amount 1B.
+1	Prt1_Char_Don_sf/Adjust_sf	Amount_line_255	255	numeric	12	Line 255. Adjustment for an acquisition of control.
+1	Prt1_Char_Don_sf/Adjust_sf	Part1_amount1D		numeric	12	Amount 1D. Total charitable donations available. Amount 1C minus line 255.
+1	Prt1_Char_Don_sf/Deduct_Amt_sf	Amount_line_260	260	numeric	12	Line 260. Amount applied in the current year against taxable income. Cannot be more than amount 2H in Part 2. Enter this amount on line 311 of the T2 return.
+1	Prt1_Char_Don_sf/Deduct_Amt_sf	Amount_line280	280	numeric	12	Line 280. Charitable donations closing balance. Amount 1D minus line 260.
+1		CurrentPage		numeric		
+1		PageCount		numeric		
+2	Prt1_P2_sf/Ont_Calc_sf	Line262_AmtField	262	numeric	12	Line 262. The amount of qualifying donations for the Ontario community food program donation tax credit for farmers included in the amount on line 260. For donations made after December 31, 2013.
+2	Prt1_P2_sf/Ont_Calc_sf	Amount_1		numeric	12	Amount 1. Ontario community food program donation tax credit for farmers. Amount on line 262 multiplied by 25%.
+2	Prt1_P2_sf/NS_Calc_sf	Line263_AmtField	263	numeric	12	Line 263. The amount of qualifying donations for the Nova Scotia food bank tax credit for farmers included in the amount on line 260. For donations made after December 31, 2015.
+2	Prt1_P2_sf/NS_Calc_sf	Amount_2		numeric	12	Amount 2. Nova Scotia food bank tax credit for farmers. Amount on line 263 multiplied by 25%.
+2	Prt1_P2_sf/BC_Calc_sf	Line265_AmtField	265	numeric	12	Line 265. The amount of qualifying gifts for the British Columbia farmers' food donation tax credit included in the amount on line 260. For donations made after February 16, 2016, and before January 1, 2027.
+2	Prt1_P2_sf/BC_Calc_sf	Amount_3		numeric	12	Amount 3. British Columbia farmers' food donation tax credit. Amount on line 265 multiplied by 25%.
+2	Prt2_sf/Net_Inc_sf	Amount_2A		numeric	12	Amount 2A. Net income for tax purposes multiplied by 75%.
+2	Prt2_sf/Tax_Cap_Gains_sf	Line225_AmtField	225	numeric	12	Line 225. Taxable capital gains arising in respect of gifts of capital property included in Part 1.
+2	Prt2_sf/Tax_Cap_Gains_sf	Line227_AmtField	227	numeric	12	Line 227. Taxable capital gain in respect of a disposition of a non-qualifying security under subsection 40(1.01).
+2	Prt2_sf/Tax_Cap_Gains_sf	Line230_AmtField	230	numeric	12	Line 230. The amount of the recapture of capital cost allowance in respect of charitable donations.
+2	Prt2_sf/ID_1B_Subform	amount_2B		numeric	12	Amount 2B. Proceeds of disposition, less outlays and expenses.
+2	Prt2_sf/ID_2C_Subform	Amount_2C		numeric	12	Amount 2C. Capital cost.
+2	Prt2_sf/ID_235_to_2G_sf	Line235_AmtField	235	numeric	12	Line 235. Amount 2B or 2C, whichever is less.
+2	Prt2_sf/ID_235_to_2G_sf	Amount2D_AmtField		numeric	12	Amount 2D. Amount on line 230 or 235, whichever is less.
+2	Prt2_sf/ID_235_to_2G_sf	Amount_2E		numeric	12	Amount 2E. Subtotal. Add lines 225, 227, and amount 2D.
+2	Prt2_sf/ID_235_to_2G_sf	Amount_2F		numeric	12	Amount 2F. Amount 2E multiplied by 25%.
+2	Prt2_sf/ID_235_to_2G_sf	Amount_2G		numeric	12	Amount 2G. Subtotal. Amount 2A plus amount 2F.
+2	Prt2_sf/Max_Allowed_Deduction_sf	Amount_2H		numeric	12	Amount 2H. Maximum allowable deduction for charitable donations. Enter amount 1D from Part 1, amount 2G, or net income for tax purposes, whichever is the least.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	Prt3_sf/Amt3A_sf	Amount_3A		numeric	12	Amount 3A. Gifts of certified cultural property at the end of the previous tax year.
+3	Prt3_sf/Deduct_Gift_sf	Line439_AmtField	439	numeric	12	Line 439. Gifts of certified cultural property expired after five tax years.
+3	Prt3_sf/Deduct_Gift_sf	Line440_AmtField	440	numeric	12	Line 440. Gifts of certified cultural property at the beginning of the current tax year. Amount 3A minus line 439.
+3	Prt3_sf/AddGift_sf	Line450_AmtField	450	numeric	12	Line 450. Gifts of certified cultural property transferred on an amalgamation or the wind-up of a subsidiary.
+3	Prt3_sf/AddGift_sf	Line410_AmtField	410	numeric	12	Line 410. Total gifts of certified cultural property in the current year. Include this amount on line 112 of Schedule 1.
+3	Prt3_sf/AddGift_sf	SubT_450_plus_410_Amt		numeric	12	Amount 3B. Subtotal. Line 450 plus line 410. Instance 1.
+3	Prt3_sf/AddGift_sf	Amount_3B		numeric	12	Amount 3B. Instance 2.
+3	Prt3_sf/AddGift_sf	Amount3C		numeric	12	Amount 3C. Subtotal. Line 440 plus amount 3B.
+3	Prt3_sf/Deduct_adj_sf	Line455_AmtField	455	numeric	12	Line 455. Adjustment for an acquisition of control.
+3	Prt3_sf/Deduct_adj_sf	Line460_AmtField	460	numeric	12	Line 460. Amount applied in the current year against taxable income. Enter this amount on line 313 of the T2 return.
+3	Prt3_sf/Deduct_adj_sf	SubT_455_plus_460_Amt		numeric	12	Amount 3D. Subtotal. Line 455 plus line 460. Instance 1.
+3	Prt3_sf/Deduct_adj_sf	Amount_3D		numeric	12	Amount 3D. Instance 2.
+3	Prt3_sf/Line480_sf	Line480_AmtField	480	numeric	12	Line 480. Gifts of certified cultural property closing balance. Amount 3C minus amount 3D.
+3	Prt4_sf/Amt4A_sf	Amount_4A		numeric	12	Amount 4A. Gifts of certified ecologically sensitive land at the end of the previous tax year.
+3	Prt4_sf/Deduct_Gift_sf	Amount_line539	539	numeric	12	Line 539. Gifts of certified ecologically sensitive land expired after 5 tax years, or after 10 tax years for gifts made after February 10, 2014.
+3	Prt4_sf/Deduct_Gift_sf	Amount_Line540	540	numeric	12	Line 540. Gifts of certified ecologically sensitive land at the beginning of the current tax year. Amount 4A minus line 539.
+3	Prt4_sf/AddGift_sf	Line550_AmtField	550	numeric	12	Line 550. Gifts of certified ecologically sensitive land transferred on an amalgamation or the wind-up of a subsidiary.
+3	Prt4_sf/AddGift_sf	Line520_AmtField	520	numeric	12	Line 520. Total current-year gifts of certified ecologically sensitive land. Include this amount on line 112 of Schedule 1.
+3	Prt4_sf/AddGift_sf	SubT_Amt4B		numeric	12	Amount 4B. Subtotal. Line 550 plus line 520. Instance 1.
+3	Prt4_sf/AddGift_sf	Amount_4B		numeric	12	Amount 4B. Instance 2.
+3	Prt4_sf/AddGift_sf	Amount_4C		numeric	12	Amount 4C. Subtotal. Line 540 plus amount 4B.
+3	Prt4_sf/Adjust_sf	Amount_line555	555	numeric	12	Line 555. Adjustment for an acquisition of control.
+3	Prt4_sf/Adjust_sf	Amount_line560	560	numeric	12	Line 560. Amount applied in the current year against taxable income. Enter this amount on line 314 of the T2 return.
+3	Prt4_sf/Adjust_sf	SubT_Amt4D		numeric	12	Amount 4D. Subtotal. Line 555 plus line 560. Instance 1.
+3	Prt4_sf/Adjust_sf	Amount_4D		numeric	12	Amount 4D. Instance 2.
+3	Prt4_sf/Line580_sf	Line580_AmtField	580	numeric	12	Line 580. Gifts of certified ecologically sensitive land closing balance. Amount 4C minus amount 4D.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	Prt5_sf/Add_Deductions_sf	Amount_5A		numeric	12	Amount 5A. Additional deduction for gifts of medicine at the end of the previous tax year.
+4	Prt5_sf/Add_Deductions_sf	Line639_AmtField	639	numeric	12	Line 639. Additional deduction for gifts of medicine expired after five tax years.
+4	Prt5_sf/Add_Deductions_sf	Line640_AmtField	640	numeric	12	Line 640. Additional deduction for gifts of medicine at the beginning of the current tax year. Amount 5A minus line 639.
+4	Prt5_sf/Add_Calc1_sf	Line650_AmtField	650	numeric	12	Line 650. Additional deduction for gifts of medicine made before March 22, 2017 transferred on an amalgamation or the wind-up of a subsidiary.
+4	Prt5_sf/Add_Calc1_sf	Line602_AmtField	602	numeric	12	Line 602. Proceeds of disposition.
+4	Prt5_sf/Add_Calc1_sf	Line601_AmtField	601	numeric	12	Line 601. Cost of gifts of medicine made before March 22, 2017.
+4	Prt5_sf/Add_Calc1_sf	Amount_5B		numeric	12	Amount 5B. Subtotal. Line 602 minus line 601.
+4	Prt5_sf/Add_Calc1_sf	Amount_5C		numeric	12	Amount 5C. Amount 5B multiplied by 50%.
+4	Prt5_sf/Add_Calc1_sf	Line600_AmtField	600	numeric	12	Line 600. Eligible amount of gifts.
+4	Prt5_sf/Add_Calc2_sf	Amount_Lwrcase_a		numeric	12	Amount lower case a is the lesser of line 601 and amount 5C.
+4	Prt5_sf/Add_Calc2_sf	Amount_lwrcase_b		numeric	12	Amount lower case b is the eligible amount of gifts. Line 600.
+4	Prt5_sf/Add_Calc2_sf	Amount_lwrcase_c		numeric	12	Amount lower case c is the proceeds of disposition. Line 602.
+4	Prt5_sf/Add_Calc2_sf	Line610_AmtField	610	numeric	12	Line 610. Additional deduction for gifts of medicine made before March 22, 2017. Amount lower case a multiplied by the result of amount lower case b divided by amount lower case c.
+4	Prt5_sf/Add_Calc2_sf	SubT_Amount_5D		numeric	12	Amount 5D. Subtotal. Line 650 plus line 610. Instance 1.
+4	Prt5_sf/Add_Calc2_sf	Amount_5D		numeric	12	Amount 5D. Instance 2.
+4	Prt5_sf/Add_Calc2_sf	Amount_5E		numeric	12	Amount 5E. Subtotal. Line 640 plus amount 5D.
+4	Prt5_sf/Deduct_Adjust_sf	Line655_AmtField	655	numeric	12	Line 655. Adjustment for an acquisition of control.
+4	Prt5_sf/Deduct_Adjust_sf	Line660_AmtField	660	numeric	12	Line 660. Amount applied in the current year against taxable income. Enter this amount on line 315 of the T2 return.
+4	Prt5_sf/Deduct_Adjust_sf	SubT_Amount_5F		numeric	12	Amount 5F. Subtotal. Line 655 plus line 660. Instance 1.
+4	Prt5_sf/Deduct_Adjust_sf	Amount_5F		numeric	12	Amount 5F. Instance 2.
+4	Prt5_sf/Line680_sf	Line680_AmtField	680	numeric	12	Line 680. Additional deduction for gifts of medicine closing balance. Amount 5E minus amount 5F.
+4	Prt6_sf/Prt6_Table_sf/Table/Row1	Cell1		text		Year of origin. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+4	Prt6_sf/Prt6_Table_sf/Table/Row1	Cell2		numeric	12	Charitable donations available for carryforward. Row 1.
+4	Prt6_sf/Prt6_Table_sf/Table/Row1	Cell3		numeric	12	Gifts of certified cultural property available for carryforward. Row 1.
+4	Prt6_sf/Prt6_Table_sf/Table/Row1	Cell4		numeric	12	Gifts of certified ecologically sensitive land available for carryforward, made before February 11, 2014. Row 1.
+4	Prt6_sf/Prt6_Table_sf/Table/Row1	Cell5		numeric	12	Gifts of certified ecologically sensitive land available for carryforward, made after February 10, 2014. Row 1.
+4	Prt6_sf/Prt6_Table_sf/Table/Row2	Cell1		text		Year of origin. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+4	Prt6_sf/Prt6_Table_sf/Table/Row2	Cell2		numeric	12	Charitable donations available for carryforward. Row 2.
+4	Prt6_sf/Prt6_Table_sf/Table/Row2	Cell3		numeric	12	Gifts of certified cultural property available for carryforward. Row 2.
+4	Prt6_sf/Prt6_Table_sf/Table/Row2	Cell4		numeric	12	Gifts of certified ecologically sensitive land available for carryforward, made before February 11, 2014. Row 2.
+4	Prt6_sf/Prt6_Table_sf/Table/Row2	Cell5		numeric	12	Gifts of certified ecologically sensitive land available for carryforward, made after February 10, 2014. Row 2.
+4	Prt6_sf/Prt6_Table_sf/Table/Row3	Cell1		text		Year of origin. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+4	Prt6_sf/Prt6_Table_sf/Table/Row3	Cell2		numeric	12	Charitable donations available for carryforward. Row 3.
+4	Prt6_sf/Prt6_Table_sf/Table/Row3	Cell3		numeric	12	Gifts of certified cultural property available for carryforward. Row 3.
+4	Prt6_sf/Prt6_Table_sf/Table/Row3	Cell4		numeric	12	Gifts of certified ecologically sensitive land available for carryforward, made before February 11, 2014. Row 3.
+4	Prt6_sf/Prt6_Table_sf/Table/Row3	Cell5		numeric	12	Gifts of certified ecologically sensitive land available for carryforward, made after February 10, 2014. Row 3.
+4	Prt6_sf/Prt6_Table_sf/Table/Row4	Cell1		text		Year of origin. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+4	Prt6_sf/Prt6_Table_sf/Table/Row4	Cell2		numeric	12	Charitable donations available for carryforward. Row 4.
+4	Prt6_sf/Prt6_Table_sf/Table/Row4	Cell3		numeric	12	Gifts of certified cultural property available for carryforward. Row 4.
+4	Prt6_sf/Prt6_Table_sf/Table/Row4	Cell4		numeric	12	Gifts of certified ecologically sensitive land available for carryforward, made before February 11, 2014. Row 4.
+4	Prt6_sf/Prt6_Table_sf/Table/Row4	Cell5		numeric	12	Gifts of certified ecologically sensitive land available for carryforward, made after February 10, 2014. Row 4.
+4	Prt6_sf/Prt6_Table_sf/Table/Row5	Cell1		text		Year of origin. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+4	Prt6_sf/Prt6_Table_sf/Table/Row5	Cell2		numeric	12	Charitable donations available for carryforward. Row 5.
+4	Prt6_sf/Prt6_Table_sf/Table/Row5	Cell3		numeric	12	Gifts of certified cultural property available for carryforward. Row 5.
+4	Prt6_sf/Prt6_Table_sf/Table/Row5	Cell4		numeric	12	Gifts of certified ecologically sensitive land available for carryforward, made before February 11, 2014. Row 5.
+4	Prt6_sf/Prt6_Table_sf/Table/Row5	Cell5		numeric	12	Gifts of certified ecologically sensitive land available for carryforward, made after February 10, 2014. Row 5.
+4	Prt6_sf/Prt6_Table_sf/Table/Row6	Cell1		text		Year of origin. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 6.
+4	Prt6_sf/Prt6_Table_sf/Table/Row6	Cell2		numeric	12	Charitable donations available for carryforward. Row 6.
+4	Prt6_sf/Prt6_Table_sf/Table/Row6	Cell3		numeric	12	Gifts of certified cultural property available for carryforward. Row 6.
+4	Prt6_sf/Prt6_Table_sf/Table/Row6	Cell4		numeric	12	Gifts of certified ecologically sensitive land available for carryforward, made before February 11, 2014. Row 6.
+4	Prt6_sf/Prt6_Table_sf/Table/Row6	Cell5		numeric	12	Gifts of certified ecologically sensitive land available for carryforward, made after February 10, 2014. Row 6.
+4	Prt6_sf/Prt6_Table_sf/Table/Row7	Cell2		numeric	12	Total. Charitable donations available for carryforward.
+4	Prt6_sf/Prt6_Table_sf/Table/Row7	Cell3		numeric	12	Total. Gifts of certified cultural property available for carryforward.
+4	Prt6_sf/Prt6_Table_sf/Table/Row7	Cell4		numeric	12	Total. Gifts of certified ecologically sensitive land available for carryforward, made before February 11, 2014.
+4	Prt6_sf/Prt6_Table_sf/Table/Row7	Cell5		numeric	12	Total. Gifts of certified ecologically sensitive land available for carryforward, made after February 10, 2014.
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		

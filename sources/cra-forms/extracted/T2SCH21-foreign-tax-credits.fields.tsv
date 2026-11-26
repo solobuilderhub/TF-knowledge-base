@@ -1,0 +1,258 @@
+page	part	field	line	kind	digits	speak
+1	Ident	Corp_name		text		Corporation's name.
+1	Ident	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident/TY_end	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_content/P1_table/Row1	Cell1	100	text		Line 100. Column 1A. Country of source of foreign non-business income. Row 1.
+1	P1_content/P1_table/Row1	Cell2	110	numeric	12	Line 110. Column 1B. Net foreign non-business income earned in the year. Row 1.
+1	P1_content/P1_table/Row1	Cell3	120	numeric	12	Line 120. Column 1C. Foreign non-business income tax paid for the year. Row 1.
+1	P1_content/P1_table/Row1	Cell4	130	numeric	12	Line 130. Column 1D. Foreign non-business income tax paid, deducted from income under subsection 20(12). Row 1.
+1	P1_content/P1_table/Row1	Cell5		numeric	12	Column 1E. Column 1C minus column 1D. Row 1.
+1	P1_content/P1_table/Row1	Cell6		numeric	12	Column 1F. Adjusted net income. Amount from line 600 in Part 6. Row 1.
+1	P1_content/P1_table/Row1	Cell7		numeric	12	Column 1G. Part I tax otherwise payable. Amount from line 610 in Part 7. Row 1.
+1	P1_content/P1_table/Row1	Cell8		numeric	12	Column 1H. The result of column 1B multiplied by 1G, divided by column 1F. Cannot be more than column 1G. Row 1.
+1	P1_content/P1_table/Row1	Cell9	180	numeric	12	Line 180. Column 1I. Deductible credit. Column 1E or 1H, whichever is less. Row 1.
+1	P1_content/P1_table/Row2	Cell1	100	text		Line 100. Column 1A. Country of source of foreign non-business income. Row 2.
+1	P1_content/P1_table/Row2	Cell2	110	numeric	12	Line 110. Column 1B. Net foreign non-business income earned in the year. Row 2.
+1	P1_content/P1_table/Row2	Cell3	120	numeric	12	Line 120. Column 1C. Foreign non-business income tax paid for the year. Row 2.
+1	P1_content/P1_table/Row2	Cell4	130	numeric	12	Line 130. Column 1D. Foreign non-business income tax paid, deducted from income under subsection 20(12). Row 2.
+1	P1_content/P1_table/Row2	Cell5		numeric	12	Column 1E. Column 1C minus column 1D. Row 2.
+1	P1_content/P1_table/Row2	Cell6		numeric	12	Column 1F. Adjusted net income. Amount from line 600 in Part 6. Row 2.
+1	P1_content/P1_table/Row2	Cell7		numeric	12	Column 1G. Part I tax otherwise payable. Amount from line 610 in Part 7. Row 2.
+1	P1_content/P1_table/Row2	Cell8		numeric	12	Column 1H. The result of column 1B multiplied by 1G, divided by column 1F. Cannot be more than column 1G. Row 2.
+1	P1_content/P1_table/Row2	Cell9	180	numeric	12	Line 180. Column 1I. Deductible credit. Column 1E or 1H, whichever is less. Row 2.
+1	P1_content/P1_table/Row3	Cell1	100	text		Line 100. Column 1A. Country of source of foreign non-business income. Row 3.
+1	P1_content/P1_table/Row3	Cell2	110	numeric	12	Line 110. Column 1B. Net foreign non-business income earned in the year. Row 3.
+1	P1_content/P1_table/Row3	Cell3	120	numeric	12	Line 120. Column 1C. Foreign non-business income tax paid for the year. Row 3.
+1	P1_content/P1_table/Row3	Cell4	130	numeric	12	Line 130. Column 1D. Foreign non-business income tax paid, deducted from income under subsection 20(12). Row 3.
+1	P1_content/P1_table/Row3	Cell5		numeric	12	Column 1E. Column 1C minus column 1D. Row 3.
+1	P1_content/P1_table/Row3	Cell6		numeric	12	Column 1F. Adjusted net income. Amount from line 600 in Part 6. Row 3.
+1	P1_content/P1_table/Row3	Cell7		numeric	12	Column 1G. Part I tax otherwise payable. Amount from line 610 in Part 7. Row 3.
+1	P1_content/P1_table/Row3	Cell8		numeric	12	Column 1H. The result of column 1B multiplied by 1G, divided by column 1F. Cannot be more than column 1G. Row 3.
+1	P1_content/P1_table/Row3	Cell9	180	numeric	12	Line 180. Column 1I. Deductible credit. Column 1E or 1H, whichever is less. Row 3.
+1	P1_content/P1_table/Row4	Cell1	100	text		Line 100. Column 1A. Country of source of foreign non-business income. Row 4.
+1	P1_content/P1_table/Row4	Cell2	110	numeric	12	Line 110. Column 1B. Net foreign non-business income earned in the year. Row 4.
+1	P1_content/P1_table/Row4	Cell3	120	numeric	12	Line 120. Column 1C. Foreign non-business income tax paid for the year. Row 4.
+1	P1_content/P1_table/Row4	Cell4	130	numeric	12	Line 130. Column 1D. Foreign non-business income tax paid, deducted from income under subsection 20(12). Row 4.
+1	P1_content/P1_table/Row4	Cell5		numeric	12	Column 1E. Column 1C minus column 1D. Row 4.
+1	P1_content/P1_table/Row4	Cell6		numeric	12	Column 1F. Adjusted net income. Amount from line 600 in Part 6. Row 4.
+1	P1_content/P1_table/Row4	Cell7		numeric	12	Column 1G. Part I tax otherwise payable. Amount from line 610 in Part 7. Row 4.
+1	P1_content/P1_table/Row4	Cell8		numeric	12	Column 1H. The result of column 1B multiplied by 1G, divided by column 1F. Cannot be more than column 1G. Row 4.
+1	P1_content/P1_table/Row4	Cell9	180	numeric	12	Line 180. Column 1I. Deductible credit. Column 1E or 1H, whichever is less. Row 4.
+1	P1_content/P1_table/Row5	Cell1	100	text		Line 100. Column 1A. Country of source of foreign non-business income. Row 5.
+1	P1_content/P1_table/Row5	Cell2	110	numeric	12	Line 110. Column 1B. Net foreign non-business income earned in the year. Row 5.
+1	P1_content/P1_table/Row5	Cell3	120	numeric	12	Line 120. Column 1C. Foreign non-business income tax paid for the year. Row 5.
+1	P1_content/P1_table/Row5	Cell4	130	numeric	12	Line 130. Column 1D. Foreign non-business income tax paid, deducted from income under subsection 20(12). Row 5.
+1	P1_content/P1_table/Row5	Cell5		numeric	12	Column 1E. Column 1C minus column 1D. Row 5.
+1	P1_content/P1_table/Row5	Cell6		numeric	12	Column 1F. Adjusted net income. Amount from line 600 in Part 6. Row 5.
+1	P1_content/P1_table/Row5	Cell7		numeric	12	Column 1G. Part I tax otherwise payable. Amount from line 610 in Part 7. Row 5.
+1	P1_content/P1_table/Row5	Cell8		numeric	12	Column 1H. The result of column 1B multiplied by 1G, divided by column 1F. Cannot be more than column 1G. Row 5.
+1	P1_content/P1_table/Row5	Cell9	180	numeric	12	Line 180. Column 1I. Deductible credit. Column 1E or 1H, whichever is less. Row 5.
+1	P1_content/Line_180_total	Input_180_total		numeric	12	Total deductible federal foreign non-business income tax credit. Total of column 1I. Enter the total deductible federal foreign non-business income tax credit, or a lesser amount, on line 632 of the T2 return.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	P2_content/P2_table/Row1	Cell1	200	text		Line 200. Column 2A. Country in which foreign business income was earned. Row 1.
+2	P2_content/P2_table/Row1	Cell2	210	numeric	12	Line 210. Column 2B. Net foreign business income earned in the year. Row 1.
+2	P2_content/P2_table/Row1	Cell3	220	numeric	12	Line 220. Column 2C. Foreign business income tax paid for the year. Row 1.
+2	P2_content/P2_table/Row1	Cell4	230	numeric	12	Line 230. Column 2D. Unused foreign income tax credits from previous tax years. Row 1.
+2	P2_content/P2_table/Row1	Cell5		numeric	12	Column 2E. Column 2C plus column 2D. Row 1.
+2	P2_content/P2_table/Row1	Cell6		numeric	12	Column 2F. Adjusted net income. Amount from line 600 in Part 6. Row 1.
+2	P2_content/P2_table/Row1	Cell7		numeric	12	Column 2G. Part I tax otherwise payable. Amount from line 620 in Part 8. Row 1.
+2	P2_content/P2_table/Row1	Cell8		numeric	12	Column 2H. Part I tax otherwise payable minus foreign non-business income tax credits claimed. Row 1.
+2	P2_content/P2_table/Row1	Cell9		numeric	12	Column 2I. The result of column 2B multiplied by 2G, divided by column 2F. Row 1.
+2	P2_content/P2_table/Row1	Cell10	280	numeric	12	Line 280. Column 2J. Deductible credit. Column 2E, 2H, or 2I, whichever is least. Row 1.
+2	P2_content/P2_table/Row2	Cell1	200	text		Line 200. Column 2A. Country in which foreign business income was earned. Row 2.
+2	P2_content/P2_table/Row2	Cell2	210	numeric	12	Line 210. Column 2B. Net foreign business income earned in the year. Row 2.
+2	P2_content/P2_table/Row2	Cell3	220	numeric	12	Line 220. Column 2C. Foreign business income tax paid for the year. Row 2.
+2	P2_content/P2_table/Row2	Cell4	230	numeric	12	Line 230. Column 2D. Unused foreign income tax credits from previous tax years. Row 2.
+2	P2_content/P2_table/Row2	Cell5		numeric	12	Column 2E. Column 2C plus column 2D. Row 2.
+2	P2_content/P2_table/Row2	Cell6		numeric	12	Column 2F. Adjusted net income. Amount from line 600 in Part 6. Row 2.
+2	P2_content/P2_table/Row2	Cell7		numeric	12	Column 2G. Part I tax otherwise payable. Amount from line 620 in Part 8. Row 2.
+2	P2_content/P2_table/Row2	Cell8		numeric	12	Column 2H. Part I tax otherwise payable minus foreign non-business income tax credits claimed. Row 2.
+2	P2_content/P2_table/Row2	Cell9		numeric	12	Column 2I. The result of column 2B multiplied by 2G, divided by column 2F. Row 2.
+2	P2_content/P2_table/Row2	Cell10	280	numeric	12	Line 280. Column 2J. Deductible credit. Column 2E, 2H, or 2I, whichever is least. Row 2.
+2	P2_content/P2_table/Row3	Cell1	200	text		Line 200. Column 2A. Country in which foreign business income was earned. Row 3.
+2	P2_content/P2_table/Row3	Cell2	210	numeric	12	Line 210. Column 2B. Net foreign business income earned in the year. Row 3.
+2	P2_content/P2_table/Row3	Cell3	220	numeric	12	Line 220. Column 2C. Foreign business income tax paid for the year. Row 3.
+2	P2_content/P2_table/Row3	Cell4	230	numeric	12	Line 230. Column 2D. Unused foreign income tax credits from previous tax years. Row 3.
+2	P2_content/P2_table/Row3	Cell5		numeric	12	Column 2E. Column 2C plus column 2D. Row 3.
+2	P2_content/P2_table/Row3	Cell6		numeric	12	Column 2F. Adjusted net income. Amount from line 600 in Part 6. Row 3.
+2	P2_content/P2_table/Row3	Cell7		numeric	12	Column 2G. Part I tax otherwise payable. Amount from line 620 in Part 8. Row 3.
+2	P2_content/P2_table/Row3	Cell8		numeric	12	Column 2H. Part I tax otherwise payable minus foreign non-business income tax credits claimed. Row 3.
+2	P2_content/P2_table/Row3	Cell9		numeric	12	Column 2I. The result of column 2B multiplied by 2G, divided by column 2F. Row 3.
+2	P2_content/P2_table/Row3	Cell10	280	numeric	12	Line 280. Column 2J. Deductible credit. Column 2E, 2H, or 2I, whichever is least. Row 3.
+2	P2_content/P2_table/Row4	Cell1	200	text		Line 200. Column 2A. Country in which foreign business income was earned. Row 4.
+2	P2_content/P2_table/Row4	Cell2	210	numeric	12	Line 210. Column 2B. Net foreign business income earned in the year. Row 4.
+2	P2_content/P2_table/Row4	Cell3	220	numeric	12	Line 220. Column 2C. Foreign business income tax paid for the year. Row 4.
+2	P2_content/P2_table/Row4	Cell4	230	numeric	12	Line 230. Column 2D. Unused foreign income tax credits from previous tax years. Row 4.
+2	P2_content/P2_table/Row4	Cell5		numeric	12	Column 2E. Column 2C plus column 2D. Row 4.
+2	P2_content/P2_table/Row4	Cell6		numeric	12	Column 2F. Adjusted net income. Amount from line 600 in Part 6. Row 4.
+2	P2_content/P2_table/Row4	Cell7		numeric	12	Column 2G. Part I tax otherwise payable. Amount from line 620 in Part 8. Row 4.
+2	P2_content/P2_table/Row4	Cell8		numeric	12	Column 2H. Part I tax otherwise payable minus foreign non-business income tax credits claimed. Row 4.
+2	P2_content/P2_table/Row4	Cell9		numeric	12	Column 2I. The result of column 2B multiplied by 2G, divided by column 2F. Row 4.
+2	P2_content/P2_table/Row4	Cell10	280	numeric	12	Line 280. Column 2J. Deductible credit. Column 2E, 2H, or 2I, whichever is least. Row 4.
+2	P2_content/P2_table/Row5	Cell1	200	text		Line 200. Column 2A. Country in which foreign business income was earned. Row 5.
+2	P2_content/P2_table/Row5	Cell2	210	numeric	12	Line 210. Column 2B. Net foreign business income earned in the year. Row 5.
+2	P2_content/P2_table/Row5	Cell3	220	numeric	12	Line 220. Column 2C. Foreign business income tax paid for the year. Row 5.
+2	P2_content/P2_table/Row5	Cell4	230	numeric	12	Line 230. Column 2D. Unused foreign income tax credits from previous tax years. Row 5.
+2	P2_content/P2_table/Row5	Cell5		numeric	12	Column 2E. Column 2C plus column 2D. Row 5.
+2	P2_content/P2_table/Row5	Cell6		numeric	12	Column 2F. Adjusted net income. Amount from line 600 in Part 6. Row 5.
+2	P2_content/P2_table/Row5	Cell7		numeric	12	Column 2G. Part I tax otherwise payable. Amount from line 620 in Part 8. Row 5.
+2	P2_content/P2_table/Row5	Cell8		numeric	12	Column 2H. Part I tax otherwise payable minus foreign non-business income tax credits claimed. Row 5.
+2	P2_content/P2_table/Row5	Cell9		numeric	12	Column 2I. The result of column 2B multiplied by 2G, divided by column 2F. Row 5.
+2	P2_content/P2_table/Row5	Cell10	280	numeric	12	Line 280. Column 2J. Deductible credit. Column 2E, 2H, or 2I, whichever is least. Row 5.
+2	P2_content/Line_280_total	Input_280_total		numeric	12	Total deductible federal foreign business income tax credit. Total of column 2J. Enter the total deductible federal foreign business income tax credit, or a lesser amount, on line 636 of the T2 return.
+2	P3_content/P3_table/Row1	Cell1	345	text		Line 345. Column 3K. Country in which foreign business income was earned. Row 1.
+2	P3_content/P3_table/Row1	Cell2		numeric	12	Column 3L. Balance at end of the previous tax year. Row 1.
+2	P3_content/P3_table/Row1	Cell3	348	numeric	12	Line 348. Column 3M. Amount expired in the year. Row 1.
+2	P3_content/P3_table/Row1	Cell4	350	numeric	12	Line 350. Column 3N. Opening balance. Column 3L minus column 3M. Row 1.
+2	P3_content/P3_table/Row1	Cell5	360	numeric	12	Line 360. Column 3O. Credits transferred on an amalgamation or the wind-up of a subsidiary. Row 1.
+2	P3_content/P3_table/Row1	Cell6		numeric	12	Column 3P. Foreign business income tax paid for the year. Column 2C in Part 2. Row 1.
+2	P3_content/P3_table/Row1	Cell7		numeric	12	Column 3Q. Foreign business income tax credit deductible in the year. Cannot be more than column 2J in Part 2. Row 1.
+2	P3_content/P3_table/Row1	Cell8		numeric	12	Column 3R. Carryback to previous years. Total of columns 4V, 4W, and 4X in Part 4. Row 1.
+2	P3_content/P3_table/Row1	Cell9	380	numeric	12	Line 380. Column 3S. Closing balance. Total of columns 3N, 3O, and 3P minus columns 3Q and 3R. Row 1.
+2	P3_content/P3_table/Row2	Cell1	345	text		Line 345. Column 3K. Country in which foreign business income was earned. Row 2.
+2	P3_content/P3_table/Row2	Cell2		numeric	12	Column 3L. Balance at end of the previous tax year. Row 2.
+2	P3_content/P3_table/Row2	Cell3	348	numeric	12	Line 348. Column 3M. Amount expired in the year. Row 2.
+2	P3_content/P3_table/Row2	Cell4	350	numeric	12	Line 350. Column 3N. Opening balance. Column 3L minus column 3M. Row 2.
+2	P3_content/P3_table/Row2	Cell5	360	numeric	12	Line 360. Column 3O. Credits transferred on an amalgamation or the wind-up of a subsidiary. Row 2.
+2	P3_content/P3_table/Row2	Cell6		numeric	12	Column 3P. Foreign business income tax paid for the year. Column 2C in Part 2. Row 2.
+2	P3_content/P3_table/Row2	Cell7		numeric	12	Column 3Q. Foreign business income tax credit deductible in the year. Cannot be more than column 2J in Part 2. Row 2.
+2	P3_content/P3_table/Row2	Cell8		numeric	12	Column 3R. Carryback to previous years. Total of columns 4V, 4W, and 4X in Part 4. Row 2.
+2	P3_content/P3_table/Row2	Cell9	380	numeric	12	Line 380. Column 3S. Closing balance. Total of columns 3N, 3O, and 3P minus columns 3Q and 3R. Row 2.
+2	P3_content/P3_table/Row3	Cell1	345	text		Line 345. Column 3K. Country in which foreign business income was earned. Row 3.
+2	P3_content/P3_table/Row3	Cell2		numeric	12	Column 3L. Balance at end of the previous tax year. Row 3.
+2	P3_content/P3_table/Row3	Cell3	348	numeric	12	Line 348. Column 3M. Amount expired in the year. Row 3.
+2	P3_content/P3_table/Row3	Cell4	350	numeric	12	Line 350. Column 3N. Opening balance. Column 3L minus column 3M. Row 3.
+2	P3_content/P3_table/Row3	Cell5	360	numeric	12	Line 360. Column 3O. Credits transferred on an amalgamation or the wind-up of a subsidiary. Row 3.
+2	P3_content/P3_table/Row3	Cell6		numeric	12	Column 3P. Foreign business income tax paid for the year. Column 2C in Part 2. Row 3.
+2	P3_content/P3_table/Row3	Cell7		numeric	12	Column 3Q. Foreign business income tax credit deductible in the year. Cannot be more than column 2J in Part 2. Row 3.
+2	P3_content/P3_table/Row3	Cell8		numeric	12	Column 3R. Carryback to previous years. Total of columns 4V, 4W, and 4X in Part 4. Row 3.
+2	P3_content/P3_table/Row3	Cell9	380	numeric	12	Line 380. Column 3S. Closing balance. Total of columns 3N, 3O, and 3P minus columns 3Q and 3R. Row 3.
+2	P3_content/P3_table/Row4	Cell1	345	text		Line 345. Column 3K. Country in which foreign business income was earned. Row 4.
+2	P3_content/P3_table/Row4	Cell2		numeric	12	Column 3L. Balance at end of the previous tax year. Row 4.
+2	P3_content/P3_table/Row4	Cell3	348	numeric	12	Line 348. Column 3M. Amount expired in the year. Row 4.
+2	P3_content/P3_table/Row4	Cell4	350	numeric	12	Line 350. Column 3N. Opening balance. Column 3L minus column 3M. Row 4.
+2	P3_content/P3_table/Row4	Cell5	360	numeric	12	Line 360. Column 3O. Credits transferred on an amalgamation or the wind-up of a subsidiary. Row 4.
+2	P3_content/P3_table/Row4	Cell6		numeric	12	Column 3P. Foreign business income tax paid for the year. Column 2C in Part 2. Row 4.
+2	P3_content/P3_table/Row4	Cell7		numeric	12	Column 3Q. Foreign business income tax credit deductible in the year. Cannot be more than column 2J in Part 2. Row 4.
+2	P3_content/P3_table/Row4	Cell8		numeric	12	Column 3R. Carryback to previous years. Total of columns 4V, 4W, and 4X in Part 4. Row 4.
+2	P3_content/P3_table/Row4	Cell9	380	numeric	12	Line 380. Column 3S. Closing balance. Total of columns 3N, 3O, and 3P minus columns 3Q and 3R. Row 4.
+2	P3_content/P3_table/Row5	Cell1	345	text		Line 345. Column 3K. Country in which foreign business income was earned. Row 5.
+2	P3_content/P3_table/Row5	Cell2		numeric	12	Column 3L. Balance at end of the previous tax year. Row 5.
+2	P3_content/P3_table/Row5	Cell3	348	numeric	12	Line 348. Column 3M. Amount expired in the year. Row 5.
+2	P3_content/P3_table/Row5	Cell4	350	numeric	12	Line 350. Column 3N. Opening balance. Column 3L minus column 3M. Row 5.
+2	P3_content/P3_table/Row5	Cell5	360	numeric	12	Line 360. Column 3O. Credits transferred on an amalgamation or the wind-up of a subsidiary. Row 5.
+2	P3_content/P3_table/Row5	Cell6		numeric	12	Column 3P. Foreign business income tax paid for the year. Column 2C in Part 2. Row 5.
+2	P3_content/P3_table/Row5	Cell7		numeric	12	Column 3Q. Foreign business income tax credit deductible in the year. Cannot be more than column 2J in Part 2. Row 5.
+2	P3_content/P3_table/Row5	Cell8		numeric	12	Column 3R. Carryback to previous years. Total of columns 4V, 4W, and 4X in Part 4. Row 5.
+2	P3_content/P3_table/Row5	Cell9	380	numeric	12	Line 380. Column 3S. Closing balance. Total of columns 3N, 3O, and 3P minus columns 3Q and 3R. Row 5.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	P4_content/P4_table/Row1	Cell1	900	text		Line 900. Column 4T. Country in which foreign business income was earned. Row 1.
+3	P4_content/P4_table/Row1	Cell2		numeric	12	Column 4U. Unused foreign business income tax credit. Column 3P minus column 3Q, in Part 3. Row 1.
+3	P4_content/P4_table/Row1	Cell3	901	numeric	12	Line 901. Column 4V. Carry back to first previous tax year. Row 1.
+3	P4_content/P4_table/Row1	Cell4	902	numeric	12	Line 902. Column 4W. Carry back to second previous tax year. Row 1.
+3	P4_content/P4_table/Row1	Cell5	903	numeric	12	Line 903. Column 4X. Carry back to third previous tax year. Row 1.
+3	P4_content/P4_table/Row2	Cell1	900	text		Line 900. Column 4T. Country in which foreign business income was earned. Row 2.
+3	P4_content/P4_table/Row2	Cell2		numeric	12	Column 4U. Unused foreign business income tax credit. Column 3P minus column 3Q, in Part 3. Row 2.
+3	P4_content/P4_table/Row2	Cell3	901	numeric	12	Line 901. Column 4V. Carry back to first previous tax year. Row 2.
+3	P4_content/P4_table/Row2	Cell4	902	numeric	12	Line 902. Column 4W. Carry back to second previous tax year. Row 2.
+3	P4_content/P4_table/Row2	Cell5	903	numeric	12	Line 903. Column 4X. Carry back to third previous tax year. Row 2.
+3	P4_content/P4_table/Row3	Cell1	900	text		Line 900. Column 4T. Country in which foreign business income was earned. Row 3.
+3	P4_content/P4_table/Row3	Cell2		numeric	12	Column 4U. Unused foreign business income tax credit. Column 3P minus column 3Q, in Part 3. Row 3.
+3	P4_content/P4_table/Row3	Cell3	901	numeric	12	Line 901. Column 4V. Carry back to first previous tax year. Row 3.
+3	P4_content/P4_table/Row3	Cell4	902	numeric	12	Line 902. Column 4W. Carry back to second previous tax year. Row 3.
+3	P4_content/P4_table/Row3	Cell5	903	numeric	12	Line 903. Column 4X. Carry back to third previous tax year. Row 3.
+3	P4_content/P4_table/Row4	Cell1	900	text		Line 900. Column 4T. Country in which foreign business income was earned. Row 4.
+3	P4_content/P4_table/Row4	Cell2		numeric	12	Column 4U. Unused foreign business income tax credit. Column 3P minus column 3Q, in Part 3. Row 4.
+3	P4_content/P4_table/Row4	Cell3	901	numeric	12	Line 901. Column 4V. Carry back to first previous tax year. Row 4.
+3	P4_content/P4_table/Row4	Cell4	902	numeric	12	Line 902. Column 4W. Carry back to second previous tax year. Row 4.
+3	P4_content/P4_table/Row4	Cell5	903	numeric	12	Line 903. Column 4X. Carry back to third previous tax year. Row 4.
+3	P4_content/P4_table/Row5	Cell1	900	text		Line 900. Column 4T. Country in which foreign business income was earned. Row 5.
+3	P4_content/P4_table/Row5	Cell2		numeric	12	Column 4U. Unused foreign business income tax credit. Column 3P minus column 3Q, in Part 3. Row 5.
+3	P4_content/P4_table/Row5	Cell3	901	numeric	12	Line 901. Column 4V. Carry back to first previous tax year. Row 5.
+3	P4_content/P4_table/Row5	Cell4	902	numeric	12	Line 902. Column 4W. Carry back to second previous tax year. Row 5.
+3	P4_content/P4_table/Row5	Cell5	903	numeric	12	Line 903. Column 4X. Carry back to third previous tax year. Row 5.
+3	P5_content/P5_table/Row1/Cell2	Cell2	500	numeric	12	Line 500. Column 5B. Income from logging under Regulation 700. Province, British Columbia.
+3	P5_content/P5_table/Row1	Cell3		numeric	12	Column 5C. Column 5B multiplied by 6 and two thirds %. Province, British Columbia.
+3	P5_content/P5_table/Row1/Cell4	Cell4	510	numeric	12	Line 510. Column 5D. Logging tax paid on income in column 5B. Province, British Columbia.
+3	P5_content/P5_table/Row1	Cell5		numeric	12	Column 5E. Column 5D multiplied by two thirds. Province, British Columbia.
+3	P5_content/P5_table/Row1	Cell6		numeric	12	Column 5F. Column 5C or 5E, whichever is less. Province, British Columbia.
+3	P5_content/P5_table/Row2/Cell2	Cell2	520	numeric	12	Line 520. Column 5B. Income from logging under Regulation 700. Province, Quebec.
+3	P5_content/P5_table/Row2	Cell3		numeric	12	Column 5C. Column 5B multiplied by 6 and two thirds %. Province, Quebec.
+3	P5_content/P5_table/Row2/Cell4	Cell4	530	numeric	12	Line 530. Column 5D. Logging tax paid on income in column 5B. Province, Quebec.
+3	P5_content/P5_table/Row2	Cell5		numeric	12	Column 5E. Column 5D multiplied by two thirds. Province, Quebec.
+3	P5_content/P5_table/Row2	Cell6		numeric	12	Column 5F. Column 5C or 5E, whichever is less. Province Quebec.
+3	P5_content/Amount_5G	Input_5G		numeric	12	Amount 5G. Total of column 5F.
+3	P5_content/Amount_5H	Input_5H		numeric	12	Amount 5H. 6 and two thirds % of taxable income or, for non-residents, 6 and two thirds % of taxable income earned in Canada.
+3	P5_content/Line_580	Input_580	580	numeric	12	Line 580. Federal logging tax credit. Amount 5G or 5H, whichever is less. Enter line 580 or a lesser amount on line 640 of the T2 return.
+3	P6_content/Amount_6A	Input_6A		numeric	12	Amount 6A. Net income for income tax purposes. Line 300 of the T2 return. If negative, enter 0.
+3	P6_content/Amount_6B	Input_6B		numeric	12	Amount 6B. Net capital losses claimed under paragraph 111(1)(b). Line 332 of the T2 return.
+3	P6_content/Amount_6C	Input_6C		numeric	12	Amount 6C. Taxable dividends deductible under sections 112 and 113.
+3	P6_content/Amount_6D	Input_6D		numeric	12	Amount 6D. Prospector's and grubstaker's shares. Line 350 of the T2 return.
+3	P6_content/Amount_6E	Input_6E		numeric	12	Amount 6E. Employer deduction for non-qualified securities. Line 352 of the T2 return.
+3	P6_content/Amount_6F	Input1_6F		numeric	12	Amount 6F. Subtotal. Total of amounts 6B to 6E. Instance 1.
+3	P6_content/Amount_6F	Input2_6F		numeric	12	Amount 6F. instance 2.
+3	P6_content/Amount_6G	Input_6G		numeric	12	Amount 6G. Subtotal. Amount 6A minus amount 6F. If negative, enter 0.
+3	P6_content/Amount_6H	Input_6H		numeric	12	Amount 6H. Amount added to taxable income for foreign tax deductions under section 110.5. Line 355 of the T2 return.
+3	P6_content/Amount_6I	Input_6I		numeric	12	Amount 6I. Total. Amount 6G plus amount 6H.
+3	P6_content/Amount_6J	Input_6J		numeric	12	Amount 6J. Taxable income earned in Canada. Line 360 of the T2 return. If negative, enter 0.
+3	P6_content/Amount_6K	Input_6K		numeric	12	Amount 6K. Income from its Canadian banking business. Line 300 of the T2 return. If negative, enter 0.
+3	P6_content/Amount_6L	Input_6L		numeric	12	Amount 6L. Amount added to taxable income for foreign tax deductions under subparagraph 115(1)(a)(vii). Line 355 of the T2 return.
+3	P6_content/Amount_6M	Input1_6M		numeric	12	Amount 6M. Subtotal. Amount 6K plus amount 6L. Instance 1.
+3	P6_content/Amount_6M	Input2_6M		numeric	12	Amount 6M. Instance 2.
+3	P6_content/Amount_6N	Input_6N		numeric	12	Amount 6N. Amount 6J or amount 6M, whichever is less.
+3	P6_content/Line_600	Input_600	600	numeric	12	Line 600. Adjusted net income, amount 6I or amount 6N, whichever is applicable.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	P7_content/Amount_7A	Input_7A		numeric	12	Amount 7A. Base amount of Part 1 tax. Line 550 of the T2 return.
+4	P7_content/Amount_7B	Input_7B		numeric	12	Amount 7B. Federal tax abatement. Line 608 of the T2 return.
+4	P7_content/Amount_7C	Input_7C		numeric	12	Amount 7C. Investment corporation deduction. Line 620 of the T2 return.
+4	P7_content/Amount_7D	Input_7D		numeric	12	Amount 7D. General tax reduction. Line 639 of the T2 return.
+4	P7_content/Amount_7E	Input1_7E		numeric	12	Amount 7E. Subtotal. Total of amounts 7B to 7D. Instance 1.
+4	P7_content/Amount_7E	Input2_7E		numeric	12	Amount 7E. Instance 2.
+4	P7_content/Amount_7F	Input_7F		numeric	12	Amount 7F. Additional tax on personal services business income. Line 560 of the T2 return.
+4	P7_content/Amount_7G	Input_7G		numeric	12	Amount 7G. Additional tax on banks and life insurers. Line 565 of the T2 return.
+4	P7_content/Amount_7H	Input_7H		numeric	12	Amount 7H. Total labour requirements addition to tax. Line 580 of the T2 return.
+4	P7_content/Amount_7I	Input_7I		numeric	12	Amount 7I. Recapture of investment tax credit. Line 602 of the T2 return.
+4	P7_content/Amount_7J	Input_7J		numeric	12	Amount 7J. Refundable tax on Canadian-controlled private corporation's (CCPC) or substantive CCPC's investment income. Line 604 of the T2 return.
+4	P7_content/Amount_7K	Input1_7K		numeric	12	Amount 7K. Subtotal. Total of amounts 7F to 7J. Instance 1.
+4	P7_content/Amount_7K	Input2_7K		numeric	12	Amount 7K. Instance 2.
+4	P7_content/Line_610	Input_610	610	numeric	12	Line 610. Part I tax otherwise payable, foreign non-business income tax credit. Amount 7A minus amount 7E plus amount 7K.
+4	P8_content/Amount_8A	Input_8A		numeric	12	Amount 8A. Base amount of Part 1 tax. Line 550 of the T2 return.
+4	P8_content/Amount_8B	Input8B		numeric	12	Amount 8B. Investment corporation deduction. Line 620 of the T2 return.
+4	P8_content/Amount_8C	Input_8C		numeric	12	Amount 8C. General tax reduction for CCPCs. Line 638 of the T2 return.
+4	P8_content/Amount_8D	Input_8D		numeric	12	Amount 8D. General tax reduction. Line 639 of the T2 return.
+4	P8_content/Amount_8E	Input1_8E		numeric	12	Amount 8E. Subtotal. Add amounts 8B to 8D. Instance 1.
+4	P8_content/Amount_8E	Input2_8E		numeric	12	Amount 8E. Instance 2.
+4	P8_content/Amount_8F	Input_8F		numeric	12	Amount 8F. Additional tax on personal services business income. Line 560 of the T2 return.
+4	P8_content/Amount_8G	Input_8G		numeric	12	Amount 8G. Additional tax on banks and life insurers. Line 565 of the T2 return.
+4	P8_content/Amount_8H	Input_8H		numeric	12	Amount 8H. Total labour requirements addition to tax. Line 580 of the T2 return.
+4	P8_content/Amount_8I	Input_8I		numeric	12	Amount 8I. Recapture of investment tax credit. Line 602 of the T2 return.
+4	P8_content/Amount_8J	Input1_8J		numeric	12	Amount 8J. Subtotal. Total of amounts 8F to 8I. Instance 1.
+4	P8_content/Amount_8J	Input2_8J		numeric	12	Amount 8J. Instance 2.
+4	P8_content/Line_620	Input_620	620	numeric	12	Line 620. Part I tax otherwise payable. Foreign business income tax credit. Amount 8A minus amount 8E plus amount 8J.
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		
+5	P9_content/P9_prov_country	Input_prov		text		Province or territory for which you are claiming this credit.
+5	P9_content/P9_prov_country	Input_country		text		Country of source of foreign non-business income.
+5	P9_content/Amount_9A	Input_9A		numeric	12	Amount 9A. Foreign non-business income tax paid for the year. Amount from column 1C in Part 1.
+5	P9_content/Amount_9B	Input_9B		numeric	12	Amount 9B. Foreign non-business income tax paid, deducted from income under subsection 20(12). Amount from column 1D in Part 1.
+5	P9_content/Amount_9C	Input_9C		numeric	12	Amount 9C. Subtotal. Amount 9A minus amount 9B.
+5	P9_content/Amount_9D	Input_9D		numeric	12	Amount 9D. Federal foreign non-business income tax credit deductible. Amount from column 1I in Part 1.
+5	P9_content/Amount_9E	Input_9E		numeric	12	Amount 9E. Foreign non-business income tax credit available. Amount 9C minus amount 9D. Instance 1.
+5	P9_content/Amount_9F	Input1_9F		numeric	12	Amount 9E. Instance 2.
+5	P9_content/Amount_9F	Input2_9F		numeric	12	Taxable income earned in the province or territory. Instance 1.
+5	P9_content/Amount_9F	Input3_9F		numeric	12	Taxable income. Instance 1.
+5	P9_content/Amount_9F	Input4_9F		numeric	12	Amount 9F. Amount 9E multiplied by taxable income earned in the province or territory divided by taxable income.
+5	P9_content/Amount_9G	Input_9G		numeric	12	Amount 9G. Net foreign non-business income earned in the year. Amount from column 1B in Part 1. Instance 1.
+5	P9_content/Amount_9H	Input1_9H		numeric	12	Amount 9G. Instance 2.
+5	P9_content/Amount_9H	Input2_9H		numeric		Percentage. Provincial or territorial tax rate.
+5	P9_content/Amount_9H	Input3_9H		numeric	12	Amount 9H. Amount 9G multiplied by percentage of provincial or territorial tax rate. Instance 1.
+5	P9_content/Amount_9I	Input1_9I		numeric	12	Amount 9H. Instance 2.
+5	P9_content/Amount_9I	Input2_9I		numeric	12	Taxable income earned in the province or territory. Instance 2.
+5	P9_content/Amount_9I	Input3_9I		numeric	12	Taxable income. Instance 2.
+5	P9_content/Amount_9I	Input4_9I		numeric	12	Amount 9I. Amount 9H multiplied by taxable income earned in the province or territory divided by taxable income.
+5	P9_content/Amount_9J	Input_9J		numeric	12	Amount 9J. Provincial or territorial foreign tax credit. Amount 9F or amount 9I, whichever is less.
+5	PageNumbers	CurrentPage		numeric		
+5	PageNumbers	PageCount		numeric		

@@ -21,7 +21,7 @@ line	caption	page
 150	Is the corporation related to any other corporations?	2
 151	Does the corporation have any non-resident shareholders who own voting shares?	2
 160	Is the corporation an associated CCPC?	2
-161	Is the corporation an associated CCPC that is claiming the expenditure limit?	2
+161	Is the corporation an associated CCPC, not electing under subsection 127(10.32), that is claiming the expenditure limit?	2
 162	other than transactions in the ordinary course of business? Exclude non-arm's length transactions with non-residents	2
 163	were all or substantially all of the assets of the transferor disposed of to the transferee?	2
 164	Has the corporation paid any royalties, management fees, or other similar payments to residents of Canada?	2
@@ -65,7 +65,7 @@ line	caption	page
 255	Is the corporation subject to Part XIII.1 tax? (Show your calculations on a sheet that you identify as Schedule 92.)	2
 272	Is the corporation claiming a Canadian journalism labour tax credit?	2
 320	i) Is the corporation a CCPC and reporting a) income or loss from property (other than dividends deductible on line	2
-130	in sections 18.2 and 18.21, or is it a party to any election under the EIFEL rules? 278	3
+130	canada.ca/cra-eifel, do not check box 278 278	3
 259	such property, at any time in the year, was more than CAN$100,000?	3
 260	Did the corporation transfer or loan property to a non-resident trust?	3
 261	Did the corporation receive a distribution from or was it indebted to a non-resident trust in the year?	3
@@ -79,11 +79,11 @@ line	caption	page
 269	change in the tax year?	3
 270	Did the corporation use the International Financial Reporting Standards (IFRS) when it prepared its financial statements?	3
 271	Did the corporation have any foreign affiliates in the tax year?	3
-273	Is the corporation claiming a return of fuel charge proceeds to farmers tax credit?	3
 274	Are you an employer reporting a non-qualified security agreement under subsection 110(1.9)?	3
 276	Is the corporation subject to the additional 1.5% tax on banks and life insurers?	3
 277	Is the corporation a covered entity that redeemed, acquired or cancelled equity of the corporation in the tax year?	3
-278	in sections 18.2 and 18.21, or is it a party to any election under the EIFEL rules?	3
+278	canada.ca/cra-eifel, do not check box 278	3
+279	public corporation that is, at any time in the year, part of a consolidated group according to subsection 127(10.62)?	3
 280	Is the corporation inactive?	3
 285	Specify the principal products mined, manufactured, 284	3
 287	sold, constructed, or services provided, giving the 286	3
@@ -98,7 +98,7 @@ line	caption	page
 311	Charitable donations from Schedule 2	3
 313	Cultural gifts from Schedule 2	3
 314	Ecological gifts from Schedule 2	3
-325	Part VI.1 tax deduction*	3
+325	Part VI.1 tax deduction1	3
 331	Non-capital losses of previous tax years from Schedule 4	3
 332	Net capital losses of previous tax years from Schedule 4	3
 333	Restricted farm losses of previous tax years from Schedule 4	3
@@ -111,8 +111,8 @@ line	caption	page
 355	Section 110.5 additions or subparagraph 115(1)(a)(vii) additions	3
 360	Taxable income (amount C plus amount D)	3
 400	Income eligible for the small business deduction from Schedule 7	4
-405	line 636** on page 8, and minus any amount that, because of federal law, is exempt from Part I tax	4
-410	Business limit (see notes 1 and 2 below)	4
+405	on line 636 3 on page 8, and minus any amount that, because of federal law, is exempt from Part I tax	4
+410	Business limit (see notes 4 and 5 below)	4
 415	• If the corporation is not associated with any corporations in both the current and previous tax years, the amount to be entered on line	4
 422	The greater of amount E and amount G	4
 426	Reduced business limit (amount C minus amount H) (if negative, enter "0")	4
@@ -121,15 +121,8 @@ line	caption	page
 432	Personal services business income	5
 434	Personal services business income	5
 515	amount of income referred to in clauses 125(1)(a)(i)(A) or (B) for the year. The amount on line	5
-450	Amount E, L, or M, whichever is the least	6
-520	Eligible refundable dividend tax on hand (ERDTOH) at the end of the previous tax year (line 530 of the preceding tax year)	7
-525	Net ERDTOH transferred on an amalgamation or the wind-up of a subsidiary	7
 530	Eligible refundable dividend tax on hand (ERDTOH) at the end of the previous tax year (line	7
-535	tax year) (if negative, enter "0")	7
-540	Net NERDTOH transferred on an amalgamation or the wind-up of a subsidiary	7
 545	Non-eligible refundable dividend tax on hand (NERDTOH) at the end of the previous tax year (line	7
-570	ERDTOH dividend refund for the previous tax year	7
-575	NERDTOH dividend refund for the previous tax year	7
 047	Privacy Commissioner of Canada regarding the handling of their personal information. Refer to Personal Information Bank CRA PPU	8
 550	Base amount Part I tax – Taxable income (from line 360 on page 3) multiplied by 38%	8
 560	Taxable income from a personal services business 555 × 5% =	8

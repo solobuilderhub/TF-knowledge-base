@@ -1,0 +1,215 @@
+page	part	field	line	kind	digits	speak
+1	info_sf	info_inpt1		text		Corporation's name.
+1	info_sf	info_inpt2		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	info_sf/info_grp	info_grp_Field		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row1/cell1/grp	BusinessNumber_RT1	100	text		Line 100. Row 1. First part of the Partnership account number, 9 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row1/cell1/grp	BusinessNumber_RT		text		
+1	P1_sf/P1_table/P1_table_row1/cell1/grp	BusinessNumber_RT2	100	text		Line 100. Row 1. Second part of the Partnership account number, 4 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row1	cell2	110	text		Line 110. Row 1. Partnership's name.
+1	P1_sf/P1_table/P1_table_row1/cell3/grp	DateYYYYMMDD_Comb	130	text		Line 130. Row 1. Fiscal period-start. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row1/cell4/grp	DateYYYYMMDD_Comb	140	text		Line 140. Row 1. Fiscal period-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row1	Cell7	150	choice		Line 150. Row 1. Part of a multi-tiered structure, 1 = yes. 2 = no.
+1	P1_sf/P1_table/P1_table_row2/cell1/grp	BusinessNumber_RT1	100	text		Line 100. Row 2. First part of the Partnership account number, 9 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row2/cell1/grp	BusinessNumber_RT		text		
+1	P1_sf/P1_table/P1_table_row2/cell1/grp	BusinessNumber_RT2	100	text		Line 100. Row 2. Second part of the Partnership account number, 4 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row2	cell2	110	text		Line 110. Row 2. Partnership's name.
+1	P1_sf/P1_table/P1_table_row2/cell3/grp	DateYYYYMMDD_Comb	130	text		Line 130. Row 2. Fiscal period-start. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row2/cell4/grp	DateYYYYMMDD_Comb	140	text		Line 140. Row 2. Fiscal period-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row2	Cell7	150	choice		Line 150. Row 2. Part of a multi-tiered structure, 1 = yes. 2 = no.
+1	P1_sf/P1_table/P1_table_row3/cell1/grp	BusinessNumber_RT1	100	text		Line 100. Row 3. First part of the Partnership account number, 9 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row3/cell1/grp	BusinessNumber_RT		text		
+1	P1_sf/P1_table/P1_table_row3/cell1/grp	BusinessNumber_RT2	100	text		Line 100. Row 3. Second part of the Partnership account number, 4 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row3	cell2	110	text		Line 110. Row 3. Partnership's name.
+1	P1_sf/P1_table/P1_table_row3/cell3/grp	DateYYYYMMDD_Comb	130	text		Line 130. Row 3. Fiscal period-start. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row3/cell4/grp	DateYYYYMMDD_Comb	140	text		Line 140. Row 3. Fiscal period-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row3	Cell7	150	choice		Line 150. Row 3. Part of a multi-tiered structure, 1 = yes. 2 = no.
+1	P1_sf/P1_table/P1_table_row4/cell1/grp	BusinessNumber_RT1	100	text		Line 100. Row 4. First part of the Partnership account number, 9 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row4/cell1/grp	BusinessNumber_RT		text		
+1	P1_sf/P1_table/P1_table_row4/cell1/grp	BusinessNumber_RT2	100	text		Line 100. Row 4. Second part of the Partnership account number, 4 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row4	cell2	110	text		Line 110. Row 4. Partnership's name.
+1	P1_sf/P1_table/P1_table_row4/cell3/grp	DateYYYYMMDD_Comb	130	text		Line 130. Row 4. Fiscal period-start. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row4/cell4/grp	DateYYYYMMDD_Comb	140	text		Line 140. Row 4. Fiscal period-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row4	Cell7	150	choice		Line 150. Row 4. Part of a multi-tiered structure, 1 = yes. 2 = no.
+1	P1_sf/P1_table/P1_table_row5/cell1/grp	BusinessNumber_RT1	100	text		Line 100. Row 5. First part of the Partnership account number, 9 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row5/cell1/grp	BusinessNumber_RT		text		
+1	P1_sf/P1_table/P1_table_row5/cell1/grp	BusinessNumber_RT2	100	text		Line 100. Row 5. Second part of the Partnership account number, 4 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row5	cell2	110	text		Line 110. Row 5. Partnership's name.
+1	P1_sf/P1_table/P1_table_row5/cell3/grp	DateYYYYMMDD_Comb	130	text		Line 130. Row 5. Fiscal period-start. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row5/cell4/grp	DateYYYYMMDD_Comb	140	text		Line 140. Row 5. Fiscal period-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row5	Cell7	150	choice		Line 150. Row 5. Part of a multi-tiered structure, 1 = yes. 2 = no.
+1	P1_sf/P1_table/P1_table_row6/cell1/grp	BusinessNumber_RT1	100	text		Line 100. Row 6. First part of the Partnership account number, 9 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row6/cell1/grp	BusinessNumber_RT		text		
+1	P1_sf/P1_table/P1_table_row6/cell1/grp	BusinessNumber_RT2	100	text		Line 100. Row 6. Second part of the Partnership account number, 4 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row6	cell2	110	text		Line 110. Row 6. Partnership's name.
+1	P1_sf/P1_table/P1_table_row6/cell3/grp	DateYYYYMMDD_Comb	130	text		Line 130. Row 6. Fiscal period-start. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row6/cell4/grp	DateYYYYMMDD_Comb	140	text		Line 140. Row 6. Fiscal period-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row6	Cell7	150	choice		Line 150. Row 6. Part of a multi-tiered structure, 1 = yes. 2 = no.
+1	P1_sf/P1_table/P1_table_row7/cell1/grp	BusinessNumber_RT1	100	text		Line 100. Row 7. First part of the Partnership account number, 9 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row7/cell1/grp	BusinessNumber_RT		text		
+1	P1_sf/P1_table/P1_table_row7/cell1/grp	BusinessNumber_RT2	100	text		Line 100. Row 7. Second part of the Partnership account number, 4 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row7	cell2	110	text		Line 110. Row 7. Partnership's name.
+1	P1_sf/P1_table/P1_table_row7/cell3/grp	DateYYYYMMDD_Comb	130	text		Line 130. Row 7. Fiscal period-start. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row7/cell4/grp	DateYYYYMMDD_Comb	140	text		Line 140. Row 7. Fiscal period-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row7	Cell7	150	choice		Line 150. Row 7. Part of a multi-tiered structure, 1 = yes. 2 = no.
+1	P1_sf/P1_table/P1_table_row8/cell1/grp	BusinessNumber_RT1	100	text		Line 100. Row 8. First part of the Partnership account number, 9 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row8/cell1/grp	BusinessNumber_RT		text		
+1	P1_sf/P1_table/P1_table_row8/cell1/grp	BusinessNumber_RT2	100	text		Line 100. Row 8. Second part of the Partnership account number, 4 digits. Instance 1.
+1	P1_sf/P1_table/P1_table_row8	cell2	110	text		Line 110. Row 8. Partnership's name.
+1	P1_sf/P1_table/P1_table_row8/cell3/grp	DateYYYYMMDD_Comb	130	text		Line 130. Row 8. Fiscal period-start. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row8/cell4/grp	DateYYYYMMDD_Comb	140	text		Line 140. Row 8. Fiscal period-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1_sf/P1_table/P1_table_row8	Cell7	150	choice		Line 150. Row 8. Part of a multi-tiered structure, 1 = yes. 2 = no.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	P2_sf/P2_table/P2_table_row1/cell1/grp	BusinessNumber_RT1		text		Row 1. First part of the Partnership account number from part 1, 9 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row1/cell1/grp	BusinessNumber_RT		text		
+2	P2_sf/P2_table/P2_table_row1/cell1/grp	BusinessNumber_RT2		text		Row 1. Second part of the Partnership account number from part 1, 4 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row1	cell2		numeric	12	Column 1. Line 200. Row 1. Stub period accrual, see note 1.
+2	P2_sf/P2_table/P2_table_row1	cell3		numeric	12	Column 2. Line 205. Row 1. Designated qualified resource expenses, see note 2.
+2	P2_sf/P2_table/P2_table_row1	cell4		numeric	12	Column 3. Line 210. Row 1. Discretionary amount designated, see note 3.
+2	P2_sf/P2_table/P2_table_row1	cell5		numeric	12	Column 4. Line 215. Row 1. Adjusted stub period accrual, column 1 minus column 2 minus column 3.
+2	P2_sf/P2_table/P2_table_row1	cell6		numeric	12	Column 5. Line 220. Row 1. Previous-year adjusted stub period accrual, see note 4.
+2	P2_sf/P2_table/P2_table_row1	cell7		numeric	12	Column 6. Line 225. Row 1. Income inclusion for a new corporate member of a partnership, see note 5.
+2	P2_sf/P2_table/P2_table_row1	cell8		numeric	12	Column 7. Line 230. Row 1. Previous-year income inclusion for a new corporate member of a partnership, see note 6.
+2	P2_sf/P2_table/P2_table_row1	cell9		numeric	12	Column 8. Line 260. Row 1. Net amount to be included in income for the tax year, see note 7.
+2	P2_sf/P2_table/P2_table_row2/cell1/grp	BusinessNumber_RT1		text		Row 2. First part of the Partnership account number from part 1, 9 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row2/cell1/grp	BusinessNumber_RT		text		
+2	P2_sf/P2_table/P2_table_row2/cell1/grp	BusinessNumber_RT2		text		Row 2. Second part of the Partnership account number from part 1, 4 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row2	cell2		numeric	12	Column 1. Line 200. Row 2. Stub period accrual, see note 1.
+2	P2_sf/P2_table/P2_table_row2	cell3		numeric	12	Column 2. Line 205. Row 2. Designated qualified resource expenses, see note 2.
+2	P2_sf/P2_table/P2_table_row2	cell4		numeric	12	Column 3. Line 210. Row 2. Discretionary amount designated, see note 3.
+2	P2_sf/P2_table/P2_table_row2	cell5		numeric	12	Column 4. Line 215. Row 2. Adjusted stub period accrual, column 1 minus column 2 minus column 3.
+2	P2_sf/P2_table/P2_table_row2	cell6		numeric	12	Column 5. Line 220. Row 2. Previous-year adjusted stub period accrual, see note 4.
+2	P2_sf/P2_table/P2_table_row2	cell7		numeric	12	Column 6. Line 225. Row 2. Income inclusion for a new corporate member of a partnership, see note 5.
+2	P2_sf/P2_table/P2_table_row2	cell8		numeric	12	Column 7. Line 230. Row 2. Previous-year income inclusion for a new corporate member of a partnership, see note 6.
+2	P2_sf/P2_table/P2_table_row2	cell9		numeric	12	Column 8. Line 260. Row 2. Net amount to be included in income for the tax year , see note 7.
+2	P2_sf/P2_table/P2_table_row3/cell1/grp	BusinessNumber_RT1		text		Row 3. First part of the Partnership account number from part 1, 9 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row3/cell1/grp	BusinessNumber_RT		text		
+2	P2_sf/P2_table/P2_table_row3/cell1/grp	BusinessNumber_RT2		text		Row 3. Second part of the Partnership account number from part 1, 4 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row3	cell2		numeric	12	Column 1. Line 200. Row 3. Stub period accrual, see note 1.
+2	P2_sf/P2_table/P2_table_row3	cell3		numeric	12	Column 2. Line 205. Row 3. Designated qualified resource expenses, see note 2.
+2	P2_sf/P2_table/P2_table_row3	cell4		numeric	12	Column 3. Line 210. Row 3. Discretionary amount designated, see note 3.
+2	P2_sf/P2_table/P2_table_row3	cell5		numeric	12	Column 4. Line 215. Row 3. Adjusted stub period accrual, column 1 minus column 2 minus column 3.
+2	P2_sf/P2_table/P2_table_row3	cell6		numeric	12	Column 5. Line 220. Row 3. Previous-year adjusted stub period accrual, see note 4.
+2	P2_sf/P2_table/P2_table_row3	cell7		numeric	12	Column 6. Line 225. Row 3. Income inclusion for a new corporate member of a partnership, see note 5.
+2	P2_sf/P2_table/P2_table_row3	cell8		numeric	12	Column 7. Line 230. Row 3. Previous-year income inclusion for a new corporate member of a partnership, see note 6.
+2	P2_sf/P2_table/P2_table_row3	cell9		numeric	12	Column 8. Line 260. Row 3. Net amount to be included in income for the tax year , see note 7.
+2	P2_sf/P2_table/P2_table_row4/cell1/grp	BusinessNumber_RT1		text		Row 4. First part of the Partnership account number from part 1, 9 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row4/cell1/grp	BusinessNumber_RT		text		
+2	P2_sf/P2_table/P2_table_row4/cell1/grp	BusinessNumber_RT2		text		Row 4. Second part of the Partnership account number from part 1, 4 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row4	cell2		numeric	12	Column 1. Line 200. Row 4. Stub period accrual, see note 1.
+2	P2_sf/P2_table/P2_table_row4	cell3		numeric	12	Column 2. Line 205. Row 4. Designated qualified resource expenses, see note 2.
+2	P2_sf/P2_table/P2_table_row4	cell4		numeric	12	Column 3. Line 210. Row 4. Discretionary amount designated, see note 3.
+2	P2_sf/P2_table/P2_table_row4	cell5		numeric	12	Column 4. Line 215. Row 4. Adjusted stub period accrual, column 1 minus column 2 minus column 3.
+2	P2_sf/P2_table/P2_table_row4	cell6		numeric	12	Column 5. Line 220. Row 4. Previous-year adjusted stub period accrual, see note 4.
+2	P2_sf/P2_table/P2_table_row4	cell7		numeric	12	Column 6. Line 225. Row 4. Income inclusion for a new corporate member of a partnership, see note 5.
+2	P2_sf/P2_table/P2_table_row4	cell8		numeric	12	Column 7. Line 230. Row 4. Previous-year income inclusion for a new corporate member of a partnership, see note 6.
+2	P2_sf/P2_table/P2_table_row4	cell9		numeric	12	Column 8. Line 260. Row 4. Net amount to be included in income for the tax year , see note 7.
+2	P2_sf/P2_table/P2_table_row5/cell1/grp	BusinessNumber_RT1		text		Row 5. First part of the Partnership account number from part 1, 9 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row5/cell1/grp	BusinessNumber_RT		text		
+2	P2_sf/P2_table/P2_table_row5/cell1/grp	BusinessNumber_RT2		text		Row 5. Second part of the Partnership account number from part 1, 4 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row5	cell2		numeric	12	Column 1. Line 200. Row 5. Stub period accrual, see note 1.
+2	P2_sf/P2_table/P2_table_row5	cell3		numeric	12	Column 2. Line 205. Row 5. Designated qualified resource expenses, see note 2.
+2	P2_sf/P2_table/P2_table_row5	cell4		numeric	12	Column 3. Line 210. Row 5. Discretionary amount designated, see note 3.
+2	P2_sf/P2_table/P2_table_row5	cell5		numeric	12	Column 4. Line 215. Row 5. Adjusted stub period accrual, column 1 minus column 2 minus column 3.
+2	P2_sf/P2_table/P2_table_row5	cell6		numeric	12	Column 5. Line 220. Row 5. Previous-year adjusted stub period accrual, see note 4.
+2	P2_sf/P2_table/P2_table_row5	cell7		numeric	12	Column 6. Line 225. Row 5. Income inclusion for a new corporate member of a partnership, see note 5.
+2	P2_sf/P2_table/P2_table_row5	cell8		numeric	12	Column 7. Line 230. Row 5. Previous-year income inclusion for a new corporate member of a partnership, see note 6.
+2	P2_sf/P2_table/P2_table_row5	cell9		numeric	12	Column 8. Line 260. Row 5. Net amount to be included in income for the tax year , see note 7.
+2	P2_sf/P2_table/P2_table_row6/cell1/grp	BusinessNumber_RT1		text		Row 6. First part of the Partnership account number from part 1, 9 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row6/cell1/grp	BusinessNumber_RT		text		
+2	P2_sf/P2_table/P2_table_row6/cell1/grp	BusinessNumber_RT2		text		Row 6. Second part of the Partnership account number from part 1, 4 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row6	cell2		numeric	12	Column 1. Line 200. Row 6. Stub period accrual, see note 1.
+2	P2_sf/P2_table/P2_table_row6	cell3		numeric	12	Column 2. Line 205. Row 6. Designated qualified resource expenses, see note 2.
+2	P2_sf/P2_table/P2_table_row6	cell4		numeric	12	Column 3. Line 210. Row 6. Discretionary amount designated, see note 3.
+2	P2_sf/P2_table/P2_table_row6	cell5		numeric	12	Column 4. Line 215. Row 6. Adjusted stub period accrual, column 1 minus column 2 minus column 3.
+2	P2_sf/P2_table/P2_table_row6	cell6		numeric	12	Column 5. Line 220. Row 6. Previous-year adjusted stub period accrual, see note 4.
+2	P2_sf/P2_table/P2_table_row6	cell7		numeric	12	Column 6. Line 225. Row 6. Income inclusion for a new corporate member of a partnership, see note 5.
+2	P2_sf/P2_table/P2_table_row6	cell8		numeric	12	Column 7. Line 230. Row 6. Previous-year income inclusion for a new corporate member of a partnership, see note 6.
+2	P2_sf/P2_table/P2_table_row6	cell9		numeric	12	Column 8. Line 260. Row 6. Net amount to be included in income for the tax year , see note 7.
+2	P2_sf/P2_table/P2_table_row7/cell1/grp	BusinessNumber_RT1		text		Row 7. First part of the Partnership account number from part 1, 9 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row7/cell1/grp	BusinessNumber_RT		text		
+2	P2_sf/P2_table/P2_table_row7/cell1/grp	BusinessNumber_RT2		text		Row 7. Second part of the Partnership account number from part 1, 4 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row7	cell2		numeric	12	Column 1. Line 200. Row 7. Stub period accrual, see note 1.
+2	P2_sf/P2_table/P2_table_row7	cell3		numeric	12	Column 2. Line 205. Row 7. Designated qualified resource expenses, see note 2.
+2	P2_sf/P2_table/P2_table_row7	cell4		numeric	12	Column 3. Line 210. Row 7. Discretionary amount designated, see note 3.
+2	P2_sf/P2_table/P2_table_row7	cell5		numeric	12	Column 4. Line 215. Row 7. Adjusted stub period accrual, column 1 minus column 2 minus column 3.
+2	P2_sf/P2_table/P2_table_row7	cell6		numeric	12	Column 5. Line 220. Row 7. Previous-year adjusted stub period accrual, see note 4.
+2	P2_sf/P2_table/P2_table_row7	cell7		numeric	12	Column 6. Line 225. Row 7. Income inclusion for a new corporate member of a partnership, see note 5.
+2	P2_sf/P2_table/P2_table_row7	cell8		numeric	12	Column 7. Line 230. Row 7. Previous-year income inclusion for a new corporate member of a partnership, see note 6.
+2	P2_sf/P2_table/P2_table_row7	cell9		numeric	12	Column 8. Line 260. Row 7. Net amount to be included in income for the tax year , see note 7.
+2	P2_sf/P2_table/P2_table_row8/cell1/grp	BusinessNumber_RT1		text		Row 8. First part of the Partnership account number from part 1, 9 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row8/cell1/grp	BusinessNumber_RT		text		
+2	P2_sf/P2_table/P2_table_row8/cell1/grp	BusinessNumber_RT2		text		Row 8. Second part of the Partnership account number from part 1, 4 digits. Instance 2.
+2	P2_sf/P2_table/P2_table_row8	cell2		numeric	12	Column 1. Line 200. Row 8. Stub period accrual, see note 1.
+2	P2_sf/P2_table/P2_table_row8	cell3		numeric	12	Column 2. Line 205. Row 8. Designated qualified resource expenses, see note 2.
+2	P2_sf/P2_table/P2_table_row8	cell4		numeric	12	Column 3. Line 210. Row 8. Discretionary amount designated, see note 3.
+2	P2_sf/P2_table/P2_table_row8	cell5		numeric	12	Column 4. Line 215. Row 8. Adjusted stub period accrual, column 1 minus column 2 minus column 3.
+2	P2_sf/P2_table/P2_table_row8	cell6		numeric	12	Column 5. Line 220. Row 8. Previous-year adjusted stub period accrual, see note 4.
+2	P2_sf/P2_table/P2_table_row8	cell7		numeric	12	Column 6. Line 225. Row 8. Income inclusion for a new corporate member of a partnership, see note 5.
+2	P2_sf/P2_table/P2_table_row8	cell8		numeric	12	Column 7. Line 230. Row 8. Previous-year income inclusion for a new corporate member of a partnership, see note 6.
+2	P2_sf/P2_table/P2_table_row8	cell9		numeric	12	Column 8. Line 260. Row 8. Net amount to be included in income for the tax year , see note 7.
+2	P2_sf/P2_Ln1_sf	P2_Ln1_inpt1		numeric	12	Total of column 1, line 200, stub period accrual.
+2	P2_sf/P2_Ln1_sf	P2_Ln1_inpt2		numeric	12	Total of column 2, line 205, designated qualified resource expenses.
+2	P2_sf/P2_Ln1_sf	P2_Ln1_inpt3		numeric	12	Total of column 3, line 210, discretionary amount designated.
+2	P2_sf/P2_Ln1_sf	P2_Ln1_inpt4		numeric	12	Total of column 4, line 215, adjusted stub period accrual.
+2	P2_sf/P2_Ln1_sf	P2_Ln1_inpt5		numeric	12	Total of column 5, line 220, previous-year adjusted stub period accrual.
+2	P2_sf/P2_Ln1_sf	P2_Ln1_inpt6		numeric	12	Total of column 6, line 225, income inclusion for a new corporate member of a partnership.
+2	P2_sf/P2_Ln1_sf	P2_Ln1_inpt7		numeric	12	Total of column 7, line 230, previous-year income inclusion for a new corporate member of a partnership.
+2	P2_sf/P2_Ln1_sf	P2_Ln1_inpt8		numeric	12	Total column 8, line 260, net amount to be included in income for the tax year.
+2	P2_sf/P2_Ln2_sf	P2_Ln2_inpt1	270	numeric	12	Line 270. Total active business income.
+2	P2_sf/P2_Ln2_sf	P2_Ln2_inpt2	275	numeric	12	Line 275. Total taxable capital gain.
+2	P2_sf/P2_Ln2_sf	P2_Ln2_inpt3	280	numeric	12	Line 280. Total property income.
+2	P2_sf/P2_Ln3_sf	P2_Ln3_inpt1	285	numeric	12	Line 285. Total allowable capital loss.
+2	P2_sf/P2_Ln3_sf	P2_Ln3_inpt2	290	numeric	12	Line 290. Total other income.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row1/cell1/grp	BusinessNumber_RT1		text		Row 1. First part of the Partnership account number from part 1, 9 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row1/cell1/grp	BusinessNumber_RT		text		
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row1/cell1/grp	BusinessNumber_RT2		text		Row 1. Second part of the Partnership account number from part 1, 4 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row1	cell2		numeric	12	Column 9. Line 300. Row 1. Income shortfall adjustment, see note 8.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row1	cell3		numeric	12	Column 10. Line 310. Row 1. Threshold amount, see note 9.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row2/cell1/grp	BusinessNumber_RT1		text		Row 2. First part of the Partnership account number from part 1, 9 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row2/cell1/grp	BusinessNumber_RT		text		
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row2/cell1/grp	BusinessNumber_RT2		text		Row 2. Second part of the Partnership account number from part 1, 4 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row2	cell2		numeric	12	Column 9. Line 300. Row 2. Income shortfall adjustment, see note 8.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row2	cell3		numeric	12	Column 10. Line 310. Row 2. Threshold amount, see note 9.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row3/cell1/grp	BusinessNumber_RT1		text		Row 3. First part of the Partnership account number from part 1, 9 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row3/cell1/grp	BusinessNumber_RT		text		
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row3/cell1/grp	BusinessNumber_RT2		text		Row 3. Second part of the Partnership account number from part 1, 4 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row3	cell2		numeric	12	Column 9. Line 300. Row 3. Income shortfall adjustment, see note 8.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row3	cell3		numeric	12	Column 10. Line 310. Row 3. Threshold amount, see note 9.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row4/cell1/grp	BusinessNumber_RT1		text		Row 4. First part of the Partnership account number from part 1, 9 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row4/cell1/grp	BusinessNumber_RT		text		
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row4/cell1/grp	BusinessNumber_RT2		text		Row 4. Second part of the Partnership account number from part 1, 4 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row4	cell2		numeric	12	Column 9. Line 300. Row 4. Income shortfall adjustment, see note 8.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row4	cell3		numeric	12	Column 10. Line 310. Row 4. Threshold amount, see note 9.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row5/cell1/grp	BusinessNumber_RT1		text		Row 5. First part of the Partnership account number from part 1, 9 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row5/cell1/grp	BusinessNumber_RT		text		
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row5/cell1/grp	BusinessNumber_RT2		text		Row 5. Second part of the Partnership account number from part 1, 4 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row5	cell2		numeric	12	Column 9. Line 300. Row 5. Income shortfall adjustment, see note 8.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row5	cell3		numeric	12	Column 10. Line 310. Row 5. Threshold amount, see note 9.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row6/cell1/grp	BusinessNumber_RT1		text		Row 6. First part of the Partnership account number from part 1, 9 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row6/cell1/grp	BusinessNumber_RT		text		
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row6/cell1/grp	BusinessNumber_RT2		text		Row 6. Second part of the Partnership account number from part 1, 4 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row6	cell2		numeric	12	Column 9. Line 300. Row 6. Income shortfall adjustment, see note 8.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row6	cell3		numeric	12	Column 10. Line 310. Row 6. Threshold amount, see note 9.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row7/cell1/grp	BusinessNumber_RT1		text		Row 7. First part of the Partnership account number from part 1, 9 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row7/cell1/grp	BusinessNumber_RT		text		
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row7/cell1/grp	BusinessNumber_RT2		text		Row 7. Second part of the Partnership account number from part 1, 4 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row7	cell2		numeric	12	Column 9. Line 300. Row 7. Income shortfall adjustment, see note 8.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row7	cell3		numeric	12	Column 10. Line 310. Row 7. Threshold amount, see note 9.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row8/cell1/grp	BusinessNumber_RT1		text		Row 8. First part of the Partnership account number from part 1, 9 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row8/cell1/grp	BusinessNumber_RT		text		
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row8/cell1/grp	BusinessNumber_RT2		text		Row 8. Second part of the Partnership account number from part 1, 4 digits. Instance 3.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row8	cell2		numeric	12	Column 9. Line 300. Row 8. Income shortfall adjustment, see note 8.
+3	P3_sf/P3_Ln1_sf/P3_Ln1_table/P3_Ln1_table_row8	cell3		numeric	12	Column 10. Line 310. Row 8. Threshold amount, see note 9.
+3	P3_sf/P3_Ln2_sf	P3_Ln2_inpt1		numeric	12	Total of column 9, line 300, income shortfall adjustment.
+3	P3_sf/P3_Ln2_sf	P3_Ln2_inpt2		numeric	12	Total of column 10, line 310, threshold amount.
+3	P3_sf/P3_Ln3A_sf	P3_Ln3A_inpt1		numeric	12	Amount 3A. Total of column 9. If negative, enter 0. Instance 1.
+3	P3_sf/P3_Ln3A_sf	P3_Ln3A_inpt2		numeric	12	Amount 3A. Instance 2.
+3	P3_sf/P3_Ln3B_sf	P3_Ln3B_inpt		numeric	12	Amount 3B. Total of column 9 or, column 10, whichever is less.
+3	P3_sf/P3_Ln320_sf	P3_Ln320_inpt1		numeric	12	Subtotal. Amount 3A minus amount 3B, if negative enter 0.
+3	P3_sf/P3_Ln320_sf	P3_Ln320_inpt2	320	numeric	12	Line 320, additional amount. Subtotal multiplied by 0.50.
+3	P3_sf/P3_Ln3C_sf	P3_Ln3C_inpt		numeric	12	Amount 3C. Income shortfall adjustment and additional amount. Amount 3A plus line 320. Enter amount 3C on line 131 of Schedule 1.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		

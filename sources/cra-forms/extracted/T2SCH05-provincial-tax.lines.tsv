@@ -50,7 +50,7 @@ line	caption
 841	Certificate number
 569	Nova Scotia digital animation tax credit
 839	Certificate number
-224	Net Nova Scotia tax payable or refundable tax credit (amount 3D minus 3E)
+224	Net Nova Scotia tax payable or refundable tax credit (amount 3D minus amount 3E)
 225	New Brunswick tax before credits (from Schedule 366)
 573	Recapture of New Brunswick research and development tax credit (from Schedule 360)
 576	New Brunswick foreign tax credit (from Schedule 21)
@@ -82,7 +82,7 @@ line	caption
 470	Ontario business-research institute tax credit (from Schedule 568)
 472	Ontario regional opportunities investment tax credit (from Schedule 570)
 474	Refundable Ontario made manufacturing investment tax credit (from Schedule 572)
-476	Ontario shortline railway investment tax credit
+476	Ontario shortline railway investment tax credit (from Schedule 555)
 290	Net Ontario tax payable or refundable tax credit (amount 5I minus amount 5J)
 230	Manitoba tax before credits (from Schedule 383)
 601	Manitoba foreign tax credit (from Schedule 21)
@@ -137,18 +137,17 @@ line	caption
 679	British Columbia training tax credit (from Schedule 428)
 680	British Columbia interactive digital media tax credit (from Schedule 429)
 681	British Columbia shipbuilding and ship repair industry tax credit (from Schedule 430)
+684	British Columbia manufacturing and processing investment tax credit
 685	British Columbia clean buildings tax credit
 884	Certificate number
 244	Net British Columbia tax payable or refundable tax credit (amount 8C minus amount 8D)
-245	Yukon tax before credits (from Schedule 443)
+245	Yukon Yukon tax before credits (from Schedule 443)
 675	Yukon political contribution tax credit
 897	Contribution
 676	Yukon foreign tax credit (from Schedule 21)
 677	Yukon manufacturing and processing profits tax credit (from Schedule 440)
 698	Yukon research and development tax credit (from Schedule 442)
-699	Yukon general business carbon price rebate (from Schedule 444)
-696	Yukon mining business carbon price rebate (from Schedule 444)
-249	Net Yukon tax payable or refundable tax credit (amount 9B minus amount 9C)
+249	Net Yukon tax payable or refundable tax credit (amount 9B minus line 698)
 250	Northwest Territories tax before credits (from Schedule 461)
 700	Northwest Territories political contribution tax credit
 898	Contribution

@@ -1,0 +1,182 @@
+page	part	field	line	kind	digits	speak
+1	Ident_bar	Corp_name		text		Corporation's name.
+1	Ident_bar	BN		text		Business number. 9 digits, 2 letters, and 4 digits.
+1	Ident_bar/Tax_y-e	DateYYYYMMDD_Comb		text		Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1_content/Part1_tables/Part1_table1/Row1	Cell1	200	text		Line 200. Column A. Name of payer corporation from which the corporation received the dividend. Row 1.
+1	Part1_content/Part1_tables/Part1_table1/Row1	Cell2	205	numeric	1	Line 205. Column B. Enter 1 if payer corporation is connected. Row 1.
+1	Part1_content/Part1_tables/Part1_table1/Row1	Cell3	210	text		Line 210. Column C. Business number of connected corporation. 9 digits, 2 letters, and 4 digits. Row 1.
+1	Part1_content/Part1_tables/Part1_table1/Row1	Cell4	220	text		Line 220. Column D. Tax year-end of the payer corporation in which the sections 112/113 and subsection 138(6) dividends reported under column 240 were paid. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+1	Part1_content/Part1_tables/Part1_table1/Row1	Cell5	230	numeric	12	Line 230. Column E. Non-taxable dividends under section 83. Row 1.
+1	Part1_content/Part1_tables/Part1_table1/Row2	Cell1	200	text		Line 200. Column A. Name of payer corporation from which the corporation received the dividend. Row 2.
+1	Part1_content/Part1_tables/Part1_table1/Row2	Cell2	205	numeric	1	Line 205. Column B. Enter 1 if payer corporation is connected. Row 2.
+1	Part1_content/Part1_tables/Part1_table1/Row2	Cell3	210	text		Line 210. Column C. Business number of connected corporation. 9 digits, 2 letters, and 4 digits. Row 2.
+1	Part1_content/Part1_tables/Part1_table1/Row2	Cell4	220	text		Line 220. Column D. Tax year-end of the payer corporation in which the sections 112/113 and subsection 138(6) dividends reported under column 240 were paid. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+1	Part1_content/Part1_tables/Part1_table1/Row2	Cell5	230	numeric	12	Line 230. Column E. Non-taxable dividends under section 83. Row 2.
+1	Part1_content/Part1_tables/Part1_table1/Row3	Cell1	200	text		Line 200. Column A. Name of payer corporation from which the corporation received the dividend. Row 3.
+1	Part1_content/Part1_tables/Part1_table1/Row3	Cell2	205	numeric	1	Line 205. Column B. Enter 1 if payer corporation is connected. Row 3.
+1	Part1_content/Part1_tables/Part1_table1/Row3	Cell3	210	text		Line 210. Column C. Business number of connected corporation. 9 digits, 2 letters, and 4 digits. Row 3.
+1	Part1_content/Part1_tables/Part1_table1/Row3	Cell4	220	text		Line 220. Column D. Tax year-end of the payer corporation in which the sections 112/113 and subsection 138(6) dividends reported under column 240 were paid. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+1	Part1_content/Part1_tables/Part1_table1/Row3	Cell5	230	numeric	12	Line 230. Column E. Non-taxable dividends under section 83. Row 3.
+1	Part1_content/Part1_tables/Part1_table1/Row4	Cell1	200	text		Line 200. Column A. Name of payer corporation from which the corporation received the dividend. Row 4.
+1	Part1_content/Part1_tables/Part1_table1/Row4	Cell2	205	numeric	1	Line 205. Column B. Enter 1 if payer corporation is connected. Row 4.
+1	Part1_content/Part1_tables/Part1_table1/Row4	Cell3	210	text		Line 210. Column C. Business number of connected corporation. 9 digits, 2 letters, and 4 digits. Row 4.
+1	Part1_content/Part1_tables/Part1_table1/Row4	Cell4	220	text		Line 220. Column D. Tax year-end of the payer corporation in which the sections 112/113 and subsection 138(6) dividends reported under column 240 were paid. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+1	Part1_content/Part1_tables/Part1_table1/Row4	Cell5	230	numeric	12	Line 230. Column E. Non-taxable dividends under section 83. Row 4.
+1	Part1_content/Part1_tables/Part1_table1/Row5	Cell1	200	text		Line 200. Column A. Name of payer corporation from which the corporation received the dividend. Row 5.
+1	Part1_content/Part1_tables/Part1_table1/Row5	Cell2	205	numeric	1	Line 205. Column B. Enter 1 if payer corporation is connected. Row 5.
+1	Part1_content/Part1_tables/Part1_table1/Row5	Cell3	210	text		Line 210. Column C. Business number of connected corporation. 9 digits, 2 letters, and 4 digits. Row 5.
+1	Part1_content/Part1_tables/Part1_table1/Row5	Cell4	220	text		Line 220. Column D. Tax year-end of the payer corporation in which the sections 112/113 and subsection 138(6) dividends reported under column 240 were paid. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+1	Part1_content/Part1_tables/Part1_table1/Row5	Cell5	230	numeric	12	Line 230. Column E. Non-taxable dividends under section 83. Row 5.
+1	Part1_content/Part1_tables/Total_column_E	Input_E		numeric	12	Total of column 230. Enter amount on line 402 of Schedule 1.
+1	Part1_content/Part1_tables/Part1_table2/Row1	Cell1	235	numeric	12	Line 235. Column F. Taxable dividends deductible from income under paragraph 113(1)(c). Row 1.
+1	Part1_content/Part1_tables/Part1_table2/Row1	Cell2	240	numeric	12	Line 240. Column G. Taxable dividends deductible from taxable income under section 112, subsections 112(1), 113(2) and 138(6), and paragraphs 113(1)(a), (a.1), (b), or (d). Row 1.
+1	Part1_content/Part1_tables/Part1_table2/Row1	Cell3	242	numeric	12	Line 242. Column H. Eligible dividends included under column 240. Row 1.
+1	Part1_content/Part1_tables/Part1_table2/Row1/Cell_4/RadioButtonGroup	Option1	243	check		Line 243. Column H1. Is the dividend reported in column 240 a suspended dividend of the payer corporation as defined under subsection 129(1.3)? Yes. Row 1.
+1	Part1_content/Part1_tables/Part1_table2/Row1/Cell_4/RadioButtonGroup	Option2	243	check		Line 243. Column H1. Is the dividend reported in column 240 a suspended dividend of the payer corporation as defined under subsection 129(1.3)? No. Row 1.
+1	Part1_content/Part1_tables/Part1_table2/Row2	Cell1	235	numeric	12	Line 235. Column F. Taxable dividends deductible from income under paragraph 113(1)(c). Row 2.
+1	Part1_content/Part1_tables/Part1_table2/Row2	Cell2	240	numeric	12	Line 240. Column G. Taxable dividends deductible from taxable income under section 112, subsections 112(1), 113(2) and 138(6), and paragraphs 113(1)(a), (a.1), (b), or (d). Row 2.
+1	Part1_content/Part1_tables/Part1_table2/Row2	Cell3	242	numeric	12	Line 242. Column H. Eligible dividends included under column 240. Row 2.
+1	Part1_content/Part1_tables/Part1_table2/Row2/Cell4/RadioButtonGroup	Option1	243	check		Line 243. Column H1. Is the dividend reported in column 240 a suspended dividend of the payer corporation as defined under subsection 129(1.3)? Yes. Row 2.
+1	Part1_content/Part1_tables/Part1_table2/Row2/Cell4/RadioButtonGroup	Option2	243	check		Line 243. Column H1. Is the dividend reported in column 240 a suspended dividend of the payer corporation as defined under subsection 129(1.3)? No. Row 2.
+1	Part1_content/Part1_tables/Part1_table2/Row3	Cell1	235	numeric	12	Line 235. Column F. Taxable dividends deductible from income under paragraph 113(1)(c). Row 3.
+1	Part1_content/Part1_tables/Part1_table2/Row3	Cell2	240	numeric	12	Line 240. Column G. Taxable dividends deductible from taxable income under section 112, subsections 112(1), 113(2) and 138(6), and paragraphs 113(1)(a), (a.1), (b), or (d). Row 3.
+1	Part1_content/Part1_tables/Part1_table2/Row3	Cell3	242	numeric	12	Line 242. Column H. Eligible dividends included under column 240. Row 3.
+1	Part1_content/Part1_tables/Part1_table2/Row3/Cell4/RadioButtonGroup	Option1	243	check		Line 243. Column H1. Is the dividend reported in column 240 a suspended dividend of the payer corporation as defined under subsection 129(1.3)? Yes. Row 3.
+1	Part1_content/Part1_tables/Part1_table2/Row3/Cell4/RadioButtonGroup	Option2	243	check		Line 243. Column H1. Is the dividend reported in column 240 a suspended dividend of the payer corporation as defined under subsection 129(1.3)? No. Row 3.
+1	Part1_content/Part1_tables/Part1_table2/Row4	Cell1	235	numeric	12	Line 235. Column F. Taxable dividends deductible from income under paragraph 113(1)(c). Row 4.
+1	Part1_content/Part1_tables/Part1_table2/Row4	Cell2	240	numeric	12	Line 240. Column G. Taxable dividends deductible from taxable income under section 112, subsections 112(1), 113(2) and 138(6), and paragraphs 113(1)(a), (a.1), (b), or (d). Row 4.
+1	Part1_content/Part1_tables/Part1_table2/Row4	Cell3	242	numeric	12	Line 242. Column H. Eligible dividends included under column 240. Row 4.
+1	Part1_content/Part1_tables/Part1_table2/Row4/Cell4/RadioButtonGroup	Option1	243	check		Line 243. Column H1. Is the dividend reported in column 240 a suspended dividend of the payer corporation as defined under subsection 129(1.3)? Yes. Row 4.
+1	Part1_content/Part1_tables/Part1_table2/Row4/Cell4/RadioButtonGroup	Option2	243	check		Line 243. Column H1. Is the dividend reported in column 240 a suspended dividend of the payer corporation as defined under subsection 129(1.3)? No. Row 4.
+1	Part1_content/Part1_tables/Part1_table2/Row5	Cell1	235	numeric	12	Line 235. Column F. Taxable dividends deductible from income under paragraph 113(1)(c). Row 5.
+1	Part1_content/Part1_tables/Part1_table2/Row5	Cell2	240	numeric	12	Line 240. Column G. Taxable dividends deductible from taxable income under section 112, subsections 112(1), 113(2) and 138(6), and paragraphs 113(1)(a), (a.1), (b), or (d). Row 5.
+1	Part1_content/Part1_tables/Part1_table2/Row5	Cell3	242	numeric	12	Line 242. Column H. Eligible dividends included under column 240. Row 5.
+1	Part1_content/Part1_tables/Part1_table2/Row5/Cell4/RadioButtonGroup	Option1	243	check		Line 243. Column H1. Is the dividend reported in column 240 a suspended dividend of the payer corporation as defined under subsection 129(1.3)? Yes. Row 5.
+1	Part1_content/Part1_tables/Part1_table2/Row5/Cell4/RadioButtonGroup	Option2	243	check		Line 243. Column H1. Is the dividend reported in column 240 a suspended dividend of the payer corporation as defined under subsection 129(1.3)? No. Row 5.
+1	Part1_content/Amount_1A	Input_1A		numeric	12	Amount 1A. Total Taxable dividends deductible reported under column 235.
+1	Part1_content/Amount_1B	Input_1B		numeric	12	Amount 1B. Total taxable dividends deductible reported under column 240.
+1	Part1_content/Amount_1C	Input_1C		numeric	12	Amount 1C. Subtotal. Amount 1A plus amount 1B. Include this amount on line 320 of the T2 return.
+1	Part1_content/Amount_1D	Input_1D		numeric	12	Amount 1D. Eligible dividends received from connected corporations. Total amounts from column 242 with code 1 in column 205.
+1	Part1_content/Amount_1E	Input_1E		numeric	12	Amount 1E. Eligible dividends received from non-connected corporations. Total amounts from column 242 with no code in column 205.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	Part1_content_cont/Part1_table3/Row1	Cell1	250	numeric	12	Line 250. Column I. Total taxable dividends paid by connected payer corporation for tax year in column 220. Row 1.
+2	Part1_content_cont/Part1_table3/Row1	Cell2	260	numeric	12	Line 260. Column J. Dividend refund of the connected payer corporation for tax year in column 220. Row 1.
+2	Part1_content_cont/Part1_table3/Row1	Cell3	265	numeric	12	Line 265. Column K. Part IV tax for eligible dividends. Dividends from column 242 multiplied by 38 and one third %. Row 1.
+2	Part1_content_cont/Part1_table3/Row1	Cell4	275	numeric	12	Line 275. Column L. Part IV tax before deductions. Dividends from column 240 multiplied by 38 and one third %. Row 1.
+2	Part1_content_cont/Part1_table3/Row1	Cell5	280	numeric	12	Line 280. Column M. Part IV tax before deductions on taxable dividends received from connected corporations. Row 1.
+2	Part1_content_cont/Part1_table3/Row2	Cell1	250	numeric	12	Line 250. Column I. Total taxable dividends paid by connected payer corporation for tax year in column 220. Row 2.
+2	Part1_content_cont/Part1_table3/Row2	Cell2	260	numeric	12	Line 260. Column J. Dividend refund of the connected payer corporation for tax year in column 220. Row 2.
+2	Part1_content_cont/Part1_table3/Row2	Cell3	265	numeric	12	Line 265. Column K. Part IV tax for eligible dividends. Dividends from column 242 multiplied by 38 and one third %. Row 2.
+2	Part1_content_cont/Part1_table3/Row2	Cell4	275	numeric	12	Line 275. Column L. Part IV tax before deductions. Dividends from column 240 multiplied by 38 and one third %. Row 2.
+2	Part1_content_cont/Part1_table3/Row2	Cell5	280	numeric	12	Line 280. Column M. Part IV tax before deductions on taxable dividends received from connected corporations. Row 2.
+2	Part1_content_cont/Part1_table3/Row3	Cell1	250	numeric	12	Line 250. Column I. Total taxable dividends paid by connected payer corporation for tax year in column 220. Row 3.
+2	Part1_content_cont/Part1_table3/Row3	Cell2	260	numeric	12	Line 260. Column J. Dividend refund of the connected payer corporation for tax year in column 220. Row 3.
+2	Part1_content_cont/Part1_table3/Row3	Cell3	265	numeric	12	Line 265. Column K. Part IV tax for eligible dividends. Dividends from column 242 multiplied by 38 and one third %. Row 3.
+2	Part1_content_cont/Part1_table3/Row3	Cell4	275	numeric	12	Line 275. Column L. Part IV tax before deductions. Dividends from column 240 multiplied by 38 and one third %. Row 3.
+2	Part1_content_cont/Part1_table3/Row3	Cell5	280	numeric	12	Line 280. Column M. Part IV tax before deductions on taxable dividends received from connected corporations. Row 3.
+2	Part1_content_cont/Part1_table3/Row4	Cell1	250	numeric	12	Line 250. Column I. Total taxable dividends paid by connected payer corporation for tax year in column 220. Row 4.
+2	Part1_content_cont/Part1_table3/Row4	Cell2	260	numeric	12	Line 260. Column J. Dividend refund of the connected payer corporation for tax year in column 220. Row 4.
+2	Part1_content_cont/Part1_table3/Row4	Cell3	265	numeric	12	Line 265. Column K. Part IV tax for eligible dividends. Dividends from column 242 multiplied by 38 and one third %. Row 4.
+2	Part1_content_cont/Part1_table3/Row4	Cell4	275	numeric	12	Line 275. Column L. Part IV tax before deductions. Dividends from column 240 multiplied by 38 and one third %. Row 4.
+2	Part1_content_cont/Part1_table3/Row4	Cell5	280	numeric	12	Line 280. Column M. Part IV tax before deductions on taxable dividends received from connected corporations. Row 4.
+2	Part1_content_cont/Part1_table3/Row5	Cell1	250	numeric	12	Line 250. Column I. Total taxable dividends paid by connected payer corporation for tax year in column 220. Row 5.
+2	Part1_content_cont/Part1_table3/Row5	Cell2	260	numeric	12	Line 260. Column J. Dividend refund of the connected payer corporation for tax year in column 220. Row 4.
+2	Part1_content_cont/Part1_table3/Row5	Cell3	265	numeric	12	Line 265. Column K. Part IV tax for eligible dividends. Dividends from column 242 multiplied by 38 and one third %. Row 5.
+2	Part1_content_cont/Part1_table3/Row5	Cell4	275	numeric	12	Line 275. Column L. Part IV tax before deductions. Dividends from column 240 multiplied by 38 and one third %. Row 5.
+2	Part1_content_cont/Part1_table3/Row5	Cell5	280	numeric	12	Line 280. Column M. Part IV tax before deductions on taxable dividends received from connected corporations. Row 5.
+2	Part1_content_cont/Total_column_E	Input_E		numeric	12	Total of column 280. Enter amount on line 2E in Part 2.
+2	Part1_content_cont/Amount_1F	Input_1F		numeric	12	Amount 1F. Part IV tax before deductions on taxable dividends received from connected corporations. Total amounts from column 275 with code 1 in column 205.
+2	Part1_content_cont/Amount_1G	Input_1G		numeric	12	Amount 1G. Part IV tax before deductions on taxable dividends received from non-connected corporations. Total amounts from column 275 with no code in column 205.
+2	Part1_content_cont/Amount_1H	Input1_1H		numeric	12	Amount 1H. Subtotal. Amount 1F plus amount 1G. Instance 1.
+2	Part1_content_cont/Amount_1H	Input2_1H		numeric	12	Amount 1H. Instance 2.
+2	Part1_content_cont/Amount_1I	Input_1I		numeric	12	Amount 1I. Part IV tax on eligible dividends received from connected corporations. Total amounts from column 265 with code 1 in column 205.
+2	Part1_content_cont/Amount_1J	Input_1J		numeric	12	Amount 1J. Part IV tax on eligible dividends received from non-connected corporations. Total amounts from column 265 with no code in column 205.
+2	Part1_content_cont/Amount_1K	Input1_1K		numeric	12	Amount 1K. Subtotal. Amount 1I plus amount 1J. Instance 1.
+2	Part1_content_cont/Amount_1K	Input2_1K		numeric	12	Amount 1K. Instance 2.
+2	Part1_content_cont/Amount_1L	Input_1L		numeric	12	Amount 1L. Part IV tax before deductions on taxable dividends, other than eligible dividends. Amount 1H minus 1K.
+2	Part2_content/P2_Ln100_sf/RadioButtonGroup	Option1	100	check		Line 100. Is your corporation an exempt corporation for the purposes of Part IV tax under subparagraph 186.1(b)(ii) or (vii) of the Act? Yes.
+2	Part2_content/P2_Ln100_sf/RadioButtonGroup	Option2	100	check		Line 100. Is your corporation an exempt corporation for the purposes of Part IV tax under subparagraph 186.1(b)(ii) or (vii) of the Act? No.
+2	Part2_content/Amount_2A	Input_2A		numeric	12	Amount 2A. Part IV tax on dividends received before deductions. Amount 1H in part 1.
+2	Part2_content/Line_320	Input_320	320	numeric	12	Line 320. Part IV.I tax payable on dividends subject to Part IV tax. From line 360 of Schedule 43.
+2	Part2_content/Amount_2B	Input1_2B		numeric	12	Amount 2B. Subtotal. Amount 2A minus line 320. Instance 1.
+2	Part2_content/Amount_2B	Input2_2B		numeric	12	Amount 2B. Instance 2.
+2	Part2_content/Line_330	Input_330	330	numeric	12	Line 330. Current-year non-capital loss claimed to reduce Part IV tax.
+2	Part2_content/Line_335	Input_335	335	numeric	12	Line 335. Non-capital losses from previous years claimed to reduce Part IV tax.
+2	Part2_content/Line_340	Input_340	340	numeric	12	Line 340. Current-year farm loss claimed to reduce Part IV tax.
+2	Part2_content/Line_345	Input_345	345	numeric	12	Line 345. Farm losses from previous years claimed to reduce Part IV tax.
+2	Part2_content/Amount_2C	Input_2C		numeric	12	Amount 2C. Total losses applied against Part IV tax. Total of lines 330 to 345.
+2	Part2_content/Amount_2D	Input_2D		numeric	12	Amount 2D. Amount 2C multiplied by 38 and one third %.
+2	Part2_content/Line_360	Input_360	360	numeric	12	Line 360. Part IV tax payable. Amount 2B minus amount 2D, if negative, enter 0. Enter amount on line 712 of the T2 return.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	Part2_content_contd/Amount_2E	Input_2E		numeric	12	Amount 2E. Part IV tax before deductions on taxable dividends received from connected corporations. Total of column 280 in part 1.
+3	Part2_content_contd/Amount_2F	Input_2F		numeric	12	Amount 2F. Amount 4A from Schedule 43.
+3	Part2_content_contd/Amount_2G	Input_2G		numeric	12	Amount 2G. Part IV tax payable on taxable dividends received from connected corporations. Amount 2E minus amount 2F. If negative, enter 0. Enter at amount C on page 7 of the T2 return.
+3	Part2_content_contd/Amount_2H	Input_2H		numeric	12	Amount 2H. Part IV tax on eligible dividends received from non-connected corporations. Amount 1J in part 1.
+3	Part2_content_contd/Amount_2I	Input_2I		numeric	12	Amount 2I. Amount 4C from Schedule 43.
+3	Part2_content_contd/Amount_2J	Input_2J		numeric	12	Amount 2J. Part IV tax payable on eligible dividends received from non-connected corporations. Amount 2H minus amount 2I, if negative, enter 0. Enter at amount D on page 7 of the T2 return.
+3	Part3_content/Part3_table/Row1	Cell1	400	text		Line 400. Column N. Name of recipient corporation with which you are connected. Row 1.
+3	Part3_content/Part3_table/Row1	Cell2	410	text		Line 410. Column O. Business number. 9 digits, 2 letters, and 4 digits. Row 1.
+3	Part3_content/Part3_table/Row1	Cell3	420	text		Line 420. Column P. Tax year-end of recipient corporation in which the dividends reported under column 430 were received. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+3	Part3_content/Part3_table/Row1	Cell4	430	numeric	12	Line 430. Column Q. Taxable dividends paid in the tax year to recipient corporations with which you are connected. Row 1.
+3	Part3_content/Part3_table/Row1	Cell5	440	numeric	12	Line 440. Column R. Eligible dividends included under column 430. Row 1.
+3	Part3_content/Part3_table/Row1/Cell_6/RadioButtonGroup	Option1	445	check		Line 445. Column S. Is this a suspended dividend as defined under subsection 129(1.3)? Yes. Row 1.
+3	Part3_content/Part3_table/Row1/Cell_6/RadioButtonGroup	Option2	445	check		Line 445. Column S. Is this a suspended dividend as defined under subsection 129(1.3)? No. Row 1.
+3	Part3_content/Part3_table/Row2	Cell1	400	text		Line 400. Column N. Name of recipient corporation with which you are connected. Row 2.
+3	Part3_content/Part3_table/Row2	Cell2	410	text		Line 410. Column O. Business number. 9 digits, 2 letters, and 4 digits. Row 2.
+3	Part3_content/Part3_table/Row2	Cell3	420	text		Line 420. Column P. Tax year-end of recipient corporation in which the dividends reported under column 430 were received. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+3	Part3_content/Part3_table/Row2	Cell4	430	numeric	12	Line 430. Column Q. Taxable dividends paid in the tax year to recipient corporations with which you are connected. Row 2.
+3	Part3_content/Part3_table/Row2	Cell5	440	numeric	12	Line 440. Column R. Eligible dividends included under column 430. Row 2.
+3	Part3_content/Part3_table/Row2/Cell_6/RadioButtonGroup	Option1	445	check		Line 445. Column S. Is this a suspended dividend as defined under subsection 129(1.3)? Yes. Row 2.
+3	Part3_content/Part3_table/Row2/Cell_6/RadioButtonGroup	Option2	445	check		Line 445. Column S. Is this a suspended dividend as defined under subsection 129(1.3)? No. Row 2.
+3	Part3_content/Part3_table/Row3	Cell1	400	text		Line 400. Column N. Name of recipient corporation with which you are connected. Row 3.
+3	Part3_content/Part3_table/Row3	Cell2	410	text		Line 410. Column O. Business number. 9 digits, 2 letters, and 4 digits. Row 3.
+3	Part3_content/Part3_table/Row3	Cell3	420	text		Line 420. Column P. Tax year-end of recipient corporation in which the dividends reported under column 430 were received. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+3	Part3_content/Part3_table/Row3	Cell4	430	numeric	12	Line 430. Column Q. Taxable dividends paid in the tax year to recipient corporations with which you are connected. Row 3.
+3	Part3_content/Part3_table/Row3	Cell5	440	numeric	12	Line 440. Column R. Eligible dividends included under column 430. Row 3.
+3	Part3_content/Part3_table/Row3/Cell_6/RadioButtonGroup	Option1	445	check		Line 445. Column S. Is this a suspended dividend as defined under subsection 129(1.3)? Yes. Row 3.
+3	Part3_content/Part3_table/Row3/Cell_6/RadioButtonGroup	Option2	445	check		Line 445. Column S. Is this a suspended dividend as defined under subsection 129(1.3)? No. Row 3.
+3	Part3_content/Part3_table/Row4	Cell1	400	text		Line 400. Column N. Name of recipient corporation with which you are connected. Row 4.
+3	Part3_content/Part3_table/Row4	Cell2	410	text		Line 410. Column O. Business number. 9 digits, 2 letters, and 4 digits. Row 4.
+3	Part3_content/Part3_table/Row4	Cell3	420	text		Line 420. Column P. Tax year-end of recipient corporation in which the dividends reported under column 430 were received. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+3	Part3_content/Part3_table/Row4	Cell4	430	numeric	12	Line 430. Column Q. Taxable dividends paid in the tax year to recipient corporations with which you are connected. Row 4.
+3	Part3_content/Part3_table/Row4	Cell5	440	numeric	12	Line 440. Column R. Eligible dividends included under column 430. Row 4.
+3	Part3_content/Part3_table/Row4/Cell_6/RadioButtonGroup	Option1	445	check		Line 445. Column S. Is this a suspended dividend as defined under subsection 129(1.3)? Yes. Row 4.
+3	Part3_content/Part3_table/Row4/Cell_6/RadioButtonGroup	Option2	445	check		Line 445. Column S. Is this a suspended dividend as defined under subsection 129(1.3)? No. Row 4.
+3	Part3_content/Part3_table/Row5	Cell1	400	text		Line 400. Column N. Name of recipient corporation with which you are connected. Row 5.
+3	Part3_content/Part3_table/Row5	Cell2	410	text		Line 410. Column O. Business number. 9 digits, 2 letters, and 4 digits. Row 5.
+3	Part3_content/Part3_table/Row5	Cell3	420	text		Line 420. Column P. Tax year-end of recipient corporation in which the dividends reported under column 430 were received. Date. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+3	Part3_content/Part3_table/Row5	Cell4	430	numeric	12	Line 430. Column Q. Taxable dividends paid in the tax year to recipient corporations with which you are connected. Row 5.
+3	Part3_content/Part3_table/Row5	Cell5	440	numeric	12	Line 440. Column R. Eligible dividends included under column 430. Row 5.
+3	Part3_content/Part3_table/Row5/Cell_6/RadioButtonGroup	Option1	445	check		Line 445. Column S. Is this a suspended dividend as defined under subsection 129(1.3)? Yes. Row 5.
+3	Part3_content/Part3_table/Row5/Cell_6/RadioButtonGroup	Option2	445	check		Line 445. Column S. Is this a suspended dividend as defined under subsection 129(1.3)? No. Row 5.
+3	Part3_content/Part3_table_totals	Input_total_P		numeric	12	Total of column 430.
+3	Part3_content/Part3_table_totals	Input_total_Q		numeric	12	Total of column 440.
+3	Part3_content/Line_450	Input_450	450	numeric	12	Line 450. Total taxable dividends paid in the tax year to other than connected corporations.
+3	Part3_content/Line_451	Input_450	451	numeric	12	Line 451. Portion of dividends paid in the tax year at line 450 that are suspended dividends under subsection 129(1.3).
+3	Part3_content/Amt3A_sf	Input_3A		numeric	12	Amount 3A. Total taxable dividends paid in the tax year to other than connected corporations that qualify for a dividend refund. Line 450 minus line 451.
+3	Part3_content/Line_455	Input_455	455	numeric	12	Line 455. Eligible dividends included in amount 3A.
+3	Part3_content/Line_456	Input_460	456	numeric	12	Line 456. Portion of dividends paid in the tax year at column 430 that are suspended dividends under subsection 129(1.3).
+3	Part3_content/Line_457	Input_455	457	numeric	12	Line 457. Eligible dividends included at line 456.
+3	Part3_content/Line_458	Input_455	458	numeric	12	Line 458. Suspended portion of taxable dividends deemed to have been paid in the tax year under subsection 129(1.32).
+3	Part3_content/Line_459	Input_455	459	numeric	12	Line 459. Eligible dividends included at line 458.
+3	Part3_content/Line_460	Input_460	460	numeric	12	Line 460. Total taxable dividends paid that qualify for a dividend refund for the tax year. Total of column 430 plus amount 3A minus line 456 plus line 458.
+3	Part3_content/Line_465	Input_465	465	numeric	12	Line 465. Total eligible dividends paid that qualify for a dividend refund for the tax year. Total of column 440 plus line 455 minus line 457 plus line 459.
+3	Part3_content/Line_470	Input_470	470	numeric	12	Line 470. Total non-eligible taxable dividends paid in the tax year that qualify for a dividend refund for the tax year. Line 460 minus line 465.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	Part3_content/Amount_3A	Input_3A		numeric	12	Amount 3B. Line 465 multiplied by 38 and one third %. Enter at amount AA on page 7 of the T2 return.
+4	Part3_content/Amount_3B	Input_3B		numeric	12	Amount 3C. Line 470 multiplied by 38 and one third %. Enter at amount DD on page 7 of the T2 return.
+4	Part4_content/Line_500	Input_500	500	numeric	12	Line 500. Total dividends paid in the tax year.
+4	Part4_content/Line_570	Input_570	570	numeric	12	Line 570. Suspended portion of taxable dividends deemed to have been paid in the tax year under subsection 129(1.32).
+4	Part4_content/Line_510	Input_510	510	numeric	12	Line 510. Dividends paid out of capital dividend account.
+4	Part4_content/Line_520	Input_520	520	numeric	12	Line 520. Capital gains dividends.
+4	Part4_content/Line_530	Input_530	530	numeric	12	Line 530. Dividends paid on shares described in subsection 129(1.2).
+4	Part4_content/Line_540	Input_540	540	numeric	12	Line 540. Taxable dividends paid to a controlling corporation that was bankrupt at any time in the year.
+4	Part4_content/Line_580	Input_580	580	numeric	12	Line 580. Taxable dividends paid in the tax year deemed not to be taxable dividends, suspended dividends, under subsection 129(1.3).
+4	Part4_content/Amount_4A	Input1_4A		numeric	12	Amount 4A. Subtotal. Total of lines 510 to 580. Instance 1.
+4	Part4_content/Amount_4A	Input2_4A		numeric	12	Amount 4A. Instance 2.
+4	Part4_content/Amount_4B	Input_4B		numeric	12	Amount 4B. Total taxable dividends paid that qualify for a dividend refund for the tax year. Line 500 plus line 570 minus amount 4A.
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		

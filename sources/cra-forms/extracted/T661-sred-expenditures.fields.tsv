@@ -1,0 +1,504 @@
+page	part	field	line	kind	digits	speak
+1	Part1/Line010	Name_010	010	text		Line 010. Name of claimant.
+1	Part1/TaxYear/FromToDates_Comb_Adv_EN	FromDate		text		Tax year. From date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1/TaxYear/FromToDates_Comb_Adv_EN	ToDate		text		Tax year. To date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Part1/Line050	Projects_050	050	numeric	5	Line 050. Total number of projects you are claiming this tax year.
+1	Part1/EnterOne_grp/BusinessNumber_Group	BusinessNumber		text		Enter one of the following. Business number. 9 digits, 2 letters, and 4 digits.
+1	Part1/EnterOne_grp/SIN	SIN_Comb		text		Enter one of the following. Social insurance number. 9 digits.
+1	Part1/Line100	ContactFinance_100	100	text		Line 100. Contact person for the financial information.
+1	Part1/Line105	Phone_105	105	text		Line 105. Contact person for the financial information. Telephone number. 10 digits.
+1	Part1/Line106	Extension_106	106	numeric	8	Line 106. Contact person for the financial information. Telephone extension.
+1	Part1/Line115	ContactTechnical_115	115	text		Line 115. Contact person for the technical information.
+1	Part1/Line120	Phone_120	120	text		Line 120. Contact person for the technical information. Telephone number. 10 digits.
+1	Part1/Line121	Extension_121	121	numeric	8	Line 121. Contact person for the technical information. Telephone extension.
+1	Part1/Line151/Line151_rb	Yes	151	check		Line 151. If this claim is filed for a partnership, was Form T5013 Partnership Information Return filed? Yes.
+1	Part1/Line151/Line151_rb	No	151	check		Line 151. If this claim is filed for a partnership, was Form T5013 Partnership Information Return filed? No.
+1	Part1/TableP1/Row1	Cell1	153	text		Line 153. Names of the partners. Row 1.
+1	Part1/TableP1/Row1	Cell2	156	numeric		Line 156. Percent. Row 1.
+1	Part1/TableP1/Row1	Cell3	157	text		Line 157. Business number. 9 digits, 2 letters, 4 digits, or social insurance number, 9 digits. Row 1.
+1	Part1/TableP1/Row2	Cell1	153	text		Line 153. Names of the partners. Row 2.
+1	Part1/TableP1/Row2	Cell2	156	numeric		Line 156. Percent. Row 2.
+1	Part1/TableP1/Row2	Cell3	157	text		Line 157. Business number. 9 digits, 2 letters, 4 digits, or social insurance number, 9 digits. Row 2.
+1	Part1/TableP1/Row3	Cell1	153	text		Line 153. Names of the partners. Row 3.
+1	Part1/TableP1/Row3	Cell2	156	numeric		Line 156. Percent. Row 3.
+1	Part1/TableP1/Row3	Cell3	157	text		Line 157. Business number. 9 digits, 2 letters, 4 digits, or social insurance number, 9 digits. Row 3.
+1	Part1/TableP1/Row4	Cell1	153	text		Line 153. Names of the partners. Row 4.
+1	Part1/TableP1/Row4	Cell2	156	numeric		Line 156. Percent. Row 4.
+1	Part1/TableP1/Row4	Cell3	157	text		Line 157. Business number. 9 digits, 2 letters, 4 digits, or social insurance number, 9 digits. Row 4.
+1	Part1/TableP1/Row5	Cell1	153	text		Line 153. Names of the partners. Row 5.
+1	Part1/TableP1/Row5	Cell2	156	numeric		Line 156. Percent. Row 5.
+1	Part1/TableP1/Row5	Cell3	157	text		Line 157. Business number. 9 digits, 2 letters, 4 digits, or social insurance number, 9 digits. Row 5.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	SectionA/Line200	Field_200	200	text		Line 200. Project title and identification code if applicable.
+2	SectionA/Line202	Date_202	202	text		Line 202. Project start date. Year 4 digits. Month 2 digits.
+2	SectionA/Line204	Date_204	204	text		Line 204. Completion or expected completion date. Year 4 digits. Month 2 digits.
+2	SectionA/Line206	Field_206	206	text		Line 206. Field of science or technology code. See guide T4088 for list of codes.
+2	SectionA/Line207/RDFCode	TextField_Comb5	207	numeric		Line 207. Canada Research and Development Classification (CRDC) field of research code. 5 digits.
+2	SectionA/ClaimHistory/Line208	CheckBox_Claim	208	check		Line 208. Continuation of a previously claimed project.
+2	SectionA/ClaimHistory/Line210	CheckBox_Claim	210	check		Line 210. First claim for the project.
+2	SectionA/ClaimHistory/Line212	CheckBox_Claim	212	check		Line 212. Project was pre-approved
+2	SectionA/Line214/Numeric_Float_Underlined	Numeric_Float_UnderlinedLine	214	numeric		Line 214. If you checked the box on line 212, please provide your pre-approval case number.
+2	SectionA/Line218/Line218_rb	Yes	218	check		Line 218. Was any of the work done jointly or in collaboration with other businesses? Yes.
+2	SectionA/Line218/Line218_rb	No	218	check		Line 218. Was any of the work done jointly or in collaboration with other businesses? No.
+2	SectionA/Table2/Row1	Cell1	220	text		Line 220. Name of business. Row 1.
+2	SectionA/Table2/Row1	Cell2	221	text		Line 221. Business number. 9 digits, 2 letters, and 4 digits. Row 1.
+2	SectionA/Table2/Row2	Cell1	220	text		Line 220. Name of business. Row 2.
+2	SectionA/Table2/Row2	Cell2	221	text		Line 221. Business number. 9 digits, 2 letters, and 4 digits. Row 2.
+2	SectionA/Table2/Row3	Cell1	220	text		Line 220. Name of business. Row 3.
+2	SectionA/Table2/Row3	Cell2	221	text		Line 221. Business number. 9 digits, 2 letters, and 4 digits. Row 3.
+2	Line242	Field_242	242	text		Line 242. What scientific or technological uncertainty did you attempt to overcome? Maximum 350 words.
+2	Line244	Field_244	244	text		Line 244. What work did you perform in the tax year to overcome the scientific or technological uncertainty described in line 242? Summarize the systematic investigation or search. Maximum 700 words.
+2	Line246	Field_246	246	text		Line 246. What scientific or technological advancement did you achieve or attempt to achieve as a result of the work described in line 244? Maximum 350 words.
+3	SectionD/Line253	CheckBox_253	253	check		Line 253. Who prepared the responses for Section B? Employee directly involved in the project.
+3	SectionD/Line254	Field_254	254	text		Line 254. Employee directly involved in the project. Name.
+3	SectionD/Line255	CheckBox_255	255	check		Line 255. Who prepared the responses for Section B? Other employee of the company.
+3	SectionD/Line256	Field_256	256	text		Line 256. Other employee of the company. Name.
+3	SectionD/Line257	CheckBox_257	257	check		Line 257. Who prepared the responses for Section B? External consultant.
+3	SectionD/Line258	Field_258	258	text		Line 258. External consultant. Name.
+3	SectionD/Line259	Field_259	259	text		Line 259. External consultant. Firm.
+3	SectionD/TableD1/Row1	Cell1	260	text		Line 260. Name. Row 1.
+3	SectionD/TableD1/Row1	Cell2	261	text		Line 261. Qualifications/experience and position title. Row 1.
+3	SectionD/TableD1/Row2	Cell1	260	text		Line 260. Name. Row 2.
+3	SectionD/TableD1/Row2	Cell2	261	text		Line 261. Qualifications/experience and position title. Row 2.
+3	SectionD/TableD1/Row3	Cell1	260	text		Line 260. Name. Row 3.
+3	SectionD/TableD1/Row3	Cell2	261	text		Line 261. Qualifications/experience and position title. Row 3.
+3	SectionD/TableC2/Row1	Cell1	262	text		Line 262. Name of SR&ED capital property. Row 1.
+3	SectionD/TableC2/Row1	Cell2	263	numeric		Line 263. Percent of total operating time for this project. Row 1.
+3	SectionD/TableC2/Row2	Cell1	262	text		Line 262. Name of SR&ED capital property. Row 2.
+3	SectionD/TableC2/Row2	Cell2	263	numeric		Line 263. Percent of total operating time for this project. Row 2.
+3	SectionD/TableC2/Row3	Cell1	262	text		Line 262. Name of SR&ED capital property. Row 3.
+3	SectionD/TableC2/Row3	Cell2	263	numeric		Line 263. Percent of total operating time for this project. Row 3.
+3	SectionD/TableC2/Row4	Cell1	262	text		Line 262. Name of SR&ED capital property. Row 4.
+3	SectionD/TableC2/Row4	Cell2	263	numeric		Line 263. Percent of total operating time for this project. Row 4.
+3	SectionD/TableC2/Row5	Cell1	262	text		Line 262. Name of SR&ED capital property. Row 5.
+3	SectionD/TableC2/Row5	Cell2	263	numeric		Line 263. Percent of total operating time for this project. Row 5.
+3	SectionD/TableC2/Row6	Cell1	262	text		Line 262. Name of SR&ED capital property. Row 6.
+3	SectionD/TableC2/Row6	Cell2	263	numeric		Line 263. Percent of total operating time for this project. Row 6.
+3	SectionD/TableC2/Row7	Cell1	262	text		Line 262. Name of SR&ED capital property. Row 7.
+3	SectionD/TableC2/Row7	Cell2	263	numeric		Line 263. Percent of total operating time for this project. Row 7.
+3	SectionD/TableC2/Row8	Cell1	262	text		Line 262. Name of SR&ED capital property. Row 8.
+3	SectionD/TableC2/Row8	Cell2	263	numeric		Line 263. Percent of total operating time for this project. Row 8.
+3	SectionD/TableC2/Row9	Cell1	262	text		Line 262. Name of SR&ED capital property. Row 9.
+3	SectionD/TableC2/Row9	Cell2	263	numeric		Line 263. Percent of total operating time for this project. Row 9.
+3	SectionD/TableC2/Row10	Cell1	262	text		Line 262. Name of SR&ED capital property. Row 10.
+3	SectionD/TableC2/Row10	Cell2	263	numeric		Line 263. Percent of total operating time for this project. Row 10.
+3	SectionD/Line265/Line265_rb	Yes	265	check		Line 265. Are you claiming any salary or wages for Scientific Research and Experimental Development performed outside Canada? Yes.
+3	SectionD/Line265/Line265_rb	No	265	check		Line 265. Are you claiming any salary or wages for Scientific Research and Experimental Development performed outside Canada? No.
+3	SectionD/Line266/Line266_rb	Yes	266	check		Line 266. Are you claiming expenditures for Scientific Research and Experimental Development carried out on behalf of another party? Yes.
+3	SectionD/Line266/Line266_rb	No	266	check		Line 266. Are you claiming expenditures for Scientific Research and Experimental Development carried out on behalf of another party? No.
+3	SectionD/Line267/Line267_rb	Yes	267	check		Line 267. Are you claiming expenditures for Scientific Research and Experimental Development performed by people other than your employees? Yes.
+3	SectionD/Line267/Line267_rb	No	267	check		Line 267. Are you claiming expenditures for Scientific Research and Experimental Development performed by people other than your employees? No.
+3	SectionD/TableD2/Row1	Cell1	268	text		Line 268. Names of individuals or companies. Row 1.
+3	SectionD/TableD2/Row1	Cell2	269	text		Line 269. Business number. 9 digits. 2 characters. 4 digits. Row 1.
+3	SectionD/TableD2/Row2	Cell1	268	text		Line 268. Names of individuals or companies. Row 2.
+3	SectionD/TableD2/Row2	Cell2	269	text		Line 269. Business number. 9 digits. 2 characters. 4 digits. Row 2.
+3	SectionD/EvidenceCheck/Line270	CheckBox_270	270	check		Line 270. What evidence do you have to support your claim? Check any that apply. You do not need to submit these items with the claim. However, you are required to retain them in the event of a review. Project planning documents.
+3	SectionD/EvidenceCheck/Line271	CheckBox_271	271	check		Line 271. Records of resources allocated to the project, time sheets.
+3	SectionD/EvidenceCheck/Line272	CheckBox_272	272	check		Line 272. Design of experiments.
+3	SectionD/EvidenceCheck/Line273	CheckBox_273	273	check		Line 273. Project records, laboratory notebooks.
+3	SectionD/EvidenceCheck/Line274	CheckBox_274	274	check		Line 274. Design, system architecture and source code.
+3	SectionD/EvidenceCheck/Line275	CheckBox_275	275	check		Line 275. Records of trial runs.
+3	SectionD/EvidenceCheck/Line276	CheckBox_276	276	check		Line 276. Progress reports, minutes of project meetings.
+3	SectionD/EvidenceCheck/Line277	CheckBox_277	277	check		Line 277. Test protocols, test data, analysis of test results, conclusions.
+3	SectionD/EvidenceCheck/Line278	CheckBox_278	278	check		Line 278. Photographs and videos.
+3	SectionD/EvidenceCheck/Line279	CheckBox_279	279	check		Line 279. Samples, prototypes, scrap or other artifacts.
+3	SectionD/EvidenceCheck/Line280	CheckBox_280	280	check		Line 280. Contracts.
+3	SectionD/EvidenceCheck/Line281	CheckBox_281	281	check		Line 281. Others.
+3	SectionD/EvidenceCheck/Line282	SpecifyOther_282	282	text		Line 282. Others. Specify.
+4	Section3A/Line160	CheckBox_160	160	check		Line 160. Select the method to calculate the Scientific Research and Experimental Development expenditures. I elect to use the proxy method. If you choose the proxy method, enter 0 on line 360 and complete Part 5.
+4	Section3A/Line162	CheckBox_160	162	check		Line 162. Select the method to calculate the Scientific Research and Experimental Development expenditures. I choose to use the traditional method. If you choose the traditional method, enter 0 on lines 355 and 502, and complete line 360.
+4	Section3B/SectionBList/BulletGroupB1/B1GroupSublist/Line300	Amount_300	300	numeric	12	Line 300. Scientific Research and Experimental Development portion of salary or wages of employees directly engaged in the SR&ED. a. Employees other than specified employees for work performed in Canada.
+4	Section3B/SectionBList/BulletGroupB1/B1GroupSublist/Line305	Amount_305	305	numeric	12	Line 305. Scientific Research and Experimental Development portion of salary or wages of employees directly engaged in the SR&ED. b. Specified employees for work performed in Canada.
+4	Section3B/SectionBList/BulletGroupB1/B1GroupSublist/Line306	Amount_306	306	numeric	12	Line 306. Scientific Research and Experimental Development portion of salary or wages of employees directly engaged in the SR&ED. Subtotal. Add lines 300 and 305.
+4	Section3B/SectionBList/BulletGroupB1/B1GroupSublist/Line307	Amount_307	307	numeric	12	Line 307. Scientific Research and Experimental Development portion of salary or wages of employees directly engaged in the SR&ED. c. Employees other than specified employees for work performed outside Canada. Subject to limitations, see guide.
+4	Section3B/SectionBList/BulletGroupB1/B1GroupSublist/Line309	Amount_309	309	numeric	12	Line 309. Scientific Research and Experimental Development portion of salary or wages of employees directly engaged in the SR&ED. d. Specified employees for work performed outside Canada. Subject to limitations, see guide.
+4	Section3B/SectionBList/Line310	Amount_310	310	numeric	12	Line 310. Salary or wages identified on line 315 in prior years that were paid in this tax year.
+4	Section3B/SectionBList/Line315	Amount_315	315	numeric	12	Line 315. Salary or wages incurred in the year but not paid within 180 days of the tax year end.
+4	Section3B/SectionBList/Line320	Amount_320	320	numeric	12	Line 320. Cost of materials consumed in performing Scientific Research and Experimental Development.
+4	Section3B/SectionBList/Line325	Amount_325	325	numeric	12	Line 325. Cost of materials transformed in performing Scientific Research and Experimental Development.
+4	Section3B/SectionBList/BulletGroupB2/B2GroupSublist/Line340	Amount_340	340	numeric	12	Line 340. Contract expenditures for Scientific Research and Experimental Development performed on your behalf. a. Arm's length contracts.
+4	Section3B/SectionBList/BulletGroupB2/B2GroupSublist/Line345	Amount_345	345	numeric	12	Line 345. Contract expenditures for Scientific Research and Experimental Development performed on your behalf. b. Non- arm's length contracts.
+4	Section3B/SectionBList/BulletGroupB3/B3GroupSublist/Line350	Amount_350	350	numeric	12	Line 350. Lease costs of equipment used after December 15, 2024. a. All or substantially all (90% of the time or more) for Scientific Research and Experimental Development.
+4	Section3B/SectionBList/BulletGroupB3/B3GroupSublist/Line355	Amount_355	355	numeric	12	Line 355. Lease costs of equipment used after December 15, 2024. b. Primarily more than 50% of the time but less than 90% for Scientific Research and Experimental Development. Enter 50% of lease costs if you use the proxy method or enter 0 if you use the traditional method.
+4	Section3B/SectionBList/Line360	Amount_360	360	numeric	12	Line 360. Overhead and other expenditures. Enter 0 if you elected to use the proxy method at line 160.
+4	Section3B/SectionBList/Line370	Amount_370	370	numeric	12	Line 370. Third-party payments. Complete Form T1263.
+4	Section3B/SectionBList/Line380	Amount_380	380	numeric	12	Line 380. Total current Scientific Research and Experimental Development expenditures. Add lines 306 to 370. Do not add line 315.
+4	Section3B/SectionBList/Line390	Amount_390	390	numeric	12	Line 390. Capital expenditures for depreciable property acquired after December 15, 2024. See guide for what qualifies for SR&ED. Do not include these capital expenditures on schedule T2SCH8.
+4	Section3B/SectionBList/Line400	Amount_400	400	numeric	12	Line 400. Total allowable Scientific Research and Experimental Development expenditures. Add lines 380 and 390.
+4	Section3C/PoolBalanceCalc/Line420	Amount_420	420	numeric	12	Line 420. Amount from line 400.
+4	Section3C/PoolBalanceCalc/SectionC_List1/Line429	Amount_429	429	numeric	12	Line 429. Provincial government assistance for expenditures included on line 400.
+4	Section3C/PoolBalanceCalc/SectionC_List1/Line431	Amount_431	431	numeric	12	Line 431. Other government assistance for expenditures included on line 400.
+4	Section3C/PoolBalanceCalc/SectionC_List1/Line432	Amount_432	432	numeric	12	Line 432. Non-government assistance for expenditures included on line 400.
+4	Section3C/PoolBalanceCalc/SectionC_List1/Line435	Amount_435	435	numeric	12	Line 435. Scientific Research and Experimental Development investment tax credits applied and/or refunded in the prior year. Do not include investment tax credits allocated from a partnership.
+4	Section3C/PoolBalanceCalc/SectionC_List1/Line440	Amount_440	440	numeric	12	Line 440. Sale of Scientific Research and Experimental Development capital assets and other deductions.
+4	Section3C/PoolBalanceCalc/SectionC_List1/Line442	Amount_442	442	numeric	12	Line 442. Subtotal. Line 420 minus lines 429 to 440.
+4	Section3C/PoolBalanceCalc/SectionC_List2/Line445	Amount_445	445	numeric	12	Line 445. Repayments of government and non-government assistance that previously reduced the Scientific Research and Experimental Development expenditure pool.
+4	Section3C/PoolBalanceCalc/SectionC_List2/Line450	Amount_450	450	numeric	12	Line 450. Prior year's pool balance of deductible Scientific Research and Experimental Development expenditures from line 470 of prior year T661.
+4	Section3C/PoolBalanceCalc/SectionC_List2/Line452	Amount_452	452	numeric	12	Line 452. Scientific Research and Experimental Development expenditure pool transfer from amalgamation or wind-up.
+4	Section3C/PoolBalanceCalc/SectionC_List2/Line453	Amount_453	453	numeric	12	Line 453. Amount of Scientific Research and Experimental Development investment tax credit recaptured in the prior year.
+4	Section3C/PoolBalanceCalc/Line455	Amount_455	455	numeric	12	Line 455. Amount available for deduction. Add lines 442 to 453. Enter positive amount only, include negative amount in income.
+4	Section3C/PoolBalanceCalc/SectionCList_3/Line460	Amount_460	460	numeric	12	Line 460. Deduction claimed in the year. Corporations should enter this amount on line 411 of schedule T2SCH1.
+4	Section3C/PoolBalanceCalc/Line470	Amount_470	470	numeric	12	Line 470. Pool balance of deductible Scientific Research and Experimental Development expenditures to be carried forward to future years. Line 455 minus 460.
+5	Part4/Line492	Amount_492	492	numeric	12	Line 492. Current Expenditures. Total expenditures for Scientific Research and Experimental Development from lines 380 and 390.
+5	Part4/Line496	Amount_496	496	numeric	12	Line 496. Capital Expenditures. Total expenditures for Scientific Research and Experimental Development from lines 380 and 390.
+5	Part4/Part4_List1/Line500	Amount_500	500	numeric	12	Line 500. Current Expenditures. Payment of prior years' unpaid amounts. Other than salary or wages.
+5	Part4/Part4_List1/Line502	Amount_502	502	numeric	12	Line 502. Current Expenditures. Prescribed proxy amount Complete Part 5. Enter 0 if you use the traditional method.
+5	Part4/Part4_List1/Line504	Amount_504	504	numeric	12	Line 504. Capital Expenditures. Expenditures on shared-use equipment for property acquired on or after December 15, 2024.
+5	Part4/Part4_List1/Line508	Amount_508	508	numeric	12	Line 508. Current Expenditures. Qualified expenditures transferred to you. See note 2. Complete Form T1146.
+5	Part4/Part4_List1/Line508/Line510	Amount_510	510	numeric	12	Line 510. Capital Expenditures. Qualified expenditures transferred to you. See note 2. Complete Form T1146.
+5	Part4/Line511	Amount_511	511	numeric	12	Line 511. Current Expenditures. Subtotal. Add lines 492 to 508, and add lines 496 to 510.
+5	Part4/Line512	Amount_512	512	numeric	12	Line 512. Capital Expenditures. Subtotal. Add lines 492 to 508, and add lines 496 to 510.
+5	Part4/Part4_List2/Line513	Amount_513	513	numeric	12	Line 513. Current Expenditures. Provincial government assistance.
+5	Part4/Part4_List2/Line513/Line514	Amount_514	514	numeric	12	Line 514. Capital Expenditures. Provincial government assistance.
+5	Part4/Part4_List2/Line515	Amount_515	515	numeric	12	Line 515. Current Expenditures. Other government assistance.
+5	Part4/Part4_List2/Line515/Line516	Amount_516	516	numeric	12	Line 516. Capital Expenditures. Other government assistance.
+5	Part4/Part4_List2/Line517	Amount_517	517	numeric	12	Line 517. Current Expenditures. Non-government assistance and contract payments.
+5	Part4/Part4_List2/Line517/Line518	Amount_517	518	numeric	12	Line 518. Capital Expenditures. Non-government assistance and contract payments.
+5	Part4/Part4_List2/Line520	Amount_520	520	numeric	12	Line 520. Current Expenditures. Current expenditures, other than salary or wages, not paid within 180 days of the tax year end. See note 1.
+5	Part4/Part4_List2/Line528	Amount_528	528	numeric	12	Line 528. Current Expenditures. 80% of the amounts paid in respect of an SR&ED contract to a person or partnership that is not a taxable supplier.
+5	Part4/Part4_List2/Line529	Amount_529	529	numeric	12	Line 529. Current Expenditures. 20% of the amount on lines 340 and 370.
+5	Part4/Part4_List2/Line530	Amount_530	530	numeric	12	Line 530. Current Expenditures. Prescribed expenditures not allowed by regulations. See guide.
+5	Part4/Part4_List2/Line530/Line532	Amount_532	532	numeric	12	Line 532. Capital Expenditures. Prescribed expenditures not allowed by regulations. See guide.
+5	Part4/Part4_List2/Line533	Amount_533	533	numeric	12	Line 533. Current Expenditures. Other deductions. See guide.
+5	Part4/Part4_List2/Line533/Line535	Amount_535	535	numeric	12	Line 535. Capital Expenditures. Other deductions. See guide.
+5	Part4/Part4_List2/Part4_bullet9Sublist/Line538	Amount_538	538	numeric	12	Line 538. Current Expenditures. Non-arm's length transactions. Assistance allocated to you (complete Form T1145).
+5	Part4/Part4_List2/Part4_bullet9Sublist/Line538/Line540	Amount_540	540	numeric	12	Line 540. Capital Expenditures. Non-arm's length transactions. Assistance allocated to you (complete Form T1145).
+5	Part4/Part4_List2/Part4_bullet9Sublist/Line541	Amount_541	541	numeric	12	Line 541. Current Expenditures. Non-arm's length transactions. Expenditures for non-arm's length Scientific Research and Experimental Development contracts from line 345.
+5	Part4/Part4_List2/Part4_bullet9Sublist/Line542	Amount_542	542	numeric	12	Line 542. Current Expenditures. Non-arm's length transactions. Adjustments to purchases, limited to costs of goods and services from non-arm's length suppliers. See guide.
+5	Part4/Part4_List2/Part4_bullet9Sublist/Line542/Line543	Amount_543	543	numeric	12	Line 543. Capital Expenditures. Non-arm's length transactions. Adjustments to purchases, limited to costs of goods and services from non-arm's length suppliers. See guide.
+5	Part4/Part4_List2/Part4_bullet9Sublist/Line544	Amount_544	544	numeric	12	Line 544. Current Expenditures. Non-arm's length transactions. Qualified expenditures you transferred. Complete Form T1146.
+5	Part4/Part4_List2/Part4_bullet9Sublist/Line544/Line546	Amount_546	546	numeric	12	Line 546. Capital Expenditures. Non-arm's length transactions. Qualified expenditures you transferred. Complete Form T1146.
+5	Part4/Line557	Amount_557	557	numeric	12	Line 557. Current Expenditures. Subtotal. Line 511 minus lines 513 to 544 and line 512 minus lines 514 to 546.
+5	Part4/Line557/Line558	Amount_558	558	numeric	12	Line 558. Capital Expenditures. Subtotal. Line 511 minus lines 513 to 544 and line 512 minus lines 514 to 546.
+5	Part4/Line559	Amount2_559	559	numeric	12	Line 559. Qualified Scientific Research and Experimental Development expenditures. Add lines 557 and 558.
+5	Part4/Part4List_3/Line560	Amount_560	560	numeric	12	Line 560. Repayments of assistance and contract payments made in the year.
+5	Part4/Line570	Amount_570	570	numeric	12	Line 570. Total qualified Scientific Research and Experimental Development expenditures for investment tax credit purposes. Add lines 559 and 560.
+6	Section5A/Line810	Amount_810	810	numeric	12	Line 810. Salary or wages of employees other than specified employees. From lines 300 and 307.
+6	Section5A/Line812	Amount_812	812	numeric	12	Line 812. Bonuses, remuneration based on profits, and taxable benefits that were included on line 810.
+6	Section5A/Line814	Amount_814	814	numeric	12	Line 814. Subtotal. Line 810 minus 812.
+6	Section5A/Table/Row1	Cell1	850	text		Line 850. Column 1. Name of specified employee. Row 1.
+6	Section5A/Table/Row1	Cell2	852	numeric	12	Line 852. Column 2. Total salary or wages for the year, Scientific Research and Experimental Development and non-Scientific Research and Experimental Development, excluding bonuses, remuneration based on profits, and taxable benefits to the nearest dollar. Row 1.
+6	Section5A/Table/Row1	Cell3	854	numeric		Line 854. Column 3. Percentage of time spent on Scientific Research and Experimental Development. Maximum 75%. Row 1.
+6	Section5A/Table/Row1	Cell4	856	numeric	12	Line 856. Column 4. Amount in column 2 multiplied by percentage in column 3. Row 1.
+6	Section5A/Table/Row1	Cell5	858	numeric	12	"Line 858. Column 5. 2.5 multiplied by A multiplied B divided by 365. ""A"" equals year's maximum pensionable earnings. ""B"" equals number of days employed in tax year. Row 1."
+6	Section5A/Table/Row1	Cell6	860	numeric	12	Line 860. Column 6. Amount in column 4 or 5, whichever amount is less. Row 1.
+6	Section5A/Table/Row2	Cell1	850	text		Line 850. Column 1. Name of specified employee. Row 2.
+6	Section5A/Table/Row2	Cell2	852	numeric	12	Line 852. Column 2. Total salary or wages for the year. Scientific Research and Experimental Development and non-Scientific Research and Experimental Development, excluding bonuses, remuneration based on profits, and taxable benefits to the nearest dollar. Row 2.
+6	Section5A/Table/Row2	Cell3	854	numeric		Line 854. Column 3. Percentage of time spent on Scientific Research and Experimental Development. Maximum 75%. Row 2.
+6	Section5A/Table/Row2	Cell4	856	numeric	12	Line 856. Column 4. Amount in column 2 multiplied by percentage in column 3. Row 2.
+6	Section5A/Table/Row2	Cell5	858	numeric	12	"Line 858. Column 5. 2.5 multiplied by A multiplied B divided by 365. ""A"" equals year's maximum pensionable earnings. ""B"" equals number of days employed in tax year. Row 2."
+6	Section5A/Table/Row2	Cell6	860	numeric	12	Line 860. Column 6. Amount in column 4 or 5, whichever amount is less. Row 2.
+6	Section5A/Table/Row3	Cell1	850	text		Line 850. Column 1. Name of specified employee. Row 3.
+6	Section5A/Table/Row3	Cell2	852	numeric	12	Line 852. Column 2. Total salary or wages for the year. Scientific Research and Experimental Development and non-Scientific Research and Experimental Development, excluding bonuses, remuneration based on profits, and taxable benefits to the nearest dollar. Row 3.
+6	Section5A/Table/Row3	Cell3	854	numeric		Line 854. Column 3. Percentage of time spent on Scientific Research and Experimental Development. Maximum 75%. Row 3.
+6	Section5A/Table/Row3	Cell4	856	numeric	12	Line 856. Column 4. Amount in column 2 multiplied by percentage in column 3. Row 3.
+6	Section5A/Table/Row3	Cell5	858	numeric	12	"Line 858. Column 5. 2.5 multiplied by A multiplied B divided by 365. ""A"" equals year's maximum pensionable earnings. ""B"" equals number of days employed in tax year. Row 3."
+6	Section5A/Table/Row3	Cell6	860	numeric	12	Line 860. Column 6. Amount in column 4 or 5, whichever amount is less. Row 3.
+6	Section5A/Table/Row4	Cell1	850	text		Line 850. Column 1. Name of specified employee. Row 4.
+6	Section5A/Table/Row4	Cell2	852	numeric	12	Line 852. Column 2. Total salary or wages for the year. Scientific Research and Experimental Development and non-Scientific Research and Experimental Development, excluding bonuses, remuneration based on profits, and taxable benefits to the nearest dollar. Row 4.
+6	Section5A/Table/Row4	Cell3	854	numeric		Line 854. Column 3. Percentage of time spent on Scientific Research and Experimental Development. Maximum 75%. Row 4.
+6	Section5A/Table/Row4	Cell4	856	numeric	12	Line 856. Column 4. Amount in column 2 multiplied by percentage in column 3. Row 4.
+6	Section5A/Table/Row4	Cell5	858	numeric	12	"Line 858. Column 5. 2.5 multiplied by A multiplied B divided by 365. ""A"" equals year's maximum pensionable earnings. ""B"" equals number of days employed in tax year. Row 4."
+6	Section5A/Table/Row4	Cell6	860	numeric	12	Line 860. Column 6. Amount in column 4 or 5, whichever amount is less. Row 4.
+6	Section5A/Table/Row5	Cell1	850	text		Line 850. Column 1. Name of specified employee. Row 5.
+6	Section5A/Table/Row5	Cell2	852	numeric	12	Line 852. Column 2. Total salary or wages for the year. Scientific Research and Experimental Development and non-Scientific Research and Experimental Development, excluding bonuses, remuneration based on profits, and taxable benefits to the nearest dollar. Row 5.
+6	Section5A/Table/Row5	Cell3	854	numeric		Line 854. Column 3. Percentage of time spent on Scientific Research and Experimental Development. Maximum 75%. Row 5.
+6	Section5A/Table/Row5	Cell4	856	numeric	12	Line 856. Column 4. Amount in column 2 multiplied by percentage in column 3. Row 5.
+6	Section5A/Table/Row5	Cell5	858	numeric	12	"Line 858. Column 5. 2.5 multiplied by A multiplied B divided by 365. ""A"" equals year's maximum pensionable earnings. ""B"" equals number of days employed in tax year. Row 5."
+6	Section5A/Table/Row5	Cell6	860	numeric	12	Line 860. Column 6. Amount in column 4 or 5, whichever amount is less. Row 5.
+6	Section5A/Table/FooterRow	TotalCell6	860	numeric	12	Line 860. Column 6. Enter total of column 6 on line 816.
+6	Section5A/Line816	Amount	816	numeric	12	Line 816. Total of column 6.
+6	Section5A/Line818	Amount	818	numeric	12	Line 818. Salary base. Total of lines 814 and 816.
+6	Section5B/Line820	Amount_820	820	numeric	12	Line 820. Enter 55% of the salary base (Line 818). Enter the amount from line 820 on line 502 in Part 4 unless the overall cap on prescribed proxy amount applies to you. See the guide for explanation and example of the overall cap on prescribed proxy amount.
+6	Part6Table/Table2/Row1	Cell1	750	text		Line 750. Project title or identification code. Row 1.
+6	Part6Table/Table2/Row1	Cell2	752	numeric	12	Line 752. Salary or wages in the tax year. Total of lines 306 to 309. Row 1.
+6	Part6Table/Table2/Row1	Cell3	754	numeric	12	Line 754. Cost of materials in the tax year. Total of lines 320 and 325. Row 1.
+6	Part6Table/Table2/Row1	Cell4	756	numeric	12	Line 756. Contract expenditures for Scientific Research and Experimental Development performed on your behalf in the tax year. Total of lines 340 and 345. Row 1.
+6	Part6Table/Table2/Row1	Cell5	758	numeric		Line 758. Overhead and other expenditures in the tax year. Total of line 360, if applicable. Row 1.
+6	Part6Table/Table2/Row1	Cell6	759	numeric		Line 759. Lease expenditures in the tax year. Total of lines 350 and 355 if applicable. Row 1.
+6	Part6Table/Table2/Row2	Cell1	750	text		Line 750. Project title or identification code. Row 2.
+6	Part6Table/Table2/Row2	Cell2	752	numeric	12	Line 752. Salary or wages in the tax year. Total of lines 306 to 309. Row 2.
+6	Part6Table/Table2/Row2	Cell3	754	numeric	12	Line 754. Cost of materials in the tax year. Total of lines 320 and 325. Row 2.
+6	Part6Table/Table2/Row2	Cell4	756	numeric	12	Line 756. Contract expenditures for Scientific Research and Experimental Development performed on your behalf in the tax year. Total of lines 340 and 345. Row 2.
+6	Part6Table/Table2/Row2	Cell5	758	numeric		Line 758. Overhead and other expenditures in the tax year. Total of line 360, if applicable. Row 2.
+6	Part6Table/Table2/Row2	Cell6	759	numeric		Line 759. Lease expenditures in the tax year. Total of lines 350 and 355 if applicable. Row 2.
+6	Part6Table/Table2/Row3	Cell1	750	text		Line 750. Project title or identification code. Row 3.
+6	Part6Table/Table2/Row3	Cell2	752	numeric	12	Line 752. Salary or wages in the tax year. Total of lines 306 to 309. Row 3.
+6	Part6Table/Table2/Row3	Cell3	754	numeric	12	Line 754. Cost of materials in the tax year. Total of lines 320 and 325. Row 3.
+6	Part6Table/Table2/Row3	Cell4	756	numeric	12	Line 756. Contract expenditures for Scientific Research and Experimental Development performed on your behalf in the tax year. Total of lines 340 and 345. Row 3.
+6	Part6Table/Table2/Row3	Cell5	758	numeric		Line 758. Overhead and other expenditures in the tax year. Total of line 360, if applicable. Row 3.
+6	Part6Table/Table2/Row3	Cell6	759	numeric		Line 759. Lease expenditures in the tax year. Total of lines 350 and 355 if applicable. Row 3.
+6	Part6Table/Table2/Row4	Cell1	750	text		Line 750. Project title or identification code. Row 4.
+6	Part6Table/Table2/Row4	Cell2	752	numeric	12	Line 752. Salary or wages in the tax year. Total of lines 306 to 309. Row 4.
+6	Part6Table/Table2/Row4	Cell3	754	numeric	12	Line 754. Cost of materials in the tax year. Total of lines 320 and 325. Row 4.
+6	Part6Table/Table2/Row4	Cell4	756	numeric	12	Line 756. Contract expenditures for Scientific Research and Experimental Development performed on your behalf in the tax year. Total of lines 340 and 345. Row 4.
+6	Part6Table/Table2/Row4	Cell5	758	numeric		Line 758. Overhead and other expenditures in the tax year. Total of line 360, if applicable. Row 4.
+6	Part6Table/Table2/Row4	Cell6	759	numeric		Line 759. Lease expenditures in the tax year. Total of lines 350 and 355 if applicable. Row 4.
+6	Part6Table/Table2/Row5	Cell1	750	text		Line 750. Project title or identification code. Row 5.
+6	Part6Table/Table2/Row5	Cell2	752	numeric	12	Line 752. Salary or wages in the tax year. Total of lines 306 to 309. Row 5.
+6	Part6Table/Table2/Row5	Cell3	754	numeric	12	Line 754. Cost of materials in the tax year. Total of lines 320 and 325. Row 5.
+6	Part6Table/Table2/Row5	Cell4	756	numeric	12	Line 756. Contract expenditures for Scientific Research and Experimental Development performed on your behalf in the tax year. Total of lines 340 and 345. Row 5.
+6	Part6Table/Table2/Row5	Cell5	758	numeric		Line 758. Overhead and other expenditures in the tax year. Total of line 360, if applicable. Row 5.
+6	Part6Table/Table2/Row5	Cell6	759	numeric		Line 759. Lease expenditures in the tax year. Total of lines 350 and 355 if applicable. Row 5.
+6	Part6Table/Table2/FooterRow	TotalCell2	752	numeric	12	Line 752. Salary or wages in the tax year. Total.
+6	Part6Table/Table2/FooterRow	TotalCell3	754	numeric	12	Line 754. Cost of materials in the tax year. Total.
+6	Part6Table/Table2/FooterRow	TotalCell4	756	numeric	12	Line 756. Contract expenditures for Scientific Research and Experimental Development performed on your behalf in the tax year. Total.
+6	Part6Table/Table2/FooterRow	TotalCell5	758	numeric		Line 758. Overhead and other expenditures in the tax year. Total of line 360, if applicable. Total.
+6	Part6Table/Table2/FooterRow	TotalCell6	759	numeric		Line 759. Lease expenditures in the tax year. Total of lines 350 and 355 if applicable. Total.
+7	Table2/Row1	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 1.
+7	Table2/Row1	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 1.
+7	Table2/Row1	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 1.
+7	Table2/Row2	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 2.
+7	Table2/Row2	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 2.
+7	Table2/Row2	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 2.
+7	Table2/Row3	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 3.
+7	Table2/Row3	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 3.
+7	Table2/Row3	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 3.
+7	Table2/Row4	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 4.
+7	Table2/Row4	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 4.
+7	Table2/Row4	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 4.
+7	Table2/Row5	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 5.
+7	Table2/Row5	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 5.
+7	Table2/Row5	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 5.
+7	Table2/Row6	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 6.
+7	Table2/Row6	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 6.
+7	Table2/Row6	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 6.
+7	Table2/Row7	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 7.
+7	Table2/Row7	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 7.
+7	Table2/Row7	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 7.
+7	Table2/Row8	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 8.
+7	Table2/Row8	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 8.
+7	Table2/Row8	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 8.
+7	Table2/Row9	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 9.
+7	Table2/Row9	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 9.
+7	Table2/Row9	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 9.
+7	Table2/Row10	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 10.
+7	Table2/Row10	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 10.
+7	Table2/Row10	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 10.
+7	Table2/Row11	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 11.
+7	Table2/Row11	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 11.
+7	Table2/Row11	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 11.
+7	Table2/Row12	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 12.
+7	Table2/Row12	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 12.
+7	Table2/Row12	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 12.
+7	Table2/Row13	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 13.
+7	Table2/Row13	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 13.
+7	Table2/Row13	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 13.
+7	Table2/Row14	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 14.
+7	Table2/Row14	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 14.
+7	Table2/Row14	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 14.
+7	Table2/Row15	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 15.
+7	Table2/Row15	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 15.
+7	Table2/Row15	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 15.
+7	Table2/Row16	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 16.
+7	Table2/Row16	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 16.
+7	Table2/Row16	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 16.
+7	Table2/Row17	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 17.
+7	Table2/Row17	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 17.
+7	Table2/Row17	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 17
+7	Table2/Row18	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 18.
+7	Table2/Row18	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 18.
+7	Table2/Row18	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 18.
+7	Table2/Row19	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 19.
+7	Table2/Row19	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 19.
+7	Table2/Row19	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 19.
+7	Table2/Row20	Cell1	780	text		Line 780. Name of SR & ED capital property acquired after December 15, 2024. Row 20.
+7	Table2/Row20	Cell2	782	numeric	12	Line 782. Capital expenditure amount. Row 20.
+7	Table2/Row20	Cell3	786	text		Line 786. List project numbers in which it was used, use the same project numbers as line 750. Row 20.
+8	Table3/Row1	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 1.
+8	Table3/Row1	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+8	Table3/Row1	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 1.
+8	Table3/Row1	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 1."
+8	Table3/Row1	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 1.
+8	Table3/Row2	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 2.
+8	Table3/Row2	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+8	Table3/Row2	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 2.
+8	Table3/Row2	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 2."
+8	Table3/Row2	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 2.
+8	Table3/Row3	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 3.
+8	Table3/Row3	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+8	Table3/Row3	Cell3		numeric	12	Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 3.
+8	Table3/Row3	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 3."
+8	Table3/Row3	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 3.
+8	Table3/Row4	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 4.
+8	Table3/Row4	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+8	Table3/Row4	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 4.
+8	Table3/Row4	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 4."
+8	Table3/Row4	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 4.
+8	Table3/Row5	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 5.
+8	Table3/Row5	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+8	Table3/Row5	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 5.
+8	Table3/Row5	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 5."
+8	Table3/Row5	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 5.
+8	Table3/Row6	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 6.
+8	Table3/Row6	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 6.
+8	Table3/Row6	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 6.
+8	Table3/Row6	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 6."
+8	Table3/Row6	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 6.
+8	Table3/Row7	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 7.
+8	Table3/Row7	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 7.
+8	Table3/Row7	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 7.
+8	Table3/Row7	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 7."
+8	Table3/Row7	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 7.
+8	Table3/Row8	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 8.
+8	Table3/Row8	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 8.
+8	Table3/Row8	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 8.
+8	Table3/Row8	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 8."
+8	Table3/Row8	Cell5	796	text		Line 796.List project numbers in which it was used, use the same project numbers as line 750. Row 8.
+8	Table3/Row9	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 9.
+8	Table3/Row9	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 9.
+8	Table3/Row9	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 9.
+8	Table3/Row9	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 9"
+8	Table3/Row9	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 9.
+8	Table3/Row10	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 10.
+8	Table3/Row10	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 10.
+8	Table3/Row10	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 10.
+8	Table3/Row10	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 10."
+8	Table3/Row10	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 10.
+8	Table3/Row11	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 11.
+8	Table3/Row11	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 11.
+8	Table3/Row11	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 11.
+8	Table3/Row11	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 11."
+8	Table3/Row11	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 11.
+8	Table3/Row12	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 12.
+8	Table3/Row12	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 12.
+8	Table3/Row12	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 12.
+8	Table3/Row12	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 12."
+8	Table3/Row12	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 12.
+8	Table3/Row13	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 13.
+8	Table3/Row13	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 13.
+8	Table3/Row13	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 13.
+8	Table3/Row13	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 13."
+8	Table3/Row13	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 13.
+8	Table3/Row14	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 14.
+8	Table3/Row14	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 14.
+8	Table3/Row14	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 14.
+8	Table3/Row14	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 14."
+8	Table3/Row14	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 14.
+8	Table3/Row15	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 15.
+8	Table3/Row15	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 15.
+8	Table3/Row15	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 15.
+8	Table3/Row15	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 15."
+8	Table3/Row15	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 15.
+8	Table3/Row16	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 16.
+8	Table3/Row16	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 16.
+8	Table3/Row16	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 16.
+8	Table3/Row16	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 16."
+8	Table3/Row16	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 16.
+8	Table3/Row17	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 17.
+8	Table3/Row17	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 17.
+8	Table3/Row17	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 17.
+8	Table3/Row17	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 17."
+8	Table3/Row17	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 17.
+8	Table3/Row18	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 18.
+8	Table3/Row18	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 18.
+8	Table3/Row18	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 18.
+8	Table3/Row18	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 18."
+8	Table3/Row18	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 18.
+8	Table3/Row19	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 19.
+8	Table3/Row19	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 19.
+8	Table3/Row19	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 19.
+8	Table3/Row19	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 19."
+8	Table3/Row19	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 19.
+8	Table3/Row20	Cell1	788	text		Line 788. Name of SR&ED property acquired after December 15, 2024, that is shared-use-equipment. Row 20.
+8	Table3/Row20	Cell2	790	text		Line 790. Purchase date. Year 4 digits. Month 2 digits. Day 2 digits. Row 20.
+8	Table3/Row20	Cell3	792	numeric	12	Line 792. Enter 25% of the capital cost of the property that was used primarily in SR&ED. Row 20.
+8	Table3/Row20	Cell4	794	choice	12	"Line 794. Enter ""1"" for the first term SUE and ""2"" for the second term SUE. Select your option from the drop down menu. Row 20."
+8	Table3/Row20	Cell5	796	text		Line 796. List project numbers in which it was used, use the same project numbers as line 750. Row 20.
+9	Part7Info/Line605	Amount_605	605	numeric	12	Line 605. Expenditures for Scientific Research and Experimental Development performed by you in Canada. Line 400 minus lines 307, 309, 340, 345, and 370.
+9	Part7Info/Line600	Amount_600	600	numeric		Line 600. Canadian Percentage. Internal.
+9	Part7Info/Line602	Amount_602	602	numeric		Line 602. Canadian Percentage. Parent companies, subsidiaries, and affiliated companies.
+9	Part7Info/Line604	Amount_604	604	numeric		Line 604. Foreign Percentage. Parent companies, subsidiaries, and affiliated companies.
+9	Part7Info/Line606	Amount_606	606	numeric		Line 606. Canadian Percentage. Federal grants. Do not include funds or tax credits from Scientific Research and Experimental Development tax incentives.
+9	Part7Info/Line608	Amount_608	608	numeric		Line 608. Canadian Percentage. Federal contracts.
+9	Part7Info/Line610	Amount_610	610	numeric		Line 610. Canadian Percentage. Provincial funding.
+9	Part7Info/Line612	Amount_612	612	numeric		Line 612. Canadian Percentage. Scientific Research and Experimental Development contract work performed for other companies on their behalf.
+9	Part7Info/Line614	Amount_614	614	numeric		Line 614. Foreign Percentage. Scientific Research and Experimental Development contract work performed for other companies on their behalf.
+9	Part7Info/Line616	Amount_616	616	numeric		Line 616. Canadian Percentage. Other funding. For example, universities, foreign governments.
+9	Part7Info/Line618	Amount_618	618	numeric		Line 618. Foreign Percentage. Other funding. For example, universities, foreign governments.
+9	Part7Info/Line620	Line620_CB	620	check		Line 620. For statistical purposes indicate whether the work you performed falls within the realm of Basic or Applied research to advance scientific knowledge or Experimental development to achieve a technological advancement. Basic or Applied research.
+9	Part7Info/Line622	Line622_CB	622	check		Line 622. For statistical purposes indicate whether the work you performed falls within the realm of Basic or Applied research to advance scientific knowledge or Experimental development to achieve a technological advancement. Experimental development.
+9	Part7Info/Line632	Amount_632	632	numeric	6	Line 632. Enter the number of Scientific Research and Experimental Development personnel in full-time equivalents. Scientists and engineers.
+9	Part7Info/Line634	Amount_634	634	numeric	6	Line 634. Enter the number of Scientific Research and Experimental Development personnel in full-time equivalents. Technologists and technicians.
+9	Part7Info/Line636	Amount_636	636	numeric	6	Line 636. Enter the number of Scientific Research and Experimental Development personnel in full-time equivalents. Managers and administrators.
+9	Part7Info/Line638	Amount_638	638	numeric	6	Line 638. Enter the number of Scientific Research and Experimental Development personnel in full-time equivalents. Other technical supporting staff.
+9	Checklist/EnsureCompleteList/Item1	NormalClaimCB1		check		1. To ensure your claim is complete, make sure you have used the current version of this form.
+9	Checklist/EnsureCompleteList/Item2	NormalClaimCB2		check		2. To ensure your claim is complete, make sure you have entered the method you have chosen for reporting your Scientific Research and Experimental Development expenditures in Section A of Part 3.
+9	Checklist/EnsureCompleteList/Item3	NormalClaimCB3		check		3. To ensure your claim is complete, make sure you have completed Part 2 for each project .
+9	Checklist/EnsureCompleteList/Item4	NormalClaimCB4		check		4. To ensure your claim is complete, make sure you have filed a completed Schedule T2SCH31 or Form T2038(IND) to claim investment tax credits on your qualified Scientific Research and Experimental Development expenditures.
+9	Checklist/EnsureCompleteList/Item5	NormalClaimCB5		check		5. filed a completed Form T1145, T1146, T1174, Agreement Between Associated Corporations to Allocate Salary or Wages of Specified Employees for Scientific Research and Experimental Development (SR&ED) and/or T1263, Third-Party Payments for Scientific Research and Experimental Development (SR&ED) including any required attachments, if applicable
+9	Checklist/ExpediteClaimList/Item1	ExpeditedClaimCB1		check		1. To expedite the processing of your claim, make sure you have completed Form T2, Corporation Income Tax Return or Form T1, Income Tax and Benefit Return.
+9	Checklist/ExpediteClaimList/Item2	ExpeditedClaimCB2		check		2. To expedite the processing of your claim, make sure you have filed the appropriate provincial and/or territorial tax credit forms, if applicable.
+9	Checklist/ExpediteClaimList/Item3	ExpeditedClaimCB3		check		3. To expedite the processing of your claim, make sure you have retained documents to support the Scientific Research and Experimental Development work performed and Scientific Research and Experimental Development expenditures you claimed.
+9	Checklist/ExpediteClaimList/Item4	ExpeditedClaimCB4		check		4. To expedite the processing of your claim, make sure you have checked boxes 231 and 232 on page 2 of your T2 return to indicate attachment of Form T661 and Schedule T2SCH31 .
+10	Line935/RadioButtonList	Oui	935	check		Line 935. Was a claim preparer engaged in any aspect of the preparation of this Scientific Research and Experimental Development claim? Yes. Complete the claim preparer information table and lines 970 and 975 below.
+10	Line935/RadioButtonList	Non	935	check		Line 935. Was a claim preparer engaged in any aspect of the preparation of this Scientific Research and Experimental Development claim? No. Complete lines 970 and 975.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row1	Cell2		text		Row 1. Line 940. Name of claim preparer. Company or individual.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row1	Cell3	945	text		Line 945. Business number. 9 digits. 2 characters. 4 digits. Row 1.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row1	Cell4	950	choice		Line 950. Billing arrangement code. See codes below. Select your option from the drop down menu. Row 1.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row1	Cell5	955	text		Line 955. Billing rate. Percentage, hourly/daily rate or flat fee. Row 1.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row1	Cell6	960	text		Line 960. Other billing arrangements. Maximum 10 words. Row 1.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row1	Cell7	965	numeric	12	Line 965. Total fee paid, payable or expected to pay. Row 1.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row2	Cell2	940	text		Line 940. Name of claim preparer. Company or individual. Row 2.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row2	Cell3	945	text		Line 945. Business number. 9 digits. 2 characters. 4 digits. Row 2.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row2	Cell4	950	choice		Line 950. Billing arrangement code. See codes below. Select your option from the drop down menu. Row 2.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row2	Cell5	955	text		Line 955. Billing rate. Percentage, hourly/daily rate or flat fee. Row 2.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row2	Cell6	960	text		Line 960. Other billing arrangements. Maximum 10 words. Row 2.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row2	Cell7	965	numeric	12	Line 965. Total fee paid, payable or expected to pay. Row 2.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row3	Cell2	940	text		Line 940. Name of claim preparer. Company or individual. Row 3.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row3	Cell3	945	text		Line 945. Business number. 9 digits. 2 characters. 4 digits. Row 3.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row3	Cell4	950	choice		Line 950. Billing arrangement code. See codes below. Select your option from the drop down menu. Row 3.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row3	Cell5	955	text		Line 955. Billing rate. Percentage, hourly/daily rate or flat fee. Row 3.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row3	Cell6	960	text		Line 960. Other billing arrangements. Maximum 10 words. Row 3.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row3	Cell7	965	numeric	12	Line 965. Total fee paid, payable or expected to pay. Row 3.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row4	Cell2	940	text		Line 940. Name of claim preparer. Company or individual. Row 4.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row4	Cell3	945	text		Line 945. Business number. 9 digits. 2 characters. 4 digits. Row 4.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row4	Cell4	950	choice		Line 950. Billing arrangement code. See codes below. Select your option from the drop down menu. Row 4.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row4	Cell5	955	text		Line 955. Billing rate. Percentage, hourly/daily rate or flat fee. Row 4.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row4	Cell6	960	text		Line 960. Other billing arrangements. Maximum 10 words. Row 4.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row4	Cell7	965	numeric	12	Line 965. Total fee paid, payable or expected to pay. Row 4.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row5	Cell2	940	text		Line 940. Name of claim preparer. Company or individual. Row 5.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row5	Cell3	945	text		Line 945. Business number. 9 digits. 2 characters. 4 digits. Row 5.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row5	Cell4	950	choice		Line 950. Billing arrangement code. See codes below. Select your option from the drop down menu. Row 5.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row5	Cell5	955	text		Line 955. Billing rate. Percentage, hourly/daily rate or flat fee. Row 5.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row5	Cell6	960	text		Line 960. Other billing arrangements. Maximum 10 words. Row 5.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row5	Cell7	965	numeric	12	Line 965. Total fee paid, payable or expected to pay. Row 5.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row6	Cell2	940	text		Line 940. Name of claim preparer. Company or individual. Row 6.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row6	Cell3	945	text		Line 945. Business number. 9 digits. 2 characters. 4 digits. Row 6.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row6	Cell4	950	choice		Line 950. Billing arrangement code. See codes below. Select your option from the drop down menu. Row 6.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row6	Cell5	955	text		Line 955. Billing rate. Percentage, hourly/daily rate or flat fee. Row 6.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row6	Cell6	960	text		Line 960. Other billing arrangements. Maximum 10 words. Row 6.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row6	Cell7	965	numeric	12	Line 965. Total fee paid, payable or expected to pay. Row 6.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row7	Cell2	940	text		Line 940. Name of claim preparer. Company or individual. Row 7.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row7	Cell3	945	text		Line 945. Business number. 9 digits. 2 characters. 4 digits. Row 7.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row7	Cell4	950	choice		Line 950. Billing arrangement code. See codes below. Select your option from the drop down menu. Row 7.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row7	Cell5	955	text		Line 955. Billing rate. Percentage, hourly/daily rate or flat fee. Row 7.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row7	Cell6	960	text		Line 960. Other billing arrangements. Maximum 10 words. Row 7.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row7	Cell7	965	numeric	12	Line 965. Total fee paid, payable or expected to pay. Row 7.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row8	Cell2	940	text		Line 940. Name of claim preparer. Company or individual. Row 8.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row8	Cell3	945	text		Line 945. Business number. 9 digits. 2 characters. 4 digits. Row 8.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row8	Cell4	950	choice		Line 950. Billing arrangement code. See codes below. Select your option from the drop down menu. Row 8.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row8	Cell5	955	text		Line 955. Billing rate. Percentage, hourly/daily rate or flat fee. Row 8.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row8	Cell6	960	text		Line 960. Other billing arrangements. Maximum 10 words. Row 8.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row8	Cell7	965	numeric	12	Line 965. Total fee paid, payable or expected to pay. Row 8.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row9	Cell2	940	text		Line 940. Name of claim preparer. Company or individual. Row 9.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row9	Cell3	945	text		Line 945. Business number. 9 digits. 2 characters. 4 digits. Row 9.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row9	Cell4	950	choice		Line 950. Billing arrangement code. See codes below. Select your option from the drop down menu. Row 9.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row9	Cell5	955	text		Line 955. Billing rate. Percentage, hourly/daily rate or flat fee. Row 9.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row9	Cell6	960	text		Line 960. Other billing arrangements. Maximum 10 words. Row 9.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row9	Cell7	965	numeric	12	Line 965. Total fee paid, payable or expected to pay. Row 9.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row10	Cell2	940	text		Line 940. Name of claim preparer. Company or individual. Row 10.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row10	Cell3	945	text		Line 945. Business number. 9 digits. 2 characters. 4 digits. Row 10.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row10	Cell4	950	choice		Line 950. Billing arrangement code. See codes below. Select your option from the drop down menu. Row 10.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row10	Cell5	955	text		Line 955. Billing rate. Percentage, hourly/daily rate or flat fee. Row 10.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row10	Cell6	960	text		Line 960. Other billing arrangements. Maximum 10 words. Row 10.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Row10	Cell7	965	numeric	12	Line 965. Total fee paid, payable or expected to pay. Row 10.
+10	ClaimPreparer_Bkgrd/ClaimPreparer_Table/Total	Cell7	965	numeric	12	Line 965. Total fee paid, payable or expected to pay. Total.
+10	ClaimPreparer_Bkgrd/Line970	Line970_Name	970	text		Line 970. Name of authorized signing officer of the corporation, or individual.
+10	ClaimPreparer_Bkgrd/Line975	Line975_Signature	975	text		Line 975. Signature.
+10	ClaimPreparer_Bkgrd/Line975	Line975_Date	975	text		Line 975. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+11	Part10Info/Line165	Name_165	165	text		Line 165. Certification. Name of authorized signing officer of the corporation, or individual.
+11	Part10Info/Line165	Signature_165	165	text		Line 165. Signature.
+11	Part10Info/Line170	Date_170	170	text		Line 170. Certification. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+11	Part10Info/Line175	Name_175	175	text		Line 175. Certification. Name of person/firm who completed this form.

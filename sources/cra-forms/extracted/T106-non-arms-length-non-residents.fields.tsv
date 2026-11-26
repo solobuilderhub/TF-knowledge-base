@@ -1,0 +1,269 @@
+page	part	field	line	kind	digits	speak
+1	Pg1_CombSub/TextField_Comb3_Left	Pg1_Bullet4_CurrencyCode		choice		If an election has been made to use functional currency, see instruction sheet, state the selected functional currency code. Select your option from the drop down menu.
+1		Amended_CheckBox		check		
+1	Pg1_Section1_Reporting_id	Pg1_Section1_CB_Corporation		check		Section 1. Tick the applicable box and complete the areas that apply. Corporation.
+1		Pg1_Section1_Corporation_Name		text		Section 1. Corporation. Corporation name.
+1	Pg1_Section1_BN_Sub/BusinessNumber_Comb	BusinessNumber_RC1		text		Section 1. Corporation. First 9 digits of the business number.
+1	Pg1_Section1_BN_Sub/BusinessNumber_Comb	BusinessNumber_RC		text		
+1	Pg1_Section1_BN_Sub/BusinessNumber_Comb	BusinessNumber_RC2		text		Section 1. Corporation. Last 4 digits of the business number.
+1	Pg1_Section1_Sub_Partnership	Pg1_Section1_CB_Partnership		check		Section 1. Partnership.
+1		Pg1_Section1_Partnership_Name		text		Section 1. Partnership. Partnership name.
+1	Pg1_Section1_Partnership_Code_Sub/Pg1_Section1_Partnership_Code_Sub1/RadioButtonList	Pg1_Section1_Partnership_1		check		Section 1. Partnership. Partnership code 1.
+1	Pg1_Section1_Partnership_Code_Sub/Pg1_Section1_Partnership_Code_Sub1/RadioButtonList	Pg1_Section1_Partnership_2		check		Partnership code 2.
+1	Pg1_Section1_Partnership_Code_Sub/Pg1_Section1_Partnership_Code_Sub1/RadioButtonList	Pg1_Section1_Partnership_3		check		Partnership code 3.
+1	Pg1_Section1_PartnershipID_Sub/Partnership_ID_Group	Partnership_ID_RC1		text		Section 1. Partnership. First 9 digits of the Partnership identification number.
+1	Pg1_Section1_PartnershipID_Sub/Partnership_ID_Group	Partnership_ID_RC		text		
+1	Pg1_Section1_PartnershipID_Sub/Partnership_ID_Group	Partnership_ID_RC2		text		Section 1. Partnership. Last 4 digits of the Partnership identification number.
+1	Pg1_Section1_Sub_Trust	Pg1_Section1_CB_Trust		check		Section 1. Trust.
+1		Pg1_Section1_Trust_Name		text		Section 1. Trust. Trust name.
+1	Pg1_Section1_TrusAccount_Sub/Trust_Number	Trust_T		text		
+1	Pg1_Section1_TrusAccount_Sub/Trust_Number	Trust_Num_Comb8		text	8	Section 1. Trust. Enter the 8 digit trust account number.
+1	Pg1_Section1_Sub_Individual	Pg1_Section1_CB_Individual		check		Section 1. Individual.
+1		Pg1_Section1_First_Name		text		Section 1. Individual. First name.
+1		Pg1_Section1_Last_Name		text		Section 1. Individual. Last name.
+1		Pg1_Section1_Initial		text		Section 1. Individual. Initial.
+1	Pg1_Section1_Individual_Code_Sub/Pg1_Section1_Individual_Code_Sub1/RadioButtonList	Pg1_Section1_Individual_1		check		Section 1. Individual. Individual code 1.
+1	Pg1_Section1_Individual_Code_Sub/Pg1_Section1_Individual_Code_Sub1/RadioButtonList	Pg1_Section1_Individual_2		check		Section 1. Individual. Individual code 2.
+1	Pg1_Section1_SIN_Sub/Pg1_SIN_Num	SIN_Comb		text		Section 1. Individual. Social insurance number. 9 digits.
+1		Pg1_Section1_No		text		Section 1. Reporting person/partnership address. Number. Mandatory Field.
+1		Pg1_Section1_Street		text		Section 1. Reporting person/partnership address. Street. Mandatory Field.
+1		Pg1_Section1_City		text		Section 1. Reporting person/partnership address. City. Mandatory Field.
+1		ProvState_DropDown		choice		Section 1. Reporting person/partnership address. Select your province/state from the drop down menu. If it's not listed please type it in manually. Mandatory Field.
+1		PostalCode_ZIP		text		Section 1. Reporting person/partnership address. Postal code, 6 characters or ZIP code, 5 digits. Mandatory Field.
+1		Item9_CountryCode		choice		Section 1. Reporting entity's address. Country code. Select your option from the drop down menu. Mandatory Field.
+1	Pg1_Section2_Item1_Sub/DateYYYYMMDD_From	Pg1_Section2_FromDateComb		text		Section 2. 1. For what tax year/fiscal period are you filing this T106 information return? From date. Year 4 digits. Month 2 digits. Day 2 digits. Mandatory field.
+1	Pg1_Section2_Item1_Sub/DateYYYYMMDD_To	Pg1_Section2_ToDateComb		text		Section 2. 1. For what tax year/fiscal period are you filing this T106 information return? To date. Year 4 digits. Month 2 digits. Day 2 digits. Mandatory field.
+1	Pg1_Section2_Item2_Sub/Pg1_Section2_Item2_RB	Pg1_Section2_Item2_Checkbox_Y		check		Section 2. 2. Is this the first time you have filed a T106 information return? Yes. Mandatory selection group.
+1	Pg1_Section2_Item2_Sub/Pg1_Section2_Item2_RB	Pg1_Section2_Item2_Checkbox_N		check		Section 2. 2. Is this the first time you have filed a T106 information return? No.
+1	Pg1_Section2_Item2_Sub/Pg1_Section2_Item2_Date/DateYYYYMMDD_Comb_BordersAll	Pg1_Section2_FromDateComb		text		Section 2. If no, indicate the last tax year-end/fiscal period end for which the reporting person/partnership filed a T106 information return. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	Pg1-Section2_Item3_Sub/TextField_Comb4_Left	Pg1_Section2_Item3_T106		numeric	4	Section 2. 3. Enter the total number of T106 Slips attached. Mandatory Field.
+1	Pg1-Section2_Item3_Sub	Section1_SupplementCount		choice		Section 2. Number of slips to generate.
+1	Pg1_Section2_Item4_Sub/Sec_4_Amount/Section_4_Amount/Group_4	Amount_4		numeric	12	"Section 2. 4. Enter the total of all box ""I"" amounts from the T106 Slips attached, rounded to the nearest Canadian dollar or functional currency unit. See instructions. Mandatory field."
+1	Pg1_Section2_Item5_Sub/Sec_5_Amount/Section_5_Amount/Group_5	Amount_5		numeric	12	Section 2. 5. Enter the gross revenue of the reporting person/partnership, rounded to the nearest Canadian dollar or functional currency unit – see Instructions. Mandatory field.
+1	Pg1_Section2_Item6_Sub/TextField_Comb6_Left01	Pg1_Section2_Item6_code1a		text	6	Section 2. 6. State the main business activities of the reporting person/partnership by entering the appropriate North American Industry Classification System (NAICS) code(s) – see Instructions for NAICS codes. NAICS code 1. Mandatory field.
+1	Pg1_Section2_Item6_Sub/TextField_Comb6_Left02	Pg1_Section2_Item6_code2a		text	6	NAICS code 2.
+1	Pg1_Section2_Item6_Sub/TextField_Comb6_Left03	Pg1_Section2_Item6_code3a		text	6	NAICS code 3.
+1	Pg1_Section2_Item6_Sub/TextField_Comb6_Left04	Pg1_Section2_Item6_code4a		text	6	NAICS code 4.
+1	Pg1_Section2_Item7_Sub/Pg1_Section2_Item7_RBList	Pg1_Section2_Item7_CB_Y		check		Section 2. 7. Are any of the amounts, for example, income, deductions, foreign tax credits, claimed by the reporting person/partnership in the current tax year/fiscal period affected by any completed, outstanding or anticipated requests for competent authority assistance? Yes. Mandatory selection group.
+1	Pg1_Section2_Item7_Sub/Pg1_Section2_Item7_RBList	Pg1_Section2_Item7_CB_N		check		Section 2. 7. Are any of the amounts, for example, income, deductions, foreign tax credits, claimed by the reporting person/partnership in the current tax year/fiscal period affected by any completed, outstanding or anticipated requests for competent authority assistance? No. Mandatory selection group.
+1	Pg1_Section2_Item8_Sub/Pg1_Section2_Item8_RB	Pg1_Section2_Item8_Checkbox_Y		check		Section 2. 8. Are any of the amounts, for example, income, deductions, foreign tax credits, claimed by the reporting person/partnership in the current tax year/fiscal period adjusted to reflect an assessment or a proposed assessment by a foreign tax administration? Yes. Mandatory selection group.
+1	Pg1_Section2_Item8_Sub/Pg1_Section2_Item8_RB	Pg1_Section2_Item8_Checkbox_N		check		Section 2. 8. Are any of the amounts, for example, income, deductions, foreign tax credits, claimed by the reporting person/partnership in the current tax year/fiscal period adjusted to reflect an assessment or a proposed assessment by a foreign tax administration? No. Mandatory selection group.
+1	Item9_sf/Item9_rb	Item9_Yes		check		Section 2. 9. Is the reporting person/partnership the ultimate parent entity (UPE) as defined by subsection 233.8(1) of the Income Tax Act? Yes. Mandatory selection group.
+1	Item9_sf/Item9_rb	Item9_No		check		Section 2. 9. Is the reporting person/partnership the ultimate parent entity (UPE) as defined by subsection 233.8(1) of the Income Tax Act? No. Mandatory selection group.
+1	Item9_sf	Item9_CountryCode		choice		Section 2. 9. If no, state the country of residence of the UPE of the reporting person/partnership, see Instructions for information on country codes. Select the country code from the drop down menu.
+2	Item10_sf/Item10_rb	Item10_Yes		check		Section 2. 10. Is the reporting person/partnership a member of a multinational enterprise (MNE) group as defined by s233.8(1)? Yes. Mandatory selection group.
+2	Item10_sf/Item10_rb	Item10_No		check		Section 2. 10. Is the reporting person/partnership a member of a multinational enterprise (MNE) group as defined by s233.8(1)? No. Mandatory selection group.
+2	Item10_sf	Item10_02		text		Name of the multinational enterprise group. Mandatory field.
+2	Item10_sf/Item10_03_rb	Item10_03_Yes		check		Section 2. 10. Is the MNE group required to file a Country-by-Country Report? Yes.
+2	Item10_sf/Item10_03_rb	Item10_03_No		check		Section 2. 10. Is the MNE group required to file a Country-by-Country Report? No.
+2	Item10_sf	Item10_CountryCode		choice		Section 2. 10. Select the country code from the drop-down menu. Mandatory field.
+2	Item11_sf/Item11_rb	Yes		check		Section 2. 11. Does the reporting person/partnership have to file a NR4, T4, T4A or T4A-NR return(s) for the transactions reported in Part III of the T106 Slips? Yes. Mandatory selection group.
+2	Item11_sf/Item11_rb	No		check		Section 2. 11. Does the reporting person/partnership have to file a NR4, T4, T4A or T4A-NR return(s) for the transactions reported in Part III of the T106 Slips? No.
+2	Item11_sf/NR_1	BusinessNumber_NR		text		
+2	Item11_sf/NR_1	BusinessNumber_NR_alpha		text		Section 2. 11. Primary account number 1. Third character of the primary account number. Mandatory field.
+2	Item11_sf/NR_1	BusinessNumber_NR_num		text	6	Section 2. 11. Primary account number 1. Last 6 digits of the primary account number. Mandatory field.
+2	Item11_sf/RP_1/Pg3_Part1_BN_comb	BusinessNumber_RC1		text	9	Section 2. 11. Primary account number 1. First 9 digits of the Primary account number. Mandatory field.
+2	Item11_sf/RP_1/Pg3_Part1_BN_comb	BusinessNumber_RC		text		
+2	Item11_sf/RP_1/Pg3_Part1_BN_comb	BusinessNumber_RC2		text	4	Section 2. 11. Primary account number 1. Last 4 digits of the Primary account number. Mandatory field.
+2	Item11_sf/NR_2	BusinessNumber_NR		text		
+2	Item11_sf/NR_2	BusinessNumber_NR_alpha		text		Section 2. 11. Primary account number 2. Third character of the primary account number.
+2	Item11_sf/NR_2	BusinessNumber_NR_num		text	6	Section 2. 11. Primary account number 2. Last 6 digits of the primary account number.
+2	Item11_sf/RP_2/Pg3_Part1_BN_comb	BusinessNumber_RC1		text	9	Section 2. 11. Primary account number 2. First 9 digits of the Primary account number.
+2	Item11_sf/RP_2/Pg3_Part1_BN_comb	BusinessNumber_RC		text		
+2	Item11_sf/RP_2/Pg3_Part1_BN_comb	BusinessNumber_RC2		text	4	Section 2. 11. Primary account number 1. Last 4 digits of the Primary account number.
+2	Item11_sf/NR_3	BusinessNumber_NR		text		
+2	Item11_sf/NR_3	BusinessNumber_NR_alpha		text		Section 2. 11. Primary account number 3. Third character of the primary account number.
+2	Item11_sf/NR_3	BusinessNumber_NR_num		text	6	Section 2. 11. Primary account number 3. Last 6 digits of the primary account number.
+2	Item11_sf/RP_3/Pg3_Part1_BN_comb	BusinessNumber_RC1		text	9	Section 2. 11. Primary account number 3. First 9 digits of the Primary account number.
+2	Item11_sf/RP_3/Pg3_Part1_BN_comb	BusinessNumber_RC		text		
+2	Item11_sf/RP_3/Pg3_Part1_BN_comb	BusinessNumber_RC2		text	4	Section 2. 11. Primary account number 1. Last 4 digits of the Primary account number.
+2	Section3_sf/Item1_sf/Item1_rb	Yes		check		Section 3. 1. Has the reporting person/partnership received from or provided to any non-resident any non-monetary consideration for any service, transfer of tangible or intangible property, or anything whatever, under an exchange, swap, barter, bonus, discount or other such arrangement? Yes. Mandatory selection group.
+2	Section3_sf/Item1_sf/Item1_rb	No		check		Section 3. 1. Has the reporting person/partnership received from or provided to any non-resident any non-monetary consideration for any service, transfer of tangible or intangible property, or anything whatever, under an exchange, swap, barter, bonus, discount or other such arrangement? No. Mandatory selection group.
+2	Section3_sf/Item2_sf/Item2_rb	Yes		check		Section 3. 2. Has the reporting person/partnership provided to any non-resident any service, transfer of tangible or intangible property, or anything whatever, for which there was nil consideration? Yes. Mandatory selection group.
+2	Section3_sf/Item2_sf/Item2_rb	No		check		Section 3. 2. Has the reporting person/partnership provided to any non-resident any service, transfer of tangible or intangible property, or anything whatever, for which there was nil consideration? No. Mandatory selection group.
+2	Certification_sf	Certification_FirstName		text		Certification. First name. Mandatory Field.
+2	Certification_sf	Certification_Last_Name		text		Certification. Last name. Mandatory Field.
+2	Certification_sf	Certification_PhoneNumber		text		Certification. Telephone number. 10 digits. Mandatory Field.
+2	Certification_sf	Certification_Certify02		text		Certification. Enter the full name of the authorized officer or representative who attests to the accuracy and completeness of this return. Mandatory Field.
+2	Certification_sf	Certification_Date		text		Certification. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+2	Certification_sf	Certification_PositionTitle		text		Certification. Position, title or officer's rank.
+3		Pg3_Slip		numeric	2	Slip number
+3		Pg3_Slip_of		numeric	2	
+3	Pg3_Part1_Corp_Sub	Pg1_Section1_CB_Corporation		check		Part I. Corporation.
+3	Pg3_Part1_Corp_Sub/Pg3_Part1_BN_comb	BusinessNumber_RC1		text		Part I. Corporation. First 9 digits of the Business number.
+3	Pg3_Part1_Corp_Sub/Pg3_Part1_BN_comb	BusinessNumber_RC		text		
+3	Pg3_Part1_Corp_Sub/Pg3_Part1_BN_comb	BusinessNumber_RC2		text		Part I. Corporation. Last 4 digits of the Business number.
+3	Pg3_Part1_Trust_Sub	Pg1_Section1_CB_Trust		check		Part I. Trust.
+3	Pg3_Part1_Trust_Sub/Trust_Number	Trust_T		text		
+3	Pg3_Part1_Trust_Sub/Trust_Number	Trust_Num_Comb8		text		Part I. Trust. Enter the 8 digit trust account number.
+3	Pg3_Part1_Partnership_Sub/Pg3_Part1_Partnership	Pg1_Section1_CB_Partnership		check		Part I. Partnership.
+3	Pg3_Part1_Partnership_Sub/Pg3_Part1_Partnership/Pg3_Part1_PID_comb	PID_RC1		text		Part I. Partnership. First 9 digits of the Partnership identification number.
+3	Pg3_Part1_Partnership_Sub/Pg3_Part1_Partnership/Pg3_Part1_PID_comb	PID_RC		text		
+3	Pg3_Part1_Partnership_Sub/Pg3_Part1_Partnership/Pg3_Part1_PID_comb	PID_RC2		text		Part I. Partnership. Last 4 digits of the Partnership identification number.
+3	Pg3_Part1_Individual_Sub	Pg1_Section1_CB_Individual		check		Part I. Individual.
+3	Pg3_Part1_Individual_Sub/Pg3_SIN_Num	SIN_Comb		text		Part I. Individual. Social Insurance Number. 9 digits.
+3	Pg3_Part1_Item1_Sub/Pg3_Part1_FromDate_Sub/DateYYYYMMDD_Comb_BordersAll	Pg3_Part1_Item1_FromDateComb		text		Part I. For what tax year/fiscal period are you filing this T106 Slip? From date. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Pg3_Part1_Item1_Sub/Pg3_Part1_ToDate_Sub/DateYYYYMMDD_Comb_BordersAll	Pg3_Part1_Item1_To_Date		text		Part I. For what tax year/fiscal period are you filing this T106 Slip? To date. Year 4 digits. Month 2 digits. Day 2 digits.
+3	Pg3_Part2_sub	Pg3_Part2_Name		text		Part II. 1. Name of the non-resident. Mandatory Field.
+3	Pg3_Part2_sub	Pg3_Part2_TIN		text		Part II. 2. Taxpayer Identification Number (TIN). Mandatory Field.
+3	Pg3_Part2_sub	Pg3_Part2_Address		text		Part II. 3. Address of the non-resident and country of residence, see Instructions for information on country codes. Mandatory Field.
+3	Pg3_Part2_sub/Pg3_Part2_Country_Code_Sub/TextField_Comb3_Left	Pg3_Part2_CountryCode		choice		Part II. Enter the country code of the country of residence of the non-resident for which you are filing this slip. Mandatory Field.
+3	Q7_Sub/Q5/TextField_Comb6_Left	Pg3_Part2_Item6_code1a		text	6	Part II. 7. State the main business activities for the transactions reported in Part III by entering the appropriate North American Industry Classification System (NAICS) code(s). See instructions for NAICS codes. NAICS code 1. Mandatory Field.
+3	Q7_Sub/Q5/TextField_Comb6_Left	Pg3_Part2__Item6_code2a		text	6	Part II. 7. NAICS code 2.
+3	Q7_Sub/Q5/TextField_Comb6_Left	Pg3_Part2_Item6_code3a		text	6	Part II. 7. NAICS code 3.
+3	Q7_Sub/Q5/TextField_Comb6_Left	Pg3_Part2_Item6_code4a		text	6	Part II. 7. NAICS code 4.
+3	Pg3_Part2_Item5/Part2_num5_sub/Pg3_Part2_Item5_Code1_Sub/Pg3_Part2_Item5_Code1_Grp	Pg3_Part2_Item5_Code1_Comb		choice		Part II. 8. State the main countries for the transactions reported in Part III by entering the appropriate country code(s). See instructions. Country code 1. Mandatory field.
+3	Pg3_Part2_Item5/Pg3_Part2_Country_Codes_Sub/Pg3_Part2_Item5_Code2_Sub/TextField_Comb3_Left	Pg3_Part2_Item5_Code2_Comb		choice		Part II. 8. Country code 2.
+3	Pg3_Part2_Item5/Pg3_Part2_Country_Codes_Sub/Pg3_Part2_Item5_Code3_Sub/TextField_Comb3_Left	Pg3_Part2_Item5_Code3_Comb		choice		Part II. 8. Country code 3.
+3	Pg3_Part2_Item5/Pg3_Part2_Item5_Code4_Sub/TextField_Comb3_Left	Pg3_Part2_Item5_Code4_Comb		choice		Part II. 8. Country code 4.
+3	Pg3_Part2_Item6_Sub/Pg3_Part2_Item6_RB	Pg3_Part2_Item6_Y		check		Part II. 9. Have you prepared or obtained contemporaneous documentation as described in subsection 247(4) of the Income Tax Act for the tax year/fiscal period with respect to the non-resident? Yes. Mandatory selection group.
+3	Pg3_Part2_Item6_Sub/Pg3_Part2_Item6_RB	Pg3_Part2_Item6_N		check		Part II. 9. Have you prepared or obtained contemporaneous documentation as described in subsection 247(4) of the Income Tax Act for the tax year/fiscal period with respect to the non-resident? No. Mandatory selection group.
+3	Pg3_Part2_Item7_Sub/Pg3_Part2_Item7_RB	Pg3_Part2_Item7_Y		check		Part II. 10. Have any of the transfer pricing methods (TPM) changed since the previous reporting period with respect to the non-resident? Yes. Mandatory selection group.
+3	Pg3_Part2_Item7_Sub/Pg3_Part2_Item7_RB	Pg3_Part2_Item7_N		check		Part II. 10. Have any of the transfer pricing methods (TPM) changed since the previous reporting period with respect to the non-resident? No. Mandatory selection group.
+3		Pg3_Part3_Text4_DollarAmount		numeric	12	Part III. Sold to non-resident. Tangible Property. Stock in trade/raw materials.
+3		Pg3_Part3_Text4_TPM		choice		Part III. Transfer pricing method (TPM). Sold to non-resident. Tangible Property. Stock in trade/raw materials. Select your option from the drop down menu.
+3		Pg3_Part3_Text4B_DollarAmount		numeric	12	Part III. Purchased from non-resident. Tangible Property. Stock in trade/raw materials.
+3		Pg3_Part3_Text4B_TPM		choice		Part III. Transfer pricing method (TPM). Purchased from non-resident. Tangible Property. Stock in trade/raw materials. Select your option from the drop down menu.
+3		Pg3_Part3_Text5_Lead		text		Tangible Property. Other. Specify.
+3		Pg3_Part3_Text5_DollarAmount		numeric	12	Part III. Sold to non-resident. Tangible Property. Other.
+3		Pg3_Part3_Text5_TPM		choice		Part III. Transfer pricing method (TPM). Sold to non-resident. Tangible Property. Other. Select your option from the drop down menu.
+3		Pg3_Part3_Text5B_DollarAmount		numeric	12	Part III. Purchased from non-resident. Tangible Property. Other.
+3		Pg3_Part3_Text5B_TPM		choice		Part III. Transfer pricing method (TPM). Purchased from non-resident. Tangible Property. Other. Select your option from the drop down menu.
+3	Pg3_Part3_Text7_DollarAmount_Sub	Pg3_Part3_Text7_DollarAmount		numeric	12	Part III. Revenue from non-resident. Rents, Royalties and Intangible Property. Rents.
+3	Pg3_Part3_Text7_DollarAmount_Sub	Pg3_Part3_Text7_TPM		choice		Part III. Transfer pricing method (TPM). Revenue from non-resident. Rents, Royalties and Intangible Property. Rents. Select your option from the drop down menu.
+3	Pg3_Part3_Text7B_DollarAmount_Sub	Pg3_Part3_Text7B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Rents, Royalties and Intangible Property. Rents.
+3	Pg3_Part3_Text7B_DollarAmount_Sub	Pg3_Part3_Text7B_TPM		choice		Part III. Transfer pricing method (TPM). Expenditure to non-resident. Rents, Royalties and Intangible Property. Rents. Rents. Select your option from the drop down menu.
+3	Pg3_Part3_Text8_DollarAmount_Sub	Pg3_Part3_Text8_DollarAmount		numeric	12	Revenue from non-resident. Rents, Royalties and Intangible Property. Royalties. For example, for the use of patents, trademarks, secret formulas, know-how.
+3	Pg3_Part3_Text8_DollarAmount_Sub	Pg3_Part3_Text8_TPM		choice		Part III. Transfer pricing method (TPM). Revenue from non-resident. Rents, Royalties and Intangible Property. Royalties. For example, for the use of patents, trademarks, secret formulas, know-how. Select your option from the drop down menu.
+3	Pg3_Part3_Text8B_DollarAmount_Sub	Pg3_Part3_Text8B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Rents, Royalties and Intangible Property. Royalties. For example, for the use of patents, trademarks, secret formulas, know-how.
+3	Pg3_Part3_Text8B_DollarAmount_Sub	Pg3_Part3_Text8B_TPM		choice		Part III. Transfer pricing method (TPM). Expenditure to non-resident. Rents, Royalties and Intangible Property. Royalties. For example, for the use of patents, trademarks, secret formulas, know-how. Select your option from the drop down menu.
+3	Pg3_Part3_Text9_DollarAmount_Sub	Pg3_Part3_Text9_DollarAmount		numeric	12	Part III. Revenue from non-resident. Rents, Royalties and Intangible Property. License or franchise fees.
+3	Pg3_Part3_Text9_DollarAmount_Sub	Pg3_Part3_Text9_TPM		choice		Part III. Transfer pricing method (TPM). Revenue from non-resident. Rents, Royalties and Intangible Property. License or franchise fees. Select your option from the drop down menu.
+3	Pg3_Part3_Text9B_DollarAmount_Sub	Pg3_Part3_Text9B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Rents, Royalties and Intangible Property. License or franchise fees.
+3	Pg3_Part3_Text9B_DollarAmount_Sub	Pg3_Part3_Text9B_TPM		choice		Part III. Transfer pricing method (TPM). Expenditure to non-resident. Rents, Royalties and Intangible Property. License or franchise fees. Select your option from the drop down menu.
+3	Pg3_Part3_Text10_DollarAmount_Sub	Pg3_Part3_Text10_DollarAmount		numeric	12	Part III. Revenue from non-resident. Rents, Royalties and Intangible Property. Intangible property or rights, acquired or disposed of.
+3	Pg3_Part3_Text10_DollarAmount_Sub	Pg3_Part3_Text10_TPM		choice		Part III. Transfer pricing method (TPM). Revenue from non-resident. Rents, Royalties and Intangible Property. Intangible property or rights, acquired or disposed of. Select your option from the drop down menu.
+3	Pg3_Part3_Text10B_DollarAmount_Sub	Pg3_Part3_Text10B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Rents, Royalties and Intangible Property. Intangible property or rights, acquired or disposed of.
+3	Pg3_Part3_Text10B_DollarAmount_Sub	Pg3_Part3_Text10B_TPM		choice		Part III. Transfer pricing method (TPM). Expenditure to non-resident. Rents, Royalties and Intangible Property. Intangible property or rights, acquired or disposed of. Select your option from the drop down menu.
+3	Pg3_Part3_Text11_DollarAmount_Sub	Pg3_Part3_Text11_DollarAmount		numeric	12	Part III. Revenue from non-resident. Services. Management, financial, administrative, marketing, training, etc.
+3	Pg3_Part3_Text11_DollarAmount_Sub	Pg3_Part3_Text11_TPM		choice		Part III. Transfer pricing method (TPM). Revenue from non-resident. Services. Management, financial, administrative, marketing, training, etc. Select your option from the drop down menu.
+3	Pg3_Part3_Text11B_DollarAmount_Sub	Pg3_Part3_Text11B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Services. Management, financial, administrative, marketing, training, etc.
+3	Pg3_Part3_Text11B_DollarAmount_Sub	Pg3_Part3_Text11B_TPM		choice		Part III. Transfer pricing method (TPM). Expenditure to non-resident. Services. Management, financial, administrative, marketing, training, etc. Select your option from the drop down menu.
+3	Pg3_Part3_Text12_DollarAmount_Sub	Pg3_Part3_Text12_DollarAmount		numeric	12	Part III. Revenue from non-resident. Services. Engineering, technical, construction, etc.
+3	Pg3_Part3_Text12_DollarAmount_Sub	Pg3_Part3_Text12_TPM		choice		Part III. Transfer pricing method (TPM). Revenue from non-resident. Services. Engineering, technical, construction, etc. Select your option from the drop down menu.
+3	Pg3_Part3_Text12B_DollarAmount_Sub	Pg3_Part3_Text12B_DollarAmount		numeric		Part III. Expenditure to non-resident. Services. Engineering, technical, construction, etc.
+3	Pg3_Part3_Text12B_DollarAmount_Sub	Pg3_Part3_Text12B_TPM		choice		Part III. Transfer pricing method (TPM). Expenditure to non-resident. Services. Engineering, technical, construction, etc. Select your option from the drop down menu.
+3	Pg3_Part3_Text13A_DollarAmount_Sub	Pg3_Part3_Text13_DollarAmount		numeric		Part III. Revenue from non-resident. Services. Research and development.
+3	Pg3_Part3_Text13A_DollarAmount_Sub	Pg3_Part3_Text13_TPM		choice		Part III. Transfer pricing method (TPM). Revenue from non-resident. Services. Research and development. Select your option from the drop down menu.
+3	Pg3_Part3_Text13B_DollarAmount_sf	Pg3_Part3_Text13B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Services. Research and development.
+3	Pg3_Part3_Text13B_DollarAmount_sf	Pg3_Part3_Text13B_TPM		choice		Part III. Transfer pricing method (TPM). Expenditure to non-resident. Services. Research and development. Select your option from the drop down menu.
+3	Pg3_Part3_DollarAmount_Sub	Pg3_Part3_Text13_DollarAmount		numeric	12	Part III. Revenue from non-resident. Services. Commissions.
+3	Pg3_Part3_DollarAmount_Sub	Pg3_Part3_Text13_TPM		choice		Part III. Transfer pricing method (TPM). Revenue from non-resident. Services. Commissions. Select your option from the drop down menu.
+3	Pg3_Part3_Text13B_DollarAmount_Sub	Pg3_Part3_Text13B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Services. Commissions.
+3	Pg3_Part3_Text13B_DollarAmount_Sub	Pg3_Part3_Text13B_TPM		choice		Part III. Transfer pricing method (TPM). Expenditure to non-resident. Services. Commissions. Select your option from the drop down menu.
+3		Pg3_Part3_Text15_DollarAmount		numeric	12	Part III. Revenue from non-resident. Financial. Interest.
+3		Pg3_Part3_Text15B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Financial. Interest.
+3		Pg3_Part3_Text16_DollarAmount		numeric	12	Part III. Revenue from non-resident. Financial. Dividends. For example, common stock, preferred stock, deemed dividends.
+3		Pg3_Part3_Text16B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Financial. Dividends. For example, common stock, preferred stock, deemed dividends.
+3		Pg3_Part3_Text17_DollarAmount		numeric	12	Part III. Revenue from non-resident. Financial. Sale of financial property, including factoring, securitizations and securities.
+3		Pg3_Part3_Text17B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Financial. Sale of financial property, including factoring, securitizations and securities.
+3		Pg3_Part3_Text18_DollarAmount		numeric	12	Part III. Revenue from non-resident. Financial. Lease payments.
+3		Pg3_Part3_Text18B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Financial. Lease payments.
+3		Pg3_Part3_Text19_DollarAmount		numeric	12	Part III. Revenue from non-resident. Financial. Securities lending, fees and compensation payments.
+3		Pg3_Part3_Text19B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Financial. Securities lending, fees and compensation payments.
+3		Pg3_Part3_Text20_DollarAmount		numeric	12	Part III. Revenue from non-resident. Financial. Insurance and/or reinsurance.
+3		Pg3_Part3_Text20_TPM		choice		Part III. Transfer pricing method (TPM). Revenue from non-resident. Financial. Insurance and/or reinsurance. Select your option from the drop down menu.
+3		Pg3_Part3_Text20B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Financial. Insurance and/or reinsurance.
+3		Pg3_Part3_Text20B_TPM		choice		Part III. Transfer pricing method (TPM). Expenditure to non-resident. Financial. Insurance and/or reinsurance. Select your option from the drop down menu.
+3		Pg3_Part3_Text21_Lead		text		Give a brief description of other financial revenues or expenses.
+3		Pg3_Part3_Text21_DollarAmount		numeric	12	Part III. Revenue from non-resident. Financial. Other, excluding derivatives, see Part V.
+3		Pg3_Part3_Text21_TPM		choice		Part III. Transfer pricing method (TPM). Revenue from non-resident. Financial. Other, from non-resident. Financial. Other, excluding derivatives, see Part V. Select your option from the drop down menu.
+3		Pg3_Part3_Text21B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Financial. Other, excluding derivatives, see Part V.
+3		Pg3_Part3_Text21B_TPM		choice		Part III. Transfer pricing method (TPM). Revenue from non-resident. Financial. Insurance and/or reinsurance. Other, excluding derivatives, see Part V. Select your option from the drop down menu.
+3	Pg3_Part2_Item4_Sub/Pg3_Part2_NonResident_1Sub	Pg3_Part2_NonResident_Check1		check		Part II. 4. Type of non-resident under foreign law governing the non-resident. Option 1. Corporation. Mandatory selection group.
+3	Pg3_Part2_Item4_Sub/Pg3_Part2_NonResident_2Sub	Pg3_Part2_NonResident_Check1		check		Option 2. Partnership. Mandatory selection group.
+3	Pg3_Part2_Item4_Sub/Pg3_Part2_NonResident_3Sub	Pg3_Part2_NonResident_Check1		check		Option 3. Trust. Mandatory selection group.
+3	Pg3_Part2_Item4_Sub/Pg3_Part2_NonResident_4Sub	Pg3_Part2_NonResident_Check1		check		Option 4. Individual. Mandatory selection group.
+3	Pg3_Part2_Item4_Sub/Pg3_Part2_NonResident_5Sub	Pg3_Part2_NonResident_Check1		check		Option 5. Other. Mandatory selection group.
+3	Q5/Pg3_Part2_Type_Non_Res_RB	Pg3_Part2_Type_Relationship_Y		check		Part II. 5. Is the non-resident treated differently for tax purposes in its jurisdiction of residency than the classification in question 4? Yes.
+3	Q5/Pg3_Part2_Type_Non_Res_RB	Pg3_Part2_Type_Relationship_N		check		Part II. 5. Is the non-resident treated differently for tax purposes in its jurisdiction of residency than the classification in question 4? No.
+3	Q6/Pg3_Part2_Type_Relationship_1Sub	Pg3_Part2_Type_Relationship_Check1		check		Part II. 6. Type of relationship. Option 1. Non-resident is a controlled foreign affiliate (CFA) of the reporting person/partnership. Mandatory selection group.
+3	Q6/Pg3_Part2_Type_Relationship_2Sub	Pg3_Part2_Type_Relationship_Check1		check		Option 2. Non-resident is a foreign affiliate of the reporting person/partnership other than a CFA. Mandatory selection group.
+3	Q6/Pg3_Part2_Type_Relationship_3Sub	Pg3_Part2_Type_Relationship_Check1		check		Option 3. Non-resident controls the reporting person/partnership. Mandatory selection group.
+3	Q6/Pg3_Part2_Type_Relationship_4Sub	Pg3_Part2_Type_Relationship_Check1		check		Option 4. Other. Mandatory selection group.
+4		Pg3_Part3_Text23_DollarAmount		numeric	12	Part III. Revenue from non-resident. Other. Reimbursement of expenses.
+4		Pg3_Part3_Text23B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Reimbursement of expenses.
+4		Pg3_Part3_Text24_Lead		text		Give a brief description of other revenues or expenses.
+4		Pg3_Part3_Text24_DollarAmount		numeric	12	Part III. Revenue from non-resident. Other.
+4		Pg3_Part3_Text24_TPM		choice		Part III. Transfer pricing method (TPM). Revenue from non-resident. Other. Select your option from the drop down menu.
+4		Pg3_Part3_Text24B_DollarAmount		numeric	12	Part III. Expenditure to non-resident. Other.
+4		Pg3_Part3_Text24B_TPM		choice		Part III. Transfer pricing method (TPM). Expenditure to non-resident. Other. Select your option from the drop down menu.
+4		Pg3_Part3_Text25_DollarAmount		numeric		Part III. Box A. Revenue from non-resident. Please enter the total of all entries made in each column of Part III.
+4		Pg3_Part3_Text25B_DollarAmount		numeric		Part III. Box B. Expenditure to non-resident. Please enter the total of all entries made in each column of Part III.
+4	Pg3_Part4	Pg3_Part4_Text3_DollarAmount		numeric	12	Part IV. Beginning balance. Indebtedness owed by the reporting person/partnership.
+4	Pg3_Part4	Pg3_Part4_Text3_DollarAmountB		numeric	12	Part IV. Increase. Indebtedness owed by the reporting person/partnership.
+4	Pg3_Part4	Pg3_Part4_Text3_DollarAmountC		numeric	12	Part IV. Decrease. Indebtedness owed by the reporting person/partnership.
+4	Pg3_Part4	Pg3_Part4_Text3_DollarAmountD		numeric	12	Part IV. Ending balance. Indebtedness owed by the reporting person/partnership.
+4	Pg3_Part4	Pg3_Part4_Text4_DollarAmount		numeric	12	Part IV. Beginning balance. Indebtedness owed to the reporting person/partnership.
+4	Pg3_Part4	Pg3_Part4_Text4_DollarAmountB		numeric	12	Part IV. Increase. Indebtedness owed to the reporting person/partnership.
+4	Pg3_Part4	Pg3_Part4_Text4_DollarAmountC		numeric	12	Part IV. Decrease. Indebtedness owed to the reporting person/partnership.
+4	Pg3_Part4	Pg3_Part4_Text4_DollarAmountD		numeric	12	Part IV. Ending balance. Indebtedness owed to the reporting person/partnership.
+4	Pg3_Part4	Pg3_Part4_Text5_DollarAmount		numeric	12	Part IV. Beginning balance. Investment in the non-resident, adjusted cost base (ACB).
+4	Pg3_Part4	Pg3_Part4_Text5_DollarAmountB		numeric	12	Part IV. Increase. Investment in the non-resident, adjusted cost base (ACB).
+4	Pg3_Part4	Pg3_Part4_Text5_DollarAmountC		numeric	12	Part IV. Decrease. Investment in the non-resident, adjusted cost base (ACB).
+4	Pg3_Part4	Pg3_Part4_Text5_DollarAmountD		numeric	12	Part IV. Ending balance. Investment in the non-resident, adjusted cost base (ACB).
+4	Pg3_Part4	Pg3_Part4_Text6_DollarAmount		numeric	12	Part IV. Beginning balance. Investment in the reporting entity by the non-resident (paid-up capital (PUC).
+4	Pg3_Part4	Pg3_Part4_Text6_DollarAmountB		numeric	12	Part IV. Increase. Investment in the reporting entity by the non-resident, paid-up capital (PUC).
+4	Pg3_Part4	Pg3_Part4_Text6_DollarAmountC		numeric	12	Part IV. Decrease. Investment in the reporting entity by the non-resident, paid-up capital (PUC).
+4	Pg3_Part4	Pg3_Part4_Text6_DollarAmountD		numeric	12	Part IV. Ending balance. Investment in the reporting entity by the non-resident, paid-up capital (PUC).
+4	Pg3_Part4	Pg3_Par4_Text6_DollarAmountC		numeric		Part IV. Box C. Increase. Please enter the total of all entries made in each column of Part IV.
+4	Pg3_Part4	Pg3_Par4_Text6_DollarAmountD		numeric		Part IV. Box D. Decrease. Please enter the total of all entries made in each column of Part IV.
+4	Pg3_Part4/Pg3_Part4_Text7_RB	Pg3_Part4_Text7_Y		check		Part IV. Was a Pertinent Loan or Indebtedness (PLOI) election made, see instructions? Yes. Mandatory selection group.
+4	Pg3_Part4/Pg3_Part4_Text7_RB	Pg3_Part4_Text7_N		check		Part IV. Was a Pertinent Loan or Indebtedness (PLOI) election made (see instructions)? No. Select Yes or No. Mandatory selection group.
+4	Pg3_Part4	Pg3_Part4_Text7_DollarAmount		numeric	12	Part IV. If yes, please provide the amount of deemed interest related to the election.
+4		Pg4_Part5_Text3_Contracts		numeric	9	Part V. Number of contracts. 101. Interest Rate Contracts.
+4		Pg4_Part5_Text3_DollarAmount		numeric	12	Part V. Notional amount. 101. Interest Rate Contracts.
+4		Pg4_Part5_Text3_DollarAmountB		numeric	12	Part V. Revenue from non-resident. 101. Interest Rate Contracts.
+4		Pg4_Part5_Text3_DollarAmountC		numeric	12	Part V. Expenditure to non-resident. 101. Interest Rate Contracts.
+4		Pg4_Part5_Text4_Contracts		numeric	9	Part V. Number of contracts. 102. Foreign Exchange Contracts
+4		Pg4_Part5_Text4_DollarAmount		numeric	12	Part V. Notional amount. 102. Foreign Exchange Contracts
+4		Pg4_Part5_Text4_DollarAmountB		numeric	12	Part V. Revenue from non-resident. 102. Foreign Exchange Contracts
+4		Pg4_Part5_Text4_DollarAmountC		numeric	12	Part V. Expenditure to non-resident. 102. Foreign Exchange Contracts
+4		Pg4_Part5_Text5_Contracts		numeric	9	Part V. Number of contracts. 103. Credit Contracts.
+4		Pg4_Part5_Text5_DollarAmount		numeric	12	Part V. Notional amount. 103. Credit Contracts.
+4		Pg4_Part5_Text5_DollarAmountB		numeric	12	Part V. Revenue from non-resident. 103. Credit Contracts.
+4		Pg4_Part5_Text5_DollarAmountC		numeric	12	Part V. Expenditure to non-resident. 103. Credit Contracts.
+4		Pg4_Part5_Text6_Contracts		numeric	9	Part V. Number of contracts. 104. Equity Contracts.
+4		Pg4_Part5_Text6_DollarAmount		numeric	12	Part V. Notional amount. 104. Equity Contracts.
+4		Pg4_Part5_Text6_DollarAmountB		numeric	12	Part V. Revenue from non-resident. 104. Equity Contracts.
+4		Pg4_Part5_Text6_DollarAmountC		numeric	12	Part V. Expenditure to non-resident. 104. Equity Contracts.
+4		Pg4_Part5_Text7_Contracts		numeric	9	Part V. Number of contracts. 105. Commodity Contracts.
+4		Pg4_Part5_Text7_DollarAmount		numeric	12	Part V. Notional amount. 105. Commodity Contracts.
+4		Pg4_Part5_Text7_DollarAmountB		numeric	12	Part V. Revenue from non-resident. 105. Commodity Contracts.
+4		Pg4_Part5_Text7_DollarAmountC		numeric	12	Part V. Expenditure to non-resident. 105. Commodity Contracts.
+4		Pg4_Part5_Text8_Contracts		numeric	9	Part V. Number of contracts. 106. Index Contracts.
+4		Pg4_Part5_Text8_DollarAmount		numeric	12	Part V. Notional amount. 106. Index Contracts.
+4		Pg4_Part5_Text8_DollarAmountB		numeric	12	Part V. Revenue from non-resident. 106. Index Contracts.
+4		Pg4_Part5_Text8_DollarAmountC		numeric	12	Expenditure to non-resident. 106. Index Contracts.
+4		Pg4_Part5_Text9_Contracts		numeric	9	Part V. Number of contracts. 107. Fees, including commissions.
+4		Pg4_Part5_Text9_DollarAmount		numeric	12	Notional amount. 107. Fees, including commissions.
+4		Pg4_Part5_Text9_DollarAmountB		numeric	12	Part V. Revenue from non-resident. 107. Fees, including commissions.
+4		Pg4_Part5_Text9_DollarAmountC		numeric	12	Part V. Expenditure to non-resident. 107. Fees, including commissions.
+4		Pg4_Part5_Text11_Other_Specify		text		108. Other payments/receipts (specify).
+4		Pg4_Part5_Text10_Contracts		numeric	9	Number of contracts. 108. Other payments/receipts.
+4		Pg4_Part5_Text10_DollarAmount		numeric	12	Notional amount. 108. Other payments/receipts.
+4		Pg4_Part5_Text10_DollarAmountB		numeric	12	Part V. Revenue from non-resident. 108. Other payments/receipts.
+4		Pg4_Part5_Text10_DollarAmountC		numeric	12	Part V. Expenditure to non-resident. 108. Other payments/receipts.
+4		Pg4_Part5_Text11_Contracts		numeric	9	Part V. Box E. Number of contracts. Please enter the total of all entries made in each column of Part V.
+4		Pg4_Part5_Text11_DollarAmount		numeric	9	Part V. Box F. Notional amount. Please enter the total of all entries made in each column of Part V.
+4		Pg4_Part5_Text11_DollarAmountB		numeric	9	Part V. Box G. Revenue from non-resident. Please enter the total of all entries made in each column of Part V.
+4		Pg4_Part5_Text11_DollarAmountC		numeric	9	Part V. Box H. Expenditure to non-resident. Please enter the total of all entries made in each column of Part V.
+4		Pg4_Part5_Text12_DollarAmount		numeric	9	Box I. Please enter in box I the total of all entries made in boxes A, B, C, D, G and H.
+4		Pg4_Part6_Text3_DollarAmount		numeric	12	Part VI. Beginning balance. Accounts payable amount owed to the non-resident.
+4		Pg4_Part6_Text3_DollarAmountIncr		numeric	12	Part VI. Increase. Accounts payable amount owed to the non-resident.
+4		Pg4_Part6_Text3_DollarAmountDecr		numeric	12	Part VI. Decrease. Accounts payable amount owed to the non-resident.
+4		Pg4_Part6_Text3_DollarAmountEnd		numeric	12	Part VI. Ending balance. Accounts payable amount owed to the non-resident.
+4		Pg4_Part6_Text4_DollarAmount		numeric	12	Part VI. Beginning balance. Account receivable amount owed by the non-resident.
+4		Pg4_Part6_Text4_DollarAmountIncr		numeric	12	Part VI. Increase. Account receivable amount owed by the non-resident.
+4		Pg4_Part6_Text4_DollarAmountDecr		numeric	12	Part VI. Decrease. Account receivable amount owed by the non-resident.
+4		Pg4_Part6_Text4_DollarAmountEnd		numeric	12	Part VI. Ending balance. Account receivable amount owed by the non-resident.

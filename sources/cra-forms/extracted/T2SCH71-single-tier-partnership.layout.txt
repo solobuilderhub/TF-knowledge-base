@@ -1,0 +1,272 @@
+                                                                                                                                                                                                  Schedule 71
+                                                                                                                                                                                                  Protected B
+                                                                                                                                                                                             when completed
+
+                  Income Inclusion for Corporations that are Members of Single-Tier Partnerships
+
+                                                         (2019 and later tax years)
+
+Corporation's name                                                                         Business number               Tax year-end
+
+                                                                                                              Year       Month Day
+
+· If the corporation is a member of a single-tier partnership that has a fiscal period-end that differs from the corporation's tax year-end, use this schedule to
+  determine the corporation's income inclusion in respect of the partnership for the tax year under sections 34.2 and 34.3 of the Income Tax Act. Complete a
+  separate schedule for each single-tier partnership.
+
+· Complete Part 2 of this schedule to calculate the adjusted stub period accrual (ASPA) in respect of a single-tier partnership if all of the following
+  conditions apply:
+
+   ­ the corporation has a significant interest in the partnership at the end of the last fiscal period of the partnership that ends in the tax year
+
+   ­ another fiscal period of the partnership starts in the tax year and ends after the tax year of the corporation
+
+   ­ at the end of the tax year, the corporation is entitled to a share of the income, loss, taxable capital gain, or allowable capital loss of the partnership for the
+      fiscal period that ends after the end of the tax year
+
+   ­ the corporation is not a professional corporation
+
+· Significant interest means that the corporation, or the corporation together with one or more persons or partnerships related to or affiliated with the
+  corporation, is entitled to more than 10% of the income or loss of the partnership or more than 10% of the assets (net of liabilities) of the partnership if it
+  were to cease to exist.
+
+· Generally, amounts included or claimed under subsections 34.2(2), 34.2(3), and 34.2(4) are deemed to have the same character and be in the same
+  proportions as the partnership income to which they relate. For example, if a corporation receives $100,000 of partnership income for the partnership's
+  fiscal period ending in its tax year, and that income is made up of $40,000 of active business income, $30,000 of income from property and $30,000 as a
+  taxable capital gain, the corporation's ASPA for the partnership would be 40% active business income, 30% property income and 30% taxable capital gains.
+
+· Section 34.2 does not apply when calculating, for a tax year of a foreign affiliate of a corporation resident in Canada, the affiliate's foreign accrual property
+  income for the corporation and, generally, the affiliate's exempt surplus or exempt deficit, hybrid surplus or hybrid deficit, and taxable surplus or taxable
+  deficit, for the corporation. See subsection 34.2(8).
+
+· All legislative references are to the Income Tax Act and Income Tax Regulations. This schedule does not replace the Act and its regulations.
+
+· This schedule is a worksheet only. You do not have to file it with your T2 Corporation Income Tax Return.
+
+· Report on Schedule 73, Income Inclusion Summary for Corporations that are Members of Partnerships, the amounts calculated on this schedule. File
+  Schedule 73 with the corporation's T2 return.
+
+   Part 1 ­ Partnership information
+
+  Partnership's name
+
+                                                                                       RZ
+
+                    Partnership's account number:
+
+                                                                  Fiscal period-start      Fiscal period-end
+
+                                                                  Year  Month Day          Year             Month Day
+
+The start and end dates of the fiscal period of the partnership:
+
+T2 SCH 71 E (19)    (Ce formulaire est disponible en français.)                                             Page 1 of 4
+                                                                                                                                                                 Protected B when completed
+
+Part 2 ­ Adjusted stub period accrual (ASPA)
+
+A corporation's ASPA in respect of a partnership gives an estimate of the income that the corporation is deferring during a stub period as a result of its
+membership in a partnership that has a fiscal period that differs from the corporation's tax year. Where the last fiscal period of the partnership begins in the
+corporation's tax year and ends after that tax year, the stub period is normally the period from the start of that fiscal period to the end of the corporation's
+tax year.
+
+If the corporation becomes a member of a partnership during a fiscal period of the partnership, see Part 3.
+
+Corporation's share of income of the partnership for the fiscal period(s) (note 1) that end(s) in the tax
+
+year of the corporation (other than dividends for which a deduction is available under section 112                                                           2A
+or 113) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Corporation's share of loss of the partnership for the fiscal period(s) (note 1) that end(s) in the tax year                                                 2B
+of the corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                             Subtotal (amount 2A minus amount 2B)                                                                                   2C
+
+Corporation's share of taxable capital gain of the partnership for the fiscal period(s) (note 1)                                                             2D
+
+that end(s) in the tax year of the corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Corporation's share of allowable capital loss of the partnership for the fiscal period(s) (note 1)                                                           2E
+
+that end(s) in the tax year of the corporation (cannot be more than amount 2D) . . . . . . . . . . . . . . . . . .
+
+                                             Subtotal (amount 2D minus amount 2E)                                                                                   2F
+
+                                                                                                    Subtotal (amount 2C plus amount 2F)                             2G
+
+Number of days that are in both the corporation's tax year and the fiscal
+
+period of the partnership that starts in the corporation's tax year and ends
+
+after the tax year (the stub period)                                                                =                                                        2H
+
+Number of days in the fiscal period(s) of the partnership that end(s) in the
+                            corporation's tax year (note 2)
+
+                                                                      Stub period accrual (amount 2G multiplied by amount 2H)                                       2I
+
+Enter amount 2I in column 1 of Schedule 73 (if negative, enter "0").
+
+Designated qualified resource expenses [subsections 66.1(6), 66.2(5), 66.21(1), and 66.4(5)]                                                                 2J
+
+(note 3) for the stub period . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Enter amount 2J in column 2 of Schedule 73.
+
+Discretionary amount designated by the corporation (note 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                  2K
+
+Enter amount 2K in column 3 of Schedule 73.
+
+                                              Subtotal (amount 2J plus amount 2K)                                                                                   2L
+
+ASPA for the tax year (amount 2I minus amount 2L) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2M
+
+Note 1. The corporation can have more than one fiscal period of the partnership that ends in its tax year. Enter the income or loss allocated to the corporation
+          for all of the fiscal periods.
+
+Note 2. The number of days could be more than 365 if there is more than one fiscal period of the partnership that ends in the corporation's tax year.
+
+Note 3. Subsection 34.2(6) gives the designated amount for qualified resource expenses. Once filed, the designation cannot be amended or revoked. The
+          corporation can designate an amount as its qualified resource expense for the stub period in respect of a partnership to the extent the corporation
+          gets in writing from the partnership, before the corporation's filing due date for the tax year for which the ASPA is being calculated, information
+          identifying the relevant expenses. The relevant expenses are those identified by the partnership as being the corporation's qualified resource
+          expenses incurred by the partnership, determined as if those expenses had been incurred by the partnership in its last fiscal period that ended in the
+          tax year (that is, based on the corporation's share for the last fiscal period, and not at the end of the tax year). The amount designated cannot be
+          more than the maximum amount that would be deductible by the corporation for the identified resource expenses under sections 66.1, 66.2, 66.21,
+          and 66.4 in calculating its income if the partnership's fiscal period ended at the end of the corporation's tax year.
+
+Note 4. The corporation can designate an amount (other than an amount included on amount 2J) on its T2 Corporation Income Tax Return filed on or before
+          the corporation's filing due date. Once filed, the designation cannot be amended or revoked. The corporation may have to include in its income an
+          income shortfall adjustment to account for under-reported income when the corporation has made a discretionary designation to reduce the ASPA
+          inclusion for a previous tax year. For the calculation of the income shortfall adjustment, see Part 4.
+
+                                                                                                                                                                    Page 2 of 4
+                                                                                                                                                               Protected B when completed
+
+Part 3 ­ Income inclusion for a new corporate member of a partnership
+
+If the corporation (other than a professional corporation) becomes a member of a partnership during a fiscal period of the partnership (the particular period)
+that starts in the corporation's tax year and ends after the tax year, but on or before the filing due date for that year, and the corporation has a significant
+interest in the partnership at the end of the particular period, the corporation may include in calculating its income for the tax year in respect of the partnership
+the lesser of:
+
+Amount, if any, designated by the corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 3A
+
+and
+
+Corporation's income from the partnership for the particular period                                                                                        3B
+
+(other than dividends for which a deduction is available under section 112 or 113) . . . . . . . . . . . . . . . .
+
+     Number of days that are in both the corporation's tax year                      =                                                                     3C
+                           and the particular period
+
+                 Number of days in the particular period
+
+                                                                                     Subtotal (amount 3B multiplied by amount 3C)                                                                     3D
+
+Income inclusion for a new corporate member of a partnership for the tax year (amount 3A or 3D, whichever is less)                                                                                    3E
+(if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Enter amount 3E in column 6 of Schedule 73.
+
+Part 4 ­ Income shortfall adjustment
+
+Complete this part only if the corporation designated a discretionary amount at amount 2K in Part 2 of the base year's Schedule 71* for any qualifying
+partnership the corporation is a member of. Section 34.3 may require a corporate partner of a partnership for a tax year to include in its income an income
+shortfall adjustment to account for under-reported income.
+
+The base year is the preceding tax year of the corporation in which began the fiscal period of the qualifying partnership that ends in the corporation tax year.
+
+If the corporate partner is a member of more than one qualifying partnership, the corporation can, in determining its income inclusion under section 34.3 for
+a tax year, offset an over-reported ASPA in respect of a qualifying partnership against an under-reported ASPA of another qualifying partnership.
+
+A qualifying partnership is a partnership that has a fiscal period that began in the preceding tax year and ended in the tax year, and in respect of which the
+corporation had to calculate an ASPA for the preceding tax year in which the fiscal period of the partnership began.
+
+The actual stub period accrual is the recalculation of the ASPA in respect of a fiscal period of a partnership based on the pro-rated part of actual
+partnership income allocated to the corporation for the last fiscal period of the partnership that began in the base year.
+
+Corporation's share of income of the qualifying partnership for the last fiscal period that began in the                                                   4A
+
+base year (other than dividends for which a deduction was available under section 112 or 113) . . . . .
+
+Corporation's share of loss of the qualifying partnership for the last fiscal period that began in the                                                     4B
+base year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                             Subtotal (amount 4A minus amount 4B)                                                                                                                     4C
+
+Corporation's share of taxable capital gain (note 5) of the qualifying partnership for the last fiscal                                                     4D
+period that began in the base year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Corporation's share of allowable capital loss (note 5) of the qualifying partnership for the last fiscal                                                   4E
+
+period that began in the base year (cannot be more than amount 4D) . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                             Subtotal (amount 4D minus amount 4E)                                                                                                                     4F
+
+                                                                                     Subtotal (amount 4C plus amount 4F)                                                                              4G
+
+     Number of days that are in both the base year                                   =                                                                     4H
+          and the fiscal period of the partnership
+
+                 Number of days in the fiscal
+                   period of the partnership
+
+                                                                                     Subtotal (amount 4G multiplied by amount 4H)                                                                     4I
+
+Amount of the qualified resource expense [subsections 66.1(6), 66.2(5), 66.21(1), and 66.4(5)] in respect of the qualifying
+
+partnership that was designated by the corporate partner for the base year (amount 2J from Part 2 of the                                                                                              4J
+base year's Schedule 71**) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Actual stub period accrual in respect of the qualifying partnership (amount 4I minus amount 4J) . . . . . . . . . . . . . . . . . . . . . . . . . .                                                   4K
+
+* In pre-2019 versions of Schedule 71, this amount appeared at amount k of Part 3.
+** In pre-2019 versions of Schedule 71, this amount appeared at amount j of Part 3.
+
+Note 5. In calculating the actual stub period accrual to determine the income inclusion, the corporation can offset all or part of the allowable capital losses
+          from one qualifying partnership against all or part of the taxable capital gains from another qualifying partnership.
+
+                                                                                                                                                                                                      Page 3 of 4
+                                                                                                                                             Protected B when completed
+
+Part 4 ­ Income shortfall adjustment (continued)
+
+ASPA from the base year (amount 2M from Part 2 of Schedule 71* for the base year) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 4L
+
+Discretionary amount designated from the base year (amount 2K from Part 2 of Schedule 71** for the base year) . . . . . . . . . . . . . . .                               4M
+
+                                                  Subtotal (amount 4L plus amount 4M) (if negative, enter "0")                                                            4N
+
+                                                  Base amount (amount 4K or amount 4N, whichever is less)                                                                 4O
+
+                                              Subtotal (amount 4O minus amount 4L) (this amount can be positive or negative)                                              4P
+
+Number of days in the period that starts on the day after the day on which the base year ends, and                                       4Q
+
+ends on the day on which the tax year ends . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                                                                                     Subtotal (amount 4P multiplied by amount 4Q)                                         4R
+
+Average daily rate of interest determined by reference to the prescribed rate of interest under                                          4S
+
+paragraph 4301(a) of the Income Tax Regulations for the period referred to at amount 4Q . . . . . . . . . .
+
+Income shortfall adjustment (amount 4R multiplied by amount 4S) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         4T
+
+Enter amount 4T in column 9 of Schedule 73.
+
+Base amount 4O multiplied by amount 4Q . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       4U
+
+Amount 4U multiplied by amount 4S . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4V
+
+Threshold amount (25% of amount 4V) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4W
+
+Enter amount 4W in column 10 of Schedule 73.
+
+* In pre-2019 versions of Schedule 71, this amount appeared at amount K of Part 3.
+** In pre-2019 versions of Schedule 71, this amount appeared at amount k of Part 3.
+
+                                                                                                                                                                          Page 4 of 4
+

@@ -1,0 +1,130 @@
+page	part	field	line	kind	digits	speak
+1		CorpName		text		
+1		BusinessNumber_		text		Business Number. 9 numbers, 2 letters, and 4 numbers.
+1	TaxYearEnd_Date	DateYYYYMMDD_Comb		text		Tax Year End. Date. Year 4 digits, Month 2 digits, Day 2 digits.
+1	AllocationTable/Row1	Cell1		text		
+1	AllocationTable/Row1	Cell2		text		
+1	AllocationTable/Row1	Cell3		text		
+1	AllocationTable/Row1	Cell4		numeric		
+1	AllocationTable/Row1	Cell5		numeric	11	
+1	AllocationTable/Row1	Cell6		numeric		
+1	AllocationTable/Row1	Cell7		numeric	11	
+1	AllocationTable/Row1	Cell8		numeric		
+1	AllocationTable/Row1	Cell9		numeric	12	
+1	AllocationTable/Row2	Cell1		text		
+1	AllocationTable/Row2	Cell2		text		
+1	AllocationTable/Row2	Cell3		text		
+1	AllocationTable/Row2	Cell4		numeric		
+1	AllocationTable/Row2	Cell5		numeric	11	
+1	AllocationTable/Row2	Cell6		numeric		
+1	AllocationTable/Row2	Cell7		numeric	11	
+1	AllocationTable/Row2	Cell8		numeric		
+1	AllocationTable/Row2	Cell9		numeric	12	
+1	AllocationTable/Row3	Cell1		text		
+1	AllocationTable/Row3	Cell2		text		
+1	AllocationTable/Row3	Cell3		text		
+1	AllocationTable/Row3	Cell4		numeric		
+1	AllocationTable/Row3	Cell5		numeric	11	
+1	AllocationTable/Row3	Cell6		numeric		
+1	AllocationTable/Row3	Cell7		numeric	11	
+1	AllocationTable/Row3	Cell8		numeric		
+1	AllocationTable/Row3	Cell9		numeric	12	
+1	AllocationTable/Row4	Cell1		text		
+1	AllocationTable/Row4	Cell2		text		
+1	AllocationTable/Row4	Cell3		text		
+1	AllocationTable/Row4	Cell4		numeric		
+1	AllocationTable/Row4	Cell5		numeric	11	
+1	AllocationTable/Row4	Cell6		numeric		
+1	AllocationTable/Row4	Cell7		numeric	11	
+1	AllocationTable/Row4	Cell8		numeric		
+1	AllocationTable/Row4	Cell9		numeric	12	
+1	AllocationTable/Row5	Cell1		text		
+1	AllocationTable/Row5	Cell2		text		
+1	AllocationTable/Row5	Cell3		text		
+1	AllocationTable/Row5	Cell4		numeric		
+1	AllocationTable/Row5	Cell5		numeric	11	
+1	AllocationTable/Row5	Cell6		numeric		
+1	AllocationTable/Row5	Cell7		numeric	11	
+1	AllocationTable/Row5	Cell8		numeric		
+1	AllocationTable/Row5	Cell9		numeric	12	
+1	AllocationTable/Row6	Cell1		text		
+1	AllocationTable/Row6	Cell2		text		
+1	AllocationTable/Row6	Cell3		text		
+1	AllocationTable/Row6	Cell4		numeric		
+1	AllocationTable/Row6	Cell5		numeric	11	
+1	AllocationTable/Row6	Cell6		numeric		
+1	AllocationTable/Row6	Cell7		numeric	11	
+1	AllocationTable/Row6	Cell8		numeric		
+1	AllocationTable/Row6	Cell9		numeric	12	
+1	AllocationTable/Row7	Cell1		text		
+1	AllocationTable/Row7	Cell2		text		
+1	AllocationTable/Row7	Cell3		text		
+1	AllocationTable/Row7	Cell4		numeric		
+1	AllocationTable/Row7	Cell5		numeric	11	
+1	AllocationTable/Row7	Cell6		numeric		
+1	AllocationTable/Row7	Cell7		numeric	11	
+1	AllocationTable/Row7	Cell8		numeric		
+1	AllocationTable/Row7	Cell9		numeric	12	
+1	AllocationTable/Row8	Cell1		text		
+1	AllocationTable/Row8	Cell2		text		
+1	AllocationTable/Row8	Cell3		text		
+1	AllocationTable/Row8	Cell4		numeric		
+1	AllocationTable/Row8	Cell5		numeric	11	
+1	AllocationTable/Row8	Cell6		numeric		
+1	AllocationTable/Row8	Cell7		numeric	11	
+1	AllocationTable/Row8	Cell8		numeric		
+1	AllocationTable/Row8	Cell9		numeric	12	
+1	AllocationTable/Row9	Cell1		text		
+1	AllocationTable/Row9	Cell2		text		
+1	AllocationTable/Row9	Cell3		text		
+1	AllocationTable/Row9	Cell4		numeric		
+1	AllocationTable/Row9	Cell5		numeric	11	
+1	AllocationTable/Row9	Cell6		numeric		
+1	AllocationTable/Row9	Cell7		numeric	11	
+1	AllocationTable/Row9	Cell8		numeric		
+1	AllocationTable/Row9	Cell9		numeric	12	
+1	AllocationTable/Row10	Cell1		text		
+1	AllocationTable/Row10	Cell2		text		
+1	AllocationTable/Row10	Cell3		text		
+1	AllocationTable/Row10	Cell4		numeric		
+1	AllocationTable/Row10	Cell5		numeric	11	
+1	AllocationTable/Row10	Cell6		numeric		
+1	AllocationTable/Row10	Cell7		numeric	11	
+1	AllocationTable/Row10	Cell8		numeric		
+1	AllocationTable/Row10	Cell9		numeric	12	
+1	AllocationTable/Row11	Cell1		text		
+1	AllocationTable/Row11	Cell2		text		
+1	AllocationTable/Row11	Cell3		text		
+1	AllocationTable/Row11	Cell4		numeric		
+1	AllocationTable/Row11	Cell5		numeric	11	
+1	AllocationTable/Row11	Cell6		numeric		
+1	AllocationTable/Row11	Cell7		numeric	11	
+1	AllocationTable/Row11	Cell8		numeric		
+1	AllocationTable/Row11	Cell9		numeric	12	
+1	AllocationTable/Row12	Cell1		text		
+1	AllocationTable/Row12	Cell2		text		
+1	AllocationTable/Row12	Cell3		text		
+1	AllocationTable/Row12	Cell4		numeric		
+1	AllocationTable/Row12	Cell5		numeric	11	
+1	AllocationTable/Row12	Cell6		numeric		
+1	AllocationTable/Row12	Cell7		numeric	11	
+1	AllocationTable/Row12	Cell8		numeric		
+1	AllocationTable/Row12	Cell9		numeric	12	
+1	AllocationTable/Row13	Cell1		text		
+1	AllocationTable/Row13	Cell2		text		
+1	AllocationTable/Row13	Cell3		text		
+1	AllocationTable/Row13	Cell4		numeric		
+1	AllocationTable/Row13	Cell5		numeric	11	
+1	AllocationTable/Row13	Cell6		numeric		
+1	AllocationTable/Row13	Cell7		numeric	11	
+1	AllocationTable/Row13	Cell8		numeric		
+1	AllocationTable/Row13	Cell9		numeric	12	
+1	AllocationTable/Row14	Cell1		text		
+1	AllocationTable/Row14	Cell2		text		
+1	AllocationTable/Row14	Cell3		text		
+1	AllocationTable/Row14	Cell4		numeric		
+1	AllocationTable/Row14	Cell5		numeric	11	
+1	AllocationTable/Row14	Cell6		numeric		
+1	AllocationTable/Row14	Cell7		numeric	11	
+1	AllocationTable/Row14	Cell8		numeric		
+1	AllocationTable/Row14	Cell9		numeric	12	

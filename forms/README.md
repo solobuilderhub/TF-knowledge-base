@@ -183,11 +183,27 @@ forms for Schedule 2 (line 280 and amount 1D) and Schedule 53 (lines 490 and
 590). Its first run found that line 590 was being filed after the year's
 eligible dividends instead of before them.
 
+Schedules now checked against the engine: 2, 3, 4, 7 and 53. What each run
+found:
+
+| Schedule | Lines checked | Found |
+|---|---|---|
+| 3 | 460, 465, 470 | agrees |
+| 2 | 280, amount 1D | agrees |
+| 53 | 490, 590 | **590 was filed after the year's eligible dividends** |
+| 4 | amount 1M, line 110 | **a loss created by section 112 dividends was never carried forward** |
+| 7 | 092, 745 | agrees |
+
+The parser reads 81 of the 185 line descriptions that state arithmetic, and
+227 of the 330 lettered amounts that do (69%); the lettered amounts are where
+most of each form's arithmetic is written.
+
 **To add a schedule**: hand `evaluateFromRules` the figures the engine was
-given, by line number; pin any figure the form computes with a rate (those are
-not parsed); name the line the engine's result corresponds to; assert they are
-equal. Schedules 3, 2 and 53 are done. Schedule 4 (the five loss pools) and
-Schedule 7 are the next ones whose rules parse.
+given, by line number or amount letter; pin any figure the form computes with a
+rate (those are not parsed); name the line the engine's result corresponds to;
+assert they are equal. Schedule 1 and Schedule 8 cannot be done this way:
+Schedule 1's descriptions state no arithmetic, and Schedule 8 is a grid whose
+cells have no description. They need a rendered-page reading instead.
 
 The rule-book adapter (emitting these rules in the AT1 rule-book row schema, so
 `knowledge-base/formulas/t2/<form>.md` exists like the AT1 pages) is not built.

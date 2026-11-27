@@ -10,3 +10,6 @@ Thumbs.db
 
 # Jev outputs (hold rule text sent to the API; regenerate with the scripts)
 tools/jev/out/
+
+# npm installs for tools (e.g. validation/auratax/*/tools)
+node_modules/

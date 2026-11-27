@@ -105,8 +105,9 @@ Each one is a render of the CRA PDF in this repo, not of AuraTax:
   errors.
 - **`t2/rates.json`,** AuraTax's rate table, against ours. It contains at least one error of
   its own: Ontario's small business rate is 0.32 for 2020–2022, where it should be 0.032.
-- **The calculation formulas.** They aren't in the data but in the app's code
-  (`main.*.js`, about 12 MB).
+- **The calculation formulas.** They aren't in the data but in the app's code.
+  They are now documented in
+  [`../2026-11-27-t2-calculation-formulas/`](../2026-11-27-t2-calculation-formulas/README.md).
 
 ## Contents
 

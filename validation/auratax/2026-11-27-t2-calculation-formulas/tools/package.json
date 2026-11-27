@@ -1,0 +1,9 @@
+{
+  "name": "auratax-t2-formulas",
+  "private": true,
+  "description": "Generates the AuraTax T2 formula register from the installed AuraTax desktop app",
+  "dependencies": {
+    "acorn": "8.19.0",
+    "acorn-walk": "8.3.5"
+  }
+}

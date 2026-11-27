@@ -42,7 +42,7 @@ import xml.etree.ElementTree as ET
 
 import pymupdf
 
-from formlib import EXTRACT_DIR, PDF_DIR
+from formlib import extract_path, pdf_files
 
 LINE_RE = re.compile(r"^\s*Line\s+(\d{3,4})\b", re.I)
 KINDS = {
@@ -139,18 +139,18 @@ def field_rows(template: str):
 
 def main() -> int:
     prefixes = sys.argv[1:]
-    pdfs = sorted(p for p in PDF_DIR.glob("*.pdf") if not prefixes or any(p.name.startswith(x) for x in prefixes))
+    pdfs = sorted(p for p in pdf_files() if not prefixes or any(p.name.startswith(x) for x in prefixes))
     if not pdfs:
         print("no PDFs matched", file=sys.stderr)
         return 1
-    EXTRACT_DIR.mkdir(exist_ok=True)
     for pdf in pdfs:
         template = xfa_template(pdf)
         if not template:
             print(f"{pdf.name:48s} flat PDF, no form template: skipped")
             continue
         rows = [r for r in field_rows(template) if r[4] != "button"]
-        out = EXTRACT_DIR / f"{pdf.stem}.fields.tsv"
+        out = extract_path(pdf.stem, ".fields.tsv")
+        out.parent.mkdir(parents=True, exist_ok=True)
         with out.open("w", encoding="utf-8", newline="") as f:
             w = csv.writer(f, delimiter="\t", lineterminator="\n")
             w.writerow(["page", "part", "field", "line", "kind", "digits", "speak"])

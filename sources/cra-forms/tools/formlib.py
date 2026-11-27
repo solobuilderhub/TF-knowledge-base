@@ -22,6 +22,43 @@ PDF_DIR = ROOT / "pdf"
 #: Everything derived from them. Regenerate freely; nothing here is hand-edited.
 EXTRACT_DIR = ROOT / "extracted"
 
+#: Category folders inside pdf/ and extracted/, by registry bucket
+#: (forms/registry.tsv). A form whose bucket has no folder here sits at the top
+#: of pdf/ and extracted/. The two trees mirror each other: a form's extracted
+#: files are in the same category folder as its PDF. To file forms after a
+#: registry change: python forms/file-by-category.py
+CATEGORY_DIRS = {
+    "core": "1-core",
+    "ccpc": "2-basic-ccpc",
+    "common": "3-common-additions",
+    "provincial": "4-provincial",
+    "specialized": "5-specialized",
+    # "retired" has no folder: CRA archived those forms and none is held.
+}
+
+
+def pdf_files(pattern: str = "*.pdf") -> list[Path]:
+    """Every PDF held whose file name matches `pattern`, in any category folder."""
+    return sorted(PDF_DIR.rglob(pattern))
+
+
+def pdf_path(stem: str) -> Path | None:
+    """The PDF a form's files are named after (`T2SCH07-aggregate-…`), wherever it is filed."""
+    hits = pdf_files(f"{stem}.pdf")
+    return hits[0] if hits else None
+
+
+def extract_path(stem: str, suffix: str) -> Path:
+    """Where a form's extracted file lives: beside its PDF's category folder.
+
+    `extract_path("T2SCH07-aggregate-…", ".lines.tsv")` is
+    `extracted/2-basic-ccpc/T2SCH07-aggregate-….lines.tsv` while the PDF is in
+    `pdf/2-basic-ccpc/`. Readers and writers both use it, so they agree.
+    """
+    pdf = pdf_path(stem)
+    folder = pdf.parent.relative_to(PDF_DIR) if pdf is not None else Path()
+    return EXTRACT_DIR / folder / f"{stem}{suffix}"
+
 # Back-compat for callers that still say HERE.
 HERE = ROOT
 
@@ -71,13 +108,13 @@ def _is_real_heading(title: str) -> bool:
 
 def layout_text(stem: str) -> str:
     """The `pdftotext -layout` output for a form, or empty if not extracted yet."""
-    path = EXTRACT_DIR / f"{stem}.layout.txt"
+    path = extract_path(stem, ".layout.txt")
     return path.read_text(encoding="latin-1") if path.exists() else ""
 
 
 def extracted_lines(stem: str) -> list[tuple[str, str]]:
     """The `(line, caption)` rows produced by `extract-lines.py`."""
-    path = EXTRACT_DIR / f"{stem}.lines.tsv"
+    path = extract_path(stem, ".lines.tsv")
     if not path.exists():
         return []
     return [
@@ -163,4 +200,4 @@ def strip_enumeration(caption: str) -> str:
 
 def form_stems() -> list[str]:
     """Every form that has been extracted, by file stem."""
-    return sorted(p.name.replace(".lines.tsv", "") for p in EXTRACT_DIR.glob("*.lines.tsv"))
+    return sorted(p.name.replace(".lines.tsv", "") for p in EXTRACT_DIR.rglob("*.lines.tsv"))

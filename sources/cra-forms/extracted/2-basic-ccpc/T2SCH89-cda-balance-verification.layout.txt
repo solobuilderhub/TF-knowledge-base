@@ -1,0 +1,393 @@
+                                                                                                                                                                                                Clear Data
+
+                                                                                                                                                                                                  Schedule 89
+                                                                                                                                                                                                   Protected B
+                                                                                                                                                                                                when completed
+
+                            Request for Capital Dividend Account Balance Verification
+
+· If you are a private corporation, use this schedule to summarize the components making up your capital dividend account (CDA) balance as of the date
+
+  you specify below, on line 003.
+
+· You can file this schedule electronically at canada.ca/cra-special-elections-and-returns or mail one completed copy of this schedule, separately from
+
+  any other return, to:
+
+  Prince Edward Island Tax Centre
+  275 Pope Road
+  Summerside PE C1N 6A2
+
+· Unless otherwise stated, all legislative references are to the current version of the Income Tax Act. Since CDA balance components can span several
+
+  years, the current references in the Act may not apply to older components of your CDA balance. In these cases, see the version of the Act that applies for
+  that particular year.
+
+· For specific details about calculating the CDA balance, see the applicable legislation in the Act.
+· All references to paragraphs in subsection 89(1) of the Act are under the definition of capital dividend account.
+
+· If you are paying out a capital dividend from your CDA, you must first file Form T2054, Election for a Capital Dividend Under Subsection 83(2). If a capital
+
+  dividend paid under this election exceeds the balance of the CDA at the time the dividend becomes payable, you may have to pay Part III tax on the
+  excess dividend (see section 184 of the Act).
+
+   Part 1 - Identification                                               001 Business number
+
+002 Corporation's name                                                                                                                                                                          RC
+Address
+                            City                                         Province or territory                                                                                                  Postal code
+
+019 Name of contact person  024 Name of firm                             022 Telephone number                                                                                                   023 Extension
+
+                                                                                                                                                                                           Year Month Day
+
+Capital dividend account balance as of . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 003             Yes      No
+
+Tick yes for only one of the following two questions:                                                                                                                                      Yes      No
+Is this a balance verification request? Tick yes only if this request does not relate to a Form T2054,
+mentioned at line 005 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 004
+(if yes, the date on line 003 should be the last tax year-end, included in the CDA balance)
+
+Is this request related to the requirements of subsection 89(1) for Form T2054? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 005
+(if yes, the date on line 003 should be the earlier of the date the dividend became payable, or the first day on which any
+part of the dividend was paid)
+
+T2 SCH 89 E (26)            (Ce formulaire est disponible en français.)  Page 1 of 6
+                                                                                                                                                                                                                                                                   Clear Data
+                                                                                                                                                                                                                     Protected B when completed
+
+Part 2A - CDA components (except for eligible capital property) from predecessor corporations (for amounts after July 13, 1990) 1 and 2
+
+    Complete this part of the schedule only if you have any predecessor balances to report. If you do not have any predecessor balances, proceed to Part 2B.
+
+                             1                                    2                3                      4                     5                   6                      7                      8                     9
+                      Predecessor                     Amalgamation date      Non-taxable         Capital dividends    Net proceeds of a   Non-taxable portion   Capital dividends from    Foreign affiliate   Capital dividends
+                  business number 3                                        portion of capital                                                                                             repatriation per
+                                                         (YYYYMMDD)                                 received per         life insurance     of capital gains          a trust per       paragraph 89(1)(h) 7     payable per
+                                                                                 gains          paragraph 89(1)(b) 5       policy per      from a trust before  paragraph 89(1)(g) 6                          subsection 83(2)
+                                                                082          (including the                                               September 16, 2016
+                                                                          non-taxable portion                         paragraph 89(1)(d)                                                                              094
+                                                                         of capital gains from                                                     per
+                                                                              a trust after                                   088         paragraph 89(1)(f) 6
+                                                                         September 15, 2016)
+                                                                          and non-deductible
+                                                                           portion of capital
+
+                                                                               losses per
+                                                                         paragraph 89(1)(a) 4
+
+                  080                                                    084                    086                                       090                   092                     093
+
+1                      RC
+
+2                      RC
+
+3                      RC
+
+4                      RC
+
+5                      RC
+
+6                      RC
+
+7                      RC
+
+8                      RC
+
+9                      RC
+
+10                     RC
+
+11                     RC
+
+12                     RC
+
+                                                      Totals
+
+If you need more space, attach additional schedules.
+
+1 For eligible capital property, see parts 3 and 7.
+
+2 The CDA balance may be reduced to nil immediately before the dates referred to in those provisions, if you were:
+
+  · a private corporation under non-resident control that became Canadian controlled as per subsection 89(1.1)
+  · or a tax-exempt corporation that became taxable as per subsection 89(1.2)
+
+3 For amalgamations and wind-ups that happened after July 13, 1990, list the total amount of each CDA component for every predecessor corporation. A negative balance in a component of a CDA of a
+  predecessor corporation must be included in the CDA of the successor or parent corporation. If the balance of a predecessor corporation does not match the amounts reported in "My Business Account,"
+  include a separate CDA calculation on a separate schedule.
+
+4 Along with applicable losses, include the non-deductible portion of a business investment loss here. Show losses as a negative.
+
+5 Capital dividends received may be adjusted by an excessive dividend election under subsection 184(3). Exclude a dividend that subsection 83(2.1) applies to.
+
+6 The amounts that can be added to the CDA of the corporation in a particular tax year, in respect of amounts received by the corporation, from a trust and that are attributable to capital gains realized by
+  the trust or to dividends received and distributed by a trust, can only be determined after the end of the taxation year of the trust in which the capital gains were realized or the dividends were received
+  and distributed by it.
+
+7 Enter the after-tax earnings that are repatriated to a corporation from its foreign affiliates. To support these earnings, you need to demonstrate: (1) the amount of earnings, (2) that foreign tax has been
+  paid, and (3) that funds were actually distributed/repatriated.
+
+T2 SCH 89 E (26)                                                                                                                                                                                              Page 2 of 6
+                                                                                                                                                                                                    Clear Data
+                                                                                                                                                                                 Protected B when completed
+
+Part 2B - CDA components (except for eligible capital property) for the filing corporation 8 and 9
+
+          1                                                         2                                3                    4                    5                       6                    7                   8
+Tax year-end or                                       Non-taxable portion of              Capital dividends    Net proceeds of a        Non-taxable         Capital dividends      Foreign affiliate  Capital dividends
+                                      capital gains (including the non-taxable portion                                               portion of capital                            repatriation per
+  relevant date                                of capital gains from a trust after              received          life insurance     gains from a trust         from a trust     paragraph 89(1)(h)      payable per
+(YYYYMMDD) 10                                       September 15, 2016) and                         per                policy                                         per                             subsection 83(2)
+                                        non-deductible portion of capital losses per                                     per                before                                              14
+                                                      paragraph 89(1)(a) 11             paragraph 89(1)(b) 12                      September 16, 2016     paragraph 89(1)(g) 13
+                                                                                                               paragraph 89(1)(d)
+                                                                                                                                              per
+                                                                                                                                   paragraph 89(1)(f) 13
+
+100                                   110                                               120                    130                 140                    150                    155                  160
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+
+                              Totals
+
+If you need more space, attach additional schedules.
+
+8 For eligible capital property, see parts 3 and 7.
+
+9 The CDA balance may be reduced to nil immediately before the dates referred to in those provisions if you were:
+
+  · a private corporation under non-resident control that became Canadian controlled as per subsection 89(1.1)
+
+  · or a tax-exempt corporation that became taxable as per subsection 89(1.2)
+
+10 Include as many tax years as required. Start your list with the tax year that began after the corporation last became a private corporation and ended after 1971. End your list on the CDA balance date
+   shown on line 003. If you are completing this schedule before your tax year-end, enter the relevant date of the activity.
+
+11 Along with applicable losses, include the non-deductible portion of a business investment loss here. Show losses as a negative.
+
+12 Capital dividends received may be adjusted by an excessive dividend election under subsection 184(3). Exclude a dividend that subsection 83(2.1) applies to.
+
+13 The amounts that can be added to the CDA of the corporation in a particular tax year, in respect of amounts received by the corporation, from a trust and that are attributable to capital gains realized by
+   the trust or to dividends received and distributed by a trust, can only be determined after the end of the taxation year of the trust in which the capital gains were realized or the dividends were received
+   and distributed by it.
+
+14 Enter the after-tax earnings that are repatriated to a corporation from its foreign affiliates. To support these earnings, you need to demonstrate: (1) the amount of earnings, (2) that foreign tax has been
+    paid, and (3) that funds were actually distributed/repatriated.
+
+T2 SCH 89 E (26)                                                                                                                                                                                      Page 3 of 6
+                                                                                                                                         Clear Data
+                                                                                                                      Protected B when completed
+
+  Part 3 - CDA components - Eligible capital property (ECP)
+
+Record in these tables the most common amounts included in the eligible capital property (ECP) component of the CDA.
+This information is not meant to replace the calculation at line 400 in Part 7.
+
+Section A: CDA components - List of ECP acquisitions and dispositions
+(for tax years ending before February 28, 2000)
+
+Tax year-end           Cost of eligible capital       Proceeds of sale (minus outlays
+(YYYYMMDD)               property acquired               and expenses not otherwise
+
+                                                      deductible) from the disposition
+                                                        of all eligible capital property
+
+                  200  210                                                 220
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+If you need more space, attach additional schedules.
+
+Section B: CDA components - List of ECP dispositions
+(for tax years ending after February 27, 2000 and before January 1, 2018)
+
+Tax year-end           Cost of eligible capital       Proceeds of sale (minus outlays         Appropriate portion of the
+(YYYYMMDD)               property acquired               and expenses not otherwise       amount deducted as a bad debt
+                                                                                          per subsection 20(4.2) or as an
+                                                      deductible) from the disposition
+                                                        of all eligible capital property         allowable capital loss
+                                                                                               per subsection 20(4.3).
+
+                  250  261                                                 262            270
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+If you need more space, attach additional schedules.
+
+T2 SCH 89 E (26)                                                                                                           Page 4 of 6
+                                                                                                                                                                                                 Clear Data
+                                                                                                                                                          Protected B when completed
+
+  Part 4 - Additional information - Capital dividends received from a corporation
+
+For each capital dividend received, as recorded in column 4 in Part 2A and column 3 in Part 2B, give the name and business number of the corporation that
+paid the capital dividend and the date the dividend became payable.
+
+                  Corporation's name                                         Business number       Date the dividend
+                                                                                                   became payable
+                                                                                                     (YYYYMMDD)
+
+                  300                                                        310                   320
+
+1                                                                                 RC
+
+2                                                                                 RC
+
+3                                                                                 RC
+
+4                                                                                 RC
+
+5                                                                                 RC
+
+6                                                                                 RC
+
+7                                                                                 RC
+
+8                                                                                 RC
+
+9                                                                                 RC
+
+10                                                                                RC
+
+11                                                                                RC
+
+12                                                                                RC
+
+13                                                                                RC
+
+14                                                                                RC
+
+15                                                                                RC
+
+If you need more space, attach additional schedules.
+
+  Part 5 - Additional information - Capital dividends received from a trust
+
+For each capital dividend received, as recorded in column 7 in Part 2A and column 6 in Part 2B, give the name and trust number of the trust that paid the
+capital dividend and the date the dividend became payable.
+
+                       Trust's name                                          Trust account number  Date the dividend
+                                                                                                   became payable
+                                                                                                     (YYYYMMDD)
+
+                                                                   330            335              340
+
+1
+2
+3
+4
+5
+If you need more space, attach additional schedules.
+
+T2 SCH 89 E (26)                                                                                   Page 5 of 6
+                                                                                                                                                          Clear Data
+                                                                                                                                       Protected B when completed
+
+  Part 6 - Additional information - Life insurance
+
+Provide the following information if the CDA balance is to include net life insurance proceeds.
+
+Attach a letter from the insurance company stating whether the life insurance policy was taxable or non-taxable.
+
+Policy 1:
+
+350 Name of insured individual                                351 Name of beneficiary
+
+352 Policy number               353 Adjusted cost base (ACB)  354 Total net proceeds received                                         355 Policy redemption date
+
+                                                                                                                                                                                                             Year  Month Day
+
+Policy 2:                       363 Adjusted cost base (ACB)  361 Name of beneficiary                                                 365 Policy redemption date
+360 Name of insured individual                                364 Total net proceeds received
+
+362 Policy number
+
+                                                                                                                                                                                                             Year  Month Day
+
+Part 7 - CDA balance
+
+Include the non-taxable portion of capital gains (including the non-taxable portion of capital gains from a trust after September 15,
+
+2016) and the non-deductible portion of capital losses (total of column 3 in Part 2A plus total of column 2 in Part 2B; if negative,                                                                               7A
+
+enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Capital dividends received (total of column 4 in Part 2A plus total of column 3 in Part 2B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                    7B
+
+Eligible capital property for tax years ending before January 1, 2018 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+(as calculated per former paragraphs 89(1)(c), (c.1) and (c.2); if negative, enter "0")
+
+Life insurance proceeds (total of column 5 in Part 2A plus total of column 4 in Part 2B; if negative, enter "0") . . . . . . . . . . . . . . . . . . .                                                             7C
+
+Life insurance CDA 15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 410
+
+Non-taxable portion of capital gains from a trust before September 16, 2016 (total of column 6 in Part 2A plus total of column 5 in                                                                                7D
+
+Part 2B). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Capital dividends from a trust (total of column 7 in Part 2A plus total of column 6 in Part 2B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                    7E
+
+Amounts from predecessor and subsidiary corporations 16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 420
+(For amalgamations and wind-ups that happened before July 14, 1990 only)
+
+Foreign affiliate repatriation (total of column 8 in Part 2A plus total of column 7 in Part 2B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                  7F
+
+                                                              Subtotal (add amounts 7A to 7F and lines 400 to 420)                                                                                                 7G
+
+Capital dividends that previously became payable (total of column 9 in Part 2A plus total of column 8 in Part 2B) . . . . . . . . . . . . . . . .                                                                  7H
+
+CDA balance (amount 7G minus amount 7H; if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 430
+
+15 Include the balance of the corporation's life insurance CDA immediately before May 24, 1985, in accordance with paragraph 89(1)(e). For more
+   information, see paragraphs 1.61 and 1.62 of Income Tax Folio S3-F2-C1, Capital Dividends.
+
+16 For amalgamations and wind-ups that happened before July 14, 1990, calculate the CDA balance of each predecessor or wound-up subsidiary
+   corporation separately. Add these CDA balances to the CDA of the successor or parent corporation. Do not carry forward negative amounts, since these
+   are considered to be nil.
+
+  For amalgamations and wind-ups that happened after July 13, 1990, refer to part 2A above.
+
+  · For amalgamations, see paragraph 87(2)(z.1).
+  · For wind-ups, see paragraph 88(1)(e.2).
+
+  Privacy notice
+
+Personal information is collected and used to administer or enforce the Income Tax Act and related programs and activities including administering tax,
+benefits, audit, compliance, and collection. The information collected may be disclosed to other federal, provincial, territorial, aboriginal, or foreign government
+institutions to the extent authorized by law. Failure to provide this information may result in paying interest or penalties, or in other actions. Under the Privacy
+Act, individuals have a right of protection, access to and correction of their personal information, and to file a complaint with the Privacy Commissioner of
+Canada regarding the handling of their personal information. Refer to Personal Information Bank CRA PPU 047 on Info Source at canada.ca/cra-info-source.
+
+T2 SCH 89 E (26)                                                                                                                                                                                                   Page 6 of 6
+

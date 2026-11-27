@@ -23,8 +23,9 @@ USAGE
     python extract-lines.py            # every T2SCH*.pdf here
     python extract-lines.py T2SCH01*   # a subset
 
-Writes `<stem>.lines.tsv` (line<TAB>caption) and `<stem>.layout.txt` beside each
-PDF. Both are checked in: the PDFs are the primary source, these are the derived
+Writes `<stem>.lines.tsv` (line<TAB>caption) and `<stem>.layout.txt` into
+extracted/, in the same category folder as the PDF (formlib.extract_path). PDFs
+are found in any category folder. Both outputs are checked in: the PDFs are the primary source, these are the derived
 tables the engine and the interface read, and a diff on them is reviewable.
 """
 
@@ -35,7 +36,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-from formlib import EXTRACT_DIR, PDF_DIR, clean_caption, strip_enumeration
+from formlib import EXTRACT_DIR, clean_caption, extract_path, pdf_files, strip_enumeration
 
 # A caption, its dot leaders, then the line number. The leaders are what make
 # this unambiguous — they only ever appear between a caption and its number.
@@ -87,7 +88,8 @@ def is_continuation(raw: str) -> bool:
 
 
 def extract(pdf: Path) -> list[tuple[str, str]]:
-    layout = EXTRACT_DIR / f"{pdf.stem}.layout.txt"
+    layout = extract_path(pdf.stem, ".layout.txt")
+    layout.parent.mkdir(parents=True, exist_ok=True)
     subprocess.run(
         ["pdftotext", "-layout", str(pdf), str(layout)],
         check=True,
@@ -129,7 +131,7 @@ def extract(pdf: Path) -> list[tuple[str, str]]:
 def main() -> int:
     EXTRACT_DIR.mkdir(exist_ok=True)
     patterns = sys.argv[1:] or ["T2SCH*.pdf"]
-    pdfs = sorted({p for pat in patterns for p in PDF_DIR.glob(pat)})
+    pdfs = sorted({p for pat in patterns for p in pdf_files(pat)})
     if not pdfs:
         print("no PDFs matched", file=sys.stderr)
         return 1
@@ -137,7 +139,7 @@ def main() -> int:
     total = 0
     for pdf in pdfs:
         rows = extract(pdf)
-        out = EXTRACT_DIR / f"{pdf.stem}.lines.tsv"
+        out = extract_path(pdf.stem, ".lines.tsv")
         out.write_text(
             "line\tcaption\n" + "\n".join(f"{n}\t{c}" for n, c in rows) + "\n",
             encoding="utf8",

@@ -13,7 +13,10 @@ adding or replacing a form are in [`../../forms/README.md`](../../forms/README.m
 ```
 pdf/         the primary documents, exactly as CRA publishes them.
              Written only by tools/fetch-form.sh, and never over an existing file.
+             Filed by bucket: 1-core/, 2-basic-ccpc/, 3-common-additions/,
+             4-provincial/, 5-specialized/ (../../forms/README.md, "Category folders").
 extracted/   everything derived from them. Regenerate freely; never hand-edited.
+             A form's files sit in the same category folder as its PDF.
                <form>.layout.txt   pdftotext -layout
                <form>.lines.tsv    line, caption: the page read as text
                <form>.fields.tsv   the fillable form's own field list, with
@@ -34,7 +37,7 @@ The individual tools, when one step is wanted on its own:
 
 ```bash
 cd sources/cra-forms/tools
-./fetch-form.sh t2sch9 ../pdf/T2SCH09-related-associated.pdf
+./fetch-form.sh t2sch9 ../pdf/2-basic-ccpc/T2SCH09-related-associated.pdf
 python extract-lines.py       # pdf/ -> extracted/*.lines.tsv
 python extract-jacket.py      # the T2 jacket, which needs its own reader
 python extract-xfa.py         # pdf/ -> extracted/*.fields.tsv

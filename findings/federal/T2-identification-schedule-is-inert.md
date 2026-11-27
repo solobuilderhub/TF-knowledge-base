@@ -42,7 +42,7 @@ What was genuinely still missing, now fixed:
   "final year BEFORE amalgamation"), `addressChanged` was tagged 063 (really
   `acquisitionOfControl`'s line). Corrected all of them against the same
   rendered-PDF citations already verified for
-  `identification-form-view.tsx`/`identification.ts` (`research/sources/cra-forms/pdf/T2-jacket.pdf`
+  `identification-form-view.tsx`/`identification.ts` (`research/sources/cra-forms/pdf/1-core/T2-jacket.pdf`
   pages 1-2), and added the two that had no citation at all
   (`acquisitionOfControl` → 063, `relatedCorporations` → 150).
 - **`corpType` is deliberately NOT wired**, and the guided-editor field was
@@ -142,7 +142,7 @@ a paper Form View for a different, narrower purpose.
 
 `schedule-identification-form-view.tsx` (federal T2 jacket page 1
 identification/attachments block — the printed lines were verified directly
-against the rendered PDF, `research/sources/cra-forms/pdf/T2-jacket.pdf`
+against the rendered PDF, `research/sources/cra-forms/pdf/1-core/T2-jacket.pdf`
 pages 1-2, NOT the raw text extraction, which is unreliable there — see the
 component's own doc comment) shows the fields with CORRECTED line-number
 citations (several of `identification.ts`'s original citations were also

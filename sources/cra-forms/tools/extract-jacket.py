@@ -43,7 +43,7 @@ import sys
 
 import fitz
 
-from formlib import EXTRACT_DIR, PDF_DIR, clean_caption
+from formlib import PDF_DIR, clean_caption, extract_path, pdf_path
 
 #: A number to the left of this is printed inside a caption, not a field box.
 LINE_BOX_MIN_X = 340.0
@@ -97,21 +97,23 @@ def extract(path) -> tuple[list[tuple[str, str, int]], list[tuple[str, str]]]:
 
 
 def main() -> int:
-    pdf = PDF_DIR / "T2-jacket.pdf"
-    if not pdf.exists():
-        print(f"not found: {pdf}", file=sys.stderr)
+    pdf = pdf_path("T2-jacket")
+    if pdf is None:
+        print(f"not found: T2-jacket.pdf under {PDF_DIR}", file=sys.stderr)
         return 1
+    layout = extract_path("T2-jacket", ".layout.txt")
+    layout.parent.mkdir(parents=True, exist_ok=True)
 
     # Keep the plain layout text current too. Nothing here reads it, but the
     # coverage check in ca-tax looks in it for every line number a definition
     # carries, and a layout left over from an earlier revision fails that check
     # for every line the reprint added.
     subprocess.run(
-        ["pdftotext", "-layout", str(pdf), str(EXTRACT_DIR / "T2-jacket.layout.txt")], check=True
+        ["pdftotext", "-layout", str(pdf), str(layout)], check=True
     )
 
     rows, dropped = extract(pdf)
-    out = EXTRACT_DIR / "T2-jacket.lines.tsv"
+    out = extract_path("T2-jacket", ".lines.tsv")
     out.write_text(
         "line\tcaption\tpage\n" + "\n".join(f"{n}\t{c}\t{p}" for n, c, p in rows) + "\n",
         encoding="utf8",

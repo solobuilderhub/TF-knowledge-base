@@ -27,7 +27,7 @@ tracking (confirmed: no matches in `federal-t2.ts`). Unblocked when canada.ca
 (previously 403/timeout via both `WebFetch` and raw `curl`) turned out
 reachable again on re-test — `WebFetch` on `canada.ca/.../forms/t2sch12.html`
 now succeeds. Downloaded the real form
-(`research/sources/cra-forms/pdf/T2SCH12-resource-related-deductions.pdf`,
+(`research/sources/cra-forms/pdf/5-specialized/T2SCH12-resource-related-deductions.pdf`,
 T2 SCH 12 E (26)), rendered all 9 pages, read each Part directly (not via
 `pdftotext`, which misaligns grid-shaped forms elsewhere in this codebase).
 

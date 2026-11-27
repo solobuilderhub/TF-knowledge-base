@@ -1,0 +1,16 @@
+line	caption
+275	Pope Rd
+002	Corporation's name RC
+019	Name of contact person 024 Name of firm (if applicable) 022 Telephone number 023 Extension
+100	Year Month Day The full amount of the dividend for which this election is made 1
+110	CDA immediately before this dividend becomes payable 2
+120	Date the dividend becomes payable
+130	First day on which any part of the dividend was paid (enter only if earlier than the date the dividend becomes payable)
+140	Date of the last election (if applicable)
+150	Has there been an acquisition of control since the date of the last election?
+350	Name of insured individual 351 Name of beneficiary
+352	Policy number 353 Adjusted cost basis (ACB) 354 Total net proceeds received 355 Policy redemption date
+360	Name of insured individual 364 Total net proceeds received
+362	Policy number
+320	Late-filing penalty (amount 8C or amount 8D, whichever is less)
+400	Total payment accompanying this election

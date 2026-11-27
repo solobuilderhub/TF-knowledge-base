@@ -60,7 +60,7 @@ research/
 | Task | Read first |
 |---|---|
 | Which forms exist, and what is built | `forms/STATUS.md`; the bucket of a form is in `forms/registry.tsv` |
-| Implementing a T2 schedule | `forms/README.md` for the chain, then `sources/cra-forms/extracted/<form>.fields.tsv` (CRA's own description of every box, with its arithmetic) and the PDF itself. In ca-tax, `npx tsx scripts/form-coverage.mts` shows what a definition is missing |
+| Implementing a T2 schedule | `forms/README.md` for the chain, then `sources/cra-forms/extracted/[<category>/]<form>.fields.tsv` (CRA's own description of every box, with its arithmetic) and the PDF itself. In ca-tax, `npx tsx scripts/form-coverage.mts` shows what a definition is missing |
 | A CRA form was reprinted | `forms/README.md`, "Keeping it current" |
 | Implementing an AT1 schedule | `knowledge-base/formulas/at1/<form>.md` — every line's rule verbatim, with its spec page (generated; see `tools/rulebook/`) — then the matching `field-maps/at1-*.md` |
 | A number looks wrong | `sources/legislation/` — go to the regulation, not to a summary |

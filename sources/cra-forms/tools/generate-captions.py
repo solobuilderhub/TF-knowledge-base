@@ -33,7 +33,7 @@ import csv
 import re
 import sys
 
-from formlib import ROOT as FORMS_ROOT, extracted_lines, layout_text, page_of_line, part_of_line
+from formlib import ROOT as FORMS_ROOT, extracted_lines, layout_text, page_of_line, part_of_line, pdf_path
 
 ROOT = FORMS_ROOT.parents[2]
 DEST_DIR = ROOT / "packages" / "ca-tax" / "src" / "t2" / "forms" / "generated"
@@ -76,9 +76,9 @@ _INSTANCE_RE = re.compile(r"\s*(?:(?:Row|Instance|Column) \d+\.?|Yes\.?|No\.?)\s
 
 def field_captions(stem: str) -> dict[str, tuple[str, int]]:
     """line -> (CRA's description of the box, page), from `<stem>.fields.tsv`."""
-    from formlib import EXTRACT_DIR
+    from formlib import extract_path
 
-    path = EXTRACT_DIR / f"{stem}.fields.tsv"
+    path = extract_path(stem, ".fields.tsv")
     out: dict[str, tuple[str, int]] = {}
     if not path.exists():
         return out
@@ -103,9 +103,9 @@ def lettered_amounts(stem: str) -> dict[str, tuple[str, int]]:
     "Instance 2" bare, where it is carried to the next column). The fuller
     description is kept.
     """
-    from formlib import EXTRACT_DIR
+    from formlib import extract_path
 
-    path = EXTRACT_DIR / f"{stem}.fields.tsv"
+    path = extract_path(stem, ".fields.tsv")
     out: dict[str, tuple[str, int]] = {}
     if not path.exists():
         return out
@@ -133,7 +133,7 @@ def emitted_forms() -> set[str]:
     """
     registry = FORMS_ROOT.parents[1] / "forms" / "registry.tsv"
     if not registry.exists():
-        return {t.name.split("-")[0].upper() for t in (FORMS_ROOT / "extracted").glob("*.tsv")}
+        return {t.name.split("-")[0].upper() for t in (FORMS_ROOT / "extracted").rglob("*.tsv")}
     out: set[str] = set()
     with registry.open(encoding="utf-8", newline="") as f:
         for row in csv.DictReader(f, delimiter="	"):
@@ -149,8 +149,8 @@ def main() -> int:
     wanted = sys.argv[1:]
     from formlib import EXTRACT_DIR
     stems = sorted(
-        {t.name.replace(".lines.tsv", "") for t in EXTRACT_DIR.glob("*.lines.tsv")}
-        | {t.name.replace(".fields.tsv", "") for t in EXTRACT_DIR.glob("*.fields.tsv")}
+        {t.name.replace(".lines.tsv", "") for t in EXTRACT_DIR.rglob("*.lines.tsv")}
+        | {t.name.replace(".fields.tsv", "") for t in EXTRACT_DIR.rglob("*.fields.tsv")}
     )
     if wanted:
         stems = [t for t in stems if any(w in t for w in wanted)]
@@ -187,7 +187,9 @@ def main() -> int:
 
         name = camel(stem)
         const = f"{name.upper().replace('SCHEDULE', 'SCHEDULE_')}_CAPTIONS"
-        pdf_rel = f"research/sources/cra-forms/pdf/{stem}.pdf"
+        held = pdf_path(stem)
+        where = held.relative_to(FORMS_ROOT).as_posix() if held is not None else f"pdf/{stem}.pdf"
+        pdf_rel = f"research/sources/cra-forms/{where}"
         form_id = FORM_IDS.get(key, key)
 
         out = [

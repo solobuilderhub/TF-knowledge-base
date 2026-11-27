@@ -7,10 +7,10 @@ CRA's list captured 2026-11-26 from https://www.canada.ca/en/revenue-agency/serv
 | Bucket | Forms | Primary document held | In ca-tax |
 |---|---|---|---|
 | 1 - Core (every return) | 8 | 8 | 5 |
-| 2 - Basic CCPC | 19 | 19 | 12 |
-| 3 - Common additions | 21 | 17 | 8 |
+| 2 - Basic CCPC | 19 | 19 | 13 |
+| 3 - Common additions | 19 | 12 | 5 |
 | 4 - Provincial | 97 | 97 | 16 |
-| 5 - Specialized | 36 | 1 | 1 |
+| 5 - Specialized | 40 | 8 | 3 |
 | Retired by the authority (archived) | 30 | 0 | 0 |
 
 Lines column: line numbers found by the text extractor / by the fillable form's own fields / by both.
@@ -23,9 +23,9 @@ A form where the two disagree widely is a grid form: its numbers are column head
 | T183CORP | Information Return for Corporations Filing Electronically | FED | yes |  | 2024-11-22 |  |  |  |  |
 | T2 | Corporation Income Tax Return | FED | yes |  | 2026-10-14 | 173 / 223 / 168 | yes | jacket.ts | part1-tax.ts |
 | T2SCH1 | Net Income (Loss) for Income Tax Purposes | FED | yes | T2 SCH 1 E (25) | 2025-05-14 | 117 / 117 / 117 | yes | schedule1.ts | schedule1.ts |
-| T2SCH50 | Shareholder Information | FED | yes | T2 SCH 50 E (19) | 2020-01-31 | 0 / 6 / 0 | yes | schedule50.ts |  |
+| T2SCH5 | Tax Calculation Supplementary - Corporations | FED | yes |  | 2026-11-17 | 160 / 153 / 153 | yes | schedule5.ts | schedule5-allocation.ts, schedule5-provincial.ts |
+| T2SCH50 | Shareholder Information | FED | yes | T2 SCH 50 E (19) | 2020-01-31 | 0 / 6 / 0 |  | schedule50.ts |  |
 | T2SCH100 | Balance Sheet Information | FED | yes | T2 SCH 100 E (20) | 2021-01-26 | 2 / 0 / 0 | yes |  |  |
-| T2SCH101 | Opening Balance Sheet Information | FED | yes | T2 SCH 101 E (20) | 2021-01-26 | 2 / 0 / 0 | yes |  | schedule101-first-return.ts |
 | T2SCH125 | Income Statement Information | FED | yes | T2 SCH 125 E (23) | 2023-08-23 | 4 / 3 / 0 | yes |  |  |
 | T2SCH141 | General Index of Financial Information (GIFI) - Additional Information | FED | yes | T2 SCH 141 E (23) | 2023-08-23 | 32 / 36 / 32 | yes | schedule141.ts |  |
 
@@ -33,51 +33,49 @@ A form where the two disagree widely is a grid form: its numbers are column head
 
 | Form | Title | Where | PDF held | Revision | CRA updated | Lines (text / fields / both) | Captions | Form definition | Engine |
 |---|---|---|---|---|---|---|---|---|---|
+| T2054 | Election for a Capital Dividend Under Subsection 83(2) | FED | yes |  | 2025-03-24 | 15 / 48 / 14 |  |  |  |
 | T2SCH2 | Charitable Donations and Gifts | FED | yes | T2 SCH 2 E (23) | 2023-11-27 | 28 / 38 / 28 | yes | schedule2.ts | schedule2-donations.ts |
-| T2SCH3 | Dividends Received, Taxable Dividends Paid, and Part IV Tax Calculatio | FED | yes | T2 SCH 3 E (26) | 2026-11-17 | 27 / 44 / 27 | yes | schedule3.ts | schedule3-dividends-paid.ts, schedule3-part4-rdtoh.ts |
+| T2SCH3 | Dividends Received, Taxable Dividends Paid, and Part IV Tax Calculatio | FED | yes | T2 SCH 3 E (26) | 2026-11-17 | 27 / 44 / 27 | yes | schedule3.ts | schedule3-part4-rdtoh.ts |
 | T2SCH4 | Corporation Loss Continuity and Application | FED | yes | T2 SCH 4 E (25) | 2025-05-29 | 64 / 88 / 64 | yes | schedule4.ts | schedule4-losses.ts |
-| T2SCH5 | Tax Calculation Supplementary - Corporations | FED | yes |  | 2026-11-17 | 160 / 153 / 153 | yes | schedule5.ts | schedule5-allocation.ts, schedule5-provincial.ts |
 | T2SCH6 | Summary of Dispositions of Capital Property | FED | yes | T2 SCH 6 E (24) | 2025-02-11 | 12 / 61 / 12 | yes | schedule6.ts | schedule6-capital-gains.ts |
 | T2SCH7 | Aggregate Investment Income and Income Eligible for the Small Business | FED | yes | T2 SCH 7 E (26) | 2026-11-06 | 40 / 70 / 40 | yes | schedule7.ts | schedule7.ts |
 | T2SCH8 | Capital Cost Allowance (CCA) | FED | yes | T2 SCH 8 E (26) | 2026-05-25 | 1 / 1 / 0 |  | schedule8.ts | schedule8.ts |
-| T2SCH9 | Related and Associated Corporations | FED | yes |  | 2011-10-03 | 1 / 0 / 0 | yes |  |  |
-| T2SCH11 | Transactions with Shareholders, Officers or Employees | FED | yes |  | 2001-06-15 | 0 / 1 / 0 | yes |  |  |
+| T2SCH9 | Related and Associated Corporations | FED | yes |  | 2011-10-03 | 1 / 0 / 0 |  |  |  |
+| T2SCH11 | Transactions with Shareholders, Officers or Employees | FED | yes |  | 2001-06-15 | 0 / 1 / 0 |  |  |  |
 | T2SCH13 | Continuity of Reserves | FED | yes | T2 SCH 13 E (22) | 2022-05-02 | 3 / 0 / 0 |  | schedule13.ts | schedule13-reserves.ts |
 | T2SCH14 | Miscellaneous Payments to Residents | FED | yes | T2 SCH 14 E (99) | 2000-01-12 |  |  |  |  |
 | T2SCH15 | Deferred Income Plans | FED | yes | T2 SCH 15 E (13) | 2014-01-24 |  |  |  |  |
 | T2SCH23 | Agreement Among Associated Canadian-Controlled Private Corporations to | FED | yes | T2 SCH 23 E (19) | 2019-12-03 | 4 / 3 / 3 | yes | schedule23.ts | schedule23-associated.ts |
 | T2SCH24 | First-time Filer After Incorporation, Amalgamation or Winding-up of a  | FED | yes | T2 SCH 24 E (23) | 2024-03-14 | 1 / 7 / 1 | yes | schedule24.ts |  |
-| T2SCH28 | Election not to be Associated Through a Third Corporation | FED | yes | T2 SCH 28 E (18) | 2018-06-21 | 3 / 7 / 3 | yes |  |  |
-| T2SCH44 | Non-Arm's Length Transactions | FED | yes | T2 SCH 44 E (07) | 2007-02-26 | 1 / 0 / 0 | yes |  |  |
-| T2SCH49 | Agreement Among Associated Canadian-Controlled Private Corporations to | FED | yes | T2 SCH 49 E (26) | 2026-05-29 | 3 / 9 / 3 | yes |  |  |
 | T2SCH53 | General Rate Income Pool (GRIP) Calculation | FED | yes | T2 SCH 53 E (22) | 2023-02-23 | 19 / 20 / 19 | yes | schedule53.ts | schedule53-grip.ts |
-| T2SCH55 | Part III.1 Tax on Excessive Eligible Dividend Designations | FED | yes | T2 SCH 55 E (19) | 2020-02-28 | 8 / 8 / 8 | yes | schedule55.ts | schedule55-part3-1.ts |
+| T2SCH54 | Low Rate Income Pool (LRIP) Calculation | FED | yes | T2 SCH 54 E (24) | 2024-12-23 | 10 / 18 / 10 | yes |  | schedule54-lrip.ts |
+| T2SCH88 | Internet Business Activities | FED | yes | T2 SCH 88 E (20) | 2021-01-27 |  |  |  | schedule88-internet.ts |
+| T2SCH89 | Request for Capital Dividend Account Balance Verification | FED | yes | T2 SCH 89 E (26) | 2026-11-03 | 14 / 55 / 13 |  |  |  |
+| T2SCH101 | Opening Balance Sheet Information | FED | yes | T2 SCH 101 E (20) | 2021-01-26 | 2 / 0 / 0 |  |  | schedule101-first-return.ts |
 
 ## 3 - Common additions
 
 | Form | Title | Where | PDF held | Revision | CRA updated | Lines (text / fields / both) | Captions | Form definition | Engine |
 |---|---|---|---|---|---|---|---|---|---|
+| RC312 | Reportable Transaction and Notifiable Transaction Information Return ( | FED |  |  | 2025-07-21 |  |  |  |  |
 | T106 | Information Return of Non-Arm's Length Transactions with Non-Residents | FED | yes |  | 2025-07-28 |  |  |  |  |
-| T1134 | Information Return Relating to Controlled and Non-Controlled Foreign A | FED | yes |  | 2024-07-12 |  |  |  |  |
 | T1135 | Foreign Income Verification Statement | FED | yes |  | 2024-11-14 |  |  |  |  |
 | T1145 | Agreement to Allocate Assistance for SR&ED Between Persons Not Dealing | FED |  |  | 2026-05-15 |  |  |  |  |
 | T1146 | Agreement to Transfer Qualified Expenditures Incurred in Respect of SR | FED |  |  | 2026-05-15 |  |  |  |  |
 | T1174 | Agreement Between Associated Corporations to Allocate Salary or Wages  | FED |  |  | 2022-07-06 |  |  |  |  |
 | T1263 | Third-party payments for scientific research and experimental developm | FED |  |  | 2022-07-06 |  |  |  |  |
+| T2057 | Election on Disposition of Property by a Taxpayer to a Taxable Canadia | FED |  |  | 2025-08-13 |  |  |  |  |
 | T661 | Scientific Research and Experimental Development (SR&ED) Expenditures  | FED | yes |  | 2026-05-15 | 0 / 179 / 0 |  |  |  |
+| T2SCH19 | Non-Resident Shareholder Information | FED |  |  | 2009-12-21 |  |  |  |  |
 | T2SCH21 | Federal and Provincial or Territorial Foreign Income Tax Credits and F | FED | yes | T2 SCH 21 E (26) | 2026-05-19 | 4 / 27 / 4 | yes | schedule21.ts | schedule21-foreign-tax-credit.ts |
-| T2SCH25 | Investment in Foreign Affiliates | FED | yes | T2 SCH 25 E (20) | 2021-01-25 | 0 / 3 / 0 | yes |  |  |
 | T2SCH27 | Calculation of Canadian Manufacturing and Processing Profits Deduction | FED | yes | T2 SCH 27 E (22) | 2023-02-21 | 17 / 18 / 17 | yes |  | schedule27-mp.ts, schedule27-zetm.ts |
 | T2SCH29 | Payments to Non-Residents | FED | yes |  | 2000-01-25 |  |  |  |  |
-| T2SCH31 | Investment Tax Credit - Corporations | FED | yes |  | 2026-10-14 | 76 / 105 / 76 | yes | schedule31.ts | schedule31-expenditure-limit.ts, schedule31-itc-recapture.ts, schedule31-sred-itc.ts |
+| T2SCH31 | Investment Tax Credit - Corporations | FED | yes |  | 2026-10-14 | 76 / 105 / 76 | yes | schedule31.ts | schedule31-itc-recapture.ts, schedule31-sred-itc.ts |
 | T2SCH33 | Taxable Capital Employed in Canada - Large Corporations | FED | yes | T2 SCH33 E (15) | 2015-12-03 | 30 / 0 / 0 | yes | schedule33.ts | schedule33-taxable-capital.ts |
-| T2SCH43 | Calculation of Parts IV.1 and VI.1 Taxes | FED | yes | T2 SCH 43 E (19) | 2019-08-21 | 20 / 25 / 20 | yes | schedule43.ts | schedule43-part6-1.ts |
-| T2SCH54 | Low Rate Income Pool (LRIP) Calculation | FED | yes | T2 SCH 54 E (24) | 2024-12-23 | 10 / 18 / 10 | yes |  | schedule54-lrip.ts |
-| T2SCH71 | Income Inclusion for Corporations that are Members of Single-Tier Part | FED | yes | T2 SCH 71 E (19) | 2019-12-06 |  |  |  |  |
-| T2SCH72 | Income Inclusion for Corporations that are Members of Multi-Tier Partn | FED | yes | T2 SCH 72 E (19) | 2019-12-16 |  |  |  |  |
+| T2SCH44 | Non-Arm's Length Transactions | FED | yes | T2 SCH 44 E (07) | 2007-02-26 | 1 / 0 / 0 |  |  |  |
+| T2SCH49 | Agreement Among Associated Canadian-Controlled Private Corporations to | FED | yes | T2 SCH 49 E (26) | 2026-05-29 | 3 / 9 / 3 | yes |  |  |
+| T2SCH55 | Part III.1 Tax on Excessive Eligible Dividend Designations | FED | yes | T2 SCH 55 E (19) | 2020-02-28 | 8 / 8 / 8 | yes | schedule55.ts | schedule55-part3-1.ts |
 | T2SCH73 | Income Inclusion Summary for Corporations that are Members of Partners | FED | yes | T2 SCH 73 E (19) | 2019-12-05 | 3 / 11 / 3 | yes |  |  |
-| T2SCH88 | Internet Business Activities | FED | yes | T2 SCH 88 E (20) | 2021-01-27 |  |  |  | schedule88-internet.ts |
-| T2SCH130 | Excessive Interest and Financing Expenses Limitation (2023 and later t | FED | yes |  | 2025-01-30 | 98 / 105 / 95 | yes | schedule130.ts |  |
 
 ## 4 - Provincial
 
@@ -185,40 +183,44 @@ A form where the two disagree widely is a grid form: its numbers are column head
 
 | Form | Title | Where | PDF held | Revision | CRA updated | Lines (text / fields / both) | Captions | Form definition | Engine |
 |---|---|---|---|---|---|---|---|---|---|
+| RC3133 | Reportable Uncertain Tax Treatments Information Return (2023 and later | FED |  |  | 2025-08-19 |  |  |  |  |
 | T1044 | Non-Profit Organization (NPO) Information Return | FED |  |  | 2023-10-19 |  |  |  |  |
 | T1131 | Canadian Film or Video Production Tax Credit | FED |  |  | 2018-11-09 |  |  |  |  |
+| T1134 | Information Return Relating to Controlled and Non-Controlled Foreign A | FED | yes |  | 2024-07-12 |  |  |  |  |
 | T1177 | Film or Video Production Services Tax Credit | FED |  |  | 2018-11-09 |  |  |  |  |
 | T2002 | Election, or Revocation of an Election, Not to Be a Canadian-Controlle | FED |  |  | 2016-11-11 |  |  |  |  |
-| T2054 | Election for a Capital Dividend Under Subsection 83(2) | FED |  |  | 2025-03-24 |  |  |  |  |
-| T2057 | Election on Disposition of Property by a Taxpayer to a Taxable Canadia | FED |  |  | 2025-08-13 |  |  |  |  |
 | T2SHORT | T2 Short Return | FED |  |  | 2020-01-09 |  |  |  |  |
-| T2SCH12 | Resource-Related Deductions | FED | yes | T2 SCH 12 E (26) | 2026-05-29 | 10 / 0 / 0 | yes |  | schedule12-resource-deductions.ts |
+| T2SCH12 | Resource-Related Deductions | FED | yes | T2 SCH 12 E (26) | 2026-05-29 | 10 / 0 / 0 |  |  | schedule12-resource-deductions.ts |
 | T2SCH16 | Patronage Dividend Deduction | FED |  |  | 2026-09-04 |  |  |  |  |
 | T2SCH17 | Credit Union Deductions | FED |  |  | 2022-12-07 |  |  |  |  |
 | T2SCH18 | Federal and Provincial or Territorial Capital Gains Refund | FED |  |  | 2020-03-03 |  |  |  |  |
-| T2SCH19 | Non-Resident Shareholder Information | FED |  |  | 2009-12-21 |  |  |  |  |
 | T2SCH20 | Part XIV - Additional Tax on Non-Resident Corporations | FED |  |  | 2017-12-13 |  |  |  |  |
 | T2SCH22 | Non-Resident Discretionary Trust | FED |  |  | 2011-10-24 |  |  |  |  |
+| T2SCH25 | Investment in Foreign Affiliates | FED | yes | T2 SCH 25 E (20) | 2021-01-25 | 0 / 3 / 0 |  |  |  |
+| T2SCH28 | Election not to be Associated Through a Third Corporation | FED | yes | T2 SCH 28 E (18) | 2018-06-21 | 3 / 7 / 3 |  |  |  |
 | T2SCH34 | Taxable Capital Employed in Canada - Financial Institutions | FED |  |  | 2014-11-13 |  |  |  |  |
 | T2SCH35 | Taxable Capital Employed in Canada - Large Insurance Corporations | FED |  |  | 2024-01-03 |  |  |  |  |
 | T2SCH37 | Calculation of Unused Surtax Credit | FED |  |  | 2010-03-25 |  |  |  |  |
 | T2SCH38 | Part VI Tax on Capital of Financial Institutions | FED |  |  | 2024-01-03 |  |  |  |  |
 | T2SCH39 | Agreement Among Related Financial Institutions - Part VI Tax | FED |  |  | 2020-01-10 |  |  |  |  |
 | T2SCH42 | Calculation of Unused Part I Tax Credit | FED |  |  | 2021-11-05 |  |  |  |  |
+| T2SCH43 | Calculation of Parts IV.1 and VI.1 Taxes | FED | yes | T2 SCH 43 E (19) | 2019-08-21 | 20 / 25 / 20 | yes | schedule43.ts | schedule43-part6-1.ts |
 | T2SCH45 | Agreement Respecting Liability for Part VI.1 Tax | FED |  |  | 2007-02-16 |  |  |  |  |
 | T2SCH56 | Part II.2 Tax on Repurchases of Equity | FED |  |  | 2026-11-23 |  |  |  |  |
 | T2SCH58 | Canadian Journalism Labour Tax Credit (2023 and later tax years) | FED |  |  | 2024-11-06 |  |  |  |  |
 | T2SCH59 | Information Return for Non-Qualified Securities | FED |  |  | 2022-04-01 |  |  |  |  |
 | T2SCH67 | Canada Recovery Dividend | FED |  |  | 2023-04-04 |  |  |  |  |
 | T2SCH68 | Additional Tax on Banks and Life Insurers | FED |  |  | 2023-04-14 |  |  |  |  |
+| T2SCH71 | Income Inclusion for Corporations that are Members of Single-Tier Part | FED | yes | T2 SCH 71 E (19) | 2019-12-06 |  |  |  |  |
+| T2SCH72 | Income Inclusion for Corporations that are Members of Multi-Tier Partn | FED | yes | T2 SCH 72 E (19) | 2019-12-16 |  |  |  |  |
 | T2SCH74 | Clean Hydrogen Investment Tax Credit | FED |  |  | 2026-10-26 |  |  |  |  |
 | T2SCH75 | Clean Technology Investment Tax Credit | FED |  |  | 2026-05-08 |  |  |  |  |
 | T2SCH76 | Clean Technology Manufacturing Investment Tax Credit | FED |  |  | 2026-05-08 |  |  |  |  |
 | T2SCH77 | Clean Electricity Investment Tax Credit | FED |  |  | 2026-10-09 |  |  |  |  |
 | T2SCH78 | Carbon Capture, Utilization, and Storage Investment Tax Credit | FED |  |  | 2026-05-04 |  |  |  |  |
-| T2SCH89 | Request for Capital Dividend Account Balance Verification | FED |  |  | 2026-11-03 |  |  |  |  |
 | T2SCH91 | Information Concerning Claims for Treaty-Based Exemptions | FED |  |  | 2022-01-27 |  |  |  |  |
 | T2SCH97 | Additional Information on Non-Resident Corporations in Canada | FED |  |  | 2022-03-11 |  |  |  |  |
+| T2SCH130 | Excessive Interest and Financing Expenses Limitation (2023 and later t | FED | yes |  | 2025-01-30 | 98 / 105 / 95 | yes | schedule130.ts |  |
 | T2SCH150 | Net Income (loss) for Income Tax Purposes for Insurance Companies (202 | FED |  |  | 2026-05-04 |  |  |  |  |
 | T2SCH151 | Investment Revenue From Designated Insurance Property for Insurance Co | FED |  |  | 2025-10-31 |  |  |  |  |
 

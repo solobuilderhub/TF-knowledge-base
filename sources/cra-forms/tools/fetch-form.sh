@@ -2,9 +2,10 @@
 # Download one CRA form PDF through a real browser session: canada.ca does not
 # answer curl from this machine, and does answer a browser.
 #
-#   ./fetch-form.sh t2sch9 ../pdf/T2SCH09-related-associated.pdf
+#   ./fetch-form.sh t2sch9 ../pdf/2-basic-ccpc/T2SCH09-related-associated.pdf
 #
-# Takes the form's page id (as in .../forms/<id>.html) and the destination.
+# Takes the form's page id (as in .../forms/<id>.html) and the destination,
+# which is the category folder of the form's bucket (forms/README.md).
 # Prefers the fillable PDF: its form fields are what extract-xfa.py reads.
 # Needs agent-browser on PATH. Never overwrites: move the old copy away first.
 set -euo pipefail

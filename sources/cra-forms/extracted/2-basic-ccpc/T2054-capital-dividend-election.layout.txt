@@ -1,0 +1,274 @@
+                                                                                                                                                                                   Clear Data
+
+                                                                                                                                                                                      Protected B
+                                                                                                                                                                                   when completed
+
+                               Election for a Capital Dividend Under Subsection 83(2)                                                                                              Do not use this area.
+
+· Private corporations can use this form to elect to have the provisions of subsection 83(2) apply to a dividend. For more
+
+  information, see Income Tax Folio S3-F2-C1, Capital Dividends and Interpretation Bulletin IT-149, Winding-up Dividend.
+
+· Unless otherwise stated, all legislative references are to the Income Tax Act.
+
+· To file electronically, please go to canada.ca/cra-special-elections-and-returns.
+
+  Or mail this election, separately from any other return, to:
+     Prince Edward Island Tax Centre
+     275 Pope Rd
+     Summerside, PE C1N 6A2
+
+· The election is due on or before the earlier of:
+  - the day the dividend becomes payable
+  - the first day on which any part of the dividend was paid
+
+  There is a late-filing penalty if the election is filed after the date it is due. The corporation must estimate the amount of the
+  late-filing penalty and pay that amount when it files the election. See "Part 8 - Late-filing penalty" for details.
+
+· If the amount of the dividend that is elected under subsection 83(2) exceeds the balance of the capital dividend account (CDA), the corporation may have to
+
+  pay Part III tax on the excess portion of the dividend. However, if the corporation qualifies, it may file an election under subsection 184(3), in the manner
+  prescribed by section 2106 of the Income Tax Regulations, to treat the excess as a separate taxable dividend.
+
+· A capital dividend paid to a non-resident is subject to Part XIII withholding tax and must be reported on an NR4, Statement of Amounts Paid or Credited to
+
+  Non-residents of Canada.
+
+· Generally, amounts are added to your CDA as they are realized. For more information, see Income Tax Folio S3-F2-C1, Capital Dividends.
+
+· For CDA purposes, a corporation's capital gain or loss from the disposition of a property is computed without reference to subclause 52(3)(a)(ii)(A)(II) and
+
+  subparagraph 53(1)(b)(ii).
+
+· Where subsection 83(2.1) applies to treat a capital dividend as a taxable dividend received by a shareholder, that dividend will still be considered to be a
+
+  capital dividend in determining any liability of the corporation for Part III tax and in calculating the corporation's CDA.
+
+· Prepare and attach Schedule 89, Request for Capital Dividend Account Balance Verification, as part of this election, when either of the following apply:
+  - you have never filed a T2054 or Schedule 89 before, or
+  - you disagree with either the amount shown in your CDA balance on the My Business Account website or with your recently received CDA balance from the
+
+      Canada Revenue Agency.
+
+   Part 1 - Identification                                               001 Business number
+
+002 Corporation's name                                                                                                                                                             RC
+
+Address                     City                                         Province or territory                                                                                     Postal code
+
+019 Name of contact person  024 Name of firm (if applicable)             022 Telephone number                                                                                      023 Extension
+
+  Part 2 - Required information                                                                                                                                                                              2A
+                                                                                                                                                                                   Year Month Day
+The full amount of the dividend for which this election is made 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100                  Year Month Day
+CDA immediately before this dividend becomes payable 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110                   Year Month Day
+Excess amount, if any, subject to Part III tax (line 100 minus line 110) (if negative, enter "0") . . . . . . . . . . . . . . . . . . . . . . . . . .
+(enter amount 2A at amount 9A in Part 9)                                                                                                                                           Yes          No
+
+Date the dividend becomes payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120      Yes          No
+
+First day on which any part of the dividend was paid
+(enter only if earlier than the date the dividend becomes payable) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+
+Date of the last election (if applicable) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+
+Has there been an acquisition of control since the date of the last election? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+Since your last election, or since the beginning of your CDA calculation if you have never made an election,
+does your CDA include a capital dividend received from another corporation that would have made an election under
+subsection 83(2) or an amount of distribution made by a trust to which a designation under subsection 104(20) was made? 200
+If yes, provide the information on the other corporation in Part 3 or on the trust in Part 4.
+1 Attach a certified copy of the resolution or authorization as required per section 2101 of the Regulations.
+2 Attach supporting calculations for line 110. Schedule 89 may be used for the calculations.
+
+T2054 E (24)                (Ce formulaire est disponible en français.)  Page 1 of 5
+                                                                                                                 Clear Data
+                                                                                              Protected B when completed
+
+Part 3 - Capital dividends received from other corporations            2                      3
+
+                                                   1
+
+                                            Corporation's name         Business number            Date dividend
+                                                                                                 became payable
+                                                       210                      220
+ 1                                                                                        RC        by the other
+ 2                                                                                        RC  corporation (provide
+ 3                                                                                        RC  the same information
+ 4                                                                                        RC   separately for each
+ 5                                                                                        RC   dividend received)
+ 6                                                                                        RC
+ 7                                                                                        RC     (YYYY/MM/DD)
+ 8                                                                                        RC
+ 9                                                                                        RC             230
+10                                                                                        RC
+
+  Part 4 - Capital dividends distributed to the corporation from a trust
+
+For each distribution made by a trust to which a designation under subsection 104(20) was made, give the name and account number of the trust and
+the date of the distribution.
+
+              1                                                           2                   3
+
+              Trust's name                                             Trust account number   Date of the distribution
+
+                                                                                              (YYYY/MM/DD)
+
+                                                                  250     255                 260
+
+1
+2
+3
+4
+5
+Attach additional schedules if you need more space.
+
+T2054 E (24)                                                                                       Page 2 of 5
+                                                                                                                                            Clear Data
+                                                                                                                         Protected B when completed
+
+  Part 5 - Capital gain or loss during the current tax year
+
+Complete this section to report a capital gain or loss during the current tax year up to the date of the election.
+
+               1                2                  3                                   4          5                          6                  7
+          Quantity  Description of asset  Acquisition date                      Proceeds of  Adjusted
+                                          (YYYY/MM/DD)                          disposition  cost base               Outlays and          Gain/Loss
+             330                 331                                                                                expenses from     (line 333 minus
+1                                                 332                                333        334                                  lines 334 and 335)
+2                                                                                                                     disposition
+3
+4                                                                                                                   335              336
+5
+
+                                                                       Totals:
+
+  Part 6 - Shareholder information
+
+Provide the following information about every shareholder who has, or who will, receive a dividend for which this election is made.
+
+                                 1                                                                 2                          3               4
+                    Name of shareholder                                                                             Date of payment  Share of capital
+                                                                                Social insurance, trust account     (YYYY/MM/DD)
+                                                                                       or business number                                dividend
+
+                                                                                                          3                                  340
+
+                    337                                                         338                                 339
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+ 3 For business numbers, enter the full 15 character business number.
+
+T2054 E (24)                                                                                                                         Page 3 of 5
+                                                                                                                                                                                               Clear Data
+                                                                                                                                                        Protected B when completed
+
+  Part 7 - Additional information - Life insurance
+
+The following items are required by the Canada Revenue Agency if the CDA balance, reported on line 110, includes net life insurance proceeds:
+
+· Name of the insured individual
+· Name of the beneficiary
+· Policy number
+· The adjusted cost basis of the policy
+· The total amount received related to the life insurance proceeds (provide a detailed breakdown of the amount received)
+· Please attach a letter from the insurance company indicating whether the life insurance policy was a taxable or non-taxable policy
+
+Policy 1:
+
+350 Name of insured individual                                                                    351 Name of beneficiary
+
+352 Policy number               353 Adjusted cost basis (ACB)                                     354 Total net proceeds received       355 Policy redemption date
+
+                                                                                                                                        Year                        Month Day
+
+ Policy 2:                      363 Adjusted cost basis                                           361 Name of beneficiary               365 Policy redemption date
+360 Name of insured individual                                                                    364 Total net proceeds received
+362 Policy number
+
+                                                                                                                                        Year                        Month Day
+
+  Part 8 - Late-filing penalty                                                                                                          Do not use this area.
+
+According to paragraph 83(3)(b), you must calculate and pay a late-filing penalty if this election is filed after its due date.
+Subsection 83(4) states how the penalty must be calculated.
+Calculation of late-filing penalty:
+
+Even if you filed a T1296, Election, or Revocation of an Election, to Report in a Functional Currency, with the Canada
+Revenue Agency to report in a functional currency, please apply your calculations below in Canadian dollars. Use the Bank
+of Canada's daily conversion rate as your late filing penalty must be in Canadian dollars.
+
+Line 100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  × 1% =                            8A
+
+Number of months 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            ÷ 12 =                            8B
+
+Subtotal (amount 8A multiplied by amount 8B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          8C
+
+$500 × Number of months 4 . . . . . . . . . . . . . . . . . . . . . . . . . .                     ÷ 12 =                            8D
+
+Late-filing penalty
+(amount 8C or amount 8D, whichever is less) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 320
+
+4 Number of months is the sum of each month or each part of a month in the period from the filing due date to the actual
+  date filed.
+
+  Part 9 - Part III tax
+
+According to subsection 184(2), Part III tax will apply on the excess amount.
+
+Excess amount of dividend declared subject to Part III tax (amount 2A in Part 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9A
+
+Part III tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . amount 9A  × 60% = 375
+
+Note: The corporation may be able to avoid paying Part III tax by filing an election under subsection 184(3), in the manner prescribed by section 2106 of the
+        Regulations, to treat the excess as a separate taxable dividend.
+
+T2054 E (24)                                                                                                                                                        Page 4 of 5
+                                                                                                                                     Clear Data
+                                                                                                                  Protected B when completed
+
+Part 10 - Total payment accompanying this election
+
+Late-filing penalty (line 320 in Part 8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       10A
+
+Part III tax (line 375 in Part 9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10B
+
+Amount owing (amount 10A plus amount 10B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      10C
+
+Total payment accompanying this election . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+
+Make your cheque or money order payable to the Receiver General. Write T2054, your corporation's business number, and tax year-end on the front of your
+cheque or money order.
+
+Note: Daily compound interest at the prescribed rate applies to unpaid amounts, including late-filing penalties.
+
+  Part 11 - Election and certification
+
+The corporation hereby elects to have the provisions of subsection 83(2) apply for the full amount of the dividend indicated herein. I certify that the information
+given on this form and in any attached document is correct and complete.
+
+960                                                                       961                     Position or office
+                                           Name of authorized officer     963 Date  Year Month Day
+
+962
+                                         Signature of authorized officer
+
+  Privacy notice
+
+Personal information (including the SIN) is collected and used to administer or enforce the Income Tax Act and related programs and activities including
+administering tax, benefits, audit, compliance, and collection. The information collected may be disclosed to other federal, provincial, territorial, aboriginal or
+foreign government institutions to the extent authorized by law. Failure to provide this information may result in paying interest or penalties, or in other
+actions. Under the Privacy Act, individuals have a right of protection, access to and correction of their personal information, and to file a complaint with the
+Privacy Commissioner of Canada regarding the handling of their personal information. Refer to Personal Information Bank CRA PPU 047 on Info Source
+at canada.ca/cra-info-source.
+
+T2054 E (24)                                                                                                                                                                                       Page 5 of 5
+

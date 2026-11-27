@@ -11,7 +11,7 @@ drives one:
 
 ```bash
 cd tools
-./fetch-form.sh t2sch9 ../pdf/T2SCH09-related-associated.pdf
+./fetch-form.sh t2sch9 ../pdf/2-basic-ccpc/T2SCH09-related-associated.pdf
 ```
 
 It reads the PDF link off the form's own page and prefers the fillable PDF,

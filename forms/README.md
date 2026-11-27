@@ -6,20 +6,16 @@ ca-tax. Read `STATUS.md`; it is regenerated from the disk.
 
 ```
 forms/
-  run.py            THE PIPELINE: extract both ways, generate captions, rebuild status
-  registry.tsv      the decisions a person makes: one row per form, its bucket
-  build-status.py   registry + what is on disk -> STATUS.md   (--check for CI)
-  STATUS.md         GENERATED. Never edited.
+  run.py               THE PIPELINE: extract both ways, generate captions, rebuild status
+  registry.tsv         the decisions a person makes: one row per form, its bucket
+  file-by-category.py  files each form's PDF and extractions into its bucket's folder
+  build-status.py      registry + what is on disk -> STATUS.md   (--check for CI)
+  STATUS.md            GENERATED. Never edited.
 ```
 
-## Why the PDFs are not in bucket folders
+## Category folders
 
-The bucket is a decision, and decisions change: a form moves from "later" to
-"build now" when a client needs it. A PDF's path is an identifier: it is written
-into every generated captions module in ca-tax and read by four tools. Folders
-by bucket would make every re-bucketing a rename across two repositories.
-
-So documents stay where their AUTHORITY puts them, which never changes:
+Documents stay where their AUTHORITY puts them:
 
 ```
 sources/cra-forms/pdf/   federal T2 forms and the provincial schedules CRA administers
@@ -27,8 +23,41 @@ sources/tra-forms/pdf/   Alberta AT1 (its own return, filed with TRA)
 sources/rq-forms/pdf/    Quebec CO-17 (its own return, filed with Revenu Quebec)
 ```
 
-and the bucket lives in one column of `registry.tsv`. `STATUS.md` is the
-by-bucket view.
+Inside `sources/cra-forms/pdf/` and `sources/cra-forms/extracted/`, a form is
+filed in its bucket's folder (decided 2026-11-26), so a bucket's documents and
+their extractions can be read together:
+
+```
+pdf/1-core/                extracted/1-core/                core
+pdf/2-basic-ccpc/          extracted/2-basic-ccpc/          ccpc
+pdf/3-common-additions/    extracted/3-common-additions/    common
+pdf/4-provincial/          extracted/4-provincial/          provincial (CRA-administered)
+pdf/5-specialized/         extracted/5-specialized/         specialized
+```
+
+The folder for each bucket is `CATEGORY_DIRS` in
+`sources/cra-forms/tools/formlib.py`. `retired` has none: CRA archived those
+forms and none is held. A form whose bucket had no folder would sit at the top
+of `pdf/` and `extracted/`.
+
+The bucket is still decided in one column of `registry.tsv`, and the folder
+follows it:
+
+- `python forms/file-by-category.py` moves each form's PDF and extracted files
+  to the folder its registry row names, with `git mv` so history follows
+  (`--dry-run` to preview). Run it after changing a bucket.
+- Every tool finds a form in any folder (`formlib.pdf_path`, `extract_path`)
+  and writes a form's extractions into the same folder as its PDF.
+- `build-status.py --check` reports a PDF or an extracted file in the wrong
+  folder as a defect. It follows renames when it dates the copy held, so filing
+  a form never hides a stale copy.
+
+What a move costs: a PDF's path is written into ca-tax. Each generated captions
+module cites it as `Source:`, and some hand-authored modules cite it in
+comments. After filing forms, regenerate their captions
+(`python forms/run.py <FORM>`) and update those citations, in one ca-tax change.
+
+`STATUS.md` is the by-bucket view of everything.
 
 ## registry.tsv
 
@@ -44,20 +73,33 @@ by-bucket view.
 The provincial bucket and the retired bucket are not judgement: the province
 comes from CRA's numbering (300s Newfoundland and Labrador ... 500s Ontario) and
 "retired" from CRA marking the form ARCHIVED. The federal buckets (core, ccpc,
-common, specialized) ARE judgement and are all `proposed`: they were seeded on
-2026-11-26 to match the counts in the team's "T2 Form Inventory & Build Buckets"
-sheet (8 / 19 / ...), without the sheet's per-form tab. Reconcile against that
-tab and set `confirmed`.
+common, specialized) ARE judgement: they were seeded on 2026-11-26 to match the
+counts in the team's "T2 Form Inventory & Build Buckets" sheet (8 / 19 / ...),
+without the sheet's per-form tab.
+
+The same day, core and ccpc were reconciled against the sheet's "Forms" tab and
+set `confirmed`. That moved Schedule 5 into core; Schedule 101 into ccpc; T2054,
+Schedules 54, 88 and 89 into ccpc; and Schedules 44, 49, 55 (to common) and 28
+(to specialized) out of it.
+
+Then common, provincial and specialized were reconciled the same way:
+- T1134 and Schedules 25, 43, 71, 72 and 130 went from common to specialized.
+- T2057 and Schedule 19 went from specialized to common.
+- RC312 (common) and RC3133 (specialized) were added.
+
+The sheet's Schedules 10, 63, 65 and 390 stay `retired`, because CRA marks them ARCHIVED. Its T666 (BC SR&ED) has no row, because it is not on CRA's forms list.
+
+Still `proposed`, because the sheet does not list them: T1174, Schedule 37, T2002, and provincial Schedules 320, 343, 345, 392, 426, 504, 517 and 552.
 
 ## The chain every form follows
 
 ```
 CRA's list            sources/cra-forms/catalog/cra-forms-list.json   (what exists, last update)
    |  registry.tsv    (which bucket)
-primary document      sources/cra-forms/pdf/<FORM>-<slug>.pdf         tools/fetch-form.sh
+primary document      sources/cra-forms/pdf/[<category>/]<FORM>-<slug>.pdf   tools/fetch-form.sh
    |
-extraction            extracted/<stem>.lines.tsv    text layout       tools/extract-lines.py
-                      extracted/<stem>.fields.tsv   the form's fields tools/extract-xfa.py
+extraction            extracted/[<category>/]<stem>.lines.tsv    text layout       tools/extract-lines.py
+                      extracted/[<category>/]<stem>.fields.tsv   the form's fields tools/extract-xfa.py
    |
 generated captions    ca-tax src/t2/forms/generated/                  tools/generate-captions.py
 form definition       ca-tax src/t2/forms/scheduleN.ts                hand-authored
@@ -211,7 +253,7 @@ The rule-book adapter (emitting these rules in the AT1 rule-book row schema, so
 ## Provincial schedules
 
 All 81 current provincial and territorial schedules CRA administers are held in
-`sources/cra-forms/pdf/` and extracted (lines and fields), alongside Alberta's
+`sources/cra-forms/pdf/4-provincial/` and extracted (lines and fields), alongside Alberta's
 AT1 and Quebec's CO-17. They are not built in ca-tax: `generate-captions.py`
 emits caption modules only for the core, CCPC and common buckets, so a
 provincial form gets its module the day its registry row is moved.

@@ -1,0 +1,15 @@
+line	caption
+275	Pope Road
+002	Corporation's name RC
+019	Name of contact person 024 Name of firm 022 Telephone number 023 Extension
+003	Capital dividend account balance as of
+004	Tick yes for only one of the following two questions: Yes No Is this a balance verification request? Tick yes only if this request does not relate to a Form T2054, mentioned at line 005
+005	Is this request related to the requirements of subsection 89(1) for Form T2054?
+350	Name of insured individual 351 Name of beneficiary
+352	Policy number 353 Adjusted cost base (ACB) 354 Total net proceeds received 355 Policy redemption date
+360	Name of insured individual 364 Total net proceeds received
+362	Policy number
+400	Eligible capital property for tax years ending before January 1, 2018
+410	Life insurance CDA 15
+420	Amounts from predecessor and subsidiary corporations 16
+430	CDA balance (amount 7G minus amount 7H; if negative, enter "0")

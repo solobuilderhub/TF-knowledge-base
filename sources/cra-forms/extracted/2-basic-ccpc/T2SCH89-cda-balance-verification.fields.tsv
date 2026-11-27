@@ -1,0 +1,480 @@
+page	part	field	line	kind	digits	speak
+1	P1	inpt002	002	text		Line 002. Corporation's name.
+1	P1/grp001	P1_Ln1_grp_RC1	001	text		Line 001. First 9 digits of the business number.
+1	P1/grp001	P1_Ln1_grp_RC	001	text		Line 001. Program code. 2 Letters.
+1	P1/grp001	P1_Ln1_grp_RC2	001	text		Line 001. Last 4 digits of the business number.
+1	P1	Inpt1		text		Address.
+1	P1	Inpt2		text		City.
+1	P1	inpt3		choice		Select your province or territory from the drop down menu.
+1	P1	inpt4		text		Postal code. 6 characters.
+1	P1	inpt019	019	text		Line 019. Name of contact person.
+1	P1	inpt024	024	text		Line 024. Name of firm.
+1	P1	inpt022	022	text		Line 022. Telephone number. 10 digits.
+1	P1	Inpt023	023	text	6	Line 023. Extension. Maximum 6 digits.
+1	P1/grp003	P1_Ln003_grp_Comb	003	text		Line 003. Capital dividend account balance as of. Date. Year 4 digits. Month 2 digits. Day 2 digits.
+1	P1/grp004	cb1	004	check		Line 004. Is this a balance verification request? Tick yes only if this request does not relate to a Form T2054, mentioned at line 005. Yes. If yes, the date on line 003 should be the last tax year-end, included in the CDA balance.
+1	P1/grp004	cb2	004	check		Line 004. Is this a balance verification request? No.
+1	P1/cbGrp	cb1	005	check		Line 005. Is this request related to the requirements of subsection 89(1) for Form T2054? Yes. If yes, the date on line 003 should be the earlier of the date the dividend became payable, or the first day on which any part of the dividend was paid.
+1	P1/cbGrp	cb2	005	check		Line 005. Is this request related to the requirements of subsection 89(1) for form T2054? No.
+1	PageNumbers	CurrentPage		numeric		
+1	PageNumbers	PageCount		numeric		
+2	P2A/table2A/row1/Cell2	Inpt1	080	text		Line 080. Column 1. Predecessor business number. First 9 digits of the Business number. Row 1.
+2	P2A/table2A/row1/Cell2	Inpt2	080	text		Line 080. Column 1. Predecessor business number. Program code. 2 Letters. Row 1.
+2	P2A/table2A/row1/Cell2	Inpt3	080	text		Line 080. Column 1. Predecessor business number. Last 4 digits of the Business number. Row 1.
+2	P2A/table2A/row1/Cell3/grp	DateYYYYMMDD_Comb	082	text		Line 082. Column 2. Amalgamation date. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+2	P2A/table2A/row1	cell4	084	numeric	12	Line 084. Column 3. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 1.
+2	P2A/table2A/row1	cell5	086	numeric	12	Line 086. Column 4. Capital dividends received per paragraph 89(1)(b). Row 1.
+2	P2A/table2A/row1	cell6	088	numeric	12	Line 088. Column 5. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 1.
+2	P2A/table2A/row1	cell7	090	numeric	12	Line 090. Column 6. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 1.
+2	P2A/table2A/row1	cell8	092	numeric	12	Line 092. Column 7. Capital dividends from a trust per paragraph 89(1)(g). Row 1.
+2	P2A/table2A/row1	cell9	093	numeric	12	Line 093. Column 8. Foreign affiliate repatriation per paragraph 89(1)(h). Row 1.
+2	P2A/table2A/row1	cell10	094	numeric	12	Line 094. Column 9. Capital dividends payable per subsection 83(2). Row 1.
+2	P2A/table2A/row2/Cell2	Inpt1	080	text		Line 080. Column 1. Predecessor business number. First 9 digits of the Business number. Row 2.
+2	P2A/table2A/row2/Cell2	Inpt2	080	text		Line 080. Column 1. Predecessor business number. Program code. 2 Letters. Row 2.
+2	P2A/table2A/row2/Cell2	Inpt3	080	text		Line 080. Column 1. Predecessor business number. Last 4 digits of the Business number. Row 2.
+2	P2A/table2A/row2/Cell3/grp	DateYYYYMMDD_Comb	082	text		Line 082. Column 2. Amalgamation date. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+2	P2A/table2A/row2	cell4	084	numeric	12	Line 084. Column 3. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 2.
+2	P2A/table2A/row2	cell5	086	numeric	12	Line 086. Column 4. Capital dividends received per paragraph 89(1)(b). Row 2.
+2	P2A/table2A/row2	cell6	088	numeric	12	Line 088. Column 5. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 2.
+2	P2A/table2A/row2	cell7	090	numeric	12	Line 090. Column 6. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 2.
+2	P2A/table2A/row2	cell8	092	numeric	12	Line 092. Column 7. Capital dividends from a trust per paragraph 89(1)(g). Row 2.
+2	P2A/table2A/row2	cell9	093	numeric	12	Line 093. Column 8. Foreign affiliate repatriation per paragraph 89(1)(h). Row 2.
+2	P2A/table2A/row2	cell10	094	numeric	12	Line 094. Column 9. Capital dividends payable per subsection 83(2). Row 2.
+2	P2A/table2A/row3/Cell2	Inpt1	080	text		Line 080. Column 1. Predecessor business number. First 9 digits of the Business number. Row 3.
+2	P2A/table2A/row3/Cell2	Inpt2	080	text		Line 080. Column 1. Predecessor business number. Program code. 2 Letters. Row 3.
+2	P2A/table2A/row3/Cell2	Inpt3	080	text		Line 080. Column 1. Predecessor business number. Last 4 digits of the Business number. Row 3.
+2	P2A/table2A/row3/Cell3/grp	DateYYYYMMDD_Comb	082	text		Line 082. Column 2. Amalgamation date. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+2	P2A/table2A/row3	cell4	084	numeric	12	Line 084. Column 3. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 3.
+2	P2A/table2A/row3	cell5	086	numeric	12	Line 086. Column 4. Capital dividends received per paragraph 89(1)(b). Row 3.
+2	P2A/table2A/row3	cell6	088	numeric	12	Line 088. Column 5. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 3.
+2	P2A/table2A/row3	cell7	090	numeric	12	Line 090. Column 6. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 3.
+2	P2A/table2A/row3	cell8	092	numeric	12	Line 092. Column 7. Capital dividends from a trust per paragraph 89(1)(g). Row 3.
+2	P2A/table2A/row3	cell9	093	numeric	12	Line 093. Column 8. Foreign affiliate repatriation per paragraph 89(1)(h). Row 3.
+2	P2A/table2A/row3	cell10	094	numeric	12	Line 094. Column 9. Capital dividends payable per subsection 83(2). Row 3.
+2	P2A/table2A/row4/Cell2	Inpt1	080	text		Line 080. Column 1. Predecessor business number. First 9 digits of the Business number. Row 4.
+2	P2A/table2A/row4/Cell2	Inpt2	080	text		Line 080. Column 1. Predecessor business number. Program code. 2 Letters. Row 4.
+2	P2A/table2A/row4/Cell2	Inpt3	080	text		Line 080. Column 1. Predecessor business number. Last 4 digits of the Business number. Row 4.
+2	P2A/table2A/row4/Cell3/grp	DateYYYYMMDD_Comb	082	text		Line 082. Column 2. Amalgamation date. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+2	P2A/table2A/row4	cell4	084	numeric	12	Line 084. Column 3. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 4.
+2	P2A/table2A/row4	cell5	086	numeric	12	Line 086. Column 4. Capital dividends received per paragraph 89(1)(b). Row 4.
+2	P2A/table2A/row4	cell6	088	numeric	12	Line 088. Column 5. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 4.
+2	P2A/table2A/row4	cell7	090	numeric	12	Line 090. Column 6. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 4.
+2	P2A/table2A/row4	cell8	092	numeric	12	Line 092. Column 7. Capital dividends from a trust per paragraph 89(1)(g). Row 4.
+2	P2A/table2A/row4	cell9	093	numeric	12	Line 093. Column 8. Foreign affiliate repatriation per paragraph 89(1)(h). Row 4.
+2	P2A/table2A/row4	cell10	094	numeric	12	Line 094. Column 9. Capital dividends payable per subsection 83(2). Row 4.
+2	P2A/table2A/row5/Cell2	Inpt1	080	text		Line 080. Column 1. Predecessor business number. First 9 digits of the Business number. Row 5.
+2	P2A/table2A/row5/Cell2	Inpt2	080	text		Line 080. Column 1. Predecessor business number. Program code. 2 Letters. Row 5.
+2	P2A/table2A/row5/Cell2	Inpt3	080	text		Line 080. Column 1. Predecessor business number. Last 4 digits of the Business number. Row 5.
+2	P2A/table2A/row5/Cell3/grp	DateYYYYMMDD_Comb	082	text		Line 082. Column 2. Amalgamation date. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+2	P2A/table2A/row5	cell4	084	numeric	12	Line 084. Column 3. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 5.
+2	P2A/table2A/row5	cell5	086	numeric	12	Line 086. Column 4. Capital dividends received per paragraph 89(1)(b). Row 5.
+2	P2A/table2A/row5	cell6	088	numeric	12	Line 088. Column 5. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 5.
+2	P2A/table2A/row5	cell7	090	numeric	12	Line 090. Column 6. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 5.
+2	P2A/table2A/row5	cell8	092	numeric	12	Line 092. Column 7. Capital dividends from a trust per paragraph 89(1)(g). Row 5.
+2	P2A/table2A/row5	cell9	093	numeric	12	Line 093. Column 8. Foreign affiliate repatriation per paragraph 89(1)(h). Row 5.
+2	P2A/table2A/row5	cell10	094	numeric	12	Line 094. Column 9. Capital dividends payable per subsection 83(2). Row 5.
+2	P2A/table2A/row6/Cell2	Inpt1	080	text		Line 080. Column 1. Predecessor business number. First 9 digits of the Business number. Row 6.
+2	P2A/table2A/row6/Cell2	Inpt2	080	text		Line 080. Column 1. Predecessor business number. Program code. 2 Letters. Row 6.
+2	P2A/table2A/row6/Cell2	Inpt3	080	text		Line 080. Column 1. Predecessor business number. Last 4 digits of the Business number. Row 6.
+2	P2A/table2A/row6/Cell3/grp	DateYYYYMMDD_Comb	082	text		Line 082. Column 2. Amalgamation date. Year 4 digits. Month 2 digits. Day 2 digits. Row 6.
+2	P2A/table2A/row6	cell4	084	numeric	12	Line 084. Column 3. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 6.
+2	P2A/table2A/row6	cell5	086	numeric	12	Line 086. Column 4. Capital dividends received per paragraph 89(1)(b). Row 6.
+2	P2A/table2A/row6	cell6	088	numeric	12	Line 088. Column 5. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 6.
+2	P2A/table2A/row6	cell7	090	numeric	12	Line 090. Column 6. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 6.
+2	P2A/table2A/row6	cell8	092	numeric	12	Line 092. Column 7. Capital dividends from a trust per paragraph 89(1)(g). Row 6.
+2	P2A/table2A/row6	cell9	093	numeric	12	Line 093. Column 8. Foreign affiliate repatriation per paragraph 89(1)(h). Row 6.
+2	P2A/table2A/row6	cell10	094	numeric	12	Line 094. Column 9. Capital dividends payable per subsection 83(2). Row 6.
+2	P2A/table2A/row7/Cell2/grp	Inpt1	080	text		Line 080. Column 1. Predecessor business number. First 9 digits of the Business number. Row 7.
+2	P2A/table2A/row7/Cell2/grp	Inpt2	080	text		Line 080. Column 1. Predecessor business number. Program code. 2 Letters. Row 8.
+2	P2A/table2A/row7/Cell2/grp	Inpt3	080	text		Line 080. Column 1. Predecessor business number. Last 4 digits of the Business number. Row 7.
+2	P2A/table2A/row7/Cell3/grp	DateYYYYMMDD_Comb	082	text		Line 082. Column 2. Amalgamation date. Year 4 digits. Month 2 digits. Day 2 digits. Row 7.
+2	P2A/table2A/row7	cell4	084	numeric	12	Line 084. Column 3. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 7.
+2	P2A/table2A/row7	cell5	086	numeric	12	Line 086. Column 4. Capital dividends received per paragraph 89(1)(b). Row 7.
+2	P2A/table2A/row7	cell6	088	numeric	12	Line 088. Column 5. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 7.
+2	P2A/table2A/row7	cell7	090	numeric	12	Line 090. Column 6. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 7.
+2	P2A/table2A/row7	cell8	092	numeric	12	Line 092. Column 7. Capital dividends from a trust per paragraph 89(1)(g). Row 7.
+2	P2A/table2A/row7	cell9	093	numeric	12	Line 093. Column 8. Foreign affiliate repatriation per paragraph 89(1)(h). Row 7.
+2	P2A/table2A/row7	cell10	094	numeric	12	Line 094. Column 9. Capital dividends payable per subsection 83(2). Row 7.
+2	P2A/table2A/row8/Cell2/grp	Inpt1	080	text		Line 080. Column 1. Predecessor business number. First 9 digits of the Business number. Row 8.
+2	P2A/table2A/row8/Cell2/grp	Inpt2	080	text		Line 080. Column 1. Predecessor business number. Program code. 2 Letters. Row 8.
+2	P2A/table2A/row8/Cell2/grp	Inpt3	080	text		Line 080. Column 1. Predecessor business number. Last 4 digits of the Business number. Row 8.
+2	P2A/table2A/row8/Cell3/grp	DateYYYYMMDD_Comb	082	text		Line 082. Column 2. Amalgamation date. Year 4 digits. Month 2 digits. Day 2 digits. Row 8.
+2	P2A/table2A/row8	cell4	084	numeric	12	Line 084. Column 3. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 8.
+2	P2A/table2A/row8	cell5	086	numeric	12	Line 086. Column 4. Capital dividends received per paragraph 89(1)(b). Row 8.
+2	P2A/table2A/row8	cell6	088	numeric	12	Line 088. Column 5. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 8.
+2	P2A/table2A/row8	cell7	090	numeric	12	Line 090. Column 6. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 8.
+2	P2A/table2A/row8	cell8	092	numeric	12	Line 092. Column 7. Capital dividends from a trust per paragraph 89(1)(g). Row 8.
+2	P2A/table2A/row8	cell9	093	numeric	12	Line 093. Column 8. Foreign affiliate repatriation per paragraph 89(1)(h). Row 8.
+2	P2A/table2A/row8	cell10	094	numeric	12	Line 094. Column 9. Capital dividends payable per subsection 83(2). Row 8.
+2	P2A/table2A/row9/Cell2	Inpt1	080	text		Line 080. Column 1. Predecessor business number. First 9 digits of the Business number. Row 9.
+2	P2A/table2A/row9/Cell2	Inpt2	080	text		Line 080. Column 1. Predecessor business number. Program code. 2 Letters. Row 9.
+2	P2A/table2A/row9/Cell2	Inpt3	080	text		Line 080. Column 1. Predecessor business number. Last 4 digits of the Business number. Row 9.
+2	P2A/table2A/row9/Cell3/grp	DateYYYYMMDD_Comb	082	text		Line 082. Column 2. Amalgamation date. Year 4 digits. Month 2 digits. Day 2 digits. Row 9.
+2	P2A/table2A/row9	cell4	084	numeric	12	Line 084. Column 3. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 9.
+2	P2A/table2A/row9	cell5	086	numeric	12	Line 086. Column 4. Capital dividends received per paragraph 89(1)(b). Row 9.
+2	P2A/table2A/row9	cell6	088	numeric	12	Line 088. Column 5. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 9.
+2	P2A/table2A/row9	cell7	090	numeric	12	Line 090. Column 6. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 9.
+2	P2A/table2A/row9	cell8	092	numeric	12	Line 092. Column 7. Capital dividends from a trust per paragraph 89(1)(g). Row 9.
+2	P2A/table2A/row9	cell9	093	numeric	12	Line 093. Column 8. Foreign affiliate repatriation per paragraph 89(1)(h). Row 9.
+2	P2A/table2A/row9	cell10	094	numeric	12	Line 094. Column 9. Capital dividends payable per subsection 83(2). Row 9.
+2	P2A/table2A/row10/Cell2	Inpt1	080	text		Line 080. Column 1. Predecessor business number. First 9 digits of the Business number. Row 10.
+2	P2A/table2A/row10/Cell2	Inpt2	080	text		Line 080. Column 1. Predecessor business number. Program code. 2 Letters. Row 10.
+2	P2A/table2A/row10/Cell2	Inpt3	080	text		Line 080. Column 1. Predecessor business number. Last 4 digits of the Business number. Row 10.
+2	P2A/table2A/row10/Cell3/grp	DateYYYYMMDD_Comb	082	text		Line 082. Column 2. Amalgamation date. Year 4 digits. Month 2 digits. Day 2 digits. Row 10.
+2	P2A/table2A/row10	cell4	084	numeric	12	Line 084. Column 3. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 10.
+2	P2A/table2A/row10	cell5	086	numeric	12	Line 086. Column 4. Capital dividends received per paragraph 89(1)(b). Row 10.
+2	P2A/table2A/row10	cell6	088	numeric	12	Line 088. Column 5. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 10.
+2	P2A/table2A/row10	cell7	090	numeric	12	Line 090. Column 6. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 10.
+2	P2A/table2A/row10	cell8	092	numeric	12	Line 092. Column 7. Capital dividends from a trust per paragraph 89(1)(g). Row 10.
+2	P2A/table2A/row10	cell9	093	numeric	12	Line 093. Column 8. Foreign affiliate repatriation per paragraph 89(1)(h). Row 10.
+2	P2A/table2A/row10	cell10	094	numeric	12	Line 094. Column 9. Capital dividends payable per subsection 83(2). Row 10.
+2	P2A/table2A/row11/Cell2	Inpt1	080	text		Line 080. Column 1. Predecessor business number. First 9 digits of the Business number. Row 11.
+2	P2A/table2A/row11/Cell2	Inpt2	080	text		Line 080. Column 1. Predecessor business number. Program code. 2 Letters. Row 11.
+2	P2A/table2A/row11/Cell2	Inpt3	080	text		Line 080. Column 1. Predecessor business number. Last 4 digits of the Business number. Row 11.
+2	P2A/table2A/row11/Cell3/grp	DateYYYYMMDD_Comb	082	text		Line 082. Column 2. Amalgamation date. Year 4 digits. Month 2 digits. Day 2 digits. Row 11.
+2	P2A/table2A/row11	cell4	084	numeric	12	Line 084. Column 3. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 11.
+2	P2A/table2A/row11	cell5	086	numeric	12	Line 086. Column 4. Capital dividends received per paragraph 89(1)(b). Row 11.
+2	P2A/table2A/row11	cell6	088	numeric	12	Line 088. Column 5. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 11.
+2	P2A/table2A/row11	cell7	090	numeric	12	Line 090. Column 6. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 11.
+2	P2A/table2A/row11	cell8	092	numeric	12	Line 092. Column 7. Capital dividends from a trust per paragraph 89(1)(g). Row 11.
+2	P2A/table2A/row11	cell9	093	numeric	12	Line 093. Column 8. Foreign affiliate repatriation per paragraph 89(1)(h). Row 11.
+2	P2A/table2A/row11	cell10	094	numeric	12	Line 094. Column 9. Capital dividends payable per subsection 83(2). Row 11.
+2	P2A/table2A/row12/Cell2	Inpt1	080	text		Line 080. Column 1. Predecessor business number. First 9 digits of the Business number. Row 12.
+2	P2A/table2A/row12/Cell2	Inpt2	080	text		Line 080. Column 1. Predecessor business number. Program code. 2 Letters. Row 12.
+2	P2A/table2A/row12/Cell2	Inpt3	080	text		Line 080. Column 1. Predecessor business number. Last 4 digits of the Business number. Row 12.
+2	P2A/table2A/row12/Cell3/grp	DateYYYYMMDD_Comb	082	text		Line 082. Column 2. Amalgamation date. Year 4 digits. Month 2 digits. Day 2 digits. Row 12.
+2	P2A/table2A/row12	cell4	084	numeric	12	Line 084. Column 3. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 12.
+2	P2A/table2A/row12	cell5	086	numeric	12	Line 086. Column 4. Capital dividends received per paragraph 89(1)(b). Row 12.
+2	P2A/table2A/row12	cell6	088	numeric	12	Line 088. Column 5. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 12.
+2	P2A/table2A/row12	cell7	090	numeric	12	Line 090. Column 6. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 12.
+2	P2A/table2A/row12	cell8	092	numeric	12	Line 092. Column 7. Capital dividends from a trust per paragraph 89(1)(g). Row 12.
+2	P2A/table2A/row12	cell9	093	numeric	12	Line 093. Column 8. Foreign affiliate repatriation per paragraph 89(1)(h). Row 12.
+2	P2A/table2A/row12	cell10	094	numeric	12	Line 094. Column 9. Capital dividends payable per subsection 83(2). Row 12.
+2	P2A/table2A/row13	cell4	084	numeric	12	Line 084. Column 3. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Totals.
+2	P2A/table2A/row13	cell5	086	numeric	12	Line 086. Column 4. Capital dividends received per paragraph 89(1)(b). Totals.
+2	P2A/table2A/row13	cell6	088	numeric	12	Line 088. Column 5. Net proceeds of a life insurance policy per paragraph 89(1)(d). Totals.
+2	P2A/table2A/row13	cell7	090	numeric	12	Line 090. Column 6. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Totals.
+2	P2A/table2A/row13	cell8	092	numeric	12	Line 092. Column 7. Capital dividends from a trust per paragraph 89(1)(g). Totals.
+2	P2A/table2A/row13	cell9	093	numeric	12	Line 093. Column 8. Foreign affiliate repatriation per paragraph 89(1)(h). Totals
+2	P2A/table2A/row13	cell10	094	numeric	12	Line 094. Column 9. Capital dividends payable per subsection 83(2). Totals.
+2	PageNumbers	CurrentPage		numeric		
+2	PageNumbers	PageCount		numeric		
+3	P2B/P2B_table/row1/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+3	P2B/P2B_table/row1	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 1.
+3	P2B/P2B_table/row1	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 1.
+3	P2B/P2B_table/row1	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 1.
+3	P2B/P2B_table/row1	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 1.
+3	P2B/P2B_table/row1	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 1.
+3	P2B/P2B_table/row1	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 1.
+3	P2B/P2B_table/row1	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 1.
+3	P2B/P2B_table/row2/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+3	P2B/P2B_table/row2	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 2.
+3	P2B/P2B_table/row2	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 2.
+3	P2B/P2B_table/row2	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 2.
+3	P2B/P2B_table/row2	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 2.
+3	P2B/P2B_table/row2	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 2.
+3	P2B/P2B_table/row2	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 2.
+3	P2B/P2B_table/row2	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 2.
+3	P2B/P2B_table/row3/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+3	P2B/P2B_table/row3	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 3.
+3	P2B/P2B_table/row3	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 3.
+3	P2B/P2B_table/row3	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 3.
+3	P2B/P2B_table/row3	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 3.
+3	P2B/P2B_table/row3	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 3.
+3	P2B/P2B_table/row3	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 3.
+3	P2B/P2B_table/row3	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 3.
+3	P2B/P2B_table/row4/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+3	P2B/P2B_table/row4	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 4.
+3	P2B/P2B_table/row4	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 4.
+3	P2B/P2B_table/row4	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 4.
+3	P2B/P2B_table/row4	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 4.
+3	P2B/P2B_table/row4	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 4.
+3	P2B/P2B_table/row4	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 4.
+3	P2B/P2B_table/row4	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 4.
+3	P2B/P2B_table/row5/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+3	P2B/P2B_table/row5	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 5.
+3	P2B/P2B_table/row5	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 5.
+3	P2B/P2B_table/row5	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 5.
+3	P2B/P2B_table/row5	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 5.
+3	P2B/P2B_table/row5	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 5.
+3	P2B/P2B_table/row5	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 5.
+3	P2B/P2B_table/row5	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 5.
+3	P2B/P2B_table/row6/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 6.
+3	P2B/P2B_table/row6	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 6.
+3	P2B/P2B_table/row6	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 6.
+3	P2B/P2B_table/row6	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 6.
+3	P2B/P2B_table/row6	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 6.
+3	P2B/P2B_table/row6	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 6.
+3	P2B/P2B_table/row6	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 6.
+3	P2B/P2B_table/row6	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 6.
+3	P2B/P2B_table/row7/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 7.
+3	P2B/P2B_table/row7	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 7.
+3	P2B/P2B_table/row7	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 7.
+3	P2B/P2B_table/row7	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 7.
+3	P2B/P2B_table/row7	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 7.
+3	P2B/P2B_table/row7	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 7.
+3	P2B/P2B_table/row7	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 7.
+3	P2B/P2B_table/row7	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 7.
+3	P2B/P2B_table/row8/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 8.
+3	P2B/P2B_table/row8	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 8.
+3	P2B/P2B_table/row8	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 8.
+3	P2B/P2B_table/row8	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 8.
+3	P2B/P2B_table/row8	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 8.
+3	P2B/P2B_table/row8	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 8.
+3	P2B/P2B_table/row8	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 8.
+3	P2B/P2B_table/row8	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 8.
+3	P2B/P2B_table/row9/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 9.
+3	P2B/P2B_table/row9	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 9.
+3	P2B/P2B_table/row9	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 9.
+3	P2B/P2B_table/row9	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 9.
+3	P2B/P2B_table/row9	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 9.
+3	P2B/P2B_table/row9	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 9.
+3	P2B/P2B_table/row9	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 9.
+3	P2B/P2B_table/row9	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 9.
+3	P2B/P2B_table/row10/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 10.
+3	P2B/P2B_table/row10	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 10.
+3	P2B/P2B_table/row10	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 10.
+3	P2B/P2B_table/row10	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 10.
+3	P2B/P2B_table/row10	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 10.
+3	P2B/P2B_table/row10	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 10.
+3	P2B/P2B_table/row10	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 10.
+3	P2B/P2B_table/row10	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 10.
+3	P2B/P2B_table/row11/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 11.
+3	P2B/P2B_table/row11	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 11.
+3	P2B/P2B_table/row11	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 11.
+3	P2B/P2B_table/row11	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 11.
+3	P2B/P2B_table/row11	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 11.
+3	P2B/P2B_table/row11	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 11.
+3	P2B/P2B_table/row11	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 11.
+3	P2B/P2B_table/row11	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 11.
+3	P2B/P2B_table/row12/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 12.
+3	P2B/P2B_table/row12	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 12.
+3	P2B/P2B_table/row12	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 12.
+3	P2B/P2B_table/row12	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 12.
+3	P2B/P2B_table/row12	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 12.
+3	P2B/P2B_table/row12	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 12.
+3	P2B/P2B_table/row12	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 12.
+3	P2B/P2B_table/row12	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 12.
+3	P2B/P2B_table/row13/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 13.
+3	P2B/P2B_table/row13	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 13.
+3	P2B/P2B_table/row13	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 13.
+3	P2B/P2B_table/row13	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 13.
+3	P2B/P2B_table/row13	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 13.
+3	P2B/P2B_table/row13	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 13.
+3	P2B/P2B_table/row13	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 13.
+3	P2B/P2B_table/row13	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 13.
+3	P2B/P2B_table/row14/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 14.
+3	P2B/P2B_table/row14	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 14.
+3	P2B/P2B_table/row14	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 14.
+3	P2B/P2B_table/row14	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 14.
+3	P2B/P2B_table/row14	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 14.
+3	P2B/P2B_table/row14	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 14.
+3	P2B/P2B_table/row14	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 14.
+3	P2B/P2B_table/row14	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 14.
+3	P2B/P2B_table/row15/Cell2	Inpt	100	text		Line 100. Column 1. Tax year-end or relevant date. Year 4 digits. Month 2 digits. Day 2 digits. Row 15.
+3	P2B/P2B_table/row15	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Row 15.
+3	P2B/P2B_table/row15	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Row 15.
+3	P2B/P2B_table/row15	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Row 15.
+3	P2B/P2B_table/row15	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Row 15.
+3	P2B/P2B_table/row15	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Row 15.
+3	P2B/P2B_table/row15	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Row 15.
+3	P2B/P2B_table/row15	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Row 15.
+3	P2B/P2B_table/row16	cell3	110	numeric	12	Line 110. Column 2. Non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and non-deductible portion of capital losses per paragraph 89(1)(a). Totals.
+3	P2B/P2B_table/row16	cell4	120	numeric	12	Line 120. Column 3. Capital dividends received per paragraph 89(1)(b). Totals.
+3	P2B/P2B_table/row16	cell5	130	numeric	12	Line 130. Column 4. Net proceeds of a life insurance policy per paragraph 89(1)(d). Totals.
+3	P2B/P2B_table/row16	cell6	140	numeric	12	Line 140. Column 5. Non-taxable portion of capital gains from a trust before September 16, 2016 per paragraph 89(1)(f). Totals.
+3	P2B/P2B_table/row16	cell7	150	numeric	12	Line 150. Column 6. Capital dividends from a trust per paragraph 89(1)(g). Totals.
+3	P2B/P2B_table/row16	cell8	155	numeric	12	Line 155. Column 7. Foreign affiliate repatriation per paragraph 89(1)(h). Totals.
+3	P2B/P2B_table/row16	cell9	160	numeric	12	Line 160. Column 8. Capital dividends payable per subsection 83(2). Totals.
+3	PageNumbers	CurrentPage		numeric		
+3	PageNumbers	PageCount		numeric		
+4	P3/table1_P3/row1/Cell2/grp	DateYYYYMMDD_Comb	200	text		Line 200. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+4	P3/table1_P3/row1/Cell3	numInpt	210	numeric	12	Line 210. Cost of eligible capital property acquired. Row 1.
+4	P3/table1_P3/row1/Cell4	numInpt	220	numeric	12	Line 220. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 1.
+4	P3/table1_P3/row2/Cell2/grp	DateYYYYMMDD_Comb	200	text		Line 200. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+4	P3/table1_P3/row2/Cell3	numInpt	210	numeric	12	Line 210. Cost of eligible capital property acquired. Row 2.
+4	P3/table1_P3/row2/Cell4	numInpt	220	numeric	12	Line 220. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 2.
+4	P3/table1_P3/row3/Cell2/grp	DateYYYYMMDD_Comb	200	text		Line 200. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+4	P3/table1_P3/row3/Cell3	numInpt	210	numeric	12	Line 210. Cost of eligible capital property acquired. Row 3.
+4	P3/table1_P3/row3/Cell4	numInpt	220	numeric	12	Line 220. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 3.
+4	P3/table1_P3/row4/Cell2/grp	DateYYYYMMDD_Comb	200	text		Line 200. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+4	P3/table1_P3/row4/Cell3	numInpt	210	numeric	12	Line 210. Cost of eligible capital property acquired. Row 4.
+4	P3/table1_P3/row4/Cell4	numInpt	220	numeric	12	Line 220. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 4.
+4	P3/table1_P3/row5/Cell2/grp	DateYYYYMMDD_Comb	200	text		Line 200. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+4	P3/table1_P3/row5/Cell3	numInpt	210	numeric	12	Line 210. Cost of eligible capital property acquired. Row 5.
+4	P3/table1_P3/row5/Cell4	numInpt	220	numeric	12	Line 220. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 5.
+4	P3/table1_P3/row6/Cell2/grp	DateYYYYMMDD_Comb	200	text		Line 200. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 6.
+4	P3/table1_P3/row6/Cell3	numInpt	210	numeric	12	Line 210. Cost of eligible capital property acquired. Row 6.
+4	P3/table1_P3/row6/Cell4	numInpt	220	numeric	12	Line 220. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 6.
+4	P3/table1_P3/row7/Cell2/grp	DateYYYYMMDD_Comb	200	text		Line 200. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 7.
+4	P3/table1_P3/row7/Cell3	numInpt	210	numeric	12	Line 210. Cost of eligible capital property acquired. Row 7.
+4	P3/table1_P3/row7/Cell4	numInpt	220	numeric	12	Line 220. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 7.
+4	P3/table1_P3/row8/Cell2/grp	DateYYYYMMDD_Comb	200	text		Line 200. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 8.
+4	P3/table1_P3/row8/Cell3	numInpt	210	numeric	12	Line 210. Cost of eligible capital property acquired. Row 8.
+4	P3/table1_P3/row8/Cell4	numInpt	220	numeric	12	Line 220. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 8.
+4	P3/table1_P3/row9/Cell2/grp	DateYYYYMMDD_Comb	200	text		Line 200. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 9.
+4	P3/table1_P3/row9/Cell3	numInpt	210	numeric	12	Line 210. Cost of eligible capital property acquired. Row 9.
+4	P3/table1_P3/row9/Cell4	numInpt	220	numeric	12	Line 220. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 9.
+4	P3/table1_P3/row10/Cell2/grp	DateYYYYMMDD_Comb	200	text		Line 200. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 10.
+4	P3/table1_P3/row10/Cell3	numInpt	210	numeric	12	Line 210. Cost of eligible capital property acquired. Row 10.
+4	P3/table1_P3/row10/Cell4	numInpt	220	numeric	12	Line 220. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 10.
+4	P3/P3_table2/row1/Cell2/grp	DateYYYYMMDD_Comb	250	text		Line 250. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+4	P3/P3_table2/row1/Cell3	numInpt	261	numeric	12	Line 261. Cost of eligible capital property acquired. Row 1.
+4	P3/P3_table2/row1/Cell4	numInpt	262	numeric	12	Line 262. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 1.
+4	P3/P3_table2/row1/Cell5	numInpt	270	numeric	12	Line 270. Appropriate portion of the amount deducted as a bad debt per subsection 20(4.2) or as an allowable capital loss per subsection 20(4.3). Row 1.
+4	P3/P3_table2/row2/Cell2/grp	DateYYYYMMDD_Comb	250	text		Line 250. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+4	P3/P3_table2/row2/Cell3	numInpt	261	numeric	12	Line 261. Cost of eligible capital property acquired. Row 2.
+4	P3/P3_table2/row2/Cell4	numInpt	262	numeric	12	Line 262. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 2.
+4	P3/P3_table2/row2/Cell5	numInpt	270	numeric	12	Line 270. Appropriate portion of the amount deducted as a bad debt per subsection 20(4.2) or as an allowable capital loss per subsection 20(4.3). Row 2.
+4	P3/P3_table2/row3/Cell2/grp	DateYYYYMMDD_Comb	250	text		Line 250. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+4	P3/P3_table2/row3/Cell3	numInpt	261	numeric	12	Line 261. Cost of eligible capital property acquired. Row 3.
+4	P3/P3_table2/row3/Cell4	numInpt	262	numeric	12	Line 262. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 3.
+4	P3/P3_table2/row3/Cell5	numInpt	270	numeric	12	Line 270. Appropriate portion of the amount deducted as a bad debt per subsection 20(4.2) or as an allowable capital loss per subsection 20(4.3). Row 3.
+4	P3/P3_table2/row4/Cell2/grp	DateYYYYMMDD_Comb	250	text		Line 250. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+4	P3/P3_table2/row4/Cell3	numInpt	261	numeric	12	Line 261. Cost of eligible capital property acquired. Row 4.
+4	P3/P3_table2/row4/Cell4	numInpt	262	numeric	12	Line 262. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 4.
+4	P3/P3_table2/row4/Cell5	numInpt	270	numeric	12	Line 270. Appropriate portion of the amount deducted as a bad debt per subsection 20(4.2) or as an allowable capital loss per subsection 20(4.3). Row 4.
+4	P3/P3_table2/row5/Cell2/grp	DateYYYYMMDD_Comb	250	text		Line 250. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+4	P3/P3_table2/row5/Cell3	numInpt	261	numeric	12	Line 261. Cost of eligible capital property acquired. Row 5.
+4	P3/P3_table2/row5/Cell4	numInpt	262	numeric	12	Line 262. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 5.
+4	P3/P3_table2/row5/Cell5	numInpt	270	numeric	12	Line 270. Appropriate portion of the amount deducted as a bad debt per subsection 20(4.2) or as an allowable capital loss per subsection 20(4.3). Row 5.
+4	P3/P3_table2/row6/Cell2/grp	DateYYYYMMDD_Comb	250	text		Line 250. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 6.
+4	P3/P3_table2/row6/Cell3	numInpt	261	numeric	12	Line 261. Cost of eligible capital property acquired. Row 6.
+4	P3/P3_table2/row6/Cell4	numInpt	262	numeric	12	Line 262. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 6.
+4	P3/P3_table2/row6/Cell5	numInpt	270	numeric	12	Line 270. Appropriate portion of the amount deducted as a bad debt per subsection 20(4.2) or as an allowable capital loss per subsection 20(4.3). Row 6.
+4	P3/P3_table2/row7/Cell2/grp	DateYYYYMMDD_Comb	250	text		Line 250. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 7.
+4	P3/P3_table2/row7/Cell3	numInpt	261	numeric	12	Line 261. Cost of eligible capital property acquired. Row 7.
+4	P3/P3_table2/row7/Cell4	numInpt	262	numeric	12	Line 262. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 7.
+4	P3/P3_table2/row7/Cell5	numInpt	270	numeric	12	Line 270. Appropriate portion of the amount deducted as a bad debt per subsection 20(4.2) or as an allowable capital loss per subsection 20(4.3). Row 7.
+4	P3/P3_table2/row8/Cell2/grp	DateYYYYMMDD_Comb	250	text		Line 250. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 8.
+4	P3/P3_table2/row8/Cell3	numInpt	261	numeric	12	Line 261. Cost of eligible capital property acquired. Row 8.
+4	P3/P3_table2/row8/Cell4	numInpt	262	numeric	12	Line 262. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 8.
+4	P3/P3_table2/row8/Cell5	numInpt	270	numeric	12	Line 270. Appropriate portion of the amount deducted as a bad debt per subsection 20(4.2) or as an allowable capital loss per subsection 20(4.3). Row 8.
+4	P3/P3_table2/row9/Cell2/grp	DateYYYYMMDD_Comb	250	text		Line 250. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 9.
+4	P3/P3_table2/row9/Cell3	numInpt	261	numeric	12	Line 261. Cost of eligible capital property acquired. Row 9.
+4	P3/P3_table2/row9/Cell4	numInpt	262	numeric	12	Line 262. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 9.
+4	P3/P3_table2/row9/Cell5	numInpt	270	numeric	12	Line 270. Appropriate portion of the amount deducted as a bad debt per subsection 20(4.2) or as an allowable capital loss per subsection 20(4.3). Row 9.
+4	P3/P3_table2/row10/Cell2/grp	DateYYYYMMDD_Comb	250	text		Line 250. Tax year-end. Year 4 digits. Month 2 digits. Day 2 digits. Row 10.
+4	P3/P3_table2/row10/Cell3	numInpt	261	numeric	12	Line 261. Cost of eligible capital property acquired. Row 10.
+4	P3/P3_table2/row10/Cell4	numInpt	262	numeric	12	Line 262. Proceeds of sale, minus outlays and expenses not otherwise deductible, from the disposition of all eligible capital property. Row 10.
+4	P3/P3_table2/row10/Cell5	numInpt	270	numeric	12	Line 270. Appropriate portion of the amount deducted as a bad debt per subsection 20(4.2) or as an allowable capital loss per subsection 20(4.3). Row 10.
+4	PageNumbers	CurrentPage		numeric		
+4	PageNumbers	PageCount		numeric		
+5	P4/P4_table/row1/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 1.
+5	P4/P4_table/row1/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 1.
+5	P4/P4_table/row1/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row1/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 1.
+5	P4/P4_table/row1/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+5	P4/P4_table/row2/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 2.
+5	P4/P4_table/row2/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 2.
+5	P4/P4_table/row2/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row2/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 2
+5	P4/P4_table/row2/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+5	P4/P4_table/row3/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 3.
+5	P4/P4_table/row3/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 3.
+5	P4/P4_table/row3/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row3/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 3.
+5	P4/P4_table/row3/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+5	P4/P4_table/row4/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 4.
+5	P4/P4_table/row4/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 4.
+5	P4/P4_table/row4/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row4/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 4.
+5	P4/P4_table/row4/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+5	P4/P4_table/row5/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 5.
+5	P4/P4_table/row5/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 5.
+5	P4/P4_table/row5/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row5/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 5.
+5	P4/P4_table/row5/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+5	P4/P4_table/row6/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 6.
+5	P4/P4_table/row6/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 6.
+5	P4/P4_table/row6/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row6/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 6.
+5	P4/P4_table/row6/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 6.
+5	P4/P4_table/row7/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 7.
+5	P4/P4_table/row7/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 7.
+5	P4/P4_table/row7/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row7/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 7.
+5	P4/P4_table/row7/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 7.
+5	P4/P4_table/row8/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 8.
+5	P4/P4_table/row8/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 8.
+5	P4/P4_table/row8/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row8/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 8.
+5	P4/P4_table/row8/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 8.
+5	P4/P4_table/row9/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 9.
+5	P4/P4_table/row9/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 9.
+5	P4/P4_table/row9/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row9/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 9.
+5	P4/P4_table/row9/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 9.
+5	P4/P4_table/row10/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 10.
+5	P4/P4_table/row10/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 10.
+5	P4/P4_table/row10/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row10/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 10.
+5	P4/P4_table/row10/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 10.
+5	P4/P4_table/row11/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 11.
+5	P4/P4_table/row11/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 11.
+5	P4/P4_table/row11/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row11/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 11.
+5	P4/P4_table/row11/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 11.
+5	P4/P4_table/row12/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 12.
+5	P4/P4_table/row12/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 12.
+5	P4/P4_table/row12/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row12/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 12.
+5	P4/P4_table/row12/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 12.
+5	P4/P4_table/row13/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 13.
+5	P4/P4_table/row13/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 13.
+5	P4/P4_table/row13/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row13/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 13.
+5	P4/P4_table/row13/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 13.
+5	P4/P4_table/row14/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 14.
+5	P4/P4_table/row14/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 14.
+5	P4/P4_table/row14/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row14/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 14.
+5	P4/P4_table/row14/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 14.
+5	P4/P4_table/row15/Cell2	Inpt	300	text		Line 300. Corporation's name. Row 15.
+5	P4/P4_table/row15/Cell3/grp	Inpt1	310	text		Line 310. First 9 digits of the business number. Row 15.
+5	P4/P4_table/row15/Cell3/grp	Inpt2	310	text		Line 310. Column 2. Program code. 2 letters. Row 1.
+5	P4/P4_table/row15/Cell3/grp	Inpt3	310	text		Line 310. Last 4 digits of the business number. Row 15.
+5	P4/P4_table/row15/Cell4/grp	DateYYYYMMDD_Comb	320	text		Line 320. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 15.
+5	P5/P5_table/row1/Cell2	txtInput	330	text		Line 330. Trust's name. Row 1.
+5	P5/P5_table/row1/Cell3/grp	P1_Ln2_grp_TrustAccNum	335	text		Line 335. Trust account number. The letter T, A or C and 8 digits. Row 1.
+5	P5/P5_table/row1/Cell4/grp	DateYYYYMMDD_Comb	340	text		Line 340. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 1.
+5	P5/P5_table/row2/Cell2	txtInput	330	text		Line 330. Trust's name. Row 2.
+5	P5/P5_table/row2/Cell3/grp	P1_Ln2_grp_TrustAccNum	335	text		Line 335. Trust account number. The letter T, A or C and 8 digits. Row 2.
+5	P5/P5_table/row2/Cell4/grp	DateYYYYMMDD_Comb	340	text		Line 340. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 2.
+5	P5/P5_table/row3/Cell2	txtInput	330	text		Line 330. Trust's name. Row 3.
+5	P5/P5_table/row3/Cell3/grp	P1_Ln2_grp_TrustAccNum	335	text		Line 335. Trust account number. The letter T, A or C and 8 digits. Row 3.
+5	P5/P5_table/row3/Cell4/grp	DateYYYYMMDD_Comb	340	text		Line 340. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 3.
+5	P5/P5_table/row4/Cell2	txtInput	330	text		Line 330. Trust's name. Row 4.
+5	P5/P5_table/row4/Cell3	P1_Ln2_grp_TrustAccNum	335	text		Line 335. Trust account number. The letter T, A or C and 8 digits. Row 4.
+5	P5/P5_table/row4/Cell4/grp	DateYYYYMMDD_Comb	340	text		Line 340. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 4.
+5	P5/P5_table/row5/Cell2	txtInput	330	text		Line 330. Trust's name. Row 5.
+5	P5/P5_table/row5/Cell3/grp	P1_Ln2_grp_TrustAccNum	335	text		Line 335. Trust account number. The letter T, A or C and 8 digits. Row 5.
+5	P5/P5_table/row5/Cell4/grp	DateYYYYMMDD_Comb	340	text		Line 340. Date the dividend became payable. Year 4 digits. Month 2 digits. Day 2 digits. Row 5.
+5	PageNumbers	CurrentPage		numeric		
+5	PageNumbers	PageCount		numeric		
+6	P6/P6_Ln1_sf	Inpt1	350	text		Line 350. Name of insured individual.
+6	P6/P6_Ln1_sf	Inpt2	351	text		Line 351. Name of beneficiary.
+6	P6/P6_Ln2_sf	Inpt1	352	text		Line 352. Policy number.
+6	P6/P6_Ln2_sf	P6_Ln2_txtInpt2	353	numeric	12	Line 353. Adjusted cost base.
+6	P6/P6_Ln2_sf	P6_Ln2_txtInpt3	354	numeric	12	Line 354. Total net proceeds received.
+6	P6/P6_Ln2_sf/P6_Ln2_grp	P6_Ln2_grp_Comb	355	text		Line 355. Policy redemption date. Year 4 digits. Month 2 digits. Day 2 digits.
+6	P6/P6_Ln3_sf	Inpt1	360	text		Line 360. Name of insured individual.
+6	P6/P6_Ln3_sf	Inpt2	361	text		Line 361. Name of beneficiary.
+6	P6/P6_Ln4_sf	Inpt1	362	text		Line 362. Policy number.
+6	P6/P6_Ln4_sf	P6_Ln4_txtInpt2	363	numeric	12	Line 363. Adjusted cost base.
+6	P6/P6_Ln4_sf	P6_Ln4_txtInpt3	364	numeric	12	Line 364. Total net proceeds received.
+6	P6/P6_Ln4_sf/P6_Ln4_grp	P6_Ln4_grp_Comb	365	text		Line 365. Policy redemption date. Year 4 digits. Month 2 digits. Day 2 digits.
+6	P7/P7_Ln7A_sf	P7_Ln7A_numInpt		numeric	12	Amount 7A. Include the non-taxable portion of capital gains, including the non-taxable portion of capital gains from a trust after September 15, 2016, and the non-deductible portion of capital losses. Total of column 3 in Part 2A plus total of column 2 in Part 2B. If negative enter 0.
+6	P7/P7_Ln7B_sf	P7_Ln7B_numInpt		numeric	12	Amount 7B. Capital dividends received. Total of column 4 in Part 2A plus total of column 3 in part 2B.
+6	P7/ln400	inpt400	400	numeric	12	Line 400. Eligible capital property for tax years ending before January 1, 2018. As calculated per former paragraphs 89(1)(c), (c.1) and (c.2). If negative, enter 0.
+6	P7/P7_Ln7C_sf	P7_Ln7C_numInpt		numeric	12	Amount 7C. Life insurance proceeds. Total of column 5 in Part 2A plus total of column 4 in Part 2B; if negative, enter 0.
+6	P7/P7_Ln410_sf	P7_Ln410_numInpt	410	numeric	12	Line 410. Life insurance capital dividend account.
+6	P7/P7_Ln7D_sf	P7_Ln7D_numInpt		numeric	12	Amount 7D. Non-taxable portion of capital gains from a trust before September 16, 2016. Total of column 6 in Part 2A plus total of column 5 in Part 2B.
+6	P7/P7_Ln7E_sf	P7_Ln7E_numInpt		numeric	12	Amount 7E. Capital dividends from a trust. Total of column 7 in Part 2A plus total of column 6 in Part 2B.
+6	P7/P7_Ln420_sf	P7_Ln420_numInpt	420	numeric	12	Line 420. Amounts from predecessor and subsidiary corporations. For amalgamations and wind-ups that happened before July 14, 1990 only.
+6	P7/P7_Ln7F_sf	P7_Ln7F_numInpt		numeric	12	Amount 7F. Foreign affiliate repatriation. Total of column 8 in Part 2A plus total of column 7 in Part 2B.
+6	P7/P7_Ln7G_sf	P7_Ln7G_numInpt		numeric	12	Amount 7G. Subtotal. Add amounts 7A to 7F and lines 400 to 420.
+6	P7/P7_Ln7H_sf	P7_Ln7H_numInpt		numeric	12	Amount 7H. Capital dividends that previously became payable. Total of column 9 in Part 2A plus total of column 8 in Part 2B.
+6	P7/P7_Ln430_sf	P7_Ln430_numInpt	430	numeric	12	Line 430. CDA balance. Amount 7G minus amount 7H. If negative, enter 0.
+6	PageNumbers	CurrentPage		numeric		
+6	PageNumbers	PageCount		numeric		

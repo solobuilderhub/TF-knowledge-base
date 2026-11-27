@@ -1,0 +1,457 @@
+{
+  "2025-07-01": {
+    "federal": {
+      "basicRate": 0.38,
+      "afterTaxAbatement": 0.28,
+      "afterGeneralTaxReduction": 0.15,
+      "ccpcClaimingSbd": 0.09
+    },
+    "provincial": {
+      "NL": {
+        "low": 0.025,
+        "high": 0.15,
+        "limit": 500000
+      },
+      "NS": {
+        "low": 0.015,
+        "high": 0.14,
+        "limit": 700000
+      },
+      "NB": {
+        "low": 0.025,
+        "high": 0.14,
+        "limit": 500000
+      },
+      "PE": {
+        "low": 0.01,
+        "high": 0.15,
+        "limit": 600000
+      },
+      "ON": {
+        "low": 0.032,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "MB": {
+        "low": null,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "SK": {
+        "low": 0.01,
+        "high": 0.12,
+        "limit": 600000
+      },
+      "BC": {
+        "low": 0.02,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NU": {
+        "low": 0.03,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NT": {
+        "low": 0.02,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "YT": {
+        "low": 0,
+        "high": 0.12,
+        "limit": 500000
+      }
+    }
+  },
+  "2025-04-01": {
+    "federal": {
+      "basicRate": 0.38,
+      "afterTaxAbatement": 0.28,
+      "afterGeneralTaxReduction": 0.15,
+      "ccpcClaimingSbd": 0.09
+    },
+    "provincial": {
+      "NL": {
+        "low": 0.025,
+        "high": 0.15,
+        "limit": 500000
+      },
+      "NS": {
+        "low": 0.015,
+        "high": 0.14,
+        "limit": 700000
+      },
+      "NB": {
+        "low": 0.025,
+        "high": 0.14,
+        "limit": 500000
+      },
+      "PE": {
+        "low": 0.01,
+        "high": 0.16,
+        "limit": 500000
+      },
+      "ON": {
+        "low": 0.032,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "MB": {
+        "low": null,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "SK": {
+        "low": 0.01,
+        "high": 0.12,
+        "limit": 600000
+      },
+      "BC": {
+        "low": 0.02,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NU": {
+        "low": 0.03,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NT": {
+        "low": 0.02,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "YT": {
+        "low": 0,
+        "high": 0.12,
+        "limit": 500000
+      }
+    }
+  },
+  "2024-01-01": {
+    "federal": {
+      "basicRate": 0.38,
+      "afterTaxAbatement": 0.28,
+      "afterGeneralTaxReduction": 0.15,
+      "ccpcClaimingSbd": 0.09
+    },
+    "provincial": {
+      "NL": {
+        "low": 0.025,
+        "high": 0.15,
+        "limit": 500000
+      },
+      "NS": {
+        "low": 0.025,
+        "high": 0.14,
+        "limit": 500000
+      },
+      "NB": {
+        "low": 0.025,
+        "high": 0.14,
+        "limit": 500000
+      },
+      "PE": {
+        "low": 0.01,
+        "high": 0.16,
+        "limit": 500000
+      },
+      "ON": {
+        "low": 0.032,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "MB": {
+        "low": null,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "SK": {
+        "low": 0.01,
+        "high": 0.12,
+        "limit": 600000
+      },
+      "BC": {
+        "low": 0.02,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NU": {
+        "low": 0.03,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NT": {
+        "low": 0.02,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "YT": {
+        "low": 0,
+        "high": 0.12,
+        "limit": 500000
+      }
+    }
+  },
+  "2023-01-01": {
+    "federal": {
+      "basicRate": 0.38,
+      "afterTaxAbatement": 0.28,
+      "afterGeneralTaxReduction": 0.15,
+      "ccpcClaimingSbd": 0.09
+    },
+    "provincial": {
+      "NL": {
+        "low": 0.03,
+        "high": 0.15,
+        "limit": 500000
+      },
+      "NS": {
+        "low": 0.025,
+        "high": 0.14,
+        "limit": 500000
+      },
+      "NB": {
+        "low": 0.025,
+        "high": 0.14,
+        "limit": 500000
+      },
+      "PE": {
+        "low": 0.01,
+        "high": 0.16,
+        "limit": 500000
+      },
+      "ON": {
+        "low": 0.032,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "MB": {
+        "low": null,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "SK": {
+        "low": 0,
+        "high": 0.12,
+        "limit": 600000
+      },
+      "BC": {
+        "low": 0.02,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NU": {
+        "low": 0.03,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NT": {
+        "low": 0.02,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "YT": {
+        "low": 0,
+        "high": 0.12,
+        "limit": 500000
+      }
+    }
+  },
+  "2022-01-01": {
+    "federal": {
+      "basicRate": 0.38,
+      "afterTaxAbatement": 0.28,
+      "afterGeneralTaxReduction": 0.15,
+      "ccpcClaimingSbd": 0.09
+    },
+    "provincial": {
+      "NL": {
+        "low": 0.03,
+        "high": 0.15,
+        "limit": 500000
+      },
+      "NS": {
+        "low": 0.025,
+        "high": 0.14,
+        "limit": 500000
+      },
+      "NB": {
+        "low": 0.025,
+        "high": 0.14,
+        "limit": 500000
+      },
+      "PE": {
+        "low": 0.01,
+        "high": 0.16,
+        "limit": 500000
+      },
+      "ON": {
+        "low": 0.32,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "MB": {
+        "low": null,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "SK": {
+        "low": 0,
+        "high": 0.12,
+        "limit": 600000
+      },
+      "BC": {
+        "low": 0.02,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NU": {
+        "low": 0.03,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NT": {
+        "low": 0.02,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "YT": {
+        "low": 0,
+        "high": 0.12,
+        "limit": 500000
+      }
+    }
+  },
+  "2021-01-01": {
+    "federal": {
+      "basicRate": 0.38,
+      "afterTaxAbatement": 0.28,
+      "afterGeneralTaxReduction": 0.15,
+      "ccpcClaimingSbd": 0.09
+    },
+    "provincial": {
+      "NL": {
+        "low": 0.03,
+        "high": 0.15,
+        "limit": 500000
+      },
+      "NS": {
+        "low": 0.025,
+        "high": 0.14,
+        "limit": 500000
+      },
+      "NB": {
+        "low": 0.025,
+        "high": 0.14,
+        "limit": 500000
+      },
+      "PE": {
+        "low": 0.02,
+        "high": 0.16,
+        "limit": 500000
+      },
+      "ON": {
+        "low": 0.32,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "MB": {
+        "low": null,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "SK": {
+        "low": 0,
+        "high": 0.12,
+        "limit": 600000
+      },
+      "BC": {
+        "low": 0.02,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NU": {
+        "low": 0.03,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NT": {
+        "low": 0.02,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "YT": {
+        "low": 0,
+        "high": 0.12,
+        "limit": 500000
+      }
+    }
+  },
+  "2020-01-01": {
+    "federal": {
+      "basicRate": 0.38,
+      "afterTaxAbatement": 0.28,
+      "afterGeneralTaxReduction": 0.15,
+      "ccpcClaimingSbd": 0.09
+    },
+    "provincial": {
+      "NL": {
+        "low": 0.03,
+        "high": 0.15,
+        "limit": 500000
+      },
+      "NS": {
+        "low": 0.03,
+        "high": 0.16,
+        "limit": 500000
+      },
+      "NB": {
+        "low": 0.025,
+        "high": 0.14,
+        "limit": 500000
+      },
+      "PE": {
+        "low": 0.03,
+        "high": 0.16,
+        "limit": 500000
+      },
+      "ON": {
+        "low": 0.32,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "MB": {
+        "low": null,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "SK": {
+        "low": 0.02,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "BC": {
+        "low": 0.02,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NU": {
+        "low": 0.03,
+        "high": 0.12,
+        "limit": 500000
+      },
+      "NT": {
+        "low": 0.04,
+        "high": 0.115,
+        "limit": 500000
+      },
+      "YT": {
+        "low": 0.02,
+        "high": 0.12,
+        "limit": 500000
+      }
+    }
+  }
+}

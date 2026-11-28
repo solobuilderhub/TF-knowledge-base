@@ -1,13 +1,13 @@
 #!/usr/bin/env node
-// AuraTax T2 calculators -> formula register.
+// AuraTax calculators (T2 or AT1) -> formula register.
 //
-// Parses AuraTax's shipped T2 calculator bundle (never executes it) and writes,
+// Parses AuraTax's shipped calculator bundle (never executes it) and writes,
 // for every line the calculators set, the formula in readable notation, the
 // conditions it sits under, and the exact source location. Every dirtify() and
 // reportValueOn() call is accounted for; anything the translator cannot render
 // exactly is marked "as written" and counted.
 //
-//   node formulas.mjs --app <AuraTax resources folder> --out <dir>
+//   node formulas.mjs [--program t2|at1] --app <AuraTax resources folder> --out <dir>
 //
 // Not a primary source: this documents what AuraTax computes, not what is right.
 import { createHash } from 'node:crypto';
@@ -26,12 +26,15 @@ if (!APP || !OUT || !existsSync(join(APP, 'app.asar'))) {
   process.exit(1);
 }
 const WEB = join(APP, 'app.asar.unpacked', 'app');
-const FIX = join(WEB, 'assets', 'fixtures', 't2');
+const PROG = (arg('--program') ?? 't2').toLowerCase();
+const P = PROG.toUpperCase();
+const MOD = `./src/app/modules/${PROG}/`;
+const FIX = join(WEB, 'assets', 'fixtures', PROG);
 
-// ── the T2 chunk: the one holding ./src/app/modules/t2/t2-calculate.ts ─────
+// ── the calculator chunk: the one holding ./src/app/modules/<program>/<program>-calculate.ts
 const chunkName = readdirSync(WEB).filter((f) => f.endsWith('.js'))
-  .find((f) => readFileSync(join(WEB, f), 'utf8').includes('!*** ./src/app/modules/t2/t2-calculate.ts ***!'));
-if (!chunkName) { console.error('T2 calculator chunk not found'); process.exit(1); }
+  .find((f) => readFileSync(join(WEB, f), 'utf8').includes(`!*** ${MOD}${PROG}-calculate.ts ***!`));
+if (!chunkName) { console.error(`${P} calculator chunk not found`); process.exit(1); }
 const SRC = readFileSync(join(WEB, chunkName), 'utf8');
 const chunkSha = createHash('sha256').update(SRC).digest('hex');
 const version = (() => {
@@ -70,7 +73,8 @@ const byPath = new Map([...modules.values()].map((m) => [m.path, m]));
 
 // ── fixtures: captions, aliases, order, rates ───────────────────────────────
 const loadJson = (p) => JSON.parse(readFileSync(p, 'utf8'));
-const specs = {};
+function loadSpecs(FIX) {
+  const specs = {};
 for (const f of readdirSync(join(FIX, 'specs'))) {
   const code = f.replace(/\.json$/, '');
   const s = loadJson(join(FIX, 'specs', f));
@@ -101,6 +105,11 @@ for (const f of readdirSync(join(FIX, 'extras'))) {
   let pos = 0; // the page's own order, where AuraTax lists it
   for (const sec of e._sections ?? []) for (const k of sec.codes ?? []) { const fld = sp.fields.get(k); if (fld) fld.order = pos++; }
 }
+  return specs;
+}
+const specsByProg = { [PROG]: loadSpecs(FIX) };
+if (PROG !== 't2') specsByProg.t2 = loadSpecs(join(WEB, 'assets', 'fixtures', 't2'));
+const specs = specsByProg[PROG];
 const rates = loadJson(join(FIX, 'refs', 'calculate-params.json'));
 const rateDate = loadJson(join(FIX, 'conf.json')).lastCalcParamDate;
 
@@ -117,7 +126,7 @@ const modVarToPath = (modFn) => {
   });
   return m;
 };
-const regModule = byPath.get('./src/app/modules/t2/calculators/t2.ts');
+const regModule = byPath.get(`${MOD}calculators/${PROG}.ts`);
 const regVars = modVarToPath(regModule.fn);
 const registry = [];
 walk.simple(regModule.fn, {
@@ -131,7 +140,7 @@ walk.simple(regModule.fn, {
 });
 // t2-calculate's init(): '005_1' -> filterSchedules('005', t2)
 const schAlias = {};
-walk.simple(byPath.get('./src/app/modules/t2/t2-calculate.ts').fn, {
+walk.simple(byPath.get(`${MOD}${PROG}-calculate.ts`).fn, {
   Property(p) {
     const k = p.key.type === 'Literal' ? p.key.value : p.key.name;
     if (p.value.type === 'CallExpression' && /filterSchedules$/.test(raw(p.value.callee))) schAlias[k] = p.value.arguments[0].value;
@@ -153,7 +162,7 @@ function short(n) {
   if (n.type === 'MemberExpression' && !n.computed) {
     if (n.object.type === 'Identifier') {
       const m = n.object.name.match(/^_?([\w$]*?)__WEBPACK_IMPORTED_MODULE_\d+__$/);
-      if (m) return m[1] === 'aurasoft_t2_base' || m[1] === 't2_functions' ? n.property.name : `${m[1]}.${n.property.name}`;
+      if (m) return m[1] === 'aurasoft_t2_base' || m[1] === 't2_functions' || m[1] === `${PROG}_functions` ? n.property.name : `${m[1]}.${n.property.name}`;
       return `${n.object.name}.${n.property.name}`;
     }
     const inner = short(n.object);
@@ -179,6 +188,14 @@ function declsIn(fnNode, before) {
   const visit = (node, conds, nested) => {
     if (!node || typeof node.type !== 'string') return;
     const enteringNested = node !== fnNode && /Function/.test(node.type);
+    if (node.type === 'VariableDeclarator' && node.id.type === 'ArrayPattern' && !nested && node.init?.type === 'CallExpression'
+      && node.init.callee.type === 'MemberExpression' && node.init.callee.property.name === 'split' && node.init.arguments[0]?.type === 'Literal') {
+      node.id.elements.forEach((el, i) => {
+        if (el?.type !== 'Identifier') return;
+        declared.add(el.name);
+        if (node.start < before) addWrite(el.name, { op: '=', node: { type: 'SplitElement', of: node.init.callee.object, sep: node.init.arguments[0].value, index: i, start: node.start, end: node.end }, conds, nested, start: node.start });
+      });
+    }
     if (node.type === 'VariableDeclarator' && node.id.type === 'Identifier' && !nested) {
       declared.add(node.id.name);
       if (node.init && node.start < before) addWrite(node.id.name, { op: '=', node: node.init, conds, nested, start: node.start });
@@ -257,6 +274,8 @@ function testKind(node, scope, seen = 0) {
 }
 function renderTest(node, scope, ctx) {
   const n = unwrap(node);
+  if (n?.type === 'MemberExpression' && !n.computed && n.property.name === 'linkedT2') return 'a linked T2 return exists';
+  if (n?.type === 'UnaryExpression' && n.operator === '!' && unwrap(n.argument)?.type === 'MemberExpression' && unwrap(n.argument).property?.name === 'linkedT2') return 'there is no linked T2 return';
   if (n?.type === 'LogicalExpression' && (n.operator === '&&' || n.operator === '||')) {
     return `(${renderTest(n.left, scope, ctx)} ${OPS[n.operator]} ${renderTest(n.right, scope, ctx)})`;
   }
@@ -289,15 +308,15 @@ const negate = (t) => {
 const OPS = { '===': '=', '==': '=', '!==': '≠', '!=': '≠', '&&': 'and', '||': 'or', '??': 'or else', '*': '×', '/': '÷', '-': '−', '+': '+', '<': '<', '>': '>', '<=': '≤', '>=': '≥', '%': 'mod' };
 const fmtNum = (v) => (Number.isInteger(v) ? String(v) : String(+v.toPrecision(12)));
 // AuraTax's internal field id ('f4507') -> the printed line number ('450')
-const lineCode = (sch, key) => {
+const lineCode = (sch, key, prog) => {
   if (/^\d+$/.test(key)) return key;
-  const c = specs[sch]?.fields.get(key)?.code;
+  const c = (prog ? specsByProg[prog] : specs)?.[sch]?.fields.get(key)?.code;
   return c && /^\d+$/.test(c) ? c : key;
 };
-const keyLabel = (sch, key) => {
-  key = lineCode(sch, key);
+const keyLabel = (sch, key, prog) => {
+  key = lineCode(sch, key, prog);
   if (/^\d+$/.test(key)) return `line ${key}`;
-  const f = specs[sch]?.fields.get(key);
+  const f = (prog ? specsByProg[prog] : specs)?.[sch]?.fields.get(key);
   return f?.alias ? `amount ${f.alias} [${key}]` : `[${key}]`;
 };
 
@@ -307,6 +326,8 @@ class Ctx {
 }
 
 function unwrap(n) { while (n && (n.type === 'ChainExpression' || n.type === 'ParenthesizedExpression')) n = n.expression; return n; }
+// one part of 'a:b'.split(':'), as written in a destructuring
+const splitText = (n, scope, ctx) => `${render(n.of, scope, ctx)} part ${n.index + 1}`;
 
 // Follow identifiers and member paths to the node they stand for.
 function resolve(node, scope, seen = 0) {
@@ -321,7 +342,7 @@ function resolve(node, scope, seen = 0) {
   }
   if (node.type === 'MemberExpression') {
     const base = resolve(node.object, scope, seen + 1);
-    const key = node.computed ? (unwrap(node.property).type === 'Literal' ? String(unwrap(node.property).value) : null) : node.property.name;
+    const key = node.computed ? literalKey(node.property, scope) : node.property.name;
     if (base?.node && key != null) {
       const o = unwrap(base.node);
       if (o.type === 'ObjectExpression') {
@@ -346,7 +367,12 @@ function schRef(node, scope, ctx, seen = 0) {
   }
   if (node.type === 'CallExpression') {
     const name = short(node.callee);
-    const a0 = unwrap(node.arguments[0]);
+    let a0 = unwrap(node.arguments[0]);
+    if (a0 && a0.type !== 'Literal' && a0.type !== 'TemplateLiteral' && literalKey(a0, scope) != null) a0 = { type: 'Literal', value: literalKey(a0, scope) };
+    const linked = node.arguments[1] && /linkedT2/.test(raw(node.arguments[1])) && PROG !== 't2' ? 't2' : null;
+    if (linked && (name === 'getSchedule' || name === 'filterSchedules') && a0?.type === 'Literal') {
+      return { kind: name === 'getSchedule' ? 'sch' : 'list', code: a0.value, prog: linked, label: `T2 Sch ${a0.value}` };
+    }
     if (name === 'getSchedule' && a0?.type === 'Literal') return { kind: 'sch', code: a0.value };
     if (name === 'filterSchedules' && a0?.type === 'Literal') return { kind: 'list', code: a0.value };
     // getSchedule(`032.${sch.sequence}`, t2): the copy of Sch 032 matching this copy
@@ -384,6 +410,7 @@ function schRef(node, scope, ctx, seen = 0) {
     const a = schRef(node.consequent, scope, ctx, seen + 1), b = schRef(node.alternate, scope, ctx, seen + 1);
     if (a && b) return { kind: 'sch', code: a.code, label: `${schText(a)} if ${render(node.test, scope, ctx)}, else ${schText(b)}` };
   }
+  if (node.type === 'LogicalExpression' && node.operator === '&&') return schRef(node.right, scope, ctx, seen + 1);
   if (node.type === 'LogicalExpression') {
     const a = schRef(node.left, scope, ctx, seen + 1), b = schRef(node.right, scope, ctx, seen + 1);
     if (a || b) return a && b ? { kind: 'sch', code: a.code, label: `${schText(a)}, or else ${schText(b)}` } : (a ?? b);
@@ -399,6 +426,14 @@ function literalKey(node, scope) {
   if (k?.type === 'Identifier') {
     const b = scope.lookup(k.name);
     if (b?.node && unwrap(b.node).type === 'Literal') return String(unwrap(b.node).value);
+    if (b?.node?.type === 'SplitElement') {
+      const whole = literalKey(b.node.of, b.scope ?? scope);
+      if (whole != null) return whole.split(b.node.sep)[b.node.index];
+    }
+  }
+  if (k?.type === 'Identifier' || k?.type === 'MemberExpression') {
+    const r = resolve(k, scope);
+    if (r?.node && unwrap(r.node).type === 'Literal') return String(unwrap(r.node).value);
   }
   return null;
 }
@@ -416,7 +451,7 @@ function lineRef(schNode, keyNode, scope, ctx, row) {
   const rowed = key.match(/^(\w+)\.\{?(.+?)\}?$/);
   if (rowed) { key = rowed[1]; row = row ?? (rowed[2] === 'that row' ? 'same row' : rowed[2]); }
   const sch = s?.code && s.code !== '?' ? s.code : ctx.moduleSch;
-  const base = /^[\w]+$/.test(key) ? keyLabel(sch, key) : `line ${key}`;
+  const base = /^[\w]+$/.test(key) ? keyLabel(sch, key, s?.prog) : `line ${key}`;
   const suffix = row ? ` (${/^\d+$/.test(row) ? `row ${row}` : row})` : '';
   if (!s) return `${render(schNode, scope, ctx)} → ${base}${suffix}`;
   if (s.kind === 'this') return (ctx.qualifyThis ? `Sch ${ctx.moduleSch} ` : '') + base + suffix;
@@ -509,6 +544,12 @@ function reduceText(call, scope, ctx) {
     if (plus) return `Σ over each ${listTxt.replace(/^every /, '')} of (${render(stmts[0].expression.right, inner, ctx)})`;
   }
   const e = bodyExpr(fn);
+  if (e && e.type === 'BinaryExpression' && e.operator === '+' && unwrap(e.left).type === 'Identifier' && unwrap(e.left).name === acc) {
+    return `Σ over each ${listTxt.replace(/^every /, '')} of (${render(e.right, inner, ctx)})`;
+  }
+  if (e && e.type === 'CallExpression' && methodName(e.callee) === 'concat' && unwrap(e.callee.object)?.name === acc) {
+    return `{${render(e.arguments[0], inner, ctx)}, for each ${listTxt.replace(/^every /, '')}}`;
+  }
   if (e && e.type === 'CallExpression' && short(e.callee) === 'doSum' && unwrap(e.arguments[0])?.type === 'ArrayExpression') {
     const els = unwrap(e.arguments[0]).elements;
     if (els.length === 2 && els[0].type === 'Identifier' && els[0].name === acc) return `Σ over each ${listTxt.replace(/^every /, '')} of (${render(els[1], inner, ctx)})`;
@@ -591,8 +632,12 @@ function renderInner(node, scope, ctx) {
       if (nm && !/^[A-Z_]+$/.test(nm)) { ctx.named.add(nm); return nm; }
       return nm ?? `${render(node.object, scope, ctx)}[${render(node.property, scope, ctx)}]`;
     }
-    case 'BinaryExpression':
-    case 'LogicalExpression': {
+    case 'LogicalExpression':
+      if (node.operator === '&&' && ['schedule', 'field'].includes(testKind(node.left, scope))) {
+        return `${render(node.right, scope, ctx)} (when ${renderTest(node.left, scope, ctx)})`;
+      }
+    // falls through
+    case 'BinaryExpression': {
       const l = render(node.left, scope, ctx), r = render(node.right, scope, ctx);
       return `(${l} ${OPS[node.operator] ?? node.operator} ${r})`;
     }
@@ -601,12 +646,21 @@ function renderInner(node, scope, ctx) {
       if (node.operator === '!') return `not ${render(node.argument, scope, ctx)}`;
       if (node.operator === '-') return `−${render(node.argument, scope, ctx)}`;
       return `${node.operator} ${render(node.argument, scope, ctx)}`;
-    case 'ConditionalExpression':
+    case 'ConditionalExpression': {
+      // isBlank(v) ? 0 : v  ->  v (blank as 0)
+      const t = unwrap(node.test);
+      if (t.type === 'CallExpression' && short(t.callee) === 'isBlank' && unwrap(node.consequent).type === 'Literal' && unwrap(node.consequent).value === 0
+        && raw(t.arguments[0]) === raw(node.alternate)) return `${render(node.alternate, scope, ctx)} (blank as 0)`;
       return `(${render(node.consequent, scope, ctx)} if ${render(node.test, scope, ctx)}, else ${render(node.alternate, scope, ctx)})`;
+    }
     case 'ArrayExpression':
       return `[${node.elements.map((e) => render(e, scope, ctx)).join(', ')}]`;
     case 'CallExpression':
       return renderCall(node, scope, ctx);
+    case 'SplitElement': {
+      const lit = literalKey({ type: 'Identifier', name: '__split' }, new Scope(scope, new Map([['__split', { node }]])));
+      return lit != null ? `'${lit}'` : splitText(node, scope, ctx);
+    }
     case 'NewExpression':
       return `new ${short(node.callee) ?? render(node.callee, scope, ctx)}(${node.arguments.map((x) => render(x, scope, ctx)).join(', ')})`;
     case 'SpreadElement':
@@ -636,8 +690,9 @@ function renderCall(node, scope, ctx) {
   const items = (n) => (unwrap(n)?.type === 'ArrayExpression' ? unwrap(n).elements.map(R) : [`each of ${R(n)}`]);
   const seq = (n) => (n ? R(n) : null);
   switch (name) {
+    case 'extractValue': if (a.length === 1) return R(a[0]); return lineRef(a[1], a[0], scope, ctx);
     case 'valueFrom': case 'floatValueFrom': case 'getField': return lineRef(a[1], a[0], scope, ctx);
-    case 'valueOf': case 'floatValueOf': case 'floatVal': case 'Number': case 'parseFloat': return R(a[0]);
+    case 'valueOf': case 'floatValueOf': case 'floatVal': case 'Number': case 'parseFloat': case 'String': return R(a[0]);
     case 'filterFields': return `every row of ${lineRef(a[1], a[0], scope, ctx)}`;
     case 'totalOf': return `total of ${R(a[0])}`;
     case 'sumFrom': return `sum(${listOfKeys(a[1], a[0], scope, ctx, seq(a[2])).join(', ')})`;
@@ -728,7 +783,10 @@ function renderCall(node, scope, ctx) {
 }
 
 // ── what one call sets ──────────────────────────────────────────────────────
-const KIND = { dirtify: 'set', reportValueOn: 'carried here', addTo: 'added to', calcTotal: 'total recomputed' };
+const KIND = { dirtify: 'set', reportValueOn: 'carried here', addTo: 'added to', calcTotal: 'total recomputed', safe_dirtify: 'federal default' };
+// AT1's shared helper fnAT1.safe_dirtify(table, sch, fedSchedule): for each line of the table that is blank,
+// set it from the federal line(s) the table names, when that amount is non-zero.
+const setterName = (callee) => { const n = short(callee); return n && /(^|\.)safe_dirtify$/.test(n) ? 'safe_dirtify' : n; };
 const totalIndex = loadJson(join(FIX, 'refs', 'total-index.json'));
 function totalFormula(sch, key) {
   const t = totalIndex[sch]?.[key];
@@ -791,7 +849,7 @@ for (const reg of registry) {
     if (!isReset) stats.calcFunctions++;
     walk.ancestor(fn, {
       CallExpression(call, _state, ancestors) {
-        const cname = short(call.callee);
+        const cname = setterName(call.callee);
         if (isReset) {
           if (cname === 'resetFields') {
             const s = schRef(call.arguments[0], buildScope(ancestors, fn, moduleScope, moduleSch, call), new Ctx(moduleSch));
@@ -804,13 +862,18 @@ for (const reg of registry) {
         if (!Object.hasOwn(KIND, cname)) return;
         stats[cname] = (stats[cname] ?? 0) + 1;
         const baseScope = buildScope(ancestors, fn, moduleScope, moduleSch, call);
+        if (cname === 'safe_dirtify') { recordSafeDirtify(call, ancestors, baseScope, reg, moduleSch); return; }
+        // A loop over a table: for (const [line, fed] of Object.entries(T)) / for (const line in T).
+        // Each row of T becomes its own entry, with the loop variables bound to that row.
+        const loop = tableLoop(ancestors, baseScope);
         // The key of a target set inside ['115', '120'].forEach(code => ...) is one of a fixed list.
         const keyArg = keyNodeOf(call, cname, baseScope);
         const listVar = keyArg?.type === 'Identifier' ? keyArg : keyArg?.type === 'TemplateLiteral' && unwrap(keyArg.expressions[0])?.type === 'Identifier' ? unwrap(keyArg.expressions[0]) : null;
-        const each = listVar ? baseScope.lookup(listVar.name)?.eachOf : null;
+        const each = !loop && listVar ? baseScope.lookup(listVar.name)?.eachOf : null;
         const holder = each ? baseScope.lookupRaw(listVar.name) : null;
-        for (const v of each ?? [null]) {
+        for (const v of loop ? loop.rows : each ?? [null]) {
           if (holder) holder.current = { type: 'Literal', value: v, start: call.start, end: call.start };
+          if (loop) for (const [name, node] of v) baseScope.vars.set(name, { node });
           const scope = baseScope;
           const ctx = new Ctx(moduleSch);
           const { targetSch, targetKey, row: rowText, formula } = analyse(call, cname, scope, ctx, moduleSch);
@@ -823,14 +886,76 @@ for (const reg of registry) {
           entries.push({
             targetSch, targetKey, row: rowText, kind: KIND[cname],
             formula, conditions: each ? conditions.filter((c) => !(c.startsWith('for each') && c.includes(`'${each[0]}'`))) : conditions,
-            module: reg.path.replace('./src/app/modules/t2/', ''), export: reg.exp, fn: srcFn,
+            module: reg.path.replace(MOD, ''), export: reg.exp, fn: srcFn,
             chunkLine: lineOf(call), col: call.loc.start.column, runOrder: reg.order, moduleSch, exact, asWritten: ctx.asWritten,
           });
         }
         if (holder) delete holder.current;
+        if (loop) for (const name of loop.names) baseScope.vars.delete(name);
       },
     });
   });
+}
+
+// for (const [k, v] of Object.entries(T)) / for (const k in T), T a literal table: one binding set per row
+function tableLoop(ancestors, scope) {
+  for (let i = ancestors.length - 1; i >= 0; i--) {
+    const n = ancestors[i];
+    if (/Function/.test(n.type)) break; // only loops inside the function that sets the value
+    let table = null, names = null, rowsOf = null;
+    if (n.type === 'ForOfStatement' && n.left.type === 'VariableDeclaration' && n.left.declarations[0].id.type === 'ArrayPattern'
+      && n.right.type === 'CallExpression' && raw(n.right.callee) === 'Object.entries') {
+      table = resolve(n.right.arguments[0], scope)?.node;
+      const [k, v] = n.left.declarations[0].id.elements.map((e) => e?.name);
+      names = [k, v].filter(Boolean);
+      rowsOf = (p) => [[k, { type: 'Literal', value: String(p.key.value ?? p.key.name), start: n.start, end: n.start }], ...(v ? [[v, p.value]] : [])];
+    }
+    if (n.type === 'ForInStatement' && n.left.type === 'VariableDeclaration' && n.left.declarations[0].id.type === 'Identifier') {
+      table = resolve(n.right, scope)?.node;
+      const k = n.left.declarations[0].id.name;
+      names = [k];
+      rowsOf = (p) => [[k, { type: 'Literal', value: String(p.key.value ?? p.key.name), start: n.start, end: n.start }]];
+    }
+    if (table && unwrap(table).type === 'ObjectExpression') {
+      const props = unwrap(table).properties.filter((p) => p.type === 'Property');
+      return { names, rows: props.map(rowsOf) };
+    }
+  }
+  return null;
+}
+
+// fnAT1.safe_dirtify(table, sch, fedSchedule): one "federal default" entry per row of the table
+function recordSafeDirtify(call, ancestors, scope, reg, moduleSch) {
+  const ctx0 = new Ctx(moduleSch);
+  // the same name may be declared in sibling blocks: the table is the latest one declared before the call
+  const r0 = resolve(call.arguments[0], scope);
+  const table = r0?.binding?.steps ? r0.binding.steps.filter((w) => w.start < call.start).at(-1)?.node : r0?.node;
+  const fed = schRef(call.arguments[2], scope, ctx0);
+  const fedLabel = fed ? schText(fed) : render(call.arguments[2], scope, ctx0);
+  const target = schRef(call.arguments[1], scope, ctx0);
+  const targetSch = !target || target.kind === 'this' ? moduleSch : target.code;
+  if (unwrap(table)?.type !== 'ObjectExpression') {
+    stats.unresolvedTarget++;
+    entries.push({ targetSch: '?', targetKey: `{${render(call.arguments[0], scope, ctx0)}}`, row: null, kind: KIND.safe_dirtify,
+      formula: `each line of the table, from ${fedLabel}`, conditions: [], module: reg.path.replace(MOD, ''), export: reg.exp, fn: '',
+      chunkLine: lineOf(call), col: call.loc.start.column, runOrder: reg.order, moduleSch, exact: false, asWritten: [raw(call)] });
+    return;
+  }
+  const srcFn = [...ancestors].reverse().find((n) => /Function/.test(n.type) && n.id?.name)?.id.name ?? '';
+  for (const p of unwrap(table).properties) {
+    if (p.type !== 'Property') continue;
+    const ctx = new Ctx(moduleSch);
+    const key = String(p.key.value ?? p.key.name);
+    const v = unwrap(p.value);
+    const fedLines = v.type === 'ArrayExpression' ? v.elements.map((e) => String(e.value)) : [String(v.value)];
+    const refs = fedLines.map((l) => `${fedLabel}: ${keyLabel(fed?.code ?? '', l, fed?.prog)}`);
+    const formula = refs.length === 1 ? refs[0] : `sum(${refs.join(', ')})`;
+    const conditions = [...conditionsOf(ancestors, call, scope, ctx, key), `line ${key} is blank`, `${formula} is non-zero`];
+    stats.exact++;
+    entries.push({ targetSch, targetKey: key, row: null, kind: KIND.safe_dirtify, formula, conditions,
+      module: reg.path.replace(MOD, ''), export: reg.exp, fn: srcFn, chunkLine: lineOf(call), col: call.loc.start.column,
+      runOrder: reg.order, moduleSch, exact: true, asWritten: [] });
+  }
 }
 
 // Second sweep: every dirtify/reportValueOn in a calculator module that the
@@ -847,9 +972,9 @@ for (const reg of registry) {
   const moduleScope = new Scope(null, declsIn(mod.fn, Infinity));
   walk.ancestor(mod.fn, {
     CallExpression(call, _s, ancestors) {
-      const cname = short(call.callee);
+      const cname = setterName(call.callee);
       if (!Object.hasOwn(KIND, cname)) return;
-      const module = reg.path.replace('./src/app/modules/t2/', '');
+      const module = reg.path.replace(MOD, '');
       if (seenCalls.has(`${module}@${lineOf(call)}@${call.loc.start.column}`)) return;
       const fnAnc = ancestors.filter((n) => /Function/.test(n.type));
       const owner = [...fnAnc].reverse().find((n) => n.id?.name) ?? null;
@@ -869,8 +994,9 @@ for (const reg of registry) {
         for (const [k, v] of declsIn(f, call.start)) if (!sc.vars.has(k)) sc.vars.set(k, { ...v, scope: sc });
         scope = sc;
       }
-      const ctx = new Ctx(moduleSch);
       stats[cname] = (stats[cname] ?? 0) + 1;
+      if (cname === 'safe_dirtify') { recordSafeDirtify(call, ancestors, scope, reg, moduleSch); return; }
+      const ctx = new Ctx(moduleSch);
       const { targetSch, targetKey, row: rowText, formula } = analyse(call, cname, scope, ctx, moduleSch);
       if (targetSch === '?' || /[{}]/.test(targetKey)) stats.unresolvedTarget++;
       for (const n of ctx.named) named.set(n, (named.get(n) ?? 0) + 1);
@@ -1048,8 +1174,8 @@ const callSites = new Map();
 for (const path of new Set(registry.map((r) => r.path))) {
   walk.simple(byPath.get(path).fn, {
     CallExpression(c) {
-      const n = short(c.callee);
-      if (Object.hasOwn(KIND, n)) callSites.set(`${path.replace('./src/app/modules/t2/', '')}@${lineOf(c)}@${c.loc.start.column}`, n);
+      const n = setterName(c.callee);
+      if (Object.hasOwn(KIND, n)) callSites.set(`${path.replace(MOD, '')}@${lineOf(c)}@${c.loc.start.column}`, n);
     },
   });
 }
@@ -1070,10 +1196,10 @@ const OUTSIDE_NOTES = {
 };
 const outside = [];
 for (const m of modules.values()) {
-  if (!m.path.startsWith('./src/app/modules/t2/') || /\/calculators\//.test(m.path)) continue;
+  if (!m.path.startsWith(MOD) || /\/calculators\//.test(m.path)) continue;
   let n = 0;
   walk.simple(m.fn, { CallExpression(c) { if (['dirtify', 'reportValueOn', 'reportValue', 'addTo', 'subFrom', 'calcTotal'].includes(short(c.callee))) n++; } });
-  if (n) outside.push({ path: m.path.replace('./src/app/modules/t2/', ''), n });
+  if (n) outside.push({ path: m.path.replace(MOD, ''), n });
 }
 
 // the TODO notes AuraTax left in its own calculators
@@ -1082,7 +1208,7 @@ for (const path of new Set(registry.map((r) => r.path))) {
   const fn = byPath.get(path).fn;
   for (const c of comments) {
     if (c.start > fn.start && c.end < fn.end && /\btodo\b/i.test(c.value)) {
-      todos.push(`- \`${path.replace('./src/app/modules/t2/calculators/', '')}\` L${SRC.slice(0, c.start).split('\n').length}: ${c.value.trim().replace(/\s+/g, ' ')}`);
+      todos.push(`- \`${path.replace(`${MOD}calculators/`, '')}\` L${SRC.slice(0, c.start).split('\n').length}: ${c.value.trim().replace(/\s+/g, ' ')}`);
     }
   }
 }
@@ -1091,18 +1217,18 @@ for (const path of new Set(registry.map((r) => r.path))) {
 const fnHome = (() => {
   for (const f of readdirSync(WEB).filter((x) => x.endsWith('.js'))) {
     const t = readFileSync(join(WEB, f), 'utf8');
-    const m = t.match(/!\*\*\* (\.\/src\/app\/modules\/t2\/t2-functions\.ts) \*\*\*!/);
+    const m = t.match(new RegExp(`!\\*\\*\\* (\\./src/app/modules/${PROG}/${PROG}-functions\\.ts) \\*\\*\\*!`));
     if (m) return `\`${m[1]}\` in \`${f}\``;
   }
-  return 'the shared AuraTax T2 functions module';
+  return `the shared AuraTax ${P} functions module`;
 })();
 
 const pct = (a, b) => `${((100 * a) / b).toFixed(1)}%`;
 const unresolvedN = entries.filter((e) => e.targetSch === '?' || /[{}]/.test(e.targetKey)).length;
 const exactN = entries.filter((e) => e.exact).length;
 const readme = [
-  '# AuraTax T2 calculation formulas', '',
-  `Every T2 line AuraTax ${version} calculates, with its formula, the conditions it applies under, and where`,
+  `# AuraTax ${P} calculation formulas`, '',
+  `Every ${P} line AuraTax ${version} calculates, with its formula, the conditions it applies under, and where`,
   'it sits in the AuraTax code. Generated by `tools/formulas.mjs` from the shipped calculator bundle. Do not edit by hand.', '',
   '**Not a primary source.** This is what AuraTax computes, not what the law or the CRA form says. A formula here',
   'is a pointer to check against the CRA form; never copy one into ca-tax, the BE or the FE.', '',
@@ -1110,8 +1236,8 @@ const readme = [
   '| | |', '|---|---|',
   `| AuraTax | ${version} |`,
   `| Calculator bundle | \`${chunkName}\` (sha256 \`${chunkSha.slice(0, 16)}…\`) |`,
-  `| Rate date T2 uses | ${rateDate} (\`conf.json\` \`lastCalcParamDate\`); no other date of the rate table is read |`,
-  `| Calculators | ${registry.length} registrations in \`calculators/t2.ts\`, ${stats.calcFunctions} calculation functions |`, '',
+  `| Rate date ${P} uses | ${rateDate} (\`conf.json\` \`lastCalcParamDate\`); no other date of the rate table is read |`,
+  `| Calculators | ${registry.length} registrations in \`calculators/${PROG}.ts\`, ${stats.calcFunctions} calculation functions |`, '',
   '## Completeness', '',
   'Every call that sets a value in the calculator modules was counted independently of the translation, and each one',
   'is recorded. Fixed lists (`[\'115\', \'120\'].forEach(...)`) are expanded into one entry per line.', '',
@@ -1158,7 +1284,7 @@ const readme = [
   '| Schedule | Name | Entries |', '|---|---|---|',
   ...schCodes.map((c) => `| [${c === '?' ? 'unresolved' : c}](schedules/${c === '?' ? '_unresolved' : c}.md) | ${esc(specs[c]?.name ?? '')} | ${bySch.get(c).length} |`), '',
   '## Calculation order', '',
-  ...registry.map((r) => `${r.order}. Sch ${r.sch}: \`${r.path.replace('./src/app/modules/t2/calculators/', '')}\` (\`${r.exp}\`)`), '',
+  ...registry.map((r) => `${r.order}. Sch ${r.sch}: \`${r.path.replace(`${MOD}calculators/`, '')}\` (\`${r.exp}\`)`), '',
   '## Values set outside the calculators', '',
   'Not formulas: prefills and user-confirmed corrections in validators and services.', '',
   '| Module | Calls | What it does |', '|---|---|---|',
@@ -1182,6 +1308,253 @@ const readme = [
 ];
 writeFileSync(join(OUT, 'README.md'), `${readme.join('\n')}\n`);
 
+// ── validators: every check AuraTax runs on a line ─────────────────────────
+// For each schedule's validator object ({ '002': (sch, at1) => {...}, ... }),
+// every value it can return: the message (English text from the shipped i18n,
+// with its parameters rendered), the severity, and the conditions on the way.
+const validatorEntries = [];
+const vstats = { modules: 0, validators: 0, returns: 0, messages: 0, unresolved: 0 };
+const loadMessages = () => {
+  for (const f of readdirSync(WEB).filter((x) => x.endsWith('.js'))) {
+    const t = readFileSync(join(WEB, f), 'utf8');
+    if (!t.includes('!*** ./src/app/i18n/messages/en/')) continue;
+    let found = null;
+    walk.simple(acorn.parse(t, { ecmaVersion: 'latest' }), {
+      CallExpression(c) {
+        if (c.callee.type === 'MemberExpression' && c.callee.object.name === 'JSON' && c.callee.property.name === 'parse'
+          && c.arguments[0]?.type === 'Literal' && typeof c.arguments[0].value === 'string') {
+          try { const o = JSON.parse(c.arguments[0].value); if (o.app || o.t2 || o.at1) found = o.app ? o : { app: o }; } catch { /* not the messages */ }
+        }
+      },
+    });
+    if (found) return { file: f, messages: found };
+  }
+  return { file: null, messages: {} };
+};
+const MESSAGES = args.includes('--validators') ? loadMessages() : { file: null, messages: {} };
+const messageText = (key) => key.split('.').reduce((o, k) => (o && typeof o === 'object' ? o[k] : undefined), MESSAGES.messages);
+
+// module-level functions of a module, by name (function declarations and const arrows)
+function moduleFunctions(modFn) {
+  const fns = new Map();
+  for (const st of modFn.body.body ?? []) {
+    if (st.type === 'FunctionDeclaration' && st.id) fns.set(st.id.name, st);
+    if (st.type === 'VariableDeclaration') for (const d of st.declarations) {
+      if (d.id.type === 'Identifier' && d.init && /Function/.test(d.init.type)) fns.set(d.id.name, d.init);
+    }
+  }
+  return fns;
+}
+
+// returns whose nearest enclosing function is fn (a concise arrow body counts as one)
+function returnsOf(fn) {
+  if (fn.body.type !== 'BlockStatement') return [{ node: fn.body, ancestors: [fn] }];
+  const out = [];
+  walk.ancestor(fn.body, {
+    ReturnStatement(r, _s, anc) {
+      const nearest = [...anc].reverse().find((n) => /Function/.test(n.type));
+      if (!nearest || nearest === fn) out.push({ node: r.argument, ancestors: [fn, ...anc] });
+    },
+  });
+  return out;
+}
+
+const SEVERITY = { WARN: 'warning', WARNING: 'warning', ERROR: 'error', INFO: 'info', ERR: 'error' };
+
+// Every message a returned value can be, with the conditions inside helpers.
+function messagesOf(node, scope, ctx, fns, depth, conds) {
+  const n = unwrap(node);
+  if (!n || depth > 4) return n ? [{ unresolved: raw(n), conds }] : [];
+  if (n.type === 'Identifier') {
+    if (n.name === 'undefined') return [];
+    const b = scope.lookup(n.name);
+    if (b?.node && !b.steps) return messagesOf(b.node, b.scope ?? scope, ctx, fns, depth + 1, conds);
+    return [{ unresolved: raw(n), conds }];
+  }
+  if (n.type === 'Literal' && (n.value === null || n.value === false)) return [];
+  if (n.type === 'ConditionalExpression') {
+    return [
+      ...messagesOf(n.consequent, scope, ctx, fns, depth, [...conds, renderTest(n.test, scope, ctx)]),
+      ...messagesOf(n.alternate, scope, ctx, fns, depth, [...conds, negate(renderTest(n.test, scope, ctx))]),
+    ];
+  }
+  if (n.type === 'LogicalExpression' && n.operator === '&&') {
+    return messagesOf(n.right, scope, ctx, fns, depth, [...conds, renderTest(n.left, scope, ctx)]);
+  }
+  if (n.type === 'ObjectExpression') {
+    const prop = (k) => n.properties.find((p) => p.type === 'Property' && (p.key.name ?? p.key.value) === k)?.value;
+    if (prop('msg')) {
+      const typeTxt = prop('type') ? (short(prop('type')) ?? raw(prop('type'))) : '';
+      const tk = typeTxt.split('.').pop().replace(/['"]/g, '').toUpperCase();
+      const sev = SEVERITY[tk] ?? (typeTxt || 'unspecified');
+      return [{ msgNode: prop('msg'), scope, severity: sev, focus: prop('focusField') ? render(prop('focusField'), scope, ctx) : '', conds }];
+    }
+    return [{ unresolved: raw(n), conds }];
+  }
+  if (n.type === 'CallExpression') {
+    // a helper defined in this module (warn(...), mustEqualIfSch(...)): follow it with its arguments bound
+    const name = short(n.callee);
+    const callee = unwrap(n.callee);
+    let f = name && fns.get(name);
+    let fScope = null;
+    if (!f) { const r = resolve(callee, scope); if (r?.node && /Function/.test(unwrap(r.node).type)) { f = unwrap(r.node); fScope = r.scope; } }
+    if (f) {
+      const params = new Map(f.params.map((p, i) => {
+        if (p.type === 'Identifier') return [p.name, n.arguments[i] ? { node: n.arguments[i], scope } : { text: 'blank' }];
+        if (p.type === 'AssignmentPattern') return [p.left.name, n.arguments[i] ? { node: n.arguments[i], scope } : { node: p.right, scope }];
+        return [raw(p), { text: raw(p) }];
+      }));
+      const fs = new Scope(fScope ?? scope, params);
+      for (const [k, v] of declsIn(f, Infinity)) if (!fs.vars.has(k)) fs.vars.set(k, { ...v, scope: fs });
+      const out = [];
+      for (const r of returnsOf(f)) {
+        const inner = conditionsOf(r.ancestors, r.node, fs, ctx, '');
+        out.push(...messagesOf(r.node, fs, ctx, fns, depth + 1, [...conds, ...inner]));
+      }
+      return out;
+    }
+    return [{ unresolved: raw(n), conds }];
+  }
+  return [{ unresolved: raw(n), conds }];
+}
+
+// t('app.at1.s012.netIncome', { amount: … }) -> the English sentence, parameters shown as ⟨…⟩
+function messageOf(node, scope, ctx) {
+  let n = unwrap(node);
+  for (let i = 0; i < 6 && n?.type === 'Identifier'; i++) {
+    const b = scope.lookup(n.name);
+    if (!b?.node) break;
+    scope = b.scope ?? scope; n = unwrap(b.node);
+  }
+  if (n?.type === 'CallExpression' && short(n.callee) === 't' && unwrap(n.arguments[0])?.type === 'Literal') {
+    const key = unwrap(n.arguments[0]).value;
+    const tmpl = messageText(key);
+    const ps = unwrap(n.arguments[1]);
+    const vals = {};
+    if (ps?.type === 'ObjectExpression') for (const p of ps.properties) if (p.type === 'Property') vals[p.key.name ?? p.key.value] = render(p.value, scope, ctx).replace(/^'([^']*)'$/, '$1');
+    if (typeof tmpl !== 'string') return { key, text: `(no English text for ${key})`, found: false };
+    return { key, text: tmpl.replace(/\{(\w+)\}/g, (m, k) => (k in vals ? `⟨${vals[k]}⟩` : m)), found: true };
+  }
+  return { key: '', text: render(n, scope, ctx), found: false };
+}
+
+function collectValidators() {
+  const regMod = byPath.get(`${MOD}validators/${PROG}.ts`);
+  if (!regMod) return;
+  const vars = modVarToPath(regMod.fn);
+  const reg = [];
+  walk.simple(regMod.fn, {
+    VariableDeclarator(d) {
+      if (d.id.name !== `${P}_VALIDATORS` || d.init?.type !== 'ObjectExpression') return;
+      for (const p of d.init.properties) {
+        if (p.type !== 'Property' || p.value.type !== 'MemberExpression') continue;
+        reg.push({ sch: String(p.key.value ?? p.key.name), path: vars.get(p.value.object.name), exp: p.value.property.name ?? p.value.property.value });
+      }
+    },
+  });
+  for (const r of reg) {
+    const mod = byPath.get(r.path);
+    if (!mod) continue;
+    vstats.modules++;
+    let obj = null;
+    walk.simple(mod.fn, { VariableDeclarator(d) { if (d.id.name === r.exp) obj = d.init; } });
+    if (obj?.type !== 'ObjectExpression') continue;
+    const moduleScope = new Scope(null, declsIn(mod.fn, Infinity));
+    const fns = moduleFunctions(mod.fn);
+    const schCode = realSch(r.sch);
+    // one (line, function, extra bindings) per validator, expanding spreads and generated tables
+    const items = [];
+    const fromObject = (o, extra) => {
+      for (const p of o.properties) {
+        if (p.type === 'SpreadElement') {
+          const t = unwrap(p.argument);
+          const target = t.type === 'Identifier' ? resolve(t, moduleScope)?.node : t;
+          if (unwrap(target)?.type === 'ObjectExpression' && unwrap(target).properties.length) { fromObject(unwrap(target), extra); continue; }
+          // const X = {}; Object.keys(MAP).forEach(code => { X[code] = (sch, at1) => ... })
+          if (t.type === 'Identifier') {
+            walk.simple(mod.fn, {
+              CallExpression(c) {
+                if (methodName(c.callee) !== 'forEach') return;
+                const keysCall = unwrap(c.callee.object);
+                if (keysCall?.type !== 'CallExpression' || raw(keysCall.callee) !== 'Object.keys') return;
+                const cb = unwrap(c.arguments[0]);
+                if (!cb || !/Function/.test(cb.type)) return;
+                let assigned = null;
+                walk.simple(cb.body, { AssignmentExpression(a) { if (a.left.type === 'MemberExpression' && a.left.object.name === t.name && /Function/.test(a.right.type)) assigned = a.right; } });
+                if (!assigned) return;
+                const map = resolve(keysCall.arguments[0], moduleScope)?.node;
+                if (unwrap(map)?.type !== 'ObjectExpression') return;
+                for (const mp of unwrap(map).properties) {
+                  const k = String(mp.key.value ?? mp.key.name);
+                  items.push({ line: k, fn: assigned, extra: new Map([...extra, [cb.params[0].name, { node: { type: 'Literal', value: k, start: c.start, end: c.start } }]]) });
+                }
+              },
+            });
+          }
+          continue;
+        }
+        if (p.type !== 'Property') continue;
+        const k = String(p.key.value ?? p.key.name);
+        const v = unwrap(p.value);
+        if (/Function/.test(v.type)) { items.push({ line: k, fn: v, extra }); continue; }
+        // '070': equalsFederal('070', ['310', '410', '510']): a module helper that returns the validator
+        if (v.type === 'CallExpression') {
+          const f = fns.get(short(v.callee));
+          const made = f && (/Function/.test(unwrap(f.body)?.type) ? unwrap(f.body)
+            : f.body.type === 'BlockStatement' ? unwrap(f.body.body.find((st) => st.type === 'ReturnStatement')?.argument) : null);
+          if (made && /Function/.test(made.type)) {
+            const bound = new Map(extra);
+            f.params.forEach((pp, i) => { if (pp.type === 'Identifier' && v.arguments[i]) bound.set(pp.name, { node: v.arguments[i] }); });
+            items.push({ line: k, fn: made, extra: bound });
+            continue;
+          }
+        }
+        items.push({ line: k, alias: raw(v), extra });
+      }
+    };
+    fromObject(obj, new Map());
+    for (const it of items) {
+      vstats.validators++;
+      if (it.alias) {
+        validatorEntries.push({ schedule: schCode, line: it.line, severity: '', message: `same checks as ${it.alias}`, key: '', conditions: [], module: r.path.replace(MOD, ''), fn: it.line, chunkLine: 0, exact: false });
+        continue;
+      }
+      const base = new Scope(moduleScope, new Map(it.extra));
+      const [p0, p1] = it.fn.params.map((x) => x.name);
+      if (p0) base.vars.set(p0, { sch: { kind: 'this', code: schCode } });
+      if (p1) base.vars.set(p1, { t2: true, text: 'the return' });
+      for (const [k, v] of declsIn(it.fn, Infinity)) if (!base.vars.has(k)) base.vars.set(k, { ...v, scope: base });
+      for (const r2 of returnsOf(it.fn)) {
+        vstats.returns++;
+        const ctx = new Ctx(schCode);
+        // conditions on the way to this return (inside the validator itself)
+        const outer = conditionsOf(r2.ancestors, r2.node ?? it.fn, base, ctx, '');
+        for (const m of messagesOf(r2.node, base, ctx, fns, 0, outer)) {
+          if (m.unresolved) {
+            vstats.unresolved++;
+            validatorEntries.push({ schedule: schCode, line: it.line, severity: '?', message: `⟦${m.unresolved}⟧`, key: '', conditions: m.conds, module: r.path.replace(MOD, ''), fn: it.line, chunkLine: lineOf(r2.node ?? it.fn), exact: false });
+            continue;
+          }
+          const msg = messageOf(m.msgNode, m.scope, ctx);
+          vstats.messages++;
+          validatorEntries.push({
+            schedule: schCode, line: it.line, severity: m.severity, message: msg.text, key: msg.key, focus: m.focus,
+            conditions: m.conds, module: r.path.replace(MOD, ''), fn: it.line, chunkLine: lineOf(r2.node ?? it.fn),
+            exact: msg.found && ctx.asWritten.length === 0,
+          });
+        }
+      }
+    }
+  }
+}
+if (args.includes('--validators')) {
+  collectValidators();
+  const vcsv = [['schedule', 'line', 'severity', 'message', 'message_key', 'focus', 'conditions', 'exact', 'module', 'chunk_line'].join(',')];
+  for (const v of validatorEntries) vcsv.push([v.schedule, v.line, v.severity, v.message, v.key, v.focus ?? '', v.conditions.join(' ; and '), v.exact, v.module, v.chunkLine].map(csvCell).join(','));
+  writeFileSync(join(OUT, 'validators.csv'), `﻿${vcsv.join('\n')}\n`);
+  console.error(`validators: ${JSON.stringify({ ...vstats, entries: validatorEntries.length, messagesFile: MESSAGES.file })}`);
+}
+
 const stat = {
   auratax: version, chunk: chunkName, chunkSha256: chunkSha, rateDate,
   calculators: stats.modules, calcFunctions: stats.calcFunctions,
@@ -1189,7 +1562,7 @@ const stat = {
   entries: entries.length, exact: stats.exact, partlyAsWritten: stats.partial, unresolvedTargets: stats.unresolvedTarget,
   schedules: schCodes.length,
   namedFunctions: Object.fromEntries([...named.entries()].sort((a, b) => b[1] - a[1])),
-  registry: registry.map((r) => `${r.order}. ${r.sch} ← ${r.path.replace('./src/app/modules/t2/calculators/', '')} (${r.exp})`),
+  registry: registry.map((r) => `${r.order}. ${r.sch} ← ${r.path.replace(`${MOD}calculators/`, '')} (${r.exp})`),
 };
 writeFileSync(join(OUT, 'stats.json'), `${JSON.stringify(stat, null, 1)}\n`);
 console.log(JSON.stringify({ ...stat, namedFunctions: Object.keys(stat.namedFunctions).length, registry: stat.registry.length }));

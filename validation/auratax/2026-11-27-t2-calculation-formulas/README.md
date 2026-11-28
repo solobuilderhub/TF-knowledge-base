@@ -30,10 +30,10 @@ is recorded. Fixed lists (`['115', '120'].forEach(...)`) are expanded into one e
 | Call sites recorded | 3501 |
 | **Call sites missing** | **0** |
 | Totals from `refs/total-index.json` | 275 |
-| Entries in the register | 3878 |
-| Translated exactly | 3873 (99.9%) |
+| Entries in the register | 3887 |
+| Translated exactly | 3882 (99.9%) |
 | Partly shown as written (⟦…⟧, listed on the schedule page) | 5 |
-| Target line depends on data (see [_unresolved.md](schedules/_unresolved.md)) | 36 |
+| Target line depends on data (see [_unresolved.md](schedules/_unresolved.md)) | 35 |
 
 
 ## How AuraTax calculates
@@ -217,7 +217,7 @@ is recorded. Fixed lists (`['115', '120'].forEach(...)`) are expanded into one e
 | [t2ws1](schedules/t2ws1.md) | Calculating your estimated tax payable and tax credits for 2027 | 8 |
 | [t2ws2](schedules/t2ws2.md) | Calculating your monthly instalment payments for 2027 | 20 |
 | [t2ws3](schedules/t2ws3.md) | Calculating your quarterly instalment payments for 2027 | 20 |
-| [T183](schedules/T183.md) | Information Return for Corporations Filing Electronically | 1 |
+| [T183](schedules/T183.md) | Information Return for Corporations Filing Electronically | 10 |
 | [T1141_Sup](schedules/T1141_Sup.md) | T1141 Supplement | 4 |
 | [T1142_Sup](schedules/T1142_Sup.md) | T1142 Supplement | 6 |
 | [T1174](schedules/T1174.md) | Agreement Between Associated Corporations to Allocate Salary or Wages of Specified Employees for Scientific Research and Experimental Development (SR&ED) | 2 |
@@ -486,7 +486,6 @@ Defined in `./src/app/modules/t2/t2-functions.ts` in `366.7fb2dfea94d6cbd0.js`, 
 | `taxPeriod.start` | 6 |
 | `RETURN_UTIL.taxYearWeeks` | 5 |
 | `t2.businessNumber` | 4 |
-| `String` | 4 |
 | `addOns.length` | 4 |
 | `countriesObj.hasOwnProperty` | 4 |
 | `PROVINCE.incomeTaxRate` | 4 |

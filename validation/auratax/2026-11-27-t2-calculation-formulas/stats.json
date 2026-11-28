@@ -13,10 +13,10 @@
   "reportValueOn": 335,
   "addTo": 5
  },
- "entries": 3878,
- "exact": 3598,
+ "entries": 3887,
+ "exact": 3607,
  "partlyAsWritten": 5,
- "unresolvedTargets": 36,
+ "unresolvedTargets": 35,
  "schedules": 148,
  "namedFunctions": {
   "CORP.establishedProvinces": 558,
@@ -84,7 +84,6 @@
   "taxPeriod.start": 6,
   "RETURN_UTIL.taxYearWeeks": 5,
   "t2.businessNumber": 4,
-  "String": 4,
   "addOns.length": 4,
   "countriesObj.hasOwnProperty": 4,
   "PROVINCE.incomeTaxRate": 4,

@@ -43,8 +43,11 @@ validation rules and cross-schedule flows, for T2, AT1 and CO-17.
 register, compares it with ca-tax, and holds the scripts to redo both after an
 AuraTax update. `auratax/2026-11-27-t2-calculation-formulas/` documents every T2
 line its calculator code computes: the formula, the conditions, and the exact
-source. Like everything here, both are pointers to the CRA/TRA document, never a
-source of line numbers or rules.
+source. `auratax/2026-11-28-at1-rules-draft/` rebuilds a Chapter-3-style rules
+document for AT1 from AuraTax's formulas, rule flags and checks, and grades it
+against the real Chapter 3, to see how far the same method can be trusted for T2.
+Like everything here, these are pointers to the CRA/TRA document, never a source
+of line numbers or rules.
 
 The competitive teardown — product surface, pricing, workflow, where they are
 beatable — lives in `internal/competitive/auratax/` and is deliberately NOT here.
